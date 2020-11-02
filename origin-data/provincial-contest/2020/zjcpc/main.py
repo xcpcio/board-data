@@ -84,19 +84,22 @@ def team_out():
         new_item['name'] = item['team']
         new_item['info'] = item['members']
         type = item['type'].split(" ")
-        for tp in type:
-            if tp == 'type1':
-                new_item['undergraduate'] = 1
-                new_item['official'] = 1
-            elif tp == 'type2':
-                new_item['junior'] = 1
-                new_item['official'] = 1
-            elif tp == 'type3':
-                new_item['highschool'] = 1
-            elif tp == 'girls':
-                new_item['girl'] = 1
-            else:
-                new_item[tp] = 1
+        if 'unofficial' in type:
+            new_item['unofficial'] = 1
+        else:
+            for tp in type:
+                if tp == 'type1':
+                    new_item['undergraduate'] = 1
+                    new_item['official'] = 1
+                elif tp == 'type2':
+                    new_item['junior'] = 1
+                    new_item['official'] = 1
+                elif tp == 'type3':
+                    new_item['highschool'] = 1
+                elif tp == 'girls':
+                    new_item['girl'] = 1
+                else:
+                    new_item[tp] = 1
     output("team.json", team)
         
 def run_out():
@@ -106,7 +109,7 @@ def run_out():
         new_item = {}
         new_item['team_id'] = item[0]
         new_item['problem_id'] = problem_id.index(item[1])
-        new_item['timestamp'] = int(item[2] // 1000)
+        new_item['timestamp'] = (int(item[2] // 1000) // 60) * 60
         status = item[3]
         if status == 'AC':
             new_item['status'] = 'correct'
