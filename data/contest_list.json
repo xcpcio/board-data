@@ -70,6 +70,15 @@
             }
         },
         "2019":{
+            "nanchang":{
+                "config":{
+                    "contest_name":"The 44th ICPC International Collegiate Programming Contest Asian Regional Contest (Nanchang)",
+                    "end_time":1573452000,
+                    "frozen_time":3600,
+                    "start_time":1573434000
+                },
+                "link":"/icpc/2019/nanchang"
+            },
             "world-finals":{
                 "config":{
                     "contest_name":"ICPC2019-43rd World Finals",
