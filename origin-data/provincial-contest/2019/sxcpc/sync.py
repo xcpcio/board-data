@@ -46,7 +46,7 @@ def urllib_download(img_url, dist):
     mkdir(path.split(dist)[0])
     urlretrieve(img_url, dist)
 
-def urltobase64(url):
+def urltobase64_(url):
     import base64
     import requests as req
     from io import BytesIO
@@ -57,6 +57,29 @@ def urltobase64(url):
     img_data_b64 = base64.b64encode(BytesIO(response.content).read())
     print(url + " downloaded.")
     return bytes.decode(img_data_b64)
+
+def urltobase64(url):
+    from PIL import Image
+    import urllib.request
+    from io import StringIO
+    from io import BytesIO
+    import base64
+
+    max_length = 32
+
+    print("downloading... " + url)
+    origin_file = BytesIO(urllib.request.urlopen(url).read())
+    img = Image.open(origin_file)
+    w, h = img.size
+    larger_side = max(w, h)
+    if larger_side > max_length:
+        img = img.resize((int(float(max_length) * w / larger_side),
+                          int(float(max_length) * h / larger_side)), Image.ANTIALIAS)
+    jpeg_image_buffer = BytesIO()
+    img.save(jpeg_image_buffer, format="PNG")
+    base64_str = base64.b64encode(jpeg_image_buffer.getvalue())
+    print(url + " downloaded.")
+    return bytes.decode(base64_str)
 
 def fetch():
     if 'board_url' in _params.keys():
@@ -167,7 +190,6 @@ def sync():
         print("fetching...")
         try:
             html = fetch()
-            # image_download(html)
             team_out(html)
             run_out(html)
             print("fetch successfully")
