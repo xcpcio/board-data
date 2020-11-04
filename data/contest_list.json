@@ -112,6 +112,15 @@
     },
     "provincial-contest":{
         "2019":{
+            "jscpc":{
+                "config":{
+                    "contest_name":"“SHEIN杯”2019年江苏省大学生程序设计大赛",
+                    "end_time":1557813600,
+                    "frozen_time":3600,
+                    "start_time":1557795600
+                },
+                "link":"/provincial-contest/2019/jscpc"
+            },
             "sdcpc":{
                 "config":{
                     "contest_name":"The 10th Shandong Provincial Collegiate Programming Contest",
