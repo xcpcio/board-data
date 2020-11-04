@@ -41,7 +41,7 @@ def dfs(contest_list, pathname, link):
         contest_list['link'] = link
     else:
         for _path in os.listdir(pathname):
-            if _path != 'contest_list.json':
+            if not _path in ['contest_list.json', '.DS_Store']:
                 contest_list[_path] = {}
                 dfs(contest_list[_path], path.join(pathname, _path), path.join(link, _path))
         

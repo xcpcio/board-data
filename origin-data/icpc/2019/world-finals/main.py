@@ -25,6 +25,16 @@ def output(filename, data):
     with open(path.join(data_dir, filename), 'w') as f:
         f.write(json_output(data))
 
+def urltobase64(url):
+    import base64
+    import requests as req
+    from io import BytesIO
+    # 图片保存在内存
+    response = req.get(url)
+    # 得到图片的base64编码
+    img_data_b64 = base64.b64encode(BytesIO(response.content).read())
+    return bytes.decode(img_data_b64)
+
 data_dir = "../../../../data/icpc/2019/world-finals"
 problem_num = 11
 problem_id = [chr(ord('A') + i) for i in range(problem_num)] 
@@ -51,6 +61,7 @@ balloon_color = [
     {'background_color': '#FD7C16' ,'color': '#fff' },
     {'background_color': '#009AE2', 'color': '#fff' },
 ]
+
 config = {
     'contest_name': 'ICPC2019-43rd World Finals',
     'start_time': get_timestamp("2019-4-4 09:00:00"),
@@ -62,7 +73,9 @@ config = {
     'medal': medal,
     'status_time_display': status_time_display,
     'penalty': 20 * 60,
-    'banner': 'images/logos.2019/banner.png',
+    'banner': {
+        'base64': str(urltobase64('https://icpc.global/scoreboard/images/logos.2019/banner.png'))
+    },
     'balloon_color': balloon_color,
     'badge': 'Badge',
 }

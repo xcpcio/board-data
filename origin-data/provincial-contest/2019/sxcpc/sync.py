@@ -46,6 +46,18 @@ def urllib_download(img_url, dist):
     mkdir(path.split(dist)[0])
     urlretrieve(img_url, dist)
 
+def urltobase64(url):
+    import base64
+    import requests as req
+    from io import BytesIO
+    print("downloading... " + url)
+    # 图片保存在内存
+    response = req.get(url)
+    # 得到图片的base64编码
+    img_data_b64 = base64.b64encode(BytesIO(response.content).read())
+    print(url + " downloaded.")
+    return bytes.decode(img_data_b64)
+
 def fetch():
     if 'board_url' in _params.keys():
         board_url = _params['board_url']
@@ -90,8 +102,11 @@ def team_out(html):
         if 'id' in tr.attrs:
             _team = {}
             team_id = tr['id']
-            badge_src = tr.select('img')[0]['src'].split('?')[0]
-            badge_src = badge_src[1:len(badge_src)]
+
+            img_src = tr.select('img')[0]['src'].split('?')[0]
+            img_src = img_src[1:len(img_src)]
+            badge_base64 = urltobase64(path.join(image_download_host, img_src))
+            
             name = tr.select('.scoretn')[0]['title']
             if len(tr.select('.cl_00ff00')) > 0:
                 _team['unofficial'] = 1
@@ -100,7 +115,7 @@ def team_out(html):
             _team['organization'] = tr.select('.univ')[0].string.split('\n')[1].strip()
             
             _team['badge'] = {}
-            _team['badge']['src'] = badge_src
+            _team['badge']['base64'] = badge_base64
             _team['name'] = name
             team[team_id] = _team
 
@@ -152,7 +167,7 @@ def sync():
         print("fetching...")
         try:
             html = fetch()
-            image_download(html)
+            # image_download(html)
             team_out(html)
             run_out(html)
             print("fetch successfully")
@@ -162,8 +177,4 @@ def sync():
         print("sleeping...")
         time.sleep(20)
 
-# sync()
-
-# image_download(fetch())
-# team_out(fetch())
-run_out(fetch())
+sync()

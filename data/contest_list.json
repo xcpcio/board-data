@@ -58,6 +58,17 @@
         }
     },
     "icpc":{
+        "2018":{
+            "world-finals":{
+                "config":{
+                    "contest_name":"ICPC2018-42nd World Finals",
+                    "end_time":1524117600,
+                    "frozen_time":3600,
+                    "start_time":1524099600
+                },
+                "link":"/icpc/2018/world-finals"
+            }
+        },
         "2019":{
             "world-finals":{
                 "config":{

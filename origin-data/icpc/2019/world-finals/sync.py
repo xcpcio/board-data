@@ -41,6 +41,18 @@ def mkdir(_path):
     if not path.exists(_path):
         os.makedirs(_path)
 
+def urltobase64(url):
+    import base64
+    import requests as req
+    from io import BytesIO
+    print("downloading... " + url)
+    # 图片保存在内存
+    response = req.get(url)
+    # 得到图片的base64编码
+    img_data_b64 = base64.b64encode(BytesIO(response.content).read())
+    print(url + " downloaded.")
+    return bytes.decode(img_data_b64)
+
 def urllib_download(img_url, dist):
     from urllib.request import urlretrieve
     mkdir(path.split(dist)[0])
@@ -87,13 +99,13 @@ def team_out(html):
         _team = {}
         _team['official'] = 1
         team_id = tr['id']
-        badge_src = tr.select('img')[0]['src']
+        badge_base64 = urltobase64(path.join(image_download_host, tr.select('img')[0]['src']))
         name = ""
         for item in tr.select('.scoretn')[0].children:
             name = item
         
         _team['badge'] = {}
-        _team['badge']['src'] = badge_src
+        _team['badge']['base64'] = badge_base64
         _team['name'] = name
         team[team_id] = _team
 
@@ -144,7 +156,7 @@ def sync():
         print("fetching...")
         try:
             html = fetch()
-            image_download(html)
+            # image_download(html)
             team_out(html)
             run_out(html)
             print("fetch successfully")
