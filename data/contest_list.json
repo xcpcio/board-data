@@ -1,6 +1,24 @@
 {
     "ccpc":{
         "2020":{
+            "changchun":{
+                "config":{
+                    "contest_name":"CCPC2020-第六届中国大学生程序设计竞赛（长春） 正式赛",
+                    "end_time":1604815200,
+                    "frozen_time":0,
+                    "start_time":1604797200
+                },
+                "link":"/ccpc/2020/changchun"
+            },
+            "changchun-warmup":{
+                "config":{
+                    "contest_name":"CCPC2020-第六届中国大学生程序设计竞赛（长春） 热身赛",
+                    "end_time":1604743200,
+                    "frozen_time":0,
+                    "start_time":1604732400
+                },
+                "link":"/ccpc/2020/changchun-warmup"
+            },
             "mianyang":{
                 "config":{
                     "contest_name":"CCPC2020-第六届中国大学生程序设计竞赛（绵阳） 正式赛",
