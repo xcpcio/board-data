@@ -43,7 +43,7 @@ config = {
     'group': group,
     'organization': 'School',
     'status_time_display': status_time_display,
-    'penalty': 20 * 60,
+    'penalty': 60 * 60,
 }
 
 def config_out():
