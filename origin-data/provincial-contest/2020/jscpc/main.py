@@ -27,7 +27,7 @@ def output(filename, data):
 
 raw_dir = "raw"
 data_dir = "../../../../data/provincial-contest/2020/jscpc"
-problem_num = 4
+problem_num = 5
 problem_id = [chr(ord('A') + i) for i in range(problem_num)] 
 group = {
 }
