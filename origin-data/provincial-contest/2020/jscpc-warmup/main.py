@@ -26,8 +26,8 @@ def output(filename, data):
         f.write(json_output(data))
 
 raw_dir = "raw"
-data_dir = "../../../../data/provincial-contest/2020/jscpc"
-problem_num = 12
+data_dir = "../../../../data/provincial-contest/2020/jscpc-warmup"
+problem_num = 5
 problem_id = [chr(ord('A') + i) for i in range(problem_num)] 
 group = {
 }
@@ -35,9 +35,9 @@ status_time_display = {
     'correct': 1,
 }
 config = {
-    'contest_name': '2020ICPC 江西省大学生程序设计竞赛',
-    'start_time': get_timestamp("2020-11-15 15:00:00"),
-    'end_time': get_timestamp("2020-11-15 20:00:00"),
+    'contest_name': '2020ICPC 江西省大学生程序设计竞赛热身赛',
+    'start_time': get_timestamp("2020-11-14 15:00:00"),
+    'end_time': get_timestamp("2020-11-14 18:00:00"),
     'frozen_time' : 0,
     'problem_id': problem_id,
     'group': group,
