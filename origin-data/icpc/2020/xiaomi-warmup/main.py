@@ -37,7 +37,7 @@ status_time_display = {
 config = {
     'contest_name': '2020 ICPC·小米邀请赛 决赛热身赛',
     'start_time': get_timestamp("2020-11-21 15:00:00"),
-    'end_time': get_timestamp("2020-11-21 16:00:00"),
+    'end_time': get_timestamp("2020-11-21 17:00:00"),
     'frozen_time' : 0,
     'problem_id': problem_id,
     'group': group,
