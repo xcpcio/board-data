@@ -31,6 +31,13 @@ problem_num = 13
 problem_id = [chr(ord('A') + i) for i in range(problem_num)] 
 group = {
 }
+medal = {
+    'official': {
+        'gold': 35,
+        'silver': 70,
+        'bronze': 115
+    }
+}
 status_time_display = {
     'correct': 1,
 }
@@ -45,6 +52,7 @@ config = {
     'status_time_display': status_time_display,
     'penalty': 20 * 60,
     "frozen_time": 60 * 60,
+    'medal': medal,
 }
 
 def config_out():

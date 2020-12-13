@@ -23,5 +23,12 @@
     "status_time_display":{
         "correct":1
     },
-    "penalty":1200
+    "penalty":1200,
+    "medal":{
+        "official":{
+            "gold":35,
+            "silver":70,
+            "bronze":115
+        }
+    }
 }
