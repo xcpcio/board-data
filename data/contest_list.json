@@ -117,6 +117,33 @@
                 },
                 "link":"/icpc/2020/practice-contest"
             },
+            "shanghai":{
+                "config":{
+                    "contest_name":"第 45 届国际大学生程序设计竞赛（ICPC）亚洲区域赛（上海）",
+                    "end_time":1607846400,
+                    "frozen_time":3600,
+                    "start_time":1607828400
+                },
+                "link":"/icpc/2020/shanghai"
+            },
+            "shanghai-warmup":{
+                "config":{
+                    "contest_name":"第 45 届国际大学生程序设计竞赛（ICPC）亚洲区域赛（上海）（热身赛）",
+                    "end_time":1607776200,
+                    "frozen_time":3600,
+                    "start_time":1607770800
+                },
+                "link":"/icpc/2020/shanghai-warmup"
+            },
+            "xiaomi":{
+                "config":{
+                    "contest_name":"2020 ICPC·小米邀请赛 决赛",
+                    "end_time":1606024800,
+                    "frozen_time":3600,
+                    "start_time":1606006800
+                },
+                "link":"/icpc/2020/xiaomi"
+            },
             "xiaomi-preliminary-contest-1":{
                 "config":{
                     "contest_name":"ICPC2020-ICPC·小米 网络选拔赛第一场",
@@ -134,6 +161,15 @@
                     "start_time":1604116800
                 },
                 "link":"/icpc/2020/xiaomi-preliminary-contest-2"
+            },
+            "xiaomi-warmup":{
+                "config":{
+                    "contest_name":"2020 ICPC·小米邀请赛 决赛热身赛",
+                    "end_time":1605949200,
+                    "frozen_time":900,
+                    "start_time":1605942000
+                },
+                "link":"/icpc/2020/xiaomi-warmup"
             }
         }
     },
@@ -168,6 +204,33 @@
             }
         },
         "2020":{
+            "henancpc":{
+                "config":{
+                    "contest_name":"“卓见杯”2020年河南省CCPC大学生程序设计竞赛",
+                    "end_time":1605949200,
+                    "frozen_time":0,
+                    "start_time":1605931200
+                },
+                "link":"/provincial-contest/2020/henancpc"
+            },
+            "jscpc":{
+                "config":{
+                    "contest_name":"2020ICPC 江西省大学生程序设计竞赛",
+                    "end_time":1605441600,
+                    "frozen_time":3600,
+                    "start_time":1605423600
+                },
+                "link":"/provincial-contest/2020/jscpc"
+            },
+            "jscpc-warmup":{
+                "config":{
+                    "contest_name":"2020ICPC 江西省大学生程序设计竞赛热身赛",
+                    "end_time":1605348000,
+                    "frozen_time":3600,
+                    "start_time":1605337200
+                },
+                "link":"/provincial-contest/2020/jscpc-warmup"
+            },
             "zjcpc":{
                 "config":{
                     "contest_name":"The 17th Zhejiang Provincial Collegiate Programming Contest Sponsored by TuSimple",
