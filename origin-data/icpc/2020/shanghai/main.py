@@ -42,7 +42,7 @@ status_time_display = {
     'correct': 1,
 }
 config = {
-    'contest_name': '第 45 届国际大学生程序设计竞赛（ICPC）亚洲区域赛（上海）',
+    'contest_name': '第 45 届国际大学生程序设计竞赛（ICPC）亚洲区域赛（上海）正式赛',
     'start_time': get_timestamp("2020-12-13 11:00:00"),
     'end_time': get_timestamp("2020-12-13 16:00:00"),
     'frozen_time' : 0,
