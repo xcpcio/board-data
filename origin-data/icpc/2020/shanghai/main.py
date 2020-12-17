@@ -30,6 +30,8 @@ data_dir = "../../../../data/icpc/2020/shanghai"
 problem_num = 13
 problem_id = [chr(ord('A') + i) for i in range(problem_num)] 
 group = {
+    "official":"正式队伍",
+    "unofficial":"打星队伍",
 }
 medal = {
     'official': {
@@ -45,14 +47,13 @@ config = {
     'contest_name': '第 45 届国际大学生程序设计竞赛（ICPC）亚洲区域赛（上海）正式赛',
     'start_time': get_timestamp("2020-12-13 11:00:00"),
     'end_time': get_timestamp("2020-12-13 16:00:00"),
-    'frozen_time' : 0,
     'problem_id': problem_id,
     'group': group,
     'organization': 'School',
     'status_time_display': status_time_display,
     'penalty': 20 * 60,
     "frozen_time": 60 * 60,
-    # 'medal': medal,
+    'medal': medal,
 }
 
 def config_out():
