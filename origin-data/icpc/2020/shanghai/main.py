@@ -43,6 +43,21 @@ medal = {
 status_time_display = {
     'correct': 1,
 }
+balloon_color = [
+    {'background_color': 'rgba(189, 14, 14, 0.7)', 'color': '#fff' },
+    {'background_color': 'rgba(255, 144, 228, 0.7)', 'color': '#fff' },
+    {'background_color': 'rgba(255, 255, 255, 0.7)', 'color': '#000' },
+    {'background_color': 'rgba(38, 185, 60, 0.7)', 'color': '#fff' },
+    {'background_color': 'rgba(239, 217, 9, 0.7)', 'color': '#000' },
+    {'background_color': 'rgba(243, 88, 20, 0.7)', 'color': '#fff' },
+    {'background_color': 'rgba(12, 76, 138, 0.7)', 'color': '#fff' },
+    {'background_color': 'rgba(156, 155, 155, 0.7)', 'color': '#fff' },
+    {'background_color': 'rgba(4, 154, 115, 0.7)', 'color': '#fff' },
+    {'background_color': 'rgba(159, 19, 236, 0.7)' ,'color': '#fff' },
+    {'background_color': 'rgba(42, 197, 202, 0.7)', 'color': '#fff' },
+    {'background_color': 'rgba(142, 56, 54, 0.7)', 'color': '#fff' },
+    {'background_color': 'rgba(0, 0, 0, 0.7)', 'color': '#fff'},
+]
 config = {
     'contest_name': '第 45 届国际大学生程序设计竞赛（ICPC）亚洲区域赛（上海）正式赛',
     'start_time': get_timestamp("2020-12-13 11:00:00"),
@@ -54,6 +69,7 @@ config = {
     'penalty': 20 * 60,
     "frozen_time": 60 * 60,
     'medal': medal,
+    'balloon_color': balloon_color,
 }
 
 def config_out():
