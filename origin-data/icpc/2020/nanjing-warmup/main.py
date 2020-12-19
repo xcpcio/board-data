@@ -48,6 +48,7 @@ config = {
     'organization': 'School',
     'status_time_display': status_time_display,
     'penalty': 20 * 60,
+    'frozen_time': 0,
     'balloon_color': balloon_color,
 }
 
