@@ -1,0 +1,37 @@
+{
+    "contest_name":"第 45 届国际大学生程序设计竞赛（ICPC）亚洲区域赛（南京）正式赛",
+    "start_time":1608433200,
+    "end_time":1608451200,
+    "problem_id":[
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "L",
+        "M"
+    ],
+    "group":{
+        "official":"正式队伍",
+        "unofficial":"打星队伍"
+    },
+    "organization":"School",
+    "status_time_display":{
+        "correct":1
+    },
+    "penalty":1200,
+    "frozen_time":3600,
+    "medal":{
+        "official":{
+            "gold":35,
+            "silver":70,
+            "bronze":115
+        }
+    }
+}

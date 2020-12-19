@@ -108,6 +108,24 @@
             }
         },
         "2020":{
+            "nanjing":{
+                "config":{
+                    "contest_name":"第 45 届国际大学生程序设计竞赛（ICPC）亚洲区域赛（南京）正式赛",
+                    "end_time":1608451200,
+                    "frozen_time":3600,
+                    "start_time":1608433200
+                },
+                "link":"/icpc/2020/nanjing"
+            },
+            "nanjing-warmup":{
+                "config":{
+                    "contest_name":"第 45 届国际大学生程序设计竞赛（ICPC）亚洲区域赛（南京）热身赛",
+                    "end_time":1608381000,
+                    "frozen_time":3600,
+                    "start_time":1608375600
+                },
+                "link":"/icpc/2020/nanjing-warmup"
+            },
             "practice-contest":{
                 "config":{
                     "contest_name":"ICPC2020-第 45 届国际大学生程序设计竞赛亚洲网上区域赛模拟赛",
