@@ -34,6 +34,11 @@ group = {
 status_time_display = {
     'correct': 1,
 }
+balloon_color = [
+    {'background_color': '#bd0e0e', 'color': '#fff' },
+    {'background_color': '#ff90e4', 'color': '#fff' },
+    {'background_color': '#26b93c', 'color': '#fff' },
+]
 config = {
     'contest_name': '第 45 届国际大学生程序设计竞赛（ICPC）亚洲区域赛（南京）热身赛',
     'start_time': get_timestamp("2020-12-19 19:00:00"),
@@ -43,7 +48,8 @@ config = {
     'organization': 'School',
     'status_time_display': status_time_display,
     'penalty': 20 * 60,
-    "frozen_time": 60 * 60,
+    'frozen_time': 60 * 60,
+    'balloon_color': balloon_color,
 }
 
 def config_out():
