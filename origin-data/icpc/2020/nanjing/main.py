@@ -30,9 +30,11 @@ data_dir = "../../../../data/icpc/2020/nanjing"
 problem_num = 13
 problem_id = [chr(ord('A') + i) for i in range(problem_num)] 
 group = {
+    "official":"正式队伍",
+    "unofficial":"打星队伍",
 }
 medal = {
-    'all': {
+    'official': {
         'gold': 35,
         'silver': 70,
         'bronze': 105
