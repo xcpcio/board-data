@@ -66,7 +66,9 @@ def team_out():
         new_item = team[key]
         new_item['organization'] = item['school']
         new_item['name'] = item['team']
-        new_item['info'] = item['members']
+        members = item['members'].split('，')
+        members.sort()
+        new_item['members'] = members
         type = item['type'].split(" ")
         for tp in type:
             if tp == 'girls':
