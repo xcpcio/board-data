@@ -43,6 +43,9 @@ board_url = _params['board_url']
 start_time = get_timestamp(_params['start_time'])
 end_time = get_timestamp(_params['end_time'])
 contest_id = _params['contest_id']
+team_data = None
+if 'team_data' in _params.keys():
+    team_data = _params['team_data']
 
 unofficial_organization = []
 unofficial_team_name = []
@@ -111,6 +114,27 @@ def team_output(res_list):
                 if 'official' in _team.keys():
                     del _team['official']
             teams[team_id] = _team
+    if team_data is not None:
+        _team = {}
+        with open(team_data, 'r', encoding='utf-8') as f:
+            for line in f.read().split('\n'):
+                line = line.split(' ')
+                item = {}
+                item['organization'] = line[1]
+                item['name'] = line[-4]
+                item['english_name'] = ' '.join(line[2:-4])
+                members = [line[-i] for i in range(1, 4)]
+                members.sort()
+                item['members'] = members
+                _team['-'.join([item['organization'], item['name']])] = item
+        for k in teams.keys():
+            _k = '-'.join([teams[k]['organization'], teams[k]['name']])
+            if _k not in _team.keys():
+                print(_k)
+            else:
+                for __k in _team[_k].keys():
+                    if __k not in teams[k].keys():
+                        teams[k][__k] = _team[_k][__k]
     if len(teams.keys()) > 0:
         output("team.json", teams)
                     
