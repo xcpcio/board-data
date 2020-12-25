@@ -52,7 +52,6 @@ def team_output(res):
         members = [item['teamMembers'][i]['name'] for i in range(1, 4)]
         members.sort()
         _item['members'] = members
-        _item['info'] = "、".join([item['teamMembers'][i]['name'] for i in range(4)])
         if item['official'] == True:
             _item['official'] = 1
         else:
