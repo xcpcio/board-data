@@ -30,6 +30,8 @@ data_dir = "../../../../data/icpc/2020/nanjing-warmup"
 problem_num = 3
 problem_id = [chr(ord('A') + i) for i in range(problem_num)] 
 group = {
+    "official":"正式队伍",
+    "unofficial":"打星队伍",
 }
 status_time_display = {
     'correct': 1,
