@@ -3,7 +3,6 @@
         "name":"逆十字",
         "organization":"北京大学",
         "official":1,
-        "english_name":"inverted cross",
         "members":[
             "周雨扬",
             "孔朝哲",
@@ -14,7 +13,6 @@
         "name":"小喵喵不喜欢计算几何",
         "organization":"复旦大学",
         "official":1,
-        "english_name":"delete[] ComputationalGeometry;",
         "members":[
             "刘明君",
             "薛振梁",
@@ -25,7 +23,6 @@
         "name":"小万邦",
         "organization":"清华大学",
         "official":1,
-        "english_name":"Little Ten ThousandStates",
         "members":[
             "房励行",
             "王思齐",
@@ -36,7 +33,6 @@
         "name":"辛几何旋律",
         "organization":"西安电子科技大学",
         "official":1,
-        "english_name":"SymplecticGeometric Rhythm",
         "members":[
             "冯畅",
             "周灿",
@@ -47,7 +43,6 @@
         "name":"我垫你们底",
         "organization":"北京大学",
         "official":1,
-        "english_name":"wdnmd",
         "members":[
             "叶炜宁",
             "周驿东",
@@ -57,23 +52,37 @@
     "1030001338":{
         "name":"吾有一數，名之曰「誒」",
         "organization":"杭州电子科技大学",
-        "official":1
+        "official":1,
+        "members":[
+            "侯津涛",
+            "白旭东",
+            "郑凯心"
+        ]
     },
     "1030001649":{
         "name":"赛博大学人会梦到空中云课堂么？",
         "organization":"香港大学",
-        "official":1
+        "official":1,
+        "members":[
+            "刘柏成",
+            "吕治衡",
+            "姜佳禾"
+        ]
     },
     "1030001679":{
         "name":"Solitary Dream",
         "organization":"浙江大学",
-        "official":1
+        "official":1,
+        "members":[
+            "于倚岑",
+            "彭博",
+            "褚写庭"
+        ]
     },
     "1030001557":{
         "name":"空隙之线",
         "organization":"上海交通大学",
         "official":1,
-        "english_name":"Gap-linio",
         "members":[
             "倪文韬",
             "唐嘉铭",
@@ -84,7 +93,6 @@
         "name":"SYSU_午餐奶",
         "organization":"中山大学",
         "official":1,
-        "english_name":"SYSU_LunchMilk",
         "members":[
             "傅畅",
             "刘宇轩",
@@ -95,7 +103,6 @@
         "name":"纸上牧羊",
         "organization":"广东外语外贸大学",
         "official":1,
-        "english_name":"SOTpaper",
         "members":[
             "曾迪鸿",
             "林冠权",
@@ -106,7 +113,6 @@
         "name":"SYSU_未完待续",
         "organization":"中山大学",
         "official":1,
-        "english_name":"SYSU_To becontinued",
         "members":[
             "叶汇亘",
             "牛彦栋",
@@ -117,7 +123,6 @@
         "name":"崂山啤酒酒花",
         "organization":"北京交通大学",
         "official":1,
-        "english_name":"lspjjh",
         "members":[
             "张雨辰",
             "许铮睿",
@@ -128,7 +133,6 @@
         "name":"人下人下人下人",
         "organization":"清华大学",
         "official":1,
-        "english_name":"under all people",
         "members":[
             "姜迅驰",
             "曾致远",
@@ -139,7 +143,6 @@
         "name":"浮夸的鹏鹏",
         "organization":"清华大学",
         "official":1,
-        "english_name":"Best Pizza",
         "members":[
             "周禹",
             "肖士程",
@@ -150,7 +153,6 @@
         "name":"奔跑的小菜鸡",
         "organization":"北京航空航天大学",
         "official":1,
-        "english_name":"running_chicken",
         "members":[
             "张瑞星",
             "薛欣",
@@ -161,7 +163,6 @@
         "name":"Refrain",
         "organization":"浙江大学",
         "official":1,
-        "english_name":"Refrain",
         "members":[
             "冯骁",
             "卢旻昊",
@@ -172,7 +173,6 @@
         "name":"奥德修斯之筏",
         "organization":"上海交通大学",
         "official":1,
-        "english_name":"Raft of Odysseus",
         "members":[
             "叶瑶琦",
             "朱玮昊",
@@ -183,7 +183,6 @@
         "name":"七海千秋",
         "organization":"湘潭大学",
         "official":1,
-        "english_name":"Nanami_Chiaki",
         "members":[
             "刘伟舟",
             "王首勋",
@@ -194,7 +193,6 @@
         "name":"渡渡鸟幼儿园",
         "organization":"西安交通大学",
         "official":1,
-        "english_name":"Dodo Kindergarten",
         "members":[
             "杨栋",
             "王之坤",
@@ -205,7 +203,6 @@
         "name":"Icdereap",
         "organization":"南京大学",
         "official":1,
-        "english_name":"Icdereap",
         "members":[
             "姚嘉和",
             "张浩宇",
@@ -216,7 +213,6 @@
         "name":"我不知道.png",
         "organization":"北京航空航天大学",
         "official":1,
-        "english_name":"I don't know.png",
         "members":[
             "冯玮琪",
             "廖纪童",
@@ -226,13 +222,17 @@
     "1030001706":{
         "name":"红鲤鱼与绿鲤鱼与驴",
         "organization":"浙江师范大学",
-        "official":1
+        "official":1,
+        "members":[
+            "叶佳伟",
+            "毛科捷",
+            "陈汪怡"
+        ]
     },
     "1030001559":{
         "name":"未来道具研究所",
         "organization":"上海科技大学",
         "official":1,
-        "english_name":"Future Prop",
         "members":[
             "何开",
             "徐鸿图",
@@ -243,7 +243,6 @@
         "name":"UESTC_Guest_WiFi",
         "organization":"电子科技大学",
         "official":1,
-        "english_name":"UESTC_Guest_WiFi",
         "members":[
             "周湘阳",
             "弋竞为",
@@ -254,7 +253,6 @@
         "name":"ACM太难玩了",
         "organization":"中南大学",
         "official":1,
-        "english_name":"AcmTaiNanWanLe",
         "members":[
             "刘峰玮",
             "罗泰帅",
@@ -265,7 +263,6 @@
         "name":"给我也整一个",
         "organization":"福州大学",
         "official":1,
-        "english_name":"give me one",
         "members":[
             "洪磊",
             "苏锦程",
@@ -276,7 +273,6 @@
         "name":"铁华团",
         "organization":"浙江工业大学",
         "official":1,
-        "english_name":"tetsukadan",
         "members":[
             "侯潇扬",
             "徐浩凯",
@@ -287,7 +283,6 @@
         "name":"超长宕机",
         "organization":"北京大学",
         "official":1,
-        "english_name":"Super long downtime",
         "members":[
             "周易",
             "王泽州",
@@ -298,7 +293,6 @@
         "name":"狂月",
         "organization":"浙江大学",
         "official":1,
-        "english_name":"CraZyMoon",
         "members":[
             "张静圳",
             "穆梓楠",
@@ -309,7 +303,6 @@
         "name":"骗分大队",
         "organization":"哈尔滨工业大学（深圳）",
         "official":1,
-        "english_name":"pianfen",
         "members":[
             "曹杨",
             "沈文",
@@ -319,13 +312,17 @@
     "1030001680":{
         "name":"童话术士",
         "organization":"浙大城市学院",
-        "official":1
+        "official":1,
+        "members":[
+            "孙华阳",
+            "庄博伟",
+            "苗皓淇"
+        ]
     },
     "1030001417":{
         "name":"西天取金",
         "organization":"吉林大学",
         "official":1,
-        "english_name":"Journey to the gold",
         "members":[
             "卢胤",
             "徐小权",
@@ -336,7 +333,6 @@
         "name":"克鲁斯卡尔大战克苏鲁",
         "organization":"北京理工大学",
         "official":1,
-        "english_name":"Kruskal vs. Cthulhu",
         "members":[
             "张庚辰",
             "李一文",
@@ -347,7 +343,6 @@
         "name":"希望气球没事",
         "organization":"哈尔滨工业大学",
         "official":1,
-        "english_name":"Wish Ballons Fine",
         "members":[
             "曲喆平",
             "王晟喆",
@@ -358,7 +353,6 @@
         "name":"皮卡丘",
         "organization":"山东大学",
         "official":1,
-        "english_name":"Pikachu",
         "members":[
             "于涛",
             "刘建东",
@@ -369,7 +363,6 @@
         "name":"没文化和不会写",
         "organization":"山东大学",
         "official":1,
-        "english_name":"No culture and no writing",
         "members":[
             "甘安霆",
             "翟鹏翼",
@@ -380,7 +373,6 @@
         "name":"渣男天团",
         "organization":"浙江财经大学",
         "official":1,
-        "english_name":"K0u1es",
         "members":[
             "刘洁英",
             "周人豪",
@@ -391,7 +383,6 @@
         "name":"超新星",
         "organization":"南昌大学",
         "official":1,
-        "english_name":"supernova",
         "members":[
             "徐梓豪",
             "汪建勋",
@@ -402,7 +393,6 @@
         "name":"铜须卡德加",
         "organization":"安徽大学",
         "official":1,
-        "english_name":"Brann Bronzebeard & Khadgar",
         "members":[
             "余思龙",
             "胡涵之",
@@ -413,7 +403,6 @@
         "name":"口古合鸟",
         "organization":"中国人民大学",
         "official":1,
-        "english_name":"coo pigeon",
         "members":[
             "刘书玮",
             "罗碚",
@@ -424,7 +413,6 @@
         "name":"好丽友派",
         "organization":"北京大学",
         "official":1,
-        "english_name":"ORION_PIE",
         "members":[
             "刘俊豪",
             "曾言",
@@ -435,7 +423,6 @@
         "name":"我亲爱的大佬请带带我",
         "organization":"华南理工大学",
         "official":1,
-        "english_name":"my dear dalao pleasedaidai wo",
         "members":[
             "章子寅",
             "郑冰升",
@@ -451,7 +438,6 @@
         "name":"不敢说话",
         "organization":"杭州电子科技大学",
         "official":1,
-        "english_name":"BBKing",
         "members":[
             "任凌昕",
             "石佳玥",
@@ -462,7 +448,6 @@
         "name":"_",
         "organization":"华东师范大学",
         "official":1,
-        "english_name":"NULL",
         "members":[
             "朱桐",
             "谢嘉东",
@@ -473,7 +458,6 @@
         "name":"浑元形意太极门",
         "organization":"香港大学",
         "official":1,
-        "english_name":"Hunyuan Xingyi TaijiGate",
         "members":[
             "宋骏凯",
             "林佳貽",
@@ -484,7 +468,6 @@
         "name":"源赖氏佐田",
         "organization":"南京大学",
         "official":1,
-        "english_name":"Minamoto Sera-shiSada",
         "members":[
             "张天陵",
             "沈俞霖",
@@ -495,7 +478,6 @@
         "name":"啊啊啊啊唉",
         "organization":"武汉大学",
         "official":1,
-        "english_name":"Aaáàai",
         "members":[
             "岳志澄",
             "王忠涛",
@@ -506,7 +488,6 @@
         "name":"无情铁首",
         "organization":"河海大学常州校区",
         "official":1,
-        "english_name":"ruthless iron first",
         "members":[
             "余天骋",
             "卢昶舟",
@@ -517,7 +498,6 @@
         "name":"摇头熊猫",
         "organization":"合肥工业大学",
         "official":1,
-        "english_name":"ShakingPanda",
         "members":[
             "周运沛",
             "李僖郴",
@@ -528,7 +508,6 @@
         "name":"咕咕咕",
         "organization":"南京信息工程大学",
         "official":1,
-        "english_name":"gugugu",
         "members":[
             "李文韬",
             "沈逸凡",
@@ -539,7 +518,6 @@
         "name":"三尺剑",
         "organization":"青岛科技大学",
         "official":1,
-        "english_name":"Syrup",
         "members":[
             "李泉志",
             "解焜焱",
@@ -550,7 +528,6 @@
         "name":"熊出没",
         "organization":"天津大学",
         "official":1,
-        "english_name":"you bear lai",
         "members":[
             "何志凌",
             "张辰宇",
@@ -561,7 +538,6 @@
         "name":"我们都有光明的前途",
         "organization":"杭州电子科技大学",
         "official":1,
-        "english_name":"Sera le genre humain",
         "members":[
             "万仞峰",
             "刘铭洁",
@@ -572,7 +548,6 @@
         "name":"0x03A2C940",
         "organization":"中国科学技术大学",
         "official":1,
-        "english_name":"0x03A2C940",
         "members":[
             "徐笑阳",
             "邱慕凡",
@@ -583,7 +558,6 @@
         "name":"自由泳",
         "organization":"复旦大学",
         "official":1,
-        "english_name":"FreeStyle",
         "members":[
             "力维辰",
             "孙若诗",
@@ -594,7 +568,6 @@
         "name":"测评机不讲武德",
         "organization":"华南农业大学",
         "official":1,
-        "english_name":"Tricky EvaluationMachine",
         "members":[
             "傅传蓁",
             "古镇豪",
@@ -605,7 +578,6 @@
         "name":"新旺仔一家",
         "organization":"西南民族大学",
         "official":1,
-        "english_name":"Wangzai's newfamily",
         "members":[
             "丁浩楠",
             "徐嘉宸",
@@ -616,7 +588,6 @@
         "name":"荧光闪烁",
         "organization":"中国石油大学（华东）",
         "official":1,
-        "english_name":"Lumos",
         "members":[
             "张森",
             "赵成",
@@ -627,7 +598,6 @@
         "name":"合法字符串",
         "organization":"北京航空航天大学",
         "official":1,
-        "english_name":"Legal String",
         "members":[
             "姜一凡",
             "王赵安",
@@ -637,13 +607,17 @@
     "1030001543":{
         "name":"lzz上分之旅",
         "organization":"山东理工大学",
-        "official":1
+        "official":1,
+        "members":[
+            "周煜浩",
+            "张林",
+            "林瑞泽"
+        ]
     },
     "1030001485":{
         "name":"三相之力",
         "organization":"南京邮电大学",
         "official":1,
-        "english_name":"Trinity_force",
         "members":[
             "刁煜凡",
             "柏广凡",
@@ -654,7 +628,6 @@
         "name":"節約能源:)上一層落兩層請使用樓梯",
         "organization":"香港科技大学",
         "official":1,
-        "english_name":"Survive theTurbulence",
         "members":[
             "张重",
             "温子奇",
@@ -665,9 +638,8 @@
         "name":"将来我一定比你聪明比你强",
         "organization":"北京航空航天大学",
         "official":1,
-        "english_name":"wangzai_milk",
         "members":[
-            "",
+            "常容熇",
             "王梓浔",
             "黄云依"
         ]
@@ -676,7 +648,6 @@
         "name":"队长女装就是女队了",
         "organization":"华中师范大学",
         "official":1,
-        "english_name":"teamleader'snvzhuang flag",
         "members":[
             "刘一泓",
             "胡婧",
@@ -687,7 +658,6 @@
         "name":"能力突出",
         "organization":"浙江工商大学",
         "official":1,
-        "english_name":"PowerOverflow",
         "members":[
             "林斌武",
             "王龙",
@@ -698,7 +668,6 @@
         "name":"悠锐卡",
         "organization":"福州大学",
         "official":1,
-        "english_name":"Eureka",
         "members":[
             "吴少冰",
             "罗继鸿",
@@ -709,7 +678,6 @@
         "name":"天青",
         "organization":"山东大学",
         "official":1,
-        "english_name":"Mid_Azure",
         "members":[
             "姚传洲",
             "师浩晏",
@@ -720,7 +688,6 @@
         "name":"恶魔妈妈买面膜",
         "organization":"北京邮电大学",
         "official":1,
-        "english_name":"emmmmmm",
         "members":[
             "严林",
             "邓翔玮",
@@ -731,7 +698,6 @@
         "name":"雷神之子号",
         "organization":"山东科技大学",
         "official":1,
-        "english_name":"NCC63549 Thunderchild",
         "members":[
             "孙国栋",
             "韩晨晨",
@@ -742,7 +708,6 @@
         "name":"说爆零就爆零",
         "organization":"西安交通大学",
         "official":1,
-        "english_name":"sb0jb0",
         "members":[
             "刘宇轩",
             "郭修屹",
@@ -753,7 +718,6 @@
         "name":"幸福安心养老所",
         "organization":"北京邮电大学",
         "official":1,
-        "english_name":"Give up thinking",
         "members":[
             "林新元",
             "程泓涛",
@@ -764,7 +728,6 @@
         "name":"UESTC_魔法少女",
         "organization":"电子科技大学",
         "official":1,
-        "english_name":"UESTC_MagicalGirls",
         "members":[
             "周津宇",
             "胡佳金",
@@ -775,7 +738,6 @@
         "name":"翻了这么久一定很累吧",
         "organization":"华中科技大学",
         "official":1,
-        "english_name":"Thanks for spendingso much time to findour team",
         "members":[
             "余泽坤",
             "叶佳",
@@ -786,7 +748,6 @@
         "name":"哈理工7队",
         "organization":"哈尔滨理工大学",
         "official":1,
-        "english_name":"HRBUST07",
         "members":[
             "牛仔超",
             "王佳妮",
@@ -797,7 +758,6 @@
         "name":"我直接进行一个题的过",
         "organization":"西北工业大学",
         "official":1,
-        "english_name":"Accept Directly",
         "members":[
             "李思哲",
             "王岩松",
@@ -808,7 +768,6 @@
         "name":"队长喜欢洛天依",
         "organization":"湖南大学",
         "official":1,
-        "english_name":"Captain loves LuoTianyi",
         "members":[
             "张聪懿",
             "苏杰",
@@ -819,7 +778,6 @@
         "name":"我CE了啊，没有A",
         "organization":"华东理工大学",
         "official":1,
-        "english_name":"I was CE, not AC",
         "members":[
             "彭博",
             "杭业晟",
@@ -830,7 +788,6 @@
         "name":"欢乐写假题",
         "organization":"北京交通大学",
         "official":1,
-        "english_name":"H_L_M",
         "members":[
             "李远铄",
             "缪新宇",
@@ -840,13 +797,17 @@
     "1030001609":{
         "name":"队长说ghs不要太明显",
         "organization":"武汉大学",
-        "official":1
+        "official":1,
+        "members":[
+            "逄博",
+            "郑亮涛",
+            "黄艾琳"
+        ]
     },
     "1030001390":{
         "name":"横渡珠江",
         "organization":"华南理工大学",
         "official":1,
-        "english_name":"Cross the Pearl River",
         "members":[
             "姚焜茗",
             "张天乐",
@@ -857,7 +818,6 @@
         "name":"无中生wa",
         "organization":"北京理工大学",
         "official":1,
-        "english_name":"WA in Nothing",
         "members":[
             "孙唯潇",
             "李翰杰",
@@ -868,7 +828,6 @@
         "name":"更新世界的锋芒",
         "organization":"中国地质大学（北京）",
         "official":1,
-        "english_name":"CUGB-Nanjing",
         "members":[
             "刘锦程",
             "易晨竹",
@@ -879,7 +838,6 @@
         "name":"鸽屋咕",
         "organization":"南京大学",
         "official":1,
-        "english_name":"gewuGu",
         "members":[
             "李博颖",
             "熊丘桓",
@@ -890,7 +848,6 @@
         "name":"哈尔冰工厂",
         "organization":"哈尔滨工业大学（深圳）",
         "official":1,
-        "english_name":"Harbin Ice ofTechnology",
         "members":[
             "何宇昂",
             "卢郡然",
@@ -901,7 +858,6 @@
         "name":"意式拿铁",
         "organization":"浙大宁波理工学院",
         "official":1,
-        "english_name":"Italian Latte",
         "members":[
             "余建赛",
             "刘东昕",
@@ -912,7 +868,6 @@
         "name":"我们写的代码都是诗",
         "organization":"河南工业大学",
         "official":1,
-        "english_name":"Code is poetry",
         "members":[
             "李维航",
             "计宝",
@@ -923,7 +878,6 @@
         "name":"祝你3456没有7",
         "organization":"北京邮电大学",
         "official":1,
-        "english_name":"3456without7",
         "members":[
             "何祯涛",
             "王晓晖",
@@ -934,7 +888,6 @@
         "name":"西片太太今天发狗粮了吗",
         "organization":"北京信息科技大学",
         "official":1,
-        "english_name":"BISTU",
         "members":[
             "冉青林",
             "司马晨",
@@ -945,7 +898,6 @@
         "name":"单推圣人惠",
         "organization":"华南理工大学",
         "official":1,
-        "english_name":"Megumi",
         "members":[
             "梁宇正",
             "莫晓阳",
@@ -956,7 +908,6 @@
         "name":"阿萨打发撒",
         "organization":"华东师范大学",
         "official":1,
-        "english_name":"asdfas",
         "members":[
             "朱睿诚",
             "李云帆",
@@ -967,7 +918,6 @@
         "name":"今晚打老虎",
         "organization":"重庆大学",
         "official":1,
-        "english_name":"Tiger Tonight",
         "members":[
             "何翔",
             "蒋云豪",
@@ -977,13 +927,17 @@
     "1030001648":{
         "name":"潘滴特 奧斯蹄亞",
         "organization":"香港大学",
-        "official":1
+        "official":1,
+        "members":[
+            "姚元悅",
+            "李俊諺",
+            "梁皓寧"
+        ]
     },
     "1030001762":{
         "name":"未名",
         "organization":"重庆邮电大学",
         "official":1,
-        "english_name":"Untitled",
         "members":[
             "娄奚文炀",
             "盖中会",
@@ -994,7 +948,6 @@
         "name":"你以为你初始化了",
         "organization":"江苏科技大学",
         "official":1,
-        "english_name":"Seemed Initialized",
         "members":[
             "夏易辰",
             "王家豪",
@@ -1005,7 +958,6 @@
         "name":"队友看我wa签到",
         "organization":"华东师范大学",
         "official":1,
-        "english_name":"while(1)ac;",
         "members":[
             "朱张弛",
             "汪子凡",
@@ -1016,7 +968,6 @@
         "name":"老爷保号",
         "organization":"广东工业大学",
         "official":1,
-        "english_name":"GDUT_laoye bless us",
         "members":[
             "张强",
             "李炜柯",
@@ -1026,13 +977,17 @@
     "1030001747":{
         "name":"我们去二食堂吃什么",
         "organization":"中南大学",
-        "official":1
+        "official":1,
+        "members":[
+            "刘粲宇",
+            "张甫成",
+            "陈泽"
+        ]
     },
     "1030001554":{
         "name":"起个名字真难",
         "organization":"上海大学",
         "official":1,
-        "english_name":"Team Untitled",
         "members":[
             "周晓凡",
             "施焱",
@@ -1042,13 +997,17 @@
     "1030001764":{
         "name":"端茶倒水看队友AC",
         "organization":"南京航空航天大学",
-        "unofficial":1
+        "unofficial":1,
+        "members":[
+            "周宇帆",
+            "杜云菲",
+            "胡嘉晨"
+        ]
     },
     "1030001734":{
         "name":"大雾溢出",
         "organization":"中国科学技术大学",
         "official":1,
-        "english_name":"PhysicsOverflow",
         "members":[
             "张佳",
             "杨嘉琪",
@@ -1059,7 +1018,6 @@
         "name":"晨曦的光",
         "organization":"广东工业大学",
         "official":1,
-        "english_name":"GDUT_light at dawn",
         "members":[
             "梁烨荣",
             "蔡诚杰",
@@ -1070,7 +1028,6 @@
         "name":"宇称不守恒",
         "organization":"浙江工业大学",
         "official":1,
-        "english_name":"CP violation",
         "members":[
             "方泽雨",
             "杨存远",
@@ -1081,7 +1038,6 @@
         "name":"小陀螺",
         "organization":"中南大学",
         "official":1,
-        "english_name":"Charlotte",
         "members":[
             "唐煜勋",
             "徐君阳",
@@ -1092,7 +1048,6 @@
         "name":"鸡你太美",
         "organization":"深圳职业技术学院",
         "official":1,
-        "english_name":"So Nice Chicken",
         "members":[
             "胡丹睿",
             "许庆",
@@ -1103,7 +1058,6 @@
         "name":"SYSU_九九八十一",
         "organization":"中山大学",
         "official":1,
-        "english_name":"Nine9",
         "members":[
             "王润锋",
             "邵文凯",
@@ -1114,7 +1068,6 @@
         "name":"砸苹果的牛顿",
         "organization":"武汉大学",
         "official":1,
-        "english_name":"The Newton whichhit apple",
         "members":[
             "杨雨卓",
             "谢可睿",
@@ -1125,7 +1078,6 @@
         "name":"一杯卡布奇诺",
         "organization":"厦门大学",
         "official":1,
-        "english_name":"A Cup of Cappuccino",
         "members":[
             "上官玄",
             "周正",
@@ -1136,7 +1088,6 @@
         "name":"机房老人",
         "organization":"哈尔滨工业大学（深圳）",
         "official":1,
-        "english_name":"jflr",
         "members":[
             "井然",
             "周熙言",
@@ -1147,7 +1098,6 @@
         "name":"CDZSC_无情哈拉少",
         "organization":"电子科技大学中山学院",
         "official":1,
-        "english_name":"CDZSC_Very Good",
         "members":[
             "张深",
             "朱凡琦夫",
@@ -1158,7 +1108,6 @@
         "name":"星辰",
         "organization":"东北大学",
         "official":1,
-        "english_name":"NEU_the_stars",
         "members":[
             "徐振戈",
             "易倪",
@@ -1169,7 +1118,6 @@
         "name":"慢慢来",
         "organization":"西安电子科技大学",
         "official":1,
-        "english_name":"Take your time",
         "members":[
             "冯瑞森",
             "祝君超",
@@ -1180,7 +1128,6 @@
         "name":"维修影印机",
         "organization":"香港科技大学",
         "official":1,
-        "english_name":"Paper Jam",
         "members":[
             "任正桐",
             "招朗軒",
@@ -1191,7 +1138,6 @@
         "name":"经典经典经典",
         "organization":"华中师范大学",
         "official":1,
-        "english_name":"MostClassic",
         "members":[
             "姜宇琦",
             "张天翼",
@@ -1201,13 +1147,17 @@
     "1030001493":{
         "name":"AC小队",
         "organization":"南阳理工学院",
-        "official":1
+        "official":1,
+        "members":[
+            "李佳男",
+            "胡英豪",
+            "邹步青"
+        ]
     },
     "1030001245":{
         "name":"摸鱼两年半",
         "organization":"北京理工大学",
         "official":1,
-        "english_name":"MoYuTwoYears",
         "members":[
             "张圃瑒",
             "李明嘉",
@@ -1218,7 +1168,6 @@
         "name":"GGjidi",
         "organization":"山东大学",
         "official":1,
-        "english_name":"GGjidi",
         "members":[
             "周若淼",
             "郑得贤",
@@ -1229,7 +1178,6 @@
         "name":"这步河里",
         "organization":"兰州大学",
         "official":1,
-        "english_name":"This walks in river",
         "members":[
             "李欣杭",
             "狄农雨",
@@ -1240,7 +1188,6 @@
         "name":"大佬带我",
         "organization":"南昌大学",
         "official":1,
-        "english_name":"dalaodaiwo",
         "members":[
             "曾庆杰",
             "黄京胜",
@@ -1251,7 +1198,6 @@
         "name":"想喝芋圆桂花乌龙珍珠布丁蛋糕奥利奥布蕾玛奇朵奶茶",
         "organization":"苏州大学",
         "official":1,
-        "english_name":"dun dun drink milktea",
         "members":[
             "丁誉洋",
             "乔丹",
@@ -1262,7 +1208,6 @@
         "name":"给郭哥哥泡一池子大红袍",
         "organization":"四川大学",
         "official":1,
-        "english_name":"Daybreak",
         "members":[
             "吴咏蔚",
             "周雪妍",
@@ -1273,7 +1218,6 @@
         "name":"人菜瘾大",
         "organization":"北京师范大学",
         "official":1,
-        "english_name":"Addicted_greens",
         "members":[
             "彭泊词",
             "李邦祺",
@@ -1284,7 +1228,6 @@
         "name":"电脑一带三",
         "organization":"同济大学",
         "official":1,
-        "english_name":"Computer Carry Us",
         "members":[
             "庞鹏瞩",
             "张迪",
@@ -1295,7 +1238,6 @@
         "name":"滴答滴答",
         "organization":"福州大学",
         "official":1,
-        "english_name":"Tick-Tock",
         "members":[
             "关文涛",
             "廖陈阳",
@@ -1306,7 +1248,6 @@
         "name":"爱国敬业诚信友善",
         "organization":"东北大学秦皇岛分校",
         "official":1,
-        "english_name":"NEUQ-PDHF",
         "members":[
             "信海腾",
             "刘琛",
@@ -1317,7 +1258,6 @@
         "name":"NAVI",
         "organization":"南开大学",
         "official":1,
-        "english_name":"Nku Ak Victory ICPC",
         "members":[
             "王超星",
             "覃楚杰",
@@ -1328,7 +1268,6 @@
         "name":"打完比赛去吃黄焖鸡",
         "organization":"长安大学",
         "official":1,
-        "english_name":"Green_Pepper_eat_Yellow_Chicken",
         "members":[
             "朱子怡",
             "王尉桦",
@@ -1339,7 +1278,6 @@
         "name":"宝山挖掘机",
         "organization":"上海大学",
         "official":1,
-        "english_name":"BaoshanWAmachine",
         "members":[
             "沈奕翔",
             "王如嫣",
@@ -1350,7 +1288,6 @@
         "name":"下把一定紫",
         "organization":"中国石油大学（华东）",
         "official":1,
-        "english_name":"Must be purple nexttime",
         "members":[
             "张世琛",
             "陈保瑞",
@@ -1361,7 +1298,6 @@
         "name":"上财_bata_1",
         "organization":"上海财经大学",
         "official":1,
-        "english_name":"SUFE beta_1",
         "members":[
             "张云奎",
             "陈仁杰",
@@ -1372,7 +1308,6 @@
         "name":"黎明初晓",
         "organization":"东北师范大学",
         "official":1,
-        "english_name":"Dawn",
         "members":[
             "徐文浩",
             "李嘉琦",
@@ -1383,7 +1318,6 @@
         "name":"铁牌分割线",
         "organization":"安徽大学",
         "official":1,
-        "english_name":"Iron medal dividingline",
         "members":[
             "吴昌广",
             "常昊冉",
@@ -1394,7 +1328,6 @@
         "name":"南方科技大学-温特图尔",
         "organization":"南方科技大学",
         "official":1,
-        "english_name":"SUSTech-Winterthur",
         "members":[
             "刘旭坤",
             "李昀镀",
@@ -1405,7 +1338,6 @@
         "name":"蓝到紫",
         "organization":"山东大学（威海）",
         "official":1,
-        "english_name":"Blue2Purple",
         "members":[
             "于帅聪",
             "周鑫",
@@ -1416,7 +1348,6 @@
         "name":"多喝依云",
         "organization":"国防科技大学",
         "official":1,
-        "english_name":"SometimesEvian",
         "members":[
             "吴佳英",
             "孙启尧",
@@ -1427,7 +1358,6 @@
         "name":"南方科技大学-施维茨",
         "organization":"南方科技大学",
         "official":1,
-        "english_name":"SUSTech-Switch",
         "members":[
             "任博韬",
             "张子研",
@@ -1438,7 +1368,6 @@
         "name":"UESTC_赤兔马",
         "organization":"电子科技大学",
         "official":1,
-        "english_name":"UESTC_RedRabbitHorse",
         "members":[
             "詹晟",
             "陈俊杰",
@@ -1449,7 +1378,6 @@
         "name":"明日夜空哨戒班",
         "organization":"哈尔滨工业大学",
         "official":1,
-        "english_name":"Pigeons *3",
         "members":[
             "徐琬",
             "王子恺",
@@ -1460,7 +1388,6 @@
         "name":"很有精神",
         "organization":"哈尔滨工业大学",
         "official":1,
-        "english_name":"Full of Energy",
         "members":[
             "付希文",
             "唐浩云",
@@ -1471,7 +1398,6 @@
         "name":"ZJUT12",
         "organization":"浙江工业大学",
         "official":1,
-        "english_name":"ZJUT12",
         "members":[
             "吴雨轩",
             "王浩名",
@@ -1481,13 +1407,17 @@
     "1030001482":{
         "name":"CE来带榜",
         "organization":"南京邮电大学",
-        "official":1
+        "official":1,
+        "members":[
+            "何峰",
+            "王健",
+            "黄凌浩"
+        ]
     },
     "1030001662":{
         "name":"人活着就是为了樱岛麻衣&总之由崎司就是非常可爱",
         "organization":"战略支援部队信息工程大学",
         "official":1,
-        "english_name":"Sakurajima_Mai!&Tsukasa Yuzaki",
         "members":[
             "孙康羽",
             "张嘉玮",
@@ -1498,7 +1428,6 @@
         "name":"万寿无疆队",
         "organization":"北京交通大学",
         "official":1,
-        "english_name":"2147483647s",
         "members":[
             "余彦可",
             "彭彦铭",
@@ -1509,7 +1438,6 @@
         "name":"东西湖-洪山",
         "organization":"华中科技大学",
         "official":1,
-        "english_name":"Dongxihu-Hongshan",
         "members":[
             "邓玉成",
             "郭英才",
@@ -1520,7 +1448,6 @@
         "name":"温大一队",
         "organization":"温州大学",
         "official":1,
-        "english_name":"WZU No.1",
         "members":[
             "杨林韬",
             "王世承",
@@ -1531,7 +1458,6 @@
         "name":"暴搜流派掌门人",
         "organization":"北京理工大学",
         "official":1,
-        "english_name":"master of exhaustive search",
         "members":[
             "冯凯拓",
             "张成喆",
@@ -1542,7 +1468,6 @@
         "name":"竹取飞翔",
         "organization":"东北师范大学",
         "official":1,
-        "english_name":"Flight of the BambooCutter",
         "members":[
             "刘一木",
             "史曼玲",
@@ -1553,7 +1478,6 @@
         "name":"达芬奇骑芬达",
         "organization":"浙江师范大学",
         "official":1,
-        "english_name":"deer reed",
         "members":[
             "胡英豪",
             "苏丁力",
@@ -1564,7 +1488,6 @@
         "name":"造它就完了",
         "organization":"国防科技大学",
         "official":1,
-        "english_name":"origi",
         "members":[
             "刘之昀",
             "叶可扬",
@@ -1575,7 +1498,6 @@
         "name":"大E了啊，没有WA",
         "organization":"天津大学",
         "official":1,
-        "english_name":"super E no ：）",
         "members":[
             "尹振云",
             "许怿芃",
@@ -1586,7 +1508,6 @@
         "name":"夜之荒芜",
         "organization":"广东工业大学",
         "official":1,
-        "english_name":"GDUT_NightGaunt",
         "members":[
             "孔止",
             "王煜昕",
@@ -1597,7 +1518,6 @@
         "name":"地球往事",
         "organization":"江西财经大学",
         "official":1,
-        "english_name":"Diqiuwangshi",
         "members":[
             "刘力溯",
             "王安",
@@ -1608,7 +1528,6 @@
         "name":"AC不如跳舞",
         "organization":"浙江农林大学",
         "official":1,
-        "english_name":"Dance is better than AC",
         "members":[
             "戴振龙",
             "盛洪涛",
@@ -1619,7 +1538,6 @@
         "name":"人工智障",
         "organization":"广东工业大学",
         "official":1,
-        "english_name":"GDUT_Artificial Fool",
         "members":[
             "吴政毅",
             "李政锋",
@@ -1630,7 +1548,6 @@
         "name":"雨湖",
         "organization":"南开大学",
         "official":1,
-        "english_name":"Rainy Lake",
         "members":[
             "刘佳浩",
             "庄泽琰",
@@ -1641,7 +1558,6 @@
         "name":"渡鸦号",
         "organization":"山东科技大学",
         "official":1,
-        "english_name":"NCC32450 Raven",
         "members":[
             "张智升",
             "张泺陶",
@@ -1652,7 +1568,6 @@
         "name":"素毛肚",
         "organization":"成都信息工程大学",
         "official":1,
-        "english_name":"Vegetarian tripe",
         "members":[
             "程彦博",
             "陈怡兵",
@@ -1663,7 +1578,6 @@
         "name":"年年有今日",
         "organization":"中国计量大学",
         "official":1,
-        "english_name":"yesteryear oncemore",
         "members":[
             "孙煜海",
             "毛雨辰",
@@ -1674,7 +1588,6 @@
         "name":"他们说随便起",
         "organization":"长沙理工大学",
         "official":1,
-        "english_name":"Name the team atwill",
         "members":[
             "刘帅",
             "易斯龙",
@@ -1685,7 +1598,6 @@
         "name":"海的那边是自由",
         "organization":"广州大学",
         "official":1,
-        "english_name":"There is freedombeyond the sea",
         "members":[
             "卢飞龙",
             "杨栋材",
@@ -1695,13 +1607,17 @@
     "1030001635":{
         "name":"69岁，是acmer",
         "organization":"西北工业大学",
-        "official":1
+        "official":1,
+        "members":[
+            "曾豪",
+            "李传越",
+            "李喆元"
+        ]
     },
     "1030001523":{
         "name":"我艾希不讲武德",
         "organization":"厦门大学",
         "official":1,
-        "english_name":"AC_unreasonable",
         "members":[
             "赖彦丞",
             "邱宇航",
@@ -1712,7 +1628,6 @@
         "name":"浑元朋克2077",
         "organization":"四川大学",
         "official":1,
-        "english_name":"HunyuanPunk2077",
         "members":[
             "珠齐明",
             "秦文杰",
@@ -1723,7 +1638,6 @@
         "name":"A完这题去骑车",
         "organization":"湖南工业大学",
         "official":1,
-        "english_name":"Luckycoding",
         "members":[
             "彭毓新",
             "王俊",
@@ -1734,7 +1648,6 @@
         "name":"北极星",
         "organization":"北华大学",
         "official":1,
-        "english_name":"Polaris",
         "members":[
             "吴嘉帅",
             "李宁",
@@ -1745,7 +1658,6 @@
         "name":"三届铁匠齐上阵",
         "organization":"河南理工大学",
         "official":1,
-        "english_name":"haozhiweizhi",
         "members":[
             "张乔然",
             "胡定宇",
@@ -1756,7 +1668,6 @@
         "name":"北林38队",
         "organization":"北京林业大学",
         "official":1,
-        "english_name":"BJFU 38th Team",
         "members":[
             "周恩杰",
             "康旭",
@@ -1766,13 +1677,17 @@
     "1030001339":{
         "name":"帝企鹅宝宝",
         "organization":"杭州电子科技大学",
-        "official":1
+        "official":1,
+        "members":[
+            "柯瑞阳",
+            "符振皓",
+            "罗汉东"
+        ]
     },
     "1030001289":{
         "name":"我说我是乱打的",
         "organization":"东南大学",
         "official":1,
-        "english_name":"Blind Hit",
         "members":[
             "孙毅远",
             "左鸿宇",
@@ -1783,7 +1698,6 @@
         "name":"铁牌镀铜",
         "organization":"河北工业大学",
         "official":1,
-        "english_name":"Fight Fe to Cu",
         "members":[
             "刘博韬",
             "刘恒星",
@@ -1794,7 +1708,6 @@
         "name":"零号行星群",
         "organization":"华南理工大学",
         "official":1,
-        "english_name":"PlanetsZero",
         "members":[
             "欧幸绮",
             "江熠玲",
@@ -1805,7 +1718,6 @@
         "name":"济鶸",
         "organization":"同济大学",
         "official":1,
-        "english_name":"finch of TJ",
         "members":[
             "姚雨翔",
             "屈靖恩",
@@ -1816,7 +1728,6 @@
         "name":"白色相簿2.0",
         "organization":"吉林大学",
         "official":1,
-        "english_name":"White Album2.0",
         "members":[
             "周元琛",
             "邵永康",
@@ -1827,7 +1738,6 @@
         "name":"高强度水群",
         "organization":"西北工业大学",
         "official":1,
-        "english_name":"HyperHydroGroup",
         "members":[
             "吴秋鹏",
             "许洲宁",
@@ -1838,7 +1748,6 @@
         "name":"他说我们是乱打的",
         "organization":"河南大学",
         "official":1,
-        "english_name":"We didn't fight atrandom",
         "members":[
             "徐孝康",
             "晁佳豪",
@@ -1849,7 +1758,6 @@
         "name":"随机",
         "organization":"四川大学",
         "official":1,
-        "english_name":"stochastic",
         "members":[
             "刘沛雨",
             "孙昊",
@@ -1860,7 +1768,6 @@
         "name":"team007",
         "organization":"武汉理工大学",
         "official":1,
-        "english_name":"team007",
         "members":[
             "化子烁",
             "廖佐友",
@@ -1871,7 +1778,6 @@
         "name":"今天又要检查甚么内务",
         "organization":"国防科技大学",
         "official":1,
-        "english_name":"No Quilt on the Bed!",
         "members":[
             "左传奇",
             "李天豪",
@@ -1882,7 +1788,6 @@
         "name":"雀力日进",
         "organization":"江苏理工学院",
         "official":1,
-        "english_name":"Sparrow power dayadvance",
         "members":[
             "周泳晨",
             "李可扬",
@@ -1893,7 +1798,6 @@
         "name":"辛夷桂旗队",
         "organization":"南京理工大学",
         "official":1,
-        "english_name":"mieba",
         "members":[
             "郭佳樊",
             "陈涣焕",
@@ -1904,7 +1808,6 @@
         "name":"WA的一声哭出来",
         "organization":"湖南科技大学",
         "official":1,
-        "english_name":"Crying WA",
         "members":[
             "张之卓",
             "杨磊",
@@ -1915,7 +1818,6 @@
         "name":"线性同鱼",
         "organization":"武汉理工大学",
         "official":1,
-        "english_name":"linear fish",
         "members":[
             "俞智缤",
             "刘畅",
@@ -1926,7 +1828,6 @@
         "name":"嘭哈啵",
         "organization":"东北大学秦皇岛分校",
         "official":1,
-        "english_name":"Ponghub",
         "members":[
             "姚鉴航",
             "潘良源",
@@ -1937,7 +1838,6 @@
         "name":"三只小熊饼干",
         "organization":"南京理工大学",
         "official":1,
-        "english_name":"Three little Bear cookies",
         "members":[
             "朱耀辰",
             "董平",
@@ -1948,7 +1848,6 @@
         "name":"放课后代码时间",
         "organization":"湘潭大学",
         "official":1,
-        "english_name":"k-on",
         "members":[
             "刘帅",
             "姜思维",
@@ -1959,7 +1858,6 @@
         "name":"蒟蒻一队",
         "organization":"青岛科技大学",
         "official":1,
-        "english_name":"VOBcwy",
         "members":[
             "姚善智",
             "胡云涛",
@@ -1970,7 +1868,6 @@
         "name":"一人一组",
         "organization":"东华大学",
         "official":1,
-        "english_name":"A team of one",
         "members":[
             "严涵",
             "林涛",
@@ -1981,7 +1878,6 @@
         "name":"拾金不昧",
         "organization":"浙江师范大学",
         "official":1,
-        "english_name":"⚆_⚆? (○ °△ °)○(⊙﹏⊙)",
         "members":[
             "丁宇洋",
             "汤浙栋",
@@ -1992,7 +1888,6 @@
         "name":"马克思主义基本原理概论",
         "organization":"北京交通大学",
         "official":1,
-        "english_name":"Basic Principle ofMarxism",
         "members":[
             "张世昕",
             "张天宇",
@@ -2003,7 +1898,6 @@
         "name":"ac_player",
         "organization":"深圳大学",
         "official":1,
-        "english_name":"ac_player",
         "members":[
             "丁潇杰",
             "连泽锋",
@@ -2013,13 +1907,17 @@
     "1030001553":{
         "name":"Runtime Error",
         "organization":"上海大学",
-        "official":1
+        "official":1,
+        "members":[
+            "徐正阳",
+            "李奕帆",
+            "邓馨"
+        ]
     },
     "1030001583":{
         "name":"为什么不在独墅湖训练",
         "organization":"苏州大学",
         "official":1,
-        "english_name":"Why not train inDushuhu",
         "members":[
             "李秉千",
             "郑悦薇",
@@ -2030,7 +1928,6 @@
         "name":"幼儿园大班",
         "organization":"电子科技大学",
         "official":1,
-        "english_name":"UESTC_UpperClass",
         "members":[
             "唐钰晨",
             "牟语嫣",
@@ -2041,7 +1938,6 @@
         "name":"白板面包",
         "organization":"西安交通大学",
         "official":1,
-        "english_name":"Whiteboard Bread",
         "members":[
             "孙路",
             "张骏扬",
@@ -2052,7 +1948,6 @@
         "name":"珰珰珰珰",
         "organization":"桂林电子科技大学",
         "official":1,
-        "english_name":"Bursttozero",
         "members":[
             "宁申恺",
             "李立",
@@ -2063,7 +1958,6 @@
         "name":"死亡发际线",
         "organization":"哈尔滨工程大学",
         "official":1,
-        "english_name":"Receding Hairline",
         "members":[
             "朱霄",
             "陈晓龙",
@@ -2073,13 +1967,17 @@
     "1030001499":{
         "name":"打BUG呢？",
         "organization":"宁波大学",
-        "official":1
+        "official":1,
+        "members":[
+            "张思瀚",
+            "徐浩楠",
+            "徐玮嘉"
+        ]
     },
     "1030001282":{
         "name":"二息步行",
         "organization":"东北林业大学",
         "official":1,
-        "english_name":"Nisoku Hokou",
         "members":[
             "方震",
             "李一辰",
@@ -2090,7 +1988,6 @@
         "name":"优哉游哉",
         "organization":"大连理工大学",
         "official":1,
-        "english_name":"Relaxing!",
         "members":[
             "余澍莘",
             "卢品仁",
@@ -2101,7 +1998,6 @@
         "name":"果然萌",
         "organization":"青岛大学",
         "official":1,
-        "english_name":"guoranmeng",
         "members":[
             "曾濛",
             "陈振国",
@@ -2112,7 +2008,6 @@
         "name":"哥，咱家又WA啦",
         "organization":"中国海洋大学",
         "official":1,
-        "english_name":"WA limit exceeded",
         "members":[
             "单岳超",
             "徐凯新",
@@ -2123,7 +2018,6 @@
         "name":"发落皈依，卿容犹记",
         "organization":"西南科技大学",
         "official":1,
-        "english_name":"MissHairMissYou",
         "members":[
             "何思磊",
             "吴宇宏",
@@ -2133,13 +2027,17 @@
     "1030001639":{
         "name":"意外AC",
         "organization":"西南交通大学",
-        "official":1
+        "official":1,
+        "members":[
+            "丁世诚",
+            "卢禹良",
+            "蔡坷呈"
+        ]
     },
     "1030001220":{
         "name":"星空",
         "organization":"安徽大学",
         "official":1,
-        "english_name":"Star Sky",
         "members":[
             "杨晨静",
             "王瀚平",
@@ -2150,7 +2048,6 @@
         "name":"暮光",
         "organization":"浙江财经大学",
         "official":1,
-        "english_name":"twilight",
         "members":[
             "丁一凡",
             "徐俊楠",
@@ -2161,7 +2058,6 @@
         "name":"ZJUT7",
         "organization":"浙江工业大学",
         "official":1,
-        "english_name":"ZJUT7",
         "members":[
             "包淳嘉",
             "符蓝天",
@@ -2172,7 +2068,6 @@
         "name":"西红柿炒番茄",
         "organization":"西南交通大学",
         "official":1,
-        "english_name":"tomato and tomato",
         "members":[
             "刘书昊",
             "朱寅",
@@ -2183,7 +2078,6 @@
         "name":"我悟了",
         "organization":"哈尔滨工业大学（深圳）",
         "official":1,
-        "english_name":"I have died",
         "members":[
             "张人山",
             "曹熹",
@@ -2194,7 +2088,6 @@
         "name":"三剑客",
         "organization":"北京邮电大学",
         "official":1,
-        "english_name":"three sword",
         "members":[
             "符炫炜",
             "高梦洁",
@@ -2205,7 +2098,6 @@
         "name":"呜WA呜WA",
         "organization":"同济大学",
         "official":1,
-        "english_name":"wuwawuwa",
         "members":[
             "徐磊",
             "游康",
@@ -2216,7 +2108,6 @@
         "name":"橙汁",
         "organization":"中北大学",
         "official":1,
-        "english_name":"orange juice",
         "members":[
             "孙琪",
             "李文深",
@@ -2226,13 +2117,17 @@
     "1030001484":{
         "name":"快进到AC",
         "organization":"南京邮电大学",
-        "official":1
+        "official":1,
+        "members":[
+            "卞云海",
+            "张帅青",
+            "金诚"
+        ]
     },
     "1030001653":{
         "name":"不落青云",
         "organization":"湘潭大学",
         "official":1,
-        "english_name":"I am me and more",
         "members":[
             "何璠",
             "孙涛",
@@ -2243,7 +2138,6 @@
         "name":"鑫森众焱垚",
         "organization":"西安电子科技大学",
         "official":1,
-        "english_name":"Triwater",
         "members":[
             "王文煜",
             "谭升阳",
@@ -2254,7 +2148,6 @@
         "name":"专业防爆零",
         "organization":"南京信息工程大学",
         "official":1,
-        "english_name":"Anti BOOM!",
         "members":[
             "杨可",
             "陈泳琦",
@@ -2265,7 +2158,6 @@
         "name":"地三鲜锅包肉斩蛋炸蘑菇椒盐里脊咕咾肉",
         "organization":"华中科技大学",
         "official":1,
-        "english_name":"Only 23 yuan perperson",
         "members":[
             "李佳穆",
             "王绍宇",
@@ -2276,7 +2168,6 @@
         "name":"夜的向日葵",
         "organization":"郑州大学",
         "official":1,
-        "english_name":"Wonderful Everyday",
         "members":[
             "张子昂",
             "李智宇",
@@ -2287,7 +2178,6 @@
         "name":"妙不可言",
         "organization":"兰州大学",
         "official":1,
-        "english_name":"Supercalifragilisticexpialidocious",
         "members":[
             "刘阳",
             "邢怀鹏",
@@ -2298,7 +2188,6 @@
         "name":"他说我们是乱A的",
         "organization":"东北大学秦皇岛分校",
         "official":1,
-        "english_name":"NEUQ-PHX",
         "members":[
             "张旭",
             "王敬群",
@@ -2309,7 +2198,6 @@
         "name":"我想带两个小妹妹",
         "organization":"成都信息工程大学",
         "official":1,
-        "english_name":"Cute girls are myfavourite",
         "members":[
             "余春生",
             "李梓靖",
@@ -2320,7 +2208,6 @@
         "name":"讨论组",
         "organization":"浙江农林大学",
         "official":1,
-        "english_name":"discussion group",
         "members":[
             "周帆杰",
             "孟炜浩",
@@ -2331,7 +2218,6 @@
         "name":"是可爱的团子吖",
         "organization":"郑州大学",
         "official":1,
-        "english_name":"lovely tuanzi",
         "members":[
             "朱凯乐",
             "李玺",
@@ -2342,7 +2228,6 @@
         "name":"致命膜术",
         "organization":"广州大学",
         "official":1,
-        "english_name":"Mogic",
         "members":[
             "卢鑫洌",
             "周伟章",
@@ -2353,7 +2238,6 @@
         "name":"随便",
         "organization":"浙大宁波理工学院",
         "official":1,
-        "english_name":"Whatever",
         "members":[
             "王麒笙",
             "谢宇翔",
@@ -2364,7 +2248,6 @@
         "name":"TPOM",
         "organization":"河南科技大学",
         "official":1,
-        "english_name":"TPOM",
         "members":[
             "刘健",
             "刘奥",
@@ -2375,7 +2258,6 @@
         "name":"育英银牌队",
         "organization":"浙江育英职业技术学院",
         "official":1,
-        "english_name":"yyteamYIN",
         "members":[
             "李泽瑜",
             "林沙",
@@ -2386,7 +2268,6 @@
         "name":"哈理工8队",
         "organization":"哈尔滨理工大学",
         "official":1,
-        "english_name":"HRBUST08",
         "members":[
             "张晋源",
             "潘世超",
@@ -2397,7 +2278,6 @@
         "name":"坚果类奶棒",
         "organization":"山东理工大学",
         "official":1,
-        "english_name":"jglnb",
         "members":[
             "李赛龙",
             "贾国良",
@@ -2408,7 +2288,6 @@
         "name":"过河卒子",
         "organization":"吉林大学",
         "official":1,
-        "english_name":"Soldier",
         "members":[
             "柏羽",
             "胡剑铮",
@@ -2419,7 +2298,6 @@
         "name":"量子波动速WA",
         "organization":"江南大学",
         "official":1,
-        "english_name":"Quantum wave to WA",
         "members":[
             "刘文捷",
             "尚兴达",
@@ -2430,7 +2308,6 @@
         "name":"再氪一单嘛.jpg",
         "organization":"湘潭大学",
         "official":1,
-        "english_name":"kill_my_wallet",
         "members":[
             "刘世豪",
             "李健龙",
@@ -2441,7 +2318,6 @@
         "name":"桌上的饼干你们随便吃",
         "organization":"深圳大学",
         "official":1,
-        "english_name":"colorful-balloonsellers",
         "members":[
             "宋昌霖",
             "成伟",
@@ -2452,7 +2328,6 @@
         "name":"CDZSC_三思后行",
         "organization":"电子科技大学中山学院",
         "official":1,
-        "english_name":"CDZSC_Three Old Baby",
         "members":[
             "宋杰",
             "杨康俊",
@@ -2463,7 +2338,6 @@
         "name":"采菊东篱下",
         "organization":"黑龙江大学",
         "official":1,
-        "english_name":"Picking achrysanthemum",
         "members":[
             "窦国麟",
             "车万里",
@@ -2474,7 +2348,6 @@
         "name":"交满13发",
         "organization":"南京理工大学",
         "official":1,
-        "english_name":"Thirteen rounds",
         "members":[
             "刘宇轩",
             "吴杭",
@@ -2485,7 +2358,6 @@
         "name":"ACM玄学设计竞赛",
         "organization":"湖南科技大学",
         "official":1,
-        "english_name":"LOL",
         "members":[
             "唐浩哲",
             "罗超毅",
@@ -2496,7 +2368,6 @@
         "name":"空洞骑士",
         "organization":"临沂大学",
         "official":1,
-        "english_name":"hollow knight",
         "members":[
             "刘佳瑜",
             "杜一鸣",
@@ -2507,7 +2378,6 @@
         "name":"要不跑路吧",
         "organization":"吉林大学",
         "official":1,
-        "english_name":"cheer_up_alg",
         "members":[
             "傅奕博",
             "周长江",
@@ -2518,7 +2388,6 @@
         "name":"再来一组测试数据",
         "organization":"东北林业大学",
         "official":1,
-        "english_name":"Another set of testdata",
         "members":[
             "张子龙",
             "楚宜霖",
@@ -2529,7 +2398,6 @@
         "name":"可是A不得",
         "organization":"江南大学",
         "official":1,
-        "english_name":"not AC",
         "members":[
             "余江明",
             "翁诗浩",
@@ -2540,7 +2408,6 @@
         "name":"打工人一个顶仨",
         "organization":"江南大学",
         "official":1,
-        "english_name":"One worker equalsthree",
         "members":[
             "孙安",
             "朱文涛",
@@ -2551,7 +2418,6 @@
         "name":"让我来朵蜜你",
         "organization":"浙江大学城市学院",
         "official":1,
-        "english_name":"kkp",
         "members":[
             "徐浩达",
             "潘言",
@@ -2562,7 +2428,6 @@
         "name":"再自闭一次",
         "organization":"四川大学",
         "official":1,
-        "english_name":"Depressed again",
         "members":[
             "周奇",
             "张远",
@@ -2573,7 +2438,6 @@
         "name":"我想睡午觉",
         "organization":"绍兴文理学院",
         "official":1,
-        "english_name":"take a nap",
         "members":[
             "周建伟",
             "孙叶峰",
@@ -2584,7 +2448,6 @@
         "name":"六级不讲武德",
         "organization":"南京信息工程大学",
         "official":1,
-        "english_name":"CET6:Sudden Attack",
         "members":[
             "谢万城",
             "高炜轩",
@@ -2595,7 +2458,6 @@
         "name":"暨阳队",
         "organization":"浙江农林大学暨阳学院",
         "official":1,
-        "english_name":"trible-o team",
         "members":[
             "王宇",
             "郑斌",
@@ -2606,7 +2468,6 @@
         "name":"面包杀手",
         "organization":"东北大学秦皇岛分校",
         "official":1,
-        "english_name":"NEUQ-BK",
         "members":[
             "朱家琦",
             "袁茂恒",
@@ -2617,7 +2478,6 @@
         "name":"奶茶茶",
         "organization":"浙江理工大学",
         "official":1,
-        "english_name":"tea with milk",
         "members":[
             "储炳焘",
             "李佳珂",
@@ -2628,7 +2488,6 @@
         "name":"南方科技大学-洛桑",
         "organization":"南方科技大学",
         "official":1,
-        "english_name":"SUSTech-Lausanne",
         "members":[
             "叶顶强",
             "范磊龙",
@@ -2639,7 +2498,6 @@
         "name":"给大佬倒杯卡布奇洛",
         "organization":"东北林业大学",
         "official":1,
-        "english_name":"Pour dalao a cup ofcoffee",
         "members":[
             "李嘉文",
             "王远卓",
@@ -2650,7 +2508,6 @@
         "name":"發財",
         "organization":"浙江财经大学",
         "official":1,
-        "english_name":"Be Rich",
         "members":[
             "万子豪",
             "徐山钧",
@@ -2661,7 +2518,6 @@
         "name":"阿姨手别抖",
         "organization":"广西师范大学",
         "official":1,
-        "english_name":"Granny, hold yourhand.",
         "members":[
             "刘慧",
             "覃源淞",
@@ -2672,7 +2528,6 @@
         "name":"抗压猫",
         "organization":"安徽大学",
         "official":1,
-        "english_name":"CatsUnderPressure",
         "members":[
             "王浩宇",
             "王赛新",
@@ -2683,7 +2538,6 @@
         "name":"得得得得得得得得得得",
         "organization":"浙江工业职业技术学院",
         "official":1,
-        "english_name":"yxjnb",
         "members":[
             "杨晓静",
             "王元",
@@ -2694,7 +2548,6 @@
         "name":"wa很高贵，我没机会",
         "organization":"浙大宁波理工学院",
         "official":1,
-        "english_name":"too elegant to WA",
         "members":[
             "林晶晶",
             "罗吟吟",
@@ -2705,7 +2558,6 @@
         "name":"山药小米粥",
         "organization":"南阳理工学院",
         "official":1,
-        "english_name":"Chinese yam milletporridge",
         "members":[
             "尹鸿波",
             "杨普",
@@ -2716,7 +2568,6 @@
         "name":"树下没法合并",
         "organization":"中北大学",
         "official":1,
-        "english_name":"dsu under the tree",
         "members":[
             "张健宁",
             "张国辉",
@@ -2727,7 +2578,6 @@
         "name":"哆啦梦A",
         "organization":"河南理工大学",
         "official":1,
-        "english_name":"Death horizon",
         "members":[
             "何厚蒙",
             "关帅",
@@ -2738,7 +2588,6 @@
         "name":"蜜汁火腿",
         "organization":"浙江机电职业技术学院",
         "official":1,
-        "english_name":"Unkonw Fire Leg",
         "members":[
             "张启琛",
             "虞林洋",
@@ -2749,7 +2598,6 @@
         "name":"化蝶",
         "organization":"北京化工大学",
         "official":1,
-        "english_name":"Chrysalis",
         "members":[
             "姜哲玺",
             "李腾飞",
@@ -2760,7 +2608,6 @@
         "name":"秃头始终慢我一步",
         "organization":"西安邮电大学",
         "official":1,
-        "english_name":"An ocean of hair",
         "members":[
             "彭浩然",
             "李浩宇",
@@ -2771,7 +2618,6 @@
         "name":"自动ac机",
         "organization":"四川轻化工大学",
         "official":1,
-        "english_name":"auto ac machine",
         "members":[
             "张宇昊",
             "李昊宇",
@@ -2782,7 +2628,6 @@
         "name":"广度多重可持久化Debug神经网络",
         "organization":"广东技术师范大学",
         "official":1,
-        "english_name":"Breadth multiplepersistent Debugneural network",
         "members":[
             "张晓彬",
             "梁健峰",
@@ -2793,7 +2638,6 @@
         "name":"让我再A一题",
         "organization":"江西理工大学",
         "official":1,
-        "english_name":"optimal solution",
         "members":[
             "周冠杰",
             "李鑫涛",
@@ -2804,7 +2648,6 @@
         "name":"米奇喵喵屋",
         "organization":"西北农林科技大学",
         "official":1,
-        "english_name":"Mickey meow house",
         "members":[
             "何宜家",
             "史颖涵",
@@ -2815,7 +2658,6 @@
         "name":"自动AC鸡",
         "organization":"中国矿业大学",
         "official":1,
-        "english_name":"Chickens Getting AC Automatically",
         "members":[
             "徐子康",
             "旷文杰",
@@ -2826,7 +2668,6 @@
         "name":"放码过来",
         "organization":"南京信息工程大学",
         "official":1,
-        "english_name":"Show me the Code",
         "members":[
             "张兴洋",
             "王徐旸",
@@ -2837,7 +2678,6 @@
         "name":"magua",
         "organization":"湖南人文科技学院",
         "official":1,
-        "english_name":"magua",
         "members":[
             "吕翱",
             "张嘉鑫",
@@ -2848,7 +2688,6 @@
         "name":"鸽",
         "organization":"华南农业大学",
         "official":1,
-        "english_name":"dove",
         "members":[
             "何广生",
             "卓泽钦",
@@ -2859,7 +2698,6 @@
         "name":"金钉园",
         "organization":"中国地质大学（武汉）",
         "official":1,
-        "english_name":"NO 1 Canteen",
         "members":[
             "朱天泽",
             "杜帅",
@@ -2870,7 +2708,6 @@
         "name":"罗德兰代表队",
         "organization":"大连理工大学",
         "official":1,
-        "english_name":"Lordran",
         "members":[
             "何泾",
             "余毅航",
@@ -2881,7 +2718,6 @@
         "name":"芋圆波波",
         "organization":"苏州大学",
         "official":1,
-        "english_name":"taro bobo",
         "members":[
             "徐乐怡",
             "戴晨晨",
@@ -2892,7 +2728,6 @@
         "name":"您已成功支付800元",
         "organization":"北京理工大学珠海学院",
         "official":1,
-        "english_name":"RMB-=800",
         "members":[
             "刘远哲",
             "张润泽",
@@ -2903,7 +2738,6 @@
         "name":"鸣谦",
         "organization":"太原理工大学",
         "official":1,
-        "english_name":"Modesty",
         "members":[
             "孟子杰",
             "王恪楠",
@@ -2914,7 +2748,6 @@
         "name":"我走错考场了",
         "organization":"东南大学",
         "official":1,
-        "english_name":"I'm in the wrongexam room",
         "members":[
             "方玉杰",
             "李思诚",
@@ -2925,7 +2758,6 @@
         "name":"清和龙",
         "organization":"青岛大学",
         "official":1,
-        "english_name":"clear and dragon",
         "members":[
             "张世龙",
             "张李鹤",
@@ -2936,7 +2768,6 @@
         "name":"哈理工11队",
         "organization":"哈尔滨理工大学",
         "official":1,
-        "english_name":"HRBUST11",
         "members":[
             "于雪吟",
             "张皓淞",
@@ -2947,7 +2778,6 @@
         "name":"三个小铁匠",
         "organization":"福州大学",
         "official":1,
-        "english_name":"Three littleblacksmiths",
         "members":[
             "余立",
             "张一鸿",
@@ -2958,7 +2788,6 @@
         "name":"幻影编码",
         "organization":"中国地质大学（武汉）",
         "official":1,
-        "english_name":"Phantom of Coding",
         "members":[
             "包嘉溢",
             "钱汉旭",
@@ -2969,7 +2798,6 @@
         "name":"华灯初上",
         "organization":"山东理工大学",
         "official":1,
-        "english_name":"shining",
         "members":[
             "彭子涵",
             "王显超",
@@ -2979,13 +2807,17 @@
     "1030001434":{
         "name":"范林赟nb",
         "organization":"金陵科技学院",
-        "official":1
+        "official":1,
+        "members":[
+            "周煜斌",
+            "盛夏滔",
+            "范林赟"
+        ]
     },
     "1030001713":{
         "name":"ZCMU-鱼骨花生豆",
         "organization":"浙江中医药大学",
         "official":1,
-        "english_name":"ZCMU-Fish bone andpeanuts",
         "members":[
             "朱家伟",
             "李弘辰",
@@ -2996,7 +2828,6 @@
         "name":"SCAU_XXX",
         "organization":"华南农业大学",
         "official":1,
-        "english_name":"SCAU_XXX",
         "members":[
             "张君豪",
             "曾晓雯",
@@ -3007,7 +2838,6 @@
         "name":"耗子尾汁",
         "organization":"南阳理工学院",
         "official":1,
-        "english_name":"Rat tail juice",
         "members":[
             "万博",
             "徐麒麟",
@@ -3018,7 +2848,6 @@
         "name":"前面的等等我",
         "organization":"湖南中医药大学",
         "official":1,
-        "english_name":"Front's, wait for me",
         "members":[
             "胡雅晖",
             "邹伟红",
@@ -3029,7 +2858,6 @@
         "name":"打铁人",
         "organization":"新疆大学",
         "official":1,
-        "english_name":"hit iron man",
         "members":[
             "郭一贤",
             "陈永园",
@@ -3040,7 +2868,6 @@
         "name":"不讲武德",
         "organization":"华南师范大学",
         "official":1,
-        "english_name":"You're rude.",
         "members":[
             "余宁涛",
             "陈学琛",
@@ -3051,7 +2878,6 @@
         "name":"果断白给",
         "organization":"南京理工大学",
         "official":1,
-        "english_name":"GuoDuan And BaiGei",
         "members":[
             "代领",
             "王子悦",
@@ -3062,7 +2888,6 @@
         "name":"碳酸飞行",
         "organization":"天津大学",
         "official":1,
-        "english_name":"CarbonateFlight",
         "members":[
             "孟繁辰",
             "朱明煊",
@@ -3073,7 +2898,6 @@
         "name":"温大二队",
         "organization":"温州大学",
         "official":1,
-        "english_name":"WZU No.2",
         "members":[
             "朱林博",
             "程煜",
@@ -3084,7 +2908,6 @@
         "name":"多人运动",
         "organization":"西安邮电大学",
         "official":1,
-        "english_name":"Time Management",
         "members":[
             "邓子玄",
             "邵星植",
@@ -3095,7 +2918,6 @@
         "name":"杰哥带我飞",
         "organization":"西南民族大学",
         "official":1,
-        "english_name":"Fly with jie",
         "members":[
             "张世琛",
             "曾北生",
@@ -3106,7 +2928,6 @@
         "name":"待命名",
         "organization":"武汉大学",
         "official":1,
-        "english_name":"to be named",
         "members":[
             "任旭滨",
             "刘皓杰",
@@ -3117,7 +2938,6 @@
         "name":"线上旅游真好玩",
         "organization":"郑州大学",
         "official":1,
-        "english_name":"Funny online trip",
         "members":[
             "何骏扬",
             "姚建业",
@@ -3128,7 +2948,6 @@
         "name":"某队",
         "organization":"河北工业大学",
         "official":1,
-        "english_name":"A team",
         "members":[
             "叶子繁",
             "张天岳",
@@ -3139,7 +2958,6 @@
         "name":"比赛看运气",
         "organization":"乐山师范学院",
         "official":1,
-        "english_name":"Competitiondepends on luck",
         "members":[
             "杨国庆",
             "林玲",
@@ -3150,7 +2968,6 @@
         "name":"队长是废物",
         "organization":"浙江工商大学杭州商学院",
         "official":1,
-        "english_name":"Leader is five",
         "members":[
             "章起帆",
             "陈婕",
@@ -3161,7 +2978,6 @@
         "name":"工具小人儿",
         "organization":"武汉科技大学",
         "official":1,
-        "english_name":"Tools",
         "members":[
             "王印德",
             "秦驰",
@@ -3172,7 +2988,6 @@
         "name":"墨西哥鸡肉卷",
         "organization":"东南大学",
         "official":1,
-        "english_name":"Mexican ChickenBurrito",
         "members":[
             "林子彦",
             "苟元博",
@@ -3183,7 +2998,6 @@
         "name":"物我无尽",
         "organization":"福建工程学院",
         "official":1,
-        "english_name":"endless",
         "members":[
             "江秉璋",
             "沈晖",
@@ -3194,7 +3008,6 @@
         "name":"新年爆发",
         "organization":"长安大学",
         "official":1,
-        "english_name":"NewYearBurst",
         "members":[
             "单逸飞",
             "孙腾蛟",
@@ -3205,7 +3018,6 @@
         "name":"萌萌耿丹兰",
         "organization":"宁波大学",
         "official":1,
-        "english_name":"QQ Dan Lily",
         "members":[
             "张冉",
             "徐丹",
@@ -3216,7 +3028,6 @@
         "name":"三个憨批",
         "organization":"西北农林科技大学",
         "official":1,
-        "english_name":"Three Happy",
         "members":[
             "张城骁",
             "徐浩然",
@@ -3227,7 +3038,6 @@
         "name":"我们学校解封了",
         "organization":"北京化工大学",
         "official":1,
-        "english_name":"Freedom!",
         "members":[
             "刘源源",
             "李思琪",
@@ -3238,7 +3048,6 @@
         "name":"长沙到南京的机票快没了",
         "organization":"长沙理工大学",
         "official":1,
-        "english_name":"No Silver No Back",
         "members":[
             "李文龙",
             "肖沛希",
@@ -3249,7 +3058,6 @@
         "name":"喵喵喵",
         "organization":"西安电子科技大学",
         "official":1,
-        "english_name":"Meow",
         "members":[
             "冯雪晴",
             "栾昕亚",
@@ -3260,7 +3068,6 @@
         "name":"生之如舟",
         "organization":"河南理工大学",
         "official":1,
-        "english_name":"Life is like a boat",
         "members":[
             "尹亚雨",
             "李强",
@@ -3271,7 +3078,6 @@
         "name":"力宝今天带笔了吗",
         "organization":"东南大学",
         "official":1,
-        "english_name":"Does libao bring apen today",
         "members":[
             "史天力",
             "吕炎昌",
@@ -3282,7 +3088,6 @@
         "name":"炼金术士爱上了崔丝塔娜",
         "organization":"青岛科技大学",
         "official":1,
-        "english_name":"Creeper",
         "members":[
             "史瑶",
             "房鑫源",
@@ -3293,7 +3098,6 @@
         "name":"z",
         "organization":"深圳大学",
         "official":1,
-        "english_name":"FishGame(Live.ver)",
         "members":[
             "陈欣宇",
             "马永赫",
@@ -3304,7 +3108,6 @@
         "name":"我好像又行了",
         "organization":"南昌航空大学",
         "official":1,
-        "english_name":"I think I can do it again",
         "members":[
             "吴潇龙",
             "曾凯浩",
@@ -3314,13 +3117,17 @@
     "1030001501":{
         "name":"WA怪",
         "organization":"宁波大学",
-        "official":1
+        "official":1,
+        "members":[
+            "卢扬",
+            "应柯楠",
+            "徐安"
+        ]
     },
     "1030001491":{
         "name":"你的名字",
         "organization":"南开大学",
         "official":1,
-        "english_name":"Your-Name",
         "members":[
             "丁彦添",
             "李雨熹",
@@ -3331,7 +3138,6 @@
         "name":"华伦西亚",
         "organization":"肇庆学院",
         "official":1,
-        "english_name":"ZQU_ValenciaCF",
         "members":[
             "吴洽",
             "林嘉彤",
@@ -3342,7 +3148,6 @@
         "name":"小数点",
         "organization":"长春理工大学",
         "official":1,
-        "english_name":"decimalPoint",
         "members":[
             "沈吉行",
             "王大睿",
@@ -3353,7 +3158,6 @@
         "name":"萨勒芬妮",
         "organization":"武汉理工大学",
         "official":1,
-        "english_name":"Seraphine",
         "members":[
             "张重驰",
             "李斌豪",
@@ -3364,7 +3168,6 @@
         "name":"黑黑向前冲",
         "organization":"绍兴文理学院",
         "official":1,
-        "english_name":"blackgogo",
         "members":[
             "吴狄",
             "孟嘉政",
@@ -3375,7 +3178,6 @@
         "name":"无惧号",
         "organization":"山东科技大学",
         "official":1,
-        "english_name":"NCC14598 Fearless",
         "members":[
             "王永臻",
             "辛春雨",
@@ -3386,7 +3188,6 @@
         "name":"未命名[404]",
         "organization":"青岛大学",
         "official":1,
-        "english_name":"Not Found[404]",
         "members":[
             "单佳波",
             "段崇晖",
@@ -3397,7 +3198,6 @@
         "name":"遇到困难睡大觉",
         "organization":"南京林业大学",
         "official":1,
-        "english_name":"Seele is waiting forme",
         "members":[
             "周怿翔",
             "张友鑫",
@@ -3407,13 +3207,17 @@
     "1030001551":{
         "name":"教练要求队名有字因为乌兹不行",
         "organization":"上海大学",
-        "official":1
+        "official":1,
+        "members":[
+            "丁东",
+            "朱赟琦",
+            "王启隆"
+        ]
     },
     "1030001735":{
         "name":"寻找不爆0世界线的嘟嘟噜",
         "organization":"中国科学技术大学",
         "official":1,
-        "english_name":"touttouru",
         "members":[
             "周子航",
             "李泽林",
@@ -3424,7 +3228,6 @@
         "name":"偷袭我们小同志",
         "organization":"南开大学",
         "official":1,
-        "english_name":"You'd better rat tailjuice!",
         "members":[
             "卢麒萱",
             "宋秭睿",
@@ -3435,7 +3238,6 @@
         "name":"遇到困难睡大觉",
         "organization":"南京大学",
         "official":1,
-        "english_name":"Sleep in Face ofDifficulty",
         "members":[
             "何宇杭",
             "倪锦涵",
@@ -3446,7 +3248,6 @@
         "name":"洗洗睡了",
         "organization":"杭州师范大学",
         "official":1,
-        "english_name":"washing washing sleeping",
         "members":[
             "付俊",
             "何陈聪",
@@ -3456,13 +3257,17 @@
     "1030001641":{
         "name":"Deep dark fantasy",
         "organization":"西南科技大学",
-        "official":1
+        "official":1,
+        "members":[
+            "Yangyang Liu",
+            "Yongqi Wang",
+            "Zedong Jiang"
+        ]
     },
     "1030001475":{
         "name":"彳亍",
         "organization":"南京林业大学",
         "official":1,
-        "english_name":"OK",
         "members":[
             "朱研浩",
             "李贾",
@@ -3473,7 +3278,6 @@
         "name":"取个队名这么难还能不能好好写题",
         "organization":"西北大学",
         "official":1,
-        "english_name":"MgeCarry",
         "members":[
             "李博轩",
             "武文贝",
@@ -3484,7 +3288,6 @@
         "name":"年轻人不讲武德",
         "organization":"惠州学院",
         "official":1,
-        "english_name":"Young people do notspeak martial arts",
         "members":[
             "丘世逸",
             "赵煜潘",
@@ -3495,7 +3298,6 @@
         "name":"ICPC茶水间",
         "organization":"重庆邮电大学",
         "official":1,
-        "english_name":"ICPC Teahouse",
         "members":[
             "曹大宇",
             "苏新宇",
@@ -3506,7 +3308,6 @@
         "name":"给我幽鬼，不赢砍手",
         "organization":"北京师范大学",
         "official":1,
-        "english_name":"Juvenile",
         "members":[
             "何佳文",
             "林靖轩",
@@ -3517,7 +3318,6 @@
         "name":"妙蛙种子",
         "organization":"中国海洋大学",
         "official":1,
-        "english_name":"happywaseed",
         "members":[
             "吕筱玮",
             "张子涵",
@@ -3528,7 +3328,6 @@
         "name":"你只在乎你的袋鼠",
         "organization":"中国海洋大学",
         "official":1,
-        "english_name":"You only care aboutyour kangaroo",
         "members":[
             "徐月海",
             "贾于锐",
@@ -3539,7 +3338,6 @@
         "name":"划水",
         "organization":"中国矿业大学（北京）",
         "official":1,
-        "english_name":"FAKE NEWS",
         "members":[
             "贺翔",
             "邹沂珊",
@@ -3550,7 +3348,6 @@
         "name":"有富婆吗",
         "organization":"北京师范大学",
         "official":1,
-        "english_name":"Are there any richwomen?",
         "members":[
             "周昱彤",
             "李海淼",
@@ -3560,13 +3357,17 @@
     "1030001374":{
         "name":"妈妈，我做到了！",
         "organization":"湖南人文科技学院",
-        "official":1
+        "official":1,
+        "members":[
+            "刘俊",
+            "张克胜",
+            "莫勤键"
+        ]
     },
     "1030001315":{
         "name":"上流老拳师",
         "organization":"广州中医药大学",
         "official":1,
-        "english_name":"My fists are hard",
         "members":[
             "曾清源",
             "谢炜豪",
@@ -3577,7 +3378,6 @@
         "name":"育英五队",
         "organization":"浙江育英职业技术学院",
         "official":1,
-        "english_name":"yyteam5",
         "members":[
             "冯浚豪",
             "叶铸远",
@@ -3588,7 +3388,6 @@
         "name":"育英六队",
         "organization":"浙江育英职业技术学院",
         "official":1,
-        "english_name":"yyteam6",
         "members":[
             "何龙勇",
             "朱文南",
@@ -3599,7 +3398,6 @@
         "name":"程序员不爆零而亡",
         "organization":"北方工业大学",
         "official":1,
-        "english_name":"Programmer of Honor",
         "members":[
             "张荔姗",
             "李欣蔚",
@@ -3610,7 +3408,6 @@
         "name":"三轮车",
         "organization":"北京工业大学",
         "official":1,
-        "english_name":"TriCycle",
         "members":[
             "朱浩然",
             "王大任",
@@ -3620,13 +3417,17 @@
     "1030001314":{
         "name":"wzry没你想的那么简单",
         "organization":"广州中医药大学",
-        "official":1
+        "official":1,
+        "members":[
+            "冯立俊",
+            "谢乔森",
+            "马文兆"
+        ]
     },
     "1030001414":{
         "name":"幺零伍",
         "organization":"惠州学院",
         "official":1,
-        "english_name":"OneZeroFive",
         "members":[
             "张森俊",
             "许晓杭",
@@ -3637,7 +3438,6 @@
         "name":"年轻人不讲码徳",
         "organization":"山东大学（威海）",
         "official":1,
-        "english_name":"Be civilized QAQ",
         "members":[
             "田新宇",
             "邵琪",
@@ -3648,7 +3448,6 @@
         "name":"红豆薏仁糙米汤",
         "organization":"河北工业大学",
         "official":1,
-        "english_name":"EDG never Aces 7",
         "members":[
             "杨子棋",
             "王帅潮",
@@ -3659,7 +3458,6 @@
         "name":"挠头",
         "organization":"东北大学",
         "official":1,
-        "english_name":"NEU_Scratch",
         "members":[
             "凌润",
             "王泽辉",
@@ -3670,7 +3468,6 @@
         "name":"哈理工10队",
         "organization":"哈尔滨理工大学",
         "official":1,
-        "english_name":"HRBUST10",
         "members":[
             "孙麒皓",
             "蒙晟维",
@@ -3681,7 +3478,6 @@
         "name":"划呀划",
         "organization":"重庆邮电大学",
         "official":1,
-        "english_name":"huayahua",
         "members":[
             "田哲宇",
             "赖晓云",
@@ -3692,7 +3488,6 @@
         "name":"比奇堡",
         "organization":"河北工业大学",
         "official":1,
-        "english_name":"BikiniBottom",
         "members":[
             "冯俊杰",
             "孙泽鑫",
@@ -3703,7 +3498,6 @@
         "name":"一朵小红花",
         "organization":"浙江科技学院",
         "official":1,
-        "english_name":"A little red flower",
         "members":[
             "余德会",
             "忻建东",
@@ -3714,7 +3508,6 @@
         "name":"选对赛区少打20年",
         "organization":"黑龙江大学",
         "official":1,
-        "english_name":"Right Choice 20yearsLess",
         "members":[
             "彭泶淞",
             "许健炜",
@@ -3725,7 +3518,6 @@
         "name":"卢本韦牛逼",
         "organization":"温州大学瓯江学院",
         "official":1,
-        "english_name":"lbwnb",
         "members":[
             "刘锦乐",
             "卢锦翔",
@@ -3736,7 +3528,6 @@
         "name":"kirakira_dokidoki",
         "organization":"郑州轻工业大学",
         "official":1,
-        "english_name":"kirakira_dokidoki",
         "members":[
             "宋江",
             "张纪龙",
@@ -3747,7 +3538,6 @@
         "name":"杨冰冰",
         "organization":"浙江农林大学",
         "official":1,
-        "english_name":"yangbingbing",
         "members":[
             "戴雨欣",
             "杨成艺",
@@ -3758,7 +3548,6 @@
         "name":"来一碗AC",
         "organization":"台州学院",
         "official":1,
-        "english_name":"Serendipity",
         "members":[
             "叶丹薇",
             "徐秋雅",
@@ -3769,7 +3558,6 @@
         "name":"就进来看看题",
         "organization":"福建工程学院",
         "official":1,
-        "english_name":"Just come in andhave a look at theproblem",
         "members":[
             "罗杰鑫",
             "许宏南",
@@ -3780,7 +3568,6 @@
         "name":"祺玉老师就是强",
         "organization":"南通大学",
         "official":1,
-        "english_name":"QiYu teacher is thebest",
         "members":[
             "李玉凡",
             "缪祺",
@@ -3791,7 +3578,6 @@
         "name":"自在飞花轻似梦",
         "organization":"山东理工大学",
         "official":1,
-        "english_name":"Dream",
         "members":[
             "王诗音",
             "石旭",
@@ -3802,7 +3588,6 @@
         "name":"我不知道啊",
         "organization":"哈尔滨工业大学",
         "official":1,
-        "english_name":"not a clue",
         "members":[
             "姚澜",
             "庄舒漫",
@@ -3813,7 +3598,6 @@
         "name":"颜值就是正义",
         "organization":"东北大学",
         "official":1,
-        "english_name":"NEU_face_is_the_fate",
         "members":[
             "张嘉正",
             "梁亮",
@@ -3824,7 +3608,6 @@
         "name":"针锋相队",
         "organization":"湖州师范学院",
         "official":1,
-        "english_name":"zjhu_mwy",
         "members":[
             "於志豪",
             "王修宁",
@@ -3833,14 +3616,18 @@
     },
     "1030001433":{
         "name":"雷古拉斯",
-        "organization":"江西理工大学南昌校区",
-        "official":1
+        "organization":"江西理工大学",
+        "official":1,
+        "members":[
+            "游文燕",
+            "苏俊源",
+            "邓双燕"
+        ]
     },
     "1030001308":{
         "name":"少年先疯队",
         "organization":"广东技术师范大学",
         "official":1,
-        "english_name":"crazy boy",
         "members":[
             "张杰",
             "陈伟照",
@@ -3851,7 +3638,6 @@
         "name":"选择困难",
         "organization":"山东师范大学",
         "official":1,
-        "english_name":"Too difficult tochoose",
         "members":[
             "熊淑贤",
             "王祥男",
@@ -3862,7 +3648,6 @@
         "name":"头脑风暴",
         "organization":"嘉应学院",
         "official":1,
-        "english_name":"brainstorming",
         "members":[
             "张健城",
             "张杰",
@@ -3873,7 +3658,6 @@
         "name":"好耶",
         "organization":"临沂大学",
         "official":1,
-        "english_name":"all is well",
         "members":[
             "于新凯",
             "侯洪昌",
@@ -3884,7 +3668,6 @@
         "name":"我不是，我没有，别瞎说",
         "organization":"同济大学",
         "official":1,
-        "english_name":"l'm not.l'm not.Don'ttalk nonsense",
         "members":[
             "安江涛",
             "王晓鹏",
@@ -3895,7 +3678,6 @@
         "name":"早安打工人",
         "organization":"天津工业大学",
         "official":1,
-        "english_name":"Good morning,working man",
         "members":[
             "周邱涵",
             "廖嘉伟",
@@ -3906,7 +3688,6 @@
         "name":"WA自动机",
         "organization":"温州大学瓯江学院",
         "official":1,
-        "english_name":"Wow-AnswerAutomaton",
         "members":[
             "吴时鹏",
             "涂成博",
@@ -3917,7 +3698,6 @@
         "name":"这个队名怎么样",
         "organization":"盐城工学院",
         "official":1,
-        "english_name":"team name isbuilding…",
         "members":[
             "张天伟",
             "胡远韬",
@@ -3928,7 +3708,6 @@
         "name":"光子",
         "organization":"东北师范大学",
         "official":1,
-        "english_name":"Light",
         "members":[
             "宋怀智",
             "张沛毅",
@@ -3939,7 +3718,6 @@
         "name":"一支三人队伍",
         "organization":"东北林业大学",
         "official":1,
-        "english_name":"A team with threepeople",
         "members":[
             "吴雨思",
             "赵洋",
@@ -3950,7 +3728,6 @@
         "name":"村花",
         "organization":"沈阳化工大学",
         "official":1,
-        "english_name":"The village flower",
         "members":[
             "于佳宁",
             "杨杰",
@@ -3961,7 +3738,6 @@
         "name":"不如玩游戏",
         "organization":"兰州大学",
         "official":1,
-        "english_name":"code_is_cheap",
         "members":[
             "伍阳",
             "夏一凡",
@@ -3972,7 +3748,6 @@
         "name":"是我站的还不够高吗",
         "organization":"浙江师范大学",
         "official":1,
-        "english_name":"stand high enough?",
         "members":[
             "杨佳宁",
             "滕佳倩",
@@ -3983,7 +3758,6 @@
         "name":"鹅克赛普特",
         "organization":"中国石油大学（华东）",
         "official":1,
-        "english_name":"Accept",
         "members":[
             "付文昊",
             "汪子霄",
@@ -3994,7 +3768,6 @@
         "name":"AC降临到我身边",
         "organization":"福建农林大学",
         "official":1,
-        "english_name":"Link to AC",
         "members":[
             "施炜辰",
             "林新煜",
@@ -4005,7 +3778,6 @@
         "name":"换个题继续wa",
         "organization":"武汉科技大学",
         "official":1,
-        "english_name":"wa wa",
         "members":[
             "张杰",
             "李佳毅",
@@ -4016,7 +3788,6 @@
         "name":"我好了",
         "organization":"南京邮电大学通达学院",
         "official":1,
-        "english_name":"WoHaoLe",
         "members":[
             "涂睿哲",
             "王宗宇",
@@ -4027,7 +3798,6 @@
         "name":"敲码打工人",
         "organization":"长春理工大学",
         "official":1,
-        "english_name":"CodingProletariate",
         "members":[
             "吴尚哲",
             "段韬",
@@ -4037,13 +3807,17 @@
     "1030001504":{
         "name":"三人半蹲五小时坐看大佬来AK",
         "organization":"宁波工程学院",
-        "official":1
+        "official":1,
+        "members":[
+            "梁佳誉",
+            "王伟臣",
+            "郁鸣"
+        ]
     },
     "1030001494":{
         "name":"怕WA就不交了",
         "organization":"南阳理工学院",
         "official":1,
-        "english_name":"Afraid of WA will notpay",
         "members":[
             "傅江鹏",
             "刘铠溪",
@@ -4053,13 +3827,17 @@
     "1030001502":{
         "name":"就想拿个牌？",
         "organization":"宁波大学",
-        "official":1
+        "official":1,
+        "members":[
+            "余泽淋",
+            "徐哲",
+            "臧明"
+        ]
     },
     "1030001287":{
         "name":"天堂制造",
         "organization":"东北师范大学",
         "official":1,
-        "english_name":"made in scp-AC",
         "members":[
             "李景袁",
             "林一夫",
@@ -4070,7 +3848,6 @@
         "name":"不可抢占资源",
         "organization":"上海大学",
         "official":1,
-        "english_name":"NonpreemptableResources",
         "members":[
             "王宇轩",
             "王诗评",
@@ -4081,7 +3858,6 @@
         "name":"我永远单推佩奇",
         "organization":"重庆邮电大学",
         "official":1,
-        "english_name":"We only love PeppaPig",
         "members":[
             "华文豪",
             "汪奕霖",
@@ -4092,7 +3868,6 @@
         "name":"果宝三剑客",
         "organization":"杭州师范大学",
         "official":1,
-        "english_name":"Three fruits",
         "members":[
             "李浩然",
             "温铭浩",
@@ -4103,7 +3878,6 @@
         "name":"终于来了",
         "organization":"河南理工大学",
         "official":1,
-        "english_name":"finally coming",
         "members":[
             "张海洋",
             "王仲煜",
@@ -4114,7 +3888,6 @@
         "name":"楼上慢一点",
         "organization":"乐山师范学院",
         "official":1,
-        "english_name":"Slow down upstairs.",
         "members":[
             "刘馨",
             "敬开壮",
@@ -4125,7 +3898,6 @@
         "name":"娃哈哈",
         "organization":"江苏科技大学",
         "official":1,
-        "english_name":"Wahaha",
         "members":[
             "刘兴源",
             "罗志康",
@@ -4136,7 +3908,6 @@
         "name":"星十字",
         "organization":"南昌理工学院",
         "official":1,
-        "english_name":"Starry Corss",
         "members":[
             "张杰",
             "杨海波",
@@ -4147,7 +3918,6 @@
         "name":"西西里",
         "organization":"西安理工大学",
         "official":1,
-        "english_name":"XIXILI",
         "members":[
             "徐诚",
             "赵佳俊",
@@ -4158,7 +3928,6 @@
         "name":"流年笑掷,未来可期",
         "organization":"山东大学（威海）",
         "official":1,
-        "english_name":"Promissing Futurity",
         "members":[
             "孙普华",
             "朱浩天",
@@ -4169,7 +3938,6 @@
         "name":"一夜扁舟",
         "organization":"南昌航空大学",
         "official":1,
-        "english_name":"A night of boats",
         "members":[
             "俞关中",
             "李天盈",
@@ -4180,7 +3948,6 @@
         "name":"大意了没有闪",
         "organization":"华中农业大学",
         "official":1,
-        "english_name":"Ouch! No Flash",
         "members":[
             "吴俊彤",
             "邢广杰",
@@ -4191,7 +3958,6 @@
         "name":"绝不咕咕队",
         "organization":"中南民族大学",
         "official":1,
-        "english_name":"No gu-gu",
         "members":[
             "李靖龙",
             "罗巧如",
@@ -4202,7 +3968,6 @@
         "name":"三人欢乐斗地主",
         "organization":"齐鲁工业大学",
         "official":1,
-        "english_name":"ThreeWinMedals",
         "members":[
             "刘长建",
             "李旭晨",
@@ -4213,7 +3978,6 @@
         "name":"寒假快乐",
         "organization":"青岛科技大学",
         "official":1,
-        "english_name":"Fetri",
         "members":[
             "张亚",
             "林海",
@@ -4224,7 +3988,6 @@
         "name":"刚才发生了什么",
         "organization":"浙江科技学院",
         "official":1,
-        "english_name":"What just happened",
         "members":[
             "李世宇",
             "林育森",
@@ -4235,7 +3998,6 @@
         "name":"计院头牌",
         "organization":"齐鲁工业大学",
         "official":1,
-        "english_name":"StarHWL",
         "members":[
             "李德旺",
             "王励翔",
@@ -4246,7 +4008,6 @@
         "name":"ac怪怪",
         "organization":"华东师范大学",
         "official":1,
-        "english_name":"acmonsterrrrr",
         "members":[
             "周子涵",
             "孙恬",
@@ -4257,7 +4018,6 @@
         "name":"什么东西",
         "organization":"郑州大学",
         "official":1,
-        "english_name":"Whateam",
         "members":[
             "李浩",
             "王鹏",
@@ -4268,7 +4028,6 @@
         "name":"长沙四方坪男子家政职业体校",
         "organization":"国防科技大学",
         "official":1,
-        "english_name":"Accept",
         "members":[
             "朱卓锋",
             "董理",
@@ -4279,7 +4038,6 @@
         "name":"CDZSC_队长女装凑女队",
         "organization":"电子科技大学中山学院",
         "official":1,
-        "english_name":"CDZSC_girl team",
         "members":[
             "李泳欣",
             "陈阳洋",
@@ -4289,13 +4047,17 @@
     "1030001483":{
         "name":"听取wa声一片",
         "organization":"南京邮电大学",
-        "official":1
+        "official":1,
+        "members":[
+            "肖鸿",
+            "郁青陟",
+            "陆晓琦"
+        ]
     },
     "1030001432":{
         "name":"酸菜鱼",
         "organization":"江西理工大学",
         "official":1,
-        "english_name":"Pickled_fish",
         "members":[
             "张庭威",
             "罗颖博",
@@ -4306,7 +4068,6 @@
         "name":"什么都不会",
         "organization":"武汉商学院",
         "official":1,
-        "english_name":"WhatCanIdo",
         "members":[
             "何丞",
             "樊庆元",
@@ -4317,7 +4078,6 @@
         "name":"全员剑圣",
         "organization":"天津大学",
         "official":1,
-        "english_name":"all sword to WF",
         "members":[
             "朱睿涵",
             "樊兴宇",
@@ -4328,7 +4088,6 @@
         "name":"巨磁电阻",
         "organization":"山东工商学院",
         "official":1,
-        "english_name":"GMR",
         "members":[
             "刘继源",
             "陈传旺",
@@ -4339,7 +4098,6 @@
         "name":"wa掘机",
         "organization":"华南师范大学",
         "official":1,
-        "english_name":"excavator",
         "members":[
             "傅绍基",
             "刘其琦",
@@ -4350,7 +4108,6 @@
         "name":"惊喜",
         "organization":"四川轻化工大学",
         "official":1,
-        "english_name":"surprise",
         "members":[
             "余伟",
             "刘又鑫",
@@ -4361,7 +4118,6 @@
         "name":"谐音梗扣钱",
         "organization":"河海大学",
         "official":1,
-        "english_name":"Take Money Away",
         "members":[
             "蓝浩伦",
             "赵崇文",
@@ -4372,7 +4128,6 @@
         "name":"就这个我喜欢这个",
         "organization":"华东交通大学",
         "official":1,
-        "english_name":"That's_it._I_like_that",
         "members":[
             "刘作霖",
             "熊文斌",
@@ -4383,7 +4138,6 @@
         "name":"蔬菜批发市场",
         "organization":"河海大学",
         "official":1,
-        "english_name":"my teammate wannaget married",
         "members":[
             "杜宗哲",
             "肖潇",
@@ -4394,7 +4148,6 @@
         "name":"南工大1队",
         "organization":"南京工业大学",
         "official":1,
-        "english_name":"Njtech001",
         "members":[
             "吴建锋",
             "张喆",
@@ -4405,7 +4158,6 @@
         "name":"这次队名队友说随便起",
         "organization":"中原工学院",
         "official":1,
-        "english_name":"This time the teamname teammate saidcasually",
         "members":[
             "方泽贤",
             "赵永波",
@@ -4416,7 +4168,6 @@
         "name":"_耗子尾汁_耗耗反思_",
         "organization":"青岛大学",
         "official":1,
-        "english_name":"_How's_the_weather_",
         "members":[
             "刁世越",
             "贾承霖",
@@ -4427,7 +4178,6 @@
         "name":"哆来咪",
         "organization":"太原理工大学",
         "official":1,
-        "english_name":"SoLaXi",
         "members":[
             "冷玉含",
             "郝新丽",
@@ -4438,7 +4188,6 @@
         "name":"小伙子队",
         "organization":"大连海事大学",
         "official":1,
-        "english_name":"Guys Team",
         "members":[
             "宋金涛",
             "蒲柏宇",
@@ -4449,7 +4198,6 @@
         "name":"我大E了没有WA",
         "organization":"厦门大学",
         "official":1,
-        "english_name":"Careless without WA",
         "members":[
             "郭佳睿",
             "郭立敏",
@@ -4460,7 +4208,6 @@
         "name":"我们只是来卖萌而已",
         "organization":"山东师范大学",
         "official":1,
-        "english_name":"The three (≧ ∇≦)",
         "members":[
             "奚文涓",
             "李荣奥",
@@ -4471,7 +4218,6 @@
         "name":"一起爬山吗",
         "organization":"太原理工大学",
         "official":1,
-        "english_name":"Go climbing",
         "members":[
             "岳文颂",
             "耿文凯",
@@ -4482,7 +4228,6 @@
         "name":"听风",
         "organization":"闽南师范大学",
         "official":1,
-        "english_name":"wind",
         "members":[
             "杨嘉诚",
             "杨成汉",
@@ -4493,7 +4238,6 @@
         "name":"微微一笑很倾城",
         "organization":"湖州师范学院",
         "official":1,
-        "english_name":"zjhu_gtw",
         "members":[
             "温钦怡",
             "陶谦文",
@@ -4504,7 +4248,6 @@
         "name":"轻大幼儿园",
         "organization":"郑州轻工业大学",
         "official":1,
-        "english_name":"ZZULIKINDERGARTEN",
         "members":[
             "张迎早",
             "曾日贵",
@@ -4515,7 +4258,6 @@
         "name":"锤子",
         "organization":"南华大学",
         "official":1,
-        "english_name":"hammer",
         "members":[
             "左毅博",
             "肖正皇",
@@ -4526,7 +4268,6 @@
         "name":"三只小松鼠",
         "organization":"沈阳化工大学",
         "official":1,
-        "english_name":"Three little squirrels",
         "members":[
             "于雪杰",
             "史昀卉",
@@ -4537,7 +4278,6 @@
         "name":"简简单单才是真",
         "organization":"华南农业大学",
         "official":1,
-        "english_name":"ASimpleTeam",
         "members":[
             "冯英鹏",
             "吕庆峰",
@@ -4548,7 +4288,6 @@
         "name":"按需取余",
         "organization":"中国石油大学（华东）",
         "official":1,
-        "english_name":"Mod By Need",
         "members":[
             "叶文强",
             "张肇辉",
@@ -4559,7 +4298,6 @@
         "name":"一半城市雾蒙蒙",
         "organization":"沈阳化工大学",
         "official":1,
-        "english_name":"half city",
         "members":[
             "张程程",
             "曲贺",
@@ -4570,7 +4308,6 @@
         "name":"我是乱打的",
         "organization":"浙江农林大学",
         "official":1,
-        "english_name":"random hit",
         "members":[
             "张敏杰",
             "邵晨恒",
@@ -4581,7 +4318,6 @@
         "name":"ACBU",
         "organization":"大连大学",
         "official":1,
-        "english_name":"ACBU",
         "members":[
             "关泽群",
             "刘勇君",
@@ -4591,13 +4327,17 @@
     "1030001231":{
         "name":"北工大WA掘机",
         "organization":"北京工业大学",
-        "official":1
+        "official":1,
+        "members":[
+            "孙天天",
+            "许世尧",
+            "陈榆坤"
+        ]
     },
     "1030001562":{
         "name":"轻罗小扇扑流萤",
         "organization":"绍兴文理学院元培学院",
         "official":1,
-        "english_name":"The little fan fluttersthe fireflies",
         "members":[
             "杨衡锐",
             "王韬略",
@@ -4608,7 +4348,6 @@
         "name":"错误答案",
         "organization":"西南科技大学",
         "official":1,
-        "english_name":"Wrong Answer",
         "members":[
             "何治霖",
             "杨先航",
@@ -4619,7 +4358,6 @@
         "name":"滚筒洗衣机",
         "organization":"宁波工程学院",
         "official":1,
-        "english_name":"Drum washingmachine",
         "members":[
             "张泽烨",
             "王信泽",
@@ -4630,7 +4368,6 @@
         "name":"传统功夫",
         "organization":"哈尔滨工程大学",
         "official":1,
-        "english_name":"Traditional Kungfu",
         "members":[
             "张宇驰",
             "朱敬涵",
@@ -4641,7 +4378,6 @@
         "name":"总是AC",
         "organization":"南昌理工学院",
         "official":1,
-        "english_name":"Always AC",
         "members":[
             "徐文祥",
             "李菁",
@@ -4652,7 +4388,6 @@
         "name":"希望楼下能拿牌",
         "organization":"乐山师范学院",
         "official":1,
-        "english_name":"Hope downstairs canget a card",
         "members":[
             "熊四莘",
             "赵泽柱",
@@ -4663,7 +4398,6 @@
         "name":"显式并行指令码",
         "organization":"长春理工大学",
         "official":1,
-        "english_name":"explicitly parallelinstruction code",
         "members":[
             "于越",
             "吴健赟",
@@ -4674,7 +4408,6 @@
         "name":"湖理_狐狸",
         "organization":"湖南理工学院",
         "official":1,
-        "english_name":"Hnist_Fox",
         "members":[
             "彭浜",
             "朱家豪",
@@ -4685,7 +4418,6 @@
         "name":"爱你哦哥哥么么",
         "organization":"南阳师范学院",
         "official":1,
-        "english_name":"ainiogege",
         "members":[
             "李国帅",
             "杜汪洋",
@@ -4696,7 +4428,6 @@
         "name":"不讲武德",
         "organization":"湖州师范学院",
         "official":1,
-        "english_name":"zjhu_flx",
         "members":[
             "刘江玲",
             "方金华",
@@ -4707,7 +4438,6 @@
         "name":"T1382",
         "organization":"浙江工商大学",
         "official":1,
-        "english_name":"2831T",
         "members":[
             "傅嘉豪",
             "连佳州",
@@ -4718,7 +4448,6 @@
         "name":"樱花战队",
         "organization":"大连海事大学",
         "official":1,
-        "english_name":"Sakura",
         "members":[
             "林晨",
             "王歆妤",
@@ -4729,18 +4458,16 @@
         "name":"耗子尾汁队",
         "organization":"大连海事大学",
         "official":1,
-        "english_name":"mouse tail juice",
         "members":[
             "刘国",
             "囤宏睿",
-            "马大中"
+            "耗子尾汁"
         ]
     },
     "1030001757":{
         "name":"洛兮妹妹粉丝团",
         "organization":"中原工学院",
         "official":1,
-        "english_name":"Sister luoxi's fansclub",
         "members":[
             "侯昊然",
             "李帅聪",
@@ -4751,7 +4478,6 @@
         "name":"我乱起的名字",
         "organization":"河南大学",
         "official":1,
-        "english_name":"I've made a mess ofnames",
         "members":[
             "党毅博",
             "刘邦龙",
@@ -4762,7 +4488,6 @@
         "name":"新星号",
         "organization":"山东科技大学",
         "official":1,
-        "english_name":"NCC73515 Nova",
         "members":[
             "蔡玮霖",
             "郭清鋆",
@@ -4773,7 +4498,6 @@
         "name":"我大意了啊，没开ll",
         "organization":"华东交通大学",
         "official":1,
-        "english_name":"sorry_no_time,come_out!",
         "members":[
             "刘驰",
             "张明辉",
@@ -4783,13 +4507,17 @@
     "1030001724":{
         "name":"AC 自动机",
         "organization":"中国地质大学（武汉）",
-        "official":1
+        "official":1,
+        "members":[
+            "刘林凯",
+            "张德昊",
+            "范想"
+        ]
     },
     "1030001324":{
         "name":"紫罗兰永恒花园",
         "organization":"哈尔滨工程大学",
         "official":1,
-        "english_name":"Violet Evergarden",
         "members":[
             "刘成之",
             "徐文溢",
@@ -4800,7 +4528,6 @@
         "name":"白驹过隙",
         "organization":"广西师范大学",
         "official":1,
-        "english_name":"ACer",
         "members":[
             "刘朝晖",
             "杨图淇",
@@ -4811,7 +4538,6 @@
         "name":"酱肉包",
         "organization":"黑龙江大学",
         "official":1,
-        "english_name":"Sauce Pork Bun",
         "members":[
             "付文军",
             "刘卓芸",
@@ -4822,7 +4548,6 @@
         "name":"阿森纳",
         "organization":"温州大学瓯江学院",
         "official":1,
-        "english_name":"Arsenal",
         "members":[
             "崔栋凯",
             "朱郡洲",
@@ -4833,7 +4558,6 @@
         "name":"图灵",
         "organization":"杭州师范大学",
         "official":1,
-        "english_name":"turing",
         "members":[
             "周珈伊",
             "徐豪杰",
@@ -4844,7 +4568,6 @@
         "name":"起名字太难",
         "organization":"青岛理工大学",
         "official":1,
-        "english_name":"HardlyName",
         "members":[
             "周子程",
             "岳子怡",
@@ -4855,7 +4578,6 @@
         "name":"AMD,YES!",
         "organization":"华中农业大学",
         "official":1,
-        "english_name":"AMD,YES!",
         "members":[
             "吴宇皓",
             "王新宇",
@@ -4866,7 +4588,6 @@
         "name":"路人ACMers的养成方法",
         "organization":"江西财经大学",
         "official":1,
-        "english_name":"How to developpassersby ACMers",
         "members":[
             "唐文卓",
             "艾荣贵",
@@ -4876,13 +4597,17 @@
     "1030001406":{
         "name":"四爪摊开满愁容",
         "organization":"华中科技大学",
-        "official":1
+        "official":1,
+        "members":[
+            "何雨林",
+            "曾文杰",
+            "陈天韵"
+        ]
     },
     "1030001230":{
         "name":"以上队伍成绩无效",
         "organization":"北京工业大学",
         "official":1,
-        "english_name":"All the team's gradesabove are invalid",
         "members":[
             "吕美杨",
             "董天泽",
@@ -4893,7 +4618,6 @@
         "name":"空指针",
         "organization":"深圳大学",
         "official":1,
-        "english_name":"nullptr",
         "members":[
             "尹玮璐",
             "费楚雯",
@@ -4904,7 +4628,6 @@
         "name":"WA的一下很快啊",
         "organization":"华东交通大学",
         "official":1,
-        "english_name":"WA_so_fast",
         "members":[
             "刘俊威",
             "彭延隆",
@@ -4915,7 +4638,6 @@
         "name":"耗子尾汁",
         "organization":"新疆大学",
         "official":1,
-        "english_name":"how's the weather",
         "members":[
             "刘赵杰",
             "吴昌坤",
@@ -4926,7 +4648,6 @@
         "name":"希望别爆零",
         "organization":"浙江科技学院",
         "official":1,
-        "english_name":"No Zero",
         "members":[
             "丁好",
             "方行",
@@ -4937,7 +4658,6 @@
         "name":"复制粘贴",
         "organization":"闽江学院",
         "official":1,
-        "english_name":"Ctrl_c_v",
         "members":[
             "柯晨祺",
             "郭泽钰",
@@ -4948,7 +4668,6 @@
         "name":"新秀",
         "organization":"中南民族大学",
         "official":1,
-        "english_name":"rookie",
         "members":[
             "张子涵",
             "施耀华",
@@ -4959,7 +4678,6 @@
         "name":"球球给俺们块牌子吧",
         "organization":"湖南工业大学",
         "official":1,
-        "english_name":"ball ball give us amedal",
         "members":[
             "刘成富",
             "尹文",
@@ -4970,7 +4688,6 @@
         "name":"浑元形意太极门",
         "organization":"新疆大学",
         "official":1,
-        "english_name":"Chinese tai chi",
         "members":[
             "孟小芃",
             "沈奕涵",
@@ -4981,7 +4698,6 @@
         "name":"我是小可爱对不",
         "organization":"中原工学院",
         "official":1,
-        "english_name":"AM I A CUTE BABY",
         "members":[
             "余建青",
             "李鹏飞",
@@ -4992,7 +4708,6 @@
         "name":"饥鸡集机记",
         "organization":"南昌航空大学",
         "official":1,
-        "english_name":"Chicken in the fight",
         "members":[
             "林杰",
             "郭梦嘉",
@@ -5003,7 +4718,6 @@
         "name":"还是补题去吧",
         "organization":"苏州大学",
         "official":1,
-        "english_name":"definitely next time",
         "members":[
             "冯泽森",
             "周泓余",
@@ -5014,7 +4728,6 @@
         "name":"USCF3",
         "organization":"南华大学",
         "official":1,
-        "english_name":"USCF3",
         "members":[
             "李柏松",
             "殷全龙",
@@ -5025,7 +4738,6 @@
         "name":"镜湖大姜汤",
         "organization":"中国矿业大学",
         "official":1,
-        "english_name":"Jinghu ginger soup",
         "members":[
             "凌子健",
             "李梦林",
@@ -5036,7 +4748,6 @@
         "name":"福瑞喜满脯肉",
         "organization":"杭州师范大学",
         "official":1,
-        "english_name":"freshmanPro",
         "members":[
             "俞佳权",
             "王凌言",
@@ -5045,14 +4756,18 @@
     },
     "1030001765":{
         "name":"pokemmo",
-        "organization":"---",
-        "official":1
+        "organization":"南京晓庄学院",
+        "official":1,
+        "members":[
+            "张振宇",
+            "朱志成",
+            "赵韦昊"
+        ]
     },
     "1030001584":{
         "name":"随便",
         "organization":"苏州大学应用技术学院",
         "official":1,
-        "english_name":"Casual Team",
         "members":[
             "向阳沐",
             "庄依林",
@@ -5063,7 +4778,6 @@
         "name":"又菜又爱玩",
         "organization":"南昌航空大学",
         "official":1,
-        "english_name":"Freshman",
         "members":[
             "王宇浩",
             "茅桓夕",
@@ -5074,7 +4788,6 @@
         "name":"路人码农的养成方法",
         "organization":"哈尔滨工程大学",
         "official":1,
-        "english_name":"How's the weather",
         "members":[
             "周智",
             "李知恒",
@@ -5085,7 +4798,6 @@
         "name":"不如跳舞",
         "organization":"江西财经大学",
         "official":1,
-        "english_name":"happyAC",
         "members":[
             "张睿诠",
             "敖凸",
@@ -5096,7 +4808,6 @@
         "name":"重返艾泽拉斯",
         "organization":"南京邮电大学通达学院",
         "official":1,
-        "english_name":"Return to Azeroth",
         "members":[
             "夏天",
             "钱未闻",
@@ -5107,7 +4818,6 @@
         "name":"开心就好哈哈哈",
         "organization":"华南师范大学",
         "official":1,
-        "english_name":"HappyLaborer",
         "members":[
             "江世杰",
             "陈晓敏",
@@ -5118,7 +4828,6 @@
         "name":"ahut",
         "organization":"安徽工业大学",
         "official":1,
-        "english_name":"ahut",
         "members":[
             "汤曜坤",
             "琚泽浩",
@@ -5134,7 +4843,6 @@
         "name":"骗分过样例",
         "organization":"浙江机电职业技术学院",
         "official":1,
-        "english_name":"Confused Accept",
         "members":[
             "朱鑫燚",
             "李卓潮",
@@ -5145,7 +4853,6 @@
         "name":"刘哥带我飞",
         "organization":"北华大学",
         "official":1,
-        "english_name":"brother liu takes meto fly",
         "members":[
             "刘晓易",
             "涂伟鸿",
@@ -5156,7 +4863,6 @@
         "name":"耗子尾汁",
         "organization":"南京工业大学",
         "official":1,
-        "english_name":"nosaywood",
         "members":[
             "卫麓飞",
             "张逸飞",
@@ -5167,7 +4873,6 @@
         "name":"每题都队",
         "organization":"上海财经大学",
         "official":1,
-        "english_name":"APK",
         "members":[
             "应梓杰",
             "张子涵",
@@ -5178,7 +4883,6 @@
         "name":"成长部落",
         "organization":"太原理工大学",
         "official":1,
-        "english_name":"Growing up tribe",
         "members":[
             "王奕琳",
             "郭萍",
@@ -5189,7 +4893,6 @@
         "name":"菜鸡小队",
         "organization":"中国矿业大学",
         "official":1,
-        "english_name":"noob",
         "members":[
             "周群涛",
             "李祥旭",
@@ -5200,7 +4903,6 @@
         "name":"SCUEC女队",
         "organization":"中南民族大学",
         "official":1,
-        "english_name":"SCUEC FAIRIES",
         "members":[
             "张雪萍",
             "李斌",
@@ -5211,7 +4913,6 @@
         "name":"育英9队",
         "organization":"浙江育英职业技术学院",
         "official":1,
-        "english_name":"yyteam9",
         "members":[
             "吴雅冰",
             "周昌飘",
@@ -5227,7 +4928,6 @@
         "name":"HHY",
         "organization":"大连海事大学",
         "official":1,
-        "english_name":"HHY",
         "members":[
             "付昊",
             "吴洋",
@@ -5238,7 +4938,6 @@
         "name":"CDCbro",
         "organization":"湖北第二师范学院",
         "official":1,
-        "english_name":"CDCbro",
         "members":[
             "刘志",
             "王金",
@@ -5249,7 +4948,6 @@
         "name":"你懂个锤子",
         "organization":"华中农业大学",
         "official":1,
-        "english_name":"you know a chuichui",
         "members":[
             "俞文龙",
             "安嘉琪",
@@ -5260,7 +4958,6 @@
         "name":"东贸集团有限公司",
         "organization":"深圳职业技术学院",
         "official":1,
-        "english_name":"maga Group co Ltd",
         "members":[
             "刘思杰",
             "王佳丰",
@@ -5271,7 +4968,6 @@
         "name":"qwer",
         "organization":"曲阜师范大学日照校区",
         "official":1,
-        "english_name":"qwer",
         "members":[
             "赵世浩",
             "赵耀勇",
@@ -5282,7 +4978,6 @@
         "name":"谁还在买GTA啊",
         "organization":"中国海洋大学",
         "official":1,
-        "english_name":"who needs GTA",
         "members":[
             "方彦策",
             "蹇浩航",
@@ -5292,18 +4987,27 @@
     "1030001532":{
         "name":"德芙AC PLUS",
         "organization":"山东工商学院",
-        "official":1
+        "official":1,
+        "members":[
+            "冷大新",
+            "孟祥礼",
+            "王雨彤"
+        ]
     },
     "1030001569":{
         "name":"大大怪必ak",
         "organization":"沈阳航空航天大学",
-        "official":1
+        "official":1,
+        "members":[
+            "刘启哲",
+            "孙小凡",
+            "孙文彬"
+        ]
     },
     "1030001505":{
         "name":"菜的安详",
         "organization":"齐鲁工业大学",
         "official":1,
-        "english_name":"caideanxiang",
         "members":[
             "于成龙",
             "任保康",
@@ -5314,7 +5018,6 @@
         "name":"无知的菜鸟",
         "organization":"沈阳化工大学",
         "official":1,
-        "english_name":"nescient rookie",
         "members":[
             "厉秉桢",
             "郭增静",
@@ -5325,7 +5028,6 @@
         "name":"奥力给",
         "organization":"陕西师范大学",
         "official":1,
-        "english_name":"Aoligei",
         "members":[
             "朱晓奥",
             "马瑞茄",
@@ -5335,13 +5037,17 @@
     "1030001445":{
         "name":"WA 掘机",
         "organization":"闽江学院",
-        "official":1
+        "official":1,
+        "members":[
+            "林毅",
+            "王长涛",
+            "黄茂叶"
+        ]
     },
     "1030001614":{
         "name":"北极星",
         "organization":"武汉纺织大学",
         "official":1,
-        "english_name":"polestar",
         "members":[
             "彭先君",
             "彭德朗",
@@ -5352,7 +5058,6 @@
         "name":"华广奇迹",
         "organization":"华南理工大学广州学院",
         "official":1,
-        "english_name":"GCU_Miracle",
         "members":[
             "冯佳威",
             "李泽铭",
@@ -5363,7 +5068,6 @@
         "name":"墨分五色",
         "organization":"华南师范大学",
         "official":1,
-        "english_name":"So1uti0ns",
         "members":[
             "梁钲臻",
             "谭靖雯",
@@ -5374,7 +5078,6 @@
         "name":"打完这局峡谷见",
         "organization":"安徽财经大学",
         "official":1,
-        "english_name":"TFM",
         "members":[
             "张亚伟",
             "王盼荣",
@@ -5385,7 +5088,6 @@
         "name":"无备而来",
         "organization":"齐鲁工业大学",
         "official":1,
-        "english_name":"ComingWithoutPreparation",
         "members":[
             "刘易凡",
             "王俊越",
@@ -5396,7 +5098,6 @@
         "name":"浓密的秀发",
         "organization":"浙江工商大学杭州商学院",
         "official":1,
-        "english_name":"Thick hair",
         "members":[
             "丁叶贝",
             "俞谢泽",
@@ -5406,13 +5107,17 @@
     "1030001448":{
         "name":"cyl欠他队友一顿烤肉",
         "organization":"南昌大学",
-        "official":1
+        "official":1,
+        "members":[
+            "周琳",
+            "孙诗达",
+            "蔡易霖"
+        ]
     },
     "1030001477":{
         "name":"混元形意太极门",
         "organization":"南京林业大学",
         "official":1,
-        "english_name":"Xingmen Taiji",
         "members":[
             "徐雪栋",
             "柏安旭",
@@ -5423,7 +5128,6 @@
         "name":"ZCMU-ZQShq",
         "organization":"浙江中医药大学",
         "official":1,
-        "english_name":"ZCMU-ZQShq",
         "members":[
             "沈浩奇",
             "王少杰",
@@ -5434,7 +5138,6 @@
         "name":"夜光",
         "organization":"徐州工程学院",
         "official":1,
-        "english_name":"Ye Guang",
         "members":[
             "刘通",
             "夏旭",
@@ -5445,7 +5148,6 @@
         "name":"码个锤子",
         "organization":"华东交通大学",
         "official":1,
-        "english_name":"coding_hammer",
         "members":[
             "刘金海",
             "徐志豪",
@@ -5456,7 +5158,6 @@
         "name":"国际手势",
         "organization":"山东工商学院",
         "official":1,
-        "english_name":"SandBox",
         "members":[
             "姜山",
             "李彦辉",
@@ -5466,18 +5167,27 @@
     "1030001643":{
         "name":"Orz no boom zero",
         "organization":"西南科技大学",
-        "official":1
+        "official":1,
+        "members":[
+            "Aisen Deng",
+            "Hong Tan",
+            "Linzhi Zhou"
+        ]
     },
     "1030001766":{
         "name":"过桥米线",
         "organization":"南京晓庄学院",
-        "official":1
+        "official":1,
+        "members":[
+            "吴正栋",
+            "姚玉强",
+            "朱海潮"
+        ]
     },
     "1030001213":{
         "name":"破晓",
         "organization":"安徽财经大学",
         "official":1,
-        "english_name":"DAWN",
         "members":[
             "刘璇",
             "梁斌",
@@ -5488,7 +5198,6 @@
         "name":"海绵宝宝",
         "organization":"湖南工业大学",
         "official":1,
-        "english_name":"Spongebob",
         "members":[
             "姚乐俊",
             "张世雄",
@@ -5499,7 +5208,6 @@
         "name":"闪电五连WA",
         "organization":"河海大学常州校区",
         "official":1,
-        "english_name":"Lightning Five WA",
         "members":[
             "丁佳锋",
             "程思聪",
@@ -5510,7 +5218,6 @@
         "name":"华广星光运",
         "organization":"华南理工大学广州学院",
         "official":1,
-        "english_name":"GCU_StarLight_Luck",
         "members":[
             "叶运才",
             "杨佳星",
@@ -5521,7 +5228,6 @@
         "name":"不讲武德",
         "organization":"闽南师范大学",
         "official":1,
-        "english_name":"don't observe wushuethics",
         "members":[
             "林燊",
             "陈晓玲",
@@ -5532,7 +5238,6 @@
         "name":"炼铁术士",
         "organization":"江西财经大学",
         "official":1,
-        "english_name":"Fierce 1",
         "members":[
             "李梦豪",
             "樊雨萌",
@@ -5543,7 +5248,6 @@
         "name":"来偷来拿牌",
         "organization":"湖南文理学院",
         "official":1,
-        "english_name":"Come and steal andtake the cards",
         "members":[
             "周奇",
             "肖千龙",
@@ -5554,7 +5258,6 @@
         "name":"吉祥三宝",
         "organization":"台州学院",
         "official":1,
-        "english_name":"sambo auspicious",
         "members":[
             "毛宇杰",
             "王利辉",
@@ -5565,7 +5268,6 @@
         "name":"开飞机的舒克",
         "organization":"山东工商学院",
         "official":1,
-        "english_name":"ONE COIN",
         "members":[
             "王卓",
             "王新航",
@@ -5576,7 +5278,6 @@
         "name":"总之就是非常想过",
         "organization":"武汉商学院",
         "official":1,
-        "english_name":"We just want to AC",
         "members":[
             "吕雄建",
             "吴嘉飞",
@@ -5586,13 +5287,17 @@
     "1030001379":{
         "name":"头发去哪了？",
         "organization":"湖州师范学院",
-        "official":1
+        "official":1,
+        "members":[
+            "刘瑞强",
+            "李敏华",
+            "罗翔语"
+        ]
     },
     "1030001498":{
         "name":"三个臭皮匠",
         "organization":"内蒙古财经大学",
         "official":1,
-        "english_name":"The Three Stooges",
         "members":[
             "师江源",
             "王子一",
@@ -5603,7 +5308,6 @@
         "name":"不知道取啥",
         "organization":"浙江工业职业技术学院",
         "official":1,
-        "english_name":"a hard work",
         "members":[
             "吴招阳",
             "宋婉文",
@@ -5614,7 +5318,6 @@
         "name":"开天PD",
         "organization":"乐山师范学院",
         "official":1,
-        "english_name":"Lay's fans",
         "members":[
             "尹磊",
             "方青",
@@ -5625,7 +5328,6 @@
         "name":"随便",
         "organization":"南昌理工学院",
         "official":1,
-        "english_name":"Sui Bian",
         "members":[
             "张永志",
             "郭佳明",
@@ -5635,13 +5337,17 @@
     "1030001727":{
         "name":"反向AC",
         "organization":"中国地质大学（武汉）",
-        "official":1
+        "official":1,
+        "members":[
+            "常旭静",
+            "程浩鋆",
+            "聂坤宇"
+        ]
     },
     "1030001606":{
         "name":"六六六",
         "organization":"温州大学瓯江学院",
         "official":1,
-        "english_name":"SIX SIX SIX",
         "members":[
             "张哲伟",
             "张振",
@@ -5651,13 +5357,17 @@
     "1030001586":{
         "name":"cnm菜鸟们",
         "organization":"台州学院",
-        "official":1
+        "official":1,
+        "members":[
+            "倪中荷",
+            "陈晓燕",
+            "马凯雯"
+        ]
     },
     "1030001555":{
         "name":"好自为之",
         "organization":"上海海事大学",
         "official":1,
-        "english_name":"How's the weather",
         "members":[
             "王啸凡",
             "邓明",
@@ -5668,7 +5378,6 @@
         "name":"今日上上签",
         "organization":"南京工业大学",
         "official":1,
-        "english_name":"Sign Today",
         "members":[
             "廖志翔",
             "雷致远",
@@ -5679,7 +5388,6 @@
         "name":"JSY19",
         "organization":"北方工业大学",
         "official":1,
-        "english_name":"JSY19",
         "members":[
             "周世元",
             "王新宇",
@@ -5690,7 +5398,6 @@
         "name":"智慧湖水怪",
         "organization":"上海海事大学",
         "official":1,
-        "english_name":"Wisdom LakeMonster",
         "members":[
             "张思越",
             "张杰",
@@ -5701,7 +5408,6 @@
         "name":"发际线总在与我作队",
         "organization":"浙江工业职业技术学院",
         "official":1,
-        "english_name":"Nothing is True",
         "members":[
             "朱洪冰",
             "杨子威",
@@ -5712,7 +5418,6 @@
         "name":"做做做",
         "organization":"中南民族大学",
         "official":1,
-        "english_name":"dododo",
         "members":[
             "匡军",
             "赵伦祺",
@@ -5723,7 +5428,6 @@
         "name":"朱庇特",
         "organization":"武汉纺织大学",
         "official":1,
-        "english_name":"Jupiter",
         "members":[
             "吴聪睿",
             "许小强",
@@ -5734,7 +5438,6 @@
         "name":"提交什么都队",
         "organization":"安徽财经大学",
         "official":1,
-        "english_name":"Submit everythingteam",
         "members":[
             "凌毅",
             "孙明朗",
@@ -5745,7 +5448,6 @@
         "name":"芜湖之光",
         "organization":"南京工业大学",
         "official":1,
-        "english_name":"The light of Wuhu",
         "members":[
             "李园章",
             "王宇鸿",
@@ -5761,7 +5463,6 @@
         "name":"别催了漏水了",
         "organization":"浙江工商大学杭州商学院",
         "official":1,
-        "english_name":"Water leakwater",
         "members":[
             "周奕豪",
             "符庚兴",
@@ -5772,7 +5473,6 @@
         "name":"反AK",
         "organization":"武汉纺织大学",
         "official":1,
-        "english_name":"LCM",
         "members":[
             "李顶威",
             "毛阳珍",
@@ -5783,7 +5483,6 @@
         "name":"芜湖航线",
         "organization":"武汉商学院",
         "official":1,
-        "english_name":"wuhu airline",
         "members":[
             "刘宇卓",
             "周鼎祺",
@@ -5794,7 +5493,6 @@
         "name":"梦之队",
         "organization":"苏州大学应用技术学院",
         "official":1,
-        "english_name":"Dream Team",
         "members":[
             "包成耀",
             "韩雨辰",
@@ -5805,7 +5503,6 @@
         "name":"Acm小分队",
         "organization":"陕西师范大学",
         "official":1,
-        "english_name":"Acm small team",
         "members":[
             "李巧霞",
             "钟鹏",
@@ -5816,7 +5513,6 @@
         "name":"提交",
         "organization":"安徽财经大学",
         "official":1,
-        "english_name":"submit",
         "members":[
             "宋景坤",
             "杜志华",
@@ -5827,7 +5523,6 @@
         "name":"华广一队",
         "organization":"华南理工大学广州学院",
         "official":1,
-        "english_name":"GCU_First_Team",
         "members":[
             "刘灿明",
             "邹龙生",
@@ -5838,7 +5533,6 @@
         "name":"程序写得都",
         "organization":"东南大学成贤学院",
         "official":1,
-        "english_name":"HXG",
         "members":[
             "徐杰",
             "顾楠桦",

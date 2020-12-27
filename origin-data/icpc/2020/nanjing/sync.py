@@ -44,8 +44,11 @@ start_time = get_timestamp(_params['start_time'])
 end_time = get_timestamp(_params['end_time'])
 contest_id = _params['contest_id']
 team_data = None
+fix_team = None
 if 'team_data' in _params.keys():
     team_data = _params['team_data']
+if 'fix_team' in _params.keys():
+    fix_team = _params['fix_team']
 
 unofficial_organization = []
 unofficial_team_name = []
@@ -96,7 +99,7 @@ def team_output(res_list):
         item = json.loads(item.text)
         item = item['data']
         for team in item['rankData']:
-            team_id = team['uid']
+            team_id = str(team['uid'])
             team_name = team['userName']
             team_organization = '---'
             if 'school' in team.keys():
@@ -109,7 +112,11 @@ def team_output(res_list):
                 _team['name'] = team_name[1:]
             else:
                 _team['official'] = 1
-            if team_organization in unofficial_organization or team_name in unofficial_team_name:
+            if fix_team is not None:
+                if team_id in fix_team.keys():
+                    for k in fix_team[team_id].keys():
+                        _team[k] = fix_team[team_id][k]
+            if _team['organization'] in unofficial_organization or _team['name'] in unofficial_team_name:
                 _team['unofficial'] = 1
                 if 'official' in _team.keys():
                     del _team['official']
@@ -118,23 +125,26 @@ def team_output(res_list):
         _team = {}
         with open(team_data, 'r', encoding='utf-8') as f:
             for line in f.read().split('\n'):
-                line = line.split(' ')
+                line = line.split('#$#')
                 item = {}
-                item['organization'] = line[1]
-                item['name'] = line[-4]
-                item['english_name'] = ' '.join(line[2:-4])
-                members = [line[-i] for i in range(1, 4)]
+                item['organization'] = str(line[0])
+                item['name'] = str(line[1])
+                members = []
+                for i in range(2, 5):
+                    if line[i] == '':
+                        continue
+                    members.append(line[i])
                 members.sort()
                 item['members'] = members
-                _team['-'.join([item['organization'], item['name']])] = item
-        for k in teams.keys():
-            _k = '-'.join([teams[k]['organization'], teams[k]['name']])
-            if _k not in _team.keys():
-                print(_k)
-            else:
-                for __k in _team[_k].keys():
-                    if __k not in teams[k].keys():
-                        teams[k][__k] = _team[_k][__k]
+                _team['-'.join([item['organization'].strip(), item['name'].strip()])] = item
+            for k in teams.keys():
+                _k = '-'.join([teams[k]['organization'].strip(), teams[k]['name'].strip()])
+                if _k not in _team.keys():
+                    print(_k)
+                else:
+                    for __k in _team[_k].keys():
+                        if __k not in teams[k].keys():
+                            teams[k][__k] = _team[_k][__k]
     if len(teams.keys()) > 0:
         output("team.json", teams)
                     

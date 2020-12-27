@@ -3,5 +3,17 @@
     "board_url": "https://ac.nowcoder.com/acm-heavy/acm/contest/real-time-rank-data",
     "start_time": "2020-12-12 19:00:00",
     "end_time": "2020-12-12 20:30:00",
-    "contest_id": 9731
+    "contest_id": 9731,
+    "team_data": "./raw/第45届ICPC上海站参赛队伍.txt",
+    "fix_team": {
+        "1030000667": {
+            "organization": "杭州师范大学"
+        },
+        "1030001089": {
+            "organization": "浙江农林大学"
+        },
+        "1030000885": {
+            "organization": "山东财经大学" 
+        }
+    }
 }

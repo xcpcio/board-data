@@ -1,7 +1,9 @@
+#!/usr/bin/env python
 import requests
 import json
 import grequests
 from os import path
+import os
 import time
 
 def json_output(data):
@@ -28,6 +30,10 @@ def get_timestamp(dt):
 def get_time_diff(l, r):
     return int((r - l) // 1000)
 
+def ensure_dir(s):
+    if not os.path.exists(s):
+        os.makedirs(s)
+
 _params = json_input('params.json')
 
 # headers = _params['headers']
@@ -37,8 +43,24 @@ board_url = _params['board_url']
 start_time = get_timestamp(_params['start_time'])
 end_time = get_timestamp(_params['end_time'])
 contest_id = _params['contest_id']
+team_data = None
+fix_team = None
+if 'team_data' in _params.keys():
+    team_data = _params['team_data']
+if 'fix_team' in _params.keys():
+    fix_team = _params['fix_team']
+
+unofficial_organization = []
+unofficial_team_name = []
+if 'unofficial_organization' in _params.keys():
+    unofficial_organization = _params['unofficial_organization']
+if 'unofficial_team_name' in _params.keys():
+    unofficial_team_name = _params['unofficial_team_name']
+
 print(start_time)
 print(end_time)
+
+ensure_dir(data_dir)
 
 def fetch():
     total = 0
@@ -77,7 +99,7 @@ def team_output(res_list):
         item = json.loads(item.text)
         item = item['data']
         for team in item['rankData']:
-            team_id = team['uid']
+            team_id = str(team['uid'])
             team_name = team['userName']
             team_organization = '---'
             if 'school' in team.keys():
@@ -87,9 +109,42 @@ def team_output(res_list):
             _team['organization'] = team_organization
             if _team['name'][0] == '☆':
                 _team['unofficial'] = 1
+                _team['name'] = team_name[1:]
             else:
                 _team['official'] = 1
+            if fix_team is not None:
+                if team_id in fix_team.keys():
+                    for k in fix_team[team_id].keys():
+                        _team[k] = fix_team[team_id][k]
+            if _team['organization'] in unofficial_organization or _team['name'] in unofficial_team_name:
+                _team['unofficial'] = 1
+                if 'official' in _team.keys():
+                    del _team['official']
             teams[team_id] = _team
+    if team_data is not None:
+        _team = {}
+        with open(team_data, 'r', encoding='utf-8') as f:
+            for line in f.read().split('\n'):
+                line = line.split(',')
+                item = {}
+                item['organization'] = str(line[0])
+                item['name'] = str(line[1])
+                members = []
+                for i in range(2, 5):
+                    if line[i] == '':
+                        continue
+                    members.append(line[i])
+                members.sort()
+                item['members'] = members
+                _team['-'.join([item['organization'].strip(), item['name'].strip()])] = item
+            for k in teams.keys():
+                _k = '-'.join([teams[k]['organization'].strip(), teams[k]['name'].strip()])
+                if _k not in _team.keys():
+                    print(_k)
+                else:
+                    for __k in _team[_k].keys():
+                        if __k not in teams[k].keys():
+                            teams[k][__k] = _team[_k][__k]
     if len(teams.keys()) > 0:
         output("team.json", teams)
                     
