@@ -108,6 +108,24 @@
             }
         },
         "2020":{
+            "jinan":{
+                "config":{
+                    "contest_name":"第 45 届国际大学生程序设计竞赛（ICPC）亚洲区域赛（济南）正式赛",
+                    "end_time":1609056000,
+                    "frozen_time":3600,
+                    "start_time":1609038000
+                },
+                "link":"/icpc/2020/jinan"
+            },
+            "jinan-warmup":{
+                "config":{
+                    "contest_name":"第 45 届国际大学生程序设计竞赛（ICPC）亚洲区域赛（济南）热身赛",
+                    "end_time":1608985800,
+                    "frozen_time":0,
+                    "start_time":1608980400
+                },
+                "link":"/icpc/2020/jinan-warmup"
+            },
             "nanjing":{
                 "config":{
                     "contest_name":"第 45 届国际大学生程序设计竞赛（ICPC）亚洲区域赛（南京）正式赛",
