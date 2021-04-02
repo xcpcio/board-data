@@ -36,6 +36,13 @@ group = {
 status_time_display = {
     'correct': 1,
 }
+medal = {
+    'official': {
+        'gold': 35,
+        'silver': 70,
+        'bronze': 105
+    }
+}
 balloon_color = [
     {'background_color': 'rgba(189, 14, 14, 0.7)', 'color': '#fff' },
     {'background_color': 'rgba(255, 144, 228, 0.7)', 'color': '#fff' },
@@ -60,7 +67,8 @@ config = {
     'organization': 'School',
     'status_time_display': status_time_display,
     'penalty': 20 * 60,
-    "frozen_time": 0,
+    "frozen_time": 60 * 60,
+    'medal': medal,
     'balloon_color': balloon_color,
 }
 

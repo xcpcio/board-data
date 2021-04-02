@@ -26,7 +26,14 @@
         "correct":1
     },
     "penalty":1200,
-    "frozen_time":0,
+    "frozen_time":3600,
+    "medal":{
+        "official":{
+            "gold":35,
+            "silver":70,
+            "bronze":105
+        }
+    },
     "balloon_color":[
         {
             "background_color":"rgba(189, 14, 14, 0.7)",
