@@ -294,6 +294,17 @@
                 },
                 "link":"/provincial-contest/2020/zjcpc"
             }
+        },
+        "2021":{
+            "zjcpc":{
+                "config":{
+                    "contest_name":"The 18th Zhejiang Provincial Collegiate Programming Contest Sponsored by TuSimple",
+                    "end_time":1618650000,
+                    "frozen_time":3600,
+                    "start_time":1618632000
+                },
+                "link":"/provincial-contest/2021/zjcpc"
+            }
         }
     }
 }
