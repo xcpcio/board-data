@@ -4,7 +4,7 @@ import json
 import time
 
 def json_output(data):
-    return json.dumps(data, sort_keys=False, indent=4, separators=(',', ':'), ensure_ascii=False)
+    return json.dumps(data, sort_keys=False, indent=0, separators=(',', ':'), ensure_ascii=False)
 
 def json_input(path):
     with open(path, 'r') as f:
@@ -56,6 +56,21 @@ medal = {
         'bronze': 66 - 30,
     }
 }
+balloon_color = [
+    {'background_color': 'rgba(189, 14, 14, 0.7)', 'color': '#fff' },
+    {'background_color': 'rgba(255, 144, 228, 0.7)', 'color': '#fff' },
+    {'background_color': 'rgba(255, 255, 255, 0.7)', 'color': '#000' },
+    {'background_color': 'rgba(38, 185, 60, 0.7)', 'color': '#fff' },
+    {'background_color': 'rgba(239, 217, 9, 0.7)', 'color': '#000' },
+    {'background_color': 'rgba(243, 88, 20, 0.7)', 'color': '#fff' },
+    {'background_color': 'rgba(12, 76, 138, 0.7)', 'color': '#fff' },
+    {'background_color': 'rgba(156, 155, 155, 0.7)', 'color': '#fff' },
+    {'background_color': 'rgba(4, 154, 115, 0.7)', 'color': '#fff' },
+    {'background_color': 'rgba(159, 19, 236, 0.7)' ,'color': '#fff' },
+    {'background_color': 'rgba(42, 197, 202, 0.7)', 'color': '#fff' },
+    {'background_color': 'rgba(142, 56, 54, 0.7)', 'color': '#fff' },
+    {'background_color': 'rgba(0, 0, 0, 0.7)', 'color': '#fff'},
+]
 config = {
     'contest_name': 'The 18th Zhejiang Provincial Collegiate Programming Contest Sponsored by TuSimple',
     'start_time': get_timestamp("2021-4-17 12:00:00"),
@@ -67,6 +82,7 @@ config = {
     'status_time_display': status_time_display,
     'penalty': 20 * 60,
     'medal': medal,
+    'balloon_color': balloon_color,
 }
 
 def config_out():
