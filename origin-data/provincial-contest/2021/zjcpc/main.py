@@ -4,7 +4,7 @@ import json
 import time
 
 def json_output(data):
-    return json.dumps(data, sort_keys=False, indent=0, separators=(',', ':'), ensure_ascii=False)
+    return json.dumps(data, sort_keys=False, separators=(',', ':'), ensure_ascii=False)
 
 def json_input(path):
     with open(path, 'r') as f:
