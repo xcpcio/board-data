@@ -100,7 +100,7 @@ def team_out(html):
         
         organization = tr.select('img')[0]['alt']
         
-        if organization in ["计蒜客"]:
+        if organization in ["计蒜客", "可达编程"]:
             _team['unofficial'] = 1
         else:
             _team['official'] = 1
