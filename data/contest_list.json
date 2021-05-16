@@ -108,6 +108,15 @@
             }
         },
         "2020":{
+            "ec-final":{
+                "config":{
+                    "contest_name":"The 45th ICPC Asia East Continent Final Contest",
+                    "end_time":1618725600,
+                    "frozen_time":3600,
+                    "start_time":1618707600
+                },
+                "link":"/icpc/2020/ec-final"
+            },
             "jinan":{
                 "config":{
                     "contest_name":"第 45 届国际大学生程序设计竞赛（ICPC）亚洲区域赛（济南）正式赛",
