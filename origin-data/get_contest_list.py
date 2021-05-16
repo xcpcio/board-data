@@ -21,7 +21,7 @@ def mkdir(_path):
         os.makedirs(_path)
 
 def get_timestamp(dt):
-    #转换成时间数组
+    # 转换成时间数组
     timeArray = time.strptime(dt, "%Y-%m-%d %H:%M:%S")
     #转换成时间戳
     timestamp = time.mktime(timeArray)

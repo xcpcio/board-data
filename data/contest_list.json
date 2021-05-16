@@ -224,6 +224,15 @@
                     "start_time":1605942000
                 },
                 "link":"/icpc/2020/xiaomi-warmup"
+            },
+            "yinchuan":{
+                "config":{
+                    "contest_name":"The 45th ICPC Asia Yinchuan Regional Programming Contest",
+                    "end_time":1621144800,
+                    "frozen_time":3600,
+                    "start_time":1621126800
+                },
+                "link":"/icpc/2020/yinchuan"
             }
         }
     },
