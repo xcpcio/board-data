@@ -112,9 +112,9 @@ def team_output(res_list):
             _team = {}
             _team['name'] = team_name
             _team['organization'] = team_organization
-            if _team['name'][0] == '☆':
+            if len(_team['name']) >= 3 and _team['name'][0] == '*' and _team['name'][1] == '*' and _team['name'][2] == '*':
                 _team['unofficial'] = 1
-                _team['name'] = team_name[1:]
+                _team['name'] = team_name[3:]
             else:
                 _team['official'] = 1
             if fix_team is not None:
