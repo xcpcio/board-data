@@ -305,6 +305,15 @@
             }
         },
         "2021":{
+            "sdcpc":{
+                "config":{
+                    "contest_name":"第十一届山东省大学生程序设计竞赛(正式赛）",
+                    "end_time":1620543600,
+                    "frozen_time":3600,
+                    "start_time":1620525600
+                },
+                "link":"/provincial-contest/2021/sdcpc"
+            },
             "zjcpc":{
                 "config":{
                     "contest_name":"The 18th Zhejiang Provincial Collegiate Programming Contest Sponsored by TuSimple",
