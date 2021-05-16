@@ -57,10 +57,12 @@ def fetch():
         # print(html)
         # html = response.text.encode("latin1").decode(charset)
         return html
-    else:
+    elif 'board_file' in _params.keys():
         board_file = _params['board_file']
         with open(board_file, 'r') as f:
             return f.read()
+    
+    return ""
 
 def image_download(html):
     soup = bs4.BeautifulSoup(html,'html5lib')
@@ -83,24 +85,25 @@ def team_out(html):
     team = {}
     soup = bs4.BeautifulSoup(html,'html5lib')
     # 默认选择第0个 如果在榜单前出现其他 tbody 元素会出错
+    
     tbody = soup.select('tbody')[0]
     trs = tbody.select('tr')
     for tr in trs:
         if len(tr.select('img')) <= 0:
             continue
+            
         _team = {}
-        _team['official'] = 1
         team_id = tr['id'].split(':')[1]
-        # print(team_id)
-        # badge_src = tr.select('img')[0]['src']
-        name = ""
+        
         for item in tr.select('.forceWidth')[0].children:
             name = item
-        # print(name)
+        
         organization = tr.select('img')[0]['alt']
-        # for item in tr.select('.univ .forceWidth')[0].children:
-            # organization = item
-        # print(organization)
+        
+        if organization in ["计蒜客"]:
+            _team['unofficial'] = 1
+        else:
+            _team['official'] = 1
         
         # _team['badge'] = {}
         # _team['badge']['src'] = badge_src
@@ -171,7 +174,7 @@ def sync():
         try:
             html = fetch()
             # image_download(html)
-            # team_out(html)
+            team_out(html)
             run_out(html)
             print("fetch successfully")
         except Exception as e:
