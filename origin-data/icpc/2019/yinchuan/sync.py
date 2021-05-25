@@ -58,16 +58,17 @@ def run_out(data):
         timestamp = line[3]
         status = line[4]
 
+        if status == "CE":
+            continue
+
         if status == "OK":
             status = "correct"
-        elif status == "CE":
-            continue
         else:
             status = "incorrect"
         
         run = {}
         run["team_id"] = team_id
-        run["timestamp"] = int(timestamp)
+        run["timestamp"] = int(timestamp) // 60 * 60
         run["status"] = status
         run["problem_id"] = problem_id
         
