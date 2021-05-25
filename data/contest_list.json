@@ -105,6 +105,15 @@
                     "start_time":1554339600
                 },
                 "link":"/icpc/2019/world-finals"
+            },
+            "yinchuan":{
+                "config":{
+                    "contest_name":"The 44th ICPC Asia Yinchuan Regional Programming Contest",
+                    "end_time":1571551200,
+                    "frozen_time":3600,
+                    "start_time":1571533200
+                },
+                "link":"/icpc/2019/yinchuan"
             }
         },
         "2020":{
