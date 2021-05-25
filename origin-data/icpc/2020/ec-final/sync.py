@@ -62,7 +62,7 @@ def run_out(data):
         
         run = {}
         run["team_id"] = team_id
-        run["timestamp"] = int(timestamp)
+        run["timestamp"] = int(timestamp) // 60 * 60
         run["status"] = status
         run["problem_id"] = problem_id
         

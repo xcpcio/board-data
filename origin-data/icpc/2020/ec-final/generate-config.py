@@ -56,6 +56,7 @@ group = {
 
 status_time_display = {
     'correct': 1,
+    'incorrect': 1,
 }
 
 medal = {
