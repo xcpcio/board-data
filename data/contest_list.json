@@ -19,6 +19,15 @@
                 },
                 "link":"/ccpc/2020/changchun-warmup"
             },
+            "final-warmup":{
+                "config":{
+                    "contest_name":"第六届中国大学生程序设计竞赛总决赛（热身赛）",
+                    "end_time":1622280600,
+                    "frozen_time":3600,
+                    "start_time":1622273400
+                },
+                "link":"/ccpc/2020/final-warmup"
+            },
             "mianyang":{
                 "config":{
                     "contest_name":"CCPC2020-第六届中国大学生程序设计竞赛（绵阳） 正式赛",
