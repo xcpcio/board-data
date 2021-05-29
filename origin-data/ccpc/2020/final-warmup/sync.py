@@ -88,22 +88,42 @@ def run_output(res):
             _run['problem_id'] = problem_id
             _run['team_id'] = team_id
             
-            if "solutions" in problem.keys():
-              for __run in problem['solutions']:
-                  status = 'incorrect'
-                  if Accepted(__run['result']):
-                      status = 'correct'
+            timestamp = int(problem['time'][0])
+
+            # if problem['time'][1] == 'min':
+            #     timestamp *= 60;
+            # elif problem['time'][1] == 's':
+            #     timestamp = timestamp // 60 * 60
+            
+            timestamp *= 60
+            
+            _run['timestamp'] = timestamp
+            
+            for i in range(int(problem["tries"])):
+              _run['status'] = 'incorrect'
+              run.append(_run.copy())
+            
+            if int(problem["tries"]) > 0:
+              if Accepted(problem["result"]):
+                _run['status'] = 'correct'
+              run.append(_run.copy())
+                          
+            # if "solutions" in problem.keys():
+            #   for __run in problem['solutions']:
+            #       status = 'incorrect'
+            #       if Accepted(__run['result']):
+            #           status = 'correct'
                   
-                  timestamp = int(__run['time'][0])
+            #       timestamp = int(__run['time'][0])
                   
-                  if __run['time'][1] == 'min':
-                      timestamp *= 60;
-                  elif __run['time'][1] == 's':
-                      timestamp = timestamp // 60 * 60
+            #       if __run['time'][1] == 'min':
+            #           timestamp *= 60;
+            #       elif __run['time'][1] == 's':
+            #           timestamp = timestamp // 60 * 60
                     
-                  _run['status'] = status
-                  _run['timestamp'] = timestamp
-                  run.append(_run.copy())
+            #       _run['status'] = status
+            #       _run['timestamp'] = timestamp
+            #       run.append(_run.copy())
                 
     if len(run) > 0:
         output('run.json', run)
