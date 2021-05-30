@@ -90,16 +90,16 @@ def run_output(res):
             
             timestamp = int(problem['time'][0])
 
-            # if problem['time'][1] == 'min':
-            #     timestamp *= 60;
-            # elif problem['time'][1] == 's':
-            #     timestamp = timestamp // 60 * 60
-            
-            timestamp *= 60
+            if problem['time'][1] == 'min':
+                timestamp *= 60;
+            elif problem['time'][1] == 's':
+                timestamp = timestamp // 60 * 60
             
             _run['timestamp'] = timestamp
+
+            _run['status'] = 'incorrect'
             
-            for i in range(int(problem["tries"])):
+            for i in range(int(problem["tries"]) - 1):
               _run['status'] = 'incorrect'
               run.append(_run.copy())
             
