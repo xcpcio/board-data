@@ -28,19 +28,19 @@ def generate_problem_label(num):
 
 def generate_balloon_color(num):
     default_balloon_color = [
-        {'background_color': '#4b6422', 'color': '#000' },
+        {'background_color': '#995f53', 'color': '#000' },
         {'background_color': '#bb93ab', 'color': '#000' },
-        {'background_color': '#459b9c', 'color': '#000' },
-        {'background_color': '#054b53', 'color': '#fff' },
+        {'background_color': '#38183a', 'color': '#fff' },
         {'background_color': '#00363a', 'color': '#fff' },
-        {'background_color': '#b6b2ac', 'color': '#000' },
-        {'background_color': 'rgba(12, 76, 138, 0.7)', 'color': '#fff' },
-        {'background_color': 'rgba(156, 155, 155, 0.7)', 'color': '#fff' },
-        {'background_color': 'rgba(4, 154, 115, 0.7)', 'color': '#fff' },
-        {'background_color': 'rgba(159, 19, 236, 0.7)' ,'color': '#fff' },
-        {'background_color': 'rgba(42, 197, 202, 0.7)', 'color': '#fff' },
-        {'background_color': 'rgba(142, 56, 54, 0.7)', 'color': '#fff' },
-        {'background_color': 'rgba(0, 0, 0, 0.7)', 'color': '#fff'},
+        {'background_color': '#b5b3b9', 'color': '#000' },
+        {'background_color': '#8a7312', 'color': '#000' },
+        {'background_color': '#6a4926', 'color': '#fff' },
+        {'background_color': '#054b53', 'color': '#fff' },
+        {'background_color': '#4B6422', 'color': '#fff' },
+        {'background_color': '#081460' ,'color': '#fff' },
+        {'background_color': '#459b9c', 'color': '#fff' },
+        {'background_color': '#917312', 'color': '#fff' },
+        {'background_color': '#b6b2ac', 'color': '#fff'},
     ]
     
     return default_balloon_color[:num]
