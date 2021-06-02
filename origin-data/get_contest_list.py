@@ -10,7 +10,7 @@ pathname = "../data"
 contest_list = {}
 
 def json_output(data):
-    return json.dumps(data, sort_keys=True, indent=4, separators=(',', ':'), ensure_ascii=False)
+    return json.dumps(data, sort_keys=True, separators=(',', ':'), ensure_ascii=False)
 
 def json_input(path):
     with open(path, 'r') as f:
