@@ -46,7 +46,7 @@ def generate_balloon_color(num):
     return default_balloon_color[:num]
 
 raw_dir = "raw"
-data_dir = "../../../../data/provincial-contest/2020/northeastcpc"
+data_dir = "../../../../data/provincial-contest/2020/necpc"
 
 problem_num = 13
 
