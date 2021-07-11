@@ -70,7 +70,7 @@ config = {
     'contest_name': '2021“科大讯飞杯”上海市大学生程序设计竞赛——暨 CCPC 2021 上海市赛热身赛',
     'start_time': get_timestamp("2021-7-11 10:00:00"),
     'end_time': get_timestamp("2021-7-11 11:00:00"),
-    'frozen_time' : 60 * 60,
+    'frozen_time' : 0,
     'problem_id': generate_problem_label(problem_num),
     'group': group,
     'organization': 'School',
