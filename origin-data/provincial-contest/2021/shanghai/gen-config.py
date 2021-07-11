@@ -47,7 +47,7 @@ def generate_balloon_color(num):
 
 data_dir = "../../../../data/provincial-contest/2021/shanghai"
 
-problem_num = 13
+problem_num = 12
 
 group = {
     'official': '正式队伍',
