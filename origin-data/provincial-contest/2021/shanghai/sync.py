@@ -154,7 +154,7 @@ def team_out(html):
         _team['team_id'] = team_id
         team[team_id] = _team
         
-    if get_now() >= get_timestamp(start_time) and len(team.keys()) > 0:
+    if get_now() >= get_timestamp(start_time) and len(team) > 0:
         output("team.json", team)
 
 def run_out(html):
@@ -206,9 +206,12 @@ def run_out(html):
                     run.append(_run.copy())
             
             if len(score_pending) > 0:
-                wa_cnt = int(trim(score_pending[0].select('span')[0].string).split(' ')[0])
-                pending_cnt = int(trim(score_pending[0].select('span')[0].string).split(' ')[2])
-                
+                pending_text = trim(score_pending[0].select('span')[0].string)
+                pending_text = pending_text.replace(" tries", "")
+
+                wa_cnt = int(pending_text.split(" + ")[0])
+                pending_cnt = int(pending_text.split(" + ")[1])
+ 
                 for i in range(wa_cnt):
                     _run['status'] = 'incorrect'
                     _run['timestamp'] = 1
@@ -224,7 +227,7 @@ def run_out(html):
 
 def sync():
     init_logging()
-    
+
     while True:
         logger.info("fetching...")
         try:
