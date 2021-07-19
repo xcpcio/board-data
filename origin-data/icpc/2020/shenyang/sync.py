@@ -29,7 +29,7 @@ def team_out(data):
             continue
 				
         team_id = line.split(' ')[1].split(',')[0]
-        team_name = line.split(' ')[1].split(',')[3].split('(')[0]
+        team_name = ",".join(line.split('(')[0].split(",")[3:]).strip()
         team_organization = line.split('(')[1].replace(')', '')
         
         team = {}

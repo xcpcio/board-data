@@ -30,8 +30,9 @@ team_origin_data = json_input(path.join(data_dir, "team.json"))
 team_map = dict()
 
 for i in range(nrows):
-    if i == 0 or i == nrows - 1:
+    if i == 0 or i == 1:
         continue
+
     row = worksheet.row_values(i)
     
     organization = row[1]
@@ -40,11 +41,15 @@ for i in range(nrows):
     members = [row[12], row[16], row[20]]
     unofficial = True if row[25] == "打星" else False
     
-    team_map["%s-%s" % (organization, team_name)] = {
+    key = "%s-%s" % (organization, team_name)
+    
+    team_map[key] = {
         "coach" : coach,
         "members": members,
         "unofficial": unofficial
     }
+    
+matched = 0
 
 for key in team_origin_data.keys():
     team = team_origin_data[key]
@@ -62,9 +67,15 @@ for key in team_origin_data.keys():
         
         team["members"] = members
         team["coach"] = coach
+        
+        matched = matched + 1
+    else:
+        print(_key)
     
     if unofficial:
         del team["official"]
         team["unofficial"] = 1
-    
+
+print(nrows - 2, len(team_origin_data.keys()), matched)
+
 output("team.json", team_origin_data)
