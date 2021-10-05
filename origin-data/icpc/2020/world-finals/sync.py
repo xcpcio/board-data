@@ -161,8 +161,6 @@ def run_out(html):
                 cnt = int(score_correct[0].select('span')[
                           0].string.strip(' \n').split(' ')[0])
 
-                print(timestamp, cnt)
-
                 _run['timestamp'] = timestamp
                 _run['status'] = 'incorrect'
 
