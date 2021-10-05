@@ -100,7 +100,9 @@ def team_out(html):
         team_id = tr['id']
 
         img_src = tr.select('img')[0]['src']
-        img_src = img_src[1:len(img_src)]
+
+        if len(img_src) > 0 and img_src[0] == '/':
+            img_src = img_src[1:len(img_src)]
 
         for i in range(10):
             try:
@@ -126,7 +128,12 @@ def team_out(html):
         output("team.json", team)
 
 
+pre_runs = []
+
+
 def run_out(html):
+    global pre_runs
+
     run = []
     soup = bs4.BeautifulSoup(html, 'html5lib')
 
@@ -196,8 +203,22 @@ def run_out(html):
                     _run['timestamp'] = get_incorrect_timestamp()
                     run.append(_run.copy())
 
-    if len(run) > 0:
-        output('run.json', run)
+    has_team_and_problem = {}
+
+    for item in run:
+        has_team_and_problem[str(item['team_id']) +
+                             "-" + str(item['problem_id'])] = 1
+
+    _pre_runs = []
+
+    for item in pre_runs:
+        if (str(item['team_id']) + "-" + str(item['problem_id'])) not in has_team_and_problem.keys():
+            _pre_runs.append(item)
+
+    pre_runs += _pre_runs + run
+
+    if len(pre_runs) > 0:
+        output('run.json', pre_runs)
 
 
 def sync():
@@ -206,8 +227,8 @@ def sync():
         try:
             html = fetch()
 
-            team_out(html)
-            # run_out(html)
+            # team_out(html)
+            run_out(html)
 
             print("fetch successfully")
         except Exception as e:
