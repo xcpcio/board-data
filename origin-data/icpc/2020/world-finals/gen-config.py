@@ -107,6 +107,7 @@ config = {
     'banner': {
         'base64': urltobase64('./raw/banner-compress.png'),
     },
+    'badge': 'Badge',
     'balloon_color': generate_balloon_color(problem_num),
 }
 
