@@ -215,7 +215,7 @@ def run_out(html):
         if (str(item['team_id']) + "-" + str(item['problem_id'])) not in has_team_and_problem.keys():
             _pre_runs.append(item)
 
-    pre_runs += _pre_runs + run
+    pre_runs = _pre_runs + run
 
     if len(pre_runs) > 0:
         output('run.json', pre_runs)
@@ -227,7 +227,7 @@ def sync():
         try:
             html = fetch()
 
-            # team_out(html)
+            team_out(html)
             run_out(html)
 
             print("fetch successfully")
