@@ -86,10 +86,10 @@ status_time_display = {
 }
 
 medal = {
-    "official": {
-        'gold': 30,
-        'silver': 60,
-        'bronze': 90,
+    "all": {
+        "gold": 4,
+        "silver": 4,
+        "bronze": 4,
     }
 }
 
@@ -103,7 +103,7 @@ config = {
     # 'organization': 'School',
     'status_time_display': status_time_display,
     'penalty': 20 * 60,
-    # 'medal': medal,
+    'medal': medal,
     'banner': {
         'base64': urltobase64('./raw/banner-compress.png'),
     },
