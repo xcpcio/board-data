@@ -102,7 +102,7 @@ def run_output(res):
                 if __run['time'][1] == 'min':
                     timestamp *= 60
                 elif __run['time'][1] == 's':
-                    timestamp = timestamp // 60 * 60
+                    timestamp = timestamp
                 _run['status'] = status
                 _run['timestamp'] = timestamp
                 run.append(_run.copy())
