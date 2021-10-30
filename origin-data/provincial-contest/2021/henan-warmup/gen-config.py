@@ -54,7 +54,7 @@ def generate_balloon_color(num):
 
 
 raw_dir = "raw"
-data_dir = "../../../../data/provincial-contest/2021/henan"
+data_dir = "../../../../data/provincial-contest/2021/henan-warmup"
 
 problem_num = 3
 
