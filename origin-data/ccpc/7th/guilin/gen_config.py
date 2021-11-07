@@ -71,9 +71,9 @@ status_time_display = {
 
 medal = {
     "official": {
-        'gold': 30,
-        'silver': 60,
-        'bronze': 90,
+        'gold': 24,
+        'silver': 48,
+        'bronze': 71,
     }
 }
 
@@ -87,7 +87,7 @@ config = {
     'organization': 'School',
     'status_time_display': status_time_display,
     'penalty': 20 * 60,
-    # 'medal': medal,
+    'medal': medal,
     'balloon_color': generate_balloon_color(problem_num),
 }
 
