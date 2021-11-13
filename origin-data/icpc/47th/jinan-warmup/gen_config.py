@@ -84,8 +84,8 @@ medal = {
 
 config = {
     'contest_name': 'The 47th ICPC Asia Jinan Regional Contest - Practice Session',
-    'start_time': get_timestamp("2021-11-13 15:00:00"),
-    'end_time': get_timestamp("2021-11-13 17:00:00"),
+    'start_time': get_timestamp("2021-11-13 18:30:00"),
+    'end_time': get_timestamp("2021-11-13 20:30:00"),
     'frozen_time': 30 * 60,
     'problem_id': generate_problem_label(problem_num),
     'group': group,
