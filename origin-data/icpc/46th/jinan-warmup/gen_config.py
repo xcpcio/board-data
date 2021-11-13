@@ -42,7 +42,7 @@ def generate_balloon_color(num):
     return default_balloon_color[:num]
 
 
-data_dir = "../../../../data/icpc/47th/jinan-warmup"
+data_dir = "../../../../data/icpc/46th/jinan-warmup"
 
 default_balloon_color = [
     {'background_color': 'rgba(189, 14, 14, 0.7)', 'color': '#fff'},
@@ -83,7 +83,7 @@ medal = {
 }
 
 config = {
-    'contest_name': 'The 47th ICPC Asia Jinan Regional Contest - Practice Session',
+    'contest_name': 'The 46th ICPC Asia Jinan Regional Contest - Practice Session',
     'start_time': get_timestamp("2021-11-13 18:30:00"),
     'end_time': get_timestamp("2021-11-13 20:30:00"),
     'frozen_time': 30 * 60,
