@@ -86,7 +86,7 @@ config = {
     'contest_name': 'The 46th ICPC Asia Jinan Regional Contest - Contest Session',
     'start_time': get_timestamp("2021-11-14 11:00:00"),
     'end_time': get_timestamp("2021-11-14 16:00:00"),
-    'frozen_time': 30 * 60,
+    'frozen_time': 60 * 60,
     'problem_id': generate_problem_label(problem_num),
     'group': group,
     'organization': 'School',
