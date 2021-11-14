@@ -83,7 +83,7 @@ medal = {
 }
 
 config = {
-    'contest_name': '第 7 届中国大学生程序设计竞赛（CCPC）广州站',
+    'contest_name': '第 7 届中国大学生程序设计竞赛（CCPC）广州站 正式赛',
     'start_time': get_timestamp("2021-11-14 9:00:00"),
     'end_time': get_timestamp("2021-11-14 14:00:00"),
     'frozen_time': 60 * 60,
