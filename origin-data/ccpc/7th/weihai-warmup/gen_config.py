@@ -84,8 +84,8 @@ medal = {
 
 config = {
     'contest_name': '第 7 届中国大学生程序设计竞赛（CCPC）威海站 - 热身赛',
-    'start_time': get_timestamp("2021-11-20 15:00:00"),
-    'end_time': get_timestamp("2021-11-20 17:00:00"),
+    'start_time': get_timestamp("2021-11-20 15:30:00"),
+    'end_time': get_timestamp("2021-11-20 17:30:00"),
     'frozen_time': 30 * 60,
     'problem_id': generate_problem_label(problem_num),
     'group': group,
