@@ -59,7 +59,7 @@ default_balloon_color = [
 ]
 
 
-data_dir = "../../../../data/ccpc/7th/weihai-warmup"
+data_dir = "../../../../data/icpc/46th/shenyang-warmup"
 
 problem_num = 3
 
@@ -83,9 +83,9 @@ medal = {
 }
 
 config = {
-    'contest_name': '第 7 届中国大学生程序设计竞赛（CCPC）威海站 - 热身赛',
-    'start_time': get_timestamp("2021-11-20 15:00:00"),
-    'end_time': get_timestamp("2021-11-20 17:00:00"),
+    'contest_name': '第 46 届 ICPC 国际大学生程序设计竞赛亚洲区域赛（沈阳）热身赛',
+    'start_time': get_timestamp("2021-11-20 16:00:00"),
+    'end_time': get_timestamp("2021-11-20 18:00:00"),
     'frozen_time': 30 * 60,
     'problem_id': generate_problem_label(problem_num),
     'group': group,
