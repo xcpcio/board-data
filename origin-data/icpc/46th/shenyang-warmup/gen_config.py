@@ -61,7 +61,7 @@ default_balloon_color = [
 
 data_dir = "../../../../data/icpc/46th/shenyang-warmup"
 
-problem_num = 3
+problem_num = 4
 
 group = {
     'official': '正式队伍',
