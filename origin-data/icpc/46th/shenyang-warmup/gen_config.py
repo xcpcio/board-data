@@ -70,8 +70,8 @@ group = {
 
 status_time_display = {
     'correct': 1,
-    'incorrect': 1,
-    'pending': 1,
+    # 'incorrect': 1,
+    # 'pending': 1,
 }
 
 medal = {
