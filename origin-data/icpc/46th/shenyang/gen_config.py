@@ -59,7 +59,7 @@ default_balloon_color = [
 ]
 
 
-data_dir = "../../../../data/ccpc/7th/weihai"
+data_dir = "../../../../data/icpc/46th/shenyang"
 
 problem_num = 12
 
@@ -83,7 +83,7 @@ medal = {
 }
 
 config = {
-    'contest_name': '第 7 届中国大学生程序设计竞赛（CCPC）威海站 - 正式赛',
+    'contest_name': '第 46 届 ICPC 国际大学生程序设计竞赛亚洲区域赛（沈阳）正式赛',
     'start_time': get_timestamp("2021-11-21 9:00:00"),
     'end_time': get_timestamp("2021-11-21 14:00:00"),
     'frozen_time': 60 * 60,
