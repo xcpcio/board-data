@@ -84,8 +84,8 @@ medal = {
 
 config = {
     'contest_name': '第 46 届 ICPC 国际大学生程序设计竞赛亚洲区域赛（沈阳）正式赛',
-    'start_time': get_timestamp("2021-11-21 9:00:00"),
-    'end_time': get_timestamp("2021-11-21 14:00:00"),
+    'start_time': get_timestamp("2021-11-21 11:00:00"),
+    'end_time': get_timestamp("2021-11-21 16:00:00"),
     'frozen_time': 60 * 60,
     'problem_id': generate_problem_label(problem_num),
     'group': group,
