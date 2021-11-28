@@ -61,7 +61,7 @@ default_balloon_color = [
 
 data_dir = "../../../../data/ccpc/7th/harbin"
 
-problem_num = 13
+problem_num = 12
 
 group = {
     'official': '正式队伍',
