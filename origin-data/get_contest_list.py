@@ -44,6 +44,13 @@ def dfs(contest_list, pathname, link):
         contest_list['config']['start_time'] = config['start_time']
         contest_list['config']['end_time'] = config['end_time']
         contest_list['config']['frozen_time'] = config['frozen_time']
+
+        if 'register_link' in config.keys():
+            contest_list['config']['register_link'] = config['register_link']
+
+        if 'logo' in config.keys():
+            contest_list['config']['logo'] = config['logo']
+
         contest_list['link'] = link
     else:
         for _path in os.listdir(pathname):
