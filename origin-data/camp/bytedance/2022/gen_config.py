@@ -110,7 +110,10 @@ config = {
     'penalty': 20 * 60,
     'medal': medal,
     'balloon_color': generate_balloon_color(problem_num),
-    'register_link': 'https://programcamp.toutiao.com/',
+    'link': {
+        'homepage': 'https://programcamp.toutiao.com/',
+        'registration': 'https://programcamp.toutiao.com/signupteam',
+    },
     'logo': {
         'base64': urltobase64('./raw/bytedance-logo.png'),
     }

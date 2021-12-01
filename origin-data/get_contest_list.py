@@ -35,7 +35,7 @@ def output(filename, data):
         f.write(json_output(data))
 
 
-def dfs(contest_list, pathname, link):
+def dfs(contest_list, pathname, board_link):
     config_path = path.join(pathname, "config.json")
     if os.path.isfile(config_path):
         config = json_input(config_path)
@@ -45,19 +45,19 @@ def dfs(contest_list, pathname, link):
         contest_list['config']['end_time'] = config['end_time']
         contest_list['config']['frozen_time'] = config['frozen_time']
 
-        if 'register_link' in config.keys():
-            contest_list['config']['register_link'] = config['register_link']
+        if 'link' in config.keys():
+            contest_list['config']['link'] = config['link']
 
         if 'logo' in config.keys():
             contest_list['config']['logo'] = config['logo']
 
-        contest_list['link'] = link
+        contest_list['board_link'] = board_link
     else:
         for _path in os.listdir(pathname):
             if not _path in ['contest_list.json', '.DS_Store']:
                 contest_list[_path] = {}
                 dfs(contest_list[_path], path.join(
-                    pathname, _path), path.join(link, _path))
+                    pathname, _path), path.join(board_link, _path))
 
 
 def work(contest_list, pathname):
