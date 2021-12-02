@@ -75,7 +75,7 @@ default_balloon_color = [
 ]
 
 
-data_dir = "../../../../data/camp/bytedance/2022/"
+data_dir = "../../../../../data/camp/bytedance/2022/online-qualification"
 
 problem_num = 13
 
