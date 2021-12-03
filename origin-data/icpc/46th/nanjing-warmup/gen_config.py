@@ -59,7 +59,7 @@ default_balloon_color = [
 ]
 
 
-data_dir = "../../../../data/icpc/46th/nanjing"
+data_dir = "../../../../data/icpc/46th/nanjing-warmup"
 
 problem_num = 4
 
