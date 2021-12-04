@@ -76,9 +76,9 @@ status_time_display = {
 
 medal = {
     "official": {
-        'gold': 30,
-        'silver': 60,
-        'bronze': 90,
+        'gold': 35,
+        'silver': 70,
+        'bronze': 105,
     }
 }
 
