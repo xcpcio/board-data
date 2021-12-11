@@ -86,7 +86,7 @@ group = {
 
 status_time_display = {
     'correct': 1,
-    # 'incorrect': 1,
+    'incorrect': 1,
     # 'pending': 1,
 }
 
@@ -115,7 +115,7 @@ config = {
         'registration': 'https://programcamp.toutiao.com/signupteam',
     },
     'logo': {
-        'base64': urltobase64('./raw/bytedance-logo.png'),
+        'base64': urltobase64('./logo/bytedance-logo.png'),
     }
 }
 
