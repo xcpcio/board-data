@@ -77,7 +77,7 @@ default_balloon_color = [
 
 data_dir = "../../../../data/icpc/46th/macau"
 
-problem_num = 13
+problem_num = 11
 
 group = {
     'official': '正式队伍',
