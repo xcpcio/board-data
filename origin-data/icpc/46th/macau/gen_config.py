@@ -75,7 +75,7 @@ default_balloon_color = [
 ]
 
 
-data_dir = "../../../../data/icpc/16th/macau"
+data_dir = "../../../../data/icpc/46th/macau"
 
 problem_num = 13
 
