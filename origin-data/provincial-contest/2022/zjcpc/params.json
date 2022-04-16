@@ -1,5 +1,5 @@
 {
     "data_dir": "../../../../data/provincial-contest/2022/zjcpc/",
-    "teams_url": "http://rank.pintia.cn/js/teams.js",
-    "runs_url": "http://rank.pintia.cn/js/runs.js"
+    "teams_file": "./raw/teams.js",
+    "runs_file": "./raw/runs.js"
 }
