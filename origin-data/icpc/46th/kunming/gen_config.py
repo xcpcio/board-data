@@ -75,9 +75,9 @@ default_balloon_color = [
 ]
 
 
-data_dir = "../../../../data/icpc/46th/kunming-warmup"
+data_dir = "../../../../data/icpc/46th/kunming"
 
-problem_num = 3
+problem_num = 13
 
 group = {
     'official': '正式队伍',
@@ -93,23 +93,23 @@ status_time_display = {
 
 medal = {
     "official": {
-        'gold': 30,
-        'silver': 60,
-        'bronze': 90,
+        'gold': 35,
+        'silver': 70,
+        'bronze': 105,
     }
 }
 
 config = {
-    'contest_name': '第 46 届 ICPC 亚洲区域赛（昆明）热身赛',
-    'start_time': get_timestamp("2022-4-16 19:00:00"),
-    'end_time': get_timestamp("2022-4-16 20:30:00"),
-    'frozen_time': 0 * 60,
+    'contest_name': '第 46 届 ICPC 亚洲区域赛（昆明）正式赛',
+    'start_time': get_timestamp("2022-4-17 11:00:00"),
+    'end_time': get_timestamp("2022-4-17 16:00:00"),
+    'frozen_time': 60 * 60,
     'problem_id': generate_problem_label(problem_num),
     'group': group,
     'organization': 'School',
     'status_time_display': status_time_display,
     'penalty': 20 * 60,
-    # 'medal': medal,
+    'medal': medal,
     'balloon_color': generate_balloon_color(problem_num),
     'logo': {
         'base64': urltobase64('./logo/icpc_logo_with_word_min.png')
