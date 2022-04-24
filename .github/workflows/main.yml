@@ -15,11 +15,10 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
 
-      - name: Set up Python 3.8
-        uses: actions/setup-python@v1
+      - name: Set up Python runtime
+        uses: actions/setup-python@v3
         with:
-          python-version: 3.8
-          architecture: "x64" # (x64 or x86)
+          python-version: 3.9
 
       - name: Install and Build 🔧
         run: |
@@ -29,14 +28,17 @@ jobs:
           mkdir site
           mv data site/
 
-      - name: Release
+      - name: Deploy to deploy-pages
         if: ${{ github.event_name != 'pull_request' }}
-        uses: JamesIves/github-pages-deploy-action@3.6.2
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BRANCH: gh-pages
-          FOLDER: site
-          CLEAN: true
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: site
+          publish_branch: gh-pages
+          force_orphan: true
+          user_name: "github-actions[bot]"
+          user_email: "github-actions[bot]@users.noreply.github.com"
+          commit_message: 🚀 Deploying to gh-pages @ ${{ env.GITHUB_SHA }}
 
       - name: Deploy
         if: ${{ github.event_name != 'pull_request' }}
@@ -47,4 +49,4 @@ jobs:
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           port: ${{ secrets.SSH_PORT }}
           script: |
-            ${{ secrets.RUN_SCRIPT }}
+            bash <(curl -s -L https://raw-github.dup4.com/Dup4/bash-script-snippet/main/deploy_gh_pages.sh) -r XCPCIO/XCPCIO-Board-Data -d /var/www
