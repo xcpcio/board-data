@@ -101,7 +101,7 @@ config = {
     'frozen_time': 60 * 60,
     'problem_id': generate_problem_label(problem_num),
     'group': group,
-    # 'organization': 'School',
+    'organization': 'School',
     'status_time_display': status_time_display,
     'penalty': 20 * 60,
     # 'medal': medal,
