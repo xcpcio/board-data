@@ -1,0 +1,19 @@
+{
+    "cookies": "_ga=GA1.2.109600554.1653180394; _gid=GA1.2.1062533349.1653180394; __gads=ID=d377bd1fe5a7ae2c-224b01145ed30013:T=1653180394:RT=1653180394:S=ALNI_MZZjmXNJxF3ABlw-PPldcZ2byEmYg; __gpi=UID=000005a03d38e885:T=1653180394:RT=1653180394:S=ALNI_MbTPvPnE0DZ-9agWRv_QUFwCBLnBw; _9755xjdesxxd_=32; gdxidpyhxdE=IgbQUpNjIbqZQrd8+KTSJNvzYZAvYLByOC8yhEMaudWIBZYIwzfWRc5v46Sd9xAD2omUxKxbplq+a+k3VgEJSJ1GIIMD/+qCUussb6reZ9QlGs8dDlpJX/sxAEA+i0VyQdESgXq44MwWMhTSywgJC3OCx3gAvy1JejzrSy6EHdmDTI:1653188571404; PTASession=dc2b7123-2e7f-4b67-8c6c-cbd89709b4e8; _gat=1; JSESSIONID=4A389757A12D9B50FED9A579D6BB0EC0",
+    "headers": {
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36",
+        "Accept": "application/json;charset=UTF-8",
+        "Accept-Language": "zh-CN",
+        "X-Lollipop": "",
+        "X-Marshmallow": "2061554085%0",
+        "Content-Type": "application/json;charset=UTF-8",
+        "Connection": "keep-alive",
+        "Pragma": "no-cache",
+        "Cache-Control": "no-cache"
+    },
+    "run_frozen_fallback": false,
+    "frozen_start_timestamp": 14400,
+    "team_info_xls_path": "./data/team_info.xls",
+    "data_dir": "../../../../data/provincial-contest/2022/hbcpc",
+    "board_url": "https://pintia.cn/api/problem-sets/1527173558491729920/rankings"
+}
