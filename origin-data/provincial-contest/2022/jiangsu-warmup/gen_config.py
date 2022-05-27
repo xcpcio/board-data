@@ -73,7 +73,7 @@ def generate_balloon_color(num):
 
 data_dir = "../../../../data/provincial-contest/2022/jiangsu-warmup"
 
-problem_num = 3
+problem_num = 4
 
 group = {
     'official': '正式队伍',
