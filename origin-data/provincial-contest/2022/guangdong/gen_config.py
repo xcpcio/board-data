@@ -71,9 +71,9 @@ def generate_balloon_color(num):
     return default_balloon_color[:num]
 
 
-data_dir = "../../../../data/provincial-contest/2022/guangdong-warmup"
+data_dir = "../../../../data/provincial-contest/2022/guangdong"
 
-problem_num = 4
+problem_num = 13
 
 group = {
     'official': '正式队伍',
@@ -96,10 +96,10 @@ medal = {
 }
 
 config = {
-    'contest_name': '2022 年「小马智行杯」广东省大学生程序设计大赛 - 热身赛',
-    'start_time': get_timestamp("2022-6-5 10:00:00"),
-    'end_time': get_timestamp("2022-6-5 11:00:00"),
-    'frozen_time': 30 * 60,
+    'contest_name': '2022 年「小马智行杯」广东省大学生程序设计大赛 - 正式赛',
+    'start_time': get_timestamp("2022-6-5 11:30:00"),
+    'end_time': get_timestamp("2022-6-5 16:30:00"),
+    'frozen_time': 60 * 60,
     'problem_id': generate_problem_label(problem_num),
     'group': group,
     'organization': 'School',
