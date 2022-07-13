@@ -75,13 +75,13 @@ default_balloon_color = [
 ]
 
 
-data_dir = "../../../../../data/camp/bytedance/2022/online-qualification"
+data_dir = "../../../../../data/camp/bytedance/2022/day1"
 
 problem_num = 13
 
 group = {
     'official': '正式队伍',
-    'unofficial': '打星队伍',
+    # 'unofficial': '打星队伍',
 }
 
 status_time_display = {
@@ -99,9 +99,9 @@ medal = {
 }
 
 config = {
-    'contest_name': '2022 字节跳动程序设计竞赛冬令营 网络赛',
-    'start_time': get_timestamp("2021-12-11 15:00:00"),
-    'end_time': get_timestamp("2021-12-11 20:00:00"),
+    'contest_name': 'ByteDance - Moscow Workshops Programming Camp 2022. Training Contest 1',
+    'start_time': get_timestamp("2022-7-11 9:00:00"),
+    'end_time': get_timestamp("2022-7-11 14:00:00"),
     'frozen_time': 60 * 60,
     'problem_id': generate_problem_label(problem_num),
     'group': group,
@@ -110,10 +110,6 @@ config = {
     'penalty': 20 * 60,
     # 'medal': medal,
     'balloon_color': generate_balloon_color(problem_num),
-    'link': {
-        'homepage': 'https://programcamp.toutiao.com/',
-        'registration': 'https://programcamp.toutiao.com/signupteam',
-    },
     'logo': {
         'base64': urltobase64('../../logo/bytedance-logo.png'),
     }
