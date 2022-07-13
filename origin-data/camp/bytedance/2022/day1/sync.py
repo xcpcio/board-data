@@ -73,7 +73,6 @@ def fetch():
         html = response.text
 
         return html
-
     elif 'board_file' in _params.keys():
         board_file = _params['board_file']
         with open(board_file, 'r') as f:
