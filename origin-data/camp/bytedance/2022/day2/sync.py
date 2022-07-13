@@ -98,7 +98,8 @@ def team_out(html):
         team_name = trim(tds[1].text)
         team_id = team_name
 
-        team_name = team_name.replace('[Jul 12, 2022] ', '')
+        team_name = ' '.join(team_name.split('] ')[1:])
+        team_name = trim(team_name)
 
         _team['name'] = team_name
         _team['team_id'] = team_id
