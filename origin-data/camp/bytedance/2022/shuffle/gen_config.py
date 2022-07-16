@@ -75,7 +75,7 @@ default_balloon_color = [
 ]
 
 
-data_dir = "../../../../../data/camp/bytedance/2022/bonus-blitz"
+data_dir = "../../../../../data/camp/bytedance/2022/shuffle"
 
 problem_num = 13
 
@@ -99,7 +99,7 @@ medal = {
 }
 
 config = {
-    'contest_name': 'ByteDance - Moscow Workshops Programming Camp 2022. Bonus Blitz Contest',
+    'contest_name': 'ByteDance - Moscow Workshops Programming Camp 2022. Shuffle Contest',
     'start_time': get_timestamp("2022-7-16 14:00:00"),
     'end_time': get_timestamp("2022-7-16 17:00:00"),
     'frozen_time': 60 * 60,
