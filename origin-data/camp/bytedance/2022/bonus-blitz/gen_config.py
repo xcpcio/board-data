@@ -77,7 +77,7 @@ default_balloon_color = [
 
 data_dir = "../../../../../data/camp/bytedance/2022/bonus-blitz"
 
-problem_num = 9
+problem_num = 13
 
 group = {
     'official': '正式队伍',
