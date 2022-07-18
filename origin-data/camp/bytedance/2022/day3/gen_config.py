@@ -100,8 +100,8 @@ medal = {
 
 config = {
     'contest_name': 'ByteDance - Moscow Workshops Programming Camp 2022. Training Contest 3',
-    'start_time': get_timestamp("2022-7-13 9:00:00"),
-    'end_time': get_timestamp("2022-7-13 14:00:00"),
+    'start_time': get_timestamp("2022-7-13 14:00:00"),
+    'end_time': get_timestamp("2022-7-13 19:00:00"),
     'frozen_time': 60 * 60,
     'problem_id': generate_problem_label(problem_num),
     'group': group,
