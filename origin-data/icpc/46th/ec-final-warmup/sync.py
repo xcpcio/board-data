@@ -103,7 +103,7 @@ def fetch():
         params = (
             ('t', get_now()),
         )
-        response = requests.get(board_url, params=params)
+        response = requests.get(board_url, params=params, timeout=10)
         html = response.text
 
         # print(html)
@@ -165,6 +165,9 @@ def team_out(html):
             _team['unofficial'] = 1
         else:
             _team['official'] = 1
+
+        if len(tr.select('.cl_ffccdb')) > 0:
+            _team['girl'] = 1
 
         _team['organization'] = organization
         _team['name'] = name
