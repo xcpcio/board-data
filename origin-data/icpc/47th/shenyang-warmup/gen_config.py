@@ -103,7 +103,7 @@ config = {
     'contest_name': '第 47 届国际大学生程序设计竞赛亚洲区域赛沈阳站（热身赛）',
     'start_time': get_timestamp("2022-11-5 14:00:00"),
     'end_time': get_timestamp("2022-11-5 16:00:00"),
-    'frozen_time': 60 * 60,
+    'frozen_time': 30 * 60,
     'problem_id': generate_problem_label(problem_num),
     'group': group,
     'organization': 'School',
