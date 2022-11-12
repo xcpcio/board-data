@@ -102,7 +102,7 @@ medal = {
 config = {
     'contest_name': '2022 中国大学生程序设计竞赛（广州） - 热身赛',
     'start_time': get_timestamp("2022-11-12 15:00:00"),
-    'end_time': get_timestamp("2022-11-12 17:30:00"),
+    'end_time': get_timestamp("2022-11-12 17:00:00"),
     'frozen_time': 30 * 60,
     'problem_id': generate_problem_label(problem_num),
     'group': group,
