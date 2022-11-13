@@ -95,7 +95,7 @@ medal = {
     "official": {
         'gold': 24,
         'silver': 48,
-        'bronze': 72,
+        'bronze': 71,
     }
 }
 
