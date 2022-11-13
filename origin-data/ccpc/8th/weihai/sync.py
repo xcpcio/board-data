@@ -90,12 +90,15 @@ def team_output(teams):
         new_item['members'] = members
 
         type = item['type'].split(" ")
+
         if 'unofficial' in type:
             new_item['unofficial'] = 1
         else:
-            for tp in type:
-                if tp == 'type1':
-                    new_item['official'] = 1
+            if "type1" in type:
+                new_item['official'] = 1
+
+        if "girls" in type:
+            new_item["girl"] = 1
 
     if len(team) > 0:
         output("team.json", team)
