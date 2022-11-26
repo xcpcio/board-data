@@ -100,7 +100,7 @@ medal = {
 }
 
 config = {
-    'contest_name': '第 47 届国际大学生程序设计竞赛亚洲区域西安站（正式赛）',
+    'contest_name': '第 47 届国际大学生程序设计竞赛亚洲区域赛西安站（正式赛）',
     'start_time': get_timestamp("2022-11-13 12:00:00"),
     'end_time': get_timestamp("2022-11-13 17:00:00"),
     'frozen_time': 60 * 60,
