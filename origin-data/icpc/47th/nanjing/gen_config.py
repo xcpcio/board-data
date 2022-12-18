@@ -101,8 +101,8 @@ medal = {
 
 config = {
     'contest_name': '第 47 届国际大学生程序设计竞赛亚洲区域赛南京站（正式赛）',
-    'start_time': get_timestamp("2022-12-18 12:00:00"),
-    'end_time': get_timestamp("2022-12-18 17:00:00"),
+    'start_time': get_timestamp("2022-12-18 11:00:00"),
+    'end_time': get_timestamp("2022-12-18 16:00:00"),
     'frozen_time': 60 * 60,
     'problem_id': generate_problem_label(problem_num),
     'group': group,
