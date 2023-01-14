@@ -76,7 +76,7 @@ default_balloon_color = [
 
 data_dir = "../../../../data/icpc/47th/hongkong"
 
-problem_num = 13
+problem_num = 12
 
 group = {
     'official': '正式队伍',
