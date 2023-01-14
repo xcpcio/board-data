@@ -92,9 +92,9 @@ status_time_display = {
 
 medal = {
     "official": {
-        'gold': 35,
-        'silver': 70,
-        'bronze': 105,
+        'gold': 12,
+        'silver': 20,
+        'bronze': 37,
     }
 }
 
@@ -108,7 +108,7 @@ config = {
     'organization': 'School',
     'status_time_display': status_time_display,
     'penalty': 20 * 60,
-    # 'medal': medal,
+    'medal': medal,
     'balloon_color': generate_balloon_color(problem_num),
     'logo': {
         'base64': urltobase64('https://raw.githubusercontent.com/XCPCIO/logo/main/icpc/icpc_logo_with_word.min.png')
