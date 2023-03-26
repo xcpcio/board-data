@@ -91,9 +91,9 @@ status_time_display = {
 
 medal = {
     "official": {
-        'gold': 35,
-        'silver': 70,
-        'bronze': 105,
+        'gold': 28,
+        'silver': 56,
+        'bronze': 84,
     }
 }
 
