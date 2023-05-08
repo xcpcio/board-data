@@ -1,3 +1,3 @@
 #! /bin/bash
 
-http-server -c -1 -p 8080
+python3 -m http.server 8080
