@@ -90,6 +90,8 @@ def handle_teams(teams: Teams, team_info_xls_path: str):
 
 
 def work(data_dir: str, fetch_uri: str, cookies_str: str, team_info_xls_path: str, c: Contest):
+    utils.output(os.path.join(data_dir, "config.json"), c.get_dict)
+
     while True:
         log.info("loop start")
 
