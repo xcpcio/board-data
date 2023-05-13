@@ -1,7 +1,8 @@
-import time
 import os
+import time
 
 from xcpcio_board_spider import logger, Contest, Teams, constants, logo, utils
+from xcpcio_board_spider.spider.zoj.v2.zoj import ZOJ
 
 log = logger.init_logger()
 
@@ -30,29 +31,47 @@ def get_basic_contest():
     return c
 
 
-def work(data_dir: str, fetch_uri: str, c: Contest):
+def handle_teams(teams: Teams):
+    for team in teams.values():
+        type = ZOJ.get_team_type(team)
+
+        if "type2" in type:
+            team.official = 1
+
+        if "type3" in type:
+            team.unofficial = 1
+
+        if "type1" in type:
+            team.girl = 1
+
+        # type4 本科组
+        # type5 专科组
+
+
+def work(data_dir: str, fetch_uri_prefix: str, c: Contest):
     utils.ensure_makedirs(data_dir)
     utils.output(os.path.join(data_dir, "config.json"), c.get_dict)
     utils.output(os.path.join(data_dir, "team.json"), {}, True)
     utils.output(os.path.join(data_dir, "run.json"), [], True)
 
-    # while True:
-    #     log.info("loop start")
+    while True:
+        log.info("loop start")
 
-    #     try:
-    #         p = PTA(c, fetch_uri=fetch_uri, cookies_str=cookies_str)
-    #         p.fetch().parse_teams().parse_runs()
+        try:
+            z = ZOJ(c, fetch_uri_prefix)
 
-    #         handle_teams(p.teams, team_info_xls_path)
+            z.fetch().parse_teams().parse_runs()
 
-    #         utils.output(os.path.join(data_dir, "config.json"), c.get_dict)
-    #         utils.output(os.path.join(data_dir, "team.json"), p.teams.get_dict)
-    #         utils.output(os.path.join(data_dir, "run.json"), p.runs.get_dict)
+            handle_teams(z.teams)
 
-    #         log.info("work successfully")
-    #     except Exception as e:
-    #         log.error("work failed. ", e)
+            utils.output(os.path.join(data_dir, "config.json"), c.get_dict)
+            utils.output(os.path.join(data_dir, "team.json"), z.teams.get_dict)
+            utils.output(os.path.join(data_dir, "run.json"), z.runs.get_dict)
 
-    #     log.info("sleeping...")
+            log.info("work successfully")
+        except Exception as e:
+            log.error("work failed. ", e)
 
-    #     time.sleep(5)
+        log.info("sleeping...")
+
+        time.sleep(1)
