@@ -1,7 +1,8 @@
 import os
 import time
 
-from xcpcio_board_spider import logger, Contest, Teams, constants, logo, utils
+from xcpcio_board_spider import logger, Contest, Teams, Submissions, constants, logo, utils
+from xcpcio_board_spider.spider.csg_cpc.v1 import CSG_CPC
 
 log = logger.init_logger()
 
@@ -25,14 +26,29 @@ def get_basic_contest():
         constants.RESULT_PENDING: 1,
     }
 
+    c.logo = logo.CCPC
+
     return c
 
 
 def handle_teams(teams: Teams):
-    pass
+    for team in teams.values():
+        if team.official == True:
+            team.official = 1
+
+        if team.unofficial == True:
+            team.unofficial = 1
+
+        if team.girl == True:
+            team.girl = 1
 
 
-def work(data_dir: str, fetch_uri_prefix: str, c: Contest):
+def handle_runs(runs: Submissions, problem_id_base: int):
+    for run in runs:
+        run.problem_id -= problem_id_base
+
+
+def work(data_dir: str, c: Contest, team_uris, run_uris, problem_id_base: int):
     utils.ensure_makedirs(data_dir)
     utils.output(os.path.join(data_dir, "config.json"), c.get_dict)
     utils.output(os.path.join(data_dir, "team.json"), {}, True)
@@ -42,20 +58,21 @@ def work(data_dir: str, fetch_uri_prefix: str, c: Contest):
         log.info("loop start")
 
         try:
-            # z = ZOJ(c, fetch_uri_prefix)
+            csg_cpc = CSG_CPC(c, team_uris, run_uris)
+            csg_cpc.fetch().parse_teams().parse_runs()
 
-            # z.fetch().parse_teams().parse_runs()
+            handle_teams(csg_cpc.teams)
+            handle_runs(csg_cpc.runs, problem_id_base)
 
-            # handle_teams(z.teams)
-
-            # utils.output(os.path.join(data_dir, "config.json"), c.get_dict)
-            # utils.output(os.path.join(data_dir, "team.json"), z.teams.get_dict)
-            # utils.output(os.path.join(data_dir, "run.json"), z.runs.get_dict)
+            utils.output(os.path.join(data_dir, "config.json"), c.get_dict)
+            utils.output(os.path.join(data_dir, "team.json"),
+                         csg_cpc.teams.get_dict)
+            utils.output(os.path.join(data_dir, "run.json"),
+                         csg_cpc.runs.get_dict)
 
             log.info("work successfully")
         except Exception as e:
             log.error("work failed. ", e)
 
         log.info("sleeping...")
-
         time.sleep(1)

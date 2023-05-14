@@ -73,5 +73,4 @@ def work(data_dir: str, fetch_uri_prefix: str, c: Contest):
             log.error("work failed. ", e)
 
         log.info("sleeping...")
-
         time.sleep(1)
