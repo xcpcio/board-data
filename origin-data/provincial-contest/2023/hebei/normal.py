@@ -7,7 +7,9 @@ import common
 DATA_DIR = os.getenv(
     "DATA_DIR", "../../../../data/provincial-contest/2023/hebei")
 FETCH_URI = os.getenv(
-    "FETCH_URI", "")
+    "FETCH_URI", "https://pintia.cn/api/problem-sets/1659939214638964736/rankings")
+COOKIES_STR = os.getenv("COOKIES_STR", "")
+TEAM_INFO_XLS_PATH = os.getenv("TEAM_INFO_XLS_PATH", "./raw/teams.xls")
 
 
 def get_contest():
@@ -25,7 +27,7 @@ def get_contest():
 
 def main():
     c = get_contest()
-    common.work(c, DATA_DIR, FETCH_URI)
+    common.work(c, DATA_DIR, FETCH_URI, COOKIES_STR, TEAM_INFO_XLS_PATH)
 
 
 if __name__ == "__main__":

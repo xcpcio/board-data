@@ -2,6 +2,7 @@ import time
 import os
 
 from xcpcio_board_spider import logger, Contest, Teams, constants, logo, utils
+from xcpcio_board_spider.spider.pta.v1.pta import PTA
 
 log = logger.init_logger()
 
@@ -17,6 +18,8 @@ def get_basic_contest():
         constants.TEAM_TYPE_OFFICIAL: constants.TEAM_TYPE_ZH_CN_OFFICIAL,
         constants.TEAM_TYPE_UNOFFICIAL: constants.TEAM_TYPE_ZH_CH_UNOFFICIAL,
         constants.TEAM_TYPE_GIRL: constants.TEAM_TYPE_ZH_CH_GIRL,
+        # "undergraduate": "本科组",
+        # "vocational": "专科组",
     }
 
     c.status_time_display = {
@@ -40,17 +43,22 @@ def get_team_info(team_info_xls_path: str):
         cur_team = team_info[team_id]
 
         cur_team["organization"] = row[1]
-        cur_team["team_name"] = row[3]
+        cur_team["team_name"] = row[2]
         cur_team["team_id"] = team_id
-        cur_team["members"] = []
-        cur_team["official"] = True
-
-        for ix in [5, 6, 7]:
-            if len(row[ix]) > 0:
-                cur_team["members"].append(row[ix])
-
+        cur_team["members"] = row[3].split(" ")
         cur_team["members"] = sorted(cur_team["members"])
-        cur_team["type"] = row[8]
+        cur_team["unofficial"] = False
+        cur_team["girl"] = False
+
+        if "女队" in team_id:
+            cur_team["girl"] = True
+
+        if "专科" in team_id:
+            cur_team["vocational"] = True
+
+        if team_id.startswith("*"):
+            cur_team["unofficial"] = True
+            cur_team["team_name"] = cur_team["team_name"][1:]
 
     return team_info
 
@@ -60,35 +68,23 @@ def handle_teams(teams: Teams, team_info_xls_path: str):
 
     for team in teams.values():
         team_key = team.name
+        cur_team_info = team_info[team_key]
 
-        if team_key not in team_info.keys():
-            if team_key.startswith("*"):
-                team_key = team_key[1:]
+        team.name = cur_team_info["team_name"]
+        team.organization = cur_team_info["organization"]
+        team.members = cur_team_info["members"]
 
-            school, name = team_key.split("-")
-
-            team.name = name
-            team.organization = school
-
-            team.official = 0
+        if cur_team_info["unofficial"]:
             team.unofficial = 1
+            team.official = 0
         else:
-            cur_team_info = team_info[team_key]
+            team.official = 1
 
-            team.name = cur_team_info["team_name"]
-            team.organization = cur_team_info["organization"]
-            team.members = cur_team_info["members"]
-
-            if cur_team_info["type"] == "打星名额":
-                team.unofficial = 1
-                team.official = 0
-            else:
-                team.official = 1
-                if cur_team_info["type"] == "女队名额":
-                    team.girl = 1
+        if cur_team_info["girl"]:
+            team.girl = 1
 
 
-def work(c: Contest, data_dir: str, fetch_uri: str):
+def work(c: Contest, data_dir: str, fetch_uri: str,  cookies_str: str, team_info_xls_path: str):
     utils.ensure_makedirs(data_dir)
     utils.output(os.path.join(data_dir, "config.json"), c.get_dict)
     utils.output(os.path.join(data_dir, "team.json"), {})
@@ -98,14 +94,14 @@ def work(c: Contest, data_dir: str, fetch_uri: str):
         log.info("loop start")
 
         try:
-            # p = PTA(c, fetch_uri=fetch_uri, cookies_str=cookies_str)
-            # p.fetch().parse_teams().parse_runs()
+            p = PTA(c, fetch_uri=fetch_uri, cookies_str=cookies_str)
+            p.fetch().parse_teams().parse_runs()
 
-            # handle_teams(p.teams, team_info_xls_path)
+            handle_teams(p.teams, team_info_xls_path)
 
-            # utils.output(os.path.join(data_dir, "config.json"), c.get_dict)
-            # utils.output(os.path.join(data_dir, "team.json"), p.teams.get_dict)
-            # utils.output(os.path.join(data_dir, "run.json"), p.runs.get_dict)
+            utils.output(os.path.join(data_dir, "config.json"), c.get_dict)
+            utils.output(os.path.join(data_dir, "team.json"), p.teams.get_dict)
+            utils.output(os.path.join(data_dir, "run.json"), p.runs.get_dict)
 
             log.info("work successfully")
         except Exception as e:
