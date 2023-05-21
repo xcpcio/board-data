@@ -7,7 +7,7 @@ import common
 DATA_DIR = os.getenv(
     "DATA_DIR", "../../../../data/provincial-contest/2023/jiangxi")
 FETCH_URI = os.getenv(
-    "FETCH_URI", "")
+    "FETCH_URI", "https://test.jxiot.top/music/sc/index.html")
 
 
 def get_contest():
