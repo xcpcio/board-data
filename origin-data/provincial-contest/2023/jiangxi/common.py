@@ -50,7 +50,7 @@ def work(c: Contest, data_dir: str, fetch_uri: str):
         log.info("loop start")
 
         try:
-            d = DOMjudge(c, data_dir, fetch_uri)
+            d = DOMjudge(c, fetch_uri)
             d.fetch().parse_teams().parse_runs()
             handle_teams(d.teams)
 
