@@ -18,8 +18,8 @@ def get_basic_contest():
         constants.TEAM_TYPE_OFFICIAL: constants.TEAM_TYPE_ZH_CN_OFFICIAL,
         constants.TEAM_TYPE_UNOFFICIAL: constants.TEAM_TYPE_ZH_CH_UNOFFICIAL,
         constants.TEAM_TYPE_GIRL: constants.TEAM_TYPE_ZH_CH_GIRL,
-        # "undergraduate": "本科组",
-        # "vocational": "专科组",
+        "undergraduate": "本科组",
+        "vocational": "专科组",
     }
 
     c.status_time_display = {
@@ -49,6 +49,7 @@ def get_team_info(team_info_xls_path: str):
         cur_team["members"] = sorted(cur_team["members"])
         cur_team["unofficial"] = False
         cur_team["girl"] = False
+        cur_team["vocational"] = False
 
         if "女队" in team_id:
             cur_team["girl"] = True
@@ -64,9 +65,11 @@ def get_team_info(team_info_xls_path: str):
 
 
 def handle_teams(teams: Teams, team_info_xls_path: str):
+    res_teams = {}
+
     team_info = get_team_info(team_info_xls_path)
 
-    for team in teams.values():
+    for team_id, team in teams.items():
         team_key = team.name
         cur_team_info = team_info[team_key]
 
@@ -83,6 +86,16 @@ def handle_teams(teams: Teams, team_info_xls_path: str):
         if cur_team_info["girl"]:
             team.girl = 1
 
+        cur_team = team.get_dict
+        res_teams[team_id] = cur_team
+
+        if cur_team_info["vocational"]:
+            cur_team["vocational"] = 1
+        elif not cur_team_info["unofficial"]:
+            cur_team["undergraduate"] = 1
+
+    return res_teams
+
 
 def work(c: Contest, data_dir: str, fetch_uri: str,  cookies_str: str, team_info_xls_path: str):
     utils.ensure_makedirs(data_dir)
@@ -97,10 +110,10 @@ def work(c: Contest, data_dir: str, fetch_uri: str,  cookies_str: str, team_info
             p = PTA(c, fetch_uri=fetch_uri, cookies_str=cookies_str)
             p.fetch().parse_teams().parse_runs()
 
-            handle_teams(p.teams, team_info_xls_path)
+            teams = handle_teams(p.teams, team_info_xls_path)
 
             utils.output(os.path.join(data_dir, "config.json"), c.get_dict)
-            utils.output(os.path.join(data_dir, "team.json"), p.teams.get_dict)
+            utils.output(os.path.join(data_dir, "team.json"), teams)
             utils.output(os.path.join(data_dir, "run.json"), p.runs.get_dict)
 
             log.info("work successfully")
