@@ -7,14 +7,14 @@ import common
 DATA_DIR = os.getenv(
     "DATA_DIR", "../../../../data/provincial-contest/2023/jiangxi")
 FETCH_URI = os.getenv(
-    "FETCH_URI", "https://test.jxiot.top/music/sc/index.html")
+    "FETCH_URI", "")
 
 
 def get_contest():
     c = common.get_basic_contest()
 
     c.contest_name = "2023 年 ICPC 江西省大学生程序设计竞赛（正式赛）"
-    c.problem_quantity = 13
+    c.problem_quantity = 12
     c.start_time = utils.get_timestamp_second("2023-05-21 10:00:00")
     c.end_time = utils.get_timestamp_second("2023-05-21 15:00:00")
 
