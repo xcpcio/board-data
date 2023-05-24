@@ -32,8 +32,13 @@ def get_basic_contest():
 
 
 def handle_teams(teams: Teams):
+    filter_team_id = []
     for t in teams.values():
         d_team = t.extra[DOMjudge.CONSTANT_EXTRA_DOMJUDGE_TEAM]
+
+        if d_team["display_name"] is None:
+            filter_team_id.append(t.team_id)
+            continue
 
         if "3" in d_team["group_ids"]:
             t.official = 1
@@ -44,6 +49,9 @@ def handle_teams(teams: Teams):
         if "6" in d_team["group_ids"]:
             t.girl = 1
             t.official = 1
+
+    for t_id in filter_team_id:
+        del teams[t_id]
 
 
 def work(c: Contest, data_dir: str, fetch_uri: str):
