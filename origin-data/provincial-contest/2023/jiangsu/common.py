@@ -2,7 +2,8 @@ import time
 import os
 import json
 
-from xcpcio_board_spider import logger, Contest, constants, logo, utils
+from xcpcio_board_spider import logger, Contest, constants, logo, utils, Team, Teams
+from xcpcio_board_spider.spider.domjudge.v3.domjudge import DOMjudge
 
 log = logger.init_logger()
 
@@ -26,9 +27,32 @@ def get_basic_contest():
         constants.RESULT_PENDING: 1,
     }
 
-    # c.logo = logo.CCPC
+    c.logo = logo.CCPC
 
     return c
+
+
+def handle_teams(teams: Teams):
+    filter_team_id = []
+    for t in teams.values():
+        d_team = t.extra[DOMjudge.CONSTANT_EXTRA_DOMJUDGE_TEAM]
+
+        if d_team["display_name"] is None:
+            filter_team_id.append(t.team_id)
+            continue
+
+        if "3" in d_team["group_ids"]:
+            t.official = 1
+
+        if "4" in d_team["group_ids"]:
+            t.unofficial = 1
+
+        if "6" in d_team["group_ids"]:
+            t.girl = 1
+            t.official = 1
+
+    for t_id in filter_team_id:
+        del teams[t_id]
 
 
 def work(c: Contest, data_dir: str, fetch_uri: str):
@@ -37,15 +61,21 @@ def work(c: Contest, data_dir: str, fetch_uri: str):
     utils.output(os.path.join(data_dir, "team.json"), {}, True)
     utils.output(os.path.join(data_dir, "run.json"), [], True)
 
-    # with open("./raw/team.json", "r") as f:
-    #     utils.output(os.path.join(data_dir, "team.json"), json.loads(f.read()))
+    if len(fetch_uri) == 0:
+        return
 
     while True:
         log.info("loop start")
 
         try:
+            d = DOMjudge(c, fetch_uri)
+            d.fetch().parse_teams().parse_runs()
 
-            # utils.output(os.path.join(data_dir, "run.json"), d.runs.get_dict)
+            handle_teams(d.teams)
+
+            utils.output(os.path.join(data_dir, "config.json"), c.get_dict)
+            utils.output(os.path.join(data_dir, "team.json"), d.teams.get_dict)
+            utils.output(os.path.join(data_dir, "run.json"), d.runs.get_dict)
 
             log.info("work successfully")
         except Exception as e:
