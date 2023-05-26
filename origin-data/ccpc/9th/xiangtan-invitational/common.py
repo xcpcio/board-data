@@ -1,6 +1,7 @@
 import time
 import os
 import json
+import requests
 
 from xcpcio_board_spider import logger, Contest, constants, logo, utils
 
@@ -44,8 +45,32 @@ def work(c: Contest, data_dir: str, fetch_uri: str):
         log.info("loop start")
 
         try:
+            req = requests.get(fetch_uri)
+            raw_runs = json.loads(req.content)
 
-            # utils.output(os.path.join(data_dir, "run.json"), d.runs.get_dict)
+            runs = []
+            for run in raw_runs:
+                status = run["status"]
+                team_id = str(run["team_id"])
+                timestamp = int(run["timestamp"])
+                timestamp = timestamp // 60 * 60
+
+                run["team_id"] = team_id
+                run["timestamp"] = timestamp
+
+                if status == "ce":
+                    continue
+
+                if status == "ac":
+                    run["status"] = constants.RESULT_CORRECT
+                elif status == "waiting":
+                    run["status"] = constants.RESULT_PENDING
+                else:
+                    run["status"] = constants.RESULT_INCORRECT
+
+                runs.append(run)
+
+            utils.output(os.path.join(data_dir, "run.json"), runs)
 
             log.info("work successfully")
         except Exception as e:
