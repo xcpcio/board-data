@@ -20,6 +20,8 @@ def get_basic_contest():
         constants.TEAM_TYPE_OFFICIAL: constants.TEAM_TYPE_ZH_CN_OFFICIAL,
         constants.TEAM_TYPE_UNOFFICIAL: constants.TEAM_TYPE_ZH_CH_UNOFFICIAL,
         constants.TEAM_TYPE_GIRL: constants.TEAM_TYPE_ZH_CH_GIRL,
+        "jiangsu": "江苏省赛",
+        "xiangtan": "CCPC 湘潭",
     }
 
     c.status_time_display = {
@@ -42,6 +44,7 @@ def handle_teams(teams, fetch_uri, flag):
     for team_id, t in current_teams.items():
         team_id = str(flag + team_id)
         t["team_id"] = team_id
+        t[flag] = 1
 
         teams[team_id] = t
 
@@ -72,11 +75,11 @@ def work(c: Contest, data_dir: str, fetch_js_uri: str, fetch_xt_uri: str):
         teams = {}
         runs = []
 
-        handle_teams(teams, fetch_js_uri, "js_")
-        handle_runs(runs, fetch_js_uri, "js_")
+        handle_teams(teams, fetch_js_uri, "jiangsu")
+        handle_runs(runs, fetch_js_uri, "jiangsu")
 
-        handle_teams(teams, fetch_xt_uri, "xt_")
-        handle_runs(runs, fetch_xt_uri, "xt_")
+        handle_teams(teams, fetch_xt_uri, "xiangtan")
+        handle_runs(runs, fetch_xt_uri, "xiangtan")
 
         utils.output(os.path.join(data_dir, "team.json"), teams)
         utils.output(os.path.join(data_dir, "run.json"), runs)
