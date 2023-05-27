@@ -7,7 +7,7 @@ import common
 DATA_DIR = os.getenv(
     "DATA_DIR", "../../../../data/ccpc/9th/xiangtan-invitational-warmup")
 FETCH_URI = os.getenv(
-    "FETCH_URI", "")
+    "FETCH_URI", "./raw/run.json")
 
 
 def get_contest():
@@ -15,8 +15,8 @@ def get_contest():
 
     c.contest_name = "2023 年中国大学生程序设计竞赛全国邀请赛（湖南）- 热身赛"
     c.problem_quantity = 4
-    c.start_time = utils.get_timestamp_second("2023-05-27 14:00:00")
-    c.end_time = utils.get_timestamp_second("2023-05-27 16:00:00")
+    c.start_time = utils.get_timestamp_second("2023-05-27 16:30:00")
+    c.end_time = utils.get_timestamp_second("2023-05-27 18:30:00")
 
     c.fill_problem_id().fill_balloon_color()
 

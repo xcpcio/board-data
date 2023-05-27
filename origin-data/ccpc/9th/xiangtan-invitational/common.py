@@ -45,8 +45,14 @@ def work(c: Contest, data_dir: str, fetch_uri: str):
         log.info("loop start")
 
         try:
-            req = requests.get(fetch_uri)
-            raw_runs = json.loads(req.content)
+            raw_runs = []
+
+            if os.path.exists(fetch_uri):
+                with open(fetch_uri) as f:
+                    raw_runs = json.loads(f.read())
+            else:
+                req = requests.get(fetch_uri)
+                raw_runs = json.loads(req.content)
 
             runs = []
             for run in raw_runs:
