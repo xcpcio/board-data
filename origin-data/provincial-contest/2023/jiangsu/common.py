@@ -72,6 +72,7 @@ def work(c: Contest, data_dir: str, fetch_uri: str):
             d.fetch().parse_teams().parse_runs()
 
             handle_teams(d.teams)
+            utils.frozen_fallback(c, d.runs)
 
             utils.output(os.path.join(data_dir, "config.json"), c.get_dict)
             utils.output(os.path.join(data_dir, "team.json"), d.teams.get_dict)
