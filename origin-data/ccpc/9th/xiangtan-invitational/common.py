@@ -76,6 +76,7 @@ def work(c: Contest, data_dir: str, fetch_uri: str):
 
                 runs.append(run)
 
+            utils.frozen_fallback(c, runs)
             utils.output(os.path.join(data_dir, "run.json"), runs)
 
             log.info("work successfully")
