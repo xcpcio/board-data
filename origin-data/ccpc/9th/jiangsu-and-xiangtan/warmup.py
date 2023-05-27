@@ -6,8 +6,8 @@ import common
 
 DATA_DIR = os.getenv(
     "DATA_DIR", "../../../../data/ccpc/9th/jiangsu-and-xiangtan-warmup")
-FETCH_URI = os.getenv(
-    "FETCH_URI", "")
+FETCH_JS_URI = os.getenv("FETCH_JS_URI", "")
+FETCH_XT_URI = os.getenv("FETCH_XT_URI", "")
 
 
 def get_contest():
@@ -25,7 +25,7 @@ def get_contest():
 
 def main():
     c = get_contest()
-    common.work(c, DATA_DIR, FETCH_URI)
+    common.work(c, DATA_DIR, FETCH_JS_URI, FETCH_XT_URI)
 
 
 if __name__ == "__main__":
