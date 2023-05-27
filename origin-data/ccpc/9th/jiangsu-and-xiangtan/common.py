@@ -70,7 +70,7 @@ def work(c: Contest, data_dir: str, fetch_js_uri: str, fetch_xt_uri: str):
         log.info("loop start")
 
         teams = {}
-        runs = {}
+        runs = []
 
         handle_teams(teams, fetch_js_uri, "js_")
         handle_runs(runs, fetch_js_uri, "js_")
