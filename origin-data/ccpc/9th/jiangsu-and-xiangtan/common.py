@@ -72,19 +72,19 @@ def work(c: Contest, data_dir: str, fetch_js_uri: str, fetch_xt_uri: str):
     while True:
         log.info("loop start")
 
-        teams = {}
-        runs = []
-
-        handle_teams(teams, fetch_js_uri, "jiangsu")
-        handle_runs(runs, fetch_js_uri, "jiangsu")
-
-        handle_teams(teams, fetch_xt_uri, "xiangtan")
-        handle_runs(runs, fetch_xt_uri, "xiangtan")
-
-        utils.output(os.path.join(data_dir, "team.json"), teams)
-        utils.output(os.path.join(data_dir, "run.json"), runs)
-
         try:
+            teams = {}
+            runs = []
+
+            handle_teams(teams, fetch_js_uri, "jiangsu")
+            handle_runs(runs, fetch_js_uri, "jiangsu")
+
+            handle_teams(teams, fetch_xt_uri, "xiangtan")
+            handle_runs(runs, fetch_xt_uri, "xiangtan")
+
+            utils.output(os.path.join(data_dir, "team.json"), teams)
+            utils.output(os.path.join(data_dir, "run.json"), runs)
+
             log.info("work successfully")
         except Exception as e:
             log.error("work failed. ", e)
