@@ -22,21 +22,24 @@ def get_basic_contest():
 
     c.status_time_display = {
         constants.RESULT_CORRECT: 1,
-        constants.RESULT_INCORRECT: 0,
-        constants.RESULT_PENDING: 0,
+        constants.RESULT_INCORRECT: 1,
+        constants.RESULT_PENDING: 1,
     }
 
     return c
 
 
 def handle_teams(teams: Teams):
-    for v in teams.values():
-        if v.name.startswith("*"):
-            v.name = v.name[1:]
-            v.official = 0
-            v.unofficial = 1
+    for t in teams.values():
+        if t.name.startswith("*"):
+            t.name = t.name[1:]
+            t.official = 0
+            t.unofficial = 1
         else:
-            v.official = 1
+            t.official = 1
+
+        name = t.name.split("_")
+        t.name = "_".join(name[1:-1])
 
 
 def work(data_dir: str, c: Contest, contest_id: int = 0):
@@ -53,7 +56,7 @@ def work(data_dir: str, c: Contest, contest_id: int = 0):
 
         try:
             n = NowCoder(c, contest_id)
-            n.fetch().parse_teams().parse_runs()
+            n.fetch().parse_teams().fetch_submissions()
             handle_teams(n.teams)
 
             utils.output(os.path.join(data_dir, "config.json"), c.get_dict)
@@ -65,5 +68,4 @@ def work(data_dir: str, c: Contest, contest_id: int = 0):
             l.error("work failed. ", e)
 
         l.info("sleeping...")
-
         time.sleep(5)
