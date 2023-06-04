@@ -26,6 +26,8 @@ def get_basic_contest():
         constants.RESULT_PENDING: 1,
     }
 
+    c.logo = logo.CCPC
+
     return c
 
 
@@ -42,13 +44,13 @@ def handle_teams(teams: Teams):
         t.name = "_".join(name[1:-1])
 
 
-def work(data_dir: str, c: Contest, contest_id: int = 0):
+def work(data_dir: str, c: Contest, contest_id: int):
     utils.ensure_makedirs(data_dir)
     utils.output(os.path.join(data_dir, "config.json"), c.get_dict)
     utils.output(os.path.join(data_dir, "team.json"), {}, True)
     utils.output(os.path.join(data_dir, "run.json"), [], True)
 
-    if contest_id == 0:
+    if os.getenv("ENABLE_SPIDER") != "true":
         return
 
     while True:
