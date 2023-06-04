@@ -5,8 +5,8 @@ import os
 import json
 import time
 
-dist = "../data/contest_list.json"
-pathname = "../data"
+dist = "../../data/contest_list.json"
+pathname = "../../data"
 contest_list = {}
 
 
