@@ -57,7 +57,7 @@ def work(data_dir: str, fetch_uri: str, c: Contest):
         try:
             d = DOMjudge(c, fetch_uri)
             d.fetch().parse_teams().parse_runs()
-            # handle_teams(d.teams)
+            handle_teams(d.teams)
 
             utils.output(os.path.join(data_dir, "config.json"), c.get_dict)
             utils.output(os.path.join(data_dir, "team.json"), d.teams.get_dict)
