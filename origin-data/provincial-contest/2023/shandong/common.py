@@ -32,14 +32,14 @@ def get_basic_contest():
     return c
 
 
-# def handle_teams(teams: Teams):
-#     for v in teams.values():
-#         if v.name.startswith("*"):
-#             v.name = v.name[1:]
-#             v.official = 0
-#             v.unofficial = 1
-#         else:
-#             v.official = 1
+def handle_teams(teams: Teams):
+    for v in teams.values():
+        if v.name.startswith("⭐"):
+            v.name = v.name[1:]
+            v.official = 0
+            v.unofficial = 1
+        else:
+            v.official = 1
 
 
 def work(data_dir: str, fetch_uri: str, c: Contest):
