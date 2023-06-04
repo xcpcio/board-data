@@ -33,13 +33,16 @@ def get_basic_contest():
 
 
 def handle_teams(teams: Teams):
-    for v in teams.values():
-        if v.name.startswith("⭐"):
-            v.name = v.name[1:]
-            v.official = 0
-            v.unofficial = 1
+    for t in teams.values():
+        if "cl_FFB7C5" in DOMjudge.get_team_class_attr(t):
+            t.girl = 1
+
+        if t.name.startswith("⭐"):
+            t.name = t.name[1:]
+            t.official = 0
+            t.unofficial = 1
         else:
-            v.official = 1
+            t.official = 1
 
 
 def work(data_dir: str, fetch_uri: str, c: Contest):
