@@ -23,9 +23,9 @@ jobs:
 
       - name: Install and Build 🔧
         run: |
-          cd origin-data
+          cd origin-data/gen-index
           python3 gen_contest_list.py
-          cd ..
+          cd ../../
           mkdir site
           mv data site/
 
