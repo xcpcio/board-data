@@ -21,9 +21,10 @@ jobs:
         with:
           python-version: "${{ env.python_version }}"
 
-      - name: Install and Build 🔧
+      - name: Gen Index
         run: |
           cd origin-data/gen-index
+          pip install -r requirements.txt
           bash gen_index.sh
           cd ../../
           mkdir site
