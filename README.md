@@ -1,7 +1,7 @@
-# XCPCIO-Board-Data
+# xcpcio/board-data
 
-![](https://img.shields.io/github/repo-size/XCPCIO/XCPCIO-board-data.svg)
-[![Build and Deploy](https://github.com/XCPCIO/XCPCIO-Board-Data/actions/workflows/build_and_deploy.yml/badge.svg)](https://github.com/XCPCIO/XCPCIO-Board-Data/actions/workflows/build_and_deploy.yml)
+![](https://img.shields.io/github/repo-size/XCPCIO/board-data.svg)
+[![Deploy](https://github.com/XCPCIO/board-data/actions/workflows/deploy.yml/badge.svg)](https://github.com/XCPCIO/board-data/actions/workflows/deploy.yml)
 
 ## Run
 
