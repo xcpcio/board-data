@@ -6,5 +6,12 @@
 ## Run
 
 ```bash
+# generate index firstly
+cd origin-data/gen-index
+pip install -r requirements.txt
+bash gen_index.sh
+cd ../..
+
+# start a http server
 ./start.sh
 ```
