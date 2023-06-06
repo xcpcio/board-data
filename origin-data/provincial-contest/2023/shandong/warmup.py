@@ -1,6 +1,6 @@
 import os
 
-from xcpcio_board_spider import utils
+from xcpcio_board_spider import utils, constants
 
 import common
 
@@ -18,6 +18,12 @@ def get_contest():
     c.start_time = utils.get_timestamp_second("2023-06-03 15:30:00")
     c.end_time = utils.get_timestamp_second("2023-06-03 17:00:00")
     c.frozen_time = 30 * 60
+
+    c.status_time_display = {
+        constants.RESULT_CORRECT: 1,
+        constants.RESULT_INCORRECT: 0,
+        constants.RESULT_PENDING: 0,
+    }
 
     c.fill_problem_id().fill_balloon_color()
 

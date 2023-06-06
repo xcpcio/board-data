@@ -39,15 +39,14 @@ def handle_from_domjudge_html_scoreboard(c: Contest, fetch_uri: str):
     d.fetch().parse_teams().parse_runs()
 
     for t in d.teams.values():
+        t.official = 1
+
         if "cl_FFB7C5" in DOMjudgeV2.get_team_class_attr(t):
             t.girl = 1
 
-        if t.name.startswith("⭐"):
-            t.name = t.name[1:]
-            t.official = 0
+        if "cl_ffff00" in DOMjudgeV2.get_team_class_attr(t):
             t.unofficial = 1
-        else:
-            t.official = 1
+            t.official = 0
 
     return d.teams.get_dict, d.runs.get_dict
 
