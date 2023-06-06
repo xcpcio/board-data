@@ -25,7 +25,8 @@ def get_contest():
 
 
 def main():
-    common.work(DATA_DIR, FETCH_URI, get_contest())
+    c = get_contest()
+    common.work(DATA_DIR, c, FETCH_URI)
 
 
 main()
