@@ -7,14 +7,14 @@ import common
 DATA_DIR = os.getenv(
     "DATA_DIR", "../../../../data/icpc/48th/online-qualification-2")
 FETCH_URI = os.getenv(
-    "FETCH_URI", "http://icpc.pintia.cn/js")
+    "FETCH_URI", "./raw")
 
 
 def get_contest():
     c = common.get_basic_contest()
 
     c.contest_name = "The 2023 ICPC Asia Regionals Online Contest (II)"
-    c.problem_quantity = 12
+    c.problem_quantity = 13
     c.start_time = utils.get_timestamp_second("2023-09-23 12:00:00")
     c.end_time = utils.get_timestamp_second("2023-09-23 17:00:00")
 
