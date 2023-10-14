@@ -28,8 +28,8 @@ jobs:
           bash gen_index.sh
           cd ../../
           mkdir site
-          mv data site/
           ls data/index
+          mv data site/
 
       - name: Deploy to deploy-pages
         if: ${{ github.event_name != 'pull_request' }}
