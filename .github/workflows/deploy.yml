@@ -29,6 +29,7 @@ jobs:
           cd ../../
           mkdir site
           mv data site/
+          ls data/index
 
       - name: Deploy to deploy-pages
         if: ${{ github.event_name != 'pull_request' }}
