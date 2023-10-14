@@ -5,7 +5,7 @@ from xcpcio_board_spider import utils, logo
 import common
 
 DATA_DIR = os.getenv(
-    "DATA_DIR", "../../../../data/ccpc/2023/qinhuangdao-warmup")
+    "DATA_DIR", "../../../../data/ccpc/9th/qinhuangdao-warmup")
 
 team_urls = [
     "./raw/team.json",
