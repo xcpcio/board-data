@@ -27,6 +27,14 @@ def get_contest():
 
     c.fill_problem_id().fill_balloon_color()
 
+    c.medal = {
+        "official": {
+            "gold": 24,
+            "silver": 48,
+            "bronze": 72,
+        }
+    }
+
     return c
 
 
