@@ -12,8 +12,8 @@ team_urls = [
 ]
 
 run_urls = [
-    # "https://cpc.csgrandeur.cn/rank/contests/3d75a636-9573-49e8-bd7c-d9433dc6bddb/solution.json"
-    "./raw/normal/solution.json"
+    "https://cpc.csgrandeur.cn/rank/contests/3d75a636-9573-49e8-bd7c-d9433dc6bddb/solution.json"
+    # "./raw/normal/solution.json"
 ]
 
 
