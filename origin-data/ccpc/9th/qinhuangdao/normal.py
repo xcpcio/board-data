@@ -8,12 +8,11 @@ DATA_DIR = os.getenv(
     "DATA_DIR", "../../../../data/ccpc/9th/qinhuangdao")
 
 team_urls = [
-    "https://cpc.csgrandeur.cn/rank/contests/3d75a636-9573-49e8-bd7c-d9433dc6bddb/team.json"
+    "./raw/normal/team.json"
 ]
 
 run_urls = [
-    "https://cpc.csgrandeur.cn/rank/contests/3d75a636-9573-49e8-bd7c-d9433dc6bddb/solution.json"
-    # "./raw/normal/solution.json"
+    "./raw/normal/solution.json"
 ]
 
 
