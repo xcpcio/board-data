@@ -3,6 +3,7 @@ import time
 
 from xcpcio_board_spider import logger, Contest, Teams, Submissions, constants, logo, utils
 from xcpcio_board_spider.spider.csg_cpc.v1 import CSG_CPC
+from xcpcio_board_spider.type import Image
 
 log = logger.init_logger()
 
@@ -26,7 +27,7 @@ def get_basic_contest():
         "pending": True,
     }
 
-    c.logo = logo.CCPC
+    c.logo = Image(preset="CCPC")
 
     return c
 
