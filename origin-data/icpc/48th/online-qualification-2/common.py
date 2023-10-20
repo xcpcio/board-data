@@ -1,7 +1,7 @@
 import os
 import time
 
-from xcpcio_board_spider import logger, Contest, Teams, constants, logo, utils
+from xcpcio_board_spider import logger, Contest, Teams, constants, utils
 from xcpcio_board_spider.spider.zoj.v2.zoj import ZOJ
 from xcpcio_board_spider.type import Image
 
@@ -21,12 +21,7 @@ def get_basic_contest():
         constants.TEAM_TYPE_GIRL: constants.TEAM_TYPE_ZH_CH_GIRL,
     }
 
-    c.status_time_display = {
-        constants.RESULT_CORRECT: 1,
-        constants.RESULT_INCORRECT: 1,
-        constants.RESULT_PENDING: 1,
-    }
-
+    c.status_time_display = constants.FULL_STATUS_TIME_DISPLAY
     c.logo = Image(preset="ICPC")
 
     return c
