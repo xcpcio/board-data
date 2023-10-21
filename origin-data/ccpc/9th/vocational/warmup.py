@@ -7,7 +7,7 @@ import common
 DATA_DIR = os.getenv(
     "DATA_DIR", "../../../../data/ccpc/9th/vocational-warmup")
 FETCH_URI = os.getenv(
-    "FETCH_URI", "http://ccpc.pintia.cn/v/js/")
+    "FETCH_URI", "./raw/warmup")
 
 
 def get_contest():
