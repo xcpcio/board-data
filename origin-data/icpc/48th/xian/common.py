@@ -34,8 +34,8 @@ def get_basic_contest():
 
 def handle_teams(teams: Teams):
     for team in teams.values():
-        team.organization = re.sub(r'\(.*?\)', '', team.organization)
-        team.name = re.sub(r'\(.*?\)', '', team.name)
+        team.organization = re.sub(r'\(.*\)', '', team.organization)
+        team.name = re.sub(r'\(.*\)', '', team.name)
 
         team.official = 1
 
