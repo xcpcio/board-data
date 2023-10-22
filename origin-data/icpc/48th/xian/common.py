@@ -1,5 +1,6 @@
 import os
 import time
+import re
 
 from xcpcio_board_spider import logger, Contest, Teams, constants, Image, utils
 from xcpcio_board_spider.spider.domjudge.v2 import DOMjudge
@@ -33,6 +34,9 @@ def get_basic_contest():
 
 def handle_teams(teams: Teams):
     for team in teams.values():
+        team.organization = re.sub(r'\(.*?\)', '', team.organization)
+        team.name = re.sub(r'\(.*?\)', '', team.name)
+
         team.official = 1
 
         if "cl_ff99cc" in DOMjudge.get_team_class_attr(team):
