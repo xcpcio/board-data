@@ -21,9 +21,9 @@ def get_basic_contest():
     }
 
     c.status_time_display = {
-        constants.RESULT_CORRECT: 1,
-        constants.RESULT_INCORRECT: 0,
-        constants.RESULT_PENDING: 1,
+        constants.RESULT_CORRECT.lower(): 1,
+        constants.RESULT_INCORRECT.lower(): 0,
+        constants.RESULT_PENDING.lower(): 1,
     }
 
     c.logo = Image(preset="ICPC")
