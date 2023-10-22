@@ -18,6 +18,14 @@ def get_contest():
     c.start_time = utils.get_timestamp_second("2023-10-22 09:00:00")
     c.end_time = utils.get_timestamp_second("2023-10-22 14:00:00")
 
+    c.medal = {
+        "official": {
+            "gold": 41,
+            "silver": 82,
+            "bronze": 123,
+        }
+    }
+
     c.fill_problem_id().fill_balloon_color()
 
     return c
