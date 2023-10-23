@@ -1,7 +1,7 @@
 import os
 import time
 
-from xcpcio_board_spider import logger, Contest, Teams, Submissions, constants, logo, utils
+from xcpcio_board_spider import logger, Contest, ContestOptions, Teams, Submissions, constants, utils
 from xcpcio_board_spider.spider.csg_cpc.v1 import CSG_CPC
 from xcpcio_board_spider.type import Image
 
@@ -21,11 +21,10 @@ def get_basic_contest():
         constants.TEAM_TYPE_GIRL: constants.TEAM_TYPE_ZH_CH_GIRL,
     }
 
-    c.status_time_display = {
-        "correct": True,
-        "incorrect": True,
-        "pending": True,
-    }
+    c.status_time_display = constants.FULL_STATUS_TIME_DISPLAY
+
+    c.options = ContestOptions()
+    c.options.calculation_of_penalty = constants.CALCULATION_OF_PENALTY_ACCUMULATE_IN_SECONDS_AND_FINALLY_TO_THE_MINUTE
 
     c.logo = Image(preset="CCPC")
 
