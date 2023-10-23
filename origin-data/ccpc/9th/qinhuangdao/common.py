@@ -1,7 +1,7 @@
 import os
 import time
 
-from xcpcio_board_spider import logger, Contest, ContestOptions, Teams, Submissions, constants, utils
+from xcpcio_board_spider import logger, Contest, Teams, Submissions, constants, utils
 from xcpcio_board_spider.spider.csg_cpc.v1 import CSG_CPC
 from xcpcio_board_spider.type import Image
 
