@@ -100,7 +100,7 @@ medal = {
 }
 
 config = {
-    'contest_name': '第 46 届 ICPC EC Final 热身赛',
+    'contest_name': '第 46 届国际大学生程序设计竞赛亚洲区决赛（热身赛）',
     'start_time': get_timestamp("2022-7-19 16:00:00"),
     'end_time': get_timestamp("2022-7-19 18:00:00"),
     'frozen_time': 30 * 60,
