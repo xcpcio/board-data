@@ -1,5 +1,6 @@
 import time
 import os
+import re
 
 from xcpcio_board_spider import Teams, Contest, logger, utils, constants, Image
 from xcpcio_board_spider.spider.ghost.v1 import Ghost
@@ -35,9 +36,20 @@ def handle_team(teams: Teams):
         else:
             team.official = True
 
-        name = team.name.split('(')
-        team.name = name[0]
-        team.organization = name[1][:-1]
+        ix = 0
+        cnt = 0
+        for c in team.name[::-1]:
+            if c == ')':
+                cnt += 1
+            elif c == '(':
+                if cnt == 1:
+                    break
+                else:
+                    cnt -= 1
+            ix += 1
+
+        team.organization = team.name[-ix:-1]
+        team.name = team.name[:-ix - 1]
 
 
 def work(data_dir: str, fetch_uri: str, c: Contest):
