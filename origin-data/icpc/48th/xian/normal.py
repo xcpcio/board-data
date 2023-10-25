@@ -6,8 +6,7 @@ import common
 
 DATA_DIR = os.getenv(
     "DATA_DIR", "../../../../data/icpc/48th/xian")
-FETCH_URI = os.getenv(
-    "FETCH_URI", "./raw/48th_icpc_xian.min.html")
+FETCH_URI = os.getenv("FETCH_URI")
 
 
 def get_contest():

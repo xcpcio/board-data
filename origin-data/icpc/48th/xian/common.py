@@ -3,7 +3,7 @@ import time
 import re
 
 from xcpcio_board_spider import logger, Contest, Teams, constants, Image, utils
-from xcpcio_board_spider.spider.domjudge.v2 import DOMjudge
+from xcpcio_board_spider.spider.domjudge.v3.domjudge import DOMjudge
 
 log = logger.init_logger()
 
@@ -21,11 +21,7 @@ def get_basic_contest():
         constants.TEAM_TYPE_GIRL: constants.TEAM_TYPE_ZH_CH_GIRL,
     }
 
-    c.status_time_display = {
-        constants.RESULT_CORRECT.lower(): 1,
-        constants.RESULT_INCORRECT.lower(): 0,
-        constants.RESULT_PENDING.lower(): 0,
-    }
+    c.status_time_display = constants.FULL_STATUS_TIME_DISPLAY
 
     c.logo = Image(preset="ICPC")
 
@@ -37,14 +33,13 @@ def handle_teams(teams: Teams):
         team.organization = re.sub(r'\(.*\)', '', team.organization)
         team.name = re.sub(r'\(.*\)', '', team.name)
 
-        team.official = 1
+        d_team = team.extra[DOMjudge.CONSTANT_EXTRA_DOMJUDGE_TEAM]
 
-        if "cl_ff99cc" in DOMjudge.get_team_class_attr(team):
-            team.girl = 1
+        if "2" in d_team["group_ids"]:
+            team.unofficial = True
 
-        if "cl_33cc44" in DOMjudge.get_team_class_attr(team):
-            team.official = 0
-            team.unofficial = 1
+        if "3" in d_team["group_ids"]:
+            team.official = True
 
 
 def work(c: Contest, data_dir: str, fetch_uri: str):
