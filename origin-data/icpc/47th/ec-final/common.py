@@ -1,8 +1,8 @@
 import time
 import os
 
-from xcpcio_board_spider import Teams, Contest, logger, utils, constants, logo
-from xcpcio_board_spider.spider.domjudge.v2 import DOMjudge
+from xcpcio_board_spider import Teams, Contest, logger, utils, constants, Image
+from xcpcio_board_spider.spider.ghost.v1 import Ghost
 
 
 log = logger.init_logger()
@@ -20,23 +20,24 @@ def get_basic_contest():
         constants.TEAM_TYPE_UNOFFICIAL: constants.TEAM_TYPE_ZH_CH_UNOFFICIAL,
     }
 
-    c.status_time_display = {
-        constants.RESULT_CORRECT: 1,
-        constants.RESULT_INCORRECT: 0,
-        constants.RESULT_PENDING: 1,
-    }
+    c.status_time_display = constants.FULL_STATUS_TIME_DISPLAY
 
-    c.logo = logo.ICPC
+    c.logo = Image(preset="ICPC")
 
     return c
 
 
 def handle_team(teams: Teams):
     for team in teams.values():
-        if team.official:
-            team.official = 1
-        elif team.unofficial:
-            team.unofficial = 1
+        if team.name.startswith("★"):
+            team.name = team.name[1:]
+            team.unofficial = True
+        else:
+            team.official = True
+
+        name = team.name.split('(')
+        team.name = name[0]
+        team.organization = name[1][:-1]
 
 
 def work(data_dir: str, fetch_uri: str, c: Contest):
@@ -44,8 +45,8 @@ def work(data_dir: str, fetch_uri: str, c: Contest):
         log.info("loop start")
 
         try:
-            d = DOMjudge(c.start_time, c.end_time, fetch_uri)
-            d.fetch().parse_teams().parse_runs().handle_default_observers_team()
+            d = Ghost(c, fetch_uri)
+            d.fetch().parse_teams().parse_runs()
 
             handle_team(d.teams)
 
