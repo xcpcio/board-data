@@ -1,7 +1,7 @@
 import time
 import os
 
-from xcpcio_board_spider import Contest, logger, utils, constants, logo
+from xcpcio_board_spider import Contest, logger, utils, constants, Image
 
 from xcpcio_board_spider.spider.domjudge.v2 import DOMjudge as DOMjudgeV2
 from xcpcio_board_spider.spider.domjudge.v3.domjudge import DOMjudge as DOMjudgeV3
@@ -23,13 +23,9 @@ def get_basic_contest():
         constants.TEAM_TYPE_GIRL: constants.TEAM_TYPE_ZH_CH_GIRL,
     }
 
-    c.status_time_display = {
-        constants.RESULT_CORRECT: 1,
-        constants.RESULT_INCORRECT: 1,
-        constants.RESULT_PENDING: 1,
-    }
+    c.status_time_display = constants.FULL_STATUS_TIME_DISPLAY
 
-    c.logo = logo.ICPC
+    c.logo = Image(preset="ICPC")
 
     return c
 
