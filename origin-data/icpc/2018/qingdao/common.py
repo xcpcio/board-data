@@ -16,6 +16,7 @@ def get_basic_contest():
 
 def handle_teams(teams: Teams):
     for team in teams.values():
+        team.members = None
         type = ZOJ.get_team_type(team)
 
         if "type1" in type:
