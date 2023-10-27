@@ -19,7 +19,7 @@ run_urls = [
 def get_contest():
     c = common.get_basic_contest()
 
-    c.contest_name = "第九届中国大学生程序设计竞赛（秦皇岛）- 热身赛"
+    c.contest_name = "第 9 届 CCPC 中国大学生程序设计竞赛秦皇岛站 - 热身赛"
     c.problem_quantity = 3
     c.start_time = utils.get_timestamp_second("2023-10-14 15:00:00")
     c.end_time = utils.get_timestamp_second("2023-10-14 17:30:00")
