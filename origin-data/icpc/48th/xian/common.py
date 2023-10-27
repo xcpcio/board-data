@@ -10,19 +10,6 @@ log = logger.init_logger()
 
 def get_basic_contest():
     c = Contest()
-
-    c.frozen_time = 60 * 60
-    c.penalty = 20 * 60
-    c.organization = "School"
-
-    c.group = {
-        constants.TEAM_TYPE_OFFICIAL: constants.TEAM_TYPE_ZH_CN_OFFICIAL,
-        constants.TEAM_TYPE_UNOFFICIAL: constants.TEAM_TYPE_ZH_CH_UNOFFICIAL,
-        constants.TEAM_TYPE_GIRL: constants.TEAM_TYPE_ZH_CH_GIRL,
-    }
-
-    c.status_time_display = constants.FULL_STATUS_TIME_DISPLAY
-
     c.logo = Image(preset="ICPC")
 
     return c
