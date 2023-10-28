@@ -45,7 +45,7 @@ def work(data_dir: str, c: Contest, fetch_uri: str):
             d.fetch().parse_teams().parse_runs()
 
             handle_teams(d.teams)
-            handle_runs(d.runs)
+            handle_runs(c, d.runs)
 
             utils.output(os.path.join(data_dir, "config.json"), c.get_dict)
             utils.output(os.path.join(data_dir, "team.json"),

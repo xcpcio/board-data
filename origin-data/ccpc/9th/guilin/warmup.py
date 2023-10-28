@@ -15,7 +15,7 @@ def get_contest():
     c = common.get_basic_contest()
 
     c.contest_name = "第 9 届 CCPC 中国大学生程序设计竞赛桂林站 - 热身赛"
-    c.problem_quantity = 3
+    c.problem_quantity = 4
     c.start_time = utils.get_timestamp_second("2023-10-28 15:00:00")
     c.end_time = utils.get_timestamp_second("2023-10-28 17:30:00")
 
