@@ -6,13 +6,13 @@ import common
 
 DATA_DIR = os.getenv(
     "DATA_DIR", "../../../../data/icpc/48th/xian")
-FETCH_URI = os.getenv("FETCH_URI")
+FETCH_URI = os.getenv("FETCH_URI", "")
 
 
 def get_contest():
     c = common.get_basic_contest()
 
-    c.contest_name = "第 48 届 ICPC 国际大学生程序设计竞赛区域赛西安站（正式赛）"
+    c.contest_name = "第 48 届 ICPC 国际大学生程序设计竞赛区域赛西安站 - 正式赛"
     c.problem_quantity = 14
     c.start_time = utils.get_timestamp_second("2023-10-22 09:00:00")
     c.end_time = utils.get_timestamp_second("2023-10-22 14:00:00")

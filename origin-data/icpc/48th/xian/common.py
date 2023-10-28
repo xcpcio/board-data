@@ -35,6 +35,9 @@ def work(c: Contest, data_dir: str, fetch_uri: str):
     utils.output(os.path.join(data_dir, "team.json"), {}, True)
     utils.output(os.path.join(data_dir, "run.json"), [], True)
 
+    if len(fetch_uri) == 0:
+        return
+
     while True:
         log.info("loop start")
 
