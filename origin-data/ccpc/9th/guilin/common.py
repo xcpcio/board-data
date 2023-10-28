@@ -21,15 +21,16 @@ def handle_teams(teams: Teams):
     for team in teams.values():
         d_team = team.extra[DOMjudge.CONSTANT_EXTRA_DOMJUDGE_TEAM]
 
-        if "public_description" in d_team.keys():
-            team.members = d_team["public_description"].split(" ")
-
         if "3" in d_team["group_ids"]:
             team.official = True
         elif "2" in d_team["group_ids"]:
             team.unofficial = True
         else:
             filter_team_ids.append(team.team_id)
+            continue
+
+        if "public_description" in d_team.keys() and d_team["public_description"] is not None:
+            team.members = d_team["public_description"].split(" ")
 
     for team_id in filter_team_ids:
         del teams[team_id]
