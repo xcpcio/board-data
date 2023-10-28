@@ -19,7 +19,7 @@ def handle_teams(teams: Teams):
     filter_team_ids = []
 
     for team in teams.values():
-        d_team = team.extra[DOMjudge.CONSTANT_EXTRA_DOMJUDGE_TEAM] = d_team
+        d_team = team.extra[DOMjudge.CONSTANT_EXTRA_DOMJUDGE_TEAM]
 
         if "public_description" in d_team.keys():
             team.members = d_team["public_description"].split(" ")
