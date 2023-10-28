@@ -5,6 +5,8 @@ from xcpcio_board_spider import logger, Contest, Teams, Submissions, constants, 
 from xcpcio_board_spider.type import Image
 from xcpcio_board_spider.spider.domjudge.v3.domjudge import DOMjudge
 
+ENABLE_FROZEN = os.getenv("ENABLE_FROZEN", "true")
+
 log = logger.init_logger()
 
 
@@ -39,9 +41,11 @@ def handle_teams(teams: Teams):
 def handle_runs(c: Contest, runs: Submissions):
     t = utils.get_timestamp_second(
         c.end_time) - utils.get_timestamp_second(c.start_time) - c.frozen_time
+
     for run in runs:
-        if run.timestamp >= t:
-            run.status = constants.RESULT_FROZEN
+        if ENABLE_FROZEN == "true":
+            if run.timestamp >= t:
+                run.status = constants.RESULT_FROZEN
 
 
 def work(data_dir: str, c: Contest, fetch_uri: str):
