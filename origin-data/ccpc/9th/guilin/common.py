@@ -24,7 +24,7 @@ def handle_teams(teams: Teams):
 
 def handle_runs(c: Contest, runs: Submissions):
     for run in runs:
-        if run.timestamp >= utils.get_timestamp_second(c.end_time) - c.frozen_time:
+        if run.timestamp >= utils.get_timestamp_second(c.end_time) - utils.get_timestamp_second(c.start_time) - c.frozen_time:
             run.status = constants.RESULT_FROZEN
 
 
