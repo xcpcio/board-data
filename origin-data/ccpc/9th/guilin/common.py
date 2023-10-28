@@ -26,7 +26,7 @@ def handle_teams(teams: Teams):
 
         if "3" in d_team["group_ids"]:
             team.official = True
-        elif "4" in d_team["group_ids"]:
+        elif "2" in d_team["group_ids"]:
             team.unofficial = True
         else:
             filter_team_ids.append(team.team_id)
