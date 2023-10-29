@@ -57,11 +57,12 @@ def work(data_dir: str, c: Contest, fetch_uri: str):
     if len(fetch_uri) == 0:
         return
 
+    d = DOMjudge(c, fetch_uri)
+
     while True:
         log.info("loop start")
 
         try:
-            d = DOMjudge(c, fetch_uri)
             d.fetch().parse_teams().parse_runs()
 
             handle_teams(d.teams)
