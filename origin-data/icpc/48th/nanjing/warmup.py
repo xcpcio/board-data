@@ -15,7 +15,7 @@ def get_contest():
     c = common.get_basic_contest()
 
     c.contest_name = "第 48 届 ICPC 国际大学生程序设计竞赛区域赛南京站 - 热身赛"
-    c.problem_quantity = 3
+    c.problem_quantity = 4
     c.start_time = utils.get_timestamp_second("2023-11-4 14:30:00")
     c.end_time = utils.get_timestamp_second("2023-11-4 17:00:00")
     c.frozen_time = 30 * 60
