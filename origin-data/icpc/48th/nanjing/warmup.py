@@ -20,6 +20,15 @@ def get_contest():
     c.end_time = utils.get_timestamp_second("2023-11-4 17:00:00")
     c.frozen_time = 30 * 60
 
+    medal_base = 34
+    c.medal = {
+        "official": {
+            "gold": medal_base,
+            "silver": medal_base * 2,
+            "bronze": medal_base * 3,
+        }
+    }
+
     c.fill_problem_id().fill_balloon_color()
 
     return c
