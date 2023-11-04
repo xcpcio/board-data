@@ -47,6 +47,9 @@ def handle_runs(c: Contest, runs: Submissions):
     t = t * 1000
 
     for run in runs:
+        run.time = None
+        run.language = None
+
         if ENABLE_FROZEN == "true":
             if run.timestamp >= t:
                 run.status = constants.RESULT_FROZEN
