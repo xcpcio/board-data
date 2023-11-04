@@ -44,6 +44,7 @@ def handle_teams(teams: Teams):
 def handle_runs(c: Contest, runs: Submissions):
     t = utils.get_timestamp_second(
         c.end_time) - utils.get_timestamp_second(c.start_time) - c.frozen_time
+    t = t * 1000
 
     for run in runs:
         if ENABLE_FROZEN == "true":
