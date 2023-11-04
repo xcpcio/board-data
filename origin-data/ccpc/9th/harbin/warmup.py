@@ -8,11 +8,11 @@ DATA_DIR = os.getenv(
     "DATA_DIR", "../../../../data/ccpc/9th/harbin-warmup")
 
 team_urls = [
-    # "./raw/warmup/team.json"
+    "https://cpc.csgrandeur.cn/rank/contests/77ce8db9-ebbc-493e-b458-df1a49ce61c5/team.json?t=33981668"
 ]
 
 run_urls = [
-    # "./raw/warmup/solution.json"
+    "https://cpc.csgrandeur.cn/rank/contests/77ce8db9-ebbc-493e-b458-df1a49ce61c5/solution.json?t=33981668"
 ]
 
 
