@@ -61,7 +61,7 @@ def work(data_dir: str, c: Contest, team_uris, run_uris, problem_id_base: int, p
             csg_cpc.fetch().parse_teams().parse_runs()
 
             handle_teams(csg_cpc.teams)
-            handle_runs(csg_cpc.runs, problem_id_base)
+            handle_runs(csg_cpc.runs, problem_id_base, problem_id_map)
 
             utils.output(os.path.join(data_dir, "config.json"), c.get_dict)
             utils.output(os.path.join(data_dir, "team.json"),
