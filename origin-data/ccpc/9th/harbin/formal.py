@@ -1,6 +1,6 @@
 import os
 
-from xcpcio_board_spider import utils, logo
+from xcpcio_board_spider import utils
 
 import common
 
@@ -8,11 +8,11 @@ DATA_DIR = os.getenv(
     "DATA_DIR", "../../../../data/ccpc/9th/harbin")
 
 team_urls = [
-    "https://cpc.csgrandeur.cn/rank/contests/2b11e159-401b-4c3d-96b3-4dd6a9eac89c/team.json?t=33982911"
+    "https://cpc.csgrandeur.cn/rank/contests/2b11e159-401b-4c3d-96b3-4dd6a9eac89c/team.json"
 ]
 
 run_urls = [
-    "https://cpc.csgrandeur.cn/rank/contests/2b11e159-401b-4c3d-96b3-4dd6a9eac89c/solution.json?t=33982911"
+    "https://cpc.csgrandeur.cn/rank/contests/2b11e159-401b-4c3d-96b3-4dd6a9eac89c/solution.json"
 ]
 
 
