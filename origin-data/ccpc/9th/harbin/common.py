@@ -38,12 +38,13 @@ def handle_teams(teams: Teams):
         del teams[team_id]
 
 
-def handle_runs(runs: Submissions, problem_id_base: int):
+def handle_runs(runs: Submissions, problem_id_base: int, problem_id_map):
     for run in runs:
-        run.problem_id -= problem_id_base
+        run.problem_id = problem_id_map[run.problem_id]
+        # run.problem_id -= problem_id_base
 
 
-def work(data_dir: str, c: Contest, team_uris, run_uris, problem_id_base: int):
+def work(data_dir: str, c: Contest, team_uris, run_uris, problem_id_base: int, problem_id_map):
     utils.ensure_makedirs(data_dir)
     utils.output(os.path.join(data_dir, "config.json"), c.get_dict)
     utils.output(os.path.join(data_dir, "team.json"), {}, True)

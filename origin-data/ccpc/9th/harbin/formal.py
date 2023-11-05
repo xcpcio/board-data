@@ -40,7 +40,21 @@ def get_contest():
 
 def main():
     c = get_contest()
-    common.work(DATA_DIR, c, team_urls, run_urls, 1004)
+    common.work(DATA_DIR, c, team_urls, run_urls, 1004, {
+        "1015": 0,
+        "1008": 1,
+        "1007": 2,
+        "1009": 3,
+        "1004": 4,
+        "1011": 5,
+        "1016": 6,
+        "1013": 7,
+        "1014": 8,
+        "1005": 9,
+        "1006": 10,
+        "1012": 11,
+        "1010": 12
+    })
 
 
 if __name__ == "__main__":
