@@ -50,6 +50,15 @@ def handle_runs(c: Contest, runs: Submissions):
         run.time = None
         run.language = None
 
+        if run.status == constants.RESULT_ACCEPTED:
+            pass
+        elif run.status == constants.RESULT_WRONG_ANSWER:
+            pass
+        elif run.status == constants.RESULT_COMPILATION_ERROR:
+            pass
+        else:
+            run.status = constants.RESULT_REJECTED
+
         if ENABLE_FROZEN == "true":
             if run.timestamp >= t:
                 run.status = constants.RESULT_FROZEN
