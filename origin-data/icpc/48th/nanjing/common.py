@@ -52,8 +52,6 @@ def handle_runs(c: Contest, runs: Submissions):
 
         if run.status == constants.RESULT_ACCEPTED:
             pass
-        elif run.status == constants.RESULT_WRONG_ANSWER:
-            pass
         elif run.status == constants.RESULT_COMPILATION_ERROR:
             pass
         else:
