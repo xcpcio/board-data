@@ -37,7 +37,7 @@ def get_contest():
         Color(background_color="#ffff00", color="#000"),
     ]
 
-    medal_base = 34
+    medal_base = 33
     c.medal = {
         "official": {
             "gold": medal_base,
