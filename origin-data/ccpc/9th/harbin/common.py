@@ -40,7 +40,7 @@ def handle_teams(teams: Teams):
 
 def handle_runs(runs: Submissions, problem_id_base: int, problem_id_map):
     for run in runs:
-        run.problem_id = problem_id_map[run.problem_id]
+        run.problem_id = problem_id_map[str(run.problem_id)]
         # run.problem_id -= problem_id_base
 
 
