@@ -70,7 +70,7 @@ def work(data_dir: str, c: Contest, fetch_uri: str):
         log.info("loop start")
 
         try:
-            d.fetch().parse_teams().parse_runs()
+            d.fetch().parse_teams().parse_runs().update_contest()
 
             handle_teams(d.teams)
             handle_runs(c, d.runs)

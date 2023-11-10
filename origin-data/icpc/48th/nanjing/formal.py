@@ -21,22 +21,6 @@ def get_contest():
 
     c.fill_problem_id()
 
-    c.balloon_color = [
-        Color(background_color="#006400", color="#fff"),
-        Color(background_color="#a52a2a", color="#fff"),
-        Color(background_color="#ffa500", color="#fff"),
-        Color(background_color="#ffffff", color="#000"),
-        Color(background_color="#0000ff", color="#fff"),
-        Color(background_color="#87ceeb", color="#fff"),
-        Color(background_color="#000000", color="#fff"),
-        Color(background_color="#ff69b4", color="#fff"),
-        Color(background_color="#ff00ff", color="#fff"),
-        Color(background_color="#90ee90", color="#fff"),
-        Color(background_color="#ff0000", color="#fff"),
-        Color(background_color="#800080", color="#fff"),
-        Color(background_color="#ffff00", color="#000"),
-    ]
-
     medal_base = 33
     c.medal = {
         "official": {
