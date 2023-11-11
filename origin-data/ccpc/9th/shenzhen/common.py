@@ -21,7 +21,7 @@ def handle_teams(teams: Teams):
     team_ids = []
 
     for team in teams.values():
-        if team.name == "'-" or team.name == "裁判":
+        if team.name == "'-" or team.name == "裁判" or len(team.name) == 0:
             team_ids.append(team.team_id)
             continue
 
