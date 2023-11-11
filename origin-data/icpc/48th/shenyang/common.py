@@ -6,6 +6,7 @@ from xcpcio_board_spider.type import Image
 from xcpcio_board_spider.spider.domjudge.v3.domjudge import DOMjudge
 
 ENABLE_FROZEN = os.getenv("ENABLE_FROZEN", "true")
+ENABLE_SIMPLE = os.getenv("ENABLE_SIMPLE", "true")
 
 log = logger.init_logger()
 
@@ -56,8 +57,16 @@ def handle_runs(c: Contest, runs: Submissions):
     t = t * 1000
 
     for run in runs:
-        run.time = None
-        run.language = None
+        if ENABLE_SIMPLE == "true":
+            run.time = None
+            run.language = None
+
+            if run.status == constants.RESULT_ACCEPTED:
+                pass
+            elif run.status == constants.RESULT_COMPILATION_ERROR:
+                pass
+            else:
+                run.status = constants.RESULT_REJECTED
 
         if ENABLE_FROZEN == "true":
             if run.timestamp >= t:
