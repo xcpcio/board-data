@@ -1,7 +1,7 @@
 import os
 import time
 
-from xcpcio_board_spider import logger, Contest, Teams, Submissions, constants, utils
+from xcpcio_board_spider import logger, Contest, Teams, constants, utils
 from xcpcio_board_spider.spider.csg_cpc.v1 import CSG_CPC
 from xcpcio_board_spider.type import Image
 
@@ -38,30 +38,23 @@ def handle_teams(teams: Teams):
         del teams[team_id]
 
 
-def handle_runs(runs: Submissions, problem_id_base: int, problem_id_map):
-    for run in runs:
-        run.problem_id = problem_id_map[str(run.problem_id)]
-        # run.problem_id -= problem_id_base
-
-
-def work(data_dir: str, c: Contest, team_uris, run_uris, problem_id_base: int, problem_id_map):
+def work(data_dir: str, c: Contest, fetch_uri: str):
     utils.ensure_makedirs(data_dir)
     utils.output(os.path.join(data_dir, "config.json"), c.get_dict)
     utils.output(os.path.join(data_dir, "team.json"), {}, True)
     utils.output(os.path.join(data_dir, "run.json"), [], True)
 
-    if len(team_uris) == 0:
+    if len(fetch_uri) == 0:
         return
 
     while True:
         log.info("loop start")
 
         try:
-            csg_cpc = CSG_CPC(c, team_uris, run_uris)
+            csg_cpc = CSG_CPC(c, fetch_uri)
             csg_cpc.fetch().parse_teams().parse_runs()
 
             handle_teams(csg_cpc.teams)
-            handle_runs(csg_cpc.runs, problem_id_base, problem_id_map)
 
             utils.output(os.path.join(data_dir, "config.json"), c.get_dict)
             utils.output(os.path.join(data_dir, "team.json"),

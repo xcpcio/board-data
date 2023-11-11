@@ -7,13 +7,8 @@ import common
 DATA_DIR = os.getenv(
     "DATA_DIR", "../../../../data/ccpc/9th/harbin-warmup")
 
-team_urls = [
-    "https://cpc.csgrandeur.cn/rank/contests/77ce8db9-ebbc-493e-b458-df1a49ce61c5/team.json?t=33981668"
-]
-
-run_urls = [
-    "https://cpc.csgrandeur.cn/rank/contests/77ce8db9-ebbc-493e-b458-df1a49ce61c5/solution.json?t=33981668"
-]
+FETCH_URI = os.getenv(
+    "FETCH_URI", "https://cpc.csgrandeur.cn/rank/contests/77ce8db9-ebbc-493e-b458-df1a49ce61c5")
 
 
 def get_contest():
@@ -40,7 +35,7 @@ def get_contest():
 
 def main():
     c = get_contest()
-    common.work(DATA_DIR, c, team_urls, run_urls, 1001)
+    common.work(DATA_DIR, c, FETCH_URI)
 
 
 if __name__ == "__main__":
