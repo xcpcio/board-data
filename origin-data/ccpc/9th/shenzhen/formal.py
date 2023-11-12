@@ -7,7 +7,9 @@ import common
 DATA_DIR = os.getenv(
     "DATA_DIR", "../../../../data/ccpc/9th/shenzhen")
 
-FETCH_URI = os.getenv("FETCH_URI", "")
+
+FETCH_URI = os.getenv(
+    "FETCH_URI", "https://cpc.csgrandeur.cn/rank/contests/127d0f90-dc48-43d8-95b1-163886d60698/")
 
 
 def get_contest():
