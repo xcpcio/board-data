@@ -15,7 +15,7 @@ def get_basic_contest():
     c = Contest()
     c.logo = Image(preset="ICPC")
 
-    medal_base = 30
+    medal_base = 29
     c.medal = {
         "official": {
             "gold": medal_base,
