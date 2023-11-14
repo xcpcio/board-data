@@ -13,6 +13,7 @@ def get_basic_contest():
 
     c.options.calculation_of_penalty = constants.CALCULATION_OF_PENALTY_ACCUMULATE_IN_SECONDS_AND_FINALLY_TO_THE_MINUTE
     c.logo = Image(preset="CCPC")
+    c.medal = "ccpc"
 
     return c
 
