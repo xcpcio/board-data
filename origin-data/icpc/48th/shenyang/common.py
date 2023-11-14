@@ -57,10 +57,9 @@ def handle_runs(c: Contest, runs: Submissions):
     t = t * 1000
 
     for run in runs:
-        if ENABLE_SIMPLE == "true":
-            run.time = None
-            run.language = None
+        run.time = None
 
+        if ENABLE_SIMPLE == "true":
             if run.status == constants.RESULT_ACCEPTED:
                 pass
             elif run.status == constants.RESULT_COMPILATION_ERROR:
