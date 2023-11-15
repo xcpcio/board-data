@@ -87,16 +87,16 @@ def work(data_dir: str, c: Contest, fetch_uri: str):
         log.info("loop start")
 
         try:
-            d.fetch().parse_teams().parse_runs().update_contest()
+            d.fetch().update_contest().parse_teams().parse_runs()
 
             handle_teams(d.teams)
             handle_runs(c, d.runs)
 
-            utils.output(os.path.join(data_dir, "config.json"), c.get_dict)
-            utils.output(os.path.join(data_dir, "team.json"),
-                         d.teams.get_dict)
-            utils.output(os.path.join(data_dir, "run.json"),
-                         d.runs.get_dict)
+            # utils.output(os.path.join(data_dir, "config.json"), c.get_dict)
+            # utils.output(os.path.join(data_dir, "team.json"),
+            #              d.teams.get_dict)
+            # utils.output(os.path.join(data_dir, "run.json"),
+            #              d.runs.get_dict)
 
             log.info("work successfully")
         except Exception as e:
