@@ -48,7 +48,6 @@ def handle_runs(c: Contest, runs: Submissions):
 
     for run in runs:
         run.time = None
-        run.language = None
 
         if ENABLE_FROZEN == "true":
             if run.timestamp >= t:
@@ -70,7 +69,7 @@ def work(data_dir: str, c: Contest, fetch_uri: str):
         log.info("loop start")
 
         try:
-            d.fetch().parse_teams().parse_runs().update_contest()
+            d.fetch().update_contest().parse_teams().parse_runs()
 
             handle_teams(d.teams)
             handle_runs(c, d.runs)
