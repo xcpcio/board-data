@@ -15,7 +15,7 @@ def get_basic_contest():
     c = Contest()
     c.logo = Image(preset="ICPC")
 
-    medal_base = 4
+    medal_base = 8
     c.medal = {
         "official": {
             "gold": medal_base,
@@ -33,8 +33,8 @@ def handle_teams(teams: Teams):
     for team in teams.values():
         d_team = team.extra[DOMjudge.CONSTANT_EXTRA_DOMJUDGE_TEAM]
 
-        # if team.name.startswith('⭐'):
-        #     team.name = team.name[len("⭐"):]
+        if team.name.endswith('*'):
+            team.name = team.name[:-len("*")]
 
         if "3" in d_team["group_ids"]:
             team.official = True
