@@ -68,8 +68,9 @@ def handle_runs(c: Contest, runs: Submissions):
                 run.status = constants.RESULT_REJECTED
 
         if ENABLE_FROZEN == "true":
-            if run.timestamp >= t:
-                run.status = constants.RESULT_FROZEN
+            if utils.get_now_timestamp_second() <= c.end_time:
+                if run.timestamp >= t:
+                    run.status = constants.RESULT_FROZEN
 
 
 def work(data_dir: str, c: Contest, fetch_uri: str):
