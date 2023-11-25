@@ -5,7 +5,7 @@ from xcpcio_board_spider import utils
 import common
 
 DATA_DIR = os.getenv(
-    "DATA_DIR", "../../../../data/icpc/48th/hefei")
+    "DATA_DIR", "../../../../data/icpc/48th/hefei-warmup")
 
 FETCH_URI = os.getenv(
     "FETCH_URI", "")
