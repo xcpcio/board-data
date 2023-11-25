@@ -27,14 +27,35 @@ def get_basic_contest():
     return c
 
 
+def handle_contest(d: DOMjudge, c: Contest):
+    if len(d.dump.awards) == 0:
+        return
+
+    medal = {
+        "gold": 0,
+        "silver": 0,
+        "bronze": 0
+    }
+
+    for item in d.dump.awards:
+        id = item["id"]
+        num = len(item["team_ids"])
+
+        if id.endswith("-medal"):
+            medal[id.split("-")[0]] = num
+            c.medal = {
+                "official": medal
+            }
+
+
 def handle_teams(teams: Teams):
     filter_team_ids = []
 
     for team in teams.values():
         d_team = team.extra[DOMjudge.CONSTANT_EXTRA_DOMJUDGE_TEAM]
 
-        if team.name.endswith('*'):
-            team.name = team.name[:-len("*")]
+        if team.name.startswith('⭐'):
+            team.name = team.name[len('⭐'):-1]
 
         if "3" in d_team["group_ids"]:
             team.official = True
@@ -68,9 +89,8 @@ def handle_runs(c: Contest, runs: Submissions):
                 run.status = constants.RESULT_REJECTED
 
         if ENABLE_FROZEN == "true":
-            if utils.get_now_timestamp_second() <= c.end_time:
-                if run.timestamp >= t:
-                    run.status = constants.RESULT_FROZEN
+            if run.timestamp >= t:
+                run.status = constants.RESULT_FROZEN
 
 
 def work(data_dir: str, c: Contest, fetch_uri: str):
@@ -90,6 +110,7 @@ def work(data_dir: str, c: Contest, fetch_uri: str):
         try:
             d.fetch().update_contest().parse_teams().parse_runs()
 
+            handle_contest(d, c)
             handle_teams(d.teams)
             handle_runs(c, d.runs)
 
