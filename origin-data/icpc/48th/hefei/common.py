@@ -15,15 +15,6 @@ def get_basic_contest():
     c = Contest()
     c.logo = Image(preset="ICPC")
 
-    # medal_base = 8
-    # c.medal = {
-    #     "official": {
-    #         "gold": medal_base,
-    #         "silver": medal_base * 2,
-    #         "bronze": medal_base * 3,
-    #     }
-    # }
-
     return c
 
 
@@ -84,6 +75,8 @@ def handle_runs(c: Contest, runs: Submissions):
             if run.status == constants.RESULT_ACCEPTED:
                 pass
             elif run.status == constants.RESULT_COMPILATION_ERROR:
+                pass
+            elif run.status == constants.RESULT_PENDING:
                 pass
             else:
                 run.status = constants.RESULT_REJECTED
