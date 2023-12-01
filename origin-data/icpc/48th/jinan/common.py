@@ -118,7 +118,6 @@ def work(data_dir: str, c: Contest, fetch_uri: str):
                 write_to_disk(data_dir + SECRET_TOKEN, c, d.teams, d.runs)
 
             handle_runs(c, d.runs)
-
             write_to_disk(data_dir, c, d.teams, d.runs)
 
             log.info("work successfully")
