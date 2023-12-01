@@ -84,6 +84,8 @@ def handle_runs(c: Contest, runs: Submissions):
 
 
 def write_to_disk(data_dir: str, c: Contest, teams: Teams, runs: Submissions, if_not_exists=False):
+    log.info("write to disk. [data_dir: {}]".format(data_dir))
+
     utils.ensure_makedirs(data_dir)
 
     utils.output(os.path.join(data_dir, "config.json"),
