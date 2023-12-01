@@ -83,21 +83,23 @@ def handle_runs(c: Contest, runs: Submissions):
                 run.status = constants.RESULT_FROZEN
 
 
-def write_to_disk(data_dir: str, c: Contest, teams: Teams, runs: Submissions):
+def write_to_disk(data_dir: str, c: Contest, teams: Teams, runs: Submissions, if_not_exists=False):
     utils.ensure_makedirs(data_dir)
 
-    utils.output(os.path.join(data_dir, "config.json"), c.get_dict)
+    utils.output(os.path.join(data_dir, "config.json"),
+                 c.get_dict)
     utils.output(os.path.join(data_dir, "team.json"),
-                 teams.get_dict)
+                 teams.get_dict, if_not_exists=if_not_exists)
     utils.output(os.path.join(data_dir, "run.json"),
-                 runs.get_dict)
+                 runs.get_dict, if_not_exists=if_not_exists)
 
 
 def work(data_dir: str, c: Contest, fetch_uri: str):
     utils.ensure_makedirs(data_dir)
-    utils.output(os.path.join(data_dir, "config.json"), c.get_dict)
-    utils.output(os.path.join(data_dir, "team.json"), {}, True)
-    utils.output(os.path.join(data_dir, "run.json"), [], True)
+    write_to_disk(data_dir, c, Teams(), Submissions(), True)
+
+    if len(SECRET_TOKEN) > 0:
+        write_to_disk(data_dir + SECRET_TOKEN, c, Teams(), Submissions(), True)
 
     if len(fetch_uri) == 0:
         return
