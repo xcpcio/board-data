@@ -25,7 +25,7 @@ def handle_teams(teams: Teams):
         d_team = team.extra[DOMjudge.CONSTANT_EXTRA_DOMJUDGE_TEAM]
 
         if team.name.startswith('⭐'):
-            team.name = team.name[len('⭐'):-1]
+            team.name = team.name[len('⭐'):]
 
         if "3" in d_team["group_ids"]:
             team.official = True
