@@ -11,6 +11,9 @@ contest_list = {}
 
 
 def dfs(contest_list, pathname, board_link):
+    if pathname.endswith('-assets'):
+        return
+
     config_path = os.path.join(pathname, "config.json")
     if os.path.isfile(config_path):
         config = utils.json_input(config_path)
