@@ -18,7 +18,7 @@ log = logger.init_logger()
 def get_basic_contest():
     c = Contest()
     c.logo = Image(preset="ICPC")
-    c.banner = Image(url="{}/banner.png".format(ASSETS_PATH))
+    c.banner = Image(url="{}/banner_ten_min.png".format(ASSETS_PATH))
 
     return c
 
