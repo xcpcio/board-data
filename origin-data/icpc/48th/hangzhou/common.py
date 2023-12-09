@@ -32,9 +32,9 @@ def handle_teams(teams: Teams):
         if team.name.startswith('⭐'):
             team.name = team.name[len('⭐'):]
 
-        if "3" in d_team["group_ids"]:
+        if "participants" in d_team["group_ids"]:
             team.official = True
-        elif "4" in d_team["group_ids"]:
+        elif "observers" in d_team["group_ids"]:
             team.unofficial = True
         else:
             filter_team_ids.append(team.team_id)
@@ -43,10 +43,11 @@ def handle_teams(teams: Teams):
         if "public_description" in d_team.keys() and d_team["public_description"] is not None:
             description = d_team["public_description"]
 
-            if "、" in description:
-                team.members = d_team["public_description"].split("、")
-            else:
-                team.members = d_team["public_description"].split(" ")
+            members = description.split("|")[0]
+            coach = description.split("|")[1]
+
+            team.members = members.split(",")
+            team.coach = coach
 
     for team_id in filter_team_ids:
         del teams[team_id]
