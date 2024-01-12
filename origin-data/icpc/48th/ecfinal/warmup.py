@@ -16,8 +16,8 @@ def get_contest():
 
     c.contest_name = "The 2023 ICPC Asia East Continent Final Contest Warmup"
     c.problem_quantity = 4
-    c.start_time = utils.get_timestamp_second("2024-01-12 15:00:00")
-    c.end_time = utils.get_timestamp_second("2024-01-12 17:00:00")
+    c.start_time = utils.get_timestamp_second("2024-01-12 15:30:00")
+    c.end_time = utils.get_timestamp_second("2024-01-12 17:30:00")
     c.frozen_time = 30 * 60
     c.unfrozen_time = 60 * 60
 
