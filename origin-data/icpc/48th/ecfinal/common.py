@@ -41,11 +41,11 @@ def handle_teams(teams: Teams):
         if "public_description" in d_team.keys() and d_team["public_description"] is not None:
             description = d_team["public_description"]
 
-            members = description.split("|")[0]
-            coach = description.split("|")[1]
-
-            team.members = members.split(",")
-            team.coach = coach
+            members = description.split(", ")
+            team.members = members[:3]
+            if len(members) > 3:
+                team.coach = members[3]
+                team.coach = team.coach.replace("(教练)", "")
 
     for team_id in filter_team_ids:
         del teams[team_id]
