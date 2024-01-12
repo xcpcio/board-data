@@ -19,7 +19,7 @@ def get_basic_contest():
     c = Contest()
     c.logo = Image(preset="ICPC")
     c.banner = Image(
-        url="{}/banner.png".format(ASSETS_PATH))
+        url="{}/banner_min.png".format(ASSETS_PATH))
 
     return c
 
