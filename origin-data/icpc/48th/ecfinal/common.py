@@ -47,6 +47,9 @@ def handle_teams(teams: Teams):
                 team.coach = members[3]
                 team.coach = team.coach.replace("(教练)", "")
 
+        if team.name.startswith("⭐"):
+            team.name.replace("⭐", "")
+
     for team_id in filter_team_ids:
         del teams[team_id]
 
