@@ -18,6 +18,7 @@ def get_contest():
     c.problem_quantity = 13
     c.start_time = utils.get_timestamp_second("2024-01-13 11:00:00")
     c.end_time = utils.get_timestamp_second("2024-01-13 16:00:00")
+    c.banner_mode = "ONLY_BANNER"
 
     c.fill_problem_id().fill_balloon_color()
 
