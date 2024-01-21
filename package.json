@@ -1,0 +1,31 @@
+{
+    "name": "board-data",
+    "version": "0.0.0",
+    "private": true,
+    "packageManager": "pnpm@8.14.1",
+    "description": "XCPCIO Board Data",
+    "author": "Dup4 <lyuzhi.pan@gmail.com>",
+    "license": "MIT",
+    "homepage": "https://github.com/xcpcio/board-data",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/xcpcio/board-data.git"
+    },
+    "bugs": {
+        "url": "https://github.com/xcpcio/board-data/issues"
+    },
+    "keywords": [
+        "ICPC",
+        "CCPC"
+    ],
+    "engines": {
+        "node": ">=16"
+    },
+    "main": "index.js",
+    "scripts": {
+        "test": "vitest"
+    },
+    "devDependencies": {
+        "pnpm": "^8.14.1"
+    }
+}
