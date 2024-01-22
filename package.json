@@ -23,12 +23,13 @@
     },
     "main": "index.js",
     "scripts": {
-        "test": "vitest"
+        "test": "vitest",
+        "gen_rating": "esno ./src/rating.ts"
     },
     "devDependencies": {
         "@types/node": "^20.11.5",
-        "@xcpcio/core": "^0.46.0",
-        "@xcpcio/types": "^0.46.0",
+        "@xcpcio/core": "^0.46.3",
+        "@xcpcio/types": "^0.46.3",
         "esno": "^4.0.0",
         "pnpm": "^8.14.1",
         "vitest": "^1.2.1"

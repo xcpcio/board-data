@@ -1,10 +1,19 @@
 import { IRating } from "@xcpcio/types";
+import { generateID, generateName } from "./utils";
+
+const startYear = 2023;
+const endYear = 2024;
 
 export const ratingConfig: IRating = {
-    id: "CN-CPC-2023-2024",
-    name: "2023 - 2024 赛季中国区 *CPC Rating",
-    baseRating: 2000,
+    id: generateID(startYear, endYear),
+    name: generateName(startYear, endYear),
+    baseRating: 1900,
     contestIDs: [
+        "provincial-contest/2023/zhejiang",
+        "provincial-contest/2023/guangdong",
+        "provincial-contest/2023/hunan",
+        "provincial-contest/2023/henan",
+
         "ccpc/9th/qinhuangdao",
         "ccpc/9th/guilin",
         "ccpc/9th/harbin",

@@ -8,9 +8,10 @@ import {
 import fs from "node:fs";
 import { resolve } from "node:path";
 
-import { ratingConfig } from "./rating-config";
+import { ratingConfigs } from "./rating-config";
+import { IRating, IRatingIndex } from "@xcpcio/types";
 
-function main() {
+function buildRating(ratingConfig: IRating): Rating {
     const rating = Rating.fromJSON(ratingConfig);
     fs.mkdirSync(resolve(__dirname, `../rating-data/${rating.id}`), {
         recursive: true,
@@ -43,12 +44,49 @@ function main() {
         console.log(`Read Data Successfully. [contestID=${contestID}]`);
     }
 
+    rating.ranks.sort((a, b) =>
+        a.contest.startTime.isBefore(b.contest.startTime) ? -1 : 1
+    );
     rating.buildRating();
+    rating.users.sort((a, b) => b.rating - a.rating);
     fs.writeFileSync(
         resolve(__dirname, `../rating-data/${rating.id}/rating.json`),
         JSON.stringify(rating)
     );
-    console.log(`Build Rating Successfully.`);
+
+    console.log(`Build Rating Successfully. [ratingID=${ratingConfig.id}]`);
+
+    return rating;
+}
+
+function genIndex(ratings: Rating[]) {
+    fs.mkdirSync(resolve(__dirname, `../rating-data/index`), {
+        recursive: true,
+    });
+
+    const ratingIndexList: IRatingIndex[] = ratings.map((rating) => ({
+        id: rating.id,
+        name: rating.name,
+    }));
+
+    fs.writeFileSync(
+        resolve(__dirname, `../rating-data/index/index.json`),
+        JSON.stringify(ratingIndexList)
+    );
+}
+
+function main() {
+    fs.rmSync(resolve(__dirname, `../rating-data`), {
+        recursive: true,
+    });
+
+    const ratings: Rating[] = [];
+    for (const ratingConfig of ratingConfigs) {
+        const rating = buildRating(ratingConfig);
+        ratings.push(rating);
+    }
+
+    genIndex(ratings);
 }
 
 main();

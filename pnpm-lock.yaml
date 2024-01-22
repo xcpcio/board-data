@@ -9,11 +9,11 @@ devDependencies:
     specifier: ^20.11.5
     version: 20.11.5
   '@xcpcio/core':
-    specifier: ^0.46.0
-    version: 0.46.0
+    specifier: ^0.46.3
+    version: 0.46.3
   '@xcpcio/types':
-    specifier: ^0.46.0
-    version: 0.46.0
+    specifier: ^0.46.3
+    version: 0.46.3
   esno:
     specifier: ^4.0.0
     version: 4.0.0
@@ -401,10 +401,10 @@ packages:
       pretty-format: 29.7.0
     dev: true
 
-  /@xcpcio/core@0.46.0:
-    resolution: {integrity: sha512-v79+wKkqLgLVNFQj5wQ3UKkZRjB6fd/4XdLfu8h6wAzDtIUvpo5gpyN/M3YMMyzojEOq/fXtvLCfLwKRJtJu2w==}
+  /@xcpcio/core@0.46.3:
+    resolution: {integrity: sha512-JlvFhl29u4jq/FMHUuNz7AbSY23KYpkciI0xgynBwEC7jSd98Uoagy00e0yk7mfprReQSez0nU1TYeL4jUux3Q==}
     dependencies:
-      '@xcpcio/types': 0.46.0
+      '@xcpcio/types': 0.46.3
       chroma-js: 2.4.2
       color-diff: 1.4.0
       dayjs: 1.11.10
@@ -416,8 +416,8 @@ packages:
       xlsx-js-style: 1.2.0
     dev: true
 
-  /@xcpcio/types@0.46.0:
-    resolution: {integrity: sha512-+OYXoRz3jwCOo4aAAQTp+iYpz+go3c3nFFC/sRQSB33lBaVAlm+JmD0FnwynllINB66Eh64u+VwxmdPXbCwhNw==}
+  /@xcpcio/types@0.46.3:
+    resolution: {integrity: sha512-0VbBwMz5WsactNg1CP/gIQkTpTVvI1+V3ofZB79cq6qYEP6oUtSCConMP7aYA5NehvcKfZcVE48FW7+/AhnrAg==}
     dev: true
 
   /acorn-walk@8.3.2:
