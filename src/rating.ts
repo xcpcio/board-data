@@ -5,11 +5,12 @@ import {
     createSubmissions,
     Rank,
 } from "@xcpcio/core";
+import { IRating, IRatingIndex } from "@xcpcio/types";
+
 import fs from "node:fs";
 import { resolve } from "node:path";
 
 import { ratingConfigs } from "./rating-config";
-import { IRating, IRatingIndex } from "@xcpcio/types";
 
 function buildRating(ratingConfig: IRating): Rating {
     const rating = Rating.fromJSON(ratingConfig);
