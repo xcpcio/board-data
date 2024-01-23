@@ -1,31 +1,42 @@
 {
-    "name": "board-data",
-    "version": "0.0.0",
-    "private": true,
-    "packageManager": "pnpm@8.14.1",
-    "description": "XCPCIO Board Data",
-    "author": "Dup4 <lyuzhi.pan@gmail.com>",
-    "license": "MIT",
-    "homepage": "https://github.com/xcpcio/board-data",
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/xcpcio/board-data.git"
-    },
-    "bugs": {
-        "url": "https://github.com/xcpcio/board-data/issues"
-    },
-    "keywords": [
-        "ICPC",
-        "CCPC"
-    ],
-    "engines": {
-        "node": ">=16"
-    },
-    "main": "index.js",
-    "scripts": {
-        "test": "vitest"
-    },
-    "devDependencies": {
-        "pnpm": "^8.14.1"
-    }
+  "name": "board-data",
+  "version": "0.0.0",
+  "private": true,
+  "packageManager": "pnpm@8.14.1",
+  "description": "XCPCIO Board Data",
+  "author": "Dup4 <lyuzhi.pan@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/xcpcio/board-data",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xcpcio/board-data.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xcpcio/board-data/issues"
+  },
+  "keywords": [
+    "ICPC",
+    "CCPC"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=16"
+  },
+  "scripts": {
+    "test": "vitest",
+    "lint": "eslint ./src",
+    "gen_rating": "esno ./src/rating.ts"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "^0.39.8",
+    "@types/node": "^20.11.5",
+    "@xcpcio/core": "^0.46.3",
+    "@xcpcio/types": "^0.46.3",
+    "eslint": "^8.56.0",
+    "esno": "^4.0.0",
+    "pnpm": "^8.14.1",
+    "taze": "^0.13.1",
+    "typescript": "^5.3.3",
+    "vitest": "^1.2.1"
+  }
 }
