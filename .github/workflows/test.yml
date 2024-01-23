@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=https://json-schema.org/draft-07/schema#
+name: Test
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@v2
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18.x
+          cache: pnpm
+
+      - name: Test
+        run: |
+          pnpm i
+          pnpm gen_rating

@@ -1,31 +1,57 @@
 {
-    "editor.tabSize": 4,
-    "editor.insertSpaces": true,
-    "editor.formatOnSave": true,
-    "files.trimTrailingWhitespace": true,
-    "files.insertFinalNewline": true,
-    "files.trimFinalNewlines": true,
-    "cSpell.words": [
-        "bytedance",
-        "ccpc",
-        "domjudge",
-        "ecfinal",
-        "gaozhi",
-        "gevent",
-        "grequests",
-        "guangxi",
-        "guilin",
-        "hefei",
-        "icpc",
-        "noreply",
-        "nowcoder",
-        "qinhuangdao",
-        "shenzhen",
-        "tsingdao",
-        "weihai",
-        "XCPCIO"
-    ],
-    "[python]": {
-        "editor.defaultFormatter": "ms-python.autopep8"
-    }
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.formatOnSave": true,
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.organizeImports": "never"
+  },
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "vue",
+    "html",
+    "markdown",
+    "json",
+    "jsonc",
+    "yaml"
+  ],
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "[typescript]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+  },
+  "cSpell.words": [
+    "bytedance",
+    "ccpc",
+    "domjudge",
+    "ecfinal",
+    "gaozhi",
+    "gevent",
+    "grequests",
+    "guangxi",
+    "guilin",
+    "hefei",
+    "icpc",
+    "noreply",
+    "nowcoder",
+    "qinhuangdao",
+    "shenzhen",
+    "tsingdao",
+    "weihai",
+    "XCPCIO"
+  ],
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.autopep8"
+  }
 }
