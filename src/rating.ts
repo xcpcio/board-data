@@ -78,9 +78,11 @@ function genIndex(ratings: Rating[]) {
 }
 
 function main() {
-  fs.rmSync(resolve(__dirname, "../rating-data"), {
-    recursive: true,
-  });
+  if (fs.existsSync(resolve(__dirname, "../rating-data"))) {
+    fs.rmSync(resolve(__dirname, "../rating-data"), {
+      recursive: true,
+    });
+  }
 
   const ratings: Rating[] = [];
   for (const ratingConfig of ratingConfigs) {
