@@ -5,7 +5,7 @@ on:
 
 env:
   node_version: "18.x"
-  deploy_script_version: "v0.0.3"
+  deploy_script_version: "v0.0.4"
 
 jobs:
   deploy:
@@ -49,6 +49,7 @@ jobs:
           script: |
             bash <(curl -s -L https://raw-github.dup4.com/Dup4/bash-script-snippet/${{ env.deploy_script_version }}/deploy_gh_pages.sh) \
             -r xcpcio/board-data \
+            -n rating-data \
             -d /var/docker-data/nginx/www/xcpcio \
             -b rating-data \
             -p github.dup4.com
@@ -64,5 +65,6 @@ jobs:
           script: |
             bash <(curl -s -L https://raw.github.com/Dup4/bash-script-snippet/${{ env.deploy_script_version }}/deploy_gh_pages.sh) \
             -r xcpcio/board-data \
+            -n rating-data \
             -d /var/docker-data/nginx/www/xcpcio \
             -b rating-data

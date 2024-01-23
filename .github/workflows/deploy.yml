@@ -8,7 +8,7 @@ on:
 
 env:
   python_version: "3.10"
-  deploy_script_version: "v0.0.3"
+  deploy_script_version: "v0.0.4"
 
 jobs:
   deploy:
