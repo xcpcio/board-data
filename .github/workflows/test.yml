@@ -20,7 +20,8 @@ jobs:
           node-version: 18.x
           cache: pnpm
 
-      - name: Test
+      - name: Lint and Test
         run: |
           pnpm i
+          pnpm lint
           pnpm gen_rating
