@@ -52,11 +52,11 @@ jobs:
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           port: ${{ secrets.SSH_PORT }}
           script: |
-            bash <(curl -s -L https://raw-github.dup4.com/Dup4/bash-script-snippet/main/deploy_gh_pages.sh)
-            -r xcpcio/board-data
-            -d /var/docker-data/nginx/www/xcpcio
-            -b gh-pages
-            -p github.dup4.com
+            bash <(curl -s -L https://raw-github.dup4.com/Dup4/bash-script-snippet/main/deploy_gh_pages.sh) \
+            -r xcpcio/board-data \
+            -d /var/docker-data/nginx/www/xcpcio \
+            -b gh-pages \
+            -p github.dup4.com \
 
       - name: Deploy I18n
         if: ${{ github.event_name != 'pull_request' }}
@@ -67,7 +67,7 @@ jobs:
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           port: 22
           script: |
-            bash <(curl -s -L https://raw.github.com/Dup4/bash-script-snippet/main/deploy_gh_pages.sh)
-            -r xcpcio/board-data
-            -d /var/docker-data/nginx/www/xcpcio
+            bash <(curl -s -L https://raw.github.com/Dup4/bash-script-snippet/main/deploy_gh_pages.sh) \
+            -r xcpcio/board-data \
+            -d /var/docker-data/nginx/www/xcpcio \
             -b gh-pages
