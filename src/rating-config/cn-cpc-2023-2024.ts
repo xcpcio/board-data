@@ -14,11 +14,14 @@ export const ratingConfig: IRating = {
     "provincial-contest/2023/hunan",
     "provincial-contest/2023/henan",
 
+    "ccpc/9th/online-qualification",
     "ccpc/9th/qinhuangdao",
     "ccpc/9th/guilin",
     "ccpc/9th/harbin",
     "ccpc/9th/shenzhen",
 
+    "icpc/48th/online-qualification-1",
+    "icpc/48th/online-qualification-2",
     "icpc/48th/shenyang",
     "icpc/48th/nanjing",
     "icpc/48th/hefei",
