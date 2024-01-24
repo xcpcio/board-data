@@ -1,7 +1,9 @@
 /* eslint-disable no-console */
 
 import fs from "node:fs";
-import { resolve } from "node:path";
+import path, { resolve } from "node:path";
+import { fileURLToPath } from "node:url";
+
 import {
   Rank,
   Rating,
@@ -12,6 +14,9 @@ import {
 import type { IRating, IRatingIndex } from "@xcpcio/types";
 
 import { ratingConfigs } from "./rating-config";
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 function buildRating(ratingConfig: IRating): Rating {
   const rating = Rating.fromJSON(ratingConfig);

@@ -1,10 +1,13 @@
 {
   "editor.tabSize": 2,
   "editor.insertSpaces": true,
+  "prettier.enable": false,
   "editor.formatOnSave": true,
   "files.trimTrailingWhitespace": true,
   "files.insertFinalNewline": true,
   "files.trimFinalNewlines": true,
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "eslint.experimental.useFlatConfig": true,
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": "explicit",
     "source.organizeImports": "never"
@@ -19,17 +22,11 @@
     "markdown",
     "json",
     "jsonc",
-    "yaml"
+    "yaml",
+    "toml"
   ],
-  "typescript.tsdk": "node_modules/typescript/lib",
-  "[typescript]": {
-    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
-  },
-  "[javascript]": {
-    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
-  },
-  "[json]": {
-    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.autopep8"
   },
   "cSpell.words": [
     "antfu",
@@ -48,11 +45,9 @@
     "nowcoder",
     "qinhuangdao",
     "shenzhen",
+    "taze",
     "tsingdao",
     "weihai",
     "XCPCIO"
-  ],
-  "[python]": {
-    "editor.defaultFormatter": "ms-python.autopep8"
-  }
+  ]
 }
