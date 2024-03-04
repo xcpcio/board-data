@@ -33,7 +33,7 @@ def fetch():
         board_url = _params['board_url']
         params = (
             ('t', get_now()),
-        )   
+        )
         response = requests.get(board_url, params=params)
         return json.loads(response.text)
     else:
@@ -72,59 +72,65 @@ def run_output(res):
 
         team_id = item['user']['id']
         total_time = item['score']['time'][0]
-        
+
         penalty_num = 0
         for problem in item['statuses']:
             if Accepted(problem['result']):
                 total_time -= int(problem['time'][0])
-                
+
         penalty_num = total_time // penalty
 
         problem_id = -1
         for problem in item['statuses']:
             problem_id += 1
-            
+
             _run = {}
             _run['problem_id'] = problem_id
             _run['team_id'] = team_id
-            
+
             timestamp = int(problem['time'][0])
 
             if problem['time'][1] == 'min':
                 timestamp *= 60;
             elif problem['time'][1] == 's':
                 timestamp = timestamp // 60 * 60
-            
-            _run['timestamp'] = timestamp
 
+            incorrect_timestamp = max(0, timestamp - 1)
+
+            _run['timestamp'] = timestamp
             _run['status'] = 'incorrect'
-            
+
             for i in range(int(problem["tries"]) - 1):
-              _run['status'] = 'incorrect'
+              _run['timestamp'] = incorrect_timestamp
+              if problem['result'] == '?':
+                _run['status'] = 'pending'
+              else:
+                _run['status'] = 'incorrect'
               run.append(_run.copy())
-            
+
             if int(problem["tries"]) > 0:
               if Accepted(problem["result"]):
+                _run["timestamp"] = timestamp
                 _run['status'] = 'correct'
               run.append(_run.copy())
-                          
+
             # if "solutions" in problem.keys():
             #   for __run in problem['solutions']:
             #       status = 'incorrect'
             #       if Accepted(__run['result']):
             #           status = 'correct'
-                  
+
             #       timestamp = int(__run['time'][0])
-                  
+
             #       if __run['time'][1] == 'min':
             #           timestamp *= 60;
             #       elif __run['time'][1] == 's':
             #           timestamp = timestamp // 60 * 60
-                    
+
             #       _run['status'] = status
             #       _run['timestamp'] = timestamp
             #       run.append(_run.copy())
-                
+
     if len(run) > 0:
         output('run.json', run)
 
