@@ -7,7 +7,7 @@ import common
 DATA_DIR = os.getenv(
     "DATA_DIR", "../../../../data/ccpc/9th/final")
 FETCH_URI = os.getenv(
-    "FETCH_URI", "http://ccpc.pintia.cn/js/")
+    "FETCH_URI", "./raw/formal")
 
 
 def get_contest():
@@ -19,6 +19,14 @@ def get_contest():
     c.end_time = utils.get_timestamp_second("2024-03-31 14:00:00")
 
     c.fill_problem_id().fill_balloon_color()
+
+    c.medal = {
+        "official": {
+            "gold": 12,
+            "silver": 24,
+            "bronze": 37,
+        },
+    }
 
     return c
 

@@ -8,7 +8,7 @@ DATA_DIR = os.getenv(
     "DATA_DIR", "../../../../data/ccpc/9th/final-warmup")
 
 FETCH_URI = os.getenv(
-    "FETCH_URI", "./raw")
+    "FETCH_URI", "./raw/warmup")
 
 
 def get_contest():
