@@ -126,7 +126,7 @@ def write_to_disk(data_dir: str, c: Contest, teams: Teams, runs: Submissions, if
     utils.output(os.path.join(data_dir, "config.json"),
                  c.get_dict)
     utils.output(os.path.join(data_dir, "team.json"),
-                 teams.get_dict, if_not_exists=if_not_exists)
+                 teams, if_not_exists=if_not_exists)
     utils.output(os.path.join(data_dir, "run.json"),
                  runs.get_dict, if_not_exists=if_not_exists)
 
