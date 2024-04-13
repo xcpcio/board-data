@@ -2,7 +2,7 @@ import time
 import os
 import shutil
 
-from xcpcio_board_spider import logger, Contest, constants, logo, utils, Team, Teams
+from xcpcio_board_spider import logger, Contest, constants, logo, utils, Team, Teams, Submissions
 from xcpcio_board_spider.spider.domjudge.v3.domjudge import DOMjudge
 from xcpcio_board_spider.type import Image
 
@@ -10,6 +10,9 @@ log = logger.init_logger()
 
 CUR_DIR = os.path.dirname(os.path.realpath(__file__))
 ASSETS_PATH = "../zhejiang-assets"
+
+ENABLE_FROZEN = os.getenv("ENABLE_FROZEN", "true").lower() == "true"
+SECRET_TOKEN = os.getenv("SECRET_TOKEN", "")
 
 
 def get_basic_contest():
@@ -80,6 +83,42 @@ def copy_assets(data_dir: str):
         log.error("copy assets failed. ", e)
 
 
+def is_frozen(c: Contest):
+    unfrozen_time = 0
+
+    if c.unfrozen_time <= 86400:
+        unfrozen_time = c.end_time + c.unfrozen_time
+    else:
+        unfrozen_time = c.unfrozen_time
+
+    if ENABLE_FROZEN and utils.get_now_timestamp_second() <= unfrozen_time:
+        return True
+
+    return False
+
+
+def handle_runs(c: Contest, runs: Submissions):
+    t = utils.get_timestamp_second(
+        c.end_time) - utils.get_timestamp_second(c.start_time) - c.frozen_time
+    t = t * 1000
+
+    for run in runs:
+        run.time = None
+
+        if is_frozen(c):
+            if run.status == constants.RESULT_ACCEPTED:
+                pass
+            elif run.status == constants.RESULT_COMPILATION_ERROR:
+                pass
+            elif run.status == constants.RESULT_PENDING:
+                pass
+            else:
+                run.status = constants.RESULT_REJECTED
+
+            if run.timestamp >= t:
+                run.status = constants.RESULT_FROZEN
+
+
 def work(c: Contest, data_dir: str, fetch_uri: str):
     utils.ensure_makedirs(data_dir)
     utils.output(os.path.join(data_dir, "config.json"), c.get_dict)
@@ -99,6 +138,7 @@ def work(c: Contest, data_dir: str, fetch_uri: str):
             d.fetch().parse_teams().parse_runs()
 
             handle_teams(d.teams)
+            handle_runs(c, d.runs)
 
             teams = {}
             for t in d.teams.values():
