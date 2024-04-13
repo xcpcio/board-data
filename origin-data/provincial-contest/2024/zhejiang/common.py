@@ -30,12 +30,6 @@ def get_basic_contest():
         "vocational": "专科组",
     }
 
-    c.status_time_display = {
-        constants.RESULT_CORRECT: 1,
-        constants.RESULT_INCORRECT: 1,
-        constants.RESULT_PENDING: 1,
-    }
-
     c.logo = Image(preset="ICPC")
     c.banner = Image(
         url="{}/banner.min.png".format(ASSETS_PATH))
