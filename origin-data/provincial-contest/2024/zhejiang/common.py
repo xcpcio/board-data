@@ -131,7 +131,7 @@ def work(c: Contest, data_dir: str, fetch_uri: str):
 
         try:
             d = DOMjudge(c, fetch_uri)
-            d.fetch().parse_teams().parse_runs()
+            d.fetch().update_contest().parse_teams().parse_runs()
 
             handle_teams(d.teams)
             handle_runs(c, d.runs)
