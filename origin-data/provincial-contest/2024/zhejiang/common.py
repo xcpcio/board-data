@@ -45,11 +45,16 @@ def handle_teams(teams: Teams):
         if d_team["display_name"] is None:
             t.name = d_team["name"]
 
+        t.name = t.name.lstrip("🌟")
+
         if d_team["hidden"] == True:
             filter_team_id.append(t.team_id)
 
         if d_team["public_description"] is not None and len(d_team["public_description"]) > 0:
             t.members = d_team["public_description"].split("|")
+            if t.members[3] == "女队":
+                t.extra["girl"] = True
+                t.members = t.members[:3]
             t.members = sorted(t.members)
 
         if "observers" in d_team["group_ids"]:
@@ -60,8 +65,6 @@ def handle_teams(teams: Teams):
         elif "vocational" in d_team["group_ids"]:
             t.official = 1
             t.extra["vocational"] = True
-        if "girl" in d_team["group_ids"]:
-            t.extra["girl"] = True
 
     for t_id in filter_team_id:
         del teams[t_id]
