@@ -52,7 +52,7 @@ def handle_teams(teams: Teams):
 
         if d_team["public_description"] is not None and len(d_team["public_description"]) > 0:
             t.members = d_team["public_description"].split("|")
-            if t.members[3] == "女队":
+            if len(t.members) > 3 and t.members[3] == "女队":
                 t.extra["girl"] = True
                 t.members = t.members[:3]
             t.members = sorted(t.members)
