@@ -118,6 +118,19 @@ def handle_runs(c: Contest, runs: Submissions):
                 run.status = constants.RESULT_FROZEN
 
 
+def write_to_disk(data_dir: str, c: Contest, teams: Teams, runs: Submissions, if_not_exists=False):
+    log.info("write to disk. [data_dir: {}]".format(data_dir))
+
+    utils.ensure_makedirs(data_dir)
+
+    utils.output(os.path.join(data_dir, "config.json"),
+                 c.get_dict)
+    utils.output(os.path.join(data_dir, "team.json"),
+                 teams.get_dict, if_not_exists=if_not_exists)
+    utils.output(os.path.join(data_dir, "run.json"),
+                 runs.get_dict, if_not_exists=if_not_exists)
+
+
 def work(c: Contest, data_dir: str, fetch_uri: str):
     utils.ensure_makedirs(data_dir)
     utils.output(os.path.join(data_dir, "config.json"), c.get_dict)
@@ -125,6 +138,9 @@ def work(c: Contest, data_dir: str, fetch_uri: str):
     utils.output(os.path.join(data_dir, "run.json"), [], True)
 
     copy_assets(data_dir)
+
+    if len(SECRET_TOKEN) > 0:
+        write_to_disk(data_dir + SECRET_TOKEN, c, Teams(), Submissions(), True)
 
     if len(fetch_uri) == 0:
         return
@@ -137,7 +153,6 @@ def work(c: Contest, data_dir: str, fetch_uri: str):
             d.fetch().update_contest().parse_teams().parse_runs()
 
             handle_teams(d.teams)
-            handle_runs(c, d.runs)
 
             teams = {}
             for t in d.teams.values():
@@ -153,9 +168,11 @@ def work(c: Contest, data_dir: str, fetch_uri: str):
                 if "girl" in t.extra.keys():
                     teams[team_id]["girl"] = True
 
-            utils.output(os.path.join(data_dir, "config.json"), c.get_dict)
-            utils.output(os.path.join(data_dir, "team.json"), teams)
-            utils.output(os.path.join(data_dir, "run.json"), d.runs.get_dict)
+            if len(SECRET_TOKEN) > 0:
+                write_to_disk(data_dir + SECRET_TOKEN, c, teams, d.runs)
+
+            handle_runs(c, d.runs)
+            write_to_disk(data_dir, c, teams, d.runs)
 
             log.info("work successfully")
         except Exception as e:
