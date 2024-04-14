@@ -18,18 +18,18 @@ def get_contest():
     c.start_time = utils.get_timestamp_second("2024-04-13 12:00:00")
     c.end_time = utils.get_timestamp_second("2024-04-13 17:00:00")
 
-    # c.medal = {
-    #     "undergraduate": {
-    #         "gold": 18,
-    #         "silver": 40,
-    #         "bronze": 57,
-    #     },
-    #     "vocational": {
-    #         "gold": 11,
-    #         "silver": 22,
-    #         "bronze": 34,
-    #     }
-    # }
+    c.medal = {
+        "undergraduate": {
+            "gold": 27,
+            "silver": 40,
+            "bronze": 66,
+        },
+        "vocational": {
+            "gold": 15,
+            "silver": 22,
+            "bronze": 36,
+        }
+    }
 
     c.fill_problem_id().fill_balloon_color()
 
