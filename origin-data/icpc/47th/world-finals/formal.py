@@ -7,7 +7,7 @@ import common
 DATA_DIR = os.getenv(
     "DATA_DIR", "../../../../data/icpc/47th/world-finals")
 FETCH_URI = os.getenv(
-    "FETCH_URI", "https://scoreboard.icpc.global/47/index.html")
+    "FETCH_URI", "./raw/Scoreboard wf47_finals - DOMjudge.html")
 
 
 def get_contest():
@@ -17,6 +17,14 @@ def get_contest():
     c.problem_quantity = 11
     c.start_time = utils.get_timestamp_second("2024-04-18 17:48:00")
     c.end_time = utils.get_timestamp_second("2024-04-18 22:48:00")
+
+    c.medal = {
+        "all": {
+            "gold": 4,
+            "silver": 4,
+            "bronze": 4,
+        },
+    }
 
     return c
 

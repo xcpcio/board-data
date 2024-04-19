@@ -18,9 +18,7 @@ def get_basic_contest():
     c.penalty = 20 * 60
     c.organization = None
 
-    c.group = {
-        constants.TEAM_TYPE_OFFICIAL: constants.TEAM_TYPE_ZH_CN_OFFICIAL,
-    }
+    c.group = {}
 
     c.status_time_display = {
         constants.RESULT_CORRECT.lower(): True,
