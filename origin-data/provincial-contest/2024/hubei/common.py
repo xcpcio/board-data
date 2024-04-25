@@ -34,6 +34,7 @@ def handle_teams(teams: Teams):
         if "public_description" in d_team.keys() and d_team["public_description"] is not None:
             description: str = d_team["public_description"]
             members = description.split(" ")
+            team.members = members
 
     for team_id in filter_team_ids:
         del teams[team_id]
