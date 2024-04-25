@@ -14,6 +14,7 @@ log = logger.init_logger()
 
 def get_basic_contest():
     c = Contest()
+    c.logo = Image(preset="ICPC")
     return c
 
 
