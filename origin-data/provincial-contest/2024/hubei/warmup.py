@@ -14,7 +14,7 @@ FETCH_URI = os.getenv(
 def get_contest():
     c = common.get_basic_contest()
 
-    c.contest_name = "The 2024 International Collegiate Programming Contest in Hubei Province, China - Warming Up"
+    c.contest_name = "The 2024 ICPC in Hubei Province, China - Warming Up"
     c.problem_quantity = 4
     c.start_time = utils.get_timestamp_second("2024-04-26 14:45:00")
     c.end_time = utils.get_timestamp_second("2024-04-26 17:15:00")
