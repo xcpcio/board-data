@@ -17,8 +17,8 @@ def get_contest():
 
     c.contest_name = "第 6 届 CCPC 河南省大学生程序设计竞赛 - 正式赛"
     c.problem_quantity = 13
-    c.start_time = utils.get_timestamp_second("2024-05-12 09:10:00")
-    c.end_time = utils.get_timestamp_second("2024-05-12 14:10:00")
+    c.start_time = utils.get_timestamp_second("2024-05-12 09:30:00")
+    c.end_time = utils.get_timestamp_second("2024-05-12 14:30:00")
 
     c.fill_problem_id().fill_balloon_color()
 

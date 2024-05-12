@@ -28,6 +28,9 @@ def handle_teams(teams: Teams):
             team.official = True
         elif "7" in d_team["group_ids"]:
             team.unofficial = True
+        elif "8" in d_team["group_ids"]:
+            team.official = True
+            team.girl = True
         else:
             filter_team_ids.append(team.team_id)
             continue
