@@ -3,7 +3,7 @@ import time
 import shutil
 
 from xcpcio_board_spider import logger, Contest, Teams, Submissions, constants, utils
-from xcpcio_board_spider.type import Image
+from xcpcio_board_spider.type import Image, constants
 from xcpcio_board_spider.spider.domjudge.v3.domjudge import DOMjudge
 
 ENABLE_FROZEN = os.getenv("ENABLE_FROZEN", "true").lower() == "true"
@@ -14,6 +14,11 @@ log = logger.init_logger()
 
 def get_basic_contest():
     c = Contest()
+    c.group = {
+        constants.TEAM_TYPE_OFFICIAL: constants.TEAM_TYPE_ZH_CN_OFFICIAL,
+        constants.TEAM_TYPE_UNOFFICIAL: constants.TEAM_TYPE_ZH_CH_UNOFFICIAL,
+        constants.TEAM_TYPE_GIRL: constants.TEAM_TYPE_ZH_CH_GIRL,
+    }
     # c.logo = Image(preset="ICPC")
     return c
 
