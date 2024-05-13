@@ -63,13 +63,18 @@ def is_frozen(c: Contest):
     return False
 
 
-def handle_runs(c: Contest, runs: Submissions):
+def handle_runs(c: Contest, runs: Submissions, teams: Teams):
     t = utils.get_timestamp_second(
         c.end_time) - utils.get_timestamp_second(c.start_time) - c.frozen_time
     t = t * 1000
 
-    for run in runs:
+    team_ids = teams.get_dict.keys()
+    filter_run_ids = []
+
+    for ix, run in enumerate(runs):
         run.time = None
+        if run.team_id not in team_ids:
+            filter_run_ids.append(ix)
 
         if is_frozen(c):
             if run.status == constants.RESULT_ACCEPTED:
@@ -83,6 +88,9 @@ def handle_runs(c: Contest, runs: Submissions):
 
             if run.timestamp >= t:
                 run.status = constants.RESULT_FROZEN
+
+    for run_id in filter_run_ids:
+        del runs[run_id]
 
 
 def write_to_disk(data_dir: str, c: Contest, teams: Teams, runs: Submissions, if_not_exists=False):
@@ -121,7 +129,7 @@ def work(data_dir: str, c: Contest, fetch_uri: str):
             if len(SECRET_TOKEN) > 0:
                 write_to_disk(data_dir + SECRET_TOKEN, c, d.teams, d.runs)
 
-            handle_runs(c, d.runs)
+            handle_runs(c, d.runs, d.teams)
             write_to_disk(data_dir, c, d.teams, d.runs)
 
             log.info("work successfully")
