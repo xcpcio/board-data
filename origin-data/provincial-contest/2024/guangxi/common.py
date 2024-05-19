@@ -32,13 +32,13 @@ def handle_teams(teams: Teams):
         type = ZOJ.get_team_type(team)
 
         if "type1" in type:
-            team.official = True
+            team.official = 1
 
         if "unofficial" in type:
-            team.unofficial = True
+            team.unofficial = 1
 
         if "girls" in type:
-            team.girl = True
+            team.girl = 1
 
         if "type2" in type:
             team.enable_group("undergraduate")
