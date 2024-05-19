@@ -17,7 +17,7 @@ def get_basic_contest():
     c.group = {
         constants.TEAM_TYPE_OFFICIAL: constants.TEAM_TYPE_ZH_CN_OFFICIAL,
         constants.TEAM_TYPE_UNOFFICIAL: constants.TEAM_TYPE_ZH_CH_UNOFFICIAL,
-        constants.TEAM_TYPE_GIRL: constants.TEAM_TYPE_ZH_CH_GIRL,
+        # constants.TEAM_TYPE_GIRL: constants.TEAM_TYPE_ZH_CH_GIRL,
     }
 
     c.status_time_display = constants.FULL_STATUS_TIME_DISPLAY
@@ -37,6 +37,7 @@ def handle_teams(teams: Teams):
 
         if "unofficial" in type:
             team.unofficial = 1
+            team.name = team.name.lstrip("*")
 
         if "girls" in type:
             team.girl = 1

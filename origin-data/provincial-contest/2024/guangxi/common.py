@@ -18,12 +18,11 @@ def get_basic_contest():
         constants.TEAM_TYPE_OFFICIAL: constants.TEAM_TYPE_ZH_CN_OFFICIAL,
         constants.TEAM_TYPE_UNOFFICIAL: constants.TEAM_TYPE_ZH_CH_UNOFFICIAL,
         constants.TEAM_TYPE_GIRL: constants.TEAM_TYPE_ZH_CH_GIRL,
+        "undergraduate": "省内本科组",
+        "vocational": "省内专科组",
     }
 
     c.status_time_display = constants.FULL_STATUS_TIME_DISPLAY
-
-    # c.logo = Image(preset="CCPC")
-    # c.medal = "ccpc"
 
     return c
 
@@ -33,13 +32,19 @@ def handle_teams(teams: Teams):
         type = ZOJ.get_team_type(team)
 
         if "type1" in type:
-            team.official = 1
+            team.official = True
 
         if "unofficial" in type:
-            team.unofficial = 1
+            team.unofficial = True
 
         if "girls" in type:
-            team.girl = 1
+            team.girl = True
+
+        if "type2" in type:
+            team.enable_group("undergraduate")
+
+        if "type3" in type:
+            team.enable_group("vocational")
 
         # type4 本科组
         # type5 专科组
