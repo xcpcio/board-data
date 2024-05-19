@@ -70,7 +70,7 @@ def work(data_dir: str, fetch_uri_prefix: str, c: Contest):
 
             log.info("work successfully")
         except Exception as e:
-            log.error("work failed. ", e)
+            log.exception(e)
 
         log.info("sleeping...")
         time.sleep(1)
