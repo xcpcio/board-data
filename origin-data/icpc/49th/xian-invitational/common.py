@@ -28,7 +28,7 @@ def handle_teams(teams: Teams):
     for team in teams.values():
         d_team = team.extra[DOMjudge.CONSTANT_EXTRA_DOMJUDGE_TEAM]
 
-        team.name = team.name.lstrip("*")
+        team.name = team.name.lstrip("★")
 
         if "3" in d_team["group_ids"]:
             team.official = True
