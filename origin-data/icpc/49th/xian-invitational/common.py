@@ -86,6 +86,7 @@ def handle_runs(c: Contest, runs: Submissions, teams: Teams):
             if run.timestamp >= t:
                 run.status = constants.RESULT_FROZEN
 
+    filter_run_ids.sort(reverse=True)
     for run_id in filter_run_ids:
         del runs[run_id]
 
