@@ -17,6 +17,7 @@ def get_basic_contest():
     c.group = {
         constants.TEAM_TYPE_OFFICIAL: constants.TEAM_TYPE_ZH_CN_OFFICIAL,
         constants.TEAM_TYPE_UNOFFICIAL: constants.TEAM_TYPE_ZH_CH_UNOFFICIAL,
+        constants.TEAM_TYPE_GIRL: constants.TEAM_TYPE_ZH_CH_GIRL,
     }
     c.logo = Image(preset="ICPC")
     return c
@@ -34,6 +35,9 @@ def handle_teams(teams: Teams):
             team.official = True
         elif "2" in d_team["group_ids"]:
             team.unofficial = True
+        elif "5" in d_team["group_ids"]:
+            team.official = True
+            team.girl = True
         else:
             filter_team_ids.append(team.team_id)
             continue
@@ -61,7 +65,7 @@ def handle_runs(c: Contest, runs: Submissions, teams: Teams):
         c.end_time) - utils.get_timestamp_second(c.start_time) - c.frozen_time
     t = t * 1000
 
-    team_ids = teams.get_dict.keys()
+    team_ids = [x.team_id for x in teams.values()]
     filter_run_ids = []
 
     for ix, run in enumerate(runs):
