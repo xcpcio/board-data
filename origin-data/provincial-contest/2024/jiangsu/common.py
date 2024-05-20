@@ -68,7 +68,7 @@ def handle_runs(c: Contest, runs: Submissions, teams: Teams):
         c.end_time) - utils.get_timestamp_second(c.start_time) - c.frozen_time
     t = t * 1000
 
-    team_ids = teams.get_dict.keys()
+    team_ids = [x.team_id for x in teams.values()]
     filter_run_ids = []
 
     for ix, run in enumerate(runs):
