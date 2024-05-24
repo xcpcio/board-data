@@ -69,4 +69,4 @@ def work(data_dir: Path, fetch_uri_prefix: str, c: Contest):
             log.exception(e)
 
         log.info("sleeping...")
-        time.sleep(1)
+        time.sleep(5)

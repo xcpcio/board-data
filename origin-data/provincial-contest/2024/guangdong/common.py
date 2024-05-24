@@ -69,4 +69,4 @@ def work(data_dir: Path, c: Contest, fetch_uri: str):
             log.error("work failed. ", e)
 
         log.info("sleeping...")
-        time.sleep(1)
+        time.sleep(5)
