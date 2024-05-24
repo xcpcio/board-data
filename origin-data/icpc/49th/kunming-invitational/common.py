@@ -26,18 +26,24 @@ def get_basic_contest():
 def handle_teams(teams: Teams):
     filter_team_ids = []
 
-    for team in teams.values():
-        d_team = team.extra[DOMjudge.CONSTANT_EXTRA_DOMJUDGE_TEAM]
+    for t in teams.values():
+        d_team = t.extra[DOMjudge.CONSTANT_EXTRA_DOMJUDGE_TEAM]
 
-        team.name = team.name.lstrip("🌟")
+        t.name = t.name.lstrip("🌟")
 
         if "participants" in d_team["group_ids"]:
-            team.official = True
+            t.official = True
         elif "observers" in d_team["group_ids"]:
-            team.unofficial = True
+            t.unofficial = True
         else:
-            filter_team_ids.append(team.team_id)
+            filter_team_ids.append(t.team_id)
             continue
+
+        if d_team["public_description"] is not None and len(d_team["public_description"]) > 0:
+            t.members = d_team["public_description"].split(",")
+            if len(t.members) > 3 and t.members[3] == "女队":
+                t.coach = t.members[3]
+                t.members = t.members[:3]
 
     for team_id in filter_team_ids:
         del teams[team_id]
