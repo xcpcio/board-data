@@ -29,7 +29,7 @@ def handle_teams(teams: Teams):
     for t in teams.values():
         d_team = t.extra[DOMjudge.CONSTANT_EXTRA_DOMJUDGE_TEAM]
 
-        t.name = t.name.lstrip("🌟")
+        t.name = t.name.lstrip("⭐")
 
         if "participants" in d_team["group_ids"]:
             t.official = True
@@ -41,8 +41,9 @@ def handle_teams(teams: Teams):
 
         if d_team["public_description"] is not None and len(d_team["public_description"]) > 0:
             t.members = d_team["public_description"].split(",")
-            if len(t.members) > 3 and t.members[3] == "女队":
+            if len(t.members) > 3:
                 t.coach = t.members[3]
+                t.coach = t.coach.rstrip("(教练)")
                 t.members = t.members[:3]
 
     for team_id in filter_team_ids:
