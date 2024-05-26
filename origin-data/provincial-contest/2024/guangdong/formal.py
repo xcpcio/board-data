@@ -17,7 +17,7 @@ def get_contest():
     c = common.get_basic_contest()
 
     c.contest_name = "第二十一届广东省大学生程序设计竞赛 - 正式赛"
-    c.problem_quantity = 13
+    c.problem_quantity = 10
     c.start_time = utils.get_timestamp_second("2024-05-26 09:00:00")
     c.end_time = utils.get_timestamp_second("2024-05-26 14:00:00")
 

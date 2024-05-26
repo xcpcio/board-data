@@ -13,7 +13,7 @@ def get_basic_contest():
     c = Contest()
 
     c.options.calculation_of_penalty = constants.CALCULATION_OF_PENALTY_ACCUMULATE_IN_SECONDS_AND_FINALLY_TO_THE_MINUTE
-    # c.logo = Image(preset="CCPC")
+    c.logo = Image(preset="CCPC")
     # c.medal = "ccpc"
 
     return c
@@ -26,15 +26,6 @@ def handle_teams(teams: Teams):
         if team.name == "'-" or team.name == "裁判" or len(team.name) == 0:
             team_ids.append(team.team_id)
             continue
-
-        if team.official == True:
-            team.official = 1
-
-        if team.unofficial == True:
-            team.unofficial = 1
-
-        if team.girl == True:
-            team.girl = 1
 
     for team_id in team_ids:
         del teams[team_id]
