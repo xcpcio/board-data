@@ -1,15 +1,19 @@
 import os
 import time
 from pathlib import Path
+import shutil
 
 from xcpcio_board_spider import logger, Contest, Teams, Submissions, constants, utils
 from xcpcio_board_spider.type import Image, constants
 from xcpcio_board_spider.spider.domjudge.v3.domjudge import DOMjudge
 
+log = logger.init_logger()
+
+CUR_DIR = Path(os.path.dirname(os.path.realpath(__file__)))
+ASSETS_PATH = "../kunming-invitational-assets"
+
 ENABLE_FROZEN = os.getenv("ENABLE_FROZEN", "true").lower() == "true"
 SECRET_TOKEN = os.getenv("SECRET_TOKEN", "")
-
-log = logger.init_logger()
 
 
 def get_basic_contest():
@@ -20,6 +24,9 @@ def get_basic_contest():
         constants.TEAM_TYPE_GIRL: constants.TEAM_TYPE_ZH_CH_GIRL,
     }
     c.logo = Image(preset="ICPC")
+    c.banner = Image(
+        url="{}/banner.min.png".format(ASSETS_PATH))
+
     return c
 
 
@@ -95,8 +102,22 @@ def handle_runs(c: Contest, runs: Submissions, teams: Teams):
         del runs[run_id]
 
 
+def copy_assets(data_dir: Path):
+    try:
+        assets_path = CUR_DIR / "assets"
+        target_path = data_dir / ASSETS_PATH
+        if assets_path.exists() and assets_path.is_dir():
+            if target_path.exists() and target_path.is_dir():
+                shutil.rmtree(target_path)
+            shutil.copytree(assets_path, target_path)
+    except Exception as e:
+        log.error("copy assets failed. ", e)
+
+
 def work(data_dir: Path, c: Contest, fetch_uri: str):
     utils.save_to_disk(data_dir, c, Teams(), Submissions(), True)
+
+    copy_assets(data_dir)
 
     if len(SECRET_TOKEN) > 0:
         utils.save_to_disk(data_dir / SECRET_TOKEN,
