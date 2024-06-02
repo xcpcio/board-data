@@ -33,10 +33,13 @@ def handle_teams(teams: Teams):
 
         t.name = t.name.lstrip("⭐")
 
-        if "participants" in d_team["group_ids"]:
+        if "3" in d_team["group_ids"]:
             t.official = True
-        elif "observers" in d_team["group_ids"]:
+        elif "4" in d_team["group_ids"]:
             t.unofficial = True
+        elif "6" in d_team["group_ids"]:
+            t.official = True
+            t.girl = True
         else:
             filter_team_ids.append(t.team_id)
             continue
