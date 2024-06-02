@@ -7,6 +7,7 @@ import common
 
 DATA_DIR = os.getenv(
     "DATA_DIR", "../../../../data/provincial-contest/2024/hebei")
+FETCH_URI = os.getenv("FETCH_URI", "")
 
 
 def get_contest():
@@ -24,7 +25,7 @@ def get_contest():
 def main():
     c = get_contest()
     data_dir = Path(DATA_DIR)
-    common.work(data_dir, c)
+    common.work(data_dir, FETCH_URI, c)
 
 
 if __name__ == "__main__":
