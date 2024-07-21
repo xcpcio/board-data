@@ -92,9 +92,10 @@ def parse_submissions(html: str) -> Submissions:
 
         for i in range(4, 17):
             tds = tr.select('td')
-            if len(tds) <= i:
+            try:
+                td = tr.select('td')[i]
+            except:
                 continue
-            td = tr.select('td')[i]
 
             _submission = copy.deepcopy(submission)
             _submission.problem_id = i - 4
