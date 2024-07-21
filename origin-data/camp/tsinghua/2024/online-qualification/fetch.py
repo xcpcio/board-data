@@ -49,7 +49,7 @@ def fetch(uri: str) -> str:
         'upgrade-insecure-requests': '1',
         'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36'
     }
-    resp = requests.get(uri, headers=headers, timeout=10, verify=False)
+    resp = requests.get(uri, headers=headers, timeout=20, verify=False)
     if resp.status_code != 200:
         raise RuntimeError(
             f"fetch failed. [status_code={resp.status_code}]")
@@ -169,9 +169,15 @@ def work(c: Contest, data_dir: str, fetch_uri: str):
     while True:
         log.info("loop start")
         try:
-            resp = fetch(fetch_uri)
-            teams = parse_teams(resp)
-            submissions = parse_submissions(resp)
+            teams = Teams()
+            submissions = Submissions()
+            for i in range(1, 3):
+                uri = f"{fetch_uri}/groupmates/true/page/{i}"
+                resp = fetch(fetch_uri)
+                _teams = parse_teams(resp)
+                _submissions = parse_submissions(resp)
+                teams.update(_teams)
+                submissions.extend(_submissions)
             write_to_disk(data_dir, c, teams, submissions)
             log.info("work successfully")
         except Exception as e:
