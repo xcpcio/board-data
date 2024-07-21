@@ -171,7 +171,7 @@ def work(c: Contest, data_dir: str, fetch_uri: str):
         try:
             teams = Teams()
             submissions = Submissions()
-            for i in range(1, 4):
+            for i in range(1, 5):
                 uri = f"{fetch_uri}/groupmates/true/page/{i}"
                 resp = fetch(uri)
                 _teams = parse_teams(resp)
