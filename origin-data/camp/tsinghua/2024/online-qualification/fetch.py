@@ -183,7 +183,7 @@ def work(c: Contest, data_dir: str, fetch_uri: str):
 if __name__ == "__main__":
     c = get_basic_contest()
     c.contest_name = "Tsinghua Bootcamp 2024. Qualification Round"
-    c.problem_quantity = 13
+    c.problem_quantity = 12
     c.start_time = utils.get_timestamp_second("2024-07-21 13:00:00")
     c.end_time = utils.get_timestamp_second("2024-07-21 18:00:00")
     c.fill_problem_id().fill_balloon_color()
