@@ -91,6 +91,9 @@ def parse_submissions(html: str) -> Submissions:
         submission.team_id = team_id
 
         for i in range(4, 17):
+            tds = tr.select('td')
+            if len(tds) <= i:
+                continue
             td = tr.select('td')[i]
 
             _submission = copy.deepcopy(submission)
