@@ -56,6 +56,13 @@ def fetch(uri: str) -> str:
     return resp.text
 
 
+def parse_pagination(html: str) -> int:
+    soup = bs4.BeautifulSoup(html, 'html5lib')
+    pagination_div = soup.select('.custom-links-pagination')[0]
+    children = pagination_div.find_all(recursive=False)
+    return len(children)
+
+
 def parse_teams(html: str) -> Teams:
     teams = Teams()
     soup = bs4.BeautifulSoup(html, 'html5lib')
@@ -171,13 +178,18 @@ def work(c: Contest, data_dir: str, fetch_uri: str):
         try:
             teams = Teams()
             submissions = Submissions()
-            for i in range(1, 5):
-                uri = f"{fetch_uri}/groupmates/true/page/{i}"
+            page = 1
+            cur_index = 1
+            while cur_index <= page:
+                uri = f"{fetch_uri}/groupmates/true/page/{cur_index}"
                 resp = fetch(uri)
+                page = parse_pagination(resp)
+                log.info(f"fetch page {cur_index}/{page}")
                 _teams = parse_teams(resp)
                 _submissions = parse_submissions(resp)
                 teams.update(_teams)
                 submissions.extend(_submissions)
+                cur_index += 1
             write_to_disk(data_dir, c, teams, submissions)
             log.info("work successfully")
         except Exception as e:
