@@ -177,7 +177,7 @@ def work(c: Contest, data_dir: str, fetch_uri: str):
         except Exception as e:
             log.error("work failed. ", e)
         log.info("sleeping...")
-        time.sleep(5)
+        time.sleep(10)
 
 
 if __name__ == "__main__":
