@@ -109,7 +109,12 @@ def parse_teams_and_submissions(html: str, c: Contest, team_id_set: typing.Set[s
 
         team = Team()
         team.team_id = team_id
-        team.name = name
+        name = name.rstrip(')')
+        name = name.split(' (')
+        team_name = name[0]
+        members = name[1].split(', ')
+        team.name = team_name
+        team.members = members
         team.official = True
         teams[team_id] = team
 
