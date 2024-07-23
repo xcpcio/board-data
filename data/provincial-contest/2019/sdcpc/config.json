@@ -1,0 +1,33 @@
+{
+    "contest_name":"The 10th Shandong Provincial Collegiate Programming Contest",
+    "start_time":1556769600,
+    "end_time":1556787600,
+    "frozen_time":3600,
+    "problem_id":[
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "L",
+        "M"
+    ],
+    "group":{
+        "official":"正式队伍",
+        "unofficial":"打星队伍",
+        "girl":"女队"
+    },
+    "organization":"School",
+    "status_time_display":{
+        "correct":1,
+        "incorrect":1,
+        "pending":1
+    },
+    "penalty":1200
+}
