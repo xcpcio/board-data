@@ -4,6 +4,7 @@ from pathlib import Path
 import requests
 import bs4
 import copy
+import typing
 
 from xcpcio_board_spider import logger, Contest, constants, logo, utils, Team, Teams, Submissions, Submission
 from xcpcio_board_spider.type import Image
@@ -12,10 +13,14 @@ log = logger.init_logger()
 
 CUR_DIR = os.path.dirname(os.path.realpath(__file__))
 DATA_DIR = os.getenv(
-    "DATA_DIR", "../../../../../data/camp/tsinghua/2024/online-qualification")
+    "DATA_DIR", "../../../../../data/camp/tsinghua/2024/qualification-round")
 FETCH_URI = os.getenv(
     "FETCH_URI", "")
 COOKIE = os.getenv("COOKIE", "")
+
+K_FILTER_TEAM_NAMES = [
+    "Observer"
+]
 
 
 def get_basic_contest():
@@ -29,6 +34,9 @@ def get_basic_contest():
         constants.TEAM_TYPE_UNOFFICIAL: constants.TEAM_TYPE_ZH_CH_UNOFFICIAL,
     }
     c.organization = None
+    c.status_time_display = {
+        constants.RESULT_CORRECT.lower(): True,
+    }
 
     return c
 
@@ -56,15 +64,28 @@ def fetch(uri: str) -> str:
     return resp.text
 
 
+def parse_problem_quantity(html: str) -> int:
+    soup = bs4.BeautifulSoup(html, 'html5lib')
+    tbody = soup.select('tbody')[0]
+    tr = tbody.select('tr')[0]
+    ths = tbody.select('th')
+    return len(ths) - 4
+
+
 def parse_pagination(html: str) -> int:
     soup = bs4.BeautifulSoup(html, 'html5lib')
-    pagination_div = soup.select('.custom-links-pagination')[0]
+    pagination_divs = soup.select('.custom-links-pagination')
+    if len(pagination_divs) == 0:
+        return 1
+    pagination_div = pagination_divs[0]
     children = pagination_div.find_all(recursive=False)
     return len(children)
 
 
-def parse_teams(html: str) -> Teams:
+def parse_teams_and_submissions(html: str, c: Contest, team_id_set: typing.Set[str]) -> typing.Tuple[Teams, Submissions]:
     teams = Teams()
+    submissions = Submissions()
+
     soup = bs4.BeautifulSoup(html, 'html5lib')
     tbody = soup.select('tbody')[0]
     trs = tbody.select('tr')
@@ -73,36 +94,30 @@ def parse_teams(html: str) -> Teams:
             team_id = tr['participantid']
         else:
             continue
-        name = tr.select('td')[1].text.strip('\n ')
+        if team_id in team_id_set:
+            continue
+        team_id_set.add(team_id)
+
+        tds = tr.select('td')
+        rank = tds[0].text.strip(' \n1234567890')
+        if len(rank) > 0:
+            continue
+
+        name = tds[1].text.strip('\n ')
+        if name in K_FILTER_TEAM_NAMES:
+            continue
+
         team = Team()
         team.team_id = team_id
         team.name = name
         team.official = True
         teams[team_id] = team
-    return teams
-
-
-def parse_submissions(html: str) -> Submissions:
-    soup = bs4.BeautifulSoup(html, 'html5lib')
-    tbody = soup.select('tbody')[0]
-    trs = tbody.select('tr')
-    submissions = Submissions()
-
-    for tr in trs:
-        if tr.has_attr('participantid'):
-            team_id = tr['participantid']
-        else:
-            continue
 
         submission = Submission()
         submission.team_id = team_id
-
-        for i in range(4, 17):
+        for i in range(4, c.problem_quantity + 4):
             tds = tr.select('td')
-            try:
-                td = tr.select('td')[i]
-            except:
-                continue
+            td = tr.select('td')[i]
 
             _submission = copy.deepcopy(submission)
             _submission.problem_id = i - 4
@@ -148,7 +163,8 @@ def parse_submissions(html: str) -> Submissions:
                 ___submission = copy.deepcopy(__submission)
                 ___submission.status = constants.RESULT_CORRECT
                 submissions.append(___submission)
-    return submissions
+
+    return teams, submissions
 
 
 def write_to_disk(data_dir: str, c: Contest, teams: Teams, runs: Submissions, if_not_exists=False):
@@ -178,15 +194,17 @@ def work(c: Contest, data_dir: str, fetch_uri: str):
         try:
             teams = Teams()
             submissions = Submissions()
+            team_id_set = set()
             page = 1
             cur_index = 1
             while cur_index <= page:
                 uri = f"{fetch_uri}/groupmates/true/page/{cur_index}"
                 resp = fetch(uri)
+                c.problem_quantity = parse_problem_quantity(resp)
                 page = parse_pagination(resp)
                 log.info(f"fetch page {cur_index}/{page}")
-                _teams = parse_teams(resp)
-                _submissions = parse_submissions(resp)
+                _teams, _submissions = parse_teams_and_submissions(
+                    resp, c, team_id_set)
                 teams.update(_teams)
                 submissions.extend(_submissions)
                 cur_index += 1
@@ -203,6 +221,6 @@ if __name__ == "__main__":
     c.contest_name = "Tsinghua Bootcamp 2024. Qualification Round"
     c.problem_quantity = 12
     c.start_time = utils.get_timestamp_second("2024-07-21 13:00:00")
-    c.end_time = utils.get_timestamp_second("2024-07-21 18:00:00")
+    c.end_time = utils.get_timestamp_second("2024-07-21 18:15:00")
     c.fill_problem_id().fill_balloon_color()
     work(c, DATA_DIR, FETCH_URI)
