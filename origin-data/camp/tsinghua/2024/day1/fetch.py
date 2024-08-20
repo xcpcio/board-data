@@ -205,8 +205,10 @@ def work(c: Contest, data_dir: str, fetch_uri: str):
             while cur_index <= page:
                 uri = f"{fetch_uri}/groupmates/true/page/{cur_index}"
                 resp = fetch(uri)
-                c.problem_quantity = parse_problem_quantity(resp)
-                c.fill_problem_id().fill_balloon_color()
+                problem_quantity = parse_problem_quantity(resp)
+                if problem_quantity > 0:
+                    c.problem_quantity = problem_quantity
+                    c.fill_problem_id().fill_balloon_color()
                 page = parse_pagination(resp)
                 log.info(f"fetch page {cur_index}/{page}")
                 _teams, _submissions = parse_teams_and_submissions(
