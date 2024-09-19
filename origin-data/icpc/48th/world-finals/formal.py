@@ -15,8 +15,8 @@ def get_contest():
 
     c.contest_name = "The 48th ICPC World Finals"
     c.problem_quantity = 13
-    c.start_time = utils.get_timestamp_second("2024-09-19 14:00:00")
-    c.end_time = utils.get_timestamp_second("2024-09-19 19:00:00")
+    c.start_time = utils.get_timestamp_second("2024-09-19 13:55:00")
+    c.end_time = utils.get_timestamp_second("2024-09-19 18:55:00")
     c.group = {}
 
     c.medal = {
