@@ -14,8 +14,8 @@ def get_contest():
     c = common.get_basic_contest()
     c.contest_name = "The 49th ICPC Asia Regionals Online Contest (II)"
     c.problem_quantity = 13
-    c.start_time = utils.get_timestamp_second("2024-09-15 13:00:00")
-    c.end_time = utils.get_timestamp_second("2024-09-15 18:00:00")
+    c.start_time = utils.get_timestamp_second("2024-09-21 13:00:00")
+    c.end_time = utils.get_timestamp_second("2024-09-21 18:00:00")
     c.fill_problem_id().fill_balloon_color()
     return c
 
