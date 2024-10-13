@@ -25,15 +25,6 @@ def handle_teams(teams: Teams):
             team_ids.append(team.team_id)
             continue
 
-        if team.official == True:
-            team.official = 1
-
-        if team.unofficial == True:
-            team.unofficial = 1
-
-        if team.girl == True:
-            team.girl = 1
-
     for team_id in team_ids:
         del teams[team_id]
 
