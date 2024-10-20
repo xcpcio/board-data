@@ -9,7 +9,7 @@ DATA_DIR = os.getenv(
 
 
 FETCH_URI = os.getenv(
-    "FETCH_URI", "https://cpc.csgrandeur.cn/rank/rank.html?cid=154c5f2e-e3c4-4090-80a3-29ff0b7c348b")
+    "FETCH_URI", "https://cpc.csgrandeur.cn/rank/contests/154c5f2e-e3c4-4090-80a3-29ff0b7c348b")
 
 
 def get_contest():
