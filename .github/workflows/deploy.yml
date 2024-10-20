@@ -57,7 +57,7 @@ jobs:
             -r xcpcio/board-data \
             -d /var/docker-data/nginx/www/xcpcio \
             -b gh-pages \
-            -p github.dup4.com \
+            -p gh-proxy.com/https://github.com \
 
       - name: Deploy I18n
         if: ${{ github.event_name != 'pull_request' }}
