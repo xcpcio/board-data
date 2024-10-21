@@ -19,6 +19,7 @@ def get_contest():
     c.problem_quantity = 13
     c.start_time = utils.get_timestamp_second("2024-10-20 09:20:00")
     c.end_time = utils.get_timestamp_second("2024-10-20 14:20:00")
+    c.medal = "ccpc"
 
     c.fill_problem_id().fill_balloon_color()
 
