@@ -18,8 +18,6 @@ def get_contest():
     c.problem_quantity = 4
     c.start_time = utils.get_timestamp_second("2024-10-26 14:20:00")
     c.end_time = utils.get_timestamp_second("2024-10-26 16:20:00")
-    c.frozen_time = 30 * 60
-    c.unfrozen_time = 60 * 60
 
     c.fill_problem_id().fill_balloon_color()
 

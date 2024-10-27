@@ -5,7 +5,7 @@ from xcpcio_board_spider import utils
 import common
 
 DATA_DIR = os.getenv(
-    "DATA_DIR", "../../../../data/icpc/48th/ecfinal")
+    "DATA_DIR", "../../../../data/icpc/49th/chengdu")
 
 FETCH_URI = os.getenv(
     "FETCH_URI", "")
@@ -14,11 +14,10 @@ FETCH_URI = os.getenv(
 def get_contest():
     c = common.get_basic_contest()
 
-    c.contest_name = "The 2023 ICPC Asia East Continent Final Contest"
+    c.contest_name = "第 49 届 ICPC 国际大学生程序设计竞赛区域赛成都站 - 正式赛"
     c.problem_quantity = 13
-    c.start_time = utils.get_timestamp_second("2024-01-13 11:00:00")
-    c.end_time = utils.get_timestamp_second("2024-01-13 16:00:00")
-    c.banner_mode = "ONLY_BANNER"
+    c.start_time = utils.get_timestamp_second("2024-10-27 09:00:00")
+    c.end_time = utils.get_timestamp_second("2024-10-27 14:00:00")
 
     c.fill_problem_id().fill_balloon_color()
 
