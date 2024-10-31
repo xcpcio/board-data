@@ -1,4 +1,5 @@
 import os
+from pathlib import Path
 
 from xcpcio_board_spider import utils
 
@@ -26,7 +27,7 @@ def get_contest():
 
 def main():
     c = get_contest()
-    common.work(DATA_DIR, c, FETCH_URI)
+    common.work(Path(DATA_DIR), c, FETCH_URI)
 
 
 if __name__ == "__main__":

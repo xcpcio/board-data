@@ -1,12 +1,12 @@
 import os
 import time
-import shutil
+from pathlib import Path
 
 from xcpcio_board_spider import logger, Contest, Teams, Submissions, constants, utils
 from xcpcio_board_spider.type import Image
 from xcpcio_board_spider.spider.domjudge.v3.domjudge import DOMjudge
 
-CUR_DIR = os.path.dirname(os.path.realpath(__file__))
+CUR_DIR = Path(__file__).parent
 
 ENABLE_FROZEN = os.getenv("ENABLE_FROZEN", "true").lower() == "true"
 SECRET_TOKEN = os.getenv("SECRET_TOKEN", "")
@@ -87,25 +87,29 @@ def handle_runs(c: Contest, runs: Submissions):
                 run.status = constants.RESULT_FROZEN
 
 
-def write_to_disk(data_dir: str, c: Contest, teams: Teams, runs: Submissions, if_not_exists=False):
+def write_to_disk(data_dir: Path, c: Contest, teams: Teams, runs: Submissions, if_not_exists=False):
     log.info("write to disk. [data_dir: {}]".format(data_dir))
-
-    utils.ensure_makedirs(data_dir)
-
-    utils.output(os.path.join(data_dir, "config.json"),
-                 c.get_dict)
-    utils.output(os.path.join(data_dir, "team.json"),
-                 teams.get_dict, if_not_exists=if_not_exists)
-    utils.output(os.path.join(data_dir, "run.json"),
-                 runs.get_dict, if_not_exists=if_not_exists)
+    utils.output(data_dir / "config.json", c.get_dict)
+    utils.output(data_dir / "team.json", teams.get_dict,
+                 if_not_exists=if_not_exists)
+    utils.output(data_dir / "run.json", runs.get_dict,
+                 if_not_exists=if_not_exists)
 
 
-def work(data_dir: str, c: Contest, fetch_uri: str):
-    utils.ensure_makedirs(data_dir)
+def work(data_dir: Path, c: Contest, fetch_uri: str):
+    if not data_dir.exists():
+        data_dir.mkdir(parents=True)
+
     write_to_disk(data_dir, c, Teams(), Submissions(), True)
 
+    secret_data_dir = None
     if len(SECRET_TOKEN) > 0:
-        write_to_disk(data_dir + SECRET_TOKEN, c, Teams(), Submissions(), True)
+        secret_data_dir = data_dir.parent / (data_dir.name + SECRET_TOKEN)
+        if not secret_data_dir.exists():
+            secret_data_dir.mkdir(parents=True)
+
+    if secret_data_dir is not None:
+        write_to_disk(secret_data_dir, c, Teams(), Submissions(), True)
 
     if len(fetch_uri) == 0:
         return
@@ -120,8 +124,8 @@ def work(data_dir: str, c: Contest, fetch_uri: str):
 
             handle_teams(d.teams)
 
-            if len(SECRET_TOKEN) > 0:
-                write_to_disk(data_dir + SECRET_TOKEN, c, d.teams, d.runs)
+            if secret_data_dir is not None:
+                write_to_disk(secret_data_dir, c, d.teams, d.runs)
 
             handle_runs(c, d.runs)
             write_to_disk(data_dir, c, d.teams, d.runs)
