@@ -72,3 +72,4 @@ jobs:
             -r xcpcio/board-data \
             -d /var/docker-data/nginx/www/xcpcio \
             -b gh-pages
+            -p https://github.com
