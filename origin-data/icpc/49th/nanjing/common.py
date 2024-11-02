@@ -91,6 +91,9 @@ def handle_runs(c: Contest, runs: Submissions):
 
 
 def write_to_disk(data_dir: Path, c: Contest, teams: Teams, runs: Submissions, if_not_exists=False):
+    if not data_dir.exists():
+        data_dir.mkdir(parents=True)
+
     log.info("write to disk. [data_dir: {}]".format(data_dir))
     utils.output(data_dir / "config.json", c.get_dict)
     utils.output(data_dir / "team.json", teams.get_dict,
@@ -115,8 +118,6 @@ def copy_assets(data_dir: Path):
 
 
 def work(data_dir: Path, c: Contest, fetch_uri: str):
-    if not data_dir.exists():
-        data_dir.mkdir(parents=True)
     write_to_disk(data_dir, c, Teams(), Submissions(), True)
     copy_assets(data_dir)
 
