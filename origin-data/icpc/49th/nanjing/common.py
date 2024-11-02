@@ -8,7 +8,7 @@ from xcpcio_board_spider.type import Image
 from xcpcio_board_spider.spider.domjudge.v3.domjudge import DOMjudge
 
 CUR_DIR = Path(__file__).parent
-ASSETS_PATH = "../nanjing-assets"
+ASSETS_PATH = "assets"
 
 ENABLE_FROZEN = os.getenv("ENABLE_FROZEN", "true").lower() == "true"
 SECRET_TOKEN = os.getenv("SECRET_TOKEN", "")
@@ -19,8 +19,7 @@ log = logger.init_logger()
 def get_basic_contest():
     c = Contest()
     c.logo = Image(preset="ICPC")
-    c.banner = Image(
-        url="{}/banner.png".format(ASSETS_PATH))
+    c.banner = Image(url=f"{ASSETS_PATH}/banner.png")
     return c
 
 
