@@ -64,12 +64,12 @@ jobs:
         uses: appleboy/ssh-action@master
         with:
           host: ${{ secrets.SSH_HOST_I18N }}
-          username: root
           key: ${{ secrets.SSH_PRIVATE_KEY }}
+          username: root
           port: 22
           script: |
             bash <(curl -s -L https://raw.github.com/Dup4/bash-script-snippet/${{ env.deploy_script_version }}/deploy_gh_pages.sh) \
             -r xcpcio/board-data \
             -d /var/docker-data/nginx/www/xcpcio \
-            -b gh-pages
+            -b gh-pages \
             -p https://github.com
