@@ -1,12 +1,14 @@
 import os
 import time
 from pathlib import Path
+import shutil
 
 from xcpcio_board_spider import logger, Contest, Teams, Submissions, constants, utils
 from xcpcio_board_spider.type import Image
 from xcpcio_board_spider.spider.domjudge.v3.domjudge import DOMjudge
 
 CUR_DIR = Path(__file__).parent
+ASSETS_PATH = "../nanjing-assets"
 
 ENABLE_FROZEN = os.getenv("ENABLE_FROZEN", "true").lower() == "true"
 SECRET_TOKEN = os.getenv("SECRET_TOKEN", "")
@@ -17,7 +19,8 @@ log = logger.init_logger()
 def get_basic_contest():
     c = Contest()
     c.logo = Image(preset="ICPC")
-
+    c.banner = Image(
+        url="{}/banner.png".format(ASSETS_PATH))
     return c
 
 
@@ -96,11 +99,26 @@ def write_to_disk(data_dir: Path, c: Contest, teams: Teams, runs: Submissions, i
                  if_not_exists=if_not_exists)
 
 
+def copy_assets(data_dir: Path):
+    try:
+        assets_path = CUR_DIR / "assets"
+        target_path = data_dir / ASSETS_PATH
+        if not assets_path.exists() or not assets_path.is_dir():
+            raise Exception(
+                "assets path not exists. [path: {}]".format(assets_path))
+
+        if target_path.exists() and target_path.is_dir():
+            shutil.rmtree(target_path)
+        shutil.copytree(assets_path, target_path)
+    except Exception as e:
+        log.error("copy assets failed. ", e)
+
+
 def work(data_dir: Path, c: Contest, fetch_uri: str):
     if not data_dir.exists():
         data_dir.mkdir(parents=True)
-
     write_to_disk(data_dir, c, Teams(), Submissions(), True)
+    copy_assets(data_dir)
 
     secret_data_dir = None
     if len(SECRET_TOKEN) > 0:
