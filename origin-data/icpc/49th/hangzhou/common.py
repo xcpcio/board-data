@@ -39,12 +39,10 @@ def handle_teams(teams: Teams):
 
         if "public_description" in d_team.keys() and d_team["public_description"] is not None:
             description = d_team["public_description"]
-
-            members = description.split(", ")
-            team.members = members[:3]
-            if len(members) > 3:
-                team.coach = members[3]
-                team.coach = team.coach.replace("(教练)", "")
+            members = description.split("|")
+            team.members = members[0].split(",")
+            if len(members) > 1:
+                team.coach = members[1]
 
         if team.name.startswith("⭐"):
             team.name = team.name.replace("⭐", "")
