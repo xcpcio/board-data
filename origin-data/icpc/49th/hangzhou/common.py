@@ -47,6 +47,9 @@ def handle_teams(teams: Teams):
         if team.name.startswith("⭐"):
             team.name = team.name.replace("⭐", "")
 
+        if team.name.startswith("🌟"):
+            team.name = team.name.replace("🌟", "")
+
     for team_id in filter_team_ids:
         del teams[team_id]
 
