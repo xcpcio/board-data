@@ -19,7 +19,7 @@ log = logger.init_logger()
 def get_basic_contest():
     c = Contest()
     c.logo = Image(preset="ICPC")
-    # c.banner = Image(url=f"{ASSETS_PATH}/banner.png")
+    c.banner = Image(url=f"{ASSETS_PATH}/banner.png")
     return c
 
 
@@ -119,7 +119,7 @@ def copy_assets(data_dir: Path):
 
 def work(data_dir: Path, c: Contest, fetch_uri: str):
     write_to_disk(data_dir, c, Teams(), Submissions(), True)
-    # copy_assets(data_dir)
+    copy_assets(data_dir)
 
     secret_data_dir = None
     if len(SECRET_TOKEN) > 0:
