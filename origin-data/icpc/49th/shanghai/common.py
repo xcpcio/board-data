@@ -40,7 +40,7 @@ def handle_teams(teams: Teams):
         if "public_description" in d_team.keys() and d_team["public_description"] is not None:
             description = d_team["public_description"]
 
-            members = description.split(", ")
+            members = description.split(",")
             team.members = members[:3]
             if len(members) > 3:
                 team.coach = members[3]
