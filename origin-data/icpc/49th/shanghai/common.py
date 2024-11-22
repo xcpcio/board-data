@@ -2,9 +2,11 @@ import os
 import time
 from pathlib import Path
 import shutil
+from typing import Optional, Dict
+import json
 
 from xcpcio_board_spider import logger, Contest, Teams, Submissions, constants, utils
-from xcpcio_board_spider.type import Image
+from xcpcio_board_spider.type import Image, Reaction
 from xcpcio_board_spider.spider.domjudge.v3.domjudge import DOMjudge
 
 CUR_DIR = Path(__file__).parent
@@ -12,6 +14,7 @@ ASSETS_PATH = "assets"
 
 ENABLE_FROZEN = os.getenv("ENABLE_FROZEN", "true").lower() == "true"
 SECRET_TOKEN = os.getenv("SECRET_TOKEN", "")
+LIVE_V3_RUNS: Optional[str] = os.getenv("LIVE_V3_RUNS", None)
 
 log = logger.init_logger()
 
@@ -70,13 +73,21 @@ def is_frozen(c: Contest):
     return False
 
 
-def handle_runs(c: Contest, runs: Submissions):
+def handle_runs(c: Contest, runs: Submissions, live_v3_runs: Optional[Dict] = None):
     t = utils.get_timestamp_second(
         c.end_time) - utils.get_timestamp_second(c.start_time) - c.frozen_time
     t = t * 1000
 
     for run in runs:
         run.time = None
+
+        if run.submission_id is not None:
+            s_id = run.submission_id
+            if s_id in live_v3_runs.keys():
+                live_v3_run = live_v3_runs[s_id]
+                if "reactionUploaded" in live_v3_run.keys() and live_v3_run["reactionUploaded"] == True:
+                    run.reaction = Reaction(
+                        url=f"https://d1x79igug69x01.cloudfront.net/reactions/ae/2024/shanghai/reaction-{s_id}.mp4")
 
         if is_frozen(c):
             if run.status == constants.RESULT_ACCEPTED:
@@ -135,6 +146,15 @@ def work(data_dir: Path, c: Contest, fetch_uri: str):
     if len(fetch_uri) == 0:
         return
 
+    live_v3_runs: Optional[Dict] = None
+    if LIVE_V3_RUNS is not None:
+        c.options.submission_has_reaction = True
+        live_v3_runs = dict()
+        with open(LIVE_V3_RUNS, "r") as f:
+            data = json.loads(f.read())
+            for item in data:
+                live_v3_runs[item["id"]] = item
+
     d = DOMjudge(c, fetch_uri)
 
     while True:
@@ -148,7 +168,7 @@ def work(data_dir: Path, c: Contest, fetch_uri: str):
             if secret_data_dir is not None:
                 write_to_disk(secret_data_dir, c, d.teams, d.runs)
 
-            handle_runs(c, d.runs)
+            handle_runs(c, d.runs, live_v3_runs)
             write_to_disk(data_dir, c, d.teams, d.runs)
 
             log.info("work successfully")
