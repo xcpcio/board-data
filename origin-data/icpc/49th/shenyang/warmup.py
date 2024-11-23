@@ -17,8 +17,8 @@ def get_contest():
 
     c.contest_name = "第 49 届 ICPC 国际大学生程序设计竞赛区域赛沈阳站 - 热身赛"
     c.problem_quantity = 4
-    c.start_time = utils.get_timestamp_second("2024-11-23 15:00:00")
-    c.end_time = utils.get_timestamp_second("2024-11-23 17:00:00")
+    c.start_time = utils.get_timestamp_second("2024-11-23 14:30:00")
+    c.end_time = utils.get_timestamp_second("2024-11-23 16:30:00")
 
     c.fill_problem_id().fill_balloon_color()
 
