@@ -22,6 +22,11 @@ log = logger.init_logger()
 def get_basic_contest():
     c = Contest()
     c.logo = Image(preset="ICPC")
+    c.group = {
+        constants.TEAM_TYPE_OFFICIAL: constants.TEAM_TYPE_ZH_CN_OFFICIAL,
+        constants.TEAM_TYPE_UNOFFICIAL: constants.TEAM_TYPE_ZH_CN_UNOFFICIAL,
+        constants.TEAM_TYPE_GIRL: constants.TEAM_TYPE_ZH_CN_GIRL,
+    }
     # c.banner = Image(url=f"{ASSETS_PATH}/banner.png")
     return c
 
@@ -36,6 +41,9 @@ def handle_teams(teams: Teams):
             team.official = True
         elif "6" in d_team["group_ids"]:
             team.unofficial = True
+        elif "Girls" in d_team["group_ids"]:
+            team.official = True
+            team.girl = True
         else:
             filter_team_ids.append(team.team_id)
             continue
