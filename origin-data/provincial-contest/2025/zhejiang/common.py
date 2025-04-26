@@ -59,12 +59,12 @@ def handle_teams(teams: Teams):
                 t.coach = blocks[1]
 
         if "observers" in d_team["group_ids"]:
-            t.unofficial = 1
+            t.unofficial = True
         elif "undergraduate" in d_team["group_ids"]:
-            t.official = 1
+            t.official = True
             t.extra["undergraduate"] = True
         elif "vocational" in d_team["group_ids"]:
-            t.official = 1
+            t.official = True
             t.extra["vocational"] = True
 
     for t_id in filter_team_id:
