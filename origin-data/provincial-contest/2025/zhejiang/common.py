@@ -32,7 +32,7 @@ def get_basic_contest():
 
     c.logo = Image(preset="ICPC")
     c.banner = Image(
-        url="{}/banner.min.png".format(ASSETS_PATH))
+        url="{}/banner.min.jpg".format(ASSETS_PATH))
 
     return c
 
