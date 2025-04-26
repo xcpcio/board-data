@@ -29,9 +29,9 @@ def handle_teams(teams: Teams):
     for team in teams.values():
         d_team = team.extra[DOMjudge.CONSTANT_EXTRA_DOMJUDGE_TEAM]
 
-        if "participants" in d_team["group_ids"]:
+        if "201" in d_team["group_ids"]:
             team.official = True
-        elif "observers" in d_team["group_ids"]:
+        elif "202" in d_team["group_ids"]:
             team.unofficial = True
         else:
             filter_team_ids.append(team.team_id)
