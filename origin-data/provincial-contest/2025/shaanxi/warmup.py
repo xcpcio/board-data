@@ -12,7 +12,7 @@ FETCH_URI = os.getenv(
 def get_contest():
     c = common.get_basic_contest()
 
-    c.contest_name = "2025 Shaanxi Provincial Collegiate Programming Contest (Warm up)"
+    c.contest_name = "第十二届陕西省国际大学生程序设计竞赛 - 热身赛"
     c.problem_quantity = 3
     c.start_time = utils.get_timestamp_second("2025-05-10 10:01:52")
     c.end_time = utils.get_timestamp_second("2025-05-10 11:10:00")
