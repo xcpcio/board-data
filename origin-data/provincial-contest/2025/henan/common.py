@@ -2,7 +2,15 @@ import os
 import shutil
 import time
 
-from xcpcio_board_spider import Contest, Submissions, Teams, constants, logger, utils
+from xcpcio_board_spider import (
+    Contest,
+    Image,
+    Submissions,
+    Teams,
+    constants,
+    logger,
+    utils,
+)
 from xcpcio_board_spider.spider.domjudge.v3.domjudge import DOMjudge
 
 log = logger.init_logger()
@@ -27,7 +35,7 @@ def get_basic_contest():
         constants.TEAM_TYPE_GIRL: constants.TEAM_TYPE_ZH_CN_GIRL,
     }
 
-    # c.logo = Image(preset="ICPC")
+    c.logo = Image(preset="ICPC")
     # c.banner = Image(
     #     url="{}/banner.min.jpg".format(ASSETS_PATH))
 
