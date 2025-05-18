@@ -23,7 +23,7 @@ def get_basic_contest():
     c.group = {
         "icpc": "ICPC",
         "edu-provincial": "教育厅省赛",
-        "icpc-provincial": "ICPC 省赛",
+        "icpc-provincial": "ICPC省赛",
         constants.TEAM_TYPE_UNOFFICIAL: constants.TEAM_TYPE_ZH_CN_UNOFFICIAL,
     }
 
@@ -41,7 +41,7 @@ def handle_teams(teams: Teams):
             team.unofficial = True
         elif "9" in d_team["group_ids"]:
             team.group.append("edu-provincial")
-        elif "10" in d_team["group_ids"]:
+        elif "11" in d_team["group_ids"]:
             team.group.append("edu-provincial")
             team.group.append("icpc-provincial")
         elif "12" in d_team["group_ids"]:
