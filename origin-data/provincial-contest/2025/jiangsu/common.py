@@ -44,6 +44,7 @@ def handle_teams(teams: Teams):
             t.name = d_team["name"]
 
         t.name = t.name.lstrip("🌟")
+        t.name = t.name.lstrip("⭐")
 
         if d_team["hidden"]:
             filter_team_id.append(t.team_id)
