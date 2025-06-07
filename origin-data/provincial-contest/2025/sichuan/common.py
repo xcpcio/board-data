@@ -61,7 +61,7 @@ def handle_teams(teams: Teams):
             t.girl = True
         elif "colleges" in d_team["group_ids"]:
             t.official = True
-            t.extra["colleges"] = True
+            t.group.append("colleges")
 
     for t_id in filter_team_id:
         del teams[t_id]
@@ -155,15 +155,6 @@ def work(c: Contest, data_dir: str, fetch_uri: str):
             for t in d.teams.values():
                 team_id = t.team_id
                 teams[team_id] = t.get_dict
-
-                if "undergraduate" in t.extra.keys():
-                    teams[team_id]["undergraduate"] = True
-
-                if "vocational" in t.extra.keys():
-                    teams[team_id]["vocational"] = True
-
-                if "girl" in t.extra.keys():
-                    teams[team_id]["girl"] = True
 
             if len(SECRET_TOKEN) > 0:
                 write_to_disk(data_dir + SECRET_TOKEN, c, teams, d.runs)
