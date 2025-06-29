@@ -233,6 +233,6 @@ if __name__ == "__main__":
     c.contest_name = "Tsinghua Bootcamp 2025. Qualification Round"
     c.problem_quantity = 13
     c.start_time = utils.get_timestamp_second("2025-06-29 13:00:00")
-    c.end_time = utils.get_timestamp_second("2025-06-29 18:15:00")
+    c.end_time = utils.get_timestamp_second("2025-06-29 18:00:00")
     c.fill_problem_id().fill_balloon_color()
     work(c, DATA_DIR, FETCH_URI)
