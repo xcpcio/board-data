@@ -240,4 +240,5 @@ if __name__ == "__main__":
     c.start_time = utils.get_timestamp_second("2025-06-29 13:00:00")
     c.end_time = utils.get_timestamp_second("2025-06-29 18:00:00")
     c.fill_problem_id().fill_balloon_color()
+    print(COOKIE)
     work(c, DATA_DIR, FETCH_URI)
