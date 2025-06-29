@@ -31,7 +31,6 @@ K_FILTER_TEAM_NAMES = [
     "Observer"
 ]
 
-
 def get_basic_contest():
     c = Contest()
 
@@ -116,12 +115,16 @@ def parse_teams_and_submissions(html: str, c: Contest, team_id_set: typing.Set[s
         if name in K_FILTER_TEAM_NAMES:
             continue
 
-        team = Team()
-        team.team_id = team_id
         name = name.rstrip(')')
         name = name.split(' (')
         team_name = name[0]
-        members = name[1].split(', ')
+        if len(name) > 1:
+            members = name[1].split(', ')
+        else:
+            members = []
+
+        team = Team()
+        team.team_id = team_id
         team.name = team_name
         team.members = members
         team.official = True
