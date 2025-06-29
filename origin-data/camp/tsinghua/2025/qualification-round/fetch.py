@@ -25,6 +25,8 @@ FETCH_URI = os.getenv(
     "FETCH_URI", "")
 COOKIE = os.getenv("COOKIE", "")
 
+K_USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+
 K_FILTER_TEAM_NAMES = [
     "Observer"
 ]
@@ -62,7 +64,7 @@ def fetch(uri: str) -> str:
         'sec-fetch-site': 'none',
         'sec-fetch-user': '?1',
         'upgrade-insecure-requests': '1',
-        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36'
+        'user-agent': K_USER_AGENT,
     }
     resp = requests.get(uri, headers=headers, timeout=20, verify=False)
     if resp.status_code != 200:
