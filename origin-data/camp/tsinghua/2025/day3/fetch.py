@@ -215,7 +215,7 @@ def work(c: Contest, data_dir: str, fetch_uri: str):
             page = 1
             cur_index = 1
             while cur_index <= page:
-                uri = f"{fetch_uri}/groupmates/true/page/{cur_index}"
+                uri = f"{fetch_uri}/page/{cur_index}"
                 resp = fetch(uri)
                 c.problem_quantity = parse_problem_quantity(resp)
                 page = parse_pagination(resp)
