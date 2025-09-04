@@ -53,7 +53,7 @@ balloon_color = [
     {'background_color': '#fc6d3e', 'color': '#000' },
     {'background_color': '#7c54aa', 'color': '#fff' },
     {'background_color': '#64d6cb', 'color': '#000' },
-    {'background_color': '#ffffff;', 'color': '#000' },
+    {'background_color': '#ffffff', 'color': '#000' },
     {'background_color': '#d5c748', 'color': '#fff' },
     {'background_color': '#e84054', 'color': '#fff' },
     {'background_color': '#ef80a6', 'color': '#fff' },
