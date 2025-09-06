@@ -18,6 +18,9 @@ def get_contest():
     c.end_time = utils.get_timestamp_second("2025-09-04 20:00:00")
     c.banner_mode = "ONLY_BANNER"
 
+    c.options.has_reaction_videos = True
+    c.options.reaction_video_url_template = "https://d1x79igug69x01.cloudfront.net/wf/2025/${submission_id}.mp4"
+
     c.medal = {}
 
     c.fill_problem_id().fill_balloon_color()
