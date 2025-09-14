@@ -1,0 +1,34 @@
+{
+    "contest_name":"第 45 届国际大学生程序设计竞赛（ICPC）亚洲区域赛（昆明）热身赛",
+    "start_time":1617361200,
+    "end_time":1617366600,
+    "problem_id":[
+        "A",
+        "B",
+        "C"
+    ],
+    "group":{
+        "official":"正式队伍",
+        "unofficial":"打星队伍"
+    },
+    "organization":"School",
+    "status_time_display":{
+        "correct":1
+    },
+    "penalty":1200,
+    "frozen_time":0,
+    "balloon_color":[
+        {
+            "background_color":"#bd0e0e",
+            "color":"#fff"
+        },
+        {
+            "background_color":"#ff90e4",
+            "color":"#fff"
+        },
+        {
+            "background_color":"#26b93c",
+            "color":"#fff"
+        }
+    ]
+}
