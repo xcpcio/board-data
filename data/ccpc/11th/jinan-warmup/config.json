@@ -1,0 +1,54 @@
+{
+  "contest_name": "第 11 届 CCPC 中国大学生程序设计竞赛济南站 - 热身赛",
+  "start_time": 1763190600000,
+  "end_time": 1763197800000,
+  "penalty": 1200,
+  "frozen_time": 1800,
+  "problem_id": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "balloon_color": [
+    {
+      "color": "#000",
+      "background_color": "#e73626"
+    },
+    {
+      "color": "#000",
+      "background_color": "#f4c245"
+    },
+    {
+      "color": "#000",
+      "background_color": "#4566e3"
+    },
+    {
+      "color": "#000",
+      "background_color": "#55b07c"
+    }
+  ],
+  "status_time_display": {
+    "correct": true,
+    "incorrect": true,
+    "pending": true
+  },
+  "organization": "School",
+  "medal": {
+    "official": {
+      "gold": 0,
+      "silver": 0,
+      "bronze": 0
+    }
+  },
+  "group": {
+    "official": "正式队伍",
+    "unofficial": "打星队伍"
+  },
+  "logo": {
+    "preset": "CCPC"
+  },
+  "options": {
+    "submission_timestamp_unit": "millisecond"
+  }
+}

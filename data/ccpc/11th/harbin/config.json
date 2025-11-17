@@ -1,0 +1,132 @@
+{
+  "contest_name": "第 11 届 CCPC 中国大学生程序设计竞赛哈尔滨站 - 正式赛",
+  "start_time": 1762650000000,
+  "end_time": 1762668000000,
+  "penalty": 1200,
+  "frozen_time": 3600,
+  "problems": [
+    {
+      "id": "1009",
+      "label": "A",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#00A882"
+      }
+    },
+    {
+      "id": "1013",
+      "label": "B",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#2B9BCE"
+      }
+    },
+    {
+      "id": "1011",
+      "label": "C",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#FFFFFF"
+      }
+    },
+    {
+      "id": "1019",
+      "label": "D",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#EB7400"
+      }
+    },
+    {
+      "id": "1010",
+      "label": "E",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#E9DD00"
+      }
+    },
+    {
+      "id": "1007",
+      "label": "F",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#A90012"
+      }
+    },
+    {
+      "id": "1018",
+      "label": "G",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#0034A8"
+      }
+    },
+    {
+      "id": "1016",
+      "label": "H",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#075A0D"
+      }
+    },
+    {
+      "id": "1008",
+      "label": "I",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#6ECC00"
+      }
+    },
+    {
+      "id": "1017",
+      "label": "J",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#F9478C"
+      }
+    },
+    {
+      "id": "1015",
+      "label": "K",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#58028B"
+      }
+    },
+    {
+      "id": "1014",
+      "label": "L",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#00A810"
+      }
+    },
+    {
+      "id": "1012",
+      "label": "M",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#D38976"
+      }
+    }
+  ],
+  "status_time_display": {
+    "correct": true,
+    "incorrect": true,
+    "pending": true
+  },
+  "organization": "School",
+  "medal": "ccpc",
+  "group": {
+    "official": "正式队伍",
+    "unofficial": "打星队伍",
+    "girl": "女队"
+  },
+  "logo": {
+    "preset": "CCPC"
+  },
+  "options": {
+    "calculation_of_penalty": "accumulate_in_seconds_and_finally_to_the_minute",
+    "submission_timestamp_unit": "millisecond"
+  }
+}
