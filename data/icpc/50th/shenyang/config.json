@@ -1,0 +1,99 @@
+{
+  "contest_name": "「华为杯」第 50 届 ICPC 国际大学生程序设计竞赛区域赛沈阳站",
+  "start_time": 1763254800000,
+  "end_time": 1763272800000,
+  "penalty": 1200,
+  "frozen_time": 3600,
+  "problem_id": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L",
+    "M"
+  ],
+  "balloon_color": [
+    {
+      "color": "#000000",
+      "background_color": "#ff1493"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#c0c0c0"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#006400"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#a52a2a"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#daa520"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#ff8800"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#87ceeb"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#ffff00"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#ffc0cb"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#deb887"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#20b2aa"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#800080"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#0000cd"
+    }
+  ],
+  "status_time_display": {
+    "correct": true,
+    "incorrect": true,
+    "pending": true
+  },
+  "organization": "School",
+  "medal": {
+    "official": {
+      "gold": 40,
+      "silver": 80,
+      "bronze": 120
+    }
+  },
+  "group": {
+    "official": "正式队伍",
+    "unofficial": "打星队伍"
+  },
+  "logo": {
+    "preset": "ICPC"
+  },
+  "options": {
+    "submission_timestamp_unit": "millisecond"
+  }
+}
