@@ -1,0 +1,97 @@
+{
+  "contest_name": "第六届辽宁省大学生程序设计竞赛 - 正式赛",
+  "start_time": 1763168400000,
+  "end_time": 1763186400000,
+  "penalty": 1200,
+  "frozen_time": 3600,
+  "problem_id": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L",
+    "M"
+  ],
+  "balloon_color": [
+    {
+      "color": "#000000",
+      "background_color": "#c0c0c0"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#0000ff"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#39c5bb"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#deb887"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#006400"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#8a2be2"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#ffff00"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#a52a2a"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#ffd700"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#ffb6c1"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#ffa500"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#db7093"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#00ffff"
+    }
+  ],
+  "status_time_display": {
+    "correct": true,
+    "incorrect": true,
+    "pending": true
+  },
+  "organization": "School",
+  "medal": {
+    "official": {
+      "gold": 15,
+      "silver": 29,
+      "bronze": 43
+    }
+  },
+  "group": {
+    "official": "省内队伍",
+    "guest": "省外队伍",
+    "unofficial": "打星队伍"
+  },
+  "options": {
+    "submission_timestamp_unit": "millisecond"
+  }
+}
