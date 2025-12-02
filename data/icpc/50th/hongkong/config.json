@@ -1,0 +1,94 @@
+{
+  "contest_name": "The 50th ICPC Asia Hong Kong Regional Contest",
+  "start_time": 1764464400000,
+  "end_time": 1764482400000,
+  "penalty": 1200,
+  "frozen_time": 3600,
+  "problem_id": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L"
+  ],
+  "balloon_color": [
+    {
+      "color": "#000000",
+      "background_color": "#cd853f"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#0000ff"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#000000"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#8fbc8f"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#fff8dc"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#8b0000"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#006400"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#ffb6c1"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#adff2f"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#ffffff"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#d3d3d3"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#add8e6"
+    }
+  ],
+  "status_time_display": {
+    "correct": true,
+    "incorrect": true,
+    "pending": true
+  },
+  "organization": "School",
+  "medal": {
+    "official": {
+      "gold": 13,
+      "silver": 26,
+      "bronze": 39
+    }
+  },
+  "group": {
+    "official": "正式队伍",
+    "unofficial": "打星队伍"
+  },
+  "logo": {
+    "preset": "ICPC"
+  },
+  "options": {
+    "submission_timestamp_unit": "millisecond"
+  }
+}

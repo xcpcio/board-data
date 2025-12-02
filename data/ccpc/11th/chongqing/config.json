@@ -1,0 +1,93 @@
+{
+  "contest_name": "第 11 届 CCPC 中国大学生程序设计竞赛重庆站 - 正式赛",
+  "start_time": 1764464400000,
+  "end_time": 1764482400000,
+  "penalty": 1200,
+  "frozen_time": 3600,
+  "problem_id": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L",
+    "M"
+  ],
+  "balloon_color": [
+    {
+      "color": "#000",
+      "background_color": "#f86121"
+    },
+    {
+      "color": "#000",
+      "background_color": "#87e434"
+    },
+    {
+      "color": "#000",
+      "background_color": "#197947"
+    },
+    {
+      "color": "#000",
+      "background_color": "#11308c"
+    },
+    {
+      "color": "#000",
+      "background_color": "#442f80"
+    },
+    {
+      "color": "#000",
+      "background_color": "#ee6ba9"
+    },
+    {
+      "color": "#000",
+      "background_color": "#a62d34"
+    },
+    {
+      "color": "#000",
+      "background_color": "#5ca9e7"
+    },
+    {
+      "color": "#000",
+      "background_color": "#f5db30"
+    },
+    {
+      "color": "#000",
+      "background_color": "#f4adc1"
+    },
+    {
+      "color": "#000",
+      "background_color": "#189896"
+    },
+    {
+      "color": "#000",
+      "background_color": "#ffffff"
+    },
+    {
+      "color": "#000",
+      "background_color": "#21392b"
+    }
+  ],
+  "status_time_display": {
+    "correct": true,
+    "incorrect": true,
+    "pending": true
+  },
+  "organization": "School",
+  "medal": "ccpc",
+  "group": {
+    "official": "正式队伍",
+    "unofficial": "打星队伍"
+  },
+  "logo": {
+    "preset": "CCPC"
+  },
+  "options": {
+    "submission_timestamp_unit": "millisecond"
+  }
+}
