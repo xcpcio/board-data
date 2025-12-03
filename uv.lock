@@ -216,6 +216,7 @@ name = "board-data"
 version = "0.1.0"
 source = { editable = "." }
 dependencies = [
+    { name = "click" },
     { name = "xcpcio" },
 ]
 
@@ -227,7 +228,10 @@ dev = [
 ]
 
 [package.metadata]
-requires-dist = [{ name = "xcpcio", specifier = ">=0.76.0" }]
+requires-dist = [
+    { name = "click", specifier = ">=8.3.1" },
+    { name = "xcpcio", specifier = ">=0.76.0" },
+]
 
 [package.metadata.requires-dev]
 dev = [

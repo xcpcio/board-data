@@ -25,9 +25,7 @@ jobs:
           cat ./data/index/contest_list.json | jq
 
       - name: Create site dir
-        run: |
-          mkdir site
-          mv data site/
+        run: uv run ./python/create_site.py
 
       - name: Deploy to deploy-pages
         if: ${{ github.event_name != 'pull_request' }}

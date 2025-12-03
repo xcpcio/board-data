@@ -5,6 +5,7 @@ description = "XCPCIO Board Data"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "click>=8.3.1",
     "xcpcio>=0.76.0",
 ]
 
