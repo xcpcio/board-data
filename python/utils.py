@@ -17,6 +17,10 @@ def json_output(data):
     return json.dumps(data)
 
 
+def json_output_for_human_readable(data):
+    return json.dumps(data, indent=2, ensure_ascii=False)
+
+
 def output(target_path: Path, data: str, if_not_exists=False):
     if if_not_exists and os.path.exists(target_path):
         return

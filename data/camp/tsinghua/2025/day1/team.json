@@ -1,1 +1,444 @@
-{"216273233":{"team_id":"216273233","name":"world.search(you);","organization":"","members":["WanChengzhang","ZhangJingxing","LiuYiping"],"group":["official"]},"216273236":{"team_id":"216273236","name":"Afterlife","organization":"","members":["PengBo","YanZixuan","ZhangQiuyang"],"group":["official"]},"216273234":{"team_id":"216273234","name":"open your brain","organization":"","members":["ZhuJianfeng","ZhangZhi","GuanYanru"],"group":["official"]},"216273238":{"team_id":"216273238","name":"sorry_tarjen","organization":"","members":["ZouZhiqiu","YuZhongyao","MaiJun"],"group":["official"]},"216273245":{"team_id":"216273245","name":"Natsuhi Kage","organization":"","members":["FengQiyu","LiuJianing","ZhuZemu"],"group":["official"]},"216273254":{"team_id":"216273254","name":"Xitao Village Team of Silk-road City","organization":"","members":["ZhouZhaienhe","HongWenjie","GuoYihang"],"group":["official"]},"216273228":{"team_id":"216273228","name":"Magic Show","organization":"","members":["Lee Donghyeon","Park Jongkyung","Jo Younguk"],"group":["official"]},"216273261":{"team_id":"216273261","name":"No idea","organization":"","members":["ChenJingtai","WuYongcong","XueWeipeng"],"group":["official"]},"216273237":{"team_id":"216273237","name":"miemiemie","organization":"","members":["GuoYuzhe","SiXiuyuan","XiaHeming"],"group":["official"]},"216273243":{"team_id":"216273243","name":"GDUT_Caused by ACM","organization":"","members":["PangXiang","YangZihong","LinZheng"],"group":["official"]},"216273232":{"team_id":"216273232","name":"Screenwalkers","organization":"","members":["Yoneda Masataka","Yoneda Hirotaka","Kodama Daiki"],"group":["official"]},"216273246":{"team_id":"216273246","name":"Plenty of Penalty","organization":"","members":["WuYulun","XuRuiyang","WanHong"],"group":["official"]},"216273255":{"team_id":"216273255","name":"Mocopentas","organization":"","members":["OuQingliang","BaoRuizhao","TanYixuan"],"group":["official"]},"216273240":{"team_id":"216273240","name":"box-horse-fresh-up","organization":"","members":["MaWenhao","HeZhuokun","HuangGuangsheng"],"group":["official"]},"216273253":{"team_id":"216273253","name":"Dolls in Pseudo Paradise","organization":"","members":["DingWentao","ChenYuhang","ZhangPengkai"],"group":["official"]},"216273229":{"team_id":"216273229","name":"BIGSHOT","organization":"","members":["Moon Jeonghoo","Park Youngwoo","Kim Kibeom"],"group":["official"]},"216273239":{"team_id":"216273239","name":"ABC Master","organization":"","members":["DongHejun","WangDayu","JiangBinyang"],"group":["official"]},"216273230":{"team_id":"216273230","name":"Hot Kpop Union","organization":"","members":["Li Qixuan","Xu Qiyue","Wu Yuchen"],"group":["official"]},"216273249":{"team_id":"216273249","name":"MVP->NJU","organization":"","members":["WangYicheng","RongHengxi","LuTaiye"],"group":["official"]},"216273244":{"team_id":"216273244","name":"The Defect","organization":"","members":["YuZhihang","ChenPengxu","WangTianze"],"group":["official"]},"216273241":{"team_id":"216273241","name":"NEU_Golden Slumbers","organization":"","members":["SuKun","XieTianshi","ZhangJiadong"],"group":["official"]},"216273231":{"team_id":"216273231","name":"My Penguin is Alcoholic!","organization":"","members":["Nishiwaki Hibiki","Ng Yu Peng","Teow Hua Jun"],"group":["official"]},"216273250":{"team_id":"216273250","name":"hdu2","organization":"","members":["LeXingyu","WangBinghang","ZhangYuze"],"group":["official"]},"216273251":{"team_id":"216273251","name":"HaJiMi in the tree","organization":"","members":["FangChenyu","PanHuachao","WeiJieheng"],"group":["official"]},"216273247":{"team_id":"216273247","name":"Problem Sheet Coming","organization":"","members":["ChenJiapeng","XuZien","KanZichun"],"group":["official"]},"216273242":{"team_id":"216273242","name":"Fear WA, all in implementation","organization":"","members":["WangXiangqian","LuoHao","ChuWenhao"],"group":["official"]},"216273257":{"team_id":"216273257","name":"SUSTech-Oslo","organization":"","members":["JiangYihao","YangBowen","ZhangQiyu"],"group":["official"]},"216273248":{"team_id":"216273248","name":"secret team","organization":"","members":["ZhangRuimin","ZhuYukuan","ChenZida"],"group":["official"]},"216273259":{"team_id":"216273259","name":"Dark Knights","organization":"","members":["KouYulin","BaoChenrui","ZhouYincheng"],"group":["official"]},"216273256":{"team_id":"216273256","name":"bug","organization":"","members":["LvJunqi","ZhaoLekun","HuHaotian"],"group":["official"]},"216273258":{"team_id":"216273258","name":"mex｛fe，cu，ag｝","organization":"","members":["LiuJunyi","WangJiangyang","YanZhihao"],"group":["official"]},"216273235":{"team_id":"216273235","name":"little rabbit","organization":"","members":["LiuZehui","ChenKezhi","SunNing"],"group":["official"]},"216273260":{"team_id":"216273260","name":"Why AvemujicaCrychicMygo is not ACM","organization":"","members":["QinWeibin","XuMuzheng","XieNan"],"group":["official"]},"216273252":{"team_id":"216273252","name":"Mako, suki","organization":"","members":["TaoJun","SongHaoran","GengPengcheng"],"group":["official"]}}
+{
+  "216273233": {
+    "team_id": "216273233",
+    "name": "world.search(you);",
+    "organization": "",
+    "members": [
+      "WanChengzhang",
+      "ZhangJingxing",
+      "LiuYiping"
+    ],
+    "group": [
+      "official"
+    ]
+  },
+  "216273236": {
+    "team_id": "216273236",
+    "name": "Afterlife",
+    "organization": "",
+    "members": [
+      "PengBo",
+      "YanZixuan",
+      "ZhangQiuyang"
+    ],
+    "group": [
+      "official"
+    ]
+  },
+  "216273234": {
+    "team_id": "216273234",
+    "name": "open your brain",
+    "organization": "",
+    "members": [
+      "ZhuJianfeng",
+      "ZhangZhi",
+      "GuanYanru"
+    ],
+    "group": [
+      "official"
+    ]
+  },
+  "216273238": {
+    "team_id": "216273238",
+    "name": "sorry_tarjen",
+    "organization": "",
+    "members": [
+      "ZouZhiqiu",
+      "YuZhongyao",
+      "MaiJun"
+    ],
+    "group": [
+      "official"
+    ]
+  },
+  "216273245": {
+    "team_id": "216273245",
+    "name": "Natsuhi Kage",
+    "organization": "",
+    "members": [
+      "FengQiyu",
+      "LiuJianing",
+      "ZhuZemu"
+    ],
+    "group": [
+      "official"
+    ]
+  },
+  "216273254": {
+    "team_id": "216273254",
+    "name": "Xitao Village Team of Silk-road City",
+    "organization": "",
+    "members": [
+      "ZhouZhaienhe",
+      "HongWenjie",
+      "GuoYihang"
+    ],
+    "group": [
+      "official"
+    ]
+  },
+  "216273228": {
+    "team_id": "216273228",
+    "name": "Magic Show",
+    "organization": "",
+    "members": [
+      "Lee Donghyeon",
+      "Park Jongkyung",
+      "Jo Younguk"
+    ],
+    "group": [
+      "official"
+    ]
+  },
+  "216273261": {
+    "team_id": "216273261",
+    "name": "No idea",
+    "organization": "",
+    "members": [
+      "ChenJingtai",
+      "WuYongcong",
+      "XueWeipeng"
+    ],
+    "group": [
+      "official"
+    ]
+  },
+  "216273237": {
+    "team_id": "216273237",
+    "name": "miemiemie",
+    "organization": "",
+    "members": [
+      "GuoYuzhe",
+      "SiXiuyuan",
+      "XiaHeming"
+    ],
+    "group": [
+      "official"
+    ]
+  },
+  "216273243": {
+    "team_id": "216273243",
+    "name": "GDUT_Caused by ACM",
+    "organization": "",
+    "members": [
+      "PangXiang",
+      "YangZihong",
+      "LinZheng"
+    ],
+    "group": [
+      "official"
+    ]
+  },
+  "216273232": {
+    "team_id": "216273232",
+    "name": "Screenwalkers",
+    "organization": "",
+    "members": [
+      "Yoneda Masataka",
+      "Yoneda Hirotaka",
+      "Kodama Daiki"
+    ],
+    "group": [
+      "official"
+    ]
+  },
+  "216273246": {
+    "team_id": "216273246",
+    "name": "Plenty of Penalty",
+    "organization": "",
+    "members": [
+      "WuYulun",
+      "XuRuiyang",
+      "WanHong"
+    ],
+    "group": [
+      "official"
+    ]
+  },
+  "216273255": {
+    "team_id": "216273255",
+    "name": "Mocopentas",
+    "organization": "",
+    "members": [
+      "OuQingliang",
+      "BaoRuizhao",
+      "TanYixuan"
+    ],
+    "group": [
+      "official"
+    ]
+  },
+  "216273240": {
+    "team_id": "216273240",
+    "name": "box-horse-fresh-up",
+    "organization": "",
+    "members": [
+      "MaWenhao",
+      "HeZhuokun",
+      "HuangGuangsheng"
+    ],
+    "group": [
+      "official"
+    ]
+  },
+  "216273253": {
+    "team_id": "216273253",
+    "name": "Dolls in Pseudo Paradise",
+    "organization": "",
+    "members": [
+      "DingWentao",
+      "ChenYuhang",
+      "ZhangPengkai"
+    ],
+    "group": [
+      "official"
+    ]
+  },
+  "216273229": {
+    "team_id": "216273229",
+    "name": "BIGSHOT",
+    "organization": "",
+    "members": [
+      "Moon Jeonghoo",
+      "Park Youngwoo",
+      "Kim Kibeom"
+    ],
+    "group": [
+      "official"
+    ]
+  },
+  "216273239": {
+    "team_id": "216273239",
+    "name": "ABC Master",
+    "organization": "",
+    "members": [
+      "DongHejun",
+      "WangDayu",
+      "JiangBinyang"
+    ],
+    "group": [
+      "official"
+    ]
+  },
+  "216273230": {
+    "team_id": "216273230",
+    "name": "Hot Kpop Union",
+    "organization": "",
+    "members": [
+      "Li Qixuan",
+      "Xu Qiyue",
+      "Wu Yuchen"
+    ],
+    "group": [
+      "official"
+    ]
+  },
+  "216273249": {
+    "team_id": "216273249",
+    "name": "MVP->NJU",
+    "organization": "",
+    "members": [
+      "WangYicheng",
+      "RongHengxi",
+      "LuTaiye"
+    ],
+    "group": [
+      "official"
+    ]
+  },
+  "216273244": {
+    "team_id": "216273244",
+    "name": "The Defect",
+    "organization": "",
+    "members": [
+      "YuZhihang",
+      "ChenPengxu",
+      "WangTianze"
+    ],
+    "group": [
+      "official"
+    ]
+  },
+  "216273241": {
+    "team_id": "216273241",
+    "name": "NEU_Golden Slumbers",
+    "organization": "",
+    "members": [
+      "SuKun",
+      "XieTianshi",
+      "ZhangJiadong"
+    ],
+    "group": [
+      "official"
+    ]
+  },
+  "216273231": {
+    "team_id": "216273231",
+    "name": "My Penguin is Alcoholic!",
+    "organization": "",
+    "members": [
+      "Nishiwaki Hibiki",
+      "Ng Yu Peng",
+      "Teow Hua Jun"
+    ],
+    "group": [
+      "official"
+    ]
+  },
+  "216273250": {
+    "team_id": "216273250",
+    "name": "hdu2",
+    "organization": "",
+    "members": [
+      "LeXingyu",
+      "WangBinghang",
+      "ZhangYuze"
+    ],
+    "group": [
+      "official"
+    ]
+  },
+  "216273251": {
+    "team_id": "216273251",
+    "name": "HaJiMi in the tree",
+    "organization": "",
+    "members": [
+      "FangChenyu",
+      "PanHuachao",
+      "WeiJieheng"
+    ],
+    "group": [
+      "official"
+    ]
+  },
+  "216273247": {
+    "team_id": "216273247",
+    "name": "Problem Sheet Coming",
+    "organization": "",
+    "members": [
+      "ChenJiapeng",
+      "XuZien",
+      "KanZichun"
+    ],
+    "group": [
+      "official"
+    ]
+  },
+  "216273242": {
+    "team_id": "216273242",
+    "name": "Fear WA, all in implementation",
+    "organization": "",
+    "members": [
+      "WangXiangqian",
+      "LuoHao",
+      "ChuWenhao"
+    ],
+    "group": [
+      "official"
+    ]
+  },
+  "216273257": {
+    "team_id": "216273257",
+    "name": "SUSTech-Oslo",
+    "organization": "",
+    "members": [
+      "JiangYihao",
+      "YangBowen",
+      "ZhangQiyu"
+    ],
+    "group": [
+      "official"
+    ]
+  },
+  "216273248": {
+    "team_id": "216273248",
+    "name": "secret team",
+    "organization": "",
+    "members": [
+      "ZhangRuimin",
+      "ZhuYukuan",
+      "ChenZida"
+    ],
+    "group": [
+      "official"
+    ]
+  },
+  "216273259": {
+    "team_id": "216273259",
+    "name": "Dark Knights",
+    "organization": "",
+    "members": [
+      "KouYulin",
+      "BaoChenrui",
+      "ZhouYincheng"
+    ],
+    "group": [
+      "official"
+    ]
+  },
+  "216273256": {
+    "team_id": "216273256",
+    "name": "bug",
+    "organization": "",
+    "members": [
+      "LvJunqi",
+      "ZhaoLekun",
+      "HuHaotian"
+    ],
+    "group": [
+      "official"
+    ]
+  },
+  "216273258": {
+    "team_id": "216273258",
+    "name": "mex｛fe，cu，ag｝",
+    "organization": "",
+    "members": [
+      "LiuJunyi",
+      "WangJiangyang",
+      "YanZhihao"
+    ],
+    "group": [
+      "official"
+    ]
+  },
+  "216273235": {
+    "team_id": "216273235",
+    "name": "little rabbit",
+    "organization": "",
+    "members": [
+      "LiuZehui",
+      "ChenKezhi",
+      "SunNing"
+    ],
+    "group": [
+      "official"
+    ]
+  },
+  "216273260": {
+    "team_id": "216273260",
+    "name": "Why AvemujicaCrychicMygo is not ACM",
+    "organization": "",
+    "members": [
+      "QinWeibin",
+      "XuMuzheng",
+      "XieNan"
+    ],
+    "group": [
+      "official"
+    ]
+  },
+  "216273252": {
+    "team_id": "216273252",
+    "name": "Mako, suki",
+    "organization": "",
+    "members": [
+      "TaoJun",
+      "SongHaoran",
+      "GengPengcheng"
+    ],
+    "group": [
+      "official"
+    ]
+  }
+}
