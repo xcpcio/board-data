@@ -1,17 +1,40 @@
 {
   "editor.tabSize": 2,
   "editor.insertSpaces": true,
-  "prettier.enable": false,
-  "editor.formatOnSave": true,
   "files.trimTrailingWhitespace": true,
   "files.insertFinalNewline": true,
   "files.trimFinalNewlines": true,
-  "typescript.tsdk": "node_modules/typescript/lib",
-  "eslint.experimental.useFlatConfig": true,
+
+  "[shellscript]": {
+    "editor.defaultFormatter": "mkhl.shfmt",
+    "editor.formatOnSave": true
+  },
+
+  "[python]": {
+    "editor.tabSize": 4,
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.fixAll": "explicit",
+      "source.organizeImports": "explicit"
+    },
+    "editor.defaultFormatter": "charliermarsh.ruff"
+  },
+  "notebook.formatOnSave.enabled": true,
+  "notebook.codeActionsOnSave": {
+    "notebook.source.fixAll": "explicit",
+    "notebook.source.organizeImports": "explicit"
+  },
+
+  // Disable the default formatter
+  "prettier.enable": false,
+  "editor.formatOnSave": false,
+
+  // Auto fix
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": "explicit",
     "source.organizeImports": "never"
   },
+
   "eslint.validate": [
     "javascript",
     "javascriptreact",
@@ -25,9 +48,7 @@
     "yaml",
     "toml"
   ],
-  "[python]": {
-    "editor.defaultFormatter": "ms-python.autopep8"
-  },
+
   "cSpell.words": [
     "antfu",
     "bytedance",
@@ -44,10 +65,13 @@
     "icpc",
     "noreply",
     "nowcoder",
+    "pycache",
+    "pytest",
     "qinhuangdao",
     "shenzhen",
     "taze",
     "tsingdao",
+    "venv",
     "weihai",
     "XCPCIO"
   ]
