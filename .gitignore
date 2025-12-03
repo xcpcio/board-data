@@ -1,9 +1,12 @@
 .DS_Store
 
-venv/
+.venv/
 __pycache__/
+.ruff_cache/
+.pytest_cache/
+dist/
+
 node_modules/
 
 data/index/
-
 rating-data/

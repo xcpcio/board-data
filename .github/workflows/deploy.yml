@@ -7,7 +7,6 @@ on:
   #     - main
 
 env:
-  python_version: "3.10"
   deploy_script_version: "v0.0.4"
 
 jobs:
@@ -16,20 +15,18 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v6
-
-      - name: Set up Python runtime
-        uses: actions/setup-python@v5
+      - uses: astral-sh/setup-uv@v7
         with:
-          python-version: "${{ env.python_version }}"
+          enable-cache: true
 
       - name: Gen Index
         run: |
-          cd origin-data/gen-index
-          pip install -r requirements.txt
-          bash gen_index.sh
-          cd ../../
+          uv run ./python/gen_contest_list.py
+          cat ./data/index/contest_list.json | jq
+
+      - name: Create site dir
+        run: |
           mkdir site
-          ls data/index
           mv data site/
 
       - name: Deploy to deploy-pages
