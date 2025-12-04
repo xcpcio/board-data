@@ -1,1 +1,59 @@
-{"contest_name": "\u300c\u534e\u4e3a\u676f\u300d\u7b2c 50 \u5c4a ICPC \u56fd\u9645\u5927\u5b66\u751f\u7a0b\u5e8f\u8bbe\u8ba1\u7ade\u8d5b\u533a\u57df\u8d5b\u5357\u4eac\u7ad9 - \u70ed\u8eab\u8d5b", "start_time": 1762584000000, "end_time": 1762591200000, "penalty": 1200, "frozen_time": 1800, "problem_id": ["A", "B", "C", "D", "E"], "balloon_color": [{"color": "#000000", "background_color": "#ff0000"}, {"color": "#000000", "background_color": "#ffff00"}, {"color": "#000000", "background_color": "#0000ff"}, {"color": "#000000", "background_color": "#008000"}, {"color": "#000000", "background_color": "#000000"}], "status_time_display": {"correct": true, "incorrect": true, "pending": true}, "organization": "School", "medal": {"official": {"gold": 33, "silver": 66, "bronze": 99}}, "group": {"official": "\u6b63\u5f0f\u961f\u4f0d", "unofficial": "\u6253\u661f\u961f\u4f0d"}, "logo": {"preset": "ICPC"}, "options": {"submission_timestamp_unit": "millisecond"}}
+{
+  "contest_name": "「华为杯」第 50 届 ICPC 国际大学生程序设计竞赛区域赛南京站 - 热身赛",
+  "start_time": 1762584000000,
+  "end_time": 1762591200000,
+  "penalty": 1200,
+  "frozen_time": 1800,
+  "problem_id": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E"
+  ],
+  "balloon_color": [
+    {
+      "color": "#000000",
+      "background_color": "#ff0000"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#ffff00"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#0000ff"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#008000"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#000000"
+    }
+  ],
+  "status_time_display": {
+    "correct": true,
+    "incorrect": true,
+    "pending": true
+  },
+  "organization": "School",
+  "medal": {
+    "official": {
+      "gold": 33,
+      "silver": 66,
+      "bronze": 99
+    }
+  },
+  "group": {
+    "official": "正式队伍",
+    "unofficial": "打星队伍"
+  },
+  "logo": {
+    "preset": "ICPC"
+  },
+  "options": {
+    "submission_timestamp_unit": "millisecond"
+  }
+}

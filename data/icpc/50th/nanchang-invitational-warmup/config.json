@@ -1,1 +1,52 @@
-{"contest_name":"2025年icpc全国邀请赛（南昌）暨2025年（icpc）江西省大学生程序设计竞赛 - 热身赛","start_time":1747528200,"end_time":1747531800,"frozen_time":900,"penalty":1200,"problem_quantity":3,"problem_id":["A","B","C"],"group":{"icpc":"ICPC","edu-provincial":"教育厅省赛","icpc-provincial":"ICPC省赛","unofficial":"打星队伍"},"organization":"School","status_time_display":{"correct":true,"incorrect":true,"pending":true},"medal":{"official":{"gold":39,"silver":78,"bronze":118}},"balloon_color":[{"color":"#000","background_color":"#b22120"},{"color":"#000","background_color":"#9664eb"},{"color":"#000","background_color":"#ffffff"}],"logo":{"preset":"ICPC"},"options":{"submission_timestamp_unit":"millisecond"}}
+{
+  "contest_name": "2025年icpc全国邀请赛（南昌）暨2025年（icpc）江西省大学生程序设计竞赛 - 热身赛",
+  "start_time": 1747528200,
+  "end_time": 1747531800,
+  "frozen_time": 900,
+  "penalty": 1200,
+  "problem_quantity": 3,
+  "problem_id": [
+    "A",
+    "B",
+    "C"
+  ],
+  "group": {
+    "icpc": "ICPC",
+    "edu-provincial": "教育厅省赛",
+    "icpc-provincial": "ICPC省赛",
+    "unofficial": "打星队伍"
+  },
+  "organization": "School",
+  "status_time_display": {
+    "correct": true,
+    "incorrect": true,
+    "pending": true
+  },
+  "medal": {
+    "official": {
+      "gold": 39,
+      "silver": 78,
+      "bronze": 118
+    }
+  },
+  "balloon_color": [
+    {
+      "color": "#000",
+      "background_color": "#b22120"
+    },
+    {
+      "color": "#000",
+      "background_color": "#9664eb"
+    },
+    {
+      "color": "#000",
+      "background_color": "#ffffff"
+    }
+  ],
+  "logo": {
+    "preset": "ICPC"
+  },
+  "options": {
+    "submission_timestamp_unit": "millisecond"
+  }
+}
