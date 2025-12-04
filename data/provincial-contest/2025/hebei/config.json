@@ -1,1 +1,101 @@
-{"contest_name":"第九届河北省大学生程序设计竞赛 - 正式赛","start_time":1747530000,"end_time":1747548000,"frozen_time":3600,"penalty":1200,"problem_quantity":13,"problem_id":["A","B","C","D","E","F","G","H","I","J","K","L","M"],"group":{"official":"正式队伍","unofficial":"打星队伍","girl":"女队"},"organization":"School","status_time_display":{"correct":true,"incorrect":true,"pending":true},"medal":{"official":{"gold":21,"silver":42,"bronze":62}},"balloon_color":[{"color":"#000","background_color":"#ffa500"},{"color":"#000","background_color":"#ffd700"},{"color":"#000","background_color":"#006400"},{"color":"#000","background_color":"#ef4444"},{"color":"#000","background_color":"#00ff00"},{"color":"#000","background_color":"#ffc0cb"},{"color":"#000","background_color":"#90ee90"},{"color":"#000","background_color":"#ffff00"},{"color":"#000","background_color":"#00008b"},{"color":"#000","background_color":"#00808c"},{"color":"#000","background_color":"#a52a2a"},{"color":"#000","background_color":"#c0c0c0"},{"color":"#000","background_color":"#800080"}],"logo":{"preset":"CCPC"},"options":{"submission_timestamp_unit":"millisecond"}}
+{
+  "contest_name": "第九届河北省大学生程序设计竞赛 - 正式赛",
+  "start_time": 1747530000,
+  "end_time": 1747548000,
+  "frozen_time": 3600,
+  "penalty": 1200,
+  "problem_quantity": 13,
+  "problem_id": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L",
+    "M"
+  ],
+  "group": {
+    "official": "正式队伍",
+    "unofficial": "打星队伍",
+    "girl": "女队"
+  },
+  "organization": "School",
+  "status_time_display": {
+    "correct": true,
+    "incorrect": true,
+    "pending": true
+  },
+  "medal": {
+    "official": {
+      "gold": 21,
+      "silver": 42,
+      "bronze": 62
+    }
+  },
+  "balloon_color": [
+    {
+      "color": "#000",
+      "background_color": "#ffa500"
+    },
+    {
+      "color": "#000",
+      "background_color": "#ffd700"
+    },
+    {
+      "color": "#000",
+      "background_color": "#006400"
+    },
+    {
+      "color": "#000",
+      "background_color": "#ef4444"
+    },
+    {
+      "color": "#000",
+      "background_color": "#00ff00"
+    },
+    {
+      "color": "#000",
+      "background_color": "#ffc0cb"
+    },
+    {
+      "color": "#000",
+      "background_color": "#90ee90"
+    },
+    {
+      "color": "#000",
+      "background_color": "#ffff00"
+    },
+    {
+      "color": "#000",
+      "background_color": "#00008b"
+    },
+    {
+      "color": "#000",
+      "background_color": "#00808c"
+    },
+    {
+      "color": "#000",
+      "background_color": "#a52a2a"
+    },
+    {
+      "color": "#000",
+      "background_color": "#c0c0c0"
+    },
+    {
+      "color": "#000",
+      "background_color": "#800080"
+    }
+  ],
+  "logo": {
+    "preset": "CCPC"
+  },
+  "options": {
+    "submission_timestamp_unit": "millisecond"
+  }
+}

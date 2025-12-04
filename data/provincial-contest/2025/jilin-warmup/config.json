@@ -1,1 +1,49 @@
-{"contest_name":"第 18 届吉林省大学生程序设计竞赛 - 热身赛","start_time":1747985400,"end_time":1747992600,"frozen_time":1800,"penalty":1200,"problem_quantity":4,"problem_id":["A","B","C","D"],"group":{"A":"普通高校","B":"独立学院","A_female":"A组女队","B_female":"B组女队","star":"打星"},"organization":"School","status_time_display":{"correct":true,"incorrect":true,"pending":true},"medal":{},"balloon_color":[{"color":"#000","background_color":"#e83535"},{"color":"#000","background_color":"#e4ed61"},{"color":"#000","background_color":"#3eb2f0"},{"color":"#000","background_color":"#29b54c"}],"options":{"submission_timestamp_unit":"millisecond"}}
+{
+  "contest_name": "第 18 届吉林省大学生程序设计竞赛 - 热身赛",
+  "start_time": 1747985400,
+  "end_time": 1747992600,
+  "frozen_time": 1800,
+  "penalty": 1200,
+  "problem_quantity": 4,
+  "problem_id": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "group": {
+    "A": "普通高校",
+    "B": "独立学院",
+    "A_female": "A组女队",
+    "B_female": "B组女队",
+    "star": "打星"
+  },
+  "organization": "School",
+  "status_time_display": {
+    "correct": true,
+    "incorrect": true,
+    "pending": true
+  },
+  "medal": {},
+  "balloon_color": [
+    {
+      "color": "#000",
+      "background_color": "#e83535"
+    },
+    {
+      "color": "#000",
+      "background_color": "#e4ed61"
+    },
+    {
+      "color": "#000",
+      "background_color": "#3eb2f0"
+    },
+    {
+      "color": "#000",
+      "background_color": "#29b54c"
+    }
+  ],
+  "options": {
+    "submission_timestamp_unit": "millisecond"
+  }
+}

@@ -1,1 +1,97 @@
-{"contest_name":"第十三届陕西省国际大学生程序设计竞赛 - 正式赛","start_time":1746847800,"end_time":1746865800,"frozen_time":3600,"penalty":1200,"problem_quantity":13,"problem_id":["A","B","C","D","E","F","G","H","I","J","K","L","M"],"group":{"official":"正式队伍","unofficial":"打星队伍"},"organization":"School","status_time_display":{"correct":true,"incorrect":true,"pending":true},"medal":{"official":{"gold":16,"silver":32,"bronze":48}},"balloon_color":[{"color":"#000","background_color":"#DA70D6"},{"color":"#000","background_color":"#ADD8E6"},{"color":"#000","background_color":"#90EE90"},{"color":"#000","background_color":"#0000FF"},{"color":"#000","background_color":"#FFFFE0"},{"color":"#000","background_color":"#FFD700"},{"color":"#000","background_color":"#FF00FF"},{"color":"#000","background_color":"#FF0000"},{"color":"#000","background_color":"#FFFF00"},{"color":"#000","background_color":"#FFFFFF"},{"color":"#000","background_color":"#FFC0CB"},{"color":"#000","background_color":"#FFA500"},{"color":"#000","background_color":"#008080"}],"options":{"submission_timestamp_unit":"millisecond"}}
+{
+  "contest_name": "第十三届陕西省国际大学生程序设计竞赛 - 正式赛",
+  "start_time": 1746847800,
+  "end_time": 1746865800,
+  "frozen_time": 3600,
+  "penalty": 1200,
+  "problem_quantity": 13,
+  "problem_id": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L",
+    "M"
+  ],
+  "group": {
+    "official": "正式队伍",
+    "unofficial": "打星队伍"
+  },
+  "organization": "School",
+  "status_time_display": {
+    "correct": true,
+    "incorrect": true,
+    "pending": true
+  },
+  "medal": {
+    "official": {
+      "gold": 16,
+      "silver": 32,
+      "bronze": 48
+    }
+  },
+  "balloon_color": [
+    {
+      "color": "#000",
+      "background_color": "#DA70D6"
+    },
+    {
+      "color": "#000",
+      "background_color": "#ADD8E6"
+    },
+    {
+      "color": "#000",
+      "background_color": "#90EE90"
+    },
+    {
+      "color": "#000",
+      "background_color": "#0000FF"
+    },
+    {
+      "color": "#000",
+      "background_color": "#FFFFE0"
+    },
+    {
+      "color": "#000",
+      "background_color": "#FFD700"
+    },
+    {
+      "color": "#000",
+      "background_color": "#FF00FF"
+    },
+    {
+      "color": "#000",
+      "background_color": "#FF0000"
+    },
+    {
+      "color": "#000",
+      "background_color": "#FFFF00"
+    },
+    {
+      "color": "#000",
+      "background_color": "#FFFFFF"
+    },
+    {
+      "color": "#000",
+      "background_color": "#FFC0CB"
+    },
+    {
+      "color": "#000",
+      "background_color": "#FFA500"
+    },
+    {
+      "color": "#000",
+      "background_color": "#008080"
+    }
+  ],
+  "options": {
+    "submission_timestamp_unit": "millisecond"
+  }
+}
