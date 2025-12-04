@@ -1,1 +1,92 @@
-{"contest_name":"49th ICPC World Finals","start_time":1756968526,"end_time":1756986526,"frozen_time":3600,"penalty":1200,"problem_quantity":12,"problem_id":["A","B","C","D","E","F","G","H","I","J","K","L"],"group":{},"organization":null,"status_time_display":{"correct":true,"incorrect":true,"pending":true},"medal":{},"balloon_color":[{"color":"#000","background_color":"#c04000"},{"color":"#000","background_color":"#e0a800"},{"color":"#000","background_color":"#305070"},{"color":"#000","background_color":"#8cd9ff"},{"color":"#000","background_color":"#289040"},{"color":"#000","background_color":"#32ff32"},{"color":"#000","background_color":"#ff92d5"},{"color":"#000","background_color":"#d8d8c8"},{"color":"#000","background_color":"#810069"},{"color":"#000","background_color":"#9e4e53"},{"color":"#000","background_color":"#ffffff"},{"color":"#000","background_color":"#000000"}],"logo":{"preset":"ICPC"},"banner":{"url":"../world-finals-assets/banner.svg"},"banner_mode":"ONLY_BANNER","options":{"submission_timestamp_unit":"millisecond","has_reaction_videos":true,"reaction_video_url_template":"https://d1x79igug69x01.cloudfront.net/wf/2025/${submission_id}.mp4"}}
+{
+  "contest_name": "49th ICPC World Finals",
+  "start_time": 1756968526,
+  "end_time": 1756986526,
+  "frozen_time": 3600,
+  "penalty": 1200,
+  "problem_quantity": 12,
+  "problem_id": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L"
+  ],
+  "group": {},
+  "organization": null,
+  "status_time_display": {
+    "correct": true,
+    "incorrect": true,
+    "pending": true
+  },
+  "medal": {},
+  "balloon_color": [
+    {
+      "color": "#000",
+      "background_color": "#c04000"
+    },
+    {
+      "color": "#000",
+      "background_color": "#e0a800"
+    },
+    {
+      "color": "#000",
+      "background_color": "#305070"
+    },
+    {
+      "color": "#000",
+      "background_color": "#8cd9ff"
+    },
+    {
+      "color": "#000",
+      "background_color": "#289040"
+    },
+    {
+      "color": "#000",
+      "background_color": "#32ff32"
+    },
+    {
+      "color": "#000",
+      "background_color": "#ff92d5"
+    },
+    {
+      "color": "#000",
+      "background_color": "#d8d8c8"
+    },
+    {
+      "color": "#000",
+      "background_color": "#810069"
+    },
+    {
+      "color": "#000",
+      "background_color": "#9e4e53"
+    },
+    {
+      "color": "#000",
+      "background_color": "#ffffff"
+    },
+    {
+      "color": "#000",
+      "background_color": "#000000"
+    }
+  ],
+  "logo": {
+    "preset": "ICPC"
+  },
+  "banner": {
+    "url": "icpc/49th/world-finals-assets/banner.svg"
+  },
+  "banner_mode": "ONLY_BANNER",
+  "options": {
+    "submission_timestamp_unit": "millisecond",
+    "has_reaction_videos": true,
+    "reaction_video_url_template": "https://d1x79igug69x01.cloudfront.net/wf/2025/${submission_id}.mp4"
+  }
+}
