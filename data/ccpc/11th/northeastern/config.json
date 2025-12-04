@@ -1,1 +1,91 @@
-{"contest_name":"2025 年 CCPC 全国邀请赛（东北）暨第十九届 CCPC 东北地区大学生程序设计竞赛 - 正式赛","start_time":1748136300,"end_time":1748154300,"frozen_time":3600,"penalty":1200,"problem_quantity":12,"problem_id":["A","B","C","D","E","F","G","H","I","J","K","L"],"group":{"NE-A":"全国高校","NE-B":"省内高校","NE-female":"女队","NE-star":"打星"},"organization":"School","status_time_display":{"correct":true,"incorrect":true,"pending":true},"medal":{},"balloon_color":[{"color":"#000","background_color":"#ea3e00"},{"color":"#000","background_color":"#fff903"},{"color":"#000","background_color":"#0089e1"},{"color":"#000","background_color":"#00904a"},{"color":"#000","background_color":"#eba3b1"},{"color":"#000","background_color":"#ee6200"},{"color":"#000","background_color":"#62448b"},{"color":"#000","background_color":"#015438"},{"color":"#000","background_color":"#d84945"},{"color":"#000","background_color":"#61bff3"},{"color":"#000","background_color":"#addc10"},{"color":"#000","background_color":"#f2c301"}],"logo":{"preset":"CCPC"},"options":{"submission_timestamp_unit":"millisecond"}}
+{
+  "contest_name": "2025 年 CCPC 全国邀请赛（东北）暨第十九届 CCPC 东北地区大学生程序设计竞赛 - 正式赛",
+  "start_time": 1748136300,
+  "end_time": 1748154300,
+  "frozen_time": 3600,
+  "penalty": 1200,
+  "problem_quantity": 12,
+  "problem_id": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L"
+  ],
+  "group": {
+    "NE-A": "全国高校",
+    "NE-B": "省内高校",
+    "NE-female": "女队",
+    "NE-star": "打星"
+  },
+  "organization": "School",
+  "status_time_display": {
+    "correct": true,
+    "incorrect": true,
+    "pending": true
+  },
+  "medal": {},
+  "balloon_color": [
+    {
+      "color": "#000",
+      "background_color": "#ea3e00"
+    },
+    {
+      "color": "#000",
+      "background_color": "#fff903"
+    },
+    {
+      "color": "#000",
+      "background_color": "#0089e1"
+    },
+    {
+      "color": "#000",
+      "background_color": "#00904a"
+    },
+    {
+      "color": "#000",
+      "background_color": "#eba3b1"
+    },
+    {
+      "color": "#000",
+      "background_color": "#ee6200"
+    },
+    {
+      "color": "#000",
+      "background_color": "#62448b"
+    },
+    {
+      "color": "#000",
+      "background_color": "#015438"
+    },
+    {
+      "color": "#000",
+      "background_color": "#d84945"
+    },
+    {
+      "color": "#000",
+      "background_color": "#61bff3"
+    },
+    {
+      "color": "#000",
+      "background_color": "#addc10"
+    },
+    {
+      "color": "#000",
+      "background_color": "#f2c301"
+    }
+  ],
+  "logo": {
+    "preset": "CCPC"
+  },
+  "options": {
+    "submission_timestamp_unit": "millisecond"
+  }
+}
