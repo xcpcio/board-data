@@ -19,6 +19,11 @@ jobs:
         with:
           enable-cache: true
 
+      - name: Install
+        run: |
+          uv sync --dev
+          uv build
+
       - name: Gen Data
         run: |
           uv run ./python/gen_contest_list.py
