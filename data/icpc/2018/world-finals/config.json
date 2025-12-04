@@ -76,5 +76,8 @@
       "color": "#fff"
     }
   ],
-  "badge": "Badge"
+  "badge": "Badge",
+  "logo": {
+    "preset": "ICPC"
+  }
 }
