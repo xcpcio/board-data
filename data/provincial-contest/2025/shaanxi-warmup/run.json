@@ -1,1 +1,4058 @@
-[{"status":"WRONG_ANSWER","team_id":"211","problem_id":1,"timestamp":408936,"language":"C++","submission_id":"287"},{"status":"WRONG_ANSWER","team_id":"127","problem_id":1,"timestamp":459987,"language":"C++","submission_id":"288"},{"status":"ACCEPTED","team_id":"262","problem_id":0,"timestamp":507791,"language":"C++","submission_id":"289"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"166","problem_id":0,"timestamp":537175,"language":"C++","submission_id":"290"},{"status":"NO_OUTPUT","team_id":"166","problem_id":0,"timestamp":584439,"language":"C++","submission_id":"291"},{"status":"WRONG_ANSWER","team_id":"127","problem_id":1,"timestamp":626783,"language":"C++","submission_id":"292"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"166","problem_id":0,"timestamp":628399,"language":"C++","submission_id":"293"},{"status":"ACCEPTED","team_id":"215","problem_id":0,"timestamp":640916,"language":"C++","submission_id":"294"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"166","problem_id":0,"timestamp":647731,"language":"C++","submission_id":"295"},{"status":"WRONG_ANSWER","team_id":"190","problem_id":0,"timestamp":692169,"language":"C++","submission_id":"296"},{"status":"WRONG_ANSWER","team_id":"189","problem_id":0,"timestamp":729477,"language":"C++","submission_id":"297"},{"status":"WRONG_ANSWER","team_id":"212","problem_id":0,"timestamp":798374,"language":"C++","submission_id":"298"},{"status":"ACCEPTED","team_id":"101","problem_id":0,"timestamp":812720,"language":"C++","submission_id":"299"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"242","problem_id":1,"timestamp":837489,"language":"C++","submission_id":"300"},{"status":"WRONG_ANSWER","team_id":"212","problem_id":0,"timestamp":848296,"language":"C++","submission_id":"301"},{"status":"ACCEPTED","team_id":"267","problem_id":0,"timestamp":849680,"language":"C++","submission_id":"302"},{"status":"WRONG_ANSWER","team_id":"128","problem_id":1,"timestamp":850110,"language":"C++","submission_id":"303"},{"status":"ACCEPTED","team_id":"220","problem_id":0,"timestamp":885594,"language":"C++","submission_id":"304"},{"status":"WRONG_ANSWER","team_id":"171","problem_id":0,"timestamp":903647,"language":"C++","submission_id":"305"},{"status":"WRONG_ANSWER","team_id":"235","problem_id":1,"timestamp":923210,"language":"C++","submission_id":"306"},{"status":"WRONG_ANSWER","team_id":"171","problem_id":0,"timestamp":936392,"language":"C++","submission_id":"307"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"171","problem_id":0,"timestamp":964122,"language":"C++","submission_id":"308"},{"status":"WRONG_ANSWER","team_id":"130","problem_id":1,"timestamp":978423,"language":"C++","submission_id":"309"},{"status":"WRONG_ANSWER","team_id":"171","problem_id":0,"timestamp":987665,"language":"C++","submission_id":"310"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"130","problem_id":1,"timestamp":998916,"language":"C++","submission_id":"311"},{"status":"WRONG_ANSWER","team_id":"133","problem_id":0,"timestamp":1013700,"language":"C++","submission_id":"312"},{"status":"WRONG_ANSWER","team_id":"145","problem_id":0,"timestamp":1045647,"language":"C++","submission_id":"313"},{"status":"WRONG_ANSWER","team_id":"171","problem_id":0,"timestamp":1048642,"language":"C++","submission_id":"314"},{"status":"WRONG_ANSWER","team_id":"235","problem_id":1,"timestamp":1066640,"language":"C++","submission_id":"315"},{"status":"WRONG_ANSWER","team_id":"128","problem_id":1,"timestamp":1074311,"language":"C++","submission_id":"316"},{"status":"ACCEPTED","team_id":"212","problem_id":0,"timestamp":1088236,"language":"C++","submission_id":"317"},{"status":"WRONG_ANSWER","team_id":"158","problem_id":1,"timestamp":1089074,"language":"C++","submission_id":"318"},{"status":"WRONG_ANSWER","team_id":"145","problem_id":0,"timestamp":1100171,"language":"C++","submission_id":"319"},{"status":"WRONG_ANSWER","team_id":"111","problem_id":0,"timestamp":1104884,"language":"Python 3","submission_id":"320"},{"status":"ACCEPTED","team_id":"127","problem_id":0,"timestamp":1113417,"language":"C++","submission_id":"321"},{"status":"WRONG_ANSWER","team_id":"171","problem_id":0,"timestamp":1118946,"language":"C++","submission_id":"322"},{"status":"WRONG_ANSWER","team_id":"158","problem_id":1,"timestamp":1171636,"language":"C++","submission_id":"323"},{"status":"WRONG_ANSWER","team_id":"197","problem_id":2,"timestamp":1175122,"language":"C++","submission_id":"324"},{"status":"WRONG_ANSWER","team_id":"190","problem_id":1,"timestamp":1182902,"language":"C++","submission_id":"325"},{"status":"WRONG_ANSWER","team_id":"260","problem_id":0,"timestamp":1196049,"language":"C++","submission_id":"326"},{"status":"WRONG_ANSWER","team_id":"141","problem_id":0,"timestamp":1214246,"language":"C++","submission_id":"327"},{"status":"WRONG_ANSWER","team_id":"220","problem_id":1,"timestamp":1311975,"language":"C++","submission_id":"328"},{"status":"ACCEPTED","team_id":"111","problem_id":0,"timestamp":1332664,"language":"Python 3","submission_id":"329"},{"status":"WRONG_ANSWER","team_id":"215","problem_id":1,"timestamp":1342013,"language":"C++","submission_id":"330"},{"status":"WRONG_ANSWER","team_id":"219","problem_id":1,"timestamp":1367566,"language":"C++","submission_id":"331"},{"status":"WRONG_ANSWER","team_id":"109","problem_id":1,"timestamp":1371046,"language":"C++","submission_id":"332"},{"status":"ACCEPTED","team_id":"128","problem_id":0,"timestamp":1373937,"language":"C++","submission_id":"333"},{"status":"WRONG_ANSWER","team_id":"127","problem_id":1,"timestamp":1391433,"language":"C++","submission_id":"334"},{"status":"ACCEPTED","team_id":"130","problem_id":1,"timestamp":1397740,"language":"C++","submission_id":"335"},{"status":"WRONG_ANSWER","team_id":"140","problem_id":1,"timestamp":1419530,"language":"C++","submission_id":"336"},{"status":"WRONG_ANSWER","team_id":"136","problem_id":1,"timestamp":1431040,"language":"C++","submission_id":"337"},{"status":"ACCEPTED","team_id":"214","problem_id":0,"timestamp":1432149,"language":"C++","submission_id":"338"},{"status":"WRONG_ANSWER","team_id":"220","problem_id":1,"timestamp":1459504,"language":"C++","submission_id":"339"},{"status":"WRONG_ANSWER","team_id":"145","problem_id":0,"timestamp":1467135,"language":"C++","submission_id":"340"},{"status":"WRONG_ANSWER","team_id":"149","problem_id":1,"timestamp":1469981,"language":"C++","submission_id":"341"},{"status":"WRONG_ANSWER","team_id":"138","problem_id":1,"timestamp":1486069,"language":"C++","submission_id":"342"},{"status":"ACCEPTED","team_id":"260","problem_id":0,"timestamp":1488700,"language":"C++","submission_id":"343"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"145","problem_id":0,"timestamp":1499014,"language":"C++","submission_id":"344"},{"status":"RUNTIME_ERROR","team_id":"267","problem_id":1,"timestamp":1503129,"language":"C++","submission_id":"345"},{"status":"WRONG_ANSWER","team_id":"167","problem_id":1,"timestamp":1521562,"language":"C++","submission_id":"346"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"145","problem_id":0,"timestamp":1522548,"language":"C++","submission_id":"347"},{"status":"WRONG_ANSWER","team_id":"145","problem_id":0,"timestamp":1541642,"language":"C++","submission_id":"348"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"145","problem_id":0,"timestamp":1562090,"language":"C++","submission_id":"349"},{"status":"WRONG_ANSWER","team_id":"262","problem_id":1,"timestamp":1573999,"language":"C++","submission_id":"350"},{"status":"WRONG_ANSWER","team_id":"140","problem_id":1,"timestamp":1576770,"language":"C++","submission_id":"351"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"145","problem_id":0,"timestamp":1580022,"language":"C++","submission_id":"352"},{"status":"WRONG_ANSWER","team_id":"211","problem_id":1,"timestamp":1587714,"language":"C++","submission_id":"353"},{"status":"WRONG_ANSWER","team_id":"167","problem_id":1,"timestamp":1590133,"language":"C++","submission_id":"354"},{"status":"WRONG_ANSWER","team_id":"145","problem_id":0,"timestamp":1597691,"language":"C++","submission_id":"355"},{"status":"WRONG_ANSWER","team_id":"218","problem_id":0,"timestamp":1601424,"language":"C++","submission_id":"356"},{"status":"WRONG_ANSWER","team_id":"222","problem_id":1,"timestamp":1602493,"language":"C++","submission_id":"357"},{"status":"RUNTIME_ERROR","team_id":"236","problem_id":0,"timestamp":1608570,"language":"C++","submission_id":"358"},{"status":"WRONG_ANSWER","team_id":"262","problem_id":1,"timestamp":1619357,"language":"C++","submission_id":"359"},{"status":"WRONG_ANSWER","team_id":"145","problem_id":0,"timestamp":1621483,"language":"C++","submission_id":"360"},{"status":"WRONG_ANSWER","team_id":"167","problem_id":1,"timestamp":1629784,"language":"C++","submission_id":"361"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"145","problem_id":0,"timestamp":1645121,"language":"C++","submission_id":"362"},{"status":"WRONG_ANSWER","team_id":"232","problem_id":1,"timestamp":1651192,"language":"C++","submission_id":"363"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"236","problem_id":0,"timestamp":1658208,"language":"C++","submission_id":"364"},{"status":"WRONG_ANSWER","team_id":"233","problem_id":1,"timestamp":1675399,"language":"C++","submission_id":"365"},{"status":"WRONG_ANSWER","team_id":"138","problem_id":1,"timestamp":1678516,"language":"C++","submission_id":"366"},{"status":"WRONG_ANSWER","team_id":"223","problem_id":2,"timestamp":1682549,"language":"C++","submission_id":"367"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"236","problem_id":0,"timestamp":1684281,"language":"C++","submission_id":"368"},{"status":"WRONG_ANSWER","team_id":"220","problem_id":1,"timestamp":1688050,"language":"C++","submission_id":"369"},{"status":"RUNTIME_ERROR","team_id":"267","problem_id":1,"timestamp":1692215,"language":"C++","submission_id":"370"},{"status":"WRONG_ANSWER","team_id":"127","problem_id":1,"timestamp":1710201,"language":"C++","submission_id":"371"},{"status":"RUNTIME_ERROR","team_id":"236","problem_id":0,"timestamp":1713255,"language":"C++","submission_id":"372"},{"status":"ACCEPTED","team_id":"215","problem_id":1,"timestamp":1728070,"language":"C++","submission_id":"373"},{"status":"WRONG_ANSWER","team_id":"162","problem_id":0,"timestamp":1739393,"language":"C++","submission_id":"374"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"236","problem_id":0,"timestamp":1740364,"language":"C++","submission_id":"375"},{"status":"WRONG_ANSWER","team_id":"190","problem_id":0,"timestamp":1812657,"language":"C++","submission_id":"376"},{"status":"ACCEPTED","team_id":"235","problem_id":1,"timestamp":1830077,"language":"C++","submission_id":"377"},{"status":"WRONG_ANSWER","team_id":"141","problem_id":0,"timestamp":1831267,"language":"C++","submission_id":"378"},{"status":"WRONG_ANSWER","team_id":"105","problem_id":0,"timestamp":1832438,"language":"C","submission_id":"379"},{"status":"WRONG_ANSWER","team_id":"162","problem_id":0,"timestamp":1853954,"language":"Python 3","submission_id":"380"},{"status":"WRONG_ANSWER","team_id":"222","problem_id":1,"timestamp":1869532,"language":"C++","submission_id":"381"},{"status":"WRONG_ANSWER","team_id":"236","problem_id":0,"timestamp":1873331,"language":"C++","submission_id":"382"},{"status":"RUNTIME_ERROR","team_id":"109","problem_id":1,"timestamp":1880266,"language":"C++","submission_id":"383"},{"status":"WRONG_ANSWER","team_id":"236","problem_id":0,"timestamp":1902484,"language":"C++","submission_id":"384"},{"status":"WRONG_ANSWER","team_id":"103","problem_id":0,"timestamp":1906904,"language":"C++","submission_id":"385"},{"status":"WRONG_ANSWER","team_id":"140","problem_id":1,"timestamp":1915453,"language":"C++","submission_id":"386"},{"status":"ACCEPTED","team_id":"102","problem_id":0,"timestamp":1916425,"language":"C++","submission_id":"387"},{"status":"ACCEPTED","team_id":"205","problem_id":0,"timestamp":1920601,"language":"C++","submission_id":"388"},{"status":"WRONG_ANSWER","team_id":"109","problem_id":1,"timestamp":1921540,"language":"C++","submission_id":"389"},{"status":"WRONG_ANSWER","team_id":"212","problem_id":1,"timestamp":1933738,"language":"C++","submission_id":"390"},{"status":"WRONG_ANSWER","team_id":"220","problem_id":1,"timestamp":1939298,"language":"C++","submission_id":"391"},{"status":"WRONG_ANSWER","team_id":"103","problem_id":0,"timestamp":1941089,"language":"C++","submission_id":"392"},{"status":"WRONG_ANSWER","team_id":"223","problem_id":2,"timestamp":1942350,"language":"C++","submission_id":"393"},{"status":"WRONG_ANSWER","team_id":"109","problem_id":1,"timestamp":1975334,"language":"C++","submission_id":"394"},{"status":"WRONG_ANSWER","team_id":"216","problem_id":1,"timestamp":1987644,"language":"C++","submission_id":"395"},{"status":"ACCEPTED","team_id":"242","problem_id":2,"timestamp":2021676,"language":"C++","submission_id":"396"},{"status":"WRONG_ANSWER","team_id":"109","problem_id":1,"timestamp":2028934,"language":"C++","submission_id":"397"},{"status":"ACCEPTED","team_id":"258","problem_id":0,"timestamp":2048342,"language":"C++","submission_id":"398"},{"status":"ACCEPTED","team_id":"130","problem_id":0,"timestamp":2049971,"language":"C++","submission_id":"399"},{"status":"WRONG_ANSWER","team_id":"233","problem_id":1,"timestamp":2092423,"language":"C++","submission_id":"400"},{"status":"ACCEPTED","team_id":"105","problem_id":0,"timestamp":2120410,"language":"C","submission_id":"401"},{"status":"WRONG_ANSWER","team_id":"140","problem_id":1,"timestamp":2129355,"language":"C++","submission_id":"402"},{"status":"WRONG_ANSWER","team_id":"159","problem_id":1,"timestamp":2139888,"language":"C++","submission_id":"403"},{"status":"WRONG_ANSWER","team_id":"186","problem_id":0,"timestamp":2150472,"language":"C++","submission_id":"404"},{"status":"ACCEPTED","team_id":"222","problem_id":0,"timestamp":2157388,"language":"C++","submission_id":"405"},{"status":"WRONG_ANSWER","team_id":"186","problem_id":0,"timestamp":2172671,"language":"C++","submission_id":"406"},{"status":"WRONG_ANSWER","team_id":"186","problem_id":0,"timestamp":2190800,"language":"C++","submission_id":"407"},{"status":"RUNTIME_ERROR","team_id":"117","problem_id":1,"timestamp":2195536,"language":"C++","submission_id":"408"},{"status":"WRONG_ANSWER","team_id":"197","problem_id":2,"timestamp":2203480,"language":"C++","submission_id":"409"},{"status":"WRONG_ANSWER","team_id":"220","problem_id":1,"timestamp":2210217,"language":"C++","submission_id":"410"},{"status":"WRONG_ANSWER","team_id":"176","problem_id":1,"timestamp":2213744,"language":"C++","submission_id":"411"},{"status":"WRONG_ANSWER","team_id":"190","problem_id":0,"timestamp":2214063,"language":"C++","submission_id":"412"},{"status":"WRONG_ANSWER","team_id":"212","problem_id":1,"timestamp":2214619,"language":"C++","submission_id":"413"},{"status":"WRONG_ANSWER","team_id":"186","problem_id":0,"timestamp":2216082,"language":"C++","submission_id":"414"},{"status":"WRONG_ANSWER","team_id":"162","problem_id":0,"timestamp":2218381,"language":"C++","submission_id":"415"},{"status":"WRONG_ANSWER","team_id":"149","problem_id":0,"timestamp":2224866,"language":"C++","submission_id":"416"},{"status":"WRONG_ANSWER","team_id":"219","problem_id":1,"timestamp":2243926,"language":"C++","submission_id":"417"},{"status":"WRONG_ANSWER","team_id":"136","problem_id":1,"timestamp":2254302,"language":"C++","submission_id":"418"},{"status":"ACCEPTED","team_id":"267","problem_id":1,"timestamp":2258811,"language":"C++","submission_id":"419"},{"status":"WRONG_ANSWER","team_id":"149","problem_id":0,"timestamp":2260865,"language":"C++","submission_id":"420"},{"status":"WRONG_ANSWER","team_id":"186","problem_id":0,"timestamp":2275335,"language":"C++","submission_id":"421"},{"status":"WRONG_ANSWER","team_id":"157","problem_id":1,"timestamp":2276944,"language":"C++","submission_id":"422"},{"status":"RUNTIME_ERROR","team_id":"125","problem_id":1,"timestamp":2284460,"language":"C++","submission_id":"423"},{"status":"RUNTIME_ERROR","team_id":"118","problem_id":1,"timestamp":2293866,"language":"C++","submission_id":"424"},{"status":"RUNTIME_ERROR","team_id":"218","problem_id":1,"timestamp":2301725,"language":"C++","submission_id":"425"},{"status":"ACCEPTED","team_id":"267","problem_id":1,"timestamp":2311155,"language":"C++","submission_id":"426"},{"status":"WRONG_ANSWER","team_id":"157","problem_id":1,"timestamp":2322763,"language":"C++","submission_id":"427"},{"status":"WRONG_ANSWER","team_id":"149","problem_id":0,"timestamp":2325478,"language":"C++","submission_id":"428"},{"status":"ACCEPTED","team_id":"219","problem_id":1,"timestamp":2328877,"language":"C++","submission_id":"429"},{"status":"WRONG_ANSWER","team_id":"157","problem_id":1,"timestamp":2351167,"language":"C++","submission_id":"430"},{"status":"RUNTIME_ERROR","team_id":"125","problem_id":1,"timestamp":2361980,"language":"C++","submission_id":"431"},{"status":"WRONG_ANSWER","team_id":"198","problem_id":1,"timestamp":2373101,"language":"C++","submission_id":"432"},{"status":"WRONG_ANSWER","team_id":"196","problem_id":1,"timestamp":2375383,"language":"C++","submission_id":"433"},{"status":"WRONG_ANSWER","team_id":"111","problem_id":1,"timestamp":2376050,"language":"C++","submission_id":"434"},{"status":"WRONG_ANSWER","team_id":"158","problem_id":1,"timestamp":2376090,"language":"C++","submission_id":"435"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"157","problem_id":1,"timestamp":2385213,"language":"C++","submission_id":"436"},{"status":"RUNTIME_ERROR","team_id":"117","problem_id":1,"timestamp":2398035,"language":"C++","submission_id":"437"},{"status":"WRONG_ANSWER","team_id":"215","problem_id":2,"timestamp":2401878,"language":"C++","submission_id":"438"},{"status":"WRONG_ANSWER","team_id":"157","problem_id":1,"timestamp":2407538,"language":"C++","submission_id":"439"},{"status":"WRONG_ANSWER","team_id":"252","problem_id":1,"timestamp":2408322,"language":"C++","submission_id":"440"},{"status":"WRONG_ANSWER","team_id":"259","problem_id":1,"timestamp":2409441,"language":"C++","submission_id":"441"},{"status":"WRONG_ANSWER","team_id":"232","problem_id":1,"timestamp":2423344,"language":"C++","submission_id":"442"},{"status":"WRONG_ANSWER","team_id":"157","problem_id":1,"timestamp":2437743,"language":"C++","submission_id":"443"},{"status":"WRONG_ANSWER","team_id":"262","problem_id":1,"timestamp":2445167,"language":"C++","submission_id":"444"},{"status":"WRONG_ANSWER","team_id":"167","problem_id":1,"timestamp":2462230,"language":"C++","submission_id":"445"},{"status":"WRONG_ANSWER","team_id":"252","problem_id":1,"timestamp":2467562,"language":"C++","submission_id":"446"},{"status":"ACCEPTED","team_id":"190","problem_id":1,"timestamp":2468588,"language":"C++","submission_id":"447"},{"status":"WRONG_ANSWER","team_id":"157","problem_id":1,"timestamp":2473717,"language":"C++","submission_id":"448"},{"status":"WRONG_ANSWER","team_id":"208","problem_id":0,"timestamp":2485752,"language":"C++","submission_id":"449"},{"status":"WRONG_ANSWER","team_id":"166","problem_id":1,"timestamp":2487101,"language":"C++","submission_id":"450"},{"status":"ACCEPTED","team_id":"220","problem_id":1,"timestamp":2488555,"language":"C++","submission_id":"451"},{"status":"WRONG_ANSWER","team_id":"149","problem_id":1,"timestamp":2495980,"language":"C++","submission_id":"452"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"157","problem_id":1,"timestamp":2497669,"language":"C++","submission_id":"453"},{"status":"WRONG_ANSWER","team_id":"232","problem_id":1,"timestamp":2512251,"language":"C++","submission_id":"454"},{"status":"WRONG_ANSWER","team_id":"159","problem_id":1,"timestamp":2513992,"language":"C++","submission_id":"455"},{"status":"WRONG_ANSWER","team_id":"157","problem_id":1,"timestamp":2519474,"language":"C++","submission_id":"456"},{"status":"WRONG_ANSWER","team_id":"141","problem_id":0,"timestamp":2526172,"language":"C++","submission_id":"457"},{"status":"WRONG_ANSWER","team_id":"223","problem_id":1,"timestamp":2532643,"language":"C++","submission_id":"458"},{"status":"RUNTIME_ERROR","team_id":"216","problem_id":0,"timestamp":2542441,"language":"C++","submission_id":"459"},{"status":"ACCEPTED","team_id":"128","problem_id":1,"timestamp":2551863,"language":"C++","submission_id":"460"},{"status":"ACCEPTED","team_id":"111","problem_id":0,"timestamp":2552215,"language":"Python 3","submission_id":"461"},{"status":"WRONG_ANSWER","team_id":"259","problem_id":1,"timestamp":2554058,"language":"C++","submission_id":"462"},{"status":"WRONG_ANSWER","team_id":"248","problem_id":1,"timestamp":2557386,"language":"C++","submission_id":"463"},{"status":"WRONG_ANSWER","team_id":"256","problem_id":0,"timestamp":2563071,"language":"C++","submission_id":"464"},{"status":"WRONG_ANSWER","team_id":"212","problem_id":1,"timestamp":2571364,"language":"C++","submission_id":"465"},{"status":"WRONG_ANSWER","team_id":"152","problem_id":0,"timestamp":2573592,"language":"C++","submission_id":"466"},{"status":"RUNTIME_ERROR","team_id":"218","problem_id":1,"timestamp":2577977,"language":"C++","submission_id":"467"},{"status":"ACCEPTED","team_id":"111","problem_id":0,"timestamp":2580910,"language":"Python 3","submission_id":"468"},{"status":"ACCEPTED","team_id":"242","problem_id":0,"timestamp":2582592,"language":"C++","submission_id":"469"},{"status":"NO_OUTPUT","team_id":"190","problem_id":0,"timestamp":2584118,"language":"C++","submission_id":"470"},{"status":"WRONG_ANSWER","team_id":"157","problem_id":2,"timestamp":2585972,"language":"C++","submission_id":"471"},{"status":"WRONG_ANSWER","team_id":"124","problem_id":0,"timestamp":2586393,"language":"C++","submission_id":"472"},{"status":"WRONG_ANSWER","team_id":"191","problem_id":0,"timestamp":2590809,"language":"C++","submission_id":"473"},{"status":"ACCEPTED","team_id":"165","problem_id":0,"timestamp":2602588,"language":"C++","submission_id":"474"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"111","problem_id":0,"timestamp":2603734,"language":"Python 3","submission_id":"475"},{"status":"WRONG_ANSWER","team_id":"191","problem_id":1,"timestamp":2607088,"language":"C++","submission_id":"476"},{"status":"WRONG_ANSWER","team_id":"157","problem_id":0,"timestamp":2616338,"language":"C++","submission_id":"477"},{"status":"WRONG_ANSWER","team_id":"172","problem_id":1,"timestamp":2618821,"language":"C++","submission_id":"478"},{"status":"WRONG_ANSWER","team_id":"191","problem_id":2,"timestamp":2619884,"language":"C++","submission_id":"479"},{"status":"WRONG_ANSWER","team_id":"190","problem_id":0,"timestamp":2625848,"language":"C++","submission_id":"480"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"111","problem_id":0,"timestamp":2631125,"language":"Python 3","submission_id":"481"},{"status":"ACCEPTED","team_id":"124","problem_id":0,"timestamp":2637513,"language":"C++","submission_id":"482"},{"status":"WRONG_ANSWER","team_id":"119","problem_id":0,"timestamp":2649638,"language":"C++","submission_id":"483"},{"status":"WRONG_ANSWER","team_id":"107","problem_id":1,"timestamp":2658691,"language":"C++","submission_id":"484"},{"status":"WRONG_ANSWER","team_id":"229","problem_id":1,"timestamp":2664424,"language":"C++","submission_id":"485"},{"status":"RUNTIME_ERROR","team_id":"125","problem_id":1,"timestamp":2666400,"language":"C++","submission_id":"486"},{"status":"WRONG_ANSWER","team_id":"180","problem_id":1,"timestamp":2672787,"language":"C++","submission_id":"487"},{"status":"WRONG_ANSWER","team_id":"167","problem_id":1,"timestamp":2679130,"language":"C++","submission_id":"488"},{"status":"WRONG_ANSWER","team_id":"236","problem_id":0,"timestamp":2700589,"language":"C++","submission_id":"489"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"141","problem_id":0,"timestamp":2700960,"language":"C++","submission_id":"490"},{"status":"RUNTIME_ERROR","team_id":"117","problem_id":1,"timestamp":2706572,"language":"C++","submission_id":"491"},{"status":"ACCEPTED","team_id":"118","problem_id":0,"timestamp":2721011,"language":"C++","submission_id":"492"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"141","problem_id":0,"timestamp":2725102,"language":"C++","submission_id":"493"},{"status":"WRONG_ANSWER","team_id":"123","problem_id":1,"timestamp":2731197,"language":"C++","submission_id":"494"},{"status":"WRONG_ANSWER","team_id":"176","problem_id":1,"timestamp":2732912,"language":"C++","submission_id":"495"},{"status":"WRONG_ANSWER","team_id":"141","problem_id":0,"timestamp":2747549,"language":"C++","submission_id":"496"},{"status":"WRONG_ANSWER","team_id":"101","problem_id":1,"timestamp":2750037,"language":"C++","submission_id":"497"},{"status":"RUNTIME_ERROR","team_id":"197","problem_id":1,"timestamp":2762294,"language":"C++","submission_id":"498"},{"status":"WRONG_ANSWER","team_id":"127","problem_id":0,"timestamp":2764438,"language":"C++","submission_id":"499"},{"status":"WRONG_ANSWER","team_id":"229","problem_id":1,"timestamp":2765058,"language":"C++","submission_id":"500"},{"status":"WRONG_ANSWER","team_id":"178","problem_id":1,"timestamp":2772132,"language":"Python 3","submission_id":"501"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"141","problem_id":0,"timestamp":2776227,"language":"C++","submission_id":"502"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"157","problem_id":1,"timestamp":2786520,"language":"C++","submission_id":"503"},{"status":"WRONG_ANSWER","team_id":"127","problem_id":0,"timestamp":2786869,"language":"C++","submission_id":"504"},{"status":"WRONG_ANSWER","team_id":"266","problem_id":0,"timestamp":2787403,"language":"C++","submission_id":"505"},{"status":"COMPILATION_ERROR","team_id":"141","problem_id":0,"timestamp":2803486,"language":"C++","submission_id":"506"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"157","problem_id":1,"timestamp":2808414,"language":"C++","submission_id":"507"},{"status":"ACCEPTED","team_id":"109","problem_id":1,"timestamp":2811829,"language":"C++","submission_id":"508"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"127","problem_id":0,"timestamp":2820665,"language":"C++","submission_id":"509"},{"status":"WRONG_ANSWER","team_id":"157","problem_id":1,"timestamp":2827647,"language":"C++","submission_id":"510"},{"status":"WRONG_ANSWER","team_id":"176","problem_id":1,"timestamp":2828756,"language":"C++","submission_id":"511"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"141","problem_id":0,"timestamp":2829225,"language":"C++","submission_id":"512"},{"status":"WRONG_ANSWER","team_id":"127","problem_id":0,"timestamp":2829441,"language":"C++","submission_id":"513"},{"status":"WRONG_ANSWER","team_id":"111","problem_id":2,"timestamp":2834968,"language":"C++","submission_id":"514"},{"status":"WRONG_ANSWER","team_id":"119","problem_id":0,"timestamp":2836128,"language":"C++","submission_id":"515"},{"status":"WRONG_ANSWER","team_id":"216","problem_id":0,"timestamp":2838463,"language":"C++","submission_id":"516"},{"status":"WRONG_ANSWER","team_id":"166","problem_id":1,"timestamp":2838674,"language":"C++","submission_id":"517"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"152","problem_id":0,"timestamp":2839798,"language":"C++","submission_id":"518"},{"status":"RUNTIME_ERROR","team_id":"102","problem_id":1,"timestamp":2840534,"language":"C++","submission_id":"519"},{"status":"WRONG_ANSWER","team_id":"222","problem_id":2,"timestamp":2844030,"language":"C++","submission_id":"520"},{"status":"WRONG_ANSWER","team_id":"127","problem_id":1,"timestamp":2846636,"language":"C++","submission_id":"521"},{"status":"WRONG_ANSWER","team_id":"203","problem_id":1,"timestamp":2850102,"language":"Python 3","submission_id":"522"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"141","problem_id":0,"timestamp":2854829,"language":"C++","submission_id":"523"},{"status":"RUNTIME_ERROR","team_id":"118","problem_id":1,"timestamp":2855388,"language":"C++","submission_id":"524"},{"status":"WRONG_ANSWER","team_id":"152","problem_id":0,"timestamp":2862171,"language":"C++","submission_id":"525"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"127","problem_id":1,"timestamp":2862975,"language":"C++","submission_id":"526"},{"status":"WRONG_ANSWER","team_id":"246","problem_id":1,"timestamp":2867569,"language":"C++","submission_id":"527"},{"status":"RUNTIME_ERROR","team_id":"120","problem_id":1,"timestamp":2871258,"language":"C++","submission_id":"528"},{"status":"WRONG_ANSWER","team_id":"127","problem_id":1,"timestamp":2871484,"language":"C++","submission_id":"529"},{"status":"WRONG_ANSWER","team_id":"141","problem_id":0,"timestamp":2874389,"language":"C++","submission_id":"530"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"152","problem_id":0,"timestamp":2887615,"language":"C++","submission_id":"531"},{"status":"WRONG_ANSWER","team_id":"218","problem_id":0,"timestamp":2890900,"language":"C++","submission_id":"532"},{"status":"WRONG_ANSWER","team_id":"165","problem_id":1,"timestamp":2897195,"language":"C++","submission_id":"533"},{"status":"WRONG_ANSWER","team_id":"190","problem_id":0,"timestamp":2900732,"language":"C++","submission_id":"534"},{"status":"WRONG_ANSWER","team_id":"127","problem_id":1,"timestamp":2903267,"language":"C++","submission_id":"535"},{"status":"WRONG_ANSWER","team_id":"111","problem_id":2,"timestamp":2906094,"language":"C++","submission_id":"536"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"152","problem_id":0,"timestamp":2907792,"language":"C++","submission_id":"537"},{"status":"RUNTIME_ERROR","team_id":"101","problem_id":2,"timestamp":2910788,"language":"C++","submission_id":"538"},{"status":"WRONG_ANSWER","team_id":"127","problem_id":1,"timestamp":2916576,"language":"C++","submission_id":"539"},{"status":"ACCEPTED","team_id":"171","problem_id":0,"timestamp":2919912,"language":"C++","submission_id":"540"},{"status":"WRONG_ANSWER","team_id":"127","problem_id":1,"timestamp":2921282,"language":"C++","submission_id":"541"},{"status":"WRONG_ANSWER","team_id":"254","problem_id":1,"timestamp":2926383,"language":"C++","submission_id":"542"},{"status":"WRONG_ANSWER","team_id":"266","problem_id":0,"timestamp":2927783,"language":"C++","submission_id":"543"},{"status":"RUNTIME_ERROR","team_id":"141","problem_id":0,"timestamp":2928246,"language":"C++","submission_id":"544"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"242","problem_id":1,"timestamp":2933035,"language":"C++","submission_id":"545"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"127","problem_id":1,"timestamp":2933946,"language":"C++","submission_id":"546"},{"status":"WRONG_ANSWER","team_id":"111","problem_id":2,"timestamp":2935903,"language":"C++","submission_id":"547"},{"status":"WRONG_ANSWER","team_id":"127","problem_id":1,"timestamp":2944376,"language":"C++","submission_id":"548"},{"status":"WRONG_ANSWER","team_id":"110","problem_id":1,"timestamp":2949424,"language":"C++","submission_id":"549"},{"status":"WRONG_ANSWER","team_id":"127","problem_id":1,"timestamp":2953674,"language":"C++","submission_id":"550"},{"status":"ACCEPTED","team_id":"226","problem_id":0,"timestamp":2954474,"language":"C++","submission_id":"551"},{"status":"WRONG_ANSWER","team_id":"141","problem_id":0,"timestamp":2956626,"language":"C++","submission_id":"552"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"127","problem_id":1,"timestamp":2958375,"language":"C++","submission_id":"553"},{"status":"WRONG_ANSWER","team_id":"140","problem_id":1,"timestamp":2962284,"language":"C++","submission_id":"554"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"127","problem_id":1,"timestamp":2962454,"language":"C++","submission_id":"555"},{"status":"RUNTIME_ERROR","team_id":"207","problem_id":1,"timestamp":2963044,"language":"C++","submission_id":"556"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"127","problem_id":1,"timestamp":2966495,"language":"C++","submission_id":"557"},{"status":"WRONG_ANSWER","team_id":"211","problem_id":1,"timestamp":2970817,"language":"C++","submission_id":"558"},{"status":"RUNTIME_ERROR","team_id":"102","problem_id":1,"timestamp":2972034,"language":"C++","submission_id":"559"},{"status":"NO_OUTPUT","team_id":"117","problem_id":1,"timestamp":2976324,"language":"C++","submission_id":"560"},{"status":"ACCEPTED","team_id":"242","problem_id":1,"timestamp":2977748,"language":"C++","submission_id":"561"},{"status":"WRONG_ANSWER","team_id":"141","problem_id":0,"timestamp":2981277,"language":"C++","submission_id":"562"},{"status":"ACCEPTED","team_id":"225","problem_id":0,"timestamp":2990559,"language":"C++","submission_id":"563"},{"status":"ACCEPTED","team_id":"214","problem_id":1,"timestamp":2998728,"language":"C++","submission_id":"564"},{"status":"NO_OUTPUT","team_id":"163","problem_id":1,"timestamp":3000622,"language":"Python 3","submission_id":"565"},{"status":"WRONG_ANSWER","team_id":"117","problem_id":1,"timestamp":3004218,"language":"C++","submission_id":"566"},{"status":"WRONG_ANSWER","team_id":"158","problem_id":1,"timestamp":3009990,"language":"C++","submission_id":"567"},{"status":"WRONG_ANSWER","team_id":"141","problem_id":0,"timestamp":3012057,"language":"C++","submission_id":"568"},{"status":"WRONG_ANSWER","team_id":"135","problem_id":0,"timestamp":3012844,"language":"C++","submission_id":"569"},{"status":"WRONG_ANSWER","team_id":"111","problem_id":2,"timestamp":3015330,"language":"C++","submission_id":"570"},{"status":"WRONG_ANSWER","team_id":"154","problem_id":0,"timestamp":3024660,"language":"C++","submission_id":"571"},{"status":"RUNTIME_ERROR","team_id":"207","problem_id":1,"timestamp":3026841,"language":"C++","submission_id":"572"},{"status":"RUNTIME_ERROR","team_id":"141","problem_id":0,"timestamp":3047042,"language":"C++","submission_id":"573"},{"status":"WRONG_ANSWER","team_id":"212","problem_id":1,"timestamp":3048094,"language":"C++","submission_id":"574"},{"status":"WRONG_ANSWER","team_id":"159","problem_id":1,"timestamp":3051540,"language":"C++","submission_id":"575"},{"status":"WRONG_ANSWER","team_id":"148","problem_id":1,"timestamp":3060954,"language":"C++","submission_id":"576"},{"status":"RUNTIME_ERROR","team_id":"242","problem_id":1,"timestamp":3067173,"language":"C++","submission_id":"577"},{"status":"ACCEPTED","team_id":"196","problem_id":0,"timestamp":3067375,"language":"C++","submission_id":"578"},{"status":"RUNTIME_ERROR","team_id":"141","problem_id":0,"timestamp":3071272,"language":"C++","submission_id":"579"},{"status":"WRONG_ANSWER","team_id":"238","problem_id":0,"timestamp":3085475,"language":"C++","submission_id":"580"},{"status":"COMPILATION_ERROR","team_id":"103","problem_id":0,"timestamp":3092556,"language":"C++","submission_id":"581"},{"status":"WRONG_ANSWER","team_id":"191","problem_id":0,"timestamp":3094866,"language":"C++","submission_id":"582"},{"status":"WRONG_ANSWER","team_id":"141","problem_id":0,"timestamp":3098284,"language":"C++","submission_id":"583"},{"status":"ACCEPTED","team_id":"267","problem_id":2,"timestamp":3103886,"language":"C++","submission_id":"584"},{"status":"WRONG_ANSWER","team_id":"190","problem_id":0,"timestamp":3106023,"language":"C++","submission_id":"585"},{"status":"RUNTIME_ERROR","team_id":"155","problem_id":0,"timestamp":3111223,"language":"C++","submission_id":"586"},{"status":"WRONG_ANSWER","team_id":"158","problem_id":1,"timestamp":3124344,"language":"C++","submission_id":"587"},{"status":"WRONG_ANSWER","team_id":"145","problem_id":0,"timestamp":3134496,"language":"C++","submission_id":"588"},{"status":"ACCEPTED","team_id":"109","problem_id":0,"timestamp":3140451,"language":"C++","submission_id":"589"},{"status":"RUNTIME_ERROR","team_id":"207","problem_id":1,"timestamp":3142925,"language":"C++","submission_id":"590"},{"status":"WRONG_ANSWER","team_id":"186","problem_id":0,"timestamp":3145054,"language":"C++","submission_id":"591"},{"status":"RUNTIME_ERROR","team_id":"120","problem_id":1,"timestamp":3149897,"language":"C++","submission_id":"592"},{"status":"ACCEPTED","team_id":"136","problem_id":0,"timestamp":3158369,"language":"C++","submission_id":"593"},{"status":"WRONG_ANSWER","team_id":"149","problem_id":0,"timestamp":3158683,"language":"C++","submission_id":"594"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"186","problem_id":0,"timestamp":3167648,"language":"C++","submission_id":"595"},{"status":"WRONG_ANSWER","team_id":"186","problem_id":0,"timestamp":3183835,"language":"C++","submission_id":"596"},{"status":"WRONG_ANSWER","team_id":"207","problem_id":1,"timestamp":3195571,"language":"C++","submission_id":"597"},{"status":"ACCEPTED","team_id":"125","problem_id":0,"timestamp":3201954,"language":"C++","submission_id":"598"},{"status":"WRONG_ANSWER","team_id":"198","problem_id":1,"timestamp":3202449,"language":"C++","submission_id":"599"},{"status":"WRONG_ANSWER","team_id":"127","problem_id":1,"timestamp":3207780,"language":"C++","submission_id":"600"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"186","problem_id":0,"timestamp":3209685,"language":"C++","submission_id":"601"},{"status":"ACCEPTED","team_id":"152","problem_id":0,"timestamp":3210089,"language":"C++","submission_id":"602"},{"status":"WRONG_ANSWER","team_id":"241","problem_id":1,"timestamp":3211419,"language":"C++","submission_id":"603"},{"status":"ACCEPTED","team_id":"212","problem_id":1,"timestamp":3214266,"language":"C++","submission_id":"604"},{"status":"WRONG_ANSWER","team_id":"210","problem_id":0,"timestamp":3222001,"language":"C++","submission_id":"605"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"186","problem_id":0,"timestamp":3227762,"language":"C++","submission_id":"606"},{"status":"ACCEPTED","team_id":"218","problem_id":0,"timestamp":3228634,"language":"C++","submission_id":"607"},{"status":"RUNTIME_ERROR","team_id":"115","problem_id":1,"timestamp":3230672,"language":"C++","submission_id":"608"},{"status":"ACCEPTED","team_id":"222","problem_id":1,"timestamp":3233323,"language":"C++","submission_id":"609"},{"status":"ACCEPTED","team_id":"111","problem_id":0,"timestamp":3237337,"language":"C++","submission_id":"610"},{"status":"WRONG_ANSWER","team_id":"107","problem_id":1,"timestamp":3241181,"language":"C++","submission_id":"611"},{"status":"WRONG_ANSWER","team_id":"210","problem_id":0,"timestamp":3247782,"language":"C++","submission_id":"612"},{"status":"WRONG_ANSWER","team_id":"186","problem_id":0,"timestamp":3248929,"language":"C++","submission_id":"613"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"169","problem_id":0,"timestamp":3250524,"language":"C++","submission_id":"614"},{"status":"WRONG_ANSWER","team_id":"210","problem_id":0,"timestamp":3267332,"language":"C++","submission_id":"615"},{"status":"ACCEPTED","team_id":"236","problem_id":0,"timestamp":3268555,"language":"C++","submission_id":"616"},{"status":"WRONG_ANSWER","team_id":"255","problem_id":0,"timestamp":3278246,"language":"C++","submission_id":"617"},{"status":"WRONG_ANSWER","team_id":"233","problem_id":1,"timestamp":3280156,"language":"C++","submission_id":"618"},{"status":"RUNTIME_ERROR","team_id":"155","problem_id":0,"timestamp":3282655,"language":"C++","submission_id":"619"},{"status":"RUNTIME_ERROR","team_id":"191","problem_id":0,"timestamp":3284671,"language":"C++","submission_id":"620"},{"status":"WRONG_ANSWER","team_id":"210","problem_id":0,"timestamp":3287534,"language":"C++","submission_id":"621"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"169","problem_id":0,"timestamp":3291260,"language":"C++","submission_id":"622"},{"status":"WRONG_ANSWER","team_id":"165","problem_id":1,"timestamp":3297614,"language":"C++","submission_id":"623"},{"status":"ACCEPTED","team_id":"150","problem_id":0,"timestamp":3298749,"language":"C++","submission_id":"624"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"210","problem_id":0,"timestamp":3306660,"language":"C++","submission_id":"625"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"131","problem_id":2,"timestamp":3308757,"language":"C++","submission_id":"626"},{"status":"WRONG_ANSWER","team_id":"210","problem_id":0,"timestamp":3319442,"language":"C++","submission_id":"627"},{"status":"WRONG_ANSWER","team_id":"207","problem_id":1,"timestamp":3322452,"language":"C++","submission_id":"628"},{"status":"ACCEPTED","team_id":"111","problem_id":0,"timestamp":3324657,"language":"C++","submission_id":"629"},{"status":"RUNTIME_ERROR","team_id":"125","problem_id":1,"timestamp":3327397,"language":"C++","submission_id":"630"},{"status":"ACCEPTED","team_id":"147","problem_id":0,"timestamp":3330405,"language":"C++","submission_id":"631"},{"status":"RUNTIME_ERROR","team_id":"197","problem_id":1,"timestamp":3337134,"language":"C++","submission_id":"632"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"210","problem_id":0,"timestamp":3342204,"language":"C++","submission_id":"633"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"128","problem_id":2,"timestamp":3349261,"language":"C++","submission_id":"634"},{"status":"WRONG_ANSWER","team_id":"155","problem_id":0,"timestamp":3353399,"language":"C++","submission_id":"635"},{"status":"ACCEPTED","team_id":"111","problem_id":0,"timestamp":3357382,"language":"C++","submission_id":"636"},{"status":"WRONG_ANSWER","team_id":"176","problem_id":1,"timestamp":3360932,"language":"C++","submission_id":"637"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"106","problem_id":0,"timestamp":3364496,"language":"C++","submission_id":"638"},{"status":"WRONG_ANSWER","team_id":"218","problem_id":1,"timestamp":3368935,"language":"C++","submission_id":"639"},{"status":"WRONG_ANSWER","team_id":"259","problem_id":2,"timestamp":3376142,"language":"C++","submission_id":"640"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"265","problem_id":1,"timestamp":3382278,"language":"C++","submission_id":"641"},{"status":"WRONG_ANSWER","team_id":"185","problem_id":0,"timestamp":3385586,"language":"C++","submission_id":"642"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"106","problem_id":0,"timestamp":3387177,"language":"C++","submission_id":"643"},{"status":"ACCEPTED","team_id":"191","problem_id":0,"timestamp":3390470,"language":"C++","submission_id":"644"},{"status":"WRONG_ANSWER","team_id":"123","problem_id":1,"timestamp":3392648,"language":"C++","submission_id":"645"},{"status":"RUNTIME_ERROR","team_id":"101","problem_id":1,"timestamp":3392674,"language":"C++","submission_id":"646"},{"status":"RUNTIME_ERROR","team_id":"154","problem_id":0,"timestamp":3394553,"language":"C++","submission_id":"647"},{"status":"WRONG_ANSWER","team_id":"229","problem_id":1,"timestamp":3402261,"language":"C++","submission_id":"648"},{"status":"WRONG_ANSWER","team_id":"106","problem_id":0,"timestamp":3405036,"language":"C++","submission_id":"649"},{"status":"WRONG_ANSWER","team_id":"235","problem_id":0,"timestamp":3418086,"language":"C++","submission_id":"650"},{"status":"RUNTIME_ERROR","team_id":"154","problem_id":0,"timestamp":3419555,"language":"C++","submission_id":"651"},{"status":"RUNTIME_ERROR","team_id":"117","problem_id":1,"timestamp":3420736,"language":"C++","submission_id":"652"},{"status":"WRONG_ANSWER","team_id":"106","problem_id":0,"timestamp":3423468,"language":"C++","submission_id":"653"},{"status":"WRONG_ANSWER","team_id":"223","problem_id":1,"timestamp":3439076,"language":"C++","submission_id":"654"},{"status":"WRONG_ANSWER","team_id":"218","problem_id":1,"timestamp":3447683,"language":"C++","submission_id":"655"},{"status":"WRONG_ANSWER","team_id":"154","problem_id":0,"timestamp":3451797,"language":"C++","submission_id":"656"},{"status":"ACCEPTED","team_id":"103","problem_id":0,"timestamp":3452958,"language":"C++","submission_id":"657"},{"status":"WRONG_ANSWER","team_id":"128","problem_id":2,"timestamp":3458131,"language":"C++","submission_id":"658"},{"status":"WRONG_ANSWER","team_id":"155","problem_id":0,"timestamp":3470309,"language":"C++","submission_id":"659"},{"status":"NO_OUTPUT","team_id":"229","problem_id":1,"timestamp":3472925,"language":"C++","submission_id":"660"},{"status":"RUNTIME_ERROR","team_id":"117","problem_id":1,"timestamp":3473094,"language":"C++","submission_id":"661"},{"status":"RUNTIME_ERROR","team_id":"154","problem_id":0,"timestamp":3474231,"language":"C++","submission_id":"662"},{"status":"WRONG_ANSWER","team_id":"116","problem_id":0,"timestamp":3480712,"language":"C++","submission_id":"663"},{"status":"WRONG_ANSWER","team_id":"246","problem_id":1,"timestamp":3502319,"language":"C++","submission_id":"664"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"154","problem_id":0,"timestamp":3506387,"language":"C++","submission_id":"665"},{"status":"WRONG_ANSWER","team_id":"117","problem_id":1,"timestamp":3510455,"language":"C++","submission_id":"666"},{"status":"RUNTIME_ERROR","team_id":"120","problem_id":1,"timestamp":3516120,"language":"C++","submission_id":"667"},{"status":"WRONG_ANSWER","team_id":"198","problem_id":1,"timestamp":3532043,"language":"C++","submission_id":"668"},{"status":"WRONG_ANSWER","team_id":"124","problem_id":1,"timestamp":3532437,"language":"C++","submission_id":"669"},{"status":"ACCEPTED","team_id":"158","problem_id":1,"timestamp":3532523,"language":"C++","submission_id":"670"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"141","problem_id":0,"timestamp":3534175,"language":"C++","submission_id":"671"},{"status":"WRONG_ANSWER","team_id":"154","problem_id":0,"timestamp":3535438,"language":"C++","submission_id":"672"},{"status":"ACCEPTED","team_id":"216","problem_id":0,"timestamp":3545914,"language":"C++","submission_id":"673"},{"status":"WRONG_ANSWER","team_id":"266","problem_id":1,"timestamp":3547046,"language":"C++","submission_id":"674"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"196","problem_id":1,"timestamp":3555303,"language":"C++","submission_id":"675"},{"status":"WRONG_ANSWER","team_id":"161","problem_id":0,"timestamp":3555589,"language":"C++","submission_id":"676"},{"status":"RUNTIME_ERROR","team_id":"101","problem_id":1,"timestamp":3562442,"language":"C++","submission_id":"677"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"154","problem_id":0,"timestamp":3562651,"language":"C++","submission_id":"678"},{"status":"WRONG_ANSWER","team_id":"172","problem_id":1,"timestamp":3569053,"language":"C++","submission_id":"679"},{"status":"ACCEPTED","team_id":"128","problem_id":2,"timestamp":3573736,"language":"C++","submission_id":"680"},{"status":"WRONG_ANSWER","team_id":"154","problem_id":0,"timestamp":3585083,"language":"C++","submission_id":"681"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"265","problem_id":1,"timestamp":3595729,"language":"C++","submission_id":"682"},{"status":"RUNTIME_ERROR","team_id":"117","problem_id":1,"timestamp":3595872,"language":"C++","submission_id":"683"},{"status":"WRONG_ANSWER","team_id":"156","problem_id":0,"timestamp":3608155,"language":"C++","submission_id":"684"},{"status":"ACCEPTED","team_id":"185","problem_id":0,"timestamp":3609174,"language":"C++","submission_id":"685"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"169","problem_id":0,"timestamp":3614303,"language":"C++","submission_id":"686"},{"status":"WRONG_ANSWER","team_id":"234","problem_id":1,"timestamp":3617875,"language":"C++","submission_id":"687"},{"status":"RUNTIME_ERROR","team_id":"117","problem_id":1,"timestamp":3619044,"language":"C++","submission_id":"688"},{"status":"RUNTIME_ERROR","team_id":"101","problem_id":1,"timestamp":3626054,"language":"C++","submission_id":"689"},{"status":"WRONG_ANSWER","team_id":"145","problem_id":0,"timestamp":3627176,"language":"C++","submission_id":"690"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"196","problem_id":1,"timestamp":3632040,"language":"C++","submission_id":"691"},{"status":"WRONG_ANSWER","team_id":"172","problem_id":1,"timestamp":3639713,"language":"C++","submission_id":"692"},{"status":"WRONG_ANSWER","team_id":"102","problem_id":1,"timestamp":3661402,"language":"C++","submission_id":"693"},{"status":"ACCEPTED","team_id":"117","problem_id":1,"timestamp":3668386,"language":"C++","submission_id":"694"},{"status":"ACCEPTED","team_id":"134","problem_id":0,"timestamp":3678948,"language":"C++","submission_id":"695"},{"status":"WRONG_ANSWER","team_id":"172","problem_id":1,"timestamp":3685546,"language":"C++","submission_id":"696"},{"status":"WRONG_ANSWER","team_id":"219","problem_id":0,"timestamp":3690159,"language":"C++","submission_id":"697"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"196","problem_id":1,"timestamp":3699469,"language":"C++","submission_id":"698"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"141","problem_id":0,"timestamp":3702056,"language":"C++","submission_id":"699"},{"status":"ACCEPTED","team_id":"233","problem_id":1,"timestamp":3721309,"language":"C++","submission_id":"700"},{"status":"WRONG_ANSWER","team_id":"107","problem_id":1,"timestamp":3722157,"language":"C++","submission_id":"701"},{"status":"WRONG_ANSWER","team_id":"123","problem_id":1,"timestamp":3727869,"language":"C++","submission_id":"702"},{"status":"ACCEPTED","team_id":"118","problem_id":1,"timestamp":3731443,"language":"C++","submission_id":"703"},{"status":"RUNTIME_ERROR","team_id":"261","problem_id":1,"timestamp":3740273,"language":"C++","submission_id":"704"},{"status":"WRONG_ANSWER","team_id":"266","problem_id":1,"timestamp":3740602,"language":"C++","submission_id":"705"},{"status":"ACCEPTED","team_id":"229","problem_id":1,"timestamp":3749986,"language":"C++","submission_id":"706"},{"status":"WRONG_ANSWER","team_id":"101","problem_id":2,"timestamp":3750239,"language":"C++","submission_id":"707"},{"status":"ACCEPTED","team_id":"256","problem_id":0,"timestamp":3756036,"language":"C++","submission_id":"708"},{"status":"ACCEPTED","team_id":"252","problem_id":0,"timestamp":3756466,"language":"C++","submission_id":"709"},{"status":"WRONG_ANSWER","team_id":"178","problem_id":1,"timestamp":3767972,"language":"Python 3","submission_id":"710"},{"status":"COMPILATION_ERROR","team_id":"204","problem_id":0,"timestamp":3770203,"language":"C","submission_id":"711"},{"status":"ACCEPTED","team_id":"169","problem_id":0,"timestamp":3771612,"language":"C++","submission_id":"712"},{"status":"WRONG_ANSWER","team_id":"266","problem_id":1,"timestamp":3775934,"language":"C++","submission_id":"713"},{"status":"RUNTIME_ERROR","team_id":"153","problem_id":1,"timestamp":3782184,"language":"C++","submission_id":"714"},{"status":"NO_OUTPUT","team_id":"127","problem_id":1,"timestamp":3783167,"language":"C++","submission_id":"715"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"189","problem_id":1,"timestamp":3801257,"language":"Java","submission_id":"716"},{"status":"WRONG_ANSWER","team_id":"176","problem_id":1,"timestamp":3801780,"language":"C++","submission_id":"717"},{"status":"OUTPUT_LIMIT_EXCEEDED","team_id":"141","problem_id":0,"timestamp":3811398,"language":"C++","submission_id":"718"},{"status":"WRONG_ANSWER","team_id":"136","problem_id":1,"timestamp":3814030,"language":"C++","submission_id":"719"},{"status":"WRONG_ANSWER","team_id":"241","problem_id":2,"timestamp":3819809,"language":"C++","submission_id":"720"},{"status":"WRONG_ANSWER","team_id":"138","problem_id":1,"timestamp":3821540,"language":"C++","submission_id":"721"},{"status":"WRONG_ANSWER","team_id":"261","problem_id":1,"timestamp":3824818,"language":"C++","submission_id":"722"},{"status":"ACCEPTED","team_id":"254","problem_id":1,"timestamp":3833477,"language":"C++","submission_id":"723"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"265","problem_id":1,"timestamp":3836685,"language":"C++","submission_id":"724"},{"status":"COMPILATION_ERROR","team_id":"176","problem_id":1,"timestamp":3843992,"language":"C++","submission_id":"725"},{"status":"RUNTIME_ERROR","team_id":"266","problem_id":1,"timestamp":3845830,"language":"C++","submission_id":"726"},{"status":"WRONG_ANSWER","team_id":"145","problem_id":0,"timestamp":3851697,"language":"C++","submission_id":"727"},{"status":"RUNTIME_ERROR","team_id":"225","problem_id":1,"timestamp":3865717,"language":"C++","submission_id":"728"},{"status":"WRONG_ANSWER","team_id":"127","problem_id":1,"timestamp":3869061,"language":"C++","submission_id":"729"},{"status":"NO_OUTPUT","team_id":"139","problem_id":0,"timestamp":3870585,"language":"C++","submission_id":"730"},{"status":"RUNTIME_ERROR","team_id":"216","problem_id":1,"timestamp":3878574,"language":"C++","submission_id":"731"},{"status":"WRONG_ANSWER","team_id":"130","problem_id":2,"timestamp":3879192,"language":"C++","submission_id":"732"},{"status":"RUNTIME_ERROR","team_id":"119","problem_id":1,"timestamp":3880041,"language":"C++","submission_id":"733"},{"status":"WRONG_ANSWER","team_id":"176","problem_id":1,"timestamp":3886428,"language":"C++","submission_id":"734"},{"status":"RUNTIME_ERROR","team_id":"170","problem_id":1,"timestamp":3890757,"language":"C++","submission_id":"735"},{"status":"NO_OUTPUT","team_id":"139","problem_id":1,"timestamp":3898155,"language":"C++","submission_id":"736"},{"status":"WRONG_ANSWER","team_id":"226","problem_id":1,"timestamp":3900412,"language":"C++","submission_id":"737"},{"status":"RUNTIME_ERROR","team_id":"104","problem_id":1,"timestamp":3902436,"language":"C++","submission_id":"738"},{"status":"ACCEPTED","team_id":"110","problem_id":0,"timestamp":3903955,"language":"C++","submission_id":"739"},{"status":"WRONG_ANSWER","team_id":"165","problem_id":1,"timestamp":3908847,"language":"C++","submission_id":"740"},{"status":"WRONG_ANSWER","team_id":"167","problem_id":1,"timestamp":3909918,"language":"C++","submission_id":"741"},{"status":"RUNTIME_ERROR","team_id":"153","problem_id":1,"timestamp":3916882,"language":"C++","submission_id":"742"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"206","problem_id":0,"timestamp":3920208,"language":"C++","submission_id":"743"},{"status":"WRONG_ANSWER","team_id":"101","problem_id":2,"timestamp":3924686,"language":"C++","submission_id":"744"},{"status":"WRONG_ANSWER","team_id":"167","problem_id":1,"timestamp":3926983,"language":"C++","submission_id":"745"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"141","problem_id":0,"timestamp":3930585,"language":"C++","submission_id":"746"},{"status":"WRONG_ANSWER","team_id":"167","problem_id":1,"timestamp":3933977,"language":"C++","submission_id":"747"},{"status":"ACCEPTED","team_id":"218","problem_id":1,"timestamp":3934658,"language":"C++","submission_id":"748"},{"status":"COMPILATION_ERROR","team_id":"266","problem_id":1,"timestamp":3937014,"language":"C++","submission_id":"749"},{"status":"WRONG_ANSWER","team_id":"167","problem_id":1,"timestamp":3940790,"language":"C++","submission_id":"750"},{"status":"WRONG_ANSWER","team_id":"168","problem_id":0,"timestamp":3944370,"language":"C++","submission_id":"751"},{"status":"WRONG_ANSWER","team_id":"120","problem_id":1,"timestamp":3954013,"language":"C++","submission_id":"752"},{"status":"WRONG_ANSWER","team_id":"176","problem_id":1,"timestamp":3961378,"language":"C++","submission_id":"753"},{"status":"WRONG_ANSWER","team_id":"214","problem_id":2,"timestamp":3964514,"language":"C++","submission_id":"754"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"189","problem_id":1,"timestamp":3965504,"language":"Java","submission_id":"755"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"204","problem_id":0,"timestamp":3969460,"language":"C","submission_id":"756"},{"status":"WRONG_ANSWER","team_id":"251","problem_id":0,"timestamp":3971119,"language":"C++","submission_id":"757"},{"status":"WRONG_ANSWER","team_id":"119","problem_id":1,"timestamp":3972293,"language":"C++","submission_id":"758"},{"status":"ACCEPTED","team_id":"225","problem_id":1,"timestamp":3978724,"language":"C++","submission_id":"759"},{"status":"WRONG_ANSWER","team_id":"130","problem_id":2,"timestamp":3980993,"language":"C++","submission_id":"760"},{"status":"RUNTIME_ERROR","team_id":"250","problem_id":1,"timestamp":3982310,"language":"C++","submission_id":"761"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"158","problem_id":2,"timestamp":3984825,"language":"C++","submission_id":"762"},{"status":"RUNTIME_ERROR","team_id":"170","problem_id":1,"timestamp":3984909,"language":"C++","submission_id":"763"},{"status":"WRONG_ANSWER","team_id":"180","problem_id":1,"timestamp":3987369,"language":"C++","submission_id":"764"},{"status":"WRONG_ANSWER","team_id":"234","problem_id":1,"timestamp":3987988,"language":"C++","submission_id":"765"},{"status":"WRONG_ANSWER","team_id":"241","problem_id":2,"timestamp":3993820,"language":"C++","submission_id":"766"},{"status":"RUNTIME_ERROR","team_id":"205","problem_id":1,"timestamp":3996289,"language":"C++","submission_id":"767"},{"status":"WRONG_ANSWER","team_id":"226","problem_id":1,"timestamp":3998864,"language":"C++","submission_id":"768"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"206","problem_id":0,"timestamp":3999553,"language":"C++","submission_id":"769"},{"status":"WRONG_ANSWER","team_id":"138","problem_id":1,"timestamp":4001760,"language":"C++","submission_id":"770"},{"status":"WRONG_ANSWER","team_id":"266","problem_id":1,"timestamp":4006978,"language":"C++","submission_id":"771"},{"status":"RUNTIME_ERROR","team_id":"214","problem_id":2,"timestamp":4009056,"language":"C++","submission_id":"772"},{"status":"WRONG_ANSWER","team_id":"221","problem_id":0,"timestamp":4012663,"language":"C++","submission_id":"773"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"158","problem_id":2,"timestamp":4014015,"language":"C++","submission_id":"774"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"265","problem_id":1,"timestamp":4021095,"language":"C++","submission_id":"775"},{"status":"WRONG_ANSWER","team_id":"234","problem_id":1,"timestamp":4027281,"language":"Python 3","submission_id":"776"},{"status":"WRONG_ANSWER","team_id":"216","problem_id":1,"timestamp":4027720,"language":"C++","submission_id":"777"},{"status":"WRONG_ANSWER","team_id":"211","problem_id":1,"timestamp":4033817,"language":"C++","submission_id":"778"},{"status":"WRONG_ANSWER","team_id":"206","problem_id":0,"timestamp":4041486,"language":"C++","submission_id":"779"},{"status":"WRONG_ANSWER","team_id":"107","problem_id":1,"timestamp":4041955,"language":"C++","submission_id":"780"},{"status":"WRONG_ANSWER","team_id":"114","problem_id":0,"timestamp":4044342,"language":"C++","submission_id":"781"},{"status":"WRONG_ANSWER","team_id":"223","problem_id":2,"timestamp":4044401,"language":"C++","submission_id":"782"},{"status":"NO_OUTPUT","team_id":"224","problem_id":0,"timestamp":4047366,"language":"C++","submission_id":"783"},{"status":"RUNTIME_ERROR","team_id":"205","problem_id":1,"timestamp":4055272,"language":"C++","submission_id":"784"},{"status":"WRONG_ANSWER","team_id":"202","problem_id":0,"timestamp":4055489,"language":"C++","submission_id":"785"},{"status":"WRONG_ANSWER","team_id":"155","problem_id":0,"timestamp":4059245,"language":"C++","submission_id":"786"},{"status":"WRONG_ANSWER","team_id":"228","problem_id":1,"timestamp":4064750,"language":"C++","submission_id":"787"},{"status":"WRONG_ANSWER","team_id":"165","problem_id":1,"timestamp":4065552,"language":"C++","submission_id":"788"},{"status":"WRONG_ANSWER","team_id":"150","problem_id":1,"timestamp":4069456,"language":"C++","submission_id":"789"},{"status":"TIME_LIMIT_EXCEEDED","team_id":"196","problem_id":2,"timestamp":4074978,"language":"C++","submission_id":"790"},{"status":"ACCEPTED","team_id":"106","problem_id":0,"timestamp":4075706,"language":"C++","submission_id":"791"},{"status":"RUNTIME_ERROR","team_id":"101","problem_id":1,"timestamp":4080575,"language":"C++","submission_id":"792"},{"status":"ACCEPTED","team_id":"143","problem_id":0,"timestamp":4084420,"language":"C++","submission_id":"793"}]
+[
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "211",
+    "problem_id": 1,
+    "timestamp": 408936,
+    "language": "C++",
+    "submission_id": "287"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "127",
+    "problem_id": 1,
+    "timestamp": 459987,
+    "language": "C++",
+    "submission_id": "288"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "262",
+    "problem_id": 0,
+    "timestamp": 507791,
+    "language": "C++",
+    "submission_id": "289"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "166",
+    "problem_id": 0,
+    "timestamp": 537175,
+    "language": "C++",
+    "submission_id": "290"
+  },
+  {
+    "status": "NO_OUTPUT",
+    "team_id": "166",
+    "problem_id": 0,
+    "timestamp": 584439,
+    "language": "C++",
+    "submission_id": "291"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "127",
+    "problem_id": 1,
+    "timestamp": 626783,
+    "language": "C++",
+    "submission_id": "292"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "166",
+    "problem_id": 0,
+    "timestamp": 628399,
+    "language": "C++",
+    "submission_id": "293"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "215",
+    "problem_id": 0,
+    "timestamp": 640916,
+    "language": "C++",
+    "submission_id": "294"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "166",
+    "problem_id": 0,
+    "timestamp": 647731,
+    "language": "C++",
+    "submission_id": "295"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "190",
+    "problem_id": 0,
+    "timestamp": 692169,
+    "language": "C++",
+    "submission_id": "296"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "189",
+    "problem_id": 0,
+    "timestamp": 729477,
+    "language": "C++",
+    "submission_id": "297"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "212",
+    "problem_id": 0,
+    "timestamp": 798374,
+    "language": "C++",
+    "submission_id": "298"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "101",
+    "problem_id": 0,
+    "timestamp": 812720,
+    "language": "C++",
+    "submission_id": "299"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "242",
+    "problem_id": 1,
+    "timestamp": 837489,
+    "language": "C++",
+    "submission_id": "300"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "212",
+    "problem_id": 0,
+    "timestamp": 848296,
+    "language": "C++",
+    "submission_id": "301"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "267",
+    "problem_id": 0,
+    "timestamp": 849680,
+    "language": "C++",
+    "submission_id": "302"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "128",
+    "problem_id": 1,
+    "timestamp": 850110,
+    "language": "C++",
+    "submission_id": "303"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "220",
+    "problem_id": 0,
+    "timestamp": 885594,
+    "language": "C++",
+    "submission_id": "304"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "171",
+    "problem_id": 0,
+    "timestamp": 903647,
+    "language": "C++",
+    "submission_id": "305"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "235",
+    "problem_id": 1,
+    "timestamp": 923210,
+    "language": "C++",
+    "submission_id": "306"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "171",
+    "problem_id": 0,
+    "timestamp": 936392,
+    "language": "C++",
+    "submission_id": "307"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "171",
+    "problem_id": 0,
+    "timestamp": 964122,
+    "language": "C++",
+    "submission_id": "308"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "130",
+    "problem_id": 1,
+    "timestamp": 978423,
+    "language": "C++",
+    "submission_id": "309"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "171",
+    "problem_id": 0,
+    "timestamp": 987665,
+    "language": "C++",
+    "submission_id": "310"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "130",
+    "problem_id": 1,
+    "timestamp": 998916,
+    "language": "C++",
+    "submission_id": "311"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "133",
+    "problem_id": 0,
+    "timestamp": 1013700,
+    "language": "C++",
+    "submission_id": "312"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "145",
+    "problem_id": 0,
+    "timestamp": 1045647,
+    "language": "C++",
+    "submission_id": "313"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "171",
+    "problem_id": 0,
+    "timestamp": 1048642,
+    "language": "C++",
+    "submission_id": "314"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "235",
+    "problem_id": 1,
+    "timestamp": 1066640,
+    "language": "C++",
+    "submission_id": "315"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "128",
+    "problem_id": 1,
+    "timestamp": 1074311,
+    "language": "C++",
+    "submission_id": "316"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "212",
+    "problem_id": 0,
+    "timestamp": 1088236,
+    "language": "C++",
+    "submission_id": "317"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "158",
+    "problem_id": 1,
+    "timestamp": 1089074,
+    "language": "C++",
+    "submission_id": "318"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "145",
+    "problem_id": 0,
+    "timestamp": 1100171,
+    "language": "C++",
+    "submission_id": "319"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "111",
+    "problem_id": 0,
+    "timestamp": 1104884,
+    "language": "Python 3",
+    "submission_id": "320"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "127",
+    "problem_id": 0,
+    "timestamp": 1113417,
+    "language": "C++",
+    "submission_id": "321"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "171",
+    "problem_id": 0,
+    "timestamp": 1118946,
+    "language": "C++",
+    "submission_id": "322"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "158",
+    "problem_id": 1,
+    "timestamp": 1171636,
+    "language": "C++",
+    "submission_id": "323"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "197",
+    "problem_id": 2,
+    "timestamp": 1175122,
+    "language": "C++",
+    "submission_id": "324"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "190",
+    "problem_id": 1,
+    "timestamp": 1182902,
+    "language": "C++",
+    "submission_id": "325"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "260",
+    "problem_id": 0,
+    "timestamp": 1196049,
+    "language": "C++",
+    "submission_id": "326"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "141",
+    "problem_id": 0,
+    "timestamp": 1214246,
+    "language": "C++",
+    "submission_id": "327"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "220",
+    "problem_id": 1,
+    "timestamp": 1311975,
+    "language": "C++",
+    "submission_id": "328"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "111",
+    "problem_id": 0,
+    "timestamp": 1332664,
+    "language": "Python 3",
+    "submission_id": "329"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "215",
+    "problem_id": 1,
+    "timestamp": 1342013,
+    "language": "C++",
+    "submission_id": "330"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "219",
+    "problem_id": 1,
+    "timestamp": 1367566,
+    "language": "C++",
+    "submission_id": "331"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "109",
+    "problem_id": 1,
+    "timestamp": 1371046,
+    "language": "C++",
+    "submission_id": "332"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "128",
+    "problem_id": 0,
+    "timestamp": 1373937,
+    "language": "C++",
+    "submission_id": "333"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "127",
+    "problem_id": 1,
+    "timestamp": 1391433,
+    "language": "C++",
+    "submission_id": "334"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "130",
+    "problem_id": 1,
+    "timestamp": 1397740,
+    "language": "C++",
+    "submission_id": "335"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "140",
+    "problem_id": 1,
+    "timestamp": 1419530,
+    "language": "C++",
+    "submission_id": "336"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "136",
+    "problem_id": 1,
+    "timestamp": 1431040,
+    "language": "C++",
+    "submission_id": "337"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "214",
+    "problem_id": 0,
+    "timestamp": 1432149,
+    "language": "C++",
+    "submission_id": "338"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "220",
+    "problem_id": 1,
+    "timestamp": 1459504,
+    "language": "C++",
+    "submission_id": "339"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "145",
+    "problem_id": 0,
+    "timestamp": 1467135,
+    "language": "C++",
+    "submission_id": "340"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "149",
+    "problem_id": 1,
+    "timestamp": 1469981,
+    "language": "C++",
+    "submission_id": "341"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "138",
+    "problem_id": 1,
+    "timestamp": 1486069,
+    "language": "C++",
+    "submission_id": "342"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "260",
+    "problem_id": 0,
+    "timestamp": 1488700,
+    "language": "C++",
+    "submission_id": "343"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "145",
+    "problem_id": 0,
+    "timestamp": 1499014,
+    "language": "C++",
+    "submission_id": "344"
+  },
+  {
+    "status": "RUNTIME_ERROR",
+    "team_id": "267",
+    "problem_id": 1,
+    "timestamp": 1503129,
+    "language": "C++",
+    "submission_id": "345"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "167",
+    "problem_id": 1,
+    "timestamp": 1521562,
+    "language": "C++",
+    "submission_id": "346"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "145",
+    "problem_id": 0,
+    "timestamp": 1522548,
+    "language": "C++",
+    "submission_id": "347"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "145",
+    "problem_id": 0,
+    "timestamp": 1541642,
+    "language": "C++",
+    "submission_id": "348"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "145",
+    "problem_id": 0,
+    "timestamp": 1562090,
+    "language": "C++",
+    "submission_id": "349"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "262",
+    "problem_id": 1,
+    "timestamp": 1573999,
+    "language": "C++",
+    "submission_id": "350"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "140",
+    "problem_id": 1,
+    "timestamp": 1576770,
+    "language": "C++",
+    "submission_id": "351"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "145",
+    "problem_id": 0,
+    "timestamp": 1580022,
+    "language": "C++",
+    "submission_id": "352"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "211",
+    "problem_id": 1,
+    "timestamp": 1587714,
+    "language": "C++",
+    "submission_id": "353"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "167",
+    "problem_id": 1,
+    "timestamp": 1590133,
+    "language": "C++",
+    "submission_id": "354"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "145",
+    "problem_id": 0,
+    "timestamp": 1597691,
+    "language": "C++",
+    "submission_id": "355"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "218",
+    "problem_id": 0,
+    "timestamp": 1601424,
+    "language": "C++",
+    "submission_id": "356"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "222",
+    "problem_id": 1,
+    "timestamp": 1602493,
+    "language": "C++",
+    "submission_id": "357"
+  },
+  {
+    "status": "RUNTIME_ERROR",
+    "team_id": "236",
+    "problem_id": 0,
+    "timestamp": 1608570,
+    "language": "C++",
+    "submission_id": "358"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "262",
+    "problem_id": 1,
+    "timestamp": 1619357,
+    "language": "C++",
+    "submission_id": "359"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "145",
+    "problem_id": 0,
+    "timestamp": 1621483,
+    "language": "C++",
+    "submission_id": "360"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "167",
+    "problem_id": 1,
+    "timestamp": 1629784,
+    "language": "C++",
+    "submission_id": "361"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "145",
+    "problem_id": 0,
+    "timestamp": 1645121,
+    "language": "C++",
+    "submission_id": "362"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "232",
+    "problem_id": 1,
+    "timestamp": 1651192,
+    "language": "C++",
+    "submission_id": "363"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "236",
+    "problem_id": 0,
+    "timestamp": 1658208,
+    "language": "C++",
+    "submission_id": "364"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "233",
+    "problem_id": 1,
+    "timestamp": 1675399,
+    "language": "C++",
+    "submission_id": "365"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "138",
+    "problem_id": 1,
+    "timestamp": 1678516,
+    "language": "C++",
+    "submission_id": "366"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "223",
+    "problem_id": 2,
+    "timestamp": 1682549,
+    "language": "C++",
+    "submission_id": "367"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "236",
+    "problem_id": 0,
+    "timestamp": 1684281,
+    "language": "C++",
+    "submission_id": "368"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "220",
+    "problem_id": 1,
+    "timestamp": 1688050,
+    "language": "C++",
+    "submission_id": "369"
+  },
+  {
+    "status": "RUNTIME_ERROR",
+    "team_id": "267",
+    "problem_id": 1,
+    "timestamp": 1692215,
+    "language": "C++",
+    "submission_id": "370"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "127",
+    "problem_id": 1,
+    "timestamp": 1710201,
+    "language": "C++",
+    "submission_id": "371"
+  },
+  {
+    "status": "RUNTIME_ERROR",
+    "team_id": "236",
+    "problem_id": 0,
+    "timestamp": 1713255,
+    "language": "C++",
+    "submission_id": "372"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "215",
+    "problem_id": 1,
+    "timestamp": 1728070,
+    "language": "C++",
+    "submission_id": "373"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "162",
+    "problem_id": 0,
+    "timestamp": 1739393,
+    "language": "C++",
+    "submission_id": "374"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "236",
+    "problem_id": 0,
+    "timestamp": 1740364,
+    "language": "C++",
+    "submission_id": "375"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "190",
+    "problem_id": 0,
+    "timestamp": 1812657,
+    "language": "C++",
+    "submission_id": "376"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "235",
+    "problem_id": 1,
+    "timestamp": 1830077,
+    "language": "C++",
+    "submission_id": "377"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "141",
+    "problem_id": 0,
+    "timestamp": 1831267,
+    "language": "C++",
+    "submission_id": "378"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "105",
+    "problem_id": 0,
+    "timestamp": 1832438,
+    "language": "C",
+    "submission_id": "379"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "162",
+    "problem_id": 0,
+    "timestamp": 1853954,
+    "language": "Python 3",
+    "submission_id": "380"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "222",
+    "problem_id": 1,
+    "timestamp": 1869532,
+    "language": "C++",
+    "submission_id": "381"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "236",
+    "problem_id": 0,
+    "timestamp": 1873331,
+    "language": "C++",
+    "submission_id": "382"
+  },
+  {
+    "status": "RUNTIME_ERROR",
+    "team_id": "109",
+    "problem_id": 1,
+    "timestamp": 1880266,
+    "language": "C++",
+    "submission_id": "383"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "236",
+    "problem_id": 0,
+    "timestamp": 1902484,
+    "language": "C++",
+    "submission_id": "384"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "103",
+    "problem_id": 0,
+    "timestamp": 1906904,
+    "language": "C++",
+    "submission_id": "385"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "140",
+    "problem_id": 1,
+    "timestamp": 1915453,
+    "language": "C++",
+    "submission_id": "386"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "102",
+    "problem_id": 0,
+    "timestamp": 1916425,
+    "language": "C++",
+    "submission_id": "387"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "205",
+    "problem_id": 0,
+    "timestamp": 1920601,
+    "language": "C++",
+    "submission_id": "388"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "109",
+    "problem_id": 1,
+    "timestamp": 1921540,
+    "language": "C++",
+    "submission_id": "389"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "212",
+    "problem_id": 1,
+    "timestamp": 1933738,
+    "language": "C++",
+    "submission_id": "390"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "220",
+    "problem_id": 1,
+    "timestamp": 1939298,
+    "language": "C++",
+    "submission_id": "391"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "103",
+    "problem_id": 0,
+    "timestamp": 1941089,
+    "language": "C++",
+    "submission_id": "392"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "223",
+    "problem_id": 2,
+    "timestamp": 1942350,
+    "language": "C++",
+    "submission_id": "393"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "109",
+    "problem_id": 1,
+    "timestamp": 1975334,
+    "language": "C++",
+    "submission_id": "394"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "216",
+    "problem_id": 1,
+    "timestamp": 1987644,
+    "language": "C++",
+    "submission_id": "395"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "242",
+    "problem_id": 2,
+    "timestamp": 2021676,
+    "language": "C++",
+    "submission_id": "396"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "109",
+    "problem_id": 1,
+    "timestamp": 2028934,
+    "language": "C++",
+    "submission_id": "397"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "258",
+    "problem_id": 0,
+    "timestamp": 2048342,
+    "language": "C++",
+    "submission_id": "398"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "130",
+    "problem_id": 0,
+    "timestamp": 2049971,
+    "language": "C++",
+    "submission_id": "399"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "233",
+    "problem_id": 1,
+    "timestamp": 2092423,
+    "language": "C++",
+    "submission_id": "400"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "105",
+    "problem_id": 0,
+    "timestamp": 2120410,
+    "language": "C",
+    "submission_id": "401"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "140",
+    "problem_id": 1,
+    "timestamp": 2129355,
+    "language": "C++",
+    "submission_id": "402"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "159",
+    "problem_id": 1,
+    "timestamp": 2139888,
+    "language": "C++",
+    "submission_id": "403"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "186",
+    "problem_id": 0,
+    "timestamp": 2150472,
+    "language": "C++",
+    "submission_id": "404"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "222",
+    "problem_id": 0,
+    "timestamp": 2157388,
+    "language": "C++",
+    "submission_id": "405"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "186",
+    "problem_id": 0,
+    "timestamp": 2172671,
+    "language": "C++",
+    "submission_id": "406"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "186",
+    "problem_id": 0,
+    "timestamp": 2190800,
+    "language": "C++",
+    "submission_id": "407"
+  },
+  {
+    "status": "RUNTIME_ERROR",
+    "team_id": "117",
+    "problem_id": 1,
+    "timestamp": 2195536,
+    "language": "C++",
+    "submission_id": "408"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "197",
+    "problem_id": 2,
+    "timestamp": 2203480,
+    "language": "C++",
+    "submission_id": "409"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "220",
+    "problem_id": 1,
+    "timestamp": 2210217,
+    "language": "C++",
+    "submission_id": "410"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "176",
+    "problem_id": 1,
+    "timestamp": 2213744,
+    "language": "C++",
+    "submission_id": "411"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "190",
+    "problem_id": 0,
+    "timestamp": 2214063,
+    "language": "C++",
+    "submission_id": "412"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "212",
+    "problem_id": 1,
+    "timestamp": 2214619,
+    "language": "C++",
+    "submission_id": "413"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "186",
+    "problem_id": 0,
+    "timestamp": 2216082,
+    "language": "C++",
+    "submission_id": "414"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "162",
+    "problem_id": 0,
+    "timestamp": 2218381,
+    "language": "C++",
+    "submission_id": "415"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "149",
+    "problem_id": 0,
+    "timestamp": 2224866,
+    "language": "C++",
+    "submission_id": "416"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "219",
+    "problem_id": 1,
+    "timestamp": 2243926,
+    "language": "C++",
+    "submission_id": "417"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "136",
+    "problem_id": 1,
+    "timestamp": 2254302,
+    "language": "C++",
+    "submission_id": "418"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "267",
+    "problem_id": 1,
+    "timestamp": 2258811,
+    "language": "C++",
+    "submission_id": "419"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "149",
+    "problem_id": 0,
+    "timestamp": 2260865,
+    "language": "C++",
+    "submission_id": "420"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "186",
+    "problem_id": 0,
+    "timestamp": 2275335,
+    "language": "C++",
+    "submission_id": "421"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "157",
+    "problem_id": 1,
+    "timestamp": 2276944,
+    "language": "C++",
+    "submission_id": "422"
+  },
+  {
+    "status": "RUNTIME_ERROR",
+    "team_id": "125",
+    "problem_id": 1,
+    "timestamp": 2284460,
+    "language": "C++",
+    "submission_id": "423"
+  },
+  {
+    "status": "RUNTIME_ERROR",
+    "team_id": "118",
+    "problem_id": 1,
+    "timestamp": 2293866,
+    "language": "C++",
+    "submission_id": "424"
+  },
+  {
+    "status": "RUNTIME_ERROR",
+    "team_id": "218",
+    "problem_id": 1,
+    "timestamp": 2301725,
+    "language": "C++",
+    "submission_id": "425"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "267",
+    "problem_id": 1,
+    "timestamp": 2311155,
+    "language": "C++",
+    "submission_id": "426"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "157",
+    "problem_id": 1,
+    "timestamp": 2322763,
+    "language": "C++",
+    "submission_id": "427"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "149",
+    "problem_id": 0,
+    "timestamp": 2325478,
+    "language": "C++",
+    "submission_id": "428"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "219",
+    "problem_id": 1,
+    "timestamp": 2328877,
+    "language": "C++",
+    "submission_id": "429"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "157",
+    "problem_id": 1,
+    "timestamp": 2351167,
+    "language": "C++",
+    "submission_id": "430"
+  },
+  {
+    "status": "RUNTIME_ERROR",
+    "team_id": "125",
+    "problem_id": 1,
+    "timestamp": 2361980,
+    "language": "C++",
+    "submission_id": "431"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "198",
+    "problem_id": 1,
+    "timestamp": 2373101,
+    "language": "C++",
+    "submission_id": "432"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "196",
+    "problem_id": 1,
+    "timestamp": 2375383,
+    "language": "C++",
+    "submission_id": "433"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "111",
+    "problem_id": 1,
+    "timestamp": 2376050,
+    "language": "C++",
+    "submission_id": "434"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "158",
+    "problem_id": 1,
+    "timestamp": 2376090,
+    "language": "C++",
+    "submission_id": "435"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "157",
+    "problem_id": 1,
+    "timestamp": 2385213,
+    "language": "C++",
+    "submission_id": "436"
+  },
+  {
+    "status": "RUNTIME_ERROR",
+    "team_id": "117",
+    "problem_id": 1,
+    "timestamp": 2398035,
+    "language": "C++",
+    "submission_id": "437"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "215",
+    "problem_id": 2,
+    "timestamp": 2401878,
+    "language": "C++",
+    "submission_id": "438"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "157",
+    "problem_id": 1,
+    "timestamp": 2407538,
+    "language": "C++",
+    "submission_id": "439"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "252",
+    "problem_id": 1,
+    "timestamp": 2408322,
+    "language": "C++",
+    "submission_id": "440"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "259",
+    "problem_id": 1,
+    "timestamp": 2409441,
+    "language": "C++",
+    "submission_id": "441"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "232",
+    "problem_id": 1,
+    "timestamp": 2423344,
+    "language": "C++",
+    "submission_id": "442"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "157",
+    "problem_id": 1,
+    "timestamp": 2437743,
+    "language": "C++",
+    "submission_id": "443"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "262",
+    "problem_id": 1,
+    "timestamp": 2445167,
+    "language": "C++",
+    "submission_id": "444"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "167",
+    "problem_id": 1,
+    "timestamp": 2462230,
+    "language": "C++",
+    "submission_id": "445"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "252",
+    "problem_id": 1,
+    "timestamp": 2467562,
+    "language": "C++",
+    "submission_id": "446"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "190",
+    "problem_id": 1,
+    "timestamp": 2468588,
+    "language": "C++",
+    "submission_id": "447"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "157",
+    "problem_id": 1,
+    "timestamp": 2473717,
+    "language": "C++",
+    "submission_id": "448"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "208",
+    "problem_id": 0,
+    "timestamp": 2485752,
+    "language": "C++",
+    "submission_id": "449"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "166",
+    "problem_id": 1,
+    "timestamp": 2487101,
+    "language": "C++",
+    "submission_id": "450"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "220",
+    "problem_id": 1,
+    "timestamp": 2488555,
+    "language": "C++",
+    "submission_id": "451"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "149",
+    "problem_id": 1,
+    "timestamp": 2495980,
+    "language": "C++",
+    "submission_id": "452"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "157",
+    "problem_id": 1,
+    "timestamp": 2497669,
+    "language": "C++",
+    "submission_id": "453"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "232",
+    "problem_id": 1,
+    "timestamp": 2512251,
+    "language": "C++",
+    "submission_id": "454"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "159",
+    "problem_id": 1,
+    "timestamp": 2513992,
+    "language": "C++",
+    "submission_id": "455"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "157",
+    "problem_id": 1,
+    "timestamp": 2519474,
+    "language": "C++",
+    "submission_id": "456"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "141",
+    "problem_id": 0,
+    "timestamp": 2526172,
+    "language": "C++",
+    "submission_id": "457"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "223",
+    "problem_id": 1,
+    "timestamp": 2532643,
+    "language": "C++",
+    "submission_id": "458"
+  },
+  {
+    "status": "RUNTIME_ERROR",
+    "team_id": "216",
+    "problem_id": 0,
+    "timestamp": 2542441,
+    "language": "C++",
+    "submission_id": "459"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "128",
+    "problem_id": 1,
+    "timestamp": 2551863,
+    "language": "C++",
+    "submission_id": "460"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "111",
+    "problem_id": 0,
+    "timestamp": 2552215,
+    "language": "Python 3",
+    "submission_id": "461"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "259",
+    "problem_id": 1,
+    "timestamp": 2554058,
+    "language": "C++",
+    "submission_id": "462"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "248",
+    "problem_id": 1,
+    "timestamp": 2557386,
+    "language": "C++",
+    "submission_id": "463"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "256",
+    "problem_id": 0,
+    "timestamp": 2563071,
+    "language": "C++",
+    "submission_id": "464"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "212",
+    "problem_id": 1,
+    "timestamp": 2571364,
+    "language": "C++",
+    "submission_id": "465"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "152",
+    "problem_id": 0,
+    "timestamp": 2573592,
+    "language": "C++",
+    "submission_id": "466"
+  },
+  {
+    "status": "RUNTIME_ERROR",
+    "team_id": "218",
+    "problem_id": 1,
+    "timestamp": 2577977,
+    "language": "C++",
+    "submission_id": "467"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "111",
+    "problem_id": 0,
+    "timestamp": 2580910,
+    "language": "Python 3",
+    "submission_id": "468"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "242",
+    "problem_id": 0,
+    "timestamp": 2582592,
+    "language": "C++",
+    "submission_id": "469"
+  },
+  {
+    "status": "NO_OUTPUT",
+    "team_id": "190",
+    "problem_id": 0,
+    "timestamp": 2584118,
+    "language": "C++",
+    "submission_id": "470"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "157",
+    "problem_id": 2,
+    "timestamp": 2585972,
+    "language": "C++",
+    "submission_id": "471"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "124",
+    "problem_id": 0,
+    "timestamp": 2586393,
+    "language": "C++",
+    "submission_id": "472"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "191",
+    "problem_id": 0,
+    "timestamp": 2590809,
+    "language": "C++",
+    "submission_id": "473"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "165",
+    "problem_id": 0,
+    "timestamp": 2602588,
+    "language": "C++",
+    "submission_id": "474"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "111",
+    "problem_id": 0,
+    "timestamp": 2603734,
+    "language": "Python 3",
+    "submission_id": "475"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "191",
+    "problem_id": 1,
+    "timestamp": 2607088,
+    "language": "C++",
+    "submission_id": "476"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "157",
+    "problem_id": 0,
+    "timestamp": 2616338,
+    "language": "C++",
+    "submission_id": "477"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "172",
+    "problem_id": 1,
+    "timestamp": 2618821,
+    "language": "C++",
+    "submission_id": "478"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "191",
+    "problem_id": 2,
+    "timestamp": 2619884,
+    "language": "C++",
+    "submission_id": "479"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "190",
+    "problem_id": 0,
+    "timestamp": 2625848,
+    "language": "C++",
+    "submission_id": "480"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "111",
+    "problem_id": 0,
+    "timestamp": 2631125,
+    "language": "Python 3",
+    "submission_id": "481"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "124",
+    "problem_id": 0,
+    "timestamp": 2637513,
+    "language": "C++",
+    "submission_id": "482"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "119",
+    "problem_id": 0,
+    "timestamp": 2649638,
+    "language": "C++",
+    "submission_id": "483"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "107",
+    "problem_id": 1,
+    "timestamp": 2658691,
+    "language": "C++",
+    "submission_id": "484"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "229",
+    "problem_id": 1,
+    "timestamp": 2664424,
+    "language": "C++",
+    "submission_id": "485"
+  },
+  {
+    "status": "RUNTIME_ERROR",
+    "team_id": "125",
+    "problem_id": 1,
+    "timestamp": 2666400,
+    "language": "C++",
+    "submission_id": "486"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "180",
+    "problem_id": 1,
+    "timestamp": 2672787,
+    "language": "C++",
+    "submission_id": "487"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "167",
+    "problem_id": 1,
+    "timestamp": 2679130,
+    "language": "C++",
+    "submission_id": "488"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "236",
+    "problem_id": 0,
+    "timestamp": 2700589,
+    "language": "C++",
+    "submission_id": "489"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "141",
+    "problem_id": 0,
+    "timestamp": 2700960,
+    "language": "C++",
+    "submission_id": "490"
+  },
+  {
+    "status": "RUNTIME_ERROR",
+    "team_id": "117",
+    "problem_id": 1,
+    "timestamp": 2706572,
+    "language": "C++",
+    "submission_id": "491"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "118",
+    "problem_id": 0,
+    "timestamp": 2721011,
+    "language": "C++",
+    "submission_id": "492"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "141",
+    "problem_id": 0,
+    "timestamp": 2725102,
+    "language": "C++",
+    "submission_id": "493"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "123",
+    "problem_id": 1,
+    "timestamp": 2731197,
+    "language": "C++",
+    "submission_id": "494"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "176",
+    "problem_id": 1,
+    "timestamp": 2732912,
+    "language": "C++",
+    "submission_id": "495"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "141",
+    "problem_id": 0,
+    "timestamp": 2747549,
+    "language": "C++",
+    "submission_id": "496"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "101",
+    "problem_id": 1,
+    "timestamp": 2750037,
+    "language": "C++",
+    "submission_id": "497"
+  },
+  {
+    "status": "RUNTIME_ERROR",
+    "team_id": "197",
+    "problem_id": 1,
+    "timestamp": 2762294,
+    "language": "C++",
+    "submission_id": "498"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "127",
+    "problem_id": 0,
+    "timestamp": 2764438,
+    "language": "C++",
+    "submission_id": "499"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "229",
+    "problem_id": 1,
+    "timestamp": 2765058,
+    "language": "C++",
+    "submission_id": "500"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "178",
+    "problem_id": 1,
+    "timestamp": 2772132,
+    "language": "Python 3",
+    "submission_id": "501"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "141",
+    "problem_id": 0,
+    "timestamp": 2776227,
+    "language": "C++",
+    "submission_id": "502"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "157",
+    "problem_id": 1,
+    "timestamp": 2786520,
+    "language": "C++",
+    "submission_id": "503"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "127",
+    "problem_id": 0,
+    "timestamp": 2786869,
+    "language": "C++",
+    "submission_id": "504"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "266",
+    "problem_id": 0,
+    "timestamp": 2787403,
+    "language": "C++",
+    "submission_id": "505"
+  },
+  {
+    "status": "COMPILATION_ERROR",
+    "team_id": "141",
+    "problem_id": 0,
+    "timestamp": 2803486,
+    "language": "C++",
+    "submission_id": "506"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "157",
+    "problem_id": 1,
+    "timestamp": 2808414,
+    "language": "C++",
+    "submission_id": "507"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "109",
+    "problem_id": 1,
+    "timestamp": 2811829,
+    "language": "C++",
+    "submission_id": "508"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "127",
+    "problem_id": 0,
+    "timestamp": 2820665,
+    "language": "C++",
+    "submission_id": "509"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "157",
+    "problem_id": 1,
+    "timestamp": 2827647,
+    "language": "C++",
+    "submission_id": "510"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "176",
+    "problem_id": 1,
+    "timestamp": 2828756,
+    "language": "C++",
+    "submission_id": "511"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "141",
+    "problem_id": 0,
+    "timestamp": 2829225,
+    "language": "C++",
+    "submission_id": "512"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "127",
+    "problem_id": 0,
+    "timestamp": 2829441,
+    "language": "C++",
+    "submission_id": "513"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "111",
+    "problem_id": 2,
+    "timestamp": 2834968,
+    "language": "C++",
+    "submission_id": "514"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "119",
+    "problem_id": 0,
+    "timestamp": 2836128,
+    "language": "C++",
+    "submission_id": "515"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "216",
+    "problem_id": 0,
+    "timestamp": 2838463,
+    "language": "C++",
+    "submission_id": "516"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "166",
+    "problem_id": 1,
+    "timestamp": 2838674,
+    "language": "C++",
+    "submission_id": "517"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "152",
+    "problem_id": 0,
+    "timestamp": 2839798,
+    "language": "C++",
+    "submission_id": "518"
+  },
+  {
+    "status": "RUNTIME_ERROR",
+    "team_id": "102",
+    "problem_id": 1,
+    "timestamp": 2840534,
+    "language": "C++",
+    "submission_id": "519"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "222",
+    "problem_id": 2,
+    "timestamp": 2844030,
+    "language": "C++",
+    "submission_id": "520"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "127",
+    "problem_id": 1,
+    "timestamp": 2846636,
+    "language": "C++",
+    "submission_id": "521"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "203",
+    "problem_id": 1,
+    "timestamp": 2850102,
+    "language": "Python 3",
+    "submission_id": "522"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "141",
+    "problem_id": 0,
+    "timestamp": 2854829,
+    "language": "C++",
+    "submission_id": "523"
+  },
+  {
+    "status": "RUNTIME_ERROR",
+    "team_id": "118",
+    "problem_id": 1,
+    "timestamp": 2855388,
+    "language": "C++",
+    "submission_id": "524"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "152",
+    "problem_id": 0,
+    "timestamp": 2862171,
+    "language": "C++",
+    "submission_id": "525"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "127",
+    "problem_id": 1,
+    "timestamp": 2862975,
+    "language": "C++",
+    "submission_id": "526"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "246",
+    "problem_id": 1,
+    "timestamp": 2867569,
+    "language": "C++",
+    "submission_id": "527"
+  },
+  {
+    "status": "RUNTIME_ERROR",
+    "team_id": "120",
+    "problem_id": 1,
+    "timestamp": 2871258,
+    "language": "C++",
+    "submission_id": "528"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "127",
+    "problem_id": 1,
+    "timestamp": 2871484,
+    "language": "C++",
+    "submission_id": "529"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "141",
+    "problem_id": 0,
+    "timestamp": 2874389,
+    "language": "C++",
+    "submission_id": "530"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "152",
+    "problem_id": 0,
+    "timestamp": 2887615,
+    "language": "C++",
+    "submission_id": "531"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "218",
+    "problem_id": 0,
+    "timestamp": 2890900,
+    "language": "C++",
+    "submission_id": "532"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "165",
+    "problem_id": 1,
+    "timestamp": 2897195,
+    "language": "C++",
+    "submission_id": "533"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "190",
+    "problem_id": 0,
+    "timestamp": 2900732,
+    "language": "C++",
+    "submission_id": "534"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "127",
+    "problem_id": 1,
+    "timestamp": 2903267,
+    "language": "C++",
+    "submission_id": "535"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "111",
+    "problem_id": 2,
+    "timestamp": 2906094,
+    "language": "C++",
+    "submission_id": "536"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "152",
+    "problem_id": 0,
+    "timestamp": 2907792,
+    "language": "C++",
+    "submission_id": "537"
+  },
+  {
+    "status": "RUNTIME_ERROR",
+    "team_id": "101",
+    "problem_id": 2,
+    "timestamp": 2910788,
+    "language": "C++",
+    "submission_id": "538"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "127",
+    "problem_id": 1,
+    "timestamp": 2916576,
+    "language": "C++",
+    "submission_id": "539"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "171",
+    "problem_id": 0,
+    "timestamp": 2919912,
+    "language": "C++",
+    "submission_id": "540"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "127",
+    "problem_id": 1,
+    "timestamp": 2921282,
+    "language": "C++",
+    "submission_id": "541"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "254",
+    "problem_id": 1,
+    "timestamp": 2926383,
+    "language": "C++",
+    "submission_id": "542"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "266",
+    "problem_id": 0,
+    "timestamp": 2927783,
+    "language": "C++",
+    "submission_id": "543"
+  },
+  {
+    "status": "RUNTIME_ERROR",
+    "team_id": "141",
+    "problem_id": 0,
+    "timestamp": 2928246,
+    "language": "C++",
+    "submission_id": "544"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "242",
+    "problem_id": 1,
+    "timestamp": 2933035,
+    "language": "C++",
+    "submission_id": "545"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "127",
+    "problem_id": 1,
+    "timestamp": 2933946,
+    "language": "C++",
+    "submission_id": "546"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "111",
+    "problem_id": 2,
+    "timestamp": 2935903,
+    "language": "C++",
+    "submission_id": "547"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "127",
+    "problem_id": 1,
+    "timestamp": 2944376,
+    "language": "C++",
+    "submission_id": "548"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "110",
+    "problem_id": 1,
+    "timestamp": 2949424,
+    "language": "C++",
+    "submission_id": "549"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "127",
+    "problem_id": 1,
+    "timestamp": 2953674,
+    "language": "C++",
+    "submission_id": "550"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "226",
+    "problem_id": 0,
+    "timestamp": 2954474,
+    "language": "C++",
+    "submission_id": "551"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "141",
+    "problem_id": 0,
+    "timestamp": 2956626,
+    "language": "C++",
+    "submission_id": "552"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "127",
+    "problem_id": 1,
+    "timestamp": 2958375,
+    "language": "C++",
+    "submission_id": "553"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "140",
+    "problem_id": 1,
+    "timestamp": 2962284,
+    "language": "C++",
+    "submission_id": "554"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "127",
+    "problem_id": 1,
+    "timestamp": 2962454,
+    "language": "C++",
+    "submission_id": "555"
+  },
+  {
+    "status": "RUNTIME_ERROR",
+    "team_id": "207",
+    "problem_id": 1,
+    "timestamp": 2963044,
+    "language": "C++",
+    "submission_id": "556"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "127",
+    "problem_id": 1,
+    "timestamp": 2966495,
+    "language": "C++",
+    "submission_id": "557"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "211",
+    "problem_id": 1,
+    "timestamp": 2970817,
+    "language": "C++",
+    "submission_id": "558"
+  },
+  {
+    "status": "RUNTIME_ERROR",
+    "team_id": "102",
+    "problem_id": 1,
+    "timestamp": 2972034,
+    "language": "C++",
+    "submission_id": "559"
+  },
+  {
+    "status": "NO_OUTPUT",
+    "team_id": "117",
+    "problem_id": 1,
+    "timestamp": 2976324,
+    "language": "C++",
+    "submission_id": "560"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "242",
+    "problem_id": 1,
+    "timestamp": 2977748,
+    "language": "C++",
+    "submission_id": "561"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "141",
+    "problem_id": 0,
+    "timestamp": 2981277,
+    "language": "C++",
+    "submission_id": "562"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "225",
+    "problem_id": 0,
+    "timestamp": 2990559,
+    "language": "C++",
+    "submission_id": "563"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "214",
+    "problem_id": 1,
+    "timestamp": 2998728,
+    "language": "C++",
+    "submission_id": "564"
+  },
+  {
+    "status": "NO_OUTPUT",
+    "team_id": "163",
+    "problem_id": 1,
+    "timestamp": 3000622,
+    "language": "Python 3",
+    "submission_id": "565"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "117",
+    "problem_id": 1,
+    "timestamp": 3004218,
+    "language": "C++",
+    "submission_id": "566"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "158",
+    "problem_id": 1,
+    "timestamp": 3009990,
+    "language": "C++",
+    "submission_id": "567"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "141",
+    "problem_id": 0,
+    "timestamp": 3012057,
+    "language": "C++",
+    "submission_id": "568"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "135",
+    "problem_id": 0,
+    "timestamp": 3012844,
+    "language": "C++",
+    "submission_id": "569"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "111",
+    "problem_id": 2,
+    "timestamp": 3015330,
+    "language": "C++",
+    "submission_id": "570"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "154",
+    "problem_id": 0,
+    "timestamp": 3024660,
+    "language": "C++",
+    "submission_id": "571"
+  },
+  {
+    "status": "RUNTIME_ERROR",
+    "team_id": "207",
+    "problem_id": 1,
+    "timestamp": 3026841,
+    "language": "C++",
+    "submission_id": "572"
+  },
+  {
+    "status": "RUNTIME_ERROR",
+    "team_id": "141",
+    "problem_id": 0,
+    "timestamp": 3047042,
+    "language": "C++",
+    "submission_id": "573"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "212",
+    "problem_id": 1,
+    "timestamp": 3048094,
+    "language": "C++",
+    "submission_id": "574"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "159",
+    "problem_id": 1,
+    "timestamp": 3051540,
+    "language": "C++",
+    "submission_id": "575"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "148",
+    "problem_id": 1,
+    "timestamp": 3060954,
+    "language": "C++",
+    "submission_id": "576"
+  },
+  {
+    "status": "RUNTIME_ERROR",
+    "team_id": "242",
+    "problem_id": 1,
+    "timestamp": 3067173,
+    "language": "C++",
+    "submission_id": "577"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "196",
+    "problem_id": 0,
+    "timestamp": 3067375,
+    "language": "C++",
+    "submission_id": "578"
+  },
+  {
+    "status": "RUNTIME_ERROR",
+    "team_id": "141",
+    "problem_id": 0,
+    "timestamp": 3071272,
+    "language": "C++",
+    "submission_id": "579"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "238",
+    "problem_id": 0,
+    "timestamp": 3085475,
+    "language": "C++",
+    "submission_id": "580"
+  },
+  {
+    "status": "COMPILATION_ERROR",
+    "team_id": "103",
+    "problem_id": 0,
+    "timestamp": 3092556,
+    "language": "C++",
+    "submission_id": "581"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "191",
+    "problem_id": 0,
+    "timestamp": 3094866,
+    "language": "C++",
+    "submission_id": "582"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "141",
+    "problem_id": 0,
+    "timestamp": 3098284,
+    "language": "C++",
+    "submission_id": "583"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "267",
+    "problem_id": 2,
+    "timestamp": 3103886,
+    "language": "C++",
+    "submission_id": "584"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "190",
+    "problem_id": 0,
+    "timestamp": 3106023,
+    "language": "C++",
+    "submission_id": "585"
+  },
+  {
+    "status": "RUNTIME_ERROR",
+    "team_id": "155",
+    "problem_id": 0,
+    "timestamp": 3111223,
+    "language": "C++",
+    "submission_id": "586"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "158",
+    "problem_id": 1,
+    "timestamp": 3124344,
+    "language": "C++",
+    "submission_id": "587"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "145",
+    "problem_id": 0,
+    "timestamp": 3134496,
+    "language": "C++",
+    "submission_id": "588"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "109",
+    "problem_id": 0,
+    "timestamp": 3140451,
+    "language": "C++",
+    "submission_id": "589"
+  },
+  {
+    "status": "RUNTIME_ERROR",
+    "team_id": "207",
+    "problem_id": 1,
+    "timestamp": 3142925,
+    "language": "C++",
+    "submission_id": "590"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "186",
+    "problem_id": 0,
+    "timestamp": 3145054,
+    "language": "C++",
+    "submission_id": "591"
+  },
+  {
+    "status": "RUNTIME_ERROR",
+    "team_id": "120",
+    "problem_id": 1,
+    "timestamp": 3149897,
+    "language": "C++",
+    "submission_id": "592"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "136",
+    "problem_id": 0,
+    "timestamp": 3158369,
+    "language": "C++",
+    "submission_id": "593"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "149",
+    "problem_id": 0,
+    "timestamp": 3158683,
+    "language": "C++",
+    "submission_id": "594"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "186",
+    "problem_id": 0,
+    "timestamp": 3167648,
+    "language": "C++",
+    "submission_id": "595"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "186",
+    "problem_id": 0,
+    "timestamp": 3183835,
+    "language": "C++",
+    "submission_id": "596"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "207",
+    "problem_id": 1,
+    "timestamp": 3195571,
+    "language": "C++",
+    "submission_id": "597"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "125",
+    "problem_id": 0,
+    "timestamp": 3201954,
+    "language": "C++",
+    "submission_id": "598"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "198",
+    "problem_id": 1,
+    "timestamp": 3202449,
+    "language": "C++",
+    "submission_id": "599"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "127",
+    "problem_id": 1,
+    "timestamp": 3207780,
+    "language": "C++",
+    "submission_id": "600"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "186",
+    "problem_id": 0,
+    "timestamp": 3209685,
+    "language": "C++",
+    "submission_id": "601"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "152",
+    "problem_id": 0,
+    "timestamp": 3210089,
+    "language": "C++",
+    "submission_id": "602"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "241",
+    "problem_id": 1,
+    "timestamp": 3211419,
+    "language": "C++",
+    "submission_id": "603"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "212",
+    "problem_id": 1,
+    "timestamp": 3214266,
+    "language": "C++",
+    "submission_id": "604"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "210",
+    "problem_id": 0,
+    "timestamp": 3222001,
+    "language": "C++",
+    "submission_id": "605"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "186",
+    "problem_id": 0,
+    "timestamp": 3227762,
+    "language": "C++",
+    "submission_id": "606"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "218",
+    "problem_id": 0,
+    "timestamp": 3228634,
+    "language": "C++",
+    "submission_id": "607"
+  },
+  {
+    "status": "RUNTIME_ERROR",
+    "team_id": "115",
+    "problem_id": 1,
+    "timestamp": 3230672,
+    "language": "C++",
+    "submission_id": "608"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "222",
+    "problem_id": 1,
+    "timestamp": 3233323,
+    "language": "C++",
+    "submission_id": "609"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "111",
+    "problem_id": 0,
+    "timestamp": 3237337,
+    "language": "C++",
+    "submission_id": "610"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "107",
+    "problem_id": 1,
+    "timestamp": 3241181,
+    "language": "C++",
+    "submission_id": "611"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "210",
+    "problem_id": 0,
+    "timestamp": 3247782,
+    "language": "C++",
+    "submission_id": "612"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "186",
+    "problem_id": 0,
+    "timestamp": 3248929,
+    "language": "C++",
+    "submission_id": "613"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "169",
+    "problem_id": 0,
+    "timestamp": 3250524,
+    "language": "C++",
+    "submission_id": "614"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "210",
+    "problem_id": 0,
+    "timestamp": 3267332,
+    "language": "C++",
+    "submission_id": "615"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "236",
+    "problem_id": 0,
+    "timestamp": 3268555,
+    "language": "C++",
+    "submission_id": "616"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "255",
+    "problem_id": 0,
+    "timestamp": 3278246,
+    "language": "C++",
+    "submission_id": "617"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "233",
+    "problem_id": 1,
+    "timestamp": 3280156,
+    "language": "C++",
+    "submission_id": "618"
+  },
+  {
+    "status": "RUNTIME_ERROR",
+    "team_id": "155",
+    "problem_id": 0,
+    "timestamp": 3282655,
+    "language": "C++",
+    "submission_id": "619"
+  },
+  {
+    "status": "RUNTIME_ERROR",
+    "team_id": "191",
+    "problem_id": 0,
+    "timestamp": 3284671,
+    "language": "C++",
+    "submission_id": "620"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "210",
+    "problem_id": 0,
+    "timestamp": 3287534,
+    "language": "C++",
+    "submission_id": "621"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "169",
+    "problem_id": 0,
+    "timestamp": 3291260,
+    "language": "C++",
+    "submission_id": "622"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "165",
+    "problem_id": 1,
+    "timestamp": 3297614,
+    "language": "C++",
+    "submission_id": "623"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "150",
+    "problem_id": 0,
+    "timestamp": 3298749,
+    "language": "C++",
+    "submission_id": "624"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "210",
+    "problem_id": 0,
+    "timestamp": 3306660,
+    "language": "C++",
+    "submission_id": "625"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "131",
+    "problem_id": 2,
+    "timestamp": 3308757,
+    "language": "C++",
+    "submission_id": "626"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "210",
+    "problem_id": 0,
+    "timestamp": 3319442,
+    "language": "C++",
+    "submission_id": "627"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "207",
+    "problem_id": 1,
+    "timestamp": 3322452,
+    "language": "C++",
+    "submission_id": "628"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "111",
+    "problem_id": 0,
+    "timestamp": 3324657,
+    "language": "C++",
+    "submission_id": "629"
+  },
+  {
+    "status": "RUNTIME_ERROR",
+    "team_id": "125",
+    "problem_id": 1,
+    "timestamp": 3327397,
+    "language": "C++",
+    "submission_id": "630"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "147",
+    "problem_id": 0,
+    "timestamp": 3330405,
+    "language": "C++",
+    "submission_id": "631"
+  },
+  {
+    "status": "RUNTIME_ERROR",
+    "team_id": "197",
+    "problem_id": 1,
+    "timestamp": 3337134,
+    "language": "C++",
+    "submission_id": "632"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "210",
+    "problem_id": 0,
+    "timestamp": 3342204,
+    "language": "C++",
+    "submission_id": "633"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "128",
+    "problem_id": 2,
+    "timestamp": 3349261,
+    "language": "C++",
+    "submission_id": "634"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "155",
+    "problem_id": 0,
+    "timestamp": 3353399,
+    "language": "C++",
+    "submission_id": "635"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "111",
+    "problem_id": 0,
+    "timestamp": 3357382,
+    "language": "C++",
+    "submission_id": "636"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "176",
+    "problem_id": 1,
+    "timestamp": 3360932,
+    "language": "C++",
+    "submission_id": "637"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "106",
+    "problem_id": 0,
+    "timestamp": 3364496,
+    "language": "C++",
+    "submission_id": "638"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "218",
+    "problem_id": 1,
+    "timestamp": 3368935,
+    "language": "C++",
+    "submission_id": "639"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "259",
+    "problem_id": 2,
+    "timestamp": 3376142,
+    "language": "C++",
+    "submission_id": "640"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "265",
+    "problem_id": 1,
+    "timestamp": 3382278,
+    "language": "C++",
+    "submission_id": "641"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "185",
+    "problem_id": 0,
+    "timestamp": 3385586,
+    "language": "C++",
+    "submission_id": "642"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "106",
+    "problem_id": 0,
+    "timestamp": 3387177,
+    "language": "C++",
+    "submission_id": "643"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "191",
+    "problem_id": 0,
+    "timestamp": 3390470,
+    "language": "C++",
+    "submission_id": "644"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "123",
+    "problem_id": 1,
+    "timestamp": 3392648,
+    "language": "C++",
+    "submission_id": "645"
+  },
+  {
+    "status": "RUNTIME_ERROR",
+    "team_id": "101",
+    "problem_id": 1,
+    "timestamp": 3392674,
+    "language": "C++",
+    "submission_id": "646"
+  },
+  {
+    "status": "RUNTIME_ERROR",
+    "team_id": "154",
+    "problem_id": 0,
+    "timestamp": 3394553,
+    "language": "C++",
+    "submission_id": "647"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "229",
+    "problem_id": 1,
+    "timestamp": 3402261,
+    "language": "C++",
+    "submission_id": "648"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "106",
+    "problem_id": 0,
+    "timestamp": 3405036,
+    "language": "C++",
+    "submission_id": "649"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "235",
+    "problem_id": 0,
+    "timestamp": 3418086,
+    "language": "C++",
+    "submission_id": "650"
+  },
+  {
+    "status": "RUNTIME_ERROR",
+    "team_id": "154",
+    "problem_id": 0,
+    "timestamp": 3419555,
+    "language": "C++",
+    "submission_id": "651"
+  },
+  {
+    "status": "RUNTIME_ERROR",
+    "team_id": "117",
+    "problem_id": 1,
+    "timestamp": 3420736,
+    "language": "C++",
+    "submission_id": "652"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "106",
+    "problem_id": 0,
+    "timestamp": 3423468,
+    "language": "C++",
+    "submission_id": "653"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "223",
+    "problem_id": 1,
+    "timestamp": 3439076,
+    "language": "C++",
+    "submission_id": "654"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "218",
+    "problem_id": 1,
+    "timestamp": 3447683,
+    "language": "C++",
+    "submission_id": "655"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "154",
+    "problem_id": 0,
+    "timestamp": 3451797,
+    "language": "C++",
+    "submission_id": "656"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "103",
+    "problem_id": 0,
+    "timestamp": 3452958,
+    "language": "C++",
+    "submission_id": "657"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "128",
+    "problem_id": 2,
+    "timestamp": 3458131,
+    "language": "C++",
+    "submission_id": "658"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "155",
+    "problem_id": 0,
+    "timestamp": 3470309,
+    "language": "C++",
+    "submission_id": "659"
+  },
+  {
+    "status": "NO_OUTPUT",
+    "team_id": "229",
+    "problem_id": 1,
+    "timestamp": 3472925,
+    "language": "C++",
+    "submission_id": "660"
+  },
+  {
+    "status": "RUNTIME_ERROR",
+    "team_id": "117",
+    "problem_id": 1,
+    "timestamp": 3473094,
+    "language": "C++",
+    "submission_id": "661"
+  },
+  {
+    "status": "RUNTIME_ERROR",
+    "team_id": "154",
+    "problem_id": 0,
+    "timestamp": 3474231,
+    "language": "C++",
+    "submission_id": "662"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "116",
+    "problem_id": 0,
+    "timestamp": 3480712,
+    "language": "C++",
+    "submission_id": "663"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "246",
+    "problem_id": 1,
+    "timestamp": 3502319,
+    "language": "C++",
+    "submission_id": "664"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "154",
+    "problem_id": 0,
+    "timestamp": 3506387,
+    "language": "C++",
+    "submission_id": "665"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "117",
+    "problem_id": 1,
+    "timestamp": 3510455,
+    "language": "C++",
+    "submission_id": "666"
+  },
+  {
+    "status": "RUNTIME_ERROR",
+    "team_id": "120",
+    "problem_id": 1,
+    "timestamp": 3516120,
+    "language": "C++",
+    "submission_id": "667"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "198",
+    "problem_id": 1,
+    "timestamp": 3532043,
+    "language": "C++",
+    "submission_id": "668"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "124",
+    "problem_id": 1,
+    "timestamp": 3532437,
+    "language": "C++",
+    "submission_id": "669"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "158",
+    "problem_id": 1,
+    "timestamp": 3532523,
+    "language": "C++",
+    "submission_id": "670"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "141",
+    "problem_id": 0,
+    "timestamp": 3534175,
+    "language": "C++",
+    "submission_id": "671"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "154",
+    "problem_id": 0,
+    "timestamp": 3535438,
+    "language": "C++",
+    "submission_id": "672"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "216",
+    "problem_id": 0,
+    "timestamp": 3545914,
+    "language": "C++",
+    "submission_id": "673"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "266",
+    "problem_id": 1,
+    "timestamp": 3547046,
+    "language": "C++",
+    "submission_id": "674"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "196",
+    "problem_id": 1,
+    "timestamp": 3555303,
+    "language": "C++",
+    "submission_id": "675"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "161",
+    "problem_id": 0,
+    "timestamp": 3555589,
+    "language": "C++",
+    "submission_id": "676"
+  },
+  {
+    "status": "RUNTIME_ERROR",
+    "team_id": "101",
+    "problem_id": 1,
+    "timestamp": 3562442,
+    "language": "C++",
+    "submission_id": "677"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "154",
+    "problem_id": 0,
+    "timestamp": 3562651,
+    "language": "C++",
+    "submission_id": "678"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "172",
+    "problem_id": 1,
+    "timestamp": 3569053,
+    "language": "C++",
+    "submission_id": "679"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "128",
+    "problem_id": 2,
+    "timestamp": 3573736,
+    "language": "C++",
+    "submission_id": "680"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "154",
+    "problem_id": 0,
+    "timestamp": 3585083,
+    "language": "C++",
+    "submission_id": "681"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "265",
+    "problem_id": 1,
+    "timestamp": 3595729,
+    "language": "C++",
+    "submission_id": "682"
+  },
+  {
+    "status": "RUNTIME_ERROR",
+    "team_id": "117",
+    "problem_id": 1,
+    "timestamp": 3595872,
+    "language": "C++",
+    "submission_id": "683"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "156",
+    "problem_id": 0,
+    "timestamp": 3608155,
+    "language": "C++",
+    "submission_id": "684"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "185",
+    "problem_id": 0,
+    "timestamp": 3609174,
+    "language": "C++",
+    "submission_id": "685"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "169",
+    "problem_id": 0,
+    "timestamp": 3614303,
+    "language": "C++",
+    "submission_id": "686"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "234",
+    "problem_id": 1,
+    "timestamp": 3617875,
+    "language": "C++",
+    "submission_id": "687"
+  },
+  {
+    "status": "RUNTIME_ERROR",
+    "team_id": "117",
+    "problem_id": 1,
+    "timestamp": 3619044,
+    "language": "C++",
+    "submission_id": "688"
+  },
+  {
+    "status": "RUNTIME_ERROR",
+    "team_id": "101",
+    "problem_id": 1,
+    "timestamp": 3626054,
+    "language": "C++",
+    "submission_id": "689"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "145",
+    "problem_id": 0,
+    "timestamp": 3627176,
+    "language": "C++",
+    "submission_id": "690"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "196",
+    "problem_id": 1,
+    "timestamp": 3632040,
+    "language": "C++",
+    "submission_id": "691"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "172",
+    "problem_id": 1,
+    "timestamp": 3639713,
+    "language": "C++",
+    "submission_id": "692"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "102",
+    "problem_id": 1,
+    "timestamp": 3661402,
+    "language": "C++",
+    "submission_id": "693"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "117",
+    "problem_id": 1,
+    "timestamp": 3668386,
+    "language": "C++",
+    "submission_id": "694"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "134",
+    "problem_id": 0,
+    "timestamp": 3678948,
+    "language": "C++",
+    "submission_id": "695"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "172",
+    "problem_id": 1,
+    "timestamp": 3685546,
+    "language": "C++",
+    "submission_id": "696"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "219",
+    "problem_id": 0,
+    "timestamp": 3690159,
+    "language": "C++",
+    "submission_id": "697"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "196",
+    "problem_id": 1,
+    "timestamp": 3699469,
+    "language": "C++",
+    "submission_id": "698"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "141",
+    "problem_id": 0,
+    "timestamp": 3702056,
+    "language": "C++",
+    "submission_id": "699"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "233",
+    "problem_id": 1,
+    "timestamp": 3721309,
+    "language": "C++",
+    "submission_id": "700"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "107",
+    "problem_id": 1,
+    "timestamp": 3722157,
+    "language": "C++",
+    "submission_id": "701"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "123",
+    "problem_id": 1,
+    "timestamp": 3727869,
+    "language": "C++",
+    "submission_id": "702"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "118",
+    "problem_id": 1,
+    "timestamp": 3731443,
+    "language": "C++",
+    "submission_id": "703"
+  },
+  {
+    "status": "RUNTIME_ERROR",
+    "team_id": "261",
+    "problem_id": 1,
+    "timestamp": 3740273,
+    "language": "C++",
+    "submission_id": "704"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "266",
+    "problem_id": 1,
+    "timestamp": 3740602,
+    "language": "C++",
+    "submission_id": "705"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "229",
+    "problem_id": 1,
+    "timestamp": 3749986,
+    "language": "C++",
+    "submission_id": "706"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "101",
+    "problem_id": 2,
+    "timestamp": 3750239,
+    "language": "C++",
+    "submission_id": "707"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "256",
+    "problem_id": 0,
+    "timestamp": 3756036,
+    "language": "C++",
+    "submission_id": "708"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "252",
+    "problem_id": 0,
+    "timestamp": 3756466,
+    "language": "C++",
+    "submission_id": "709"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "178",
+    "problem_id": 1,
+    "timestamp": 3767972,
+    "language": "Python 3",
+    "submission_id": "710"
+  },
+  {
+    "status": "COMPILATION_ERROR",
+    "team_id": "204",
+    "problem_id": 0,
+    "timestamp": 3770203,
+    "language": "C",
+    "submission_id": "711"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "169",
+    "problem_id": 0,
+    "timestamp": 3771612,
+    "language": "C++",
+    "submission_id": "712"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "266",
+    "problem_id": 1,
+    "timestamp": 3775934,
+    "language": "C++",
+    "submission_id": "713"
+  },
+  {
+    "status": "RUNTIME_ERROR",
+    "team_id": "153",
+    "problem_id": 1,
+    "timestamp": 3782184,
+    "language": "C++",
+    "submission_id": "714"
+  },
+  {
+    "status": "NO_OUTPUT",
+    "team_id": "127",
+    "problem_id": 1,
+    "timestamp": 3783167,
+    "language": "C++",
+    "submission_id": "715"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "189",
+    "problem_id": 1,
+    "timestamp": 3801257,
+    "language": "Java",
+    "submission_id": "716"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "176",
+    "problem_id": 1,
+    "timestamp": 3801780,
+    "language": "C++",
+    "submission_id": "717"
+  },
+  {
+    "status": "OUTPUT_LIMIT_EXCEEDED",
+    "team_id": "141",
+    "problem_id": 0,
+    "timestamp": 3811398,
+    "language": "C++",
+    "submission_id": "718"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "136",
+    "problem_id": 1,
+    "timestamp": 3814030,
+    "language": "C++",
+    "submission_id": "719"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "241",
+    "problem_id": 2,
+    "timestamp": 3819809,
+    "language": "C++",
+    "submission_id": "720"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "138",
+    "problem_id": 1,
+    "timestamp": 3821540,
+    "language": "C++",
+    "submission_id": "721"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "261",
+    "problem_id": 1,
+    "timestamp": 3824818,
+    "language": "C++",
+    "submission_id": "722"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "254",
+    "problem_id": 1,
+    "timestamp": 3833477,
+    "language": "C++",
+    "submission_id": "723"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "265",
+    "problem_id": 1,
+    "timestamp": 3836685,
+    "language": "C++",
+    "submission_id": "724"
+  },
+  {
+    "status": "COMPILATION_ERROR",
+    "team_id": "176",
+    "problem_id": 1,
+    "timestamp": 3843992,
+    "language": "C++",
+    "submission_id": "725"
+  },
+  {
+    "status": "RUNTIME_ERROR",
+    "team_id": "266",
+    "problem_id": 1,
+    "timestamp": 3845830,
+    "language": "C++",
+    "submission_id": "726"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "145",
+    "problem_id": 0,
+    "timestamp": 3851697,
+    "language": "C++",
+    "submission_id": "727"
+  },
+  {
+    "status": "RUNTIME_ERROR",
+    "team_id": "225",
+    "problem_id": 1,
+    "timestamp": 3865717,
+    "language": "C++",
+    "submission_id": "728"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "127",
+    "problem_id": 1,
+    "timestamp": 3869061,
+    "language": "C++",
+    "submission_id": "729"
+  },
+  {
+    "status": "NO_OUTPUT",
+    "team_id": "139",
+    "problem_id": 0,
+    "timestamp": 3870585,
+    "language": "C++",
+    "submission_id": "730"
+  },
+  {
+    "status": "RUNTIME_ERROR",
+    "team_id": "216",
+    "problem_id": 1,
+    "timestamp": 3878574,
+    "language": "C++",
+    "submission_id": "731"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "130",
+    "problem_id": 2,
+    "timestamp": 3879192,
+    "language": "C++",
+    "submission_id": "732"
+  },
+  {
+    "status": "RUNTIME_ERROR",
+    "team_id": "119",
+    "problem_id": 1,
+    "timestamp": 3880041,
+    "language": "C++",
+    "submission_id": "733"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "176",
+    "problem_id": 1,
+    "timestamp": 3886428,
+    "language": "C++",
+    "submission_id": "734"
+  },
+  {
+    "status": "RUNTIME_ERROR",
+    "team_id": "170",
+    "problem_id": 1,
+    "timestamp": 3890757,
+    "language": "C++",
+    "submission_id": "735"
+  },
+  {
+    "status": "NO_OUTPUT",
+    "team_id": "139",
+    "problem_id": 1,
+    "timestamp": 3898155,
+    "language": "C++",
+    "submission_id": "736"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "226",
+    "problem_id": 1,
+    "timestamp": 3900412,
+    "language": "C++",
+    "submission_id": "737"
+  },
+  {
+    "status": "RUNTIME_ERROR",
+    "team_id": "104",
+    "problem_id": 1,
+    "timestamp": 3902436,
+    "language": "C++",
+    "submission_id": "738"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "110",
+    "problem_id": 0,
+    "timestamp": 3903955,
+    "language": "C++",
+    "submission_id": "739"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "165",
+    "problem_id": 1,
+    "timestamp": 3908847,
+    "language": "C++",
+    "submission_id": "740"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "167",
+    "problem_id": 1,
+    "timestamp": 3909918,
+    "language": "C++",
+    "submission_id": "741"
+  },
+  {
+    "status": "RUNTIME_ERROR",
+    "team_id": "153",
+    "problem_id": 1,
+    "timestamp": 3916882,
+    "language": "C++",
+    "submission_id": "742"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "206",
+    "problem_id": 0,
+    "timestamp": 3920208,
+    "language": "C++",
+    "submission_id": "743"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "101",
+    "problem_id": 2,
+    "timestamp": 3924686,
+    "language": "C++",
+    "submission_id": "744"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "167",
+    "problem_id": 1,
+    "timestamp": 3926983,
+    "language": "C++",
+    "submission_id": "745"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "141",
+    "problem_id": 0,
+    "timestamp": 3930585,
+    "language": "C++",
+    "submission_id": "746"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "167",
+    "problem_id": 1,
+    "timestamp": 3933977,
+    "language": "C++",
+    "submission_id": "747"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "218",
+    "problem_id": 1,
+    "timestamp": 3934658,
+    "language": "C++",
+    "submission_id": "748"
+  },
+  {
+    "status": "COMPILATION_ERROR",
+    "team_id": "266",
+    "problem_id": 1,
+    "timestamp": 3937014,
+    "language": "C++",
+    "submission_id": "749"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "167",
+    "problem_id": 1,
+    "timestamp": 3940790,
+    "language": "C++",
+    "submission_id": "750"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "168",
+    "problem_id": 0,
+    "timestamp": 3944370,
+    "language": "C++",
+    "submission_id": "751"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "120",
+    "problem_id": 1,
+    "timestamp": 3954013,
+    "language": "C++",
+    "submission_id": "752"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "176",
+    "problem_id": 1,
+    "timestamp": 3961378,
+    "language": "C++",
+    "submission_id": "753"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "214",
+    "problem_id": 2,
+    "timestamp": 3964514,
+    "language": "C++",
+    "submission_id": "754"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "189",
+    "problem_id": 1,
+    "timestamp": 3965504,
+    "language": "Java",
+    "submission_id": "755"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "204",
+    "problem_id": 0,
+    "timestamp": 3969460,
+    "language": "C",
+    "submission_id": "756"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "251",
+    "problem_id": 0,
+    "timestamp": 3971119,
+    "language": "C++",
+    "submission_id": "757"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "119",
+    "problem_id": 1,
+    "timestamp": 3972293,
+    "language": "C++",
+    "submission_id": "758"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "225",
+    "problem_id": 1,
+    "timestamp": 3978724,
+    "language": "C++",
+    "submission_id": "759"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "130",
+    "problem_id": 2,
+    "timestamp": 3980993,
+    "language": "C++",
+    "submission_id": "760"
+  },
+  {
+    "status": "RUNTIME_ERROR",
+    "team_id": "250",
+    "problem_id": 1,
+    "timestamp": 3982310,
+    "language": "C++",
+    "submission_id": "761"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "158",
+    "problem_id": 2,
+    "timestamp": 3984825,
+    "language": "C++",
+    "submission_id": "762"
+  },
+  {
+    "status": "RUNTIME_ERROR",
+    "team_id": "170",
+    "problem_id": 1,
+    "timestamp": 3984909,
+    "language": "C++",
+    "submission_id": "763"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "180",
+    "problem_id": 1,
+    "timestamp": 3987369,
+    "language": "C++",
+    "submission_id": "764"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "234",
+    "problem_id": 1,
+    "timestamp": 3987988,
+    "language": "C++",
+    "submission_id": "765"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "241",
+    "problem_id": 2,
+    "timestamp": 3993820,
+    "language": "C++",
+    "submission_id": "766"
+  },
+  {
+    "status": "RUNTIME_ERROR",
+    "team_id": "205",
+    "problem_id": 1,
+    "timestamp": 3996289,
+    "language": "C++",
+    "submission_id": "767"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "226",
+    "problem_id": 1,
+    "timestamp": 3998864,
+    "language": "C++",
+    "submission_id": "768"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "206",
+    "problem_id": 0,
+    "timestamp": 3999553,
+    "language": "C++",
+    "submission_id": "769"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "138",
+    "problem_id": 1,
+    "timestamp": 4001760,
+    "language": "C++",
+    "submission_id": "770"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "266",
+    "problem_id": 1,
+    "timestamp": 4006978,
+    "language": "C++",
+    "submission_id": "771"
+  },
+  {
+    "status": "RUNTIME_ERROR",
+    "team_id": "214",
+    "problem_id": 2,
+    "timestamp": 4009056,
+    "language": "C++",
+    "submission_id": "772"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "221",
+    "problem_id": 0,
+    "timestamp": 4012663,
+    "language": "C++",
+    "submission_id": "773"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "158",
+    "problem_id": 2,
+    "timestamp": 4014015,
+    "language": "C++",
+    "submission_id": "774"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "265",
+    "problem_id": 1,
+    "timestamp": 4021095,
+    "language": "C++",
+    "submission_id": "775"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "234",
+    "problem_id": 1,
+    "timestamp": 4027281,
+    "language": "Python 3",
+    "submission_id": "776"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "216",
+    "problem_id": 1,
+    "timestamp": 4027720,
+    "language": "C++",
+    "submission_id": "777"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "211",
+    "problem_id": 1,
+    "timestamp": 4033817,
+    "language": "C++",
+    "submission_id": "778"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "206",
+    "problem_id": 0,
+    "timestamp": 4041486,
+    "language": "C++",
+    "submission_id": "779"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "107",
+    "problem_id": 1,
+    "timestamp": 4041955,
+    "language": "C++",
+    "submission_id": "780"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "114",
+    "problem_id": 0,
+    "timestamp": 4044342,
+    "language": "C++",
+    "submission_id": "781"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "223",
+    "problem_id": 2,
+    "timestamp": 4044401,
+    "language": "C++",
+    "submission_id": "782"
+  },
+  {
+    "status": "NO_OUTPUT",
+    "team_id": "224",
+    "problem_id": 0,
+    "timestamp": 4047366,
+    "language": "C++",
+    "submission_id": "783"
+  },
+  {
+    "status": "RUNTIME_ERROR",
+    "team_id": "205",
+    "problem_id": 1,
+    "timestamp": 4055272,
+    "language": "C++",
+    "submission_id": "784"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "202",
+    "problem_id": 0,
+    "timestamp": 4055489,
+    "language": "C++",
+    "submission_id": "785"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "155",
+    "problem_id": 0,
+    "timestamp": 4059245,
+    "language": "C++",
+    "submission_id": "786"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "228",
+    "problem_id": 1,
+    "timestamp": 4064750,
+    "language": "C++",
+    "submission_id": "787"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "165",
+    "problem_id": 1,
+    "timestamp": 4065552,
+    "language": "C++",
+    "submission_id": "788"
+  },
+  {
+    "status": "WRONG_ANSWER",
+    "team_id": "150",
+    "problem_id": 1,
+    "timestamp": 4069456,
+    "language": "C++",
+    "submission_id": "789"
+  },
+  {
+    "status": "TIME_LIMIT_EXCEEDED",
+    "team_id": "196",
+    "problem_id": 2,
+    "timestamp": 4074978,
+    "language": "C++",
+    "submission_id": "790"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "106",
+    "problem_id": 0,
+    "timestamp": 4075706,
+    "language": "C++",
+    "submission_id": "791"
+  },
+  {
+    "status": "RUNTIME_ERROR",
+    "team_id": "101",
+    "problem_id": 1,
+    "timestamp": 4080575,
+    "language": "C++",
+    "submission_id": "792"
+  },
+  {
+    "status": "ACCEPTED",
+    "team_id": "143",
+    "problem_id": 0,
+    "timestamp": 4084420,
+    "language": "C++",
+    "submission_id": "793"
+  }
+]

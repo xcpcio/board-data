@@ -1,1 +1,96 @@
-{"contest_name":"「华为杯」2025 年江苏省大学生程序设计竞赛 - 正式赛","start_time":1748827800,"end_time":1748845800,"frozen_time":3600,"penalty":1200,"problem_quantity":12,"problem_id":["A","B","C","D","E","F","G","H","I","J","K","L"],"group":{"official":"正式队伍","unofficial":"打星队伍","girl":"女队"},"organization":"School","status_time_display":{"correct":true,"incorrect":true,"pending":true},"medal":{"official":{"gold":20,"silver":40,"bronze":60}},"balloon_color":[{"color":"#000","background_color":"#8411ff"},{"color":"#000","background_color":"#f425ff"},{"color":"#000","background_color":"#96ff59"},{"color":"#000","background_color":"#ad0000"},{"color":"#000","background_color":"#eeff00"},{"color":"#000","background_color":"#ffffff"},{"color":"#000","background_color":"#6cffdf"},{"color":"#000","background_color":"#ff6f00"},{"color":"#000","background_color":"#00d9b5"},{"color":"#000","background_color":"#85d8ff"},{"color":"#000","background_color":"#ff528b"},{"color":"#000","background_color":"#001eff"}],"logo":{"preset":"ICPC"},"options":{"submission_timestamp_unit":"millisecond"}}
+{
+  "contest_name": "「华为杯」2025 年江苏省大学生程序设计竞赛 - 正式赛",
+  "start_time": 1748827800,
+  "end_time": 1748845800,
+  "frozen_time": 3600,
+  "penalty": 1200,
+  "problem_quantity": 12,
+  "problem_id": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L"
+  ],
+  "group": {
+    "official": "正式队伍",
+    "unofficial": "打星队伍",
+    "girl": "女队"
+  },
+  "organization": "School",
+  "status_time_display": {
+    "correct": true,
+    "incorrect": true,
+    "pending": true
+  },
+  "medal": {
+    "official": {
+      "gold": 20,
+      "silver": 40,
+      "bronze": 60
+    }
+  },
+  "balloon_color": [
+    {
+      "color": "#000",
+      "background_color": "#8411ff"
+    },
+    {
+      "color": "#000",
+      "background_color": "#f425ff"
+    },
+    {
+      "color": "#000",
+      "background_color": "#96ff59"
+    },
+    {
+      "color": "#000",
+      "background_color": "#ad0000"
+    },
+    {
+      "color": "#000",
+      "background_color": "#eeff00"
+    },
+    {
+      "color": "#000",
+      "background_color": "#ffffff"
+    },
+    {
+      "color": "#000",
+      "background_color": "#6cffdf"
+    },
+    {
+      "color": "#000",
+      "background_color": "#ff6f00"
+    },
+    {
+      "color": "#000",
+      "background_color": "#00d9b5"
+    },
+    {
+      "color": "#000",
+      "background_color": "#85d8ff"
+    },
+    {
+      "color": "#000",
+      "background_color": "#ff528b"
+    },
+    {
+      "color": "#000",
+      "background_color": "#001eff"
+    }
+  ],
+  "logo": {
+    "preset": "ICPC"
+  },
+  "options": {
+    "submission_timestamp_unit": "millisecond"
+  }
+}
