@@ -19,13 +19,11 @@ jobs:
         with:
           enable-cache: true
 
-      - name: Gen Index
+      - name: Gen Data
         run: |
           uv run ./python/gen_contest_list.py
+          run: uv run ./python/create_site.py
           cat ./data/index/contest_list.json | jq
-
-      - name: Create site dir
-        run: uv run ./python/create_site.py
 
       - name: Deploy to deploy-pages
         if: ${{ github.event_name != 'pull_request' }}

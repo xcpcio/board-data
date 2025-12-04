@@ -50,4 +50,5 @@ jobs:
       - name: Gen Data
         run: |
           uv run ./python/gen_contest_list.py
+          uv run ./python/create_site.py
           cat ./data/index/contest_list.json | jq
