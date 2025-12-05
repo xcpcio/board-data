@@ -1,3 +1,4 @@
+# yaml-language-server: $schema=https://json-schema.org/draft-07/schema#
 name: Deploy
 
 on:
@@ -46,9 +47,24 @@ jobs:
         if: ${{ github.event_name != 'pull_request' }}
         uses: appleboy/ssh-action@master
         with:
-          host: ${{ secrets.SSH_HOST }}
-          username: ${{ secrets.SSH_USERNAME }}
+          host: ${{ secrets.SSH_HOST_I18N }}
           key: ${{ secrets.SSH_PRIVATE_KEY }}
+          username: ${{ secrets.SSH_USERNAME }}
+          port: ${{ secrets.SSH_PORT }}
+          script: |
+            bash <(curl -s -L https://raw.github.com/Dup4/bash-script-snippet/${{ env.deploy_script_version }}/deploy_gh_pages.sh) \
+            -r xcpcio/board-data \
+            -d /var/docker-data/nginx/www/xcpcio \
+            -b gh-pages \
+            -p github.com
+
+      - name: Deploy
+        if: ${{ github.event_name != 'pull_request' }}
+        uses: appleboy/ssh-action@master
+        with:
+          host: ${{ secrets.SSH_HOST }}
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
+          username: ${{ secrets.SSH_USERNAME }}
           port: ${{ secrets.SSH_PORT }}
           script: |
             bash <(curl -s -L https://gh-proxy.com/https://raw.githubusercontent.com/Dup4/bash-script-snippet/${{ env.deploy_script_version }}/deploy_gh_pages.sh) \
@@ -56,18 +72,3 @@ jobs:
             -d /var/docker-data/nginx/www/xcpcio \
             -b gh-pages \
             -p gh-proxy.com/https://github.com \
-
-      - name: Deploy I18n
-        if: ${{ github.event_name != 'pull_request' }}
-        uses: appleboy/ssh-action@master
-        with:
-          host: ${{ secrets.SSH_HOST_I18N }}
-          key: ${{ secrets.SSH_PRIVATE_KEY }}
-          username: root
-          port: 22
-          script: |
-            bash <(curl -s -L https://raw.github.com/Dup4/bash-script-snippet/${{ env.deploy_script_version }}/deploy_gh_pages.sh) \
-            -r xcpcio/board-data \
-            -d /var/docker-data/nginx/www/xcpcio \
-            -b gh-pages \
-            -p github.com
