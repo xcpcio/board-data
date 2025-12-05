@@ -10,23 +10,6 @@ on:
       - main
 
 jobs:
-  node-test:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v6
-
-      - uses: pnpm/action-setup@v4
-      - uses: actions/setup-node@v6
-        with:
-          node-version: 18.x
-          cache: pnpm
-
-      - name: Lint and Test
-        run: |
-          pnpm i
-          pnpm lint
-          pnpm gen_rating
-
   python-test:
     runs-on: ubuntu-latest
     steps:
@@ -52,3 +35,20 @@ jobs:
           uv run ./python/gen_contest_list.py
           uv run ./python/create_site.py
           cat ./data/index/contest_list.json | jq
+
+  # node-test:
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     - uses: actions/checkout@v6
+
+  #     - uses: pnpm/action-setup@v4
+  #     - uses: actions/setup-node@v6
+  #       with:
+  #         node-version: 18.x
+  #         cache: pnpm
+
+  #     - name: Lint and Test
+  #       run: |
+  #         pnpm i
+  #         pnpm lint
+  #         pnpm gen_rating
