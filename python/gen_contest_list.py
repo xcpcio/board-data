@@ -2,7 +2,7 @@ import os
 from pathlib import Path
 from typing import List
 
-from python.utils import ensure_makedirs, json_input, output
+from python.utils import ensure_makedirs, json_input, output_for_human_readable
 
 K_CURRENT_DIR = Path(__file__).parent
 K_DATA_DIR = K_CURRENT_DIR / "../data"
@@ -47,7 +47,7 @@ def main():
     dfs(contest_list, K_DATA_DIR, board_link="")
 
     ensure_makedirs(K_DIST_DIR)
-    output(K_DIST_FILE, contest_list)
+    output_for_human_readable(K_DIST_FILE, contest_list)
 
 
 if __name__ == "__main__":

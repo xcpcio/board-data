@@ -1,17 +1,16 @@
+<!-- markdownlint-disable MD033 -->
+
 # xcpcio/board-data
 
 [![License][license-image-mit]][license-link-mit]
-![](https://img.shields.io/github/repo-size/XCPCIO/board-data.svg)
+![Repo Size](https://img.shields.io/github/repo-size/XCPCIO/board-data.svg)
 [![Deploy](https://github.com/XCPCIO/board-data/actions/workflows/deploy.yml/badge.svg)](https://github.com/XCPCIO/board-data/actions/workflows/deploy.yml)
 
 ## Development
 
 ```bash
-# generate index firstly
-cd origin-data/gen-index
-pip install -r requirements.txt
-bash gen_index.sh
-cd ../../
+# generate index
+uv run ./python/gen_contest_list.py
 
 # start a http server
 ./start.sh
