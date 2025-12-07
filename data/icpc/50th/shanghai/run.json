@@ -1285,7 +1285,8 @@
     "problem_id": 7,
     "timestamp": 2390082,
     "status": "COMPILATION_ERROR",
-    "language": "C++"
+    "language": "C++",
+    "missing_reaction": true
   },
   {
     "id": "4117",
@@ -1301,7 +1302,8 @@
     "problem_id": 7,
     "timestamp": 2401115,
     "status": "ACCEPTED",
-    "language": "C++"
+    "language": "C++",
+    "missing_reaction": true
   },
   {
     "id": "4119",
@@ -2469,7 +2471,8 @@
     "problem_id": 6,
     "timestamp": 3232425,
     "status": "WRONG_ANSWER",
-    "language": "C++"
+    "language": "C++",
+    "missing_reaction": true
   },
   {
     "id": "4265",
@@ -3117,7 +3120,8 @@
     "problem_id": 6,
     "timestamp": 3711296,
     "status": "WRONG_ANSWER",
-    "language": "C++"
+    "language": "C++",
+    "missing_reaction": true
   },
   {
     "id": "4346",
@@ -5637,7 +5641,8 @@
     "problem_id": 9,
     "timestamp": 5378277,
     "status": "TIME_LIMIT_EXCEEDED",
-    "language": "C++"
+    "language": "C++",
+    "missing_reaction": true
   },
   {
     "id": "4661",
@@ -5941,7 +5946,8 @@
     "problem_id": 9,
     "timestamp": 5542424,
     "status": "ACCEPTED",
-    "language": "C++"
+    "language": "C++",
+    "missing_reaction": true
   },
   {
     "id": "4699",
@@ -7517,7 +7523,8 @@
     "problem_id": 3,
     "timestamp": 6520133,
     "status": "ACCEPTED",
-    "language": "C++"
+    "language": "C++",
+    "missing_reaction": true
   },
   {
     "id": "4896",
@@ -7709,7 +7716,8 @@
     "problem_id": 6,
     "timestamp": 6620463,
     "status": "TIME_LIMIT_EXCEEDED",
-    "language": "C++"
+    "language": "C++",
+    "missing_reaction": true
   },
   {
     "id": "4920",
@@ -8549,7 +8557,8 @@
     "problem_id": 6,
     "timestamp": 7138783,
     "status": "WRONG_ANSWER",
-    "language": "C++"
+    "language": "C++",
+    "missing_reaction": true
   },
   {
     "id": "5025",
@@ -8925,7 +8934,8 @@
     "problem_id": 6,
     "timestamp": 7357261,
     "status": "WRONG_ANSWER",
-    "language": "C++"
+    "language": "C++",
+    "missing_reaction": true
   },
   {
     "id": "5072",
@@ -10581,7 +10591,8 @@
     "problem_id": 0,
     "timestamp": 8320781,
     "status": "ACCEPTED",
-    "language": "C++"
+    "language": "C++",
+    "missing_reaction": true
   },
   {
     "id": "5279",
@@ -11477,7 +11488,8 @@
     "problem_id": 6,
     "timestamp": 8865407,
     "status": "WRONG_ANSWER",
-    "language": "C++"
+    "language": "C++",
+    "missing_reaction": true
   },
   {
     "id": "5391",
@@ -11773,7 +11785,8 @@
     "problem_id": 6,
     "timestamp": 9042390,
     "status": "ACCEPTED",
-    "language": "C++"
+    "language": "C++",
+    "missing_reaction": true
   },
   {
     "id": "5428",
@@ -19509,7 +19522,8 @@
     "problem_id": 1,
     "timestamp": 13813335,
     "status": "ACCEPTED",
-    "language": "C++"
+    "language": "C++",
+    "missing_reaction": true
   },
   {
     "id": "6395",
@@ -27725,7 +27739,8 @@
     "problem_id": 10,
     "timestamp": 17261309,
     "status": "WRONG_ANSWER",
-    "language": "C++"
+    "language": "C++",
+    "missing_reaction": true
   },
   {
     "id": "7422",
