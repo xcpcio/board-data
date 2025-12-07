@@ -230,7 +230,7 @@ dev = [
 [package.metadata]
 requires-dist = [
     { name = "click", specifier = ">=8.3.1" },
-    { name = "xcpcio", specifier = ">=0.76.0" },
+    { name = "xcpcio", specifier = ">=0.76.2" },
 ]
 
 [package.metadata.requires-dev]
@@ -1303,7 +1303,7 @@ wheels = [
 
 [[package]]
 name = "xcpcio"
-version = "0.76.0"
+version = "0.76.2"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "aiofiles" },
@@ -1317,9 +1317,9 @@ dependencies = [
     { name = "uvicorn" },
     { name = "zstandard" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/65/32/da1f91147aa015d34de5de4ca7835dda917a1deca81b0805a97d6ba03b2b/xcpcio-0.76.0.tar.gz", hash = "sha256:e66b841ef556869ae36e564e640626e5b7e840439b0dc4165511630422f4b04e", size = 116012, upload-time = "2025-11-27T13:39:37.825Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/09/b7/20b370b227bf915484056fcbd8f2dd6396381f1ff9434423959966e6767f/xcpcio-0.76.2.tar.gz", hash = "sha256:7fd96b27f8285900f66b0216c43f27433bf2d19c338cbb9e630b99b357b2fc4c", size = 116022, upload-time = "2025-12-07T04:37:29.248Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/15/fc/dc759890faee5c0795e75d2f78642de639711220060b89eab5809877c1f5/xcpcio-0.76.0-py3-none-any.whl", hash = "sha256:7fda521f78180c6d32f166fcbcae5b09ca150f36661857d20bad5952c47b89b1", size = 43727, upload-time = "2025-11-27T13:39:36.953Z" },
+    { url = "https://files.pythonhosted.org/packages/94/9f/9b80afeaac55afc085459ccba8ca0fea64fe3238519b374a5240b90a0649/xcpcio-0.76.2-py3-none-any.whl", hash = "sha256:cdfe5f7a35d48e28a35292604fa467db94153679036519b5f3261ae9c7b8d32e", size = 43737, upload-time = "2025-12-07T04:37:28.261Z" },
 ]
 
 [[package]]
