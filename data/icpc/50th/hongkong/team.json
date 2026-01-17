@@ -2,7 +2,7 @@
   {
     "id": "A01",
     "name": "Thank you Bing Zhang",
-    "organization": "Wuhan University",
+    "organization_id": "inst-105",
     "group": [
       "official"
     ],
@@ -48,7 +48,7 @@
   {
     "id": "A02",
     "name": "Harukanaru Gensokyo",
-    "organization": "Guangxi University",
+    "organization_id": "inst-028",
     "group": [
       "official"
     ],
@@ -94,7 +94,7 @@
   {
     "id": "A03",
     "name": "add uuz to your qq group meow thank you meow",
-    "organization": "Qilu University Of Technology",
+    "organization_id": "inst-068",
     "group": [
       "official"
     ],
@@ -140,7 +140,7 @@
   {
     "id": "A04",
     "name": "HKOI 1",
-    "organization": "Hong Kong Olympiad in Informatics",
+    "organization_id": "inst-122",
     "group": [
       "unofficial"
     ],
@@ -185,7 +185,7 @@
   {
     "id": "A05",
     "name": "ln 7/b",
-    "organization": "Hohai University",
+    "organization_id": "inst-039",
     "group": [
       "official"
     ],
@@ -231,7 +231,7 @@
   {
     "id": "A06",
     "name": "Cute Cat Dad",
-    "organization": "Xidian University",
+    "organization_id": "inst-113",
     "group": [
       "official"
     ],
@@ -277,7 +277,7 @@
   {
     "id": "A07",
     "name": "Courage",
-    "organization": "Chongqing College of Mobile Communication",
+    "organization_id": "inst-014",
     "group": [
       "official"
     ],
@@ -323,7 +323,7 @@
   {
     "id": "A08",
     "name": "Aleatory Acceptism of Encounter",
-    "organization": "Dalian Maritime University",
+    "organization_id": "inst-018",
     "group": [
       "official"
     ],
@@ -369,7 +369,7 @@
   {
     "id": "A09",
     "name": "manbo and hajimi",
-    "organization": "Nanjing University of Posts and Telecommunications",
+    "organization_id": "inst-055",
     "group": [
       "official"
     ],
@@ -415,7 +415,7 @@
   {
     "id": "A10",
     "name": "HKUST1",
-    "organization": "Hong Kong University of Science and Technology",
+    "organization_id": "inst-042",
     "group": [
       "official"
     ],
@@ -461,7 +461,7 @@
   {
     "id": "B01",
     "name": "Be AKed by ICPC",
-    "organization": "Harbin Institute of Technology, Weihai",
+    "organization_id": "inst-034",
     "group": [
       "official"
     ],
@@ -507,7 +507,7 @@
   {
     "id": "B02",
     "name": "Taboo Laevatein",
-    "organization": "JiangNan University",
+    "organization_id": "inst-045",
     "group": [
       "official"
     ],
@@ -553,7 +553,7 @@
   {
     "id": "B03",
     "name": "lemonade factory",
-    "organization": "Beihang University",
+    "organization_id": "inst-002",
     "group": [
       "official"
     ],
@@ -599,7 +599,7 @@
   {
     "id": "B04",
     "name": "gugugaga",
-    "organization": "Pui Ching Middle School",
+    "organization_id": "inst-120",
     "group": [
       "unofficial"
     ],
@@ -644,7 +644,7 @@
   {
     "id": "B05",
     "name": "Mynoghra",
-    "organization": "The Chinese University of Hong Kong, Shenzhen",
+    "organization_id": "inst-094",
     "group": [
       "official"
     ],
@@ -690,7 +690,7 @@
   {
     "id": "B06",
     "name": "Icecream!",
-    "organization": "Shandong University",
+    "organization_id": "inst-070",
     "group": [
       "official"
     ],
@@ -736,7 +736,7 @@
   {
     "id": "B07",
     "name": "robust driver",
-    "organization": "Beijing University of Technology",
+    "organization_id": "inst-005",
     "group": [
       "official"
     ],
@@ -782,7 +782,7 @@
   {
     "id": "B08",
     "name": "noircloud",
-    "organization": "Neusoft Institute Guangdong",
+    "organization_id": "inst-059",
     "group": [
       "official"
     ],
@@ -828,7 +828,7 @@
   {
     "id": "B09",
     "name": "1+1",
-    "organization": "Renmin University of China",
+    "organization_id": "inst-069",
     "group": [
       "official"
     ],
@@ -874,7 +874,7 @@
   {
     "id": "B10",
     "name": "I-ACE",
-    "organization": "New Mongol Institute of Technology",
+    "organization_id": "inst-060",
     "group": [
       "official"
     ],
@@ -920,7 +920,7 @@
   {
     "id": "C01",
     "name": "UESTC_lyc_fan_club",
-    "organization": "University of Electronic Science and Technology of China",
+    "organization_id": "inst-101",
     "group": [
       "official"
     ],
@@ -966,7 +966,7 @@
   {
     "id": "C02",
     "name": "Anohana",
-    "organization": "Nanjing University",
+    "organization_id": "inst-053",
     "group": [
       "official"
     ],
@@ -1012,7 +1012,7 @@
   {
     "id": "C03",
     "name": "nxVPCP 'or'1'='1",
-    "organization": "University of Macau",
+    "organization_id": "inst-102",
     "group": [
       "official"
     ],
@@ -1058,7 +1058,7 @@
   {
     "id": "C04",
     "name": "998244353",
-    "organization": "Wuhan Institute of Technology",
+    "organization_id": "inst-104",
     "group": [
       "official"
     ],
@@ -1104,7 +1104,7 @@
   {
     "id": "C05",
     "name": "NUM-NTN",
-    "organization": "National University of Mongolia",
+    "organization_id": "inst-058",
     "group": [
       "official"
     ],
@@ -1150,7 +1150,7 @@
   {
     "id": "C06",
     "name": "no brain just nom nom nom",
-    "organization": "The Chinese University of Hong Kong",
+    "organization_id": "inst-093",
     "group": [
       "official"
     ],
@@ -1196,7 +1196,7 @@
   {
     "id": "C07",
     "name": "two-thirds",
-    "organization": "Southwest University of Science and Technology",
+    "organization_id": "inst-089",
     "group": [
       "official"
     ],
@@ -1242,7 +1242,7 @@
   {
     "id": "C08",
     "name": "Explosion!",
-    "organization": "Southwest Jiaotong University",
+    "organization_id": "inst-087",
     "group": [
       "official"
     ],
@@ -1288,7 +1288,7 @@
   {
     "id": "C09",
     "name": "Don't Hack Me",
-    "organization": "Northeastern University at Qinhuangdao",
+    "organization_id": "inst-065",
     "group": [
       "official"
     ],
@@ -1334,7 +1334,7 @@
   {
     "id": "C10",
     "name": "Stella Primus",
-    "organization": "Shanghai Jiao Tong University",
+    "organization_id": "inst-074",
     "group": [
       "official"
     ],
@@ -1380,7 +1380,7 @@
   {
     "id": "D01",
     "name": "May this voyage culminate in the Final",
-    "organization": "SouthWestern University of Finance and Economics",
+    "organization_id": "inst-090",
     "group": [
       "official"
     ],
@@ -1426,7 +1426,7 @@
   {
     "id": "D02",
     "name": "Back Seaing",
-    "organization": "Dalian University of Technology",
+    "organization_id": "inst-019",
     "group": [
       "official"
     ],
@@ -1472,7 +1472,7 @@
   {
     "id": "D03",
     "name": "Fear WA, all in implementation",
-    "organization": "The Hong Kong University of Science and Technology (Guangzhou)",
+    "organization_id": "inst-095",
     "group": [
       "official"
     ],
@@ -1518,7 +1518,7 @@
   {
     "id": "D04",
     "name": "Russian Roulette",
-    "organization": "Fuzhou University",
+    "organization_id": "inst-024",
     "group": [
       "official"
     ],
@@ -1564,7 +1564,7 @@
   {
     "id": "D05",
     "name": "UU Accelerator",
-    "organization": "Hong Kong Baptist University",
+    "organization_id": "inst-040",
     "group": [
       "official"
     ],
@@ -1610,7 +1610,7 @@
   {
     "id": "D06",
     "name": "Rosmontis_Fan",
-    "organization": "Zhejiang Gongshang University",
+    "organization_id": "inst-116",
     "group": [
       "official"
     ],
@@ -1656,7 +1656,7 @@
   {
     "id": "D07",
     "name": "One pull one hit",
-    "organization": "Chengdu University of Information Technology",
+    "organization_id": "inst-011",
     "group": [
       "official"
     ],
@@ -1702,7 +1702,7 @@
   {
     "id": "D08",
     "name": "Hajimi",
-    "organization": "Guangzhou University",
+    "organization_id": "inst-029",
     "group": [
       "official"
     ],
@@ -1748,7 +1748,7 @@
   {
     "id": "D09",
     "name": "SegFault Maigo",
-    "organization": "Shanghai University",
+    "organization_id": "inst-076",
     "group": [
       "official"
     ],
@@ -1794,7 +1794,7 @@
   {
     "id": "D10",
     "name": "Greedy is all about guessing",
-    "organization": "Tiangong University",
+    "organization_id": "inst-097",
     "group": [
       "official"
     ],
@@ -1840,7 +1840,7 @@
   {
     "id": "E01",
     "name": "HKOI 3",
-    "organization": "Hong Kong Olympiad in Informatics",
+    "organization_id": "inst-122",
     "group": [
       "unofficial"
     ],
@@ -1885,7 +1885,7 @@
   {
     "id": "E02",
     "name": "Respawn of entropy",
-    "organization": "Shandong University of Technology",
+    "organization_id": "inst-072",
     "group": [
       "official"
     ],
@@ -1931,7 +1931,7 @@
   {
     "id": "E03",
     "name": "Ordinary.exe",
-    "organization": "Xiamen University Tan Kah Kee College",
+    "organization_id": "inst-109",
     "group": [
       "official"
     ],
@@ -1977,7 +1977,7 @@
   {
     "id": "E04",
     "name": "Wanting to learn Ai",
-    "organization": "Sichuan University",
+    "organization_id": "inst-081",
     "group": [
       "official"
     ],
@@ -2023,7 +2023,7 @@
   {
     "id": "E05",
     "name": "Mooncross in Mistweave",
-    "organization": "Fujian Normal University",
+    "organization_id": "inst-023",
     "group": [
       "official"
     ],
@@ -2069,7 +2069,7 @@
   {
     "id": "E06",
     "name": "3 ap = 1band = 1 life?",
-    "organization": "South China Agricultural University",
+    "organization_id": "inst-082",
     "group": [
       "official"
     ],
@@ -2115,7 +2115,7 @@
   {
     "id": "E07",
     "name": "All the way south",
-    "organization": "South China Normal University",
+    "organization_id": "inst-083",
     "group": [
       "official"
     ],
@@ -2161,7 +2161,7 @@
   {
     "id": "E08",
     "name": "HKOI 4",
-    "organization": "Hong Kong Olympiad in Informatics",
+    "organization_id": "inst-122",
     "group": [
       "unofficial"
     ],
@@ -2206,7 +2206,7 @@
   {
     "id": "E09",
     "name": "Phoenix",
-    "organization": "Jinggangshan University",
+    "organization_id": "inst-050",
     "group": [
       "official"
     ],
@@ -2252,7 +2252,7 @@
   {
     "id": "E10",
     "name": "go valorant esacpe delta dance",
-    "organization": "Harbin Engineering University",
+    "organization_id": "inst-031",
     "group": [
       "official"
     ],
@@ -2298,7 +2298,7 @@
   {
     "id": "F01",
     "name": "SCUT Chireden",
-    "organization": "South China University of Technology",
+    "organization_id": "inst-084",
     "group": [
       "official"
     ],
@@ -2344,7 +2344,7 @@
   {
     "id": "F02",
     "name": "Feel the Russian Style",
-    "organization": "City University of Hong Kong",
+    "organization_id": "inst-016",
     "group": [
       "official"
     ],
@@ -2390,7 +2390,7 @@
   {
     "id": "F03",
     "name": "Aren't Slacking Off",
-    "organization": "Huazhong University of Science and Technology",
+    "organization_id": "inst-043",
     "group": [
       "official"
     ],
@@ -2436,7 +2436,7 @@
   {
     "id": "F04",
     "name": "No-Panic Doubao Pro",
-    "organization": "North China University of Science and Technology",
+    "organization_id": "inst-063",
     "group": [
       "official"
     ],
@@ -2482,7 +2482,7 @@
   {
     "id": "F05",
     "name": "N^3",
-    "organization": "National University of Mongolia",
+    "organization_id": "inst-058",
     "group": [
       "official"
     ],
@@ -2528,7 +2528,7 @@
   {
     "id": "F06",
     "name": "Just AC",
-    "organization": "North University of China",
+    "organization_id": "inst-064",
     "group": [
       "official"
     ],
@@ -2574,7 +2574,7 @@
   {
     "id": "F07",
     "name": "Little Foodie Loves Penalty Time",
-    "organization": "China University of Geosciences, Beijing",
+    "organization_id": "inst-012",
     "group": [
       "official"
     ],
@@ -2620,7 +2620,7 @@
   {
     "id": "F08",
     "name": "GPNU-Awei",
-    "organization": "GuangDong Polytechnic Normal University",
+    "organization_id": "inst-025",
     "group": [
       "official"
     ],
@@ -2666,7 +2666,7 @@
   {
     "id": "F09",
     "name": "Without Sky",
-    "organization": "Hong Kong Polytechnic University",
+    "organization_id": "inst-041",
     "group": [
       "official"
     ],
@@ -2712,7 +2712,7 @@
   {
     "id": "F10",
     "name": "SYSU_Fate of Waves",
-    "organization": "Zhongshan (Sun Yat-sen) University",
+    "organization_id": "inst-119",
     "group": [
       "official"
     ],
@@ -2758,7 +2758,7 @@
   {
     "id": "G01",
     "name": "HFOI2018",
-    "organization": "Tsinghua University",
+    "organization_id": "inst-100",
     "group": [
       "official"
     ],
@@ -2804,7 +2804,7 @@
   {
     "id": "G02",
     "name": "zufang",
-    "organization": "Duke Kunshan University",
+    "organization_id": "inst-021",
     "group": [
       "official"
     ],
@@ -2850,7 +2850,7 @@
   {
     "id": "G03",
     "name": "threenoobs",
-    "organization": "Central South University of Forestry and Technology",
+    "organization_id": "inst-007",
     "group": [
       "official"
     ],
@@ -2896,7 +2896,7 @@
   {
     "id": "G04",
     "name": "Pure 2025",
-    "organization": "City University of Hong Kong",
+    "organization_id": "inst-016",
     "group": [
       "official"
     ],
@@ -2942,7 +2942,7 @@
   {
     "id": "G05",
     "name": "Array of Cqupt Monkeys",
-    "organization": "Chongqing University of Posts and Telecommunications",
+    "organization_id": "inst-015",
     "group": [
       "official"
     ],
@@ -2988,7 +2988,7 @@
   {
     "id": "G06",
     "name": "Hot Kpop Union",
-    "organization": "The University of Hong Kong",
+    "organization_id": "inst-096",
     "group": [
       "official"
     ],
@@ -3034,7 +3034,7 @@
   {
     "id": "G07",
     "name": "Good Luck！",
-    "organization": "China University of Petroleum-Beijing at Karamay",
+    "organization_id": "inst-013",
     "group": [
       "official"
     ],
@@ -3080,7 +3080,7 @@
   {
     "id": "G08",
     "name": "Nice Nature",
-    "organization": "Xiamen University of Technology",
+    "organization_id": "inst-108",
     "group": [
       "official"
     ],
@@ -3118,7 +3118,7 @@
   {
     "id": "G09",
     "name": "CQOI Flames",
-    "organization": "Harbin Institute of Technology",
+    "organization_id": "inst-032",
     "group": [
       "official"
     ],
@@ -3164,7 +3164,7 @@
   {
     "id": "G10",
     "name": "Naming is so HARD!",
-    "organization": "Hefei University of Technology at Xuancheng",
+    "organization_id": "inst-036",
     "group": [
       "official"
     ],
@@ -3210,7 +3210,7 @@
   {
     "id": "H01",
     "name": "example pass=AC",
-    "organization": "Tongji University",
+    "organization_id": "inst-099",
     "group": [
       "official"
     ],
@@ -3256,7 +3256,7 @@
   {
     "id": "H02",
     "name": "GreedyIsTruth",
-    "organization": "Wuchang Shouyi University",
+    "organization_id": "inst-103",
     "group": [
       "official"
     ],
@@ -3302,7 +3302,7 @@
   {
     "id": "H03",
     "name": "wawawawa...",
-    "organization": "Nanyang Institute of Technology",
+    "organization_id": "inst-057",
     "group": [
       "official"
     ],
@@ -3348,7 +3348,7 @@
   {
     "id": "H04",
     "name": "DengDuck Masters Club",
-    "organization": "Hou Kong Middle School",
+    "organization_id": "inst-121",
     "group": [
       "unofficial"
     ],
@@ -3393,7 +3393,7 @@
   {
     "id": "H05",
     "name": "SUSTech-Lyaki",
-    "organization": "Southern University of Science and Technology",
+    "organization_id": "inst-086",
     "group": [
       "official"
     ],
@@ -3439,7 +3439,7 @@
   {
     "id": "H06",
     "name": "Untitled_Dream",
-    "organization": "Zhejiang Normal University",
+    "organization_id": "inst-117",
     "group": [
       "official"
     ],
@@ -3485,7 +3485,7 @@
   {
     "id": "H07",
     "name": "sict3",
-    "organization": "Mongolian University of Science and Technology",
+    "organization_id": "inst-052",
     "group": [
       "official"
     ],
@@ -3531,7 +3531,7 @@
   {
     "id": "H08",
     "name": "Universum",
-    "organization": "Hou Kong Middle School",
+    "organization_id": "inst-121",
     "group": [
       "unofficial"
     ],
@@ -3576,7 +3576,7 @@
   {
     "id": "H09",
     "name": "GDUT_darkseek",
-    "organization": "Guangdong University of Technology",
+    "organization_id": "inst-026",
     "group": [
       "official"
     ],
@@ -3622,7 +3622,7 @@
   {
     "id": "H10",
     "name": "Elite Conscripts",
-    "organization": "Heilongjiang University",
+    "organization_id": "inst-037",
     "group": [
       "official"
     ],
@@ -3668,7 +3668,7 @@
   {
     "id": "I01",
     "name": "Little sheep",
-    "organization": "Henan Normal University",
+    "organization_id": "inst-038",
     "group": [
       "official"
     ],
@@ -3714,7 +3714,7 @@
   {
     "id": "I02",
     "name": "we are iron",
-    "organization": "Sichuan Agricultural University",
+    "organization_id": "inst-080",
     "group": [
       "official"
     ],
@@ -3760,7 +3760,7 @@
   {
     "id": "I03",
     "name": "T34-Gray",
-    "organization": "Central China Normal University",
+    "organization_id": "inst-006",
     "group": [
       "official"
     ],
@@ -3806,7 +3806,7 @@
   {
     "id": "I04",
     "name": "The Doctor's team and there ape-man captain",
-    "organization": "Wuyi University",
+    "organization_id": "inst-107",
     "group": [
       "official"
     ],
@@ -3852,7 +3852,7 @@
   {
     "id": "I05",
     "name": "nia~nia~nia~ciallo~",
-    "organization": "Chengdu University",
+    "organization_id": "inst-010",
     "group": [
       "official"
     ],
@@ -3898,7 +3898,7 @@
   {
     "id": "I06",
     "name": "The Defect",
-    "organization": "Jilin University",
+    "organization_id": "inst-048",
     "group": [
       "official"
     ],
@@ -3944,7 +3944,7 @@
   {
     "id": "I07",
     "name": "SKD 45167",
-    "organization": "Shandong University of Science and Technology",
+    "organization_id": "inst-071",
     "group": [
       "official"
     ],
@@ -3990,7 +3990,7 @@
   {
     "id": "I08",
     "name": "Last Final",
-    "organization": "Zhejiang SCI-TECH University",
+    "organization_id": "inst-118",
     "group": [
       "official"
     ],
@@ -4036,7 +4036,7 @@
   {
     "id": "I09",
     "name": "Carrot",
-    "organization": "Shanghai Ocean University",
+    "organization_id": "inst-075",
     "group": [
       "official"
     ],
@@ -4082,7 +4082,7 @@
   {
     "id": "I10",
     "name": "HKUST5",
-    "organization": "Hong Kong University of Science and Technology",
+    "organization_id": "inst-042",
     "group": [
       "official"
     ],
@@ -4128,7 +4128,7 @@
   {
     "id": "J01",
     "name": "Java++3",
-    "organization": "City University of Hong Kong",
+    "organization_id": "inst-016",
     "group": [
       "unofficial"
     ],
@@ -4173,7 +4173,7 @@
   {
     "id": "J02",
     "name": "Haibara Ai is Correct",
-    "organization": "Anhui Normal University",
+    "organization_id": "inst-001",
     "group": [
       "official"
     ],
@@ -4219,7 +4219,7 @@
   {
     "id": "J03",
     "name": "Wenhua Road East",
-    "organization": "Shandong University, Weihai",
+    "organization_id": "inst-073",
     "group": [
       "official"
     ],
@@ -4265,7 +4265,7 @@
   {
     "id": "J04",
     "name": "NYU Shanghai Team 2",
-    "organization": "New York University Shanghai",
+    "organization_id": "inst-061",
     "group": [
       "official"
     ],
@@ -4311,7 +4311,7 @@
   {
     "id": "J05",
     "name": "DeepSleep",
-    "organization": "Fudan University",
+    "organization_id": "inst-022",
     "group": [
       "official"
     ],
@@ -4357,7 +4357,7 @@
   {
     "id": "J06",
     "name": "Wine-filled Fishball Pie",
-    "organization": "The Chinese University of Hong Kong",
+    "organization_id": "inst-093",
     "group": [
       "unofficial"
     ],
@@ -4402,7 +4402,7 @@
   {
     "id": "J07",
     "name": "Team is Powerful",
-    "organization": "Dongguan University of Technology",
+    "organization_id": "inst-020",
     "group": [
       "official"
     ],
@@ -4448,7 +4448,7 @@
   {
     "id": "J08",
     "name": "HKOI 2",
-    "organization": "Hong Kong Olympiad in Informatics",
+    "organization_id": "inst-122",
     "group": [
       "unofficial"
     ],
@@ -4493,7 +4493,7 @@
   {
     "id": "J09",
     "name": "Chuunibyou But ACMers",
-    "organization": "Wuhan University of Technology",
+    "organization_id": "inst-106",
     "group": [
       "official"
     ],
@@ -4539,7 +4539,7 @@
   {
     "id": "J10",
     "name": "SZU_OvO",
-    "organization": "Shenzhen University",
+    "organization_id": "inst-079",
     "group": [
       "official"
     ],
@@ -4585,7 +4585,7 @@
   {
     "id": "K01",
     "name": "^v^",
-    "organization": "Tianjin University",
+    "organization_id": "inst-098",
     "group": [
       "official"
     ],
@@ -4631,7 +4631,7 @@
   {
     "id": "K02",
     "name": "HDU-T05",
-    "organization": "Hangzhou Dianzi University",
+    "organization_id": "inst-030",
     "group": [
       "official"
     ],
@@ -4677,7 +4677,7 @@
   {
     "id": "K03",
     "name": "Can't solve it? Nap it away!",
-    "organization": "Jiangxi Agricultural University",
+    "organization_id": "inst-046",
     "group": [
       "official"
     ],
@@ -4723,7 +4723,7 @@
   {
     "id": "K04",
     "name": "Genesis in Hong Kong",
-    "organization": "Huizhou University",
+    "organization_id": "inst-044",
     "group": [
       "official"
     ],
@@ -4769,7 +4769,7 @@
   {
     "id": "K05",
     "name": "The Affiliated High School of Shanxi University",
-    "organization": "Nankai University",
+    "organization_id": "inst-056",
     "group": [
       "official"
     ],
@@ -4815,7 +4815,7 @@
   {
     "id": "K06",
     "name": "My Little Pony won't use Snickers before meeting Rainbow Dash",
-    "organization": "Chengdu Neusoft University",
+    "organization_id": "inst-009",
     "group": [
       "official"
     ],
@@ -4861,7 +4861,7 @@
   {
     "id": "K07",
     "name": "Hongkong Uncle",
-    "organization": "Xiangtan University",
+    "organization_id": "inst-112",
     "group": [
       "official"
     ],
@@ -4907,7 +4907,7 @@
   {
     "id": "K08",
     "name": "Naive Birds",
-    "organization": "Peking University",
+    "organization_id": "inst-067",
     "group": [
       "official"
     ],
@@ -4953,7 +4953,7 @@
   {
     "id": "K09",
     "name": "SleepToAC",
-    "organization": "Southwest University",
+    "organization_id": "inst-088",
     "group": [
       "official"
     ],
@@ -4999,7 +4999,7 @@
   {
     "id": "K10",
     "name": "Accepted by HKUST",
-    "organization": "Beijing Normal-Hong Kong Baptist University",
+    "organization_id": "inst-003",
     "group": [
       "official"
     ],
@@ -5045,7 +5045,7 @@
   {
     "id": "L01",
     "name": "Little Switty",
-    "organization": "Northwestern Polytechnical University",
+    "organization_id": "inst-066",
     "group": [
       "official"
     ],
@@ -5091,7 +5091,7 @@
   {
     "id": "L02",
     "name": "blossom of snow",
-    "organization": "Nanjing University of Aeronautics and Astronautics",
+    "organization_id": "inst-054",
     "group": [
       "official"
     ],
@@ -5137,7 +5137,7 @@
   {
     "id": "L03",
     "name": "The Midas Touch",
-    "organization": "Hong Kong Polytechnic University",
+    "organization_id": "inst-041",
     "group": [
       "official"
     ],
@@ -5183,7 +5183,7 @@
   {
     "id": "L04",
     "name": "Fondness? Delusion!",
-    "organization": "Jiangxi University of Finance and Economics",
+    "organization_id": "inst-047",
     "group": [
       "official"
     ],
@@ -5229,7 +5229,7 @@
   {
     "id": "L05",
     "name": "Twilight",
-    "organization": "Southeast University",
+    "organization_id": "inst-085",
     "group": [
       "official"
     ],
@@ -5275,7 +5275,7 @@
   {
     "id": "L06",
     "name": "The last dance of XiaoMo",
-    "organization": "Chengdu Jincheng College",
+    "organization_id": "inst-008",
     "group": [
       "official"
     ],
@@ -5321,7 +5321,7 @@
   {
     "id": "L07",
     "name": "Dreamer without love",
-    "organization": "Xi'an University of Posts and Telecommunications",
+    "organization_id": "inst-111",
     "group": [
       "official"
     ],
@@ -5367,7 +5367,7 @@
   {
     "id": "L08",
     "name": "ios::sync_with_think(false)",
-    "organization": "Guangdong University of Technology Jieyang Campus",
+    "organization_id": "inst-027",
     "group": [
       "official"
     ],
@@ -5413,7 +5413,7 @@
   {
     "id": "L09",
     "name": "Zutto Acceptednakade Iinoni.",
-    "organization": "Ningbo University of Technology",
+    "organization_id": "inst-062",
     "group": [
       "official"
     ],
@@ -5459,7 +5459,7 @@
   {
     "id": "L10",
     "name": "Long may the sun shine",
-    "organization": "Taizhou University",
+    "organization_id": "inst-092",
     "group": [
       "official"
     ],
@@ -5505,7 +5505,7 @@
   {
     "id": "M01",
     "name": "Mechanical Wings",
-    "organization": "Hebei University of Technology",
+    "organization_id": "inst-035",
     "group": [
       "official"
     ],
@@ -5551,7 +5551,7 @@
   {
     "id": "M02",
     "name": "Rinsed to Remote",
-    "organization": "Xi'an Jiaotong University",
+    "organization_id": "inst-110",
     "group": [
       "official"
     ],
@@ -5597,7 +5597,7 @@
   {
     "id": "M03",
     "name": "Truly miracle algorithms but no space to write",
-    "organization": "Taiyuan University of Technology",
+    "organization_id": "inst-091",
     "group": [
       "official"
     ],
@@ -5643,7 +5643,7 @@
   {
     "id": "M04",
     "name": "icy_firefly",
-    "organization": "University of Macau",
+    "organization_id": "inst-102",
     "group": [
       "official"
     ],
@@ -5689,7 +5689,7 @@
   {
     "id": "M05",
     "name": "XiXi",
-    "organization": "Xihua University",
+    "organization_id": "inst-114",
     "group": [
       "official"
     ],
@@ -5735,7 +5735,7 @@
   {
     "id": "M06",
     "name": "Byd Fan Club",
-    "organization": "Jinan University",
+    "organization_id": "inst-049",
     "group": [
       "official"
     ],
@@ -5781,7 +5781,7 @@
   {
     "id": "M07",
     "name": "Team name ddl today",
-    "organization": "The University of Hong Kong",
+    "organization_id": "inst-096",
     "group": [
       "official"
     ],
@@ -5827,7 +5827,7 @@
   {
     "id": "M08",
     "name": "SZTU_developer",
-    "organization": "Shenzhen Technology University",
+    "organization_id": "inst-078",
     "group": [
       "official"
     ],
@@ -5873,7 +5873,7 @@
   {
     "id": "M09",
     "name": "WA Deeds Done Dirt Cheap",
-    "organization": "ShanghaiTech University",
+    "organization_id": "inst-077",
     "group": [
       "official"
     ],
@@ -5919,7 +5919,7 @@
   {
     "id": "M10",
     "name": "GNOSIA",
-    "organization": "Beijing University of Posts and Telecommunications",
+    "organization_id": "inst-004",
     "group": [
       "official"
     ],
@@ -5965,7 +5965,7 @@
   {
     "id": "N01",
     "name": "from here",
-    "organization": "Harbin Institute of Technology, Shenzhen",
+    "organization_id": "inst-033",
     "group": [
       "official"
     ],
@@ -6011,7 +6011,7 @@
   {
     "id": "N02",
     "name": "I All Accepted",
-    "organization": "Kunming University of Science and Technology",
+    "organization_id": "inst-051",
     "group": [
       "official"
     ],
@@ -6057,7 +6057,7 @@
   {
     "id": "N03",
     "name": "gagagugu",
-    "organization": "Pui Ching Middle School",
+    "organization_id": "inst-120",
     "group": [
       "unofficial"
     ],
@@ -6102,7 +6102,7 @@
   {
     "id": "N04",
     "name": "SILVER MINER PRO",
-    "organization": "City University of Macau",
+    "organization_id": "inst-017",
     "group": [
       "official"
     ],
@@ -6148,7 +6148,7 @@
   {
     "id": "N05",
     "name": "Dawn",
-    "organization": "Yangtze University",
+    "organization_id": "inst-115",
     "group": [
       "official"
     ],
@@ -6194,7 +6194,7 @@
   {
     "id": "N06",
     "name": "HKBU_2",
-    "organization": "Hong Kong Baptist University",
+    "organization_id": "inst-040",
     "group": [
       "official"
     ],

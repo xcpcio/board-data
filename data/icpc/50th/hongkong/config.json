@@ -90,5 +90,8 @@
   },
   "options": {
     "submission_timestamp_unit": "millisecond"
+  },
+  "organizations": {
+    "url": "organizations.json"
   }
 }
