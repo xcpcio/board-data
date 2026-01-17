@@ -25,7 +25,6 @@
     "highschool": "高中组",
     "girl": "女队"
   },
-  "organization": "School",
   "status_time_display": {
     "correct": 1,
     "incorrect": 1,
@@ -43,5 +42,8 @@
       "silver": 24,
       "bronze": 35
     }
+  },
+  "options": {
+    "enable_organization": true
   }
 }

@@ -17,7 +17,6 @@
     "K",
     "L"
   ],
-  "organization": "School",
   "status_time_display": {
     "correct": 1
   },
@@ -72,9 +71,11 @@
       "color": "#fff"
     }
   ],
-  "badge": "Badge",
   "group": {
     "official": "正式队伍",
     "unofficial": "打星队伍"
+  },
+  "options": {
+    "enable_organization": true
   }
 }

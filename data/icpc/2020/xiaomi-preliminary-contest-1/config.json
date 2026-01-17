@@ -17,12 +17,14 @@
     "K"
   ],
   "group": {},
-  "organization": "School",
   "status_time_display": {
     "correct": 1
   },
   "penalty": 1200,
   "logo": {
     "preset": "ICPC"
+  },
+  "options": {
+    "enable_organization": true
   }
 }

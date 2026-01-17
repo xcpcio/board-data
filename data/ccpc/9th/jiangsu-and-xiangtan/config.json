@@ -26,7 +26,6 @@
     "jiangsu": "江苏省赛",
     "xiangtan": "CCPC 湘潭"
   },
-  "organization": "School",
   "status_time_display": {
     "correct": 1,
     "incorrect": 1,
@@ -85,5 +84,8 @@
   ],
   "logo": {
     "preset": "CCPC"
+  },
+  "options": {
+    "enable_organization": true
   }
 }

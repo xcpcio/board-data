@@ -33,7 +33,6 @@
     "incorrect": true,
     "pending": true
   },
-  "organization": "School",
   "medal": {},
   "group": {
     "official": "省内队伍",
@@ -41,6 +40,7 @@
     "unofficial": "打星队伍"
   },
   "options": {
-    "submission_timestamp_unit": "millisecond"
+    "submission_timestamp_unit": "millisecond",
+    "enable_organization": true
   }
 }

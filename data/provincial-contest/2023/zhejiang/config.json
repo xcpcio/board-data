@@ -27,7 +27,6 @@
     "undergraduate": "本科组",
     "vocational": "专科组"
   },
-  "organization": "School",
   "status_time_display": {
     "correct": 1,
     "incorrect": 1,
@@ -98,5 +97,8 @@
       "color": "#fff",
       "background_color": "rgba(0, 0, 0, 0.7)"
     }
-  ]
+  ],
+  "options": {
+    "enable_organization": true
+  }
 }

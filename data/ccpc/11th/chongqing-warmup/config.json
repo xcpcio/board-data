@@ -33,7 +33,6 @@
     "incorrect": true,
     "pending": true
   },
-  "organization": "School",
   "medal": "ccpc",
   "group": {
     "official": "正式队伍",
@@ -43,6 +42,7 @@
     "preset": "CCPC"
   },
   "options": {
-    "submission_timestamp_unit": "millisecond"
+    "submission_timestamp_unit": "millisecond",
+    "enable_organization": true
   }
 }

@@ -23,7 +23,6 @@
   "group": {
     "1": "正式"
   },
-  "organization": "School",
   "status_time_display": {
     "correct": true,
     "incorrect": true,
@@ -87,5 +86,7 @@
   "logo": {
     "preset": "ICPC"
   },
-  "options": {}
+  "options": {
+    "enable_organization": true
+  }
 }

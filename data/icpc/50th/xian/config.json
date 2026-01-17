@@ -78,7 +78,6 @@
     "incorrect": true,
     "pending": true
   },
-  "organization": "School",
   "medal": {
     "official": {
       "gold": 40,
@@ -101,6 +100,7 @@
       "mime": "image/jpeg",
       "width": 1620,
       "height": 1080
-    }
+    },
+    "enable_organization": true
   }
 }

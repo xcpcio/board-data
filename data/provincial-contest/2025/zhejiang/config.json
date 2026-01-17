@@ -27,7 +27,6 @@
     "undergraduate": "本科组",
     "vocational": "专科组"
   },
-  "organization": "School",
   "status_time_display": {
     "correct": true,
     "incorrect": true,
@@ -106,6 +105,7 @@
     "url": "provincial-contest/2025/zhejiang-assets/banner.min.jpg"
   },
   "options": {
-    "submission_timestamp_unit": "millisecond"
+    "submission_timestamp_unit": "millisecond",
+    "enable_organization": true
   }
 }

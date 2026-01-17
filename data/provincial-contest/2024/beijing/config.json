@@ -22,7 +22,6 @@
     "official": "正式队伍",
     "unofficial": "打星队伍"
   },
-  "organization": "School",
   "status_time_display": {
     "correct": true,
     "incorrect": true,
@@ -75,5 +74,7 @@
       "background_color": "rgba(42, 197, 202, 0.7)"
     }
   ],
-  "options": {}
+  "options": {
+    "enable_organization": true
+  }
 }

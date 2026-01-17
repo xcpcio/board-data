@@ -18,7 +18,6 @@
     "B_female": "B组女队",
     "star": "打星"
   },
-  "organization": "School",
   "status_time_display": {
     "correct": true,
     "incorrect": true,
@@ -44,6 +43,7 @@
     }
   ],
   "options": {
-    "submission_timestamp_unit": "millisecond"
+    "submission_timestamp_unit": "millisecond",
+    "enable_organization": true
   }
 }
