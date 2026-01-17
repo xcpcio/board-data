@@ -25,7 +25,6 @@
     "unofficial": "打星队伍",
     "girl": "女队"
   },
-  "organization": "School",
   "status_time_display": {
     "correct": true,
     "incorrect": true,
@@ -95,5 +94,7 @@
   "logo": {
     "preset": "CCPC"
   },
-  "options": {}
+  "options": {
+    "enable_organization": true
+  }
 }

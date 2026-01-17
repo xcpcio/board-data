@@ -11,9 +11,11 @@
     "E"
   ],
   "group": {},
-  "organization": "School",
   "status_time_display": {
     "correct": 1
   },
-  "penalty": 1200
+  "penalty": 1200,
+  "options": {
+    "enable_organization": true
+  }
 }

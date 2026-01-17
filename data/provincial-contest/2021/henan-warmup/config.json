@@ -13,7 +13,6 @@
     "unofficial": "打星队伍",
     "girl": "女队"
   },
-  "organization": "School",
   "status_time_display": {
     "correct": 1,
     "incorrect": 1,
@@ -40,5 +39,8 @@
       "background_color": "#ffffff",
       "color": "#000"
     }
-  ]
+  ],
+  "options": {
+    "enable_organization": true
+  }
 }

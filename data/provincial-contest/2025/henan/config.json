@@ -25,7 +25,6 @@
     "unofficial": "打星队伍",
     "girl": "女队"
   },
-  "organization": "School",
   "status_time_display": {
     "correct": true,
     "incorrect": true,
@@ -96,6 +95,7 @@
     "preset": "ICPC"
   },
   "options": {
-    "submission_timestamp_unit": "millisecond"
+    "submission_timestamp_unit": "millisecond",
+    "enable_organization": true
   }
 }

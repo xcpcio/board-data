@@ -22,7 +22,6 @@
     "official": "正式队伍",
     "unofficial": "打星队伍"
   },
-  "organization": "School",
   "status_time_display": {
     "correct": 1,
     "incorrect": 1,
@@ -92,5 +91,8 @@
   ],
   "logo": {
     "preset": "CCPC"
+  },
+  "options": {
+    "enable_organization": true
   }
 }

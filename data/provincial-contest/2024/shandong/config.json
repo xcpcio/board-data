@@ -27,7 +27,6 @@
     "within_the_province": "省内",
     "out_of_province": "省外"
   },
-  "organization": "School",
   "status_time_display": {
     "correct": true,
     "incorrect": true,
@@ -91,5 +90,7 @@
   "logo": {
     "preset": "CCPC"
   },
-  "options": {}
+  "options": {
+    "enable_organization": true
+  }
 }

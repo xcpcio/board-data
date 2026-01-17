@@ -12,7 +12,6 @@
     "official": "正式队伍",
     "unofficial": "打星队伍"
   },
-  "organization": "School",
   "status_time_display": {
     "correct": 1
   },
@@ -33,5 +32,8 @@
   ],
   "logo": {
     "preset": "ICPC"
+  },
+  "options": {
+    "enable_organization": true
   }
 }

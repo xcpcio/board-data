@@ -24,7 +24,6 @@
     "official": "正式队伍",
     "unofficial": "打星队伍"
   },
-  "organization": "School",
   "status_time_display": {
     "correct": true,
     "incorrect": true,
@@ -89,6 +88,7 @@
     "preset": "CCPC"
   },
   "options": {
-    "calculation_of_penalty": "accumulate_in_seconds_and_finally_to_the_minute"
+    "calculation_of_penalty": "accumulate_in_seconds_and_finally_to_the_minute",
+    "enable_organization": true
   }
 }

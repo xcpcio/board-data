@@ -13,7 +13,6 @@
       "silver": 48
     }
   },
-  "organization": "School",
   "penalty": 1200,
   "problem_id": [
     "A",
@@ -35,5 +34,8 @@
   },
   "logo": {
     "preset": "CCPC"
+  },
+  "options": {
+    "enable_organization": true
   }
 }

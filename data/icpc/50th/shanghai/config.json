@@ -78,7 +78,6 @@
     "incorrect": true,
     "pending": true
   },
-  "organization": "School",
   "medal": {
     "official": {
       "gold": 30,
@@ -97,6 +96,7 @@
   "options": {
     "submission_timestamp_unit": "millisecond",
     "has_reaction_videos": true,
-    "reaction_video_url_template": "https://d1x79igug69x01.cloudfront.net/reactions/ae/2025/shanghai/${submission_id}.mp4"
+    "reaction_video_url_template": "https://d1x79igug69x01.cloudfront.net/reactions/ae/2025/shanghai/${submission_id}.mp4",
+    "enable_organization": true
   }
 }

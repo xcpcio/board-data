@@ -38,7 +38,6 @@
     "incorrect": true,
     "pending": true
   },
-  "organization": "School",
   "medal": {
     "official": {
       "gold": 33,
@@ -54,6 +53,7 @@
     "preset": "ICPC"
   },
   "options": {
-    "submission_timestamp_unit": "millisecond"
+    "submission_timestamp_unit": "millisecond",
+    "enable_organization": true
   }
 }

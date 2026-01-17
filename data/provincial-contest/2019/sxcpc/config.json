@@ -17,7 +17,6 @@
     "K",
     "L"
   ],
-  "organization": "School",
   "status_time_display": {
     "correct": 1
   },
@@ -72,5 +71,7 @@
       "color": "#fff"
     }
   ],
-  "badge": "Badge"
+  "options": {
+    "enable_organization": true
+  }
 }
