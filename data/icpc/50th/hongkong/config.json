@@ -88,8 +88,8 @@
     "preset": "ICPC"
   },
   "options": {
-    "submission_timestamp_unit": "millisecond",
-    "enable_organization": true
+    "enable_organization": true,
+    "submission_timestamp_unit": "millisecond"
   },
   "organizations": {
     "url": "organizations.json"
