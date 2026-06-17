@@ -7,7 +7,7 @@ on:
       - "v*"
 
 permissions:
-  contents: read
+  contents: write
   packages: write
 
 env:
@@ -108,6 +108,19 @@ jobs:
             type=ref,event=tag
             type=raw,value=latest
             type=sha,prefix=sha-
+          labels: |
+            org.opencontainers.image.title=${{ env.image_name }}
+            org.opencontainers.image.description=XCPCIO board data static files
+            org.opencontainers.image.url=${{ github.server_url }}/${{ github.repository }}
+            org.opencontainers.image.source=${{ github.server_url }}/${{ github.repository }}
+            org.opencontainers.image.documentation=${{ github.server_url }}/${{ github.repository }}#readme
+            org.opencontainers.image.version=${{ github.ref_name }}
+            org.opencontainers.image.revision=${{ github.sha }}
+            org.opencontainers.image.created={{date 'YYYY-MM-DDTHH:mm:ss.SSS[Z]'}}
+            org.opencontainers.image.ref.name=${{ github.ref_name }}
+            org.opencontainers.image.authors=Dup4 <dup4@xcpcio.com>
+            org.opencontainers.image.vendor=XCPCIO
+            org.opencontainers.image.licenses=MIT
 
       - name: Build and push Docker image
         uses: docker/build-push-action@v7
