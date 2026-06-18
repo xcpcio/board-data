@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "INST-001",
+    "name": "三三信奥",
+    "icpc_id": "INST-001"
+  },
+  {
+    "id": "INST-002",
+    "name": "三峡大学",
+    "icpc_id": "INST-002"
+  },
+  {
+    "id": "INST-003",
+    "name": "上海交通大学",
+    "icpc_id": "INST-003"
+  },
+  {
+    "id": "INST-004",
+    "name": "上海大学",
+    "icpc_id": "INST-004"
+  },
+  {
+    "id": "INST-005",
+    "name": "上海市实验学校",
+    "icpc_id": "INST-005"
+  },
+  {
+    "id": "INST-006",
+    "name": "上海应用技术大学",
+    "icpc_id": "INST-006"
+  },
+  {
+    "id": "INST-007",
+    "name": "上海海事大学",
+    "icpc_id": "INST-007"
+  },
+  {
+    "id": "INST-008",
+    "name": "上海海洋大学",
+    "icpc_id": "INST-008"
+  },
+  {
+    "id": "INST-009",
+    "name": "上海理工大学",
+    "icpc_id": "INST-009"
+  },
+  {
+    "id": "INST-010",
+    "name": "上海第二工业大学",
+    "icpc_id": "INST-010"
+  },
+  {
+    "id": "INST-011",
+    "name": "东北大学",
+    "icpc_id": "INST-011"
+  },
+  {
+    "id": "INST-012",
+    "name": "东北大学秦皇岛分校",
+    "icpc_id": "INST-012"
+  },
+  {
+    "id": "INST-013",
+    "name": "东华理工大学",
+    "icpc_id": "INST-013"
+  },
+  {
+    "id": "INST-014",
+    "name": "东南大学",
+    "icpc_id": "INST-014"
+  },
+  {
+    "id": "INST-015",
+    "name": "东莞城市学院",
+    "icpc_id": "INST-015"
+  },
+  {
+    "id": "INST-016",
+    "name": "东莞理工学院",
+    "icpc_id": "INST-016"
+  },
+  {
+    "id": "INST-017",
+    "name": "中北大学",
+    "icpc_id": "INST-017"
+  },
+  {
+    "id": "INST-018",
+    "name": "中南林业科技大学",
+    "icpc_id": "INST-018"
+  },
+  {
+    "id": "INST-019",
+    "name": "中南民族大学",
+    "icpc_id": "INST-019"
+  },
+  {
+    "id": "INST-020",
+    "name": "中原工学院",
+    "icpc_id": "INST-020"
+  },
+  {
+    "id": "INST-021",
+    "name": "中国传媒大学",
+    "icpc_id": "INST-021"
+  },
+  {
+    "id": "INST-022",
+    "name": "中国地质大学（北京）",
+    "icpc_id": "INST-022"
+  },
+  {
+    "id": "INST-023",
+    "name": "中国海洋大学",
+    "icpc_id": "INST-023"
+  },
+  {
+    "id": "INST-024",
+    "name": "中国石油大学",
+    "icpc_id": "INST-024"
+  },
+  {
+    "id": "INST-025",
+    "name": "中国矿业大学",
+    "icpc_id": "INST-025"
+  },
+  {
+    "id": "INST-027",
+    "name": "中国矿业大学（北京）",
+    "icpc_id": "INST-027"
+  },
+  {
+    "id": "INST-026",
+    "name": "中国矿业大学徐海学院",
+    "icpc_id": "INST-026"
+  },
+  {
+    "id": "INST-028",
+    "name": "中央民族大学",
+    "icpc_id": "INST-028"
+  },
+  {
+    "id": "INST-029",
+    "name": "临沂大学",
+    "icpc_id": "INST-029"
+  },
+  {
+    "id": "INST-030",
+    "name": "乐山师范学院",
+    "icpc_id": "INST-030"
+  },
+  {
+    "id": "INST-031",
+    "name": "云南大学",
+    "icpc_id": "INST-031"
+  },
+  {
+    "id": "INST-032",
+    "name": "佛山大学",
+    "icpc_id": "INST-032"
+  },
+  {
+    "id": "INST-033",
+    "name": "信息工程大学",
+    "icpc_id": "INST-033"
+  },
+  {
+    "id": "INST-034",
+    "name": "信阳师范大学",
+    "icpc_id": "INST-034"
+  },
+  {
+    "id": "INST-035",
+    "name": "兰州大学",
+    "icpc_id": "INST-035"
+  },
+  {
+    "id": "INST-036",
+    "name": "内蒙古工业大学",
+    "icpc_id": "INST-036"
+  },
+  {
+    "id": "INST-037",
+    "name": "北京信息科技大学",
+    "icpc_id": "INST-037"
+  },
+  {
+    "id": "INST-038",
+    "name": "北京化工大学",
+    "icpc_id": "INST-038"
+  },
+  {
+    "id": "INST-039",
+    "name": "北京电子科技学院",
+    "icpc_id": "INST-039"
+  },
+  {
+    "id": "INST-040",
+    "name": "北京航空航天大学",
+    "icpc_id": "INST-040"
+  },
+  {
+    "id": "INST-041",
+    "name": "北京邮电大学",
+    "icpc_id": "INST-041"
+  },
+  {
+    "id": "INST-042",
+    "name": "华东交通大学",
+    "icpc_id": "INST-042"
+  },
+  {
+    "id": "INST-043",
+    "name": "华中农业大学",
+    "icpc_id": "INST-043"
+  },
+  {
+    "id": "INST-044",
+    "name": "华中科技大学",
+    "icpc_id": "INST-044"
+  },
+  {
+    "id": "INST-045",
+    "name": "华北水利水电大学",
+    "icpc_id": "INST-045"
+  },
+  {
+    "id": "INST-046",
+    "name": "华北理工大学",
+    "icpc_id": "INST-046"
+  },
+  {
+    "id": "INST-047",
+    "name": "华南师范大学",
+    "icpc_id": "INST-047"
+  },
+  {
+    "id": "INST-048",
+    "name": "南京农业大学",
+    "icpc_id": "INST-048"
+  },
+  {
+    "id": "INST-049",
+    "name": "南京工业大学",
+    "icpc_id": "INST-049"
+  },
+  {
+    "id": "INST-050",
+    "name": "南京晓庄学院",
+    "icpc_id": "INST-050"
+  },
+  {
+    "id": "INST-051",
+    "name": "南京林业大学",
+    "icpc_id": "INST-051"
+  },
+  {
+    "id": "INST-052",
+    "name": "南京航空航天大学",
+    "icpc_id": "INST-052"
+  },
+  {
+    "id": "INST-053",
+    "name": "南京邮电大学",
+    "icpc_id": "INST-053"
+  },
+  {
+    "id": "INST-054",
+    "name": "南昌大学",
+    "icpc_id": "INST-054"
+  },
+  {
+    "id": "INST-055",
+    "name": "南昌理工学院",
+    "icpc_id": "INST-055"
+  },
+  {
+    "id": "INST-056",
+    "name": "南阳师范学院",
+    "icpc_id": "INST-056"
+  },
+  {
+    "id": "INST-057",
+    "name": "南阳理工学院",
+    "icpc_id": "INST-057"
+  },
+  {
+    "id": "INST-058",
+    "name": "厦门大学",
+    "icpc_id": "INST-058"
+  },
+  {
+    "id": "INST-059",
+    "name": "厦门理工学院",
+    "icpc_id": "INST-059"
+  },
+  {
+    "id": "INST-060",
+    "name": "台州学院",
+    "icpc_id": "INST-060"
+  },
+  {
+    "id": "INST-061",
+    "name": "合肥大学",
+    "icpc_id": "INST-061"
+  },
+  {
+    "id": "INST-062",
+    "name": "合肥工业大学宣城校区",
+    "icpc_id": "INST-062"
+  },
+  {
+    "id": "INST-063",
+    "name": "吉利学院",
+    "icpc_id": "INST-063"
+  },
+  {
+    "id": "INST-064",
+    "name": "吉林大学",
+    "icpc_id": "INST-064"
+  },
+  {
+    "id": "INST-065",
+    "name": "吉首大学",
+    "icpc_id": "INST-065"
+  },
+  {
+    "id": "INST-066",
+    "name": "同济大学",
+    "icpc_id": "INST-066"
+  },
+  {
+    "id": "INST-067",
+    "name": "哈尔滨工业大学（深圳）",
+    "icpc_id": "INST-067"
+  },
+  {
+    "id": "INST-068",
+    "name": "哈尔滨理工大学",
+    "icpc_id": "INST-068"
+  },
+  {
+    "id": "INST-069",
+    "name": "商丘师范学院",
+    "icpc_id": "INST-069"
+  },
+  {
+    "id": "INST-070",
+    "name": "四川农业大学",
+    "icpc_id": "INST-070"
+  },
+  {
+    "id": "INST-071",
+    "name": "四川大学",
+    "icpc_id": "INST-071"
+  },
+  {
+    "id": "INST-072",
+    "name": "四川师范大学",
+    "icpc_id": "INST-072"
+  },
+  {
+    "id": "INST-073",
+    "name": "国科英才科创学院",
+    "icpc_id": "INST-073"
+  },
+  {
+    "id": "INST-074",
+    "name": "国防科技大学",
+    "icpc_id": "INST-074"
+  },
+  {
+    "id": "INST-075",
+    "name": "大连交通大学",
+    "icpc_id": "INST-075"
+  },
+  {
+    "id": "INST-076",
+    "name": "大连外国语大学",
+    "icpc_id": "INST-076"
+  },
+  {
+    "id": "INST-077",
+    "name": "大连大学",
+    "icpc_id": "INST-077"
+  },
+  {
+    "id": "INST-078",
+    "name": "大连海事大学",
+    "icpc_id": "INST-078"
+  },
+  {
+    "id": "INST-079",
+    "name": "大连理工大学",
+    "icpc_id": "INST-079"
+  },
+  {
+    "id": "INST-080",
+    "name": "大连理工大学城市学院",
+    "icpc_id": "INST-080"
+  },
+  {
+    "id": "INST-081",
+    "name": "天津大学",
+    "icpc_id": "INST-081"
+  },
+  {
+    "id": "INST-082",
+    "name": "天津工业大学",
+    "icpc_id": "INST-082"
+  },
+  {
+    "id": "INST-083",
+    "name": "天津科技大学",
+    "icpc_id": "INST-083"
+  },
+  {
+    "id": "INST-084",
+    "name": "太原市第五中学校",
+    "icpc_id": "INST-084"
+  },
+  {
+    "id": "INST-085",
+    "name": "太原科技大学",
+    "icpc_id": "INST-085"
+  },
+  {
+    "id": "INST-086",
+    "name": "宁波大学",
+    "icpc_id": "INST-086"
+  },
+  {
+    "id": "INST-087",
+    "name": "宁波工程学院",
+    "icpc_id": "INST-087"
+  },
+  {
+    "id": "INST-088",
+    "name": "安徽农业大学",
+    "icpc_id": "INST-088"
+  },
+  {
+    "id": "INST-089",
+    "name": "安徽工业大学",
+    "icpc_id": "INST-089"
+  },
+  {
+    "id": "INST-090",
+    "name": "安徽师范大学",
+    "icpc_id": "INST-090"
+  },
+  {
+    "id": "INST-091",
+    "name": "山东大学",
+    "icpc_id": "INST-091"
+  },
+  {
+    "id": "INST-092",
+    "name": "山东大学（威海）",
+    "icpc_id": "INST-092"
+  },
+  {
+    "id": "INST-093",
+    "name": "山东工商学院",
+    "icpc_id": "INST-093"
+  },
+  {
+    "id": "INST-094",
+    "name": "山东师范大学",
+    "icpc_id": "INST-094"
+  },
+  {
+    "id": "INST-095",
+    "name": "山东建筑大学",
+    "icpc_id": "INST-095"
+  },
+  {
+    "id": "INST-096",
+    "name": "山东理工大学",
+    "icpc_id": "INST-096"
+  },
+  {
+    "id": "INST-097",
+    "name": "山东石油化工学院",
+    "icpc_id": "INST-097"
+  },
+  {
+    "id": "INST-098",
+    "name": "山东科技大学",
+    "icpc_id": "INST-098"
+  },
+  {
+    "id": "INST-099",
+    "name": "山东管理学院",
+    "icpc_id": "INST-099"
+  },
+  {
+    "id": "INST-100",
+    "name": "山东财经大学",
+    "icpc_id": "INST-100"
+  },
+  {
+    "id": "INST-101",
+    "name": "山西工程科技职业大学",
+    "icpc_id": "INST-101"
+  },
+  {
+    "id": "INST-102",
+    "name": "广东东软学院",
+    "icpc_id": "INST-102"
+  },
+  {
+    "id": "INST-103",
+    "name": "广东工业大学",
+    "icpc_id": "INST-103"
+  },
+  {
+    "id": "INST-104",
+    "name": "广东金融学院",
+    "icpc_id": "INST-104"
+  },
+  {
+    "id": "INST-105",
+    "name": "广州华立学院",
+    "icpc_id": "INST-105"
+  },
+  {
+    "id": "INST-106",
+    "name": "广州城市理工学院",
+    "icpc_id": "INST-106"
+  },
+  {
+    "id": "INST-107",
+    "name": "广州软件学院",
+    "icpc_id": "INST-107"
+  },
+  {
+    "id": "INST-108",
+    "name": "广西大学",
+    "icpc_id": "INST-108"
+  },
+  {
+    "id": "INST-109",
+    "name": "广西师范大学",
+    "icpc_id": "INST-109"
+  },
+  {
+    "id": "INST-110",
+    "name": "广西科技大学",
+    "icpc_id": "INST-110"
+  },
+  {
+    "id": "INST-111",
+    "name": "延安大学西安创新学院",
+    "icpc_id": "INST-111"
+  },
+  {
+    "id": "INST-112",
+    "name": "徐州工程学院",
+    "icpc_id": "INST-112"
+  },
+  {
+    "id": "INST-113",
+    "name": "成都信息工程大学",
+    "icpc_id": "INST-113"
+  },
+  {
+    "id": "INST-114",
+    "name": "成都大学",
+    "icpc_id": "INST-114"
+  },
+  {
+    "id": "INST-115",
+    "name": "成都理工大学",
+    "icpc_id": "INST-115"
+  },
+  {
+    "id": "INST-116",
+    "name": "扬州大学",
+    "icpc_id": "INST-116"
+  },
+  {
+    "id": "INST-117",
+    "name": "新疆大学",
+    "icpc_id": "INST-117"
+  },
+  {
+    "id": "INST-118",
+    "name": "无锡学院",
+    "icpc_id": "INST-118"
+  },
+  {
+    "id": "INST-119",
+    "name": "暨南大学",
+    "icpc_id": "INST-119"
+  },
+  {
+    "id": "INST-120",
+    "name": "曲阜师范大学",
+    "icpc_id": "INST-120"
+  },
+  {
+    "id": "INST-121",
+    "name": "武昌理工学院",
+    "icpc_id": "INST-121"
+  },
+  {
+    "id": "INST-122",
+    "name": "武汉大学",
+    "icpc_id": "INST-122"
+  },
+  {
+    "id": "INST-123",
+    "name": "武汉学院",
+    "icpc_id": "INST-123"
+  },
+  {
+    "id": "INST-124",
+    "name": "武汉工程大学",
+    "icpc_id": "INST-124"
+  },
+  {
+    "id": "INST-125",
+    "name": "武汉理工大学",
+    "icpc_id": "INST-125"
+  },
+  {
+    "id": "INST-126",
+    "name": "武汉纺织大学外经贸学院",
+    "icpc_id": "INST-126"
+  },
+  {
+    "id": "INST-127",
+    "name": "武汉轻工大学",
+    "icpc_id": "INST-127"
+  },
+  {
+    "id": "INST-128",
+    "name": "武警工程大学",
+    "icpc_id": "INST-128"
+  },
+  {
+    "id": "INST-129",
+    "name": "江南大学",
+    "icpc_id": "INST-129"
+  },
+  {
+    "id": "INST-130",
+    "name": "江汉大学",
+    "icpc_id": "INST-130"
+  },
+  {
+    "id": "INST-131",
+    "name": "江西农业大学",
+    "icpc_id": "INST-131"
+  },
+  {
+    "id": "INST-132",
+    "name": "江西师范大学",
+    "icpc_id": "INST-132"
+  },
+  {
+    "id": "INST-133",
+    "name": "江西理工大学",
+    "icpc_id": "INST-133"
+  },
+  {
+    "id": "INST-134",
+    "name": "江西理工大学南昌校区",
+    "icpc_id": "INST-134"
+  },
+  {
+    "id": "INST-135",
+    "name": "江西财经大学",
+    "icpc_id": "INST-135"
+  },
+  {
+    "id": "INST-136",
+    "name": "沈阳化工大学",
+    "icpc_id": "INST-136"
+  },
+  {
+    "id": "INST-137",
+    "name": "沈阳理工大学",
+    "icpc_id": "INST-137"
+  },
+  {
+    "id": "INST-138",
+    "name": "河北大学",
+    "icpc_id": "INST-138"
+  },
+  {
+    "id": "INST-139",
+    "name": "河北工业大学",
+    "icpc_id": "INST-139"
+  },
+  {
+    "id": "INST-140",
+    "name": "河北工程大学",
+    "icpc_id": "INST-140"
+  },
+  {
+    "id": "INST-141",
+    "name": "河北师范大学",
+    "icpc_id": "INST-141"
+  },
+  {
+    "id": "INST-142",
+    "name": "河南农业大学",
+    "icpc_id": "INST-142"
+  },
+  {
+    "id": "INST-143",
+    "name": "河南大学",
+    "icpc_id": "INST-143"
+  },
+  {
+    "id": "INST-144",
+    "name": "河南理工大学",
+    "icpc_id": "INST-144"
+  },
+  {
+    "id": "INST-145",
+    "name": "河南科技大学",
+    "icpc_id": "INST-145"
+  },
+  {
+    "id": "INST-146",
+    "name": "河海大学",
+    "icpc_id": "INST-146"
+  },
+  {
+    "id": "INST-147",
+    "name": "洛谷科技",
+    "icpc_id": "INST-147"
+  },
+  {
+    "id": "INST-148",
+    "name": "浙大城市学院",
+    "icpc_id": "INST-148"
+  },
+  {
+    "id": "INST-149",
+    "name": "浙大宁波理工学院",
+    "icpc_id": "INST-149"
+  },
+  {
+    "id": "INST-150",
+    "name": "浙江万里学院",
+    "icpc_id": "INST-150"
+  },
+  {
+    "id": "INST-151",
+    "name": "浙江农林大学",
+    "icpc_id": "INST-151"
+  },
+  {
+    "id": "INST-152",
+    "name": "浙江工业大学",
+    "icpc_id": "INST-152"
+  },
+  {
+    "id": "INST-153",
+    "name": "浙江工业大学之江学院",
+    "icpc_id": "INST-153"
+  },
+  {
+    "id": "INST-154",
+    "name": "浙江工商大学",
+    "icpc_id": "INST-154"
+  },
+  {
+    "id": "INST-155",
+    "name": "浙江师范大学",
+    "icpc_id": "INST-155"
+  },
+  {
+    "id": "INST-156",
+    "name": "浙江理工大学",
+    "icpc_id": "INST-156"
+  },
+  {
+    "id": "INST-157",
+    "name": "浙江育英职业技术学院",
+    "icpc_id": "INST-157"
+  },
+  {
+    "id": "INST-158",
+    "name": "海南大学",
+    "icpc_id": "INST-158"
+  },
+  {
+    "id": "INST-159",
+    "name": "深圳大学",
+    "icpc_id": "INST-159"
+  },
+  {
+    "id": "INST-160",
+    "name": "清华大学附属中学",
+    "icpc_id": "INST-160"
+  },
+  {
+    "id": "INST-161",
+    "name": "渭南师范学院",
+    "icpc_id": "INST-161"
+  },
+  {
+    "id": "INST-162",
+    "name": "湖北工业大学",
+    "icpc_id": "INST-162"
+  },
+  {
+    "id": "INST-163",
+    "name": "湖北师范大学",
+    "icpc_id": "INST-163"
+  },
+  {
+    "id": "INST-164",
+    "name": "湖北汽车工业学院",
+    "icpc_id": "INST-164"
+  },
+  {
+    "id": "INST-165",
+    "name": "湖北第二师范学院",
+    "icpc_id": "INST-165"
+  },
+  {
+    "id": "INST-166",
+    "name": "湖北经济学院",
+    "icpc_id": "INST-166"
+  },
+  {
+    "id": "INST-167",
+    "name": "湖南农业大学",
+    "icpc_id": "INST-167"
+  },
+  {
+    "id": "INST-168",
+    "name": "湖南大学",
+    "icpc_id": "INST-168"
+  },
+  {
+    "id": "INST-169",
+    "name": "湖南工业大学",
+    "icpc_id": "INST-169"
+  },
+  {
+    "id": "INST-170",
+    "name": "湖南涉外经济学院",
+    "icpc_id": "INST-170"
+  },
+  {
+    "id": "INST-171",
+    "name": "湖南理工学院",
+    "icpc_id": "INST-171"
+  },
+  {
+    "id": "INST-172",
+    "name": "湖南科技大学",
+    "icpc_id": "INST-172"
+  },
+  {
+    "id": "INST-173",
+    "name": "湖南财政经济学院",
+    "icpc_id": "INST-173"
+  },
+  {
+    "id": "INST-174",
+    "name": "湖州师范大学",
+    "icpc_id": "INST-174"
+  },
+  {
+    "id": "INST-175",
+    "name": "湘潭大学",
+    "icpc_id": "INST-175"
+  },
+  {
+    "id": "INST-176",
+    "name": "潍坊学院",
+    "icpc_id": "INST-176"
+  },
+  {
+    "id": "INST-177",
+    "name": "焦作市第一中学",
+    "icpc_id": "INST-177"
+  },
+  {
+    "id": "INST-178",
+    "name": "甘肃农业大学",
+    "icpc_id": "INST-178"
+  },
+  {
+    "id": "INST-179",
+    "name": "电子科技大学",
+    "icpc_id": "INST-179"
+  },
+  {
+    "id": "INST-180",
+    "name": "电子科技大学中山学院",
+    "icpc_id": "INST-180"
+  },
+  {
+    "id": "INST-181",
+    "name": "盐城工学院",
+    "icpc_id": "INST-181"
+  },
+  {
+    "id": "INST-182",
+    "name": "睿钯科技",
+    "icpc_id": "INST-182"
+  },
+  {
+    "id": "INST-183",
+    "name": "石家庄铁道大学",
+    "icpc_id": "INST-183"
+  },
+  {
+    "id": "INST-184",
+    "name": "福州工商学院",
+    "icpc_id": "INST-184"
+  },
+  {
+    "id": "INST-185",
+    "name": "福建农林大学",
+    "icpc_id": "INST-185"
+  },
+  {
+    "id": "INST-186",
+    "name": "福建商学院",
+    "icpc_id": "INST-186"
+  },
+  {
+    "id": "INST-187",
+    "name": "福建师范大学",
+    "icpc_id": "INST-187"
+  },
+  {
+    "id": "INST-188",
+    "name": "福建理工大学",
+    "icpc_id": "INST-188"
+  },
+  {
+    "id": "INST-189",
+    "name": "空军工程大学",
+    "icpc_id": "INST-189"
+  },
+  {
+    "id": "INST-190",
+    "name": "绍兴市第一初级中学",
+    "icpc_id": "INST-190"
+  },
+  {
+    "id": "INST-191",
+    "name": "苏州外国语学校",
+    "icpc_id": "INST-191"
+  },
+  {
+    "id": "INST-192",
+    "name": "苏州工学院",
+    "icpc_id": "INST-192"
+  },
+  {
+    "id": "INST-193",
+    "name": "衡阳师范学院",
+    "icpc_id": "INST-193"
+  },
+  {
+    "id": "INST-194",
+    "name": "西北农林科技大学",
+    "icpc_id": "INST-194"
+  },
+  {
+    "id": "INST-195",
+    "name": "西北大学",
+    "icpc_id": "INST-195"
+  },
+  {
+    "id": "INST-196",
+    "name": "西北工业大学",
+    "icpc_id": "INST-196"
+  },
+  {
+    "id": "INST-197",
+    "name": "西北工业大学附属中学",
+    "icpc_id": "INST-197"
+  },
+  {
+    "id": "INST-198",
+    "name": "西华大学",
+    "icpc_id": "INST-198"
+  },
+  {
+    "id": "INST-199",
+    "name": "西华师范大学",
+    "icpc_id": "INST-199"
+  },
+  {
+    "id": "INST-200",
+    "name": "西南交通大学",
+    "icpc_id": "INST-200"
+  },
+  {
+    "id": "INST-201",
+    "name": "西南民族大学",
+    "icpc_id": "INST-201"
+  },
+  {
+    "id": "INST-202",
+    "name": "西南石油大学",
+    "icpc_id": "INST-202"
+  },
+  {
+    "id": "INST-203",
+    "name": "西南科技大学",
+    "icpc_id": "INST-203"
+  },
+  {
+    "id": "INST-204",
+    "name": "西南财经大学",
+    "icpc_id": "INST-204"
+  },
+  {
+    "id": "INST-205",
+    "name": "西安交通大学",
+    "icpc_id": "INST-205"
+  },
+  {
+    "id": "INST-206",
+    "name": "西安交通大学附属中学",
+    "icpc_id": "INST-206"
+  },
+  {
+    "id": "INST-207",
+    "name": "西安工业大学",
+    "icpc_id": "INST-207"
+  },
+  {
+    "id": "INST-208",
+    "name": "西安市铁一中学",
+    "icpc_id": "INST-208"
+  },
+  {
+    "id": "INST-209",
+    "name": "西安建筑科技大学",
+    "icpc_id": "INST-209"
+  },
+  {
+    "id": "INST-210",
+    "name": "西安欧亚学院",
+    "icpc_id": "INST-210"
+  },
+  {
+    "id": "INST-211",
+    "name": "西安理工大学",
+    "icpc_id": "INST-211"
+  },
+  {
+    "id": "INST-212",
+    "name": "西安电子科技大学",
+    "icpc_id": "INST-212"
+  },
+  {
+    "id": "INST-213",
+    "name": "西安石油大学",
+    "icpc_id": "INST-213"
+  },
+  {
+    "id": "INST-214",
+    "name": "西安科技大学",
+    "icpc_id": "INST-214"
+  },
+  {
+    "id": "INST-215",
+    "name": "西安邮电大学",
+    "icpc_id": "INST-215"
+  },
+  {
+    "id": "INST-216",
+    "name": "西安高新第一中学",
+    "icpc_id": "INST-216"
+  },
+  {
+    "id": "INST-217",
+    "name": "辽宁大学",
+    "icpc_id": "INST-217"
+  },
+  {
+    "id": "INST-218",
+    "name": "辽宁师范大学",
+    "icpc_id": "INST-218"
+  },
+  {
+    "id": "INST-219",
+    "name": "辽宁科技大学",
+    "icpc_id": "INST-219"
+  },
+  {
+    "id": "INST-220",
+    "name": "郑州大学",
+    "icpc_id": "INST-220"
+  },
+  {
+    "id": "INST-221",
+    "name": "郑州轻工业大学",
+    "icpc_id": "INST-221"
+  },
+  {
+    "id": "INST-222",
+    "name": "重庆城市科技学院",
+    "icpc_id": "INST-222"
+  },
+  {
+    "id": "INST-223",
+    "name": "重庆大学",
+    "icpc_id": "INST-223"
+  },
+  {
+    "id": "INST-224",
+    "name": "重庆移通学院",
+    "icpc_id": "INST-224"
+  },
+  {
+    "id": "INST-225",
+    "name": "长安大学",
+    "icpc_id": "INST-225"
+  },
+  {
+    "id": "INST-226",
+    "name": "长春工业大学",
+    "icpc_id": "INST-226"
+  },
+  {
+    "id": "INST-227",
+    "name": "长春理工大学",
+    "icpc_id": "INST-227"
+  },
+  {
+    "id": "INST-228",
+    "name": "长春财经学院",
+    "icpc_id": "INST-228"
+  },
+  {
+    "id": "INST-229",
+    "name": "长江大学",
+    "icpc_id": "INST-229"
+  },
+  {
+    "id": "INST-230",
+    "name": "阜阳师范大学",
+    "icpc_id": "INST-230"
+  },
+  {
+    "id": "INST-231",
+    "name": "阿坝师范学院",
+    "icpc_id": "INST-231"
+  },
+  {
+    "id": "INST-232",
+    "name": "陕西师范大学",
+    "icpc_id": "INST-232"
+  },
+  {
+    "id": "INST-233",
+    "name": "陕西科技大学",
+    "icpc_id": "INST-233"
+  },
+  {
+    "id": "INST-234",
+    "name": "青岛农业大学",
+    "icpc_id": "INST-234"
+  },
+  {
+    "id": "INST-235",
+    "name": "青岛理工大学",
+    "icpc_id": "INST-235"
+  },
+  {
+    "id": "INST-236",
+    "name": "青岛科技大学",
+    "icpc_id": "INST-236"
+  },
+  {
+    "id": "INST-237",
+    "name": "韩山师范学院",
+    "icpc_id": "INST-237"
+  },
+  {
+    "id": "INST-238",
+    "name": "韶关学院",
+    "icpc_id": "INST-238"
+  },
+  {
+    "id": "INST-239",
+    "name": "鲁东大学",
+    "icpc_id": "INST-239"
+  },
+  {
+    "id": "INST-240",
+    "name": "齐鲁工业大学",
+    "icpc_id": "INST-240"
+  }
+]
