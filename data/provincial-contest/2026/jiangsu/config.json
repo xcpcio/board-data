@@ -1,0 +1,98 @@
+{
+  "contest_name": "2026 年江苏省大学生程序设计竞赛",
+  "start_time": 1778983200000,
+  "end_time": 1779001200000,
+  "penalty": 1200,
+  "frozen_time": 3600,
+  "problem_id": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L"
+  ],
+  "balloon_color": [
+    {
+      "color": "#000000",
+      "background_color": "#9bcdbb"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#1e65a8"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#1f8f2e"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#9b1028"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#5ab8e8"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#e7e38a"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#e95517"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#f2f0e8"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#4b2478"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#00947f"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#d59aa0"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#a8794f"
+    }
+  ],
+  "status_time_display": {
+    "correct": true,
+    "incorrect": true,
+    "pending": true
+  },
+  "medal": {
+    "official": {
+      "gold": 18,
+      "silver": 35,
+      "bronze": 53
+    }
+  },
+  "group": {
+    "official": "正式队伍",
+    "unofficial": "打星队伍",
+    "girl": "女队"
+  },
+  "logo": {
+    "preset": "CCPC"
+  },
+  "options": {
+    "enable_organization": true,
+    "submission_timestamp_unit": "millisecond"
+  },
+  "organizations": {
+    "url": "organizations.json"
+  }
+}

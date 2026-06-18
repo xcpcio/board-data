@@ -1,0 +1,104 @@
+{
+  "contest_name": "第 14 届陕西省国际大学生程序设计竞赛 - 正式赛",
+  "start_time": 1778898600000,
+  "end_time": 1778916600000,
+  "penalty": 1200,
+  "frozen_time": 3600,
+  "problem_id": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L",
+    "M"
+  ],
+  "balloon_color": [
+    {
+      "color": "#000000",
+      "background_color": "#FF0000"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#ff7700"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#ffd000"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#91ff00"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#00ff88"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#00fff7"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#8800ff"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#ffffff"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#ffd5d5"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#ffe2c2"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#000000"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#eb1688"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#0051ff"
+    }
+  ],
+  "status_time_display": {
+    "correct": true,
+    "incorrect": true,
+    "pending": true
+  },
+  "medal": {
+    "official": {
+      "gold": 17,
+      "silver": 33,
+      "bronze": 49
+    }
+  },
+  "group": {
+    "代码之战": "代码之战",
+    "编程之星": "编程之星",
+    "计算之巅": "计算之巅",
+    "unofficial": "打星队伍"
+  },
+  "logo": {
+    "preset": "ICPC"
+  },
+  "options": {
+    "enable_organization": true,
+    "submission_timestamp_unit": "millisecond"
+  },
+  "organizations": {
+    "url": "organizations.json"
+  }
+}
