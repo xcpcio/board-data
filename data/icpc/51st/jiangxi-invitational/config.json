@@ -1,0 +1,103 @@
+{
+  "contest_name": "2026 年 ICPC 国际大学生程序设计竞赛全国邀请赛（南昌）暨江西省赛 - 正式赛",
+  "start_time": 1778979600000,
+  "end_time": 1778997600000,
+  "penalty": 1200,
+  "frozen_time": 3600,
+  "problem_id": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L",
+    "M"
+  ],
+  "balloon_color": [
+    {
+      "color": "#000000",
+      "background_color": "#ec213e"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#bbc4e1"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#f1f1f1"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#812f33"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#a06ee5"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#e7d85a"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#f7a0d3"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#68b7eb"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#27ab60"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#3a196a"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#f6690d"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#2f2f39"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#c5bac2"
+    }
+  ],
+  "status_time_display": {
+    "correct": true,
+    "incorrect": true,
+    "pending": true
+  },
+  "medal": {
+    "official": {
+      "gold": 37,
+      "silver": 74,
+      "bronze": 111
+    }
+  },
+  "group": {
+    "official": "正式队伍",
+    "edu-provincial": "学会省赛队伍",
+    "unofficial": "打星队伍"
+  },
+  "logo": {
+    "preset": "ICPC"
+  },
+  "options": {
+    "enable_organization": true,
+    "submission_timestamp_unit": "millisecond"
+  },
+  "organizations": {
+    "url": "organizations.json"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "contest_name": "2026 年 ICPC 国际大学生程序设计竞赛全国邀请赛（武汉）暨湖北省赛 - 正式赛",
+  "start_time": 1778981400000,
+  "end_time": 1778999400000,
+  "penalty": 1200,
+  "frozen_time": 3600,
+  "problem_id": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L",
+    "M"
+  ],
+  "balloon_color": [
+    {
+      "color": "#000000",
+      "background_color": "#ffea06"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#0004ff"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#00ddff"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#ffffff"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#FF0000"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#cb82ff"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#7d5050"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#ff6f00"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#f500dc"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#00ff2f"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#7700ff"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#000000"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#0b5200"
+    }
+  ],
+  "status_time_display": {
+    "correct": true,
+    "incorrect": true,
+    "pending": true
+  },
+  "medal": {
+    "Invitational_participants": {
+      "gold": 23,
+      "silver": 46,
+      "bronze": 69
+    },
+    "Provincial_participants": {
+      "gold": 6,
+      "silver": 12,
+      "bronze": 18
+    }
+  },
+  "group": {
+    "Invitational_participants": "邀请赛队伍",
+    "Provincial_participants": "省赛队伍",
+    "Stars": "打星队伍"
+  },
+  "logo": {
+    "preset": "ICPC"
+  },
+  "options": {
+    "enable_organization": true,
+    "submission_timestamp_unit": "millisecond"
+  },
+  "organizations": {
+    "url": "organizations.json"
+  }
+}

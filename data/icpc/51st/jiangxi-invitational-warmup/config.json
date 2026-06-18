@@ -1,0 +1,52 @@
+{
+  "contest_name": "2026 年 ICPC 国际大学生程序设计竞赛全国邀请赛（南昌）暨江西省赛 - 热身赛",
+  "start_time": 1778913000000,
+  "end_time": 1778920200000,
+  "penalty": 1200,
+  "frozen_time": 1800,
+  "problem_id": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "balloon_color": [
+    {
+      "color": "#000000",
+      "background_color": "#e74c3c"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#3498db"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#27ae60"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#f1c40f"
+    }
+  ],
+  "status_time_display": {
+    "correct": true,
+    "incorrect": true,
+    "pending": true
+  },
+  "medal": {},
+  "group": {
+    "official": "正式队伍",
+    "edu-provincial": "学会省赛队伍",
+    "unofficial": "打星队伍"
+  },
+  "logo": {
+    "preset": "ICPC"
+  },
+  "options": {
+    "enable_organization": true,
+    "submission_timestamp_unit": "millisecond"
+  },
+  "organizations": {
+    "url": "organizations.json"
+  }
+}

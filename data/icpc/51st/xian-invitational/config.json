@@ -1,0 +1,107 @@
+{
+  "contest_name": "第 51 届 ICPC 国际大学生程序设计竞赛邀请赛西安站 - 正式赛",
+  "start_time": 1777687200000,
+  "end_time": 1777705200000,
+  "penalty": 1200,
+  "frozen_time": 3600,
+  "problem_id": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L",
+    "M",
+    "N"
+  ],
+  "balloon_color": [
+    {
+      "color": "#000000",
+      "background_color": "#ff692a"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#bbf451"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#155dfc"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#f6339a"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#000000"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#ffdf20"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#ad46ff"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#ff0000"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#0d542b"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#ffffff"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#d0872e"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#a2f4fd"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#ffa1ad"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#05df72"
+    }
+  ],
+  "status_time_display": {
+    "correct": true,
+    "incorrect": true,
+    "pending": true
+  },
+  "medal": {
+    "official": {
+      "gold": 36,
+      "silver": 72,
+      "bronze": 108
+    }
+  },
+  "group": {
+    "official": "正式队伍",
+    "unofficial": "打星队伍"
+  },
+  "logo": {
+    "preset": "ICPC"
+  },
+  "options": {
+    "enable_organization": true,
+    "submission_timestamp_unit": "millisecond"
+  },
+  "organizations": {
+    "url": "organizations.json"
+  }
+}

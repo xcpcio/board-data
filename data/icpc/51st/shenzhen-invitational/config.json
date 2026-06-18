@@ -1,0 +1,102 @@
+{
+  "contest_name": "2026 年 ICPC 国际大学生程序设计竞赛全国邀请赛（深圳）",
+  "start_time": 1775876400000,
+  "end_time": 1775894400000,
+  "penalty": 1200,
+  "frozen_time": 3600,
+  "problem_id": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L",
+    "M"
+  ],
+  "balloon_color": [
+    {
+      "color": "#000000",
+      "background_color": "#ff0000"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#ffa500"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#ffff00"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#008000"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#00008b"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#dda0dd"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#ff007f"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#ffffe0"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#800080"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#ffc0cb"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#a52a2a"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#add8e6"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#ffffff"
+    }
+  ],
+  "status_time_display": {
+    "correct": true,
+    "incorrect": true,
+    "pending": true
+  },
+  "medal": {
+    "official": {
+      "gold": 28,
+      "silver": 56,
+      "bronze": 84
+    }
+  },
+  "group": {
+    "official": "正式队伍",
+    "unofficial": "打星队伍"
+  },
+  "logo": {
+    "preset": "ICPC"
+  },
+  "options": {
+    "enable_organization": true,
+    "submission_timestamp_unit": "millisecond"
+  },
+  "organizations": {
+    "url": "organizations.json"
+  }
+}
