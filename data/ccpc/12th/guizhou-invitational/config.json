@@ -1,0 +1,99 @@
+{
+  "contest_name": "2026 CCPC 中国大学生程序设计竞赛全国邀请赛（贵州）暨贵州省赛 - 正式赛",
+  "start_time": 1780804800000,
+  "end_time": 1780822800000,
+  "penalty": 1200,
+  "frozen_time": 3600,
+  "problem_id": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L",
+    "M"
+  ],
+  "balloon_color": [
+    {
+      "color": "#000",
+      "background_color": "#d23da2"
+    },
+    {
+      "color": "#000",
+      "background_color": "#8d0fc8"
+    },
+    {
+      "color": "#000",
+      "background_color": "#177ab1"
+    },
+    {
+      "color": "#000",
+      "background_color": "#c86e14"
+    },
+    {
+      "color": "#000",
+      "background_color": "#b52d85"
+    },
+    {
+      "color": "#000",
+      "background_color": "#05dd24"
+    },
+    {
+      "color": "#000",
+      "background_color": "#fa0909"
+    },
+    {
+      "color": "#000",
+      "background_color": "#366507"
+    },
+    {
+      "color": "#000",
+      "background_color": "#eb8c0e"
+    },
+    {
+      "color": "#000",
+      "background_color": "#231cdf"
+    },
+    {
+      "color": "#000",
+      "background_color": "#f1fa0a"
+    },
+    {
+      "color": "#000",
+      "background_color": "#070202"
+    },
+    {
+      "color": "#000",
+      "background_color": "#edece8"
+    }
+  ],
+  "status_time_display": {
+    "correct": true,
+    "incorrect": true,
+    "pending": true
+  },
+  "medal": {
+    "official": {
+      "gold": 21,
+      "silver": 42,
+      "bronze": 63
+    }
+  },
+  "group": {
+    "official": "正式队伍",
+    "unofficial": "打星队伍"
+  },
+  "logo": {
+    "preset": "CCPC"
+  },
+  "options": {
+    "enable_organization": true,
+    "submission_timestamp_unit": "millisecond"
+  }
+}

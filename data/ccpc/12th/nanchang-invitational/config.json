@@ -1,0 +1,103 @@
+{
+  "contest_name": "2026 CCPC 中国大学生程序设计竞赛全国邀请赛（南昌） - 正式赛",
+  "start_time": 1779586200000,
+  "end_time": 1779604200000,
+  "penalty": 1200,
+  "frozen_time": 3600,
+  "problem_id": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L",
+    "M"
+  ],
+  "balloon_color": [
+    {
+      "color": "#000000",
+      "background_color": "#B4735F"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#133A24"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#DFA062"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#0173B6"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#44332A"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#9F2F3F"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#212028"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#95779A"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#EFF1E5"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#D3B700"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#ED9C1A"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#FF7800"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#A1EB08"
+    }
+  ],
+  "status_time_display": {
+    "correct": true,
+    "incorrect": true,
+    "pending": true
+  },
+  "medal": {
+    "official": {
+      "gold": 34,
+      "silver": 68,
+      "bronze": 102
+    }
+  },
+  "group": {
+    "participant": "邀请赛队伍",
+    "province": "省赛队伍",
+    "unofficial": "打星队伍"
+  },
+  "logo": {
+    "preset": "CCPC"
+  },
+  "options": {
+    "enable_organization": true,
+    "submission_timestamp_unit": "millisecond"
+  },
+  "organizations": {
+    "url": "organizations.json"
+  }
+}
