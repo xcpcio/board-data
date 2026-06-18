@@ -1,0 +1,7646 @@
+[
+  {
+    "id": "team-dongbei-l02",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "东北大学_队伍名称长度必须小于20个字符",
+        "en": "NEU_Team name must be under 20 chars"
+      }
+    },
+    "organization_id": "organization-dongbei-2",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王百汇"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "卢逸衡"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张俊城"
+          }
+        }
+      }
+    ],
+    "location": "L02"
+  },
+  {
+    "id": "team-dongbei-g10",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "东北大学_面向气球编程",
+        "en": "NEU_Balloons-Oriented_Programming"
+      }
+    },
+    "organization_id": "organization-dongbei-2",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "黄福鑫"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "贾皓然"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张修齐"
+          }
+        }
+      }
+    ],
+    "location": "G10"
+  },
+  {
+    "id": "team-dongbei-r01",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "东北大学_我们开题了丿真的假的",
+        "en": "NEU_kskbl_zdjd"
+      }
+    },
+    "organization_id": "organization-dongbei-2",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "姚天健"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "唐忠盛"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李心言"
+          }
+        }
+      }
+    ],
+    "location": "R01"
+  },
+  {
+    "id": "team-dongbei-l10",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "东北大学_1883分钟罚时只为博塔一笑",
+        "en": "NEU_1883Penalty_for_TaffySmile"
+      }
+    },
+    "organization_id": "organization-dongbei-2",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "勾业翔"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李欣刚"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "赵鹏程"
+          }
+        }
+      }
+    ],
+    "location": "L10"
+  },
+  {
+    "id": "team-dongbei-d03",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "东北大学_假装倒序开题",
+        "en": "NEU_Fake_Reverse"
+      }
+    },
+    "organization_id": "organization-dongbei-2",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "项奥博"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李星辰"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "马泽儒"
+          }
+        }
+      }
+    ],
+    "location": "D03"
+  },
+  {
+    "id": "team-dongbei-q04",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "东北大学_蒜蓉小龙虾",
+        "en": "NEU_Garlic_Claw"
+      }
+    },
+    "organization_id": "organization-dongbei-2",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "苏焜"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "谢天石"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张佳栋"
+          }
+        }
+      }
+    ],
+    "location": "Q04"
+  },
+  {
+    "id": "team-dongbei-n06",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "东北大学_关注CerberVT谢谢喵",
+        "en": "NEU_wkzkbl"
+      }
+    },
+    "organization_id": "organization-dongbei-2",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王渝迪"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王耀辉"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "陈志诚"
+          }
+        }
+      }
+    ],
+    "location": "N06"
+  },
+  {
+    "id": "team-dongbei-g07",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "东北大学_季秋辞笺",
+        "en": "NEU_Liquid Autumn"
+      }
+    },
+    "organization_id": "organization-dongbei-2",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "聂天一"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "秦修艺"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "斯晗杰"
+          }
+        }
+      }
+    ],
+    "location": "G07"
+  },
+  {
+    "id": "team-dongbei-k07",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "东北大学_老大三个没oi基础的真能打acm吗",
+        "en": "NEU_What_can_I_say"
+      }
+    },
+    "organization_id": "organization-dongbei-2",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李君炜"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "吴天予"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "杜松煜"
+          }
+        }
+      }
+    ],
+    "location": "K07"
+  },
+  {
+    "id": "team-dongbei-i04",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "东北大学_无名队",
+        "en": "NEU_The_Nameless"
+      }
+    },
+    "organization_id": "organization-dongbei-2",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "许靖"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李卓恒"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "郑宇胜"
+          }
+        }
+      }
+    ],
+    "location": "I04"
+  },
+  {
+    "id": "team-dongbei-c07",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "东北大学_圣光爆发",
+        "en": "NEU_Burst"
+      }
+    },
+    "organization_id": "organization-dongbei-2",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "秦子溪"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "袁家铭"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "肖逸涵"
+          }
+        }
+      }
+    ],
+    "location": "C07"
+  },
+  {
+    "id": "team-dongbei-m04",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "老铁没毛队",
+        "en": "The Solid Bros Team"
+      }
+    },
+    "organization_id": "organization-dongbei-36",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张瑞家"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "胡雪灵"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "谢奇妍"
+          }
+        }
+      }
+    ],
+    "location": "M04"
+  },
+  {
+    "id": "team-dongbei-k05",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "零WA戍协议",
+        "en": "No WA Garrison Protocol"
+      }
+    },
+    "organization_id": "organization-dongbei-47",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘益翔"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "孙瑜"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "赵紫昂"
+          }
+        }
+      }
+    ],
+    "location": "K05"
+  },
+  {
+    "id": "team-dongbei-c01",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "竹林三闲",
+        "en": "The Recluses"
+      }
+    },
+    "organization_id": "organization-dongbei-47",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "杨蕊竹"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李权澎"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "徐新雨"
+          }
+        }
+      }
+    ],
+    "location": "C01"
+  },
+  {
+    "id": "team-dongbei-e06",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "精灵副将马国成",
+        "en": "Tom！"
+      }
+    },
+    "organization_id": "organization-dongbei-36",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张彦泽"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王禹丁"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "卢涵"
+          }
+        }
+      }
+    ],
+    "location": "E06"
+  },
+  {
+    "id": "team-dongbei-h01",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "再多看一眼就会",
+        "en": "AC 2.5see=AC"
+      }
+    },
+    "organization_id": "organization-dongbei-36",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李长丰"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "郭煜兴"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张建威"
+          }
+        }
+      }
+    ],
+    "location": "H01"
+  },
+  {
+    "id": "team-dongbei-p09",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "WAWA大哭",
+        "en": "WAterfall of Tears"
+      }
+    },
+    "organization_id": "organization-dongbei-47",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "袁朝硕"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "金浩然"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王秉全"
+          }
+        }
+      }
+    ],
+    "location": "P09"
+  },
+  {
+    "id": "team-dongbei-f05",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "是长理不是厂里",
+        "en": "CUST is not just cu"
+      }
+    },
+    "organization_id": "organization-dongbei-47",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "罗卫泽"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "徐瑞奇"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "骆柏荣"
+          }
+        }
+      }
+    ],
+    "location": "F05"
+  },
+  {
+    "id": "team-dongbei-q05",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "永远是AC有多好",
+        "en": "ZUTOWAYO"
+      }
+    },
+    "organization_id": "organization-dongbei-47",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "尧峻毅"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘国涵"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "聂子运"
+          }
+        }
+      }
+    ],
+    "location": "Q05"
+  },
+  {
+    "id": "team-dongbei-l01",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "青春custer不会遇见acm学姐",
+        "en": "cust wont dream acm"
+      }
+    },
+    "organization_id": "organization-dongbei-47",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "满统勋"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "何宇航"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘晋源"
+          }
+        }
+      }
+    ],
+    "location": "L01"
+  },
+  {
+    "id": "team-dongbei-n04",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "海陆空红黄蓝与或非",
+        "en": "SLA ∧∨¬ RYB"
+      }
+    },
+    "organization_id": "organization-dongbei-47",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "黄炳睿"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "唐海原"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "周易非"
+          }
+        }
+      }
+    ],
+    "location": "N04"
+  },
+  {
+    "id": "team-dongbei-d08",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "芭比工组",
+        "en": "babiiyee"
+      }
+    },
+    "organization_id": "organization-dongbei-47",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "杨锴"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "郭语琪"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "赵金妍"
+          }
+        }
+      }
+    ],
+    "location": "D08"
+  },
+  {
+    "id": "team-dongbei-o08",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "吼啦干巴爹",
+        "en": "hora ganbatee"
+      }
+    },
+    "organization_id": "organization-dongbei-36",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王梓畅"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王卫兵"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "周士竣"
+          }
+        }
+      }
+    ],
+    "location": "O08"
+  },
+  {
+    "id": "team-dongbei-c04",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "我报的不是漫展吗",
+        "en": "Where is this"
+      }
+    },
+    "organization_id": "organization-dongbei-11",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "邵冠麟"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "胡又"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王欣亮"
+          }
+        }
+      }
+    ],
+    "location": "C04"
+  },
+  {
+    "id": "team-dongbei-p03",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "请求豆包支援",
+        "en": "请求豆包支援"
+      }
+    },
+    "organization_id": "organization-dongbei-19",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "阿卜杜力木阿卜杜热扎克"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "尹洲鹏"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "唐天宜"
+          }
+        }
+      }
+    ],
+    "location": "P03"
+  },
+  {
+    "id": "team-dongbei-f10",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "内师二队",
+        "en": "imnu2"
+      }
+    },
+    "organization_id": "organization-dongbei-8",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "段宇航"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张松涛"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "乔家博"
+          }
+        }
+      }
+    ],
+    "location": "F10"
+  },
+  {
+    "id": "team-dongbei-m10",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "我说先睡午觉",
+        "en": "How can you sleep at your age?!"
+      }
+    },
+    "organization_id": "organization-dongbei-18",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "姜郑康"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李嘉弘"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "卢思吉"
+          }
+        }
+      }
+    ],
+    "location": "M10"
+  },
+  {
+    "id": "team-dongbei-p06",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "w4p3r Black-fan Club",
+        "en": "w4p3r Hater Club"
+      }
+    },
+    "organization_id": "organization-dongbei-18",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "杜沛键"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "谢书泱"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "邱思宇"
+          }
+        }
+      }
+    ],
+    "location": "P06"
+  },
+  {
+    "id": "team-dongbei-g01",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "啊对对对队",
+        "en": "Yeah,yeah,yeah"
+      }
+    },
+    "organization_id": "organization-dongbei-1",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李昊宸"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "吴保杭"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "管余麒"
+          }
+        }
+      }
+    ],
+    "location": "G01"
+  },
+  {
+    "id": "team-dongbei-f01",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "超越01",
+        "en": "Beyond 01"
+      }
+    },
+    "organization_id": "organization-dongbei-3",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "谢杨宇涛"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张启锐"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "郭航航"
+          }
+        }
+      }
+    ],
+    "location": "F01"
+  },
+  {
+    "id": "team-dongbei-b05",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "苦来兮苦",
+        "en": "苦来兮苦"
+      }
+    },
+    "organization_id": "organization-dongbei-19",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李泽东"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "徐子煊"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张艺凡"
+          }
+        }
+      }
+    ],
+    "location": "B05"
+  },
+  {
+    "id": "team-dongbei-i05",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Sky",
+        "en": "Sky"
+      }
+    },
+    "organization_id": "organization-dongbei-19",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "赵新凯"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "闫力仁"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "蒋子力"
+          }
+        }
+      }
+    ],
+    "location": "I05"
+  },
+  {
+    "id": "team-dongbei-o09",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "前面的题目以后再来探索吧",
+        "en": "I wanna sleep"
+      }
+    },
+    "organization_id": "organization-dongbei-1",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张可馨"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "庞亚东"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "唐翊轩"
+          }
+        }
+      }
+    ],
+    "location": "O09"
+  },
+  {
+    "id": "team-dongbei-n05",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Sea-BreakTheWaves欢迎stars谢谢喵",
+        "en": "Stars is all we need"
+      }
+    },
+    "organization_id": "organization-dongbei-52",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "钟展鑫"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "孙晓辉"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王一鸣"
+          }
+        }
+      }
+    ],
+    "location": "N05"
+  },
+  {
+    "id": "team-dongbei-f02",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "大连民族大学1组",
+        "en": "DLMU Team1"
+      }
+    },
+    "organization_id": "organization-dongbei-26",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "乔雨琪"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "谢锦绣"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "阚思涵"
+          }
+        }
+      }
+    ],
+    "location": "F02"
+  },
+  {
+    "id": "team-dongbei-f04",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "下午茶小分队",
+        "en": "no tea no training"
+      }
+    },
+    "organization_id": "organization-dongbei-1",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张卓然"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "陈朋"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "隋鑫"
+          }
+        }
+      }
+    ],
+    "location": "F04"
+  },
+  {
+    "id": "team-dongbei-p08",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "超时喵限",
+        "en": "Meow Limit Exceed"
+      }
+    },
+    "organization_id": "organization-dongbei-27",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "覃茂钦"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "杜思源"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王赞溪"
+          }
+        }
+      }
+    ],
+    "location": "P08"
+  },
+  {
+    "id": "team-dongbei-b07",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "哈学院2026-4队",
+        "en": "HRBU Team 4"
+      }
+    },
+    "organization_id": "organization-dongbei-17",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "袁瑞廷"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "蒋逸豪"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李嘉鑫"
+          }
+        }
+      }
+    ],
+    "location": "B07"
+  },
+  {
+    "id": "team-dongbei-n07",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "内师一队",
+        "en": "imnu1"
+      }
+    },
+    "organization_id": "organization-dongbei-8",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘思宇"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李佳峻"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "康婕"
+          }
+        }
+      }
+    ],
+    "location": "N07"
+  },
+  {
+    "id": "team-dongbei-c05",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "时代码戏团",
+        "en": "CFBOYS"
+      }
+    },
+    "organization_id": "organization-dongbei-12",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "鞠学深"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李雨隆"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘勋"
+          }
+        }
+      }
+    ],
+    "location": "C05"
+  },
+  {
+    "id": "team-dongbei-f08",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "备用账号1270",
+        "en": "备用账号1270"
+      }
+    },
+    "organization_id": "organization-dongbei-19",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "蒋渡"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "孙江吉"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "万德俊"
+          }
+        }
+      }
+    ],
+    "location": "F08"
+  },
+  {
+    "id": "team-dongbei-i09",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "复制粘贴",
+        "en": "ctrl+c ctrl+v"
+      }
+    },
+    "organization_id": "organization-dongbei-45",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李沅迪"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "景万兴"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "郏家瑞"
+          }
+        }
+      }
+    ],
+    "location": "I09"
+  },
+  {
+    "id": "team-dongbei-l11",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "做一只码喽",
+        "en": "Code Monkeys"
+      }
+    },
+    "organization_id": "organization-dongbei-45",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王锴"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "陈昱璁"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李崇阳"
+          }
+        }
+      }
+    ],
+    "location": "L11"
+  },
+  {
+    "id": "team-dongbei-r07",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "哈理工2026D08",
+        "en": "HRBUST2026D08"
+      }
+    },
+    "organization_id": "organization-dongbei-21",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "雍徽"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘玉博"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "侯建宇"
+          }
+        }
+      }
+    ],
+    "location": "R07"
+  },
+  {
+    "id": "team-dongbei-p01",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "哈理工2026D07",
+        "en": "HRBUST2026D07"
+      }
+    },
+    "organization_id": "organization-dongbei-21",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李世海"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "何添毓"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李响"
+          }
+        }
+      }
+    ],
+    "location": "P01"
+  },
+  {
+    "id": "team-dongbei-a02",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "大魔法部",
+        "en": "The Grand Ministry of Magic"
+      }
+    },
+    "organization_id": "organization-dongbei-23",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "陈嘉彬"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "徐智鸿"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "马诗哲"
+          }
+        }
+      }
+    ],
+    "location": "A02"
+  },
+  {
+    "id": "team-dongbei-m03",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "擅长AK的高木同学",
+        "en": "The Teasing AK Pro"
+      }
+    },
+    "organization_id": "organization-dongbei-12",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "钟姝伶"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "庄锦浩"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "韩洋"
+          }
+        }
+      }
+    ],
+    "location": "M03"
+  },
+  {
+    "id": "team-dongbei-k11",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "神秘的幻想乡",
+        "en": "AveMujica"
+      }
+    },
+    "organization_id": "organization-dongbei-29",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王子睿"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "杨晓晓"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "周子豪"
+          }
+        }
+      }
+    ],
+    "location": "K11"
+  },
+  {
+    "id": "team-dongbei-b06",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "利克斯要一战上岸队",
+        "en": "LixWorth"
+      }
+    },
+    "organization_id": "organization-dongbei-29",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "郑世凯"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘骐锋"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "朱治雨"
+          }
+        }
+      }
+    ],
+    "location": "B06"
+  },
+  {
+    "id": "team-dongbei-o01",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "和光同尘",
+        "en": "Hidden Radiance"
+      }
+    },
+    "organization_id": "organization-dongbei-45",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王子懿"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "邱建航"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "雷景文"
+          }
+        }
+      }
+    ],
+    "location": "O01"
+  },
+  {
+    "id": "team-dongbei-m02",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Destined for xxx",
+        "en": "Destined for xxx"
+      }
+    },
+    "organization_id": "organization-dongbei-19",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "周凡城"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘书宇"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李伯轩"
+          }
+        }
+      }
+    ],
+    "location": "M02"
+  },
+  {
+    "id": "team-dongbei-a01",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Gta：神秘大厦",
+        "en": "Gta：神秘大厦"
+      }
+    },
+    "organization_id": "organization-dongbei-19",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "郭奕辰"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李昀轩"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "汪天浩"
+          }
+        }
+      }
+    ],
+    "location": "A01"
+  },
+  {
+    "id": "team-dongbei-d02",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Boys Band Cry",
+        "en": "Boys Band Cry"
+      }
+    },
+    "organization_id": "organization-dongbei-19",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "杨一鸣"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘子恒"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "苗挺"
+          }
+        }
+      }
+    ],
+    "location": "D02"
+  },
+  {
+    "id": "team-dongbei-c09",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "深蓝书签+jiangly+tourist",
+        "en": "深蓝书签+jiangly+tourist"
+      }
+    },
+    "organization_id": "organization-dongbei-19",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "夏天"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘宸硕"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "龙敖"
+          }
+        }
+      }
+    ],
+    "location": "C09"
+  },
+  {
+    "id": "team-dongbei-q07",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "好好睡觉，天天吃饭",
+        "en": "好好睡觉，天天吃饭"
+      }
+    },
+    "organization_id": "organization-dongbei-19",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "汪锦怡"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王玥琪"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李欣桐"
+          }
+        }
+      }
+    ],
+    "location": "Q07"
+  },
+  {
+    "id": "team-dongbei-l09",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "流萤世界第一最可爱",
+        "en": "kawayiii"
+      }
+    },
+    "organization_id": "organization-dongbei-35",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "余敬泽"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "吴联成"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "姜香南"
+          }
+        }
+      }
+    ],
+    "location": "L09"
+  },
+  {
+    "id": "team-dongbei-g05",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "不知名三人组",
+        "en": "Nameless Trio"
+      }
+    },
+    "organization_id": "organization-dongbei-3",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王一安"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "何宇翰"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "苏飞阳"
+          }
+        }
+      }
+    ],
+    "location": "G05"
+  },
+  {
+    "id": "team-dongbei-m07",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "留着肚子吃下一顿",
+        "en": "DCL"
+      }
+    },
+    "organization_id": "organization-dongbei-5",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘倩"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "杜志航"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "陈子昂"
+          }
+        }
+      }
+    ],
+    "location": "M07"
+  },
+  {
+    "id": "team-dongbei-d09",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "NOI没拿到的牌子就在CCPC拿吧",
+        "en": "The Medals We Lost"
+      }
+    },
+    "organization_id": "organization-dongbei-7",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李耀"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李中然"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "孙庆鹤"
+          }
+        }
+      }
+    ],
+    "location": "D09"
+  },
+  {
+    "id": "team-dongbei-b09",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "因为夏日将终",
+        "en": "natsu ga owaru"
+      }
+    },
+    "organization_id": "organization-dongbei-26",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "乌汗图"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "徐永琦"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王玲"
+          }
+        }
+      }
+    ],
+    "location": "B09"
+  },
+  {
+    "id": "team-dongbei-n09",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "每次比赛都费劲巴拉想名字",
+        "en": "The Womengers"
+      }
+    },
+    "organization_id": "organization-dongbei-33",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "陈晓涵"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "吴双宇"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "白岚"
+          }
+        }
+      }
+    ],
+    "location": "N09"
+  },
+  {
+    "id": "team-dongbei-m06",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "快~马上要报上去",
+        "en": "Step Up"
+      }
+    },
+    "organization_id": "organization-dongbei-23",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "段咏杰"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "惠炳阳"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李泉"
+          }
+        }
+      }
+    ],
+    "location": "M06"
+  },
+  {
+    "id": "team-dongbei-h05",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "不会写WA",
+        "en": "not wa"
+      }
+    },
+    "organization_id": "organization-dongbei-41",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王若婷"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "黄毅颖"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "陆晨凯"
+          }
+        }
+      }
+    ],
+    "location": "H05"
+  },
+  {
+    "id": "team-dongbei-i10",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "一次买够！！！",
+        "en": "一次买够！！！"
+      }
+    },
+    "organization_id": "organization-dongbei-19",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "孙张畅"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王傲"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "金庆涵"
+          }
+        }
+      }
+    ],
+    "location": "I10"
+  },
+  {
+    "id": "team-dongbei-l04",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "揽鸢乘星舟",
+        "en": "Embracing Iris, Sailing Starboat"
+      }
+    },
+    "organization_id": "organization-dongbei-28",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘毅"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "袁晨旭"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "徐震"
+          }
+        }
+      }
+    ],
+    "location": "L04"
+  },
+  {
+    "id": "team-dongbei-l03",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "再一次",
+        "en": "again"
+      }
+    },
+    "organization_id": "organization-dongbei-30",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘腾予"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "齐思博宇"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "苏汉升"
+          }
+        }
+      }
+    ],
+    "location": "L03"
+  },
+  {
+    "id": "team-dongbei-d10",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "nicer啊啊啊啊啊啊",
+        "en": "niceraaaaaaa"
+      }
+    },
+    "organization_id": "organization-dongbei-25",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "唐鸿远"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "胡旭洋"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘奇逸"
+          }
+        }
+      }
+    ],
+    "location": "D10"
+  },
+  {
+    "id": "team-dongbei-a04",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "不 WA 不舒服",
+        "en": "No Wrong Answer, No Satisfaction"
+      }
+    },
+    "organization_id": "organization-dongbei-48",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "金依乐"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "赵恒泽"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "江维清"
+          }
+        }
+      }
+    ],
+    "location": "A04"
+  },
+  {
+    "id": "team-dongbei-d06",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "乐为",
+        "en": "Lewei"
+      }
+    },
+    "organization_id": "organization-dongbei-30",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "曹瀚文"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "司辰飞"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "雷云辉"
+          }
+        }
+      }
+    ],
+    "location": "D06"
+  },
+  {
+    "id": "team-dongbei-k09",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "踏雪凌霄",
+        "en": "Snowpiercer  Ascendant"
+      }
+    },
+    "organization_id": "organization-dongbei-51",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "马健坤"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "黄政霖"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "周铂民"
+          }
+        }
+      }
+    ],
+    "location": "K09"
+  },
+  {
+    "id": "team-dongbei-k01",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "想拿牌",
+        "en": "Medal Wanted"
+      }
+    },
+    "organization_id": "organization-dongbei-16",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "林铭辉"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王喆"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘凯"
+          }
+        }
+      }
+    ],
+    "location": "K01"
+  },
+  {
+    "id": "team-dongbei-j02",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "理论可能性",
+        "en": "Theroretical Possibility"
+      }
+    },
+    "organization_id": "organization-dongbei-51",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "徐江源"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "邹谋宇"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张康志"
+          }
+        }
+      }
+    ],
+    "location": "J02"
+  },
+  {
+    "id": "team-dongbei-h06",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "大连外国语大学一队",
+        "en": "DUFL01"
+      }
+    },
+    "organization_id": "organization-dongbei-24",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王靖涵"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "林冠泽"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "史晨熙"
+          }
+        }
+      }
+    ],
+    "location": "H06"
+  },
+  {
+    "id": "team-dongbei-h08",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "泪水打湿娃哈哈，发誓不再笑哈哈",
+        "en": "bcsfxy2"
+      }
+    },
+    "organization_id": "organization-dongbei-38",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "姜继童"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王锦玉"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "卢周"
+          }
+        }
+      }
+    ],
+    "location": "H08"
+  },
+  {
+    "id": "team-dongbei-r08",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "万业有日涅槃无枝",
+        "en": "tomorrow，tomorrow，tomorrow"
+      }
+    },
+    "organization_id": "organization-dongbei-28",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张轶哲"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "卜方昱"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "安逸"
+          }
+        }
+      }
+    ],
+    "location": "R08"
+  },
+  {
+    "id": "team-dongbei-d04",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "八角楼一队",
+        "en": "bajiaolouyidui"
+      }
+    },
+    "organization_id": "organization-dongbei-28",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "孙锦华"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "宋俊岐"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "宋润"
+          }
+        }
+      }
+    ],
+    "location": "D04"
+  },
+  {
+    "id": "team-dongbei-b03",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "超级无敌至尊奶龙大军的最后一舞",
+        "en": "Milk Dragon Army Fight"
+      }
+    },
+    "organization_id": "organization-dongbei-44",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李郑波"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张公明"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘金瑞"
+          }
+        }
+      }
+    ],
+    "location": "B03"
+  },
+  {
+    "id": "team-dongbei-o07",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "打完回家玩超级好玩的我的世界有没有懂的",
+        "en": "Minecraft"
+      }
+    },
+    "organization_id": "organization-dongbei-44",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "韩一鸣"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "沈宇泽"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "章晨波"
+          }
+        }
+      }
+    ],
+    "location": "O07"
+  },
+  {
+    "id": "team-dongbei-c08",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "星星之火",
+        "en": "fire"
+      }
+    },
+    "organization_id": "organization-dongbei-5",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘天为"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李令辉"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘艺轩"
+          }
+        }
+      }
+    ],
+    "location": "C08"
+  },
+  {
+    "id": "team-dongbei-f06",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "未竟的交响乐",
+        "en": "Unfinished Symphony"
+      }
+    },
+    "organization_id": "organization-dongbei-5",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "赵嘉琳"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "董福惠"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "向俊杰"
+          }
+        }
+      }
+    ],
+    "location": "F06"
+  },
+  {
+    "id": "team-dongbei-r06",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "队友",
+        "en": "Teammate"
+      }
+    },
+    "organization_id": "organization-dongbei-46",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "樊茂"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "孙佳伟"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "姚鑫晨"
+          }
+        }
+      }
+    ],
+    "location": "R06"
+  },
+  {
+    "id": "team-dongbei-f09",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "咔咔！！！",
+        "en": "Kakaa！！！"
+      }
+    },
+    "organization_id": "organization-dongbei-3",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "周文琦"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张步豪"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "郭宇政"
+          }
+        }
+      }
+    ],
+    "location": "F09"
+  },
+  {
+    "id": "team-dongbei-m01",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "暴力能解绝不优化",
+        "en": "BruteForce First, Optimization Never"
+      }
+    },
+    "organization_id": "organization-dongbei-3",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李克强"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "杨鑫山"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "戴云磊"
+          }
+        }
+      }
+    ],
+    "location": "M01"
+  },
+  {
+    "id": "team-dongbei-m05",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "三只凑企鹅",
+        "en": "Three Cute Penguins"
+      }
+    },
+    "organization_id": "organization-dongbei-3",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张俊才"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李金瑞"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "罗昊洋"
+          }
+        }
+      }
+    ],
+    "location": "M05"
+  },
+  {
+    "id": "team-dongbei-a09",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "克劳德4.7",
+        "en": "Clodovicus Ode 4.7"
+      }
+    },
+    "organization_id": "organization-dongbei-3",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张稷穗"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "赵新睿"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "缪弘毅"
+          }
+        }
+      }
+    ],
+    "location": "A09"
+  },
+  {
+    "id": "team-dongbei-h07",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "等我长小了也要打OI",
+        "en": "When we grow down,we will play OI"
+      }
+    },
+    "organization_id": "organization-dongbei-6",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "岳宗博"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "戴维"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "孔佑鑫"
+          }
+        }
+      }
+    ],
+    "location": "H07"
+  },
+  {
+    "id": "team-dongbei-a06",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "博硕队",
+        "en": "BoD is great"
+      }
+    },
+    "organization_id": "organization-dongbei-3",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "谭皓"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "田博文"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "陈建坤"
+          }
+        }
+      }
+    ],
+    "location": "A06"
+  },
+  {
+    "id": "team-dongbei-m08",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "猫猫虫大队",
+        "en": "Team Capoo"
+      }
+    },
+    "organization_id": "organization-dongbei-28",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘兆洲"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "时佳骏"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李泽与"
+          }
+        }
+      }
+    ],
+    "location": "M08"
+  },
+  {
+    "id": "team-dongbei-o02",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "这么六",
+        "en": "0x6"
+      }
+    },
+    "organization_id": "organization-dongbei-28",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "毛祥宇"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "钟剑辉"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘炜"
+          }
+        }
+      }
+    ],
+    "location": "O02"
+  },
+  {
+    "id": "team-dongbei-d05",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "全世界acm水平上升一万倍而我不变",
+        "en": "all become the acm EmpErroR except me"
+      }
+    },
+    "organization_id": "organization-dongbei-18",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "金东俊"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "程子寒"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张皓志"
+          }
+        }
+      }
+    ],
+    "location": "D05"
+  },
+  {
+    "id": "team-dongbei-e02",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "我从山中来",
+        "en": "Carrying orchid grass"
+      }
+    },
+    "organization_id": "organization-dongbei-18",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王泽恺"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "黄子扬"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "罗星宇"
+          }
+        }
+      }
+    ],
+    "location": "E02"
+  },
+  {
+    "id": "team-dongbei-q01",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "我不是魔丸",
+        "en": "I'm not the Magic Pill 1"
+      }
+    },
+    "organization_id": "organization-dongbei-9",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "单诏军"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "严梓彬"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "龚浩喆"
+          }
+        }
+      }
+    ],
+    "location": "Q01"
+  },
+  {
+    "id": "team-dongbei-h02",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "赞达尔·叁·桑原",
+        "en": "ZandarThreeKuwabara1"
+      }
+    },
+    "organization_id": "organization-dongbei-9",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "熊洁"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李金圣"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "程思潺"
+          }
+        }
+      }
+    ],
+    "location": "H02"
+  },
+  {
+    "id": "team-dongbei-j04",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "牢大肘的队",
+        "en": "Kobe's elbow is always right."
+      }
+    },
+    "organization_id": "organization-dongbei-6",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "郑文辉"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘旭航"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "高文林"
+          }
+        }
+      }
+    ],
+    "location": "J04"
+  },
+  {
+    "id": "team-dongbei-g11",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "关注永雏塔菲、灰泽满谢谢喵",
+        "en": "FollowTaffyAndHazelThanks"
+      }
+    },
+    "organization_id": "organization-dongbei-9",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "朱道阳"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张珈铭"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "赵文浩"
+          }
+        }
+      }
+    ],
+    "location": "G11"
+  },
+  {
+    "id": "team-dongbei-q03",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "今夜，星光灿烂",
+        "en": "Tonight，Star Shining Brightly"
+      }
+    },
+    "organization_id": "organization-dongbei-35",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "章传亮"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "谌致远"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "靳博翔"
+          }
+        }
+      }
+    ],
+    "location": "Q03"
+  },
+  {
+    "id": "team-dongbei-i07",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "AC，启动！",
+        "en": "Accepted, this one!"
+      }
+    },
+    "organization_id": "organization-dongbei-40",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "宋文杰"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王梓睿"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "姜正硕"
+          }
+        }
+      }
+    ],
+    "location": "I07"
+  },
+  {
+    "id": "team-dongbei-n03",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "格泽曜日",
+        "en": "Heroic Might"
+      }
+    },
+    "organization_id": "organization-dongbei-51",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "岳柯印"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "曲泽瑞"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王怀哲"
+          }
+        }
+      }
+    ],
+    "location": "N03"
+  },
+  {
+    "id": "team-dongbei-e10",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "醉星河",
+        "en": "Drunken Starlight"
+      }
+    },
+    "organization_id": "organization-dongbei-12",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "何旭"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "林辰旭"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "林钰博"
+          }
+        }
+      }
+    ],
+    "location": "E10"
+  },
+  {
+    "id": "team-dongbei-q08",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "火箭毛毛虫",
+        "en": "RocketWorm"
+      }
+    },
+    "organization_id": "organization-dongbei-12",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "康德润"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘雅奇"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "朱明昊"
+          }
+        }
+      }
+    ],
+    "location": "Q08"
+  },
+  {
+    "id": "team-dongbei-n10",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "迷途之子",
+        "en": "Lost Soul"
+      }
+    },
+    "organization_id": "organization-dongbei-12",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "唐德睿"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "毛胜超"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "石津豪"
+          }
+        }
+      }
+    ],
+    "location": "N10"
+  },
+  {
+    "id": "team-dongbei-f07",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "请输入代码",
+        "en": "Code: Obstacle Destroy Exam"
+      }
+    },
+    "organization_id": "organization-dongbei-12",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张力文"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘子涵"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李书航"
+          }
+        }
+      }
+    ],
+    "location": "F07"
+  },
+  {
+    "id": "team-dongbei-a08",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "哈基米南北绿队",
+        "en": "Team Hachimi: North & South Green"
+      }
+    },
+    "organization_id": "organization-dongbei-12",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "于翔"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "孔泉智"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "范俊廷"
+          }
+        }
+      }
+    ],
+    "location": "A08"
+  },
+  {
+    "id": "team-dongbei-q02",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "爱吃冰棍",
+        "en": "like eating binggun"
+      }
+    },
+    "organization_id": "organization-dongbei-25",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "杨依潼"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "郑卫"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "幸豪"
+          }
+        }
+      }
+    ],
+    "location": "Q02"
+  },
+  {
+    "id": "team-dongbei-n08",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "树上的鸟儿成双队",
+        "en": "Birds in the Binary Tree pair up"
+      }
+    },
+    "organization_id": "organization-dongbei-34",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "薛劭朴"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "裴一沣"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "禹潇潇"
+          }
+        }
+      }
+    ],
+    "location": "N08"
+  },
+  {
+    "id": "team-dongbei-n01",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "学校没人了让大一的上",
+        "en": "SUT teams are all freshman"
+      }
+    },
+    "organization_id": "organization-dongbei-34",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "郭镇坤"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "孙会钢"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "何柏树"
+          }
+        }
+      }
+    ],
+    "location": "N01"
+  },
+  {
+    "id": "team-dongbei-a03",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "队长是山里灵活的狗",
+        "en": "Jia Qiang Ling Hua"
+      }
+    },
+    "organization_id": "organization-dongbei-18",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王荃"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "姜启言"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "陈安艺"
+          }
+        }
+      }
+    ],
+    "location": "A03"
+  },
+  {
+    "id": "team-dongbei-n02",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "加载中，请稍后",
+        "en": "404 not found"
+      }
+    },
+    "organization_id": "organization-dongbei-18",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘明卓"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "郭健桓"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘靖文"
+          }
+        }
+      }
+    ],
+    "location": "N02"
+  },
+  {
+    "id": "team-dongbei-c10",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "人生如梦",
+        "en": "interstellar Skybridge"
+      }
+    },
+    "organization_id": "organization-dongbei-18",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "田宇丰"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张城玮"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "卢景行"
+          }
+        }
+      }
+    ],
+    "location": "C10"
+  },
+  {
+    "id": "team-dongbei-h10",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "何意味",
+        "en": "why"
+      }
+    },
+    "organization_id": "organization-dongbei-18",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "吴璇"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "肖翰林"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘宇轩"
+          }
+        }
+      }
+    ],
+    "location": "H10"
+  },
+  {
+    "id": "team-dongbei-l06",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "又到了白色相簿的季节",
+        "en": "Once Again the White Album"
+      }
+    },
+    "organization_id": "organization-dongbei-18",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张蕴豪"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "郭佳明"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李乐雨"
+          }
+        }
+      }
+    ],
+    "location": "L06"
+  },
+  {
+    "id": "team-dongbei-k02",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "蓬莱传说",
+        "en": "Legend of Hourai"
+      }
+    },
+    "organization_id": "organization-dongbei-18",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张彭凯"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "丁文涛"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "秦浩森"
+          }
+        }
+      }
+    ],
+    "location": "K02"
+  },
+  {
+    "id": "team-dongbei-j06",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "清野归序",
+        "en": "Wild & Order"
+      }
+    },
+    "organization_id": "organization-dongbei-9",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "周春旭"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "孟成豪"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "杨锦辉"
+          }
+        }
+      }
+    ],
+    "location": "J06"
+  },
+  {
+    "id": "team-dongbei-h09",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "夜深人静写代码",
+        "en": " Dark Night Debugger"
+      }
+    },
+    "organization_id": "organization-dongbei-39",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "夏心宇"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "许奇"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李金洋"
+          }
+        }
+      }
+    ],
+    "location": "H09"
+  },
+  {
+    "id": "team-dongbei-h11",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "超时超的我神志不清",
+        "en": "The overtime has made me so delirious."
+      }
+    },
+    "organization_id": "organization-dongbei-10",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "戴亚哲"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "胡圣佳"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘子壮"
+          }
+        }
+      }
+    ],
+    "location": "H11"
+  },
+  {
+    "id": "team-dongbei-r04",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "原神。",
+        "en": "yuanshen."
+      }
+    },
+    "organization_id": "organization-dongbei-42",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "黄彦泽"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李昊轩"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李博昊"
+          }
+        }
+      }
+    ],
+    "location": "R04"
+  },
+  {
+    "id": "team-dongbei-a07",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "终末地工业",
+        "en": "Endfield Industries"
+      }
+    },
+    "organization_id": "organization-dongbei-35",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "周可鹏飞"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张海洋"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "孙帅"
+          }
+        }
+      }
+    ],
+    "location": "A07"
+  },
+  {
+    "id": "team-dongbei-f11",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "刘琦先生",
+        "en": "Mr.Six Seven"
+      }
+    },
+    "organization_id": "organization-dongbei-35",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "杨子剑"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "樊怡哲"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "黄鑫"
+          }
+        }
+      }
+    ],
+    "location": "F11"
+  },
+  {
+    "id": "team-dongbei-e05",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "坐牢三缺一",
+        "en": "Three in jail, need one more."
+      }
+    },
+    "organization_id": "organization-dongbei-15",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "马君豪"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘明昊"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘博文"
+          }
+        }
+      }
+    ],
+    "location": "E05"
+  },
+  {
+    "id": "team-dongbei-e04",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "自选三拼",
+        "en": "3 mix-ins"
+      }
+    },
+    "organization_id": "organization-dongbei-33",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王晓彤"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "戚嘉玥"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "于鑫淼"
+          }
+        }
+      }
+    ],
+    "location": "E04"
+  },
+  {
+    "id": "team-dongbei-e11",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "華鳥風月",
+        "en": "Kachou Fuugetsu"
+      }
+    },
+    "organization_id": "organization-dongbei-33",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "郭保麟"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "曹瑞婷"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "鲍方乐"
+          }
+        }
+      }
+    ],
+    "location": "E11"
+  },
+  {
+    "id": "team-dongbei-k10",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "又活一天",
+        "en": "One day less to be living"
+      }
+    },
+    "organization_id": "organization-dongbei-33",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "杨鹏瑞"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘洪运"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "罗祥"
+          }
+        }
+      }
+    ],
+    "location": "K10"
+  },
+  {
+    "id": "team-dongbei-b01",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "AC之旅",
+        "en": "AC Voyage"
+      }
+    },
+    "organization_id": "organization-dongbei-13",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "姚宇增"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "全菁菁"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李雨涵"
+          }
+        }
+      }
+    ],
+    "location": "B01"
+  },
+  {
+    "id": "team-dongbei-l07",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "哈学院2026-3队",
+        "en": "HRBU Team 3"
+      }
+    },
+    "organization_id": "organization-dongbei-17",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "董喾"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "郭伟兴"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "陈紫骁"
+          }
+        }
+      }
+    ],
+    "location": "L07"
+  },
+  {
+    "id": "team-dongbei-g09",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "哈学院2026-2队",
+        "en": "HRBU Team 2"
+      }
+    },
+    "organization_id": "organization-dongbei-17",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李景气"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张艳琪"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "贾博文"
+          }
+        }
+      }
+    ],
+    "location": "G09"
+  },
+  {
+    "id": "team-dongbei-q06",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "哈学院2026-1队",
+        "en": "HRBU Team 1"
+      }
+    },
+    "organization_id": "organization-dongbei-17",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张延川"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李国良"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘欣斋"
+          }
+        }
+      }
+    ],
+    "location": "Q06"
+  },
+  {
+    "id": "team-dongbei-j01",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "新建文件夹",
+        "en": "create new folder"
+      }
+    },
+    "organization_id": "organization-dongbei-14",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "宋亚宁"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "祝圣钦"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李光辉"
+          }
+        }
+      }
+    ],
+    "location": "J01"
+  },
+  {
+    "id": "team-dongbei-c06",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "果宝特攻\t\t\t\t",
+        "en": "Guobao Special Attack\t\t"
+      }
+    },
+    "organization_id": "organization-dongbei-14",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王志轩"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "曲香硕"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王绍宁"
+          }
+        }
+      }
+    ],
+    "location": "C06"
+  },
+  {
+    "id": "team-dongbei-j07",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "长财开源",
+        "en": "CCUFE"
+      }
+    },
+    "organization_id": "organization-dongbei-49",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "崔云皓"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘超"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "覃怀武"
+          }
+        }
+      }
+    ],
+    "location": "J07"
+  },
+  {
+    "id": "team-dongbei-j03",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "队长霸占机子,封榜后连A3题",
+        "en": "captain666"
+      }
+    },
+    "organization_id": "organization-dongbei-35",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘钧然"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "杜福君"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "左秉昕"
+          }
+        }
+      }
+    ],
+    "location": "J03"
+  },
+  {
+    "id": "team-dongbei-i08",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "哈师大1队",
+        "en": "hsd NO.1"
+      }
+    },
+    "organization_id": "organization-dongbei-20",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "苏鹏天"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王康"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "程新然"
+          }
+        }
+      }
+    ],
+    "location": "I08"
+  },
+  {
+    "id": "team-dongbei-b04",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "我也想AC",
+        "en": "AC Wannabe"
+      }
+    },
+    "organization_id": "organization-dongbei-42",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "卢毅康"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "贾雨欣"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "岑意顺"
+          }
+        }
+      }
+    ],
+    "location": "B04"
+  },
+  {
+    "id": "team-dongbei-i02",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "过五关蘸肉酱队",
+        "en": "Five Gates Conquerors"
+      }
+    },
+    "organization_id": "organization-dongbei-20",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "邓辰"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李雪"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李弈宁"
+          }
+        }
+      }
+    ],
+    "location": "I02"
+  },
+  {
+    "id": "team-dongbei-p02",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "醉把佳人成双队",
+        "en": "wink"
+      }
+    },
+    "organization_id": "organization-dongbei-20",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "池庚容"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "余乐鑫"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李昆霖"
+          }
+        }
+      }
+    ],
+    "location": "P02"
+  },
+  {
+    "id": "team-dongbei-e01",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "吉农科1队",
+        "en": "JLNKU1"
+      }
+    },
+    "organization_id": "organization-dongbei-10",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "姜霁轩"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李锡俊"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张杰"
+          }
+        }
+      }
+    ],
+    "location": "E01"
+  },
+  {
+    "id": "team-dongbei-c02",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "正在启动",
+        "en": "Now Starting"
+      }
+    },
+    "organization_id": "organization-dongbei-45",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "何永恒"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "苏星雨"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "蒋卓君"
+          }
+        }
+      }
+    ],
+    "location": "C02"
+  },
+  {
+    "id": "team-dongbei-r02",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Eight Equals Default",
+        "en": "Eight Equals Default"
+      }
+    },
+    "organization_id": "organization-dongbei-27",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "覃俊鑫"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "孙荣狄"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张嘉柠"
+          }
+        }
+      }
+    ],
+    "location": "R02"
+  },
+  {
+    "id": "team-dongbei-e09",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "麒麟",
+        "en": "kylin"
+      }
+    },
+    "organization_id": "organization-dongbei-46",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "梁骞茹"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李炫佑"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "宋敏琪"
+          }
+        }
+      }
+    ],
+    "location": "E09"
+  },
+  {
+    "id": "team-dongbei-i06",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "吉祥鸟",
+        "en": "Lucky Bird"
+      }
+    },
+    "organization_id": "organization-dongbei-46",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "陈婉莹"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王子健"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "袁泽坤"
+          }
+        }
+      }
+    ],
+    "location": "I06"
+  },
+  {
+    "id": "team-dongbei-r05",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "谢幕之战",
+        "en": "Last Stand"
+      }
+    },
+    "organization_id": "organization-dongbei-15",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "相静"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "尹世光"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王志宽"
+          }
+        }
+      }
+    ],
+    "location": "R05"
+  },
+  {
+    "id": "team-dongbei-p05",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "未央星",
+        "en": "Unfading Star"
+      }
+    },
+    "organization_id": "organization-dongbei-12",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "拱垲"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张健哲"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "袁英麒"
+          }
+        }
+      }
+    ],
+    "location": "P05"
+  },
+  {
+    "id": "team-dongbei-j05",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "交流障碍星人",
+        "en": "Discommunication"
+      }
+    },
+    "organization_id": "organization-dongbei-12",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘昱"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王宗凡"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "欧阳承风"
+          }
+        }
+      }
+    ],
+    "location": "J05"
+  },
+  {
+    "id": "team-dongbei-g03",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "雪泥鸿爪",
+        "en": "To be or not to be"
+      }
+    },
+    "organization_id": "organization-dongbei-12",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "邱天"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "席乐媛"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "栗铭远"
+          }
+        }
+      }
+    ],
+    "location": "G03"
+  },
+  {
+    "id": "team-dongbei-b02",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "故障吉奇人",
+        "en": "The Defect"
+      }
+    },
+    "organization_id": "organization-dongbei-12",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "于之航"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "陈鹏旭"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "徐梓博"
+          }
+        }
+      }
+    ],
+    "location": "B02"
+  },
+  {
+    "id": "team-dongbei-g02",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "暴力出奇迹",
+        "en": "Brute force works wonders."
+      }
+    },
+    "organization_id": "organization-dongbei-37",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "林键伟"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张怀栋"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘士琦"
+          }
+        }
+      }
+    ],
+    "location": "G02"
+  },
+  {
+    "id": "team-dongbei-j09",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "大运翼王队",
+        "en": "big luck wing king"
+      }
+    },
+    "organization_id": "organization-dongbei-37",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "郝镇蓬"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "沈庆嵘"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "于欣驰"
+          }
+        }
+      }
+    ],
+    "location": "J09"
+  },
+  {
+    "id": "team-dongbei-d01",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "队名正在加载中...",
+        "en": "TeamnameLoading..."
+      }
+    },
+    "organization_id": "organization-dongbei-4",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王祚成"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "陈科畅"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "蒋汉山"
+          }
+        }
+      }
+    ],
+    "location": "D01"
+  },
+  {
+    "id": "team-dongbei-l08",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "三人成行",
+        "en": "Three equal Good"
+      }
+    },
+    "organization_id": "organization-dongbei-50",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "黄展鹏"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "许晟笛"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张渠帅"
+          }
+        }
+      }
+    ],
+    "location": "L08"
+  },
+  {
+    "id": "team-dongbei-i03",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "O(1)的脑子处理O(N!)的题",
+        "en": "O(1) Capacity, N! Complexity"
+      }
+    },
+    "organization_id": "organization-dongbei-50",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "朱赛容"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘基淯"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "杨宇轩"
+          }
+        }
+      }
+    ],
+    "location": "I03"
+  },
+  {
+    "id": "team-dongbei-j11",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "惊人老ass的Ciallo喵喵萝莉物语",
+        "en": "Amazing old ass Ciallo meow loli story"
+      }
+    },
+    "organization_id": "organization-dongbei-50",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "何恩培"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王琦睿"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "史宇轩"
+          }
+        }
+      }
+    ],
+    "location": "J11"
+  },
+  {
+    "id": "team-dongbei-a05",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "地灵殿刷铁机",
+        "en": "sanbai ice cream"
+      }
+    },
+    "organization_id": "organization-dongbei-50",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "连振翔"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "倪子钧"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "钟志烨"
+          }
+        }
+      }
+    ],
+    "location": "A05"
+  },
+  {
+    "id": "team-dongbei-o04",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "未掘宝石",
+        "en": "Hidden Gem"
+      }
+    },
+    "organization_id": "organization-dongbei-45",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "叶俊捷"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "吴贻炫"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王昱显"
+          }
+        }
+      }
+    ],
+    "location": "O04"
+  },
+  {
+    "id": "team-dongbei-h03",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "岁月静好",
+        "en": "Years are quiet and good"
+      }
+    },
+    "organization_id": "organization-dongbei-45",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "陈柯嵩"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "饶晟烨"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘明昊"
+          }
+        }
+      }
+    ],
+    "location": "H03"
+  },
+  {
+    "id": "team-dongbei-r03",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "又没时间想队名了",
+        "en": "No Time to Name Again"
+      }
+    },
+    "organization_id": "organization-dongbei-1",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "金迪"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "祝宏睿"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "宋秉轩"
+          }
+        }
+      }
+    ],
+    "location": "R03"
+  },
+  {
+    "id": "team-dongbei-c03",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "叶公好龙，但是奶龙",
+        "en": "milk dragon king"
+      }
+    },
+    "organization_id": "organization-dongbei-1",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李源泉"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "童家瑶"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "廖贝贝"
+          }
+        }
+      }
+    ],
+    "location": "C03"
+  },
+  {
+    "id": "team-dongbei-f03",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "哈理工2026D02",
+        "en": "HRBUST2026D02"
+      }
+    },
+    "organization_id": "organization-dongbei-21",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王慈恩"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张昊"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "周浩宇"
+          }
+        }
+      }
+    ],
+    "location": "F03"
+  },
+  {
+    "id": "team-dongbei-i01",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "哈理工2026D01",
+        "en": "HRBUST2026D01"
+      }
+    },
+    "organization_id": "organization-dongbei-21",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王春龙"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "冉渝旭"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "陈子权"
+          }
+        }
+      }
+    ],
+    "location": "I01"
+  },
+  {
+    "id": "team-dongbei-o05",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "哈理工2026D06",
+        "en": "HRBUST2026D06"
+      }
+    },
+    "organization_id": "organization-dongbei-21",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "乔星翰"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "阳灿"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "郑启超"
+          }
+        }
+      }
+    ],
+    "location": "O05"
+  },
+  {
+    "id": "team-dongbei-d07",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "关注塔菲谢谢喵",
+        "en": "Subscribe to Tafi thank you meow"
+      }
+    },
+    "organization_id": "organization-dongbei-45",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "彭博文"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "母佳欢"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "隋昕航"
+          }
+        }
+      }
+    ],
+    "location": "D07"
+  },
+  {
+    "id": "team-dongbei-b10",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "哈理工2026D05",
+        "en": "HRBUST2026D05"
+      }
+    },
+    "organization_id": "organization-dongbei-21",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "贝明轩"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张天时"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "杨博翔"
+          }
+        }
+      }
+    ],
+    "location": "B10"
+  },
+  {
+    "id": "team-dongbei-k06",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "哈理工2026D03",
+        "en": "HRBUST2-26D03"
+      }
+    },
+    "organization_id": "organization-dongbei-21",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "梁震宇"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "赵晨曦"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": " 张聿"
+          }
+        }
+      }
+    ],
+    "location": "K06"
+  },
+  {
+    "id": "team-dongbei-e08",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "豆包队不包对",
+        "en": "Doubao team must ac"
+      }
+    },
+    "organization_id": "organization-dongbei-1",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张慧祥"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "韩茗"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "周博昂"
+          }
+        }
+      }
+    ],
+    "location": "E08"
+  },
+  {
+    "id": "team-dongbei-h04",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "守银难守你",
+        "en": "Harder to guard you"
+      }
+    },
+    "organization_id": "organization-dongbei-52",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "黄韧琦"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "秦宏伟"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "曹赵杨"
+          }
+        }
+      }
+    ],
+    "location": "H04"
+  },
+  {
+    "id": "team-dongbei-b08",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "光宗耀祖",
+        "en": "Bring honor to one's ancestors"
+      }
+    },
+    "organization_id": "organization-dongbei-52",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "孙乐儒"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王悦"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李雨垚"
+          }
+        }
+      }
+    ],
+    "location": "B08"
+  },
+  {
+    "id": "team-dongbei-i11",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "最好的对",
+        "en": "Limitless"
+      }
+    },
+    "organization_id": "organization-dongbei-53",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "叶明源"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "马军"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "程广宇"
+          }
+        }
+      }
+    ],
+    "location": "I11"
+  },
+  {
+    "id": "team-dongbei-m09",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "哈理工2026D04",
+        "en": "HRBUST2026D04"
+      }
+    },
+    "organization_id": "organization-dongbei-21",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "陈鑫"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "黄忆杭"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "林如愿"
+          }
+        }
+      }
+    ],
+    "location": "M09"
+  },
+  {
+    "id": "team-dongbei-e03",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Heart Races",
+        "en": "Heart Races"
+      }
+    },
+    "organization_id": "organization-dongbei-42",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "石圣男"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张裕"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李艾曦"
+          }
+        }
+      }
+    ],
+    "location": "E03"
+  },
+  {
+    "id": "team-dongbei-k03",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "那是因为我还没有启动",
+        "en": "Unactivated yet"
+      }
+    },
+    "organization_id": "organization-dongbei-27",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "邵梓煊"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "齐梓航"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "郑明骁"
+          }
+        }
+      }
+    ],
+    "location": "K03"
+  },
+  {
+    "id": "team-dongbei-k08",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "就来看看",
+        "en": "Just look look"
+      }
+    },
+    "organization_id": "organization-dongbei-27",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "宋昊霖"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘欣晨"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "陈星旭"
+          }
+        }
+      }
+    ],
+    "location": "K08"
+  },
+  {
+    "id": "team-dongbei-g06",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "王广杰在原神后背喊牛逼",
+        "en": "wang is bike"
+      }
+    },
+    "organization_id": "organization-dongbei-27",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "魏天齐"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "陈林"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "吴康睿"
+          }
+        }
+      }
+    ],
+    "location": "G06"
+  },
+  {
+    "id": "team-dongbei-a10",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "谷涨稷萁稔",
+        "en": "Cornty Millbot"
+      }
+    },
+    "organization_id": "organization-dongbei-32",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "潘岩"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "金龙杰"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "苏紫辰"
+          }
+        }
+      }
+    ],
+    "location": "A10"
+  },
+  {
+    "id": "team-dongbei-e07",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "字元无限",
+        "en": "Next Token"
+      }
+    },
+    "organization_id": "organization-dongbei-26",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "杨潇林"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "连军凯"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘世鹏"
+          }
+        }
+      }
+    ],
+    "location": "E07"
+  },
+  {
+    "id": "team-dongbei-o06",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "平原反应的山顶洞人",
+        "en": "miaomiao good people bad"
+      }
+    },
+    "organization_id": "organization-dongbei-26",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "陈彦达"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "叶柏驿"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "徐鹏程"
+          }
+        }
+      }
+    ],
+    "location": "O06"
+  },
+  {
+    "id": "team-dongbei-l05",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "热带风味的泸溪河",
+        "en": "failed to pass cet-4 & exam so we'll wf"
+      }
+    },
+    "organization_id": "organization-dongbei-26",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "边政"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "赵烺"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "袁进"
+          }
+        }
+      }
+    ],
+    "location": "L05"
+  },
+  {
+    "id": "team-dongbei-g04",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "我根本不会算法,我只会乱按键盘",
+        "en": "I know no algorithms,I just mash keys"
+      }
+    },
+    "organization_id": "organization-dongbei-31",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "陈子谦"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "成子鸣"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "邹田惠雨"
+          }
+        }
+      }
+    ],
+    "location": "G04"
+  },
+  {
+    "id": "team-dongbei-g08",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "力旺实验学校CCPC 4队",
+        "en": "Livon Experimental School Team ④"
+      }
+    },
+    "organization_id": "organization-dongbei-43",
+    "group": [
+      "unofficial"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李铭轩"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "宋昀澳"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "于乐浔"
+          }
+        }
+      }
+    ],
+    "location": "G08"
+  },
+  {
+    "id": "team-dongbei-p07",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "力旺实验学校CCPC 3队",
+        "en": "Livon Experimental School Team ③"
+      }
+    },
+    "organization_id": "organization-dongbei-43",
+    "group": [
+      "unofficial"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "孟祥豪"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "郭展廷"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张珑轩"
+          }
+        }
+      }
+    ],
+    "location": "P07"
+  },
+  {
+    "id": "team-dongbei-j10",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "力旺实验学校CCPC 2队",
+        "en": "Livon Experimental School Team ②"
+      }
+    },
+    "organization_id": "organization-dongbei-43",
+    "group": [
+      "unofficial"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "乐则阳"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张恒诚"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "尹冠霖"
+          }
+        }
+      }
+    ],
+    "location": "J10"
+  },
+  {
+    "id": "team-dongbei-o03",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "力旺实验学校CCPC 1队",
+        "en": "Livon Experimental School Team ①"
+      }
+    },
+    "organization_id": "organization-dongbei-43",
+    "group": [
+      "unofficial"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘陈一"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "姜凯棋"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王尔玉"
+          }
+        }
+      }
+    ],
+    "location": "O03"
+  },
+  {
+    "id": "team-dongbei-k04",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "大庆兰德2队",
+        "en": "Daqing Lande team 2"
+      }
+    },
+    "organization_id": "organization-dongbei-22",
+    "group": [
+      "unofficial"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "梁宝岚"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王江睿"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "潘禹霖"
+          }
+        }
+      }
+    ],
+    "location": "K04"
+  },
+  {
+    "id": "team-dongbei-p04",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "大庆兰德1队",
+        "en": "Daqing Lande team 1"
+      }
+    },
+    "organization_id": "organization-dongbei-22",
+    "group": [
+      "unofficial"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李婉婷"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "何谣"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "何易航"
+          }
+        }
+      }
+    ],
+    "location": "P04"
+  },
+  {
+    "id": "team-dongbei-j08",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "告白氧球",
+        "en": "Confession Oxygen Ball"
+      }
+    },
+    "organization_id": "organization-dongbei-12",
+    "group": [
+      "unofficial"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "席佳阳"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "高赫"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "白瑞秋"
+          }
+        }
+      }
+    ],
+    "location": "J08"
+  }
+]

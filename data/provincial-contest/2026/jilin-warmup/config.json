@@ -1,0 +1,52 @@
+{
+  "contest_name": "第 19 届吉林省大学生程序设计竞赛 - 热身赛",
+  "start_time": 1779433200000,
+  "end_time": 1779440400000,
+  "penalty": 1200,
+  "frozen_time": 1800,
+  "problem_id": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "balloon_color": [
+    {
+      "color": "#000000",
+      "background_color": "#ff1717"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#5ff739"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#f2ef13"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#71e3ff"
+    }
+  ],
+  "status_time_display": {
+    "correct": true,
+    "incorrect": true,
+    "pending": true
+  },
+  "medal": {},
+  "group": {
+    "group-jilin-a": "普通高校",
+    "group-jilin-b": "独立学院",
+    "unofficial": "打星队伍"
+  },
+  "logo": {
+    "preset": "CCPC"
+  },
+  "options": {
+    "enable_organization": true,
+    "submission_timestamp_unit": "millisecond"
+  },
+  "organizations": {
+    "url": "organizations.json"
+  }
+}

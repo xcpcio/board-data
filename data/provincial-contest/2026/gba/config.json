@@ -1,0 +1,90 @@
+{
+  "contest_name": "2026 GBA International Programming Contest",
+  "start_time": 1775966400000,
+  "end_time": 1775981700000,
+  "penalty": 1200,
+  "frozen_time": 3600,
+  "problem_id": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L"
+  ],
+  "balloon_color": [
+    {
+      "color": "#000000",
+      "background_color": "#00BFFF"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#32CD32"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#8B4513"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#FF0000"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#333333"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#0000FF"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#FF8C00"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#E0E0E0"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#008080"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#FF69B4"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#FFD700"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#8a2be2"
+    }
+  ],
+  "status_time_display": {
+    "correct": true,
+    "incorrect": true,
+    "pending": true
+  },
+  "medal": {},
+  "group": {
+    "TrackA": "TrackA",
+    "TrackB": "TrackB",
+    "TrackC": "TrackC",
+    "TrackD": "TrackD"
+  },
+  "options": {
+    "enable_organization": true,
+    "submission_timestamp_unit": "millisecond"
+  },
+  "organizations": {
+    "url": "organizations.json"
+  }
+}

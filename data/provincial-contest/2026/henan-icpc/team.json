@@ -1,0 +1,9141 @@
+[
+  {
+    "id": "1",
+    "name": "No Name",
+    "organization_id": "2",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "牛金鑫"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "冯鼎"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "侯帅鹏"
+          }
+        }
+      }
+    ],
+    "location": "D楼101",
+    "icpc_id": "team001"
+  },
+  {
+    "id": "2",
+    "name": "Greedy Life",
+    "organization_id": "2",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "付怡睿"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "赵文洁"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张美莲"
+          }
+        }
+      }
+    ],
+    "location": "D楼111",
+    "icpc_id": "team002"
+  },
+  {
+    "id": "3",
+    "name": "Gold Nailoong",
+    "organization_id": "2",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张金博"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "鲁昕阳"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "赵益辉"
+          }
+        }
+      }
+    ],
+    "location": "D楼201",
+    "icpc_id": "team003"
+  },
+  {
+    "id": "4",
+    "name": "Dream of ac",
+    "organization_id": "2",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘景甲"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王静渊"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "焦梓珈"
+          }
+        }
+      }
+    ],
+    "location": "D楼301",
+    "icpc_id": "team004"
+  },
+  {
+    "id": "5",
+    "name": "Domain of No",
+    "organization_id": "2",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "裴武珂"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "秦思远"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "董艺琳"
+          }
+        }
+      }
+    ],
+    "location": "信工107",
+    "icpc_id": "team005"
+  },
+  {
+    "id": "6",
+    "name": "Flying Circus",
+    "organization_id": "2",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "赵永恒"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘清涛"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "陈隆赫"
+          }
+        }
+      }
+    ],
+    "location": "信工411",
+    "icpc_id": "team006"
+  },
+  {
+    "id": "7",
+    "name": "Code Rhapsody",
+    "organization_id": "2",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "朱宁"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "董家欣"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "冯世豪"
+          }
+        }
+      }
+    ],
+    "location": "信工502",
+    "icpc_id": "team007"
+  },
+  {
+    "id": "8",
+    "name": "用数据结构验一验奖牌",
+    "organization_id": "3",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张常璞"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张靖博"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "程怡菲"
+          }
+        }
+      }
+    ],
+    "location": "D楼101",
+    "icpc_id": "team008"
+  },
+  {
+    "id": "9",
+    "name": "non terrae plus ulrea",
+    "organization_id": "3",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "毋若琳"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "姚智烽"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "陈家祝"
+          }
+        }
+      }
+    ],
+    "location": "D楼111",
+    "icpc_id": "team009"
+  },
+  {
+    "id": "10",
+    "name": "World Hello",
+    "organization_id": "3",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李聪"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘金梁"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王镜卓"
+          }
+        }
+      }
+    ],
+    "location": "D楼201",
+    "icpc_id": "team010"
+  },
+  {
+    "id": "11",
+    "name": "CTRL+ Z",
+    "organization_id": "3",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "郭平蒲"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "冯飞扬"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "申艳玲"
+          }
+        }
+      }
+    ],
+    "location": "D楼301",
+    "icpc_id": "team011"
+  },
+  {
+    "id": "12",
+    "name": "乘风破浪",
+    "organization_id": "3",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "霍珽杰"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张恒"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李淑"
+          }
+        }
+      }
+    ],
+    "location": "信工107",
+    "icpc_id": "team012"
+  },
+  {
+    "id": "13",
+    "name": "不会算法香钠酱",
+    "organization_id": "3",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "杨世豪"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "史金旭"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "杨丽君"
+          }
+        }
+      }
+    ],
+    "location": "信工210",
+    "icpc_id": "team013"
+  },
+  {
+    "id": "14",
+    "name": "豆包特攻队",
+    "organization_id": "4",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "赵宇恒"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王家鸣"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "周兵洋"
+          }
+        }
+      }
+    ],
+    "location": "信工210",
+    "icpc_id": "team014"
+  },
+  {
+    "id": "15",
+    "name": "深渊满星队",
+    "organization_id": "5",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "靳智博"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "郭凌志"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "冯哲"
+          }
+        }
+      }
+    ],
+    "location": "信工107",
+    "icpc_id": "team015"
+  },
+  {
+    "id": "16",
+    "name": "Ciallo～(∠・< )⌒★",
+    "organization_id": "5",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "崔英骙"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "屈振兴"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "平泽川"
+          }
+        }
+      }
+    ],
+    "location": "信工411",
+    "icpc_id": "team016"
+  },
+  {
+    "id": "17",
+    "name": "康神开播了",
+    "organization_id": "5",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "陈俊尹"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘义凯"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "唐璟辉"
+          }
+        }
+      }
+    ],
+    "location": "信工502",
+    "icpc_id": "team017"
+  },
+  {
+    "id": "18",
+    "name": "一码当先",
+    "organization_id": "6",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张林豪"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李俊杰"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "吴炜"
+          }
+        }
+      }
+    ],
+    "location": "D楼111",
+    "icpc_id": "team018"
+  },
+  {
+    "id": "19",
+    "name": "贰志凌云",
+    "organization_id": "6",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张识博"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李文源"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王庆博"
+          }
+        }
+      }
+    ],
+    "location": "信工411",
+    "icpc_id": "team019"
+  },
+  {
+    "id": "20",
+    "name": "三锐破局",
+    "organization_id": "6",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "鲁新飞"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "高雨梦"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "屠叶婷"
+          }
+        }
+      }
+    ],
+    "location": "信工510",
+    "icpc_id": "team020"
+  },
+  {
+    "id": "21",
+    "name": "肆力竞魁",
+    "organization_id": "6",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "杜宇扬"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "马啟元"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "舒梓澄"
+          }
+        }
+      }
+    ],
+    "location": "信工509",
+    "icpc_id": "team021"
+  },
+  {
+    "id": "22",
+    "name": "I want to play gta6",
+    "organization_id": "7",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "宋明贤"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "范恒嘉"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张帆"
+          }
+        }
+      }
+    ],
+    "location": "D楼101",
+    "icpc_id": "team022"
+  },
+  {
+    "id": "23",
+    "name": "Dissonant Interval",
+    "organization_id": "7",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "罗施达"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "孙小文"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "曹家宁"
+          }
+        }
+      }
+    ],
+    "location": "D楼107",
+    "icpc_id": "team023"
+  },
+  {
+    "id": "24",
+    "name": "Zero Sugar Zero Calorie",
+    "organization_id": "7",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "赵子恒"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "周锦麟"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "牛子杰"
+          }
+        }
+      }
+    ],
+    "location": "D楼201",
+    "icpc_id": "team024"
+  },
+  {
+    "id": "25",
+    "name": "ING",
+    "organization_id": "7",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "周文秀"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "龚柏文"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张悦"
+          }
+        }
+      }
+    ],
+    "location": "D楼301",
+    "icpc_id": "team025"
+  },
+  {
+    "id": "26",
+    "name": "Cloudy",
+    "organization_id": "7",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "叶雅治"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李秀玲"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "吴子怡"
+          }
+        }
+      }
+    ],
+    "location": "信工107",
+    "icpc_id": "team026"
+  },
+  {
+    "id": "27",
+    "name": "Henu Team 10",
+    "organization_id": "7",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "胡靖铭"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "魏一鸣"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "田沈聪"
+          }
+        }
+      }
+    ],
+    "location": "信工405",
+    "icpc_id": "team027"
+  },
+  {
+    "id": "28",
+    "name": "Three-wheel drive brother",
+    "organization_id": "7",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王长煊"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李文举"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "靳冲"
+          }
+        }
+      }
+    ],
+    "location": "信工502",
+    "icpc_id": "team028"
+  },
+  {
+    "id": "29",
+    "name": "Mama",
+    "organization_id": "7",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "陈晓豪"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "严枫"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "胡文劼"
+          }
+        }
+      }
+    ],
+    "location": "信工510",
+    "icpc_id": "team029"
+  },
+  {
+    "id": "30",
+    "name": "ALL 4 Y",
+    "organization_id": "7",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李锦辉"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "尤铭"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "魏文博"
+          }
+        }
+      }
+    ],
+    "location": "信工509",
+    "icpc_id": "team030"
+  },
+  {
+    "id": "31",
+    "name": "队长记得开long long(五分之四）",
+    "organization_id": "8",
+    "group": [
+      "unofficial"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张迅语"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "史景贤"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "段博鑫"
+          }
+        }
+      }
+    ],
+    "location": "信工405",
+    "icpc_id": "team031"
+  },
+  {
+    "id": "33",
+    "name": "不打铁创梦分队 ★",
+    "organization_id": "8",
+    "group": [
+      "unofficial"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李梓默"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "黄胤植"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "韩珉宇"
+          }
+        }
+      }
+    ],
+    "location": "信工613",
+    "icpc_id": "team033"
+  },
+  {
+    "id": "34",
+    "name": "南苑一队",
+    "organization_id": "9",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "孙浩"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "姚文博"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "翟超玉"
+          }
+        }
+      }
+    ],
+    "location": "D楼101",
+    "icpc_id": "team034"
+  },
+  {
+    "id": "35",
+    "name": "南苑二队",
+    "organization_id": "9",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "胡亚灿"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘朝阳"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "毛成琦"
+          }
+        }
+      }
+    ],
+    "location": "D楼107",
+    "icpc_id": "team035"
+  },
+  {
+    "id": "36",
+    "name": "南苑三队",
+    "organization_id": "9",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李卫"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "秦子明"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "崔润霖"
+          }
+        }
+      }
+    ],
+    "location": "D楼201",
+    "icpc_id": "team036"
+  },
+  {
+    "id": "37",
+    "name": "南苑四队",
+    "organization_id": "9",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李涵"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "陈瑾"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "晋慧莹"
+          }
+        }
+      }
+    ],
+    "location": "D楼301",
+    "icpc_id": "team037"
+  },
+  {
+    "id": "38",
+    "name": "帅帅的豪",
+    "organization_id": "9",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘思浩"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王帅豪"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "卢杏"
+          }
+        }
+      }
+    ],
+    "location": "信工405",
+    "icpc_id": "team038"
+  },
+  {
+    "id": "39",
+    "name": "关注塔菲喵",
+    "organization_id": "9",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张运甫"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王东浩"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李文洋"
+          }
+        }
+      }
+    ],
+    "location": "信工502",
+    "icpc_id": "team039"
+  },
+  {
+    "id": "40",
+    "name": "找特例！找特例！！",
+    "organization_id": "9",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "孙佳佳"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "雷鸣源"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "冯佳乐"
+          }
+        }
+      }
+    ],
+    "location": "信工510",
+    "icpc_id": "team040"
+  },
+  {
+    "id": "41",
+    "name": "河工一队",
+    "organization_id": "9",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "马晓钰"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "黄俊晓"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张晴晴"
+          }
+        }
+      }
+    ],
+    "location": "信工509",
+    "icpc_id": "team041"
+  },
+  {
+    "id": "42",
+    "name": "如星空般深蓝",
+    "organization_id": "9",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "毛川川"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王运坤"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王笑"
+          }
+        }
+      }
+    ],
+    "location": "信工613",
+    "icpc_id": "team042"
+  },
+  {
+    "id": "43",
+    "name": "今夜",
+    "organization_id": "10",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王宇恒"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "贾淇轩"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "曲永栈"
+          }
+        }
+      }
+    ],
+    "location": "信工107",
+    "icpc_id": "team043"
+  },
+  {
+    "id": "44",
+    "name": "你已急哭",
+    "organization_id": "10",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "凡亚豪"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "曹子鹏"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王子昂"
+          }
+        }
+      }
+    ],
+    "location": "信工411",
+    "icpc_id": "team044"
+  },
+  {
+    "id": "45",
+    "name": "我已急哭",
+    "organization_id": "10",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "白镇豪"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "程顺"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "闫兆森"
+          }
+        }
+      }
+    ],
+    "location": "信工502",
+    "icpc_id": "team045"
+  },
+  {
+    "id": "46",
+    "name": "Castle in the Sky",
+    "organization_id": "11",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "姬厚真鑫"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "韩永佳"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "朱首航"
+          }
+        }
+      }
+    ],
+    "location": "D楼101",
+    "icpc_id": "team046"
+  },
+  {
+    "id": "47",
+    "name": "队友说要跟我组一被子的acm",
+    "organization_id": "11",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张旭"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张远翔"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "崔佳涛"
+          }
+        }
+      }
+    ],
+    "location": "D楼111",
+    "icpc_id": "team047"
+  },
+  {
+    "id": "48",
+    "name": "诶，云朵?!",
+    "organization_id": "11",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王路鸣"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "卫濮瑜"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王智宸"
+          }
+        }
+      }
+    ],
+    "location": "D楼201",
+    "icpc_id": "team048"
+  },
+  {
+    "id": "49",
+    "name": "三个臭皮匠",
+    "organization_id": "11",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "郑怡飞"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王子鸣"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王俊诗"
+          }
+        }
+      }
+    ],
+    "location": "D楼301",
+    "icpc_id": "team049"
+  },
+  {
+    "id": "50",
+    "name": "HAUST | Team3 (Factory New)",
+    "organization_id": "11",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘嘉成"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王邻越"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘程伟"
+          }
+        }
+      }
+    ],
+    "location": "信工107",
+    "icpc_id": "team050"
+  },
+  {
+    "id": "51",
+    "name": "Tony but not too muddy",
+    "organization_id": "11",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张文欣"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "武佳音"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "潘梦幻"
+          }
+        }
+      }
+    ],
+    "location": "信工411",
+    "icpc_id": "team051"
+  },
+  {
+    "id": "52",
+    "name": "样例过了就是过了",
+    "organization_id": "11",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "谢沛哲"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "郭君旺"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "陈怡"
+          }
+        }
+      }
+    ],
+    "location": "信工510",
+    "icpc_id": "team052"
+  },
+  {
+    "id": "53",
+    "name": "二进制信徒",
+    "organization_id": "11",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "冯吉如"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "雷姿涵"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李庆琛"
+          }
+        }
+      }
+    ],
+    "location": "信工509",
+    "icpc_id": "team053"
+  },
+  {
+    "id": "54",
+    "name": "abcdefg",
+    "organization_id": "12",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "赵禹铭"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "马肖阳"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "田家杰"
+          }
+        }
+      }
+    ],
+    "location": "信工405",
+    "icpc_id": "team054"
+  },
+  {
+    "id": "55",
+    "name": "powered by gpt",
+    "organization_id": "13",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李梦洋"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘逸潇"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘成成"
+          }
+        }
+      }
+    ],
+    "location": "D楼101",
+    "icpc_id": "team055"
+  },
+  {
+    "id": "56",
+    "name": "Da Capo",
+    "organization_id": "13",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "罗峻函"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "高嘉琦"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王郅明"
+          }
+        }
+      }
+    ],
+    "location": "D楼111",
+    "icpc_id": "team056"
+  },
+  {
+    "id": "57",
+    "name": "800k  vs.  600k",
+    "organization_id": "13",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "孟源"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "赵孜铭"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "范润泽"
+          }
+        }
+      }
+    ],
+    "location": "D楼201",
+    "icpc_id": "team057"
+  },
+  {
+    "id": "58",
+    "name": "Jia hao",
+    "organization_id": "13",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "宋雨杭"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "房静"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王彦钊"
+          }
+        }
+      }
+    ],
+    "location": "D楼301",
+    "icpc_id": "team058"
+  },
+  {
+    "id": "59",
+    "name": "DEAR JUDGE, HAVE MERCY",
+    "organization_id": "13",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "梁夏玺"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "黄高杰"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王春玲"
+          }
+        }
+      }
+    ],
+    "location": "信工107",
+    "icpc_id": "team059"
+  },
+  {
+    "id": "60",
+    "name": "404 not found",
+    "organization_id": "13",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王艺萌"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李薇"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "潘静怡"
+          }
+        }
+      }
+    ],
+    "location": "信工210",
+    "icpc_id": "team060"
+  },
+  {
+    "id": "61",
+    "name": "SET HPU='Au';",
+    "organization_id": "13",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "向砚泽"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "邱宏林"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "钱宗耀"
+          }
+        }
+      }
+    ],
+    "location": "信工212",
+    "icpc_id": "team061"
+  },
+  {
+    "id": "62",
+    "name": "the king of Gpt",
+    "organization_id": "13",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "罗振洋"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "高养斌"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "徐杰"
+          }
+        }
+      }
+    ],
+    "location": "信工411",
+    "icpc_id": "team062"
+  },
+  {
+    "id": "63",
+    "name": "Beyond All WA",
+    "organization_id": "13",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "程翔"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘鸿庆"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "段亚辉"
+          }
+        }
+      }
+    ],
+    "location": "信工510",
+    "icpc_id": "team063"
+  },
+  {
+    "id": "64",
+    "name": "Like Konata",
+    "organization_id": "13",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "石皓然"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张镇银"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王昊"
+          }
+        }
+      }
+    ],
+    "location": "信工509",
+    "icpc_id": "team064"
+  },
+  {
+    "id": "65",
+    "name": "ZhuGeLiang",
+    "organization_id": "13",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "常曜璘"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张荣昌"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "蒲叶"
+          }
+        }
+      }
+    ],
+    "location": "信工613",
+    "icpc_id": "team065"
+  },
+  {
+    "id": "66",
+    "name": "人生南北多歧路",
+    "organization_id": "14",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "马润峰"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "何浩浩"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张文博"
+          }
+        }
+      }
+    ],
+    "location": "D楼301",
+    "icpc_id": "team066"
+  },
+  {
+    "id": "67",
+    "name": "等你下课",
+    "organization_id": "14",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "罗通"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "孟恒宇"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "杜科嬴"
+          }
+        }
+      }
+    ],
+    "location": "信工405",
+    "icpc_id": "team067"
+  },
+  {
+    "id": "68",
+    "name": "中二病也要AC队",
+    "organization_id": "15",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "管博"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "高悦康"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "赵仪贺"
+          }
+        }
+      }
+    ],
+    "location": "信工613",
+    "icpc_id": "team068"
+  },
+  {
+    "id": "69",
+    "name": "Remember to turn on long long",
+    "organization_id": "16",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "杨俊毅"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "石锦文"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张晟辉"
+          }
+        }
+      }
+    ],
+    "location": "D楼101",
+    "icpc_id": "team069"
+  },
+  {
+    "id": "70",
+    "name": "Gonna Cry Gonna Rage",
+    "organization_id": "16",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "姚依涛"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李晗雨"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李新栋"
+          }
+        }
+      }
+    ],
+    "location": "D楼111",
+    "icpc_id": "team070"
+  },
+  {
+    "id": "71",
+    "name": "干嘛呢！比赛给我打好了啊",
+    "organization_id": "16",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "齐子昊"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘伟"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张云博"
+          }
+        }
+      }
+    ],
+    "location": "D楼201",
+    "icpc_id": "team071"
+  },
+  {
+    "id": "72",
+    "name": "钙下去沉淀了",
+    "organization_id": "16",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "赵嘉驰"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "胡锦阳"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张岩"
+          }
+        }
+      }
+    ],
+    "location": "D楼301",
+    "icpc_id": "team072"
+  },
+  {
+    "id": "73",
+    "name": "我的前队友居然是郑轻新生赛冠军",
+    "organization_id": "16",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "许博文"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王浩宇"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "杨光"
+          }
+        }
+      }
+    ],
+    "location": "信工210",
+    "icpc_id": "team073"
+  },
+  {
+    "id": "74",
+    "name": "七休日",
+    "organization_id": "16",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "陈劲霄"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "隆鲁滨"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李金晗"
+          }
+        }
+      }
+    ],
+    "location": "信工411",
+    "icpc_id": "team074"
+  },
+  {
+    "id": "75",
+    "name": "吉伊卡哇",
+    "organization_id": "16",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "朱逸菲"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "邓海迪"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李悦"
+          }
+        }
+      }
+    ],
+    "location": "信工510",
+    "icpc_id": "team075"
+  },
+  {
+    "id": "76",
+    "name": "腋窝伸腿瞪眼丸馋哭隔壁老保安",
+    "organization_id": "16",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王小鸣"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "宋明潭"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "任浩喆"
+          }
+        }
+      }
+    ],
+    "location": "信工509",
+    "icpc_id": "team076"
+  },
+  {
+    "id": "77",
+    "name": "薄荷鱼汤可乐饼",
+    "organization_id": "16",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "沈子焱"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "谢梓洋"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "余俊颉"
+          }
+        }
+      }
+    ],
+    "location": "信工613",
+    "icpc_id": "team077"
+  },
+  {
+    "id": "78",
+    "name": "小鬼头信奥战队",
+    "organization_id": "17",
+    "group": [
+      "unofficial"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "陈燕颔"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "员欣宇"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "武一芃"
+          }
+        }
+      }
+    ],
+    "location": "信工212",
+    "icpc_id": "team078"
+  },
+  {
+    "id": "79",
+    "name": "关注HS谢谢喵",
+    "organization_id": "18",
+    "group": [
+      "unofficial"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张舒扬"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "茹逸"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "洪绍霖"
+          }
+        }
+      }
+    ],
+    "location": "D楼201",
+    "icpc_id": "team079"
+  },
+  {
+    "id": "80",
+    "name": "三驱战车",
+    "organization_id": "18",
+    "group": [
+      "unofficial"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "范昊轩"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "陈抱朴"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "杨正一"
+          }
+        }
+      }
+    ],
+    "location": "信工613",
+    "icpc_id": "team080"
+  },
+  {
+    "id": "81",
+    "name": "循环线段树",
+    "organization_id": "19",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "侯炳旭"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "吴帅甫"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "曹继喆"
+          }
+        }
+      }
+    ],
+    "location": "D楼101",
+    "icpc_id": "team081"
+  },
+  {
+    "id": "82",
+    "name": "泡沫世界",
+    "organization_id": "19",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "翟景旺"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "吴静轩"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "宁思禹"
+          }
+        }
+      }
+    ],
+    "location": "D楼107",
+    "icpc_id": "team082"
+  },
+  {
+    "id": "83",
+    "name": "莫比乌斯带",
+    "organization_id": "19",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "余锦昊"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张玉桂"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "强锦铭"
+          }
+        }
+      }
+    ],
+    "location": "D楼201",
+    "icpc_id": "team083"
+  },
+  {
+    "id": "84",
+    "name": "下等马",
+    "organization_id": "19",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "申海辰"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李昊洋"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "郑于威"
+          }
+        }
+      }
+    ],
+    "location": "D楼301",
+    "icpc_id": "team084"
+  },
+  {
+    "id": "85",
+    "name": "Ye Ye Yes",
+    "organization_id": "19",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "管紫汀"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "朱培涵"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "陈雨涵"
+          }
+        }
+      }
+    ],
+    "location": "信工107",
+    "icpc_id": "team085"
+  },
+  {
+    "id": "86",
+    "name": "好的",
+    "organization_id": "19",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "孙艺菲"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "周佳影"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "解天蔚"
+          }
+        }
+      }
+    ],
+    "location": "信工405",
+    "icpc_id": "team086"
+  },
+  {
+    "id": "87",
+    "name": "彩云归",
+    "organization_id": "19",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "陈春宇"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "孙胜锺"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "董天逸"
+          }
+        }
+      }
+    ],
+    "location": "信工502",
+    "icpc_id": "team087"
+  },
+  {
+    "id": "88",
+    "name": "神秘",
+    "organization_id": "19",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张云翔"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "孙易飞"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "周俊鑫"
+          }
+        }
+      }
+    ],
+    "location": "信工510",
+    "icpc_id": "team088"
+  },
+  {
+    "id": "89",
+    "name": "别WA了明天期末考试",
+    "organization_id": "20",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "崔智诚"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张情涵"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "全荣洁"
+          }
+        }
+      }
+    ],
+    "location": "信工411",
+    "icpc_id": "team089"
+  },
+  {
+    "id": "90",
+    "name": "RainbowDash",
+    "organization_id": "21",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张哲"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "何嘉斌"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王加燊"
+          }
+        }
+      }
+    ],
+    "location": "D楼107",
+    "icpc_id": "team090"
+  },
+  {
+    "id": "91",
+    "name": "没人觉得蒟蒻很恐怖吗",
+    "organization_id": "21",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "蔡泽伟"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘明智"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李佳泽"
+          }
+        }
+      }
+    ],
+    "location": "D楼201",
+    "icpc_id": "team091"
+  },
+  {
+    "id": "92",
+    "name": "样例过了就交",
+    "organization_id": "21",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张岩"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "樊丰恺"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "孙纪国"
+          }
+        }
+      }
+    ],
+    "location": "D楼301",
+    "icpc_id": "team092"
+  },
+  {
+    "id": "93",
+    "name": "点击查看队名",
+    "organization_id": "21",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "秦启瑞"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张晗"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王成玉"
+          }
+        }
+      }
+    ],
+    "location": "信工212",
+    "icpc_id": "team093"
+  },
+  {
+    "id": "94",
+    "name": "前进四！归来",
+    "organization_id": "21",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "梁志洋"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "左永欣"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "朱志博"
+          }
+        }
+      }
+    ],
+    "location": "信工411",
+    "icpc_id": "team094"
+  },
+  {
+    "id": "95",
+    "name": "水豚噜噜",
+    "organization_id": "21",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "栗佳宁"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "蔡祖铭"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "黄鑫"
+          }
+        }
+      }
+    ],
+    "location": "信工510",
+    "icpc_id": "team095"
+  },
+  {
+    "id": "96",
+    "name": "AI生成队名",
+    "organization_id": "21",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "卢宇翔"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张嘉涛"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "文一帆"
+          }
+        }
+      }
+    ],
+    "location": "信工509",
+    "icpc_id": "team096"
+  },
+  {
+    "id": "97",
+    "name": "提交就RE",
+    "organization_id": "22",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "马佰宽"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "吕京"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "杨克豪"
+          }
+        }
+      }
+    ],
+    "location": "信工107",
+    "icpc_id": "team097"
+  },
+  {
+    "id": "98",
+    "name": "写出签到题就算赢",
+    "organization_id": "22",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "孙钿清"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘新占"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "梁静轩"
+          }
+        }
+      }
+    ],
+    "location": "信工411",
+    "icpc_id": "team098"
+  },
+  {
+    "id": "99",
+    "name": "If melancholy is a gift",
+    "organization_id": "23",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "温侃"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李浩楠"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "郑智翔"
+          }
+        }
+      }
+    ],
+    "location": "D楼101",
+    "icpc_id": "team099"
+  },
+  {
+    "id": "100",
+    "name": "One Last Dance",
+    "organization_id": "23",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "陈钟洋"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "任玉杰"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "梁家宝"
+          }
+        }
+      }
+    ],
+    "location": "D楼107",
+    "icpc_id": "team100"
+  },
+  {
+    "id": "101",
+    "name": "Made in HuangHuai",
+    "organization_id": "23",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "石敖裕"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "秦世坤"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "丁嘉琦"
+          }
+        }
+      }
+    ],
+    "location": "D楼201",
+    "icpc_id": "team101"
+  },
+  {
+    "id": "102",
+    "name": "码力全开",
+    "organization_id": "23",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李昊泽"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "贾金博"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张博然"
+          }
+        }
+      }
+    ],
+    "location": "D楼301",
+    "icpc_id": "team102"
+  },
+  {
+    "id": "103",
+    "name": "二进制远航",
+    "organization_id": "23",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "侯数一"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "师文浩"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘源"
+          }
+        }
+      }
+    ],
+    "location": "信工107",
+    "icpc_id": "team103"
+  },
+  {
+    "id": "104",
+    "name": "零一行者",
+    "organization_id": "23",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "何文豪"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "邱智"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李一兵"
+          }
+        }
+      }
+    ],
+    "location": "信工411",
+    "icpc_id": "team104"
+  },
+  {
+    "id": "105",
+    "name": "栈顶望月",
+    "organization_id": "23",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王雪丽"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "郝方圆"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "马淑婷"
+          }
+        }
+      }
+    ],
+    "location": "信工502",
+    "icpc_id": "team105"
+  },
+  {
+    "id": "106",
+    "name": "极品双字id---奶龙",
+    "organization_id": "24",
+    "group": [
+      "unofficial"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "郑文奇"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "孟祥凡"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "吕籽霏"
+          }
+        }
+      }
+    ],
+    "location": "D楼201",
+    "icpc_id": "team106"
+  },
+  {
+    "id": "107",
+    "name": "想不出队名只能Au了",
+    "organization_id": "24",
+    "group": [
+      "unofficial"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "陈宇泽"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张轩珲"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "闫琳喆"
+          }
+        }
+      }
+    ],
+    "location": "信工212",
+    "icpc_id": "team107"
+  },
+  {
+    "id": "108",
+    "name": "TODO: 想队名",
+    "organization_id": "25",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "孙奕涵"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "庄宇哲"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王佳贺"
+          }
+        }
+      }
+    ],
+    "location": "信工107",
+    "icpc_id": "team108"
+  },
+  {
+    "id": "109",
+    "name": "点外卖不用券",
+    "organization_id": "25",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李皓冉"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "杨世勋"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李崇立"
+          }
+        }
+      }
+    ],
+    "location": "信工411",
+    "icpc_id": "team109"
+  },
+  {
+    "id": "110",
+    "name": "学长让我们随便打",
+    "organization_id": "25",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张品源"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李昂"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张浩源"
+          }
+        }
+      }
+    ],
+    "location": "信工502",
+    "icpc_id": "team110"
+  },
+  {
+    "id": "111",
+    "name": "她会回来吗",
+    "organization_id": "26",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张方明"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "陈龙"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "胡汉永"
+          }
+        }
+      }
+    ],
+    "location": "D楼101",
+    "icpc_id": "team111"
+  },
+  {
+    "id": "112",
+    "name": "H神酱味大鸡",
+    "organization_id": "26",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "马帅"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "哈欣"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "袁鑫晨"
+          }
+        }
+      }
+    ],
+    "location": "D楼111",
+    "icpc_id": "team112"
+  },
+  {
+    "id": "113",
+    "name": "再wa一发…",
+    "organization_id": "26",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "任吉康"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "宋忱宪"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "姚涵旭"
+          }
+        }
+      }
+    ],
+    "location": "D楼201",
+    "icpc_id": "team113"
+  },
+  {
+    "id": "114",
+    "name": "化区成蝶",
+    "organization_id": "26",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张家涛"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "乔智楠"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "崔书源"
+          }
+        }
+      }
+    ],
+    "location": "D楼301",
+    "icpc_id": "team114"
+  },
+  {
+    "id": "115",
+    "name": "提瓦特也是瓦",
+    "organization_id": "26",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "叶昱彤"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "周硕涵"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "陈泺冰"
+          }
+        }
+      }
+    ],
+    "location": "信工210",
+    "icpc_id": "team115"
+  },
+  {
+    "id": "116",
+    "name": "小清华也是清华！",
+    "organization_id": "26",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "鲍鸿杰"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李富强"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "孙展博"
+          }
+        }
+      }
+    ],
+    "location": "信工411",
+    "icpc_id": "team116"
+  },
+  {
+    "id": "117",
+    "name": "没事还有另一队",
+    "organization_id": "26",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "黎鹏翔"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "艾家兴"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张飞航"
+          }
+        }
+      }
+    ],
+    "location": "信工510",
+    "icpc_id": "team117"
+  },
+  {
+    "id": "118",
+    "name": "这次尽量不wa",
+    "organization_id": "26",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张雯欣"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "马皓桐"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李玫萱"
+          }
+        }
+      }
+    ],
+    "location": "信工509",
+    "icpc_id": "team118"
+  },
+  {
+    "id": "119",
+    "name": "豪情在天",
+    "organization_id": "26",
+    "group": [
+      "unofficial"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李昊展"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "任泽霖"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "杜佳耀"
+          }
+        }
+      }
+    ],
+    "location": "信工509",
+    "icpc_id": "team119"
+  },
+  {
+    "id": "120",
+    "name": "一百零一次热爱",
+    "organization_id": "26",
+    "group": [
+      "unofficial"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "方琴琴"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "钟佳容"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "徐涵钰"
+          }
+        }
+      }
+    ],
+    "location": "信工613",
+    "icpc_id": "team120"
+  },
+  {
+    "id": "121",
+    "name": "哎嗨呦",
+    "organization_id": "26",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "夏圣燕"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "胡婉婷"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "袁锦"
+          }
+        }
+      }
+    ],
+    "location": "信工613",
+    "icpc_id": "team121"
+  },
+  {
+    "id": "122",
+    "name": "Against the wind",
+    "organization_id": "27",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘鹏奇"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王子龙"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "杜正祺"
+          }
+        }
+      }
+    ],
+    "location": "D楼101",
+    "icpc_id": "team122"
+  },
+  {
+    "id": "123",
+    "name": "Ice queen",
+    "organization_id": "27",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "貌静娴"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "买睿妤"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "陈喆"
+          }
+        }
+      }
+    ],
+    "location": "D楼111",
+    "icpc_id": "team123"
+  },
+  {
+    "id": "124",
+    "name": "Chou pi jiang 3",
+    "organization_id": "27",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张锦乐"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "顾之颖"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李家琦"
+          }
+        }
+      }
+    ],
+    "location": "D楼201",
+    "icpc_id": "team124"
+  },
+  {
+    "id": "125",
+    "name": "You are all ATMs, but I am an ACM",
+    "organization_id": "27",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "黄雯建"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "闵龙隆"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "黄景焜"
+          }
+        }
+      }
+    ],
+    "location": "信工107",
+    "icpc_id": "team125"
+  },
+  {
+    "id": "126",
+    "name": "Hidden dragon,do not act",
+    "organization_id": "27",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "黄浩宇"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "马子越"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "梁钰"
+          }
+        }
+      }
+    ],
+    "location": "信工411",
+    "icpc_id": "team126"
+  },
+  {
+    "id": "127",
+    "name": "Saber",
+    "organization_id": "28",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "吴明泽"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张子皓"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "何嘉兴"
+          }
+        }
+      }
+    ],
+    "location": "D楼201",
+    "icpc_id": "team127"
+  },
+  {
+    "id": "128",
+    "name": "Marcus Seize the World",
+    "organization_id": "28",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "阎泓光"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李锦伟"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "毛非凡"
+          }
+        }
+      }
+    ],
+    "location": "D楼301",
+    "icpc_id": "team128"
+  },
+  {
+    "id": "129",
+    "name": "随着右手旋律",
+    "organization_id": "28",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "马利航"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "安博森"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "孙郅杰"
+          }
+        }
+      }
+    ],
+    "location": "信工212",
+    "icpc_id": "team129"
+  },
+  {
+    "id": "130",
+    "name": "队友呢？队友呢？救一下啊！",
+    "organization_id": "28",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李景豪"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "付有阳"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "焦炳纶"
+          }
+        }
+      }
+    ],
+    "location": "信工411",
+    "icpc_id": "team130"
+  },
+  {
+    "id": "131",
+    "name": "铜和她都没有回来队",
+    "organization_id": "28",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王稳翔"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "师恩程"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李培扬"
+          }
+        }
+      }
+    ],
+    "location": "信工510",
+    "icpc_id": "team131"
+  },
+  {
+    "id": "132",
+    "name": "憧憬成为算法少女",
+    "organization_id": "28",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "郭子凡"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张龙飞"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "郭璐豪"
+          }
+        }
+      }
+    ],
+    "location": "信工509",
+    "icpc_id": "team132"
+  },
+  {
+    "id": "133",
+    "name": "我想new一个对象",
+    "organization_id": "29",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘许可"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "赵晓柯"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "雪靖添"
+          }
+        }
+      }
+    ],
+    "location": "信工210",
+    "icpc_id": "team133"
+  },
+  {
+    "id": "134",
+    "name": "全员AK队",
+    "organization_id": "29",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李晓洁"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "桂新钊"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "高子超"
+          }
+        }
+      }
+    ],
+    "location": "信工411",
+    "icpc_id": "team134"
+  },
+  {
+    "id": "135",
+    "name": "flag{ACM_1s_just_an0ther_CTF_chall}",
+    "organization_id": "29",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "武文翠"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "胡洲"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张俊豪"
+          }
+        }
+      }
+    ],
+    "location": "信工510",
+    "icpc_id": "team135"
+  },
+  {
+    "id": "136",
+    "name": "队友救我狗命",
+    "organization_id": "30",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "遆俊明"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "马坤瑜"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "丁明硕"
+          }
+        }
+      }
+    ],
+    "location": "D楼101",
+    "icpc_id": "team136"
+  },
+  {
+    "id": "137",
+    "name": "ICPC开赛了？真的假的？",
+    "organization_id": "30",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "杨旭"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "肖啸和"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "彭显汧"
+          }
+        }
+      }
+    ],
+    "location": "D楼201",
+    "icpc_id": "team137"
+  },
+  {
+    "id": "138",
+    "name": "送你一朵小红花",
+    "organization_id": "30",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "郑豫"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "胡小彤"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "孙正德"
+          }
+        }
+      }
+    ],
+    "location": "D楼301",
+    "icpc_id": "team138"
+  },
+  {
+    "id": "139",
+    "name": "我的刀队",
+    "organization_id": "30",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王意情"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李宇恒"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "武智博"
+          }
+        }
+      }
+    ],
+    "location": "信工210",
+    "icpc_id": "team139"
+  },
+  {
+    "id": "140",
+    "name": "三战icpc",
+    "organization_id": "30",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "殷华翔"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘冰珂"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "贵玢睿"
+          }
+        }
+      }
+    ],
+    "location": "信工411",
+    "icpc_id": "team140"
+  },
+  {
+    "id": "141",
+    "name": "2爷带迭归打比赛",
+    "organization_id": "30",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张朔宁"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "严浩文"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王亦斐"
+          }
+        }
+      }
+    ],
+    "location": "信工510",
+    "icpc_id": "team141"
+  },
+  {
+    "id": "142",
+    "name": "Aemeath",
+    "organization_id": "31",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "马杰如"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王方原"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "边锦浩"
+          }
+        }
+      }
+    ],
+    "location": "信工107",
+    "icpc_id": "team142"
+  },
+  {
+    "id": "143",
+    "name": "我们三个真厉害",
+    "organization_id": "32",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "韩东廷"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "袁钦博"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "唐钶人"
+          }
+        }
+      }
+    ],
+    "location": "信工411",
+    "icpc_id": "team143"
+  },
+  {
+    "id": "144",
+    "name": "丝念",
+    "organization_id": "33",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王子轩"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李思涵"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "孙嘉威"
+          }
+        }
+      }
+    ],
+    "location": "D楼101",
+    "icpc_id": "team144"
+  },
+  {
+    "id": "145",
+    "name": "全球反恐特勤组",
+    "organization_id": "33",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李嘉明"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "危东"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王小珂"
+          }
+        }
+      }
+    ],
+    "location": "D楼111",
+    "icpc_id": "team145"
+  },
+  {
+    "id": "146",
+    "name": "三宇归程",
+    "organization_id": "33",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "文世宇"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "耿梓翔"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "蒲宇恒"
+          }
+        }
+      }
+    ],
+    "location": "D楼201",
+    "icpc_id": "team146"
+  },
+  {
+    "id": "147",
+    "name": "二幺幺",
+    "organization_id": "33",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘星宇"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "方瑞其"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "文铁翰"
+          }
+        }
+      }
+    ],
+    "location": "D楼301",
+    "icpc_id": "team147"
+  },
+  {
+    "id": "148",
+    "name": "花生可",
+    "organization_id": "33",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "黄颂凯"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "闫国基"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李鸣铭"
+          }
+        }
+      }
+    ],
+    "location": "信工210",
+    "icpc_id": "team148"
+  },
+  {
+    "id": "149",
+    "name": "啊对对队",
+    "organization_id": "33",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "郑皓文"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "陈艺升"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "穆曦泽"
+          }
+        }
+      }
+    ],
+    "location": "信工411",
+    "icpc_id": "team149"
+  },
+  {
+    "id": "150",
+    "name": "不知道叫什么队队",
+    "organization_id": "33",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张哲川"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "谢涛远"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "秦宇帆"
+          }
+        }
+      }
+    ],
+    "location": "信工510",
+    "icpc_id": "team150"
+  },
+  {
+    "id": "151",
+    "name": "道可道",
+    "organization_id": "33",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "杨欣"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "谢晓茵"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "任思宇"
+          }
+        }
+      }
+    ],
+    "location": "信工509",
+    "icpc_id": "team151"
+  },
+  {
+    "id": "152",
+    "name": "AC in Another Universe",
+    "organization_id": "34",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "赵宝旺"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张宇涵"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "朱嘉嘉"
+          }
+        }
+      }
+    ],
+    "location": "D楼301",
+    "icpc_id": "team152"
+  },
+  {
+    "id": "153",
+    "name": "Bug.exe",
+    "organization_id": "34",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "叶梓"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "裴佳怡"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "宋柳林"
+          }
+        }
+      }
+    ],
+    "location": "信工107",
+    "icpc_id": "team153"
+  },
+  {
+    "id": "154",
+    "name": "wa launcher",
+    "organization_id": "35",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "邢志轩"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "文凯博"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "周怡鸣"
+          }
+        }
+      }
+    ],
+    "location": "信工107",
+    "icpc_id": "team154"
+  },
+  {
+    "id": "155",
+    "name": "four turtles",
+    "organization_id": "35",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "付航旗"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "周晋豪"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "徐浩铭"
+          }
+        }
+      }
+    ],
+    "location": "信工411",
+    "icpc_id": "team155"
+  },
+  {
+    "id": "156",
+    "name": "waltz",
+    "organization_id": "35",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "秦子阳"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "庞腾飞"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘洪宇"
+          }
+        }
+      }
+    ],
+    "location": "信工502",
+    "icpc_id": "team156"
+  },
+  {
+    "id": "157",
+    "name": "XinSaiChuangYi",
+    "organization_id": "36",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "谢迪"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "宋卓妍"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李聪"
+          }
+        }
+      }
+    ],
+    "location": "信工405",
+    "icpc_id": "team157"
+  },
+  {
+    "id": "158",
+    "name": "许昌高中联队",
+    "organization_id": "37",
+    "group": [
+      "unofficial"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "黄奕清"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "陈一诺"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "高博"
+          }
+        }
+      }
+    ],
+    "location": "信工405",
+    "icpc_id": "team158"
+  },
+  {
+    "id": "159",
+    "name": "最后的旅行，百万撤离",
+    "organization_id": "38",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王帅斐"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张超"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李祎龙"
+          }
+        }
+      }
+    ],
+    "location": "D楼107",
+    "icpc_id": "team159"
+  },
+  {
+    "id": "160",
+    "name": "不WA能留住落樱吗",
+    "organization_id": "38",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王云磊"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "马诗轩"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘润东"
+          }
+        }
+      }
+    ],
+    "location": "D楼201",
+    "icpc_id": "team160"
+  },
+  {
+    "id": "161",
+    "name": "许昌学院学长",
+    "organization_id": "38",
+    "group": [
+      "unofficial"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "姚保富"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "鄢康乐"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘赫"
+          }
+        }
+      }
+    ],
+    "location": "D楼301",
+    "icpc_id": "team161"
+  },
+  {
+    "id": "162",
+    "name": "别担心，还有一个队",
+    "organization_id": "38",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王俊艳"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李文文"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "赵嘉怡"
+          }
+        }
+      }
+    ],
+    "location": "信工212",
+    "icpc_id": "team162"
+  },
+  {
+    "id": "163",
+    "name": "擅长wa的高木同学",
+    "organization_id": "38",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "邵杰"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王依静"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "吴向前"
+          }
+        }
+      }
+    ],
+    "location": "信工411",
+    "icpc_id": "team163"
+  },
+  {
+    "id": "164",
+    "name": "Hello！word2",
+    "organization_id": "39",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "蒋辉"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "史玉戈"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "万学刚"
+          }
+        }
+      }
+    ],
+    "location": "信工210",
+    "icpc_id": "team164"
+  },
+  {
+    "id": "165",
+    "name": "Hello！word",
+    "organization_id": "39",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "袁杲健"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "欧阳文琪"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘益名"
+          }
+        }
+      }
+    ],
+    "location": "信工411",
+    "icpc_id": "team165"
+  },
+  {
+    "id": "166",
+    "name": "雏草姬大队",
+    "organization_id": "40",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "崔涵博"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "孙栋良"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "陈子铭"
+          }
+        }
+      }
+    ],
+    "location": "D楼101",
+    "icpc_id": "team166"
+  },
+  {
+    "id": "167",
+    "name": "只是一块麦香鱼",
+    "organization_id": "40",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张蔓"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王宇新"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张璐瑶"
+          }
+        }
+      }
+    ],
+    "location": "D楼107",
+    "icpc_id": "team167"
+  },
+  {
+    "id": "168",
+    "name": "该队伍已取消比赛资格",
+    "organization_id": "40",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "邵嘉妮"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "习瑶瑶"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "封旭清"
+          }
+        }
+      }
+    ],
+    "location": "D楼201",
+    "icpc_id": "team168"
+  },
+  {
+    "id": "169",
+    "name": "我来监督沙瑞金",
+    "organization_id": "40",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "万皓月"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王正阳"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "赵旋宇"
+          }
+        }
+      }
+    ],
+    "location": "D楼301",
+    "icpc_id": "team169"
+  },
+  {
+    "id": "170",
+    "name": "OpenClaw帮我AC这道题",
+    "organization_id": "40",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "冯锦豪"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘文凯"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "董大森"
+          }
+        }
+      }
+    ],
+    "location": "信工107",
+    "icpc_id": "team170"
+  },
+  {
+    "id": "171",
+    "name": "金木",
+    "organization_id": "40",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王昊"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李天乐"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "黎浩宇"
+          }
+        }
+      }
+    ],
+    "location": "信工210",
+    "icpc_id": "team171"
+  },
+  {
+    "id": "172",
+    "name": "终焉暴君",
+    "organization_id": "40",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "卓锦威"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "杜霖"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "宁孜涵"
+          }
+        }
+      }
+    ],
+    "location": "信工212",
+    "icpc_id": "team172"
+  },
+  {
+    "id": "173",
+    "name": "何の意味",
+    "organization_id": "40",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "毛睿"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "姬冠成"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "陈年澎"
+          }
+        }
+      }
+    ],
+    "location": "信工405",
+    "icpc_id": "team173"
+  },
+  {
+    "id": "174",
+    "name": "CF炎帝",
+    "organization_id": "40",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "薛天齐"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "周政"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "吴鑫"
+          }
+        }
+      }
+    ],
+    "location": "信工411",
+    "icpc_id": "team174"
+  },
+  {
+    "id": "175",
+    "name": "我的荣幸",
+    "organization_id": "40",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "范伟喆"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "吕泽林"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "孟芃宇"
+          }
+        }
+      }
+    ],
+    "location": "信工510",
+    "icpc_id": "team175"
+  },
+  {
+    "id": "176",
+    "name": "关注奶龙喵，关注奶龙谢谢喵",
+    "organization_id": "40",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "齐家康"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "莫少杰"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张鹏宇"
+          }
+        }
+      }
+    ],
+    "location": "信工509",
+    "icpc_id": "team176"
+  },
+  {
+    "id": "177",
+    "name": "#define int __int128",
+    "organization_id": "40",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "唐博"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王朔淇"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "胡宏波"
+          }
+        }
+      }
+    ],
+    "location": "信工613",
+    "icpc_id": "team177"
+  },
+  {
+    "id": "178",
+    "name": "四小时下班",
+    "organization_id": "41",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "周智贤"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张朝阳"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张志恒"
+          }
+        }
+      }
+    ],
+    "location": "D楼111",
+    "icpc_id": "team178"
+  },
+  {
+    "id": "179",
+    "name": "加仓罚时",
+    "organization_id": "41",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "杨家豪"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "陈冠明"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "付锦泷"
+          }
+        }
+      }
+    ],
+    "location": "信工411",
+    "icpc_id": "team179"
+  },
+  {
+    "id": "180",
+    "name": "EMT",
+    "organization_id": "41",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "徐建业"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "冯泽泽"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "徐一鸣"
+          }
+        }
+      }
+    ],
+    "location": "信工510",
+    "icpc_id": "team180"
+  },
+  {
+    "id": "181",
+    "name": "代码不超时",
+    "organization_id": "41",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王辉"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "鲍宗辉"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "侯泓羽"
+          }
+        }
+      }
+    ],
+    "location": "信工509",
+    "icpc_id": "team181"
+  },
+  {
+    "id": "182",
+    "name": "Aliens",
+    "organization_id": "42",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张乐玉"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "柳杨浩"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李志洋"
+          }
+        }
+      }
+    ],
+    "location": "D楼101",
+    "icpc_id": "team182"
+  },
+  {
+    "id": "183",
+    "name": "Dream Team",
+    "organization_id": "42",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "闫天奇"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "侯常瑞"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "皇甫子恒"
+          }
+        }
+      }
+    ],
+    "location": "D楼107",
+    "icpc_id": "team183"
+  },
+  {
+    "id": "184",
+    "name": "Anything Gets AC",
+    "organization_id": "42",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "田琳"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王俊硕"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王宏星"
+          }
+        }
+      }
+    ],
+    "location": "D楼301",
+    "icpc_id": "team184"
+  },
+  {
+    "id": "185",
+    "name": "Bronya",
+    "organization_id": "42",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "陈智源"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "上官江华"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李西平"
+          }
+        }
+      }
+    ],
+    "location": "信工107",
+    "icpc_id": "team185"
+  },
+  {
+    "id": "186",
+    "name": "Very Pleased With Oneself",
+    "organization_id": "42",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "陈亮宇"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "付骏升"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "陈赫"
+          }
+        }
+      }
+    ],
+    "location": "信工405",
+    "icpc_id": "team186"
+  },
+  {
+    "id": "187",
+    "name": "start or end",
+    "organization_id": "43",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张获昌"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "侯政楷"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "杨智诚"
+          }
+        }
+      }
+    ],
+    "location": "D楼111",
+    "icpc_id": "team187"
+  },
+  {
+    "id": "188",
+    "name": "akm",
+    "organization_id": "43",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张馗"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "杨润林"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "焦志豪"
+          }
+        }
+      }
+    ],
+    "location": "D楼301",
+    "icpc_id": "team188"
+  },
+  {
+    "id": "189",
+    "name": "sudo win",
+    "organization_id": "43",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李潇滢"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李雨晴"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "苏子瑞"
+          }
+        }
+      }
+    ],
+    "location": "信工107",
+    "icpc_id": "team189"
+  },
+  {
+    "id": "190",
+    "name": "Wander wide, yet crave one AC",
+    "organization_id": "43",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "吴峥"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张瑞桐"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "周启睿"
+          }
+        }
+      }
+    ],
+    "location": "信工411",
+    "icpc_id": "team190"
+  },
+  {
+    "id": "191",
+    "name": "来都来了",
+    "organization_id": "44",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "樊智鑫"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "梁亚鹏"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "杨兴州"
+          }
+        }
+      }
+    ],
+    "location": "D楼101",
+    "icpc_id": "team191"
+  },
+  {
+    "id": "192",
+    "name": "打不过就哭哭",
+    "organization_id": "44",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "马祎宁"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "梁若晗"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "陈梦凡"
+          }
+        }
+      }
+    ],
+    "location": "D楼107",
+    "icpc_id": "team192"
+  },
+  {
+    "id": "193",
+    "name": "君与ACM之恋",
+    "organization_id": "44",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "董昭佑"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "穆金磊"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "巩俊哲"
+          }
+        }
+      }
+    ],
+    "location": "D楼201",
+    "icpc_id": "team193"
+  },
+  {
+    "id": "194",
+    "name": "复苏的阿比盖尔之花",
+    "organization_id": "44",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张海乐"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王哲"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "席玮辰"
+          }
+        }
+      }
+    ],
+    "location": "D楼301",
+    "icpc_id": "team194"
+  },
+  {
+    "id": "195",
+    "name": "花有重开日",
+    "organization_id": "44",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张云飞"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李天祐"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "顾陆军"
+          }
+        }
+      }
+    ],
+    "location": "信工107",
+    "icpc_id": "team195"
+  },
+  {
+    "id": "196",
+    "name": "板子里怎么没这道题",
+    "organization_id": "45",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "贾玉申"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王艺豪"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "孙睿彬"
+          }
+        }
+      }
+    ],
+    "location": "D楼201",
+    "icpc_id": "team196"
+  },
+  {
+    "id": "197",
+    "name": "Non terrae plus ultra",
+    "organization_id": "45",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "杨东映"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "连鑫雨"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "曹睿甫"
+          }
+        }
+      }
+    ],
+    "location": "D楼301",
+    "icpc_id": "team197"
+  },
+  {
+    "id": "198",
+    "name": "Kskbl zdjd wk zkbl",
+    "organization_id": "45",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李雨恒"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "范晨康"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "赵兴岩"
+          }
+        }
+      }
+    ],
+    "location": "信工107",
+    "icpc_id": "team198"
+  },
+  {
+    "id": "199",
+    "name": "bugkiller",
+    "organization_id": "45",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "高洋"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张义鑫"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "袁梦雨"
+          }
+        }
+      }
+    ],
+    "location": "信工411",
+    "icpc_id": "team199"
+  },
+  {
+    "id": "200",
+    "name": "My teammates can't be so cute",
+    "organization_id": "46",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "乔泽宇"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "郭俊辰"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李浩翔"
+          }
+        }
+      }
+    ],
+    "location": "D楼101",
+    "icpc_id": "team200"
+  },
+  {
+    "id": "201",
+    "name": "Ciallo nyanyanya~",
+    "organization_id": "46",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "罗立凯"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "雷祖涛"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李嘉硕"
+          }
+        }
+      }
+    ],
+    "location": "D楼107",
+    "icpc_id": "team201"
+  },
+  {
+    "id": "202",
+    "name": "shizhongjian",
+    "organization_id": "46",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "任展麟"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "胡胜杰"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "董孟欣"
+          }
+        }
+      }
+    ],
+    "location": "D楼201",
+    "icpc_id": "team202"
+  },
+  {
+    "id": "203",
+    "name": "feirenleidadui",
+    "organization_id": "46",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "窦万锦"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "范双学"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "甘承璞"
+          }
+        }
+      }
+    ],
+    "location": "D楼301",
+    "icpc_id": "team203"
+  },
+  {
+    "id": "204",
+    "name": "dianjilingjiang",
+    "organization_id": "46",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "吴钰欣"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李彤"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "马梦茹"
+          }
+        }
+      }
+    ],
+    "location": "信工107",
+    "icpc_id": "team204"
+  },
+  {
+    "id": "205",
+    "name": "dianjishuohua",
+    "organization_id": "46",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "武姮"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "陈怡"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "赵依雯"
+          }
+        }
+      }
+    ],
+    "location": "信工210",
+    "icpc_id": "team205"
+  },
+  {
+    "id": "206",
+    "name": "liaoyuanzhihe",
+    "organization_id": "46",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王天宇"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "牛培宇"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "杜永恒"
+          }
+        }
+      }
+    ],
+    "location": "信工411",
+    "icpc_id": "team206"
+  },
+  {
+    "id": "207",
+    "name": "Y.M.L",
+    "organization_id": "46",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "尹航"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "马艺轩"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "吕浩源"
+          }
+        }
+      }
+    ],
+    "location": "信工502",
+    "icpc_id": "team207"
+  },
+  {
+    "id": "208",
+    "name": "Zzuli-1",
+    "organization_id": "46",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "焦浩洋"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王俊男"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王孜政"
+          }
+        }
+      }
+    ],
+    "location": "信工510",
+    "icpc_id": "team208"
+  },
+  {
+    "id": "209",
+    "name": "LCA",
+    "organization_id": "46",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王梓博"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "赵梓昊"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘家贤"
+          }
+        }
+      }
+    ],
+    "location": "信工509",
+    "icpc_id": "team209"
+  },
+  {
+    "id": "210",
+    "name": "Zzuli-2",
+    "organization_id": "46",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "万启星"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李俊芃"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "廖义轩"
+          }
+        }
+      }
+    ],
+    "location": "信工613",
+    "icpc_id": "team210"
+  },
+  {
+    "id": "211",
+    "name": "好想打一辈子ICPC",
+    "organization_id": "47",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "孟家轩"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张昊宇"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "黄功胜"
+          }
+        }
+      }
+    ],
+    "location": "D楼201",
+    "icpc_id": "team211"
+  },
+  {
+    "id": "212",
+    "name": "拼好队",
+    "organization_id": "47",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "林睿军"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "毛清洋"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘家伟"
+          }
+        }
+      }
+    ],
+    "location": "信工107",
+    "icpc_id": "team212"
+  },
+  {
+    "id": "213",
+    "name": "烬天队",
+    "organization_id": "47",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "尹朝路"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "闫峪豪"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "付晨豪"
+          }
+        }
+      }
+    ],
+    "location": "信工411",
+    "icpc_id": "team213"
+  },
+  {
+    "id": "214",
+    "name": "尝试解题组",
+    "organization_id": "47",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李可"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "孟慧娜"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张会娟"
+          }
+        }
+      }
+    ],
+    "location": "信工613",
+    "icpc_id": "team214"
+  },
+  {
+    "id": "215",
+    "name": "被队友打昏醒来就金了",
+    "organization_id": "48",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "马海正"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "宋志毅"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "谢筱然"
+          }
+        }
+      }
+    ],
+    "location": "D楼107",
+    "icpc_id": "team215"
+  },
+  {
+    "id": "216",
+    "name": "番茄鱼丸辉常棒",
+    "organization_id": "48",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘素豪"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "邢倪闻"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "马永辉"
+          }
+        }
+      }
+    ],
+    "location": "D楼201",
+    "icpc_id": "team216"
+  },
+  {
+    "id": "217",
+    "name": "不想吃罚时",
+    "organization_id": "48",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "于晓乐"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "陈颢文"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王铭"
+          }
+        }
+      }
+    ],
+    "location": "D楼301",
+    "icpc_id": "team217"
+  },
+  {
+    "id": "218",
+    "name": "跟上，不能掉队",
+    "organization_id": "48",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "周佳佳"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王尚佳"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "罗爽轩"
+          }
+        }
+      }
+    ],
+    "location": "信工107",
+    "icpc_id": "team218"
+  },
+  {
+    "id": "219",
+    "name": "星辉",
+    "organization_id": "49",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李炎峻"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "朱世博"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "何毅昂"
+          }
+        }
+      }
+    ],
+    "location": "信工411",
+    "icpc_id": "team219"
+  },
+  {
+    "id": "220",
+    "name": "我是凑企鹅",
+    "organization_id": "49",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "杜一鸣"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "赵新昊"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王艺辉"
+          }
+        }
+      }
+    ],
+    "location": "信工509",
+    "icpc_id": "team220"
+  },
+  {
+    "id": "221",
+    "name": "郑州四中一队",
+    "organization_id": "50",
+    "group": [
+      "unofficial"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "郎朗昊越"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "牛浩源"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张铁虎"
+          }
+        }
+      }
+    ],
+    "location": "D楼107",
+    "icpc_id": "team221"
+  },
+  {
+    "id": "222",
+    "name": "郑州四中二队",
+    "organization_id": "50",
+    "group": [
+      "unofficial"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "于润泽"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张祥佑"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "焦梓辰"
+          }
+        }
+      }
+    ],
+    "location": "D楼201",
+    "icpc_id": "team222"
+  },
+  {
+    "id": "223",
+    "name": "郑州四中三队",
+    "organization_id": "50",
+    "group": [
+      "unofficial"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "白瀚嵩"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "邹涛鸿"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "赵加恩"
+          }
+        }
+      }
+    ],
+    "location": "D楼301",
+    "icpc_id": "team223"
+  },
+  {
+    "id": "224",
+    "name": "郑州四中四队",
+    "organization_id": "50",
+    "group": [
+      "unofficial"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王虎"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "谷佳昊"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "马铭泽"
+          }
+        }
+      }
+    ],
+    "location": "信工212",
+    "icpc_id": "team224"
+  },
+  {
+    "id": "225",
+    "name": "东外",
+    "organization_id": "51",
+    "group": [
+      "unofficial"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "孙怀晋"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "杨雨辰"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张睿聪"
+          }
+        }
+      }
+    ],
+    "location": "信工212",
+    "icpc_id": "team225"
+  },
+  {
+    "id": "226",
+    "name": "丘丘人",
+    "organization_id": "52",
+    "group": [
+      "unofficial"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "秦奕阳"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "杜龙翰"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张梓轩"
+          }
+        }
+      }
+    ],
+    "location": "信工212",
+    "icpc_id": "team226"
+  },
+  {
+    "id": "227",
+    "name": "打最后一队",
+    "organization_id": "53",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李怡霖"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "蒋世勋"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "郭力源"
+          }
+        }
+      }
+    ],
+    "location": "D楼101",
+    "icpc_id": "team227"
+  },
+  {
+    "id": "228",
+    "name": "马马胡胡",
+    "organization_id": "53",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘丰舸"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "马骁尧"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "胡一丁"
+          }
+        }
+      }
+    ],
+    "location": "D楼301",
+    "icpc_id": "team228"
+  },
+  {
+    "id": "229",
+    "name": "雷神一刀",
+    "organization_id": "53",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "朱浩鑫"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "卢玉林"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "杨皓元"
+          }
+        }
+      }
+    ],
+    "location": "信工107",
+    "icpc_id": "team229"
+  },
+  {
+    "id": "230",
+    "name": "“在想”",
+    "organization_id": "53",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "豆彤彤"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "吴怡冰"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘天雪"
+          }
+        }
+      }
+    ],
+    "location": "信工405",
+    "icpc_id": "team230"
+  },
+  {
+    "id": "231",
+    "name": "Master I'm Dying",
+    "organization_id": "54",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "马玉凡"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "弓盛雯"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "梁佳欣"
+          }
+        }
+      }
+    ],
+    "location": "D楼101",
+    "icpc_id": "team231"
+  },
+  {
+    "id": "232",
+    "name": "BanG Dream! ACMyGo!!!",
+    "organization_id": "54",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李家名"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王泽宇"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "祁俊豪"
+          }
+        }
+      }
+    ],
+    "location": "D楼107",
+    "icpc_id": "team232"
+  },
+  {
+    "id": "233",
+    "name": "WRD",
+    "organization_id": "54",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李梦阳"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "杨仕尧"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "丁凯"
+          }
+        }
+      }
+    ],
+    "location": "D楼201",
+    "icpc_id": "team233"
+  },
+  {
+    "id": "234",
+    "name": "Faze up",
+    "organization_id": "54",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王子涵"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "符运涵"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "任杰"
+          }
+        }
+      }
+    ],
+    "location": "D楼301",
+    "icpc_id": "team234"
+  },
+  {
+    "id": "235",
+    "name": "假装有队名",
+    "organization_id": "54",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "吴林涛"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "印秋锦"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "杨道正"
+          }
+        }
+      }
+    ],
+    "location": "信工107",
+    "icpc_id": "team235"
+  },
+  {
+    "id": "236",
+    "name": "只是有点难度",
+    "organization_id": "54",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "倪中阳"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张景杨"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张朝伟"
+          }
+        }
+      }
+    ],
+    "location": "信工405",
+    "icpc_id": "team236"
+  },
+  {
+    "id": "237",
+    "name": "基因重组",
+    "organization_id": "54",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "吴蒙蒙"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "朱姿潼"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘志铭"
+          }
+        }
+      }
+    ],
+    "location": "信工502",
+    "icpc_id": "team237"
+  },
+  {
+    "id": "238",
+    "name": "牛牛牛牛牛队",
+    "organization_id": "54",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王重垚"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "轩辕通"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "袁彬哲"
+          }
+        }
+      }
+    ],
+    "location": "信工510",
+    "icpc_id": "team238"
+  },
+  {
+    "id": "239",
+    "name": "好想 ac",
+    "organization_id": "54",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "季栋淇"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张谦"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王琪歌"
+          }
+        }
+      }
+    ],
+    "location": "信工509",
+    "icpc_id": "team239"
+  },
+  {
+    "id": "240",
+    "name": "Hello World",
+    "organization_id": "54",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张玉博"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "姚毅"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "付嘉辰"
+          }
+        }
+      }
+    ],
+    "location": "信工613",
+    "icpc_id": "team240"
+  },
+  {
+    "id": "241",
+    "name": "ZKNUKele",
+    "organization_id": "55",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "韦琳"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "裴文庆"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "孙政康"
+          }
+        }
+      }
+    ],
+    "location": "D楼101",
+    "icpc_id": "team241"
+  },
+  {
+    "id": "242",
+    "name": "ZKNUChichichi",
+    "organization_id": "55",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "文颂"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "胡原滋"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张宇赫"
+          }
+        }
+      }
+    ],
+    "location": "D楼111",
+    "icpc_id": "team242"
+  },
+  {
+    "id": "243",
+    "name": "ZKNUXuebi",
+    "organization_id": "55",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张安正"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李恒"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘珂"
+          }
+        }
+      }
+    ],
+    "location": "D楼201",
+    "icpc_id": "team243"
+  },
+  {
+    "id": "244",
+    "name": "ZKNUHanbao",
+    "organization_id": "55",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "王梦贞"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "周淑文"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张容"
+          }
+        }
+      }
+    ],
+    "location": "D楼301",
+    "icpc_id": "team244"
+  },
+  {
+    "id": "245",
+    "name": "时光流逝，马斯卡彭依旧美味",
+    "organization_id": "55",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "杨坤"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "杜经辉"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张东楠"
+          }
+        }
+      }
+    ],
+    "location": "信工210",
+    "icpc_id": "team245"
+  },
+  {
+    "id": "246",
+    "name": "首先要先有一个队名，然后AC",
+    "organization_id": "55",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "杨孟新"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "毕鸿森"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "舒凯"
+          }
+        }
+      }
+    ],
+    "location": "信工411",
+    "icpc_id": "team246"
+  },
+  {
+    "id": "247",
+    "name": "进是冯·诺依曼，退是阿兰·图灵",
+    "organization_id": "55",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "时全"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "张修研"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "李天一"
+          }
+        }
+      }
+    ],
+    "location": "信工510",
+    "icpc_id": "team247"
+  },
+  {
+    "id": "248",
+    "name": "The Last Dance",
+    "organization_id": "56",
+    "group": [
+      "official"
+    ],
+    "coaches": [],
+    "members": [
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "刘致远"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "焦彦辉"
+          }
+        }
+      },
+      {
+        "name": {
+          "fallback_lang": "zh-CN",
+          "texts": {
+            "zh-CN": "陈宇飞"
+          }
+        }
+      }
+    ],
+    "location": "信工502",
+    "icpc_id": "team248"
+  }
+]

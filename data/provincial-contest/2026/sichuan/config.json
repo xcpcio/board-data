@@ -1,0 +1,101 @@
+{
+  "contest_name": "第十八届四川省大学生程序设计竞赛 - 正式赛",
+  "start_time": 1780189200000,
+  "end_time": 1780207500000,
+  "penalty": 1200,
+  "frozen_time": 3900,
+  "problem_id": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L"
+  ],
+  "balloon_color": [
+    {
+      "color": "#000000",
+      "background_color": "#ff0000"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#ffa500"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#ffff00"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#1c6a35"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#0000ff"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#0aba85"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#b57edc"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#fb8a9c"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#8ac854"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#964b00"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#fedee4"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#add8e6"
+    }
+  ],
+  "status_time_display": {
+    "correct": true,
+    "incorrect": true,
+    "pending": true
+  },
+  "medal": {
+    "official": {
+      "gold": 20,
+      "silver": 39,
+      "bronze": 63
+    },
+    "vocation": {
+      "gold": 2,
+      "silver": 3,
+      "bronze": 3
+    }
+  },
+  "group": {
+    "official": "正式组",
+    "vocation": "高职组",
+    "girl": "女生组",
+    "unofficial": "打星组"
+  },
+  "options": {
+    "enable_organization": true,
+    "submission_timestamp_unit": "millisecond"
+  },
+  "organizations": {
+    "url": "organizations.json"
+  }
+}

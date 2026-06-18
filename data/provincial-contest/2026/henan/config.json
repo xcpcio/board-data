@@ -1,0 +1,92 @@
+{
+  "contest_name": "第 8 届 CCPC 河南省大学生程序设计竞赛 - 正式赛",
+  "start_time": 1778378400000,
+  "end_time": 1778396400000,
+  "penalty": 1200,
+  "frozen_time": 3600,
+  "problem_id": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L"
+  ],
+  "balloon_color": [
+    {
+      "color": "#000000",
+      "background_color": "#5a42a5"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#007800"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#f858b2"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#b2328a"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#95001a"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#00707b"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#cdb100"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#cb88a6"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#091169"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#c65218"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#042e22"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#b8c1ca"
+    }
+  ],
+  "status_time_display": {
+    "correct": true,
+    "incorrect": true,
+    "pending": true
+  },
+  "medal": "ccpc",
+  "group": {
+    "official": "正式队伍",
+    "unofficial": "打星队伍",
+    "girl": "女队"
+  },
+  "logo": {
+    "preset": "CCPC"
+  },
+  "options": {
+    "enable_organization": true,
+    "submission_timestamp_unit": "second"
+  },
+  "organizations": {
+    "url": "organizations.json"
+  }
+}

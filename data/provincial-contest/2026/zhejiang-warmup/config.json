@@ -1,0 +1,53 @@
+{
+  "contest_name": "「睿琪杯」浙江省第 23 届大学生程序设计竞赛 - 热身赛",
+  "start_time": 1777080600000,
+  "end_time": 1777086000000,
+  "penalty": 1200,
+  "frozen_time": 1800,
+  "problem_id": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "balloon_color": [
+    {
+      "color": "#000000",
+      "background_color": "#dc143c"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#ffc0cb"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#8228dc"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#ffff00"
+    }
+  ],
+  "status_time_display": {
+    "correct": true,
+    "incorrect": true,
+    "pending": true
+  },
+  "medal": {},
+  "group": {
+    "undergraduate": "本科组",
+    "vocational": "专科组",
+    "unofficial": "打星组",
+    "girl": "女队"
+  },
+  "logo": {
+    "preset": "ICPC"
+  },
+  "options": {
+    "enable_organization": true,
+    "submission_timestamp_unit": "millisecond"
+  },
+  "organizations": {
+    "url": "organizations.json"
+  }
+}

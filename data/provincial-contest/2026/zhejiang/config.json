@@ -1,0 +1,104 @@
+{
+  "contest_name": "「睿琪杯」浙江省第 23 届大学生程序设计竞赛",
+  "start_time": 1777089600000,
+  "end_time": 1777107600000,
+  "penalty": 1200,
+  "frozen_time": 3600,
+  "problem_id": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L",
+    "M"
+  ],
+  "balloon_color": [
+    {
+      "color": "#000000",
+      "background_color": "#dc143c"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#ffc0cb"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#8228dc"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#ffff00"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#ff8c00"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#c71585"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#87ceeb"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#adff2f"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#8b4513"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#f5f5f5"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#0a50fa"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#008000"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#000000"
+    }
+  ],
+  "status_time_display": {
+    "correct": true,
+    "incorrect": true,
+    "pending": true
+  },
+  "medal": {},
+  "group": {
+    "undergraduate": "本科组",
+    "vocational": "专科组",
+    "unofficial": "打星组",
+    "girl": "女队"
+  },
+  "logo": {
+    "preset": "ICPC"
+  },
+  "banner": {
+    "url": "provincial-contest/2026/zhejiang-assets/banner.min.jpg",
+    "mime": "image/jpeg",
+    "width": 5103,
+    "height": 880
+  },
+  "options": {
+    "enable_organization": true,
+    "submission_timestamp_unit": "millisecond"
+  },
+  "organizations": {
+    "url": "organizations.json"
+  }
+}
