@@ -1,0 +1,110 @@
+{
+  "contest_name": "The \"Huawei Cup\" 50th ICPC Asia East Continent Final Contest",
+  "start_time": 1769994300000,
+  "end_time": 1770012300000,
+  "penalty": 1200,
+  "frozen_time": 3600,
+  "problem_id": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L"
+  ],
+  "balloon_color": [
+    {
+      "color": "#000000",
+      "background_color": "#fc0000"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#fad2be"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#005aeb"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#fce646"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#a05ae6"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#ffc8e6"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#aadcff"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#00c346"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#dcb4ff"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#fc6e00"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#b9f06e"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#46ebff"
+    }
+  ],
+  "status_time_display": {
+    "correct": true,
+    "incorrect": true,
+    "pending": true
+  },
+  "medal": {
+    "official": {
+      "gold": 28,
+      "silver": 56,
+      "bronze": 84
+    }
+  },
+  "group": {
+    "official": "正式队伍",
+    "unofficial": "打星队伍"
+  },
+  "logo": {
+    "preset": "ICPC"
+  },
+  "banner": {
+    "url": "icpc/50th/ecfinal-assets/banner_v2_min_51d2c93.png",
+    "mime": "image/png",
+    "width": 15310,
+    "height": 2641
+  },
+  "banner_mode": "ONLY_BANNER",
+  "options": {
+    "enable_organization": true,
+    "submission_timestamp_unit": "millisecond"
+  },
+  "organizations": {
+    "url": "organizations.json"
+  },
+  "seat_map": {
+    "url": "seat_map.json"
+  },
+  "social_media": {
+    "bilibili": "https://www.bilibili.com/video/BV1DaFwzuEyq"
+  }
+}
