@@ -1,0 +1,2105 @@
+[
+  {
+    "id": "org-102",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Hebei University of Engineering",
+        "zh-CN": "河北工程大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-102.png"
+    },
+    "icpc_id": "8304"
+  },
+  {
+    "id": "org-139",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Southwestern University of Finance and Economics",
+        "zh-CN": "西南财经大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-139.png"
+    },
+    "icpc_id": "6220"
+  },
+  {
+    "id": "org-141",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Xidian University",
+        "zh-CN": "西安电子科技大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-141.png"
+    },
+    "icpc_id": "2724"
+  },
+  {
+    "id": "org-078",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Ningbo University of Finance & Economics",
+        "zh-CN": "宁波财经学院"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-078.png"
+    },
+    "icpc_id": "20086"
+  },
+  {
+    "id": "org-101",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Jiangxi Normal University",
+        "zh-CN": "江西师范大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-101.png"
+    },
+    "icpc_id": "3167"
+  },
+  {
+    "id": "org-034",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Peking University",
+        "zh-CN": "北京大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-034.png"
+    },
+    "icpc_id": "1438"
+  },
+  {
+    "id": "org-011",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Northeast Normal University",
+        "zh-CN": "东北师范大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-011.png"
+    },
+    "icpc_id": "1351"
+  },
+  {
+    "id": "org-007",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "ShanghaiTech University",
+        "zh-CN": "上海科技大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-007.png"
+    },
+    "icpc_id": "7666"
+  },
+  {
+    "id": "org-023",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "University of Chinese Academy of Sciences",
+        "zh-CN": "中国科学院大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-023.png"
+    },
+    "icpc_id": "7377"
+  },
+  {
+    "id": "org-099",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Jiangnan University",
+        "zh-CN": "江南大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-099.png"
+    },
+    "icpc_id": "4130"
+  },
+  {
+    "id": "org-084",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Guangdong University of Technology",
+        "zh-CN": "广东工业大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-084.png"
+    },
+    "icpc_id": "624"
+  },
+  {
+    "id": "org-004",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Shanghai University",
+        "zh-CN": "上海大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-004.png"
+    },
+    "icpc_id": "1672"
+  },
+  {
+    "id": "org-086",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "China Guangxi University",
+        "zh-CN": "广西大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-086.png"
+    },
+    "icpc_id": "5579"
+  },
+  {
+    "id": "org-129",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "University of Electronic Science and Technology of China",
+        "zh-CN": "电子科技大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-129.png"
+    },
+    "icpc_id": "1973"
+  },
+  {
+    "id": "org-080",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Shandong University",
+        "zh-CN": "山东大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-080.png"
+    },
+    "icpc_id": "1657"
+  },
+  {
+    "id": "org-054",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Nanjing University of Information Science & Technology",
+        "zh-CN": "南京信息工程大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-054.png"
+    },
+    "icpc_id": "4725"
+  },
+  {
+    "id": "org-056",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Nanjing University",
+        "zh-CN": "南京大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-056.png"
+    },
+    "icpc_id": "1268"
+  },
+  {
+    "id": "org-046",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "East China Normal University",
+        "zh-CN": "华东师范大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-046.png"
+    },
+    "icpc_id": "3108"
+  },
+  {
+    "id": "org-012",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Donghua University",
+        "zh-CN": "东华大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-012.png"
+    },
+    "icpc_id": "402"
+  },
+  {
+    "id": "org-128",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Hunan Normal University",
+        "zh-CN": "湖南师范大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-128.png"
+    },
+    "icpc_id": "4046"
+  },
+  {
+    "id": "org-124",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Tsinghua University",
+        "zh-CN": "清华大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-124.png"
+    },
+    "icpc_id": "2039"
+  },
+  {
+    "id": "org-039",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Beijing Forestry University",
+        "zh-CN": "北京林业大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-039.png"
+    },
+    "icpc_id": "2980"
+  },
+  {
+    "id": "org-018",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Communication University of China",
+        "zh-CN": "中国传媒大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-018.png"
+    },
+    "icpc_id": "2910"
+  },
+  {
+    "id": "org-125",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Wenzhou University",
+        "zh-CN": "温州大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-125.png"
+    },
+    "icpc_id": "3207"
+  },
+  {
+    "id": "org-130",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Fuzhou University",
+        "zh-CN": "福州大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-130.png"
+    },
+    "icpc_id": "585"
+  },
+  {
+    "id": "org-014",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Dongguan University of Technology",
+        "zh-CN": "东莞理工学院"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-014.png"
+    },
+    "icpc_id": "2757"
+  },
+  {
+    "id": "org-111",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Zhejiang A & F University",
+        "zh-CN": "浙江农林大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-111.png"
+    },
+    "icpc_id": "4578"
+  },
+  {
+    "id": "org-038",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Beijing University of Civil Engineering and Architecture",
+        "zh-CN": "北京建筑大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-038.png"
+    },
+    "icpc_id": "11814"
+  },
+  {
+    "id": "org-051",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "South China Agricultural University",
+        "zh-CN": "华南农业大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-051.png"
+    },
+    "icpc_id": "1738"
+  },
+  {
+    "id": "org-143",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Chongqing University",
+        "zh-CN": "重庆大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-143.png"
+    },
+    "icpc_id": "286"
+  },
+  {
+    "id": "org-060",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Nanjing University of Posts and Telecommunications",
+        "zh-CN": "南京邮电大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-060.png"
+    },
+    "icpc_id": "3181"
+  },
+  {
+    "id": "org-061",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Nankai University",
+        "zh-CN": "南开大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-061.png"
+    },
+    "icpc_id": "1272"
+  },
+  {
+    "id": "org-021",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "China University of Petroleum",
+        "zh-CN": "中国石油大学（华东）"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-021.png"
+    },
+    "icpc_id": "3068"
+  },
+  {
+    "id": "org-114",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Zhejiang Normal University",
+        "zh-CN": "浙江师范大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-114.png"
+    },
+    "icpc_id": "3220"
+  },
+  {
+    "id": "org-152",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "The Chinese University of Hong Kong, Shenzhen",
+        "zh-CN": "香港中文大学（深圳）"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-152.png"
+    },
+    "icpc_id": "10679"
+  },
+  {
+    "id": "org-045",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "North China University of Technology",
+        "zh-CN": "北方工业大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-045.png"
+    },
+    "icpc_id": "3187"
+  },
+  {
+    "id": "org-108",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "University of Jinan",
+        "zh-CN": "济南大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-108.png"
+    },
+    "icpc_id": "5436"
+  },
+  {
+    "id": "org-148",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Yangtze University",
+        "zh-CN": "长江大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-148.png"
+    },
+    "icpc_id": "20581"
+  },
+  {
+    "id": "org-042",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "University of Science and Technology Beijing",
+        "zh-CN": "北京科技大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-042.png"
+    },
+    "icpc_id": "3205"
+  },
+  {
+    "id": "org-081",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Shandong University, Weihai",
+        "zh-CN": "山东大学（威海）"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-081.png"
+    },
+    "icpc_id": "13858"
+  },
+  {
+    "id": "org-083",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Shandong University of Technology",
+        "zh-CN": "山东理工大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-083.png"
+    },
+    "icpc_id": "4055"
+  },
+  {
+    "id": "org-066",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Jilin University",
+        "zh-CN": "吉林大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-066.png"
+    },
+    "icpc_id": "944"
+  },
+  {
+    "id": "org-067",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Tongji University",
+        "zh-CN": "同济大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-067.png"
+    },
+    "icpc_id": "2019"
+  },
+  {
+    "id": "org-147",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Changchun University of Science and Technology",
+        "zh-CN": "长春理工大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-147.png"
+    },
+    "icpc_id": "2819"
+  },
+  {
+    "id": "org-157",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "The Hong Kong University of Science and Technology (Guangzhou)",
+        "zh-CN": "香港科技大学（广州）"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-157.png"
+    },
+    "icpc_id": "24540"
+  },
+  {
+    "id": "org-142",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Westlake University",
+        "zh-CN": "西湖大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-142.png"
+    },
+    "icpc_id": "20350"
+  },
+  {
+    "id": "org-140",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Xi'an Jiaotong University",
+        "zh-CN": "西安交通大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-140.png"
+    },
+    "icpc_id": "2720"
+  },
+  {
+    "id": "org-073",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Fudan University",
+        "zh-CN": "复旦大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-073.png"
+    },
+    "icpc_id": "574"
+  },
+  {
+    "id": "org-106",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Henan Polytechnic University",
+        "zh-CN": "河南理工大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-106.png"
+    },
+    "icpc_id": "3146"
+  },
+  {
+    "id": "org-013",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Southeast University, China",
+        "zh-CN": "东南大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-013.png"
+    },
+    "icpc_id": "4112"
+  },
+  {
+    "id": "org-146",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Chongqing University of Posts and Telecommunications",
+        "zh-CN": "重庆邮电大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-146.png"
+    },
+    "icpc_id": "3322"
+  },
+  {
+    "id": "org-025",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Zhongshan (Sun Yat-sen) University",
+        "zh-CN": "中山大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-025.png"
+    },
+    "icpc_id": "2755"
+  },
+  {
+    "id": "org-033",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Beijing University of Chemical Technology",
+        "zh-CN": "北京化工大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-033.png"
+    },
+    "icpc_id": "3122"
+  },
+  {
+    "id": "org-137",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Xihua University",
+        "zh-CN": "西华大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-137.png"
+    },
+    "icpc_id": "2725"
+  },
+  {
+    "id": "org-150",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Jimei University",
+        "zh-CN": "集美大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-150.png"
+    },
+    "icpc_id": "4064"
+  },
+  {
+    "id": "org-044",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Beijing University of Posts and Telecommunications",
+        "zh-CN": "北京邮电大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-044.png"
+    },
+    "icpc_id": "137"
+  },
+  {
+    "id": "org-052",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "South China Normal University",
+        "zh-CN": "华南师范大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-052.png"
+    },
+    "icpc_id": "1739"
+  },
+  {
+    "id": "org-024",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "China Jiliang University",
+        "zh-CN": "中国计量大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-024.png"
+    },
+    "icpc_id": "3129"
+  },
+  {
+    "id": "org-113",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Zhejiang University of Technology",
+        "zh-CN": "浙江工业大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-113.png"
+    },
+    "icpc_id": "2752"
+  },
+  {
+    "id": "org-031",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Beijing Jiaotong University",
+        "zh-CN": "北京交通大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-031.png"
+    },
+    "icpc_id": "2978"
+  },
+  {
+    "id": "org-020",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Civil Aviation University of China",
+        "zh-CN": "中国民航大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-020.png"
+    },
+    "icpc_id": "3057"
+  },
+  {
+    "id": "org-053",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "South China University of Technology",
+        "zh-CN": "华南理工大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-053.png"
+    },
+    "icpc_id": "1740"
+  },
+  {
+    "id": "org-071",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Sichuan University",
+        "zh-CN": "四川大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-071.png"
+    },
+    "icpc_id": "1709"
+  },
+  {
+    "id": "org-017",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Renmin University of China",
+        "zh-CN": "中国人民大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-017.png"
+    },
+    "icpc_id": "1528"
+  },
+  {
+    "id": "org-030",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "LanZhou University",
+        "zh-CN": "兰州大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-030.png"
+    },
+    "icpc_id": "1083"
+  },
+  {
+    "id": "org-037",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Beijing Normal University",
+        "zh-CN": "北京师范大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-037.png"
+    },
+    "icpc_id": "134"
+  },
+  {
+    "id": "org-107",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Hohai University",
+        "zh-CN": "河海大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-107.png"
+    },
+    "icpc_id": "3148"
+  },
+  {
+    "id": "org-122",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Shenzhen University",
+        "zh-CN": "深圳大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-122.png"
+    },
+    "icpc_id": "1679"
+  },
+  {
+    "id": "org-058",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Nanjing University of Science and Technology",
+        "zh-CN": "南京理工大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-058.png"
+    },
+    "icpc_id": "1271"
+  },
+  {
+    "id": "org-104",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Henan University",
+        "zh-CN": "河南大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-104.png"
+    },
+    "icpc_id": "3076"
+  },
+  {
+    "id": "org-085",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Guangzhou University",
+        "zh-CN": "广州大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-085.png"
+    },
+    "icpc_id": "2772"
+  },
+  {
+    "id": "org-151",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "The Chinese University of Hong Kong",
+        "zh-CN": "香港中文大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-151.png"
+    },
+    "icpc_id": "1942"
+  },
+  {
+    "id": "org-068",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Harbin Institute of Technology",
+        "zh-CN": "哈尔滨工业大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-068.png"
+    },
+    "icpc_id": "639"
+  },
+  {
+    "id": "org-154",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "University of Hong Kong",
+        "zh-CN": "香港大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-154.png"
+    },
+    "icpc_id": "1975"
+  },
+  {
+    "id": "org-136",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Northwestern Polytechnical University",
+        "zh-CN": "西北工业大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-136.png"
+    },
+    "icpc_id": "1361"
+  },
+  {
+    "id": "org-096",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Wuhan University",
+        "zh-CN": "武汉大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-096.png"
+    },
+    "icpc_id": "2714"
+  },
+  {
+    "id": "org-072",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "National University of Defense Technology",
+        "zh-CN": "国防科技大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-072.png"
+    },
+    "icpc_id": "1315"
+  },
+  {
+    "id": "org-064",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Xiamen University of Technology",
+        "zh-CN": "厦门理工学院"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-064.png"
+    },
+    "icpc_id": "4163"
+  },
+  {
+    "id": "org-100",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Jiangsu University",
+        "zh-CN": "江苏大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-100.png"
+    },
+    "icpc_id": "3976"
+  },
+  {
+    "id": "org-047",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "East China University of Science and Technology",
+        "zh-CN": "华东理工大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-047.png"
+    },
+    "icpc_id": "421"
+  },
+  {
+    "id": "org-003",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Shanghai Jiao Tong University",
+        "zh-CN": "上海交通大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-003.png"
+    },
+    "icpc_id": "1663"
+  },
+  {
+    "id": "org-075",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Dalian University of Technology",
+        "zh-CN": "大连理工大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-075.png"
+    },
+    "icpc_id": "357"
+  },
+  {
+    "id": "org-093",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Hangzhou Dianzi University",
+        "zh-CN": "杭州电子科技大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-093.png"
+    },
+    "icpc_id": "2956"
+  },
+  {
+    "id": "org-022",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "University of Science and Technology of China",
+        "zh-CN": "中国科学技术大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-022.png"
+    },
+    "icpc_id": "2505"
+  },
+  {
+    "id": "org-094",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Hangzhou Dianzi University - Information Engineering College",
+        "zh-CN": "杭州电子科技大学信息工程学院"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-094.png"
+    },
+    "icpc_id": "6267"
+  },
+  {
+    "id": "org-069",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Harbin Institute of Technology at Weihai",
+        "zh-CN": "哈尔滨工业大学（威海）"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-069.png"
+    },
+    "icpc_id": "2918"
+  },
+  {
+    "id": "org-008",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "New York University Shanghai",
+        "zh-CN": "上海纽约大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-008.png"
+    },
+    "icpc_id": "10311"
+  },
+  {
+    "id": "org-098",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Wuhan University of Science and Technology",
+        "zh-CN": "武汉科技大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-098.png"
+    },
+    "icpc_id": "6300"
+  },
+  {
+    "id": "org-049",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Huazhong University of Science and Technology",
+        "zh-CN": "华中科技大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-049.png"
+    },
+    "icpc_id": "13852"
+  },
+  {
+    "id": "org-097",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Wuhan University of Technology",
+        "zh-CN": "武汉理工大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-097.png"
+    },
+    "icpc_id": "3407"
+  },
+  {
+    "id": "org-062",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Southern University of Science and Technology",
+        "zh-CN": "南方科技大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-062.png"
+    },
+    "icpc_id": "7255"
+  },
+  {
+    "id": "org-009",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Northeastern University (China)",
+        "zh-CN": "东北大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-009.png"
+    },
+    "icpc_id": "2825"
+  },
+  {
+    "id": "org-035",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Beijing University of Technology",
+        "zh-CN": "北京工业大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-035.png"
+    },
+    "icpc_id": "138"
+  },
+  {
+    "id": "org-156",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Hong Kong University of Science and Technology",
+        "zh-CN": "香港科技大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-156.png"
+    },
+    "icpc_id": "1950"
+  },
+  {
+    "id": "org-127",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Hunan University",
+        "zh-CN": "湖南大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-127.png"
+    },
+    "icpc_id": "680"
+  },
+  {
+    "id": "org-006",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "University of Shanghai for Science and Technology",
+        "zh-CN": "上海理工大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-006.png"
+    },
+    "icpc_id": "2509"
+  },
+  {
+    "id": "org-134",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Soochow University, China",
+        "zh-CN": "苏州大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-134.png"
+    },
+    "icpc_id": "3195"
+  },
+  {
+    "id": "org-063",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Xiamen University",
+        "zh-CN": "厦门大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-063.png"
+    },
+    "icpc_id": "2723"
+  },
+  {
+    "id": "org-070",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Harbin Institute of Technology at Shenzhen",
+        "zh-CN": "哈尔滨工业大学（深圳）"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-070.png"
+    },
+    "icpc_id": "9167"
+  },
+  {
+    "id": "org-103",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Henan Agricultural University",
+        "zh-CN": "河南农业大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-103.png"
+    },
+    "icpc_id": "649"
+  },
+  {
+    "id": "org-131",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Fujian University of Technology",
+        "zh-CN": "福建理工大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-131.png"
+    },
+    "icpc_id": "3113"
+  },
+  {
+    "id": "org-087",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Chengdu University of Information Technology",
+        "zh-CN": "成都信息工程大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-087.png"
+    },
+    "icpc_id": "3349"
+  },
+  {
+    "id": "org-043",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Beihang University",
+        "zh-CN": "北京航空航天大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-043.png"
+    },
+    "icpc_id": "3120"
+  },
+  {
+    "id": "org-059",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Nanjing University of Aeronautics and Astronautics",
+        "zh-CN": "南京航空航天大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-059.png"
+    },
+    "icpc_id": "3178"
+  },
+  {
+    "id": "org-109",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Hangzhou City University",
+        "zh-CN": "浙大城市学院"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-109.png"
+    },
+    "icpc_id": "23156"
+  },
+  {
+    "id": "org-123",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Shenzhen Technology University",
+        "zh-CN": "深圳技术大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-123.png"
+    },
+    "icpc_id": "10908"
+  },
+  {
+    "id": "org-090",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Jinan University",
+        "zh-CN": "暨南大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-090.png"
+    },
+    "icpc_id": "945"
+  },
+  {
+    "id": "org-076",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Tianjin University",
+        "zh-CN": "天津大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-076.png"
+    },
+    "icpc_id": "9556"
+  },
+  {
+    "id": "org-041",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Beijing Institute of Technology",
+        "zh-CN": "北京理工大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-041.png"
+    },
+    "icpc_id": "133"
+  },
+  {
+    "id": "org-115",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Zhejiang Sci-Tech University",
+        "zh-CN": "浙江理工大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-115.png"
+    },
+    "icpc_id": "2884"
+  },
+  {
+    "id": "org-144",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Chongqing Institute of Engineering",
+        "zh-CN": "重庆工程学院"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-144.png"
+    },
+    "icpc_id": "14622"
+  },
+  {
+    "id": "org-079",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Anhui University",
+        "zh-CN": "安徽大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-079.png"
+    },
+    "icpc_id": "3118"
+  },
+  {
+    "id": "org-015",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Central South University",
+        "zh-CN": "中南大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-015.png"
+    },
+    "icpc_id": "245"
+  },
+  {
+    "id": "org-112",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Zhejiang University",
+        "zh-CN": "浙江大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-112.png"
+    },
+    "icpc_id": "2751"
+  },
+  {
+    "id": "org-019",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "China University of Geosciences, Beijing",
+        "zh-CN": "中国地质大学（北京）"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-019.png"
+    },
+    "icpc_id": "3130"
+  },
+  {
+    "id": "org-135",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Northwest University",
+        "zh-CN": "西北大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-135.png"
+    },
+    "icpc_id": "6756"
+  },
+  {
+    "id": "org-032",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Beijing Information Science and Technology University",
+        "zh-CN": "北京信息科技大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-032.png"
+    },
+    "icpc_id": "4746"
+  },
+  {
+    "id": "org-145",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Chongqing University of Technology",
+        "zh-CN": "重庆理工大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-145.png"
+    },
+    "icpc_id": "22989"
+  },
+  {
+    "id": "org-074",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Dalian Maritime University",
+        "zh-CN": "大连海事大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-074.png"
+    },
+    "icpc_id": "2817"
+  },
+  {
+    "id": "org-155",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Hong Kong Polytechnic University",
+        "zh-CN": "香港理工大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-155.png"
+    },
+    "icpc_id": "1949"
+  },
+  {
+    "id": "org-153",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "City University of Hong Kong",
+        "zh-CN": "香港城市大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-153.png"
+    },
+    "icpc_id": "308"
+  },
+  {
+    "id": "org-092",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Hangzhou Normal University",
+        "zh-CN": "杭州师范大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-092.png"
+    },
+    "icpc_id": "3491"
+  },
+  {
+    "id": "org-010",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Northeastern University at Qinhuangdao",
+        "zh-CN": "东北大学秦皇岛分校"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-010.png"
+    },
+    "icpc_id": "6254"
+  },
+  {
+    "id": "org-126",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Hubei University of Technology",
+        "zh-CN": "湖北工业大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-126.png"
+    },
+    "icpc_id": "10929"
+  },
+  {
+    "id": "org-057",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Nanjing Institute of Technology",
+        "zh-CN": "南京工程学院"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-057.png"
+    },
+    "icpc_id": "24807"
+  },
+  {
+    "id": "org-149",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Changsha University of Science and Technology",
+        "zh-CN": "长沙理工大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-149.png"
+    },
+    "icpc_id": "3126"
+  },
+  {
+    "id": "org-027",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Yunnan University",
+        "zh-CN": "云南大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-027.png"
+    },
+    "icpc_id": "3213"
+  },
+  {
+    "id": "org-089",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Xinjiang University",
+        "zh-CN": "新疆大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-089.png"
+    },
+    "icpc_id": "6191"
+  },
+  {
+    "id": "org-138",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "SouthWest Minzu University",
+        "zh-CN": "西南民族大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-138.png"
+    },
+    "icpc_id": "3043"
+  },
+  {
+    "id": "org-082",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Shandong Normal University",
+        "zh-CN": "山东师范大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-082.png"
+    },
+    "icpc_id": "1656"
+  },
+  {
+    "id": "org-048",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Huazhong Agricultural University",
+        "zh-CN": "华中农业大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-048.png"
+    },
+    "icpc_id": "5385"
+  },
+  {
+    "id": "org-105",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Henan Normal University",
+        "zh-CN": "河南师范大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-105.png"
+    },
+    "icpc_id": "3366"
+  },
+  {
+    "id": "org-095",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Wuchang Shouyi University",
+        "zh-CN": "武昌首义学院"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-095.png"
+    },
+    "icpc_id": "10166"
+  },
+  {
+    "id": "org-088",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Chengdu University of Technology",
+        "zh-CN": "成都理工大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-088.png"
+    },
+    "icpc_id": "6749"
+  },
+  {
+    "id": "org-120",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Zhejiang University of Science & Technology",
+        "zh-CN": "浙江科技大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-120.png"
+    },
+    "icpc_id": "3039"
+  },
+  {
+    "id": "org-065",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Taizhou University",
+        "zh-CN": "台州学院"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-065.png"
+    },
+    "icpc_id": "3200"
+  },
+  {
+    "id": "org-016",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "South-Central Minzu University",
+        "zh-CN": "中南民族大学"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-016.png"
+    },
+    "icpc_id": "4271"
+  },
+  {
+    "id": "org-132",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Shaoxing Institute of Technology",
+        "zh-CN": "绍兴理工学院"
+      }
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-132.png"
+    },
+    "icpc_id": "4576"
+  },
+  {
+    "id": "org-002",
+    "name": {
+      "fallback": "Citadel"
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-002.png"
+    }
+  },
+  {
+    "id": "org-133",
+    "name": {
+      "fallback": "腾讯科技（深圳）有限公司"
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-133.png"
+    }
+  },
+  {
+    "id": "org-055",
+    "name": {
+      "fallback": "南京外国语学校"
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-055.png"
+    }
+  },
+  {
+    "id": "org-077",
+    "name": {
+      "fallback": "宁波市镇海中学"
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-077.png"
+    }
+  },
+  {
+    "id": "org-029",
+    "name": {
+      "fallback": "信友队教育科技有限公司"
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-029.png"
+    }
+  },
+  {
+    "id": "org-119",
+    "name": {
+      "fallback": "浙江省诸暨市海亮高级中学"
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-119.png"
+    }
+  },
+  {
+    "id": "org-040",
+    "name": {
+      "fallback": "北京梦熊科技发展有限责任公司"
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-040.png"
+    }
+  },
+  {
+    "id": "org-121",
+    "name": {
+      "fallback": "浙江金华第一中学"
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-121.png"
+    }
+  },
+  {
+    "id": "org-036",
+    "name": {
+      "fallback": "北京市十一学校"
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-036.png"
+    }
+  },
+  {
+    "id": "org-001",
+    "name": {
+      "fallback": "Carnegie Mellon University"
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-001.png"
+    }
+  },
+  {
+    "id": "org-050",
+    "name": {
+      "fallback": "华为技术有限公司"
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-050.png"
+    }
+  },
+  {
+    "id": "org-117",
+    "name": {
+      "fallback": "浙江省杭州第二中学"
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-117.png"
+    }
+  },
+  {
+    "id": "org-118",
+    "name": {
+      "fallback": "浙江省萧山中学"
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-118.png"
+    }
+  },
+  {
+    "id": "org-005",
+    "name": {
+      "fallback": "上海市曹杨第二中学"
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-005.png"
+    }
+  },
+  {
+    "id": "org-028",
+    "name": {
+      "fallback": "代码源"
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-028.png"
+    }
+  },
+  {
+    "id": "org-116",
+    "name": {
+      "fallback": "浙江省余姚中学"
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-116.png"
+    }
+  },
+  {
+    "id": "org-110",
+    "name": {
+      "fallback": "浙江中医药大学"
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-110.png"
+    }
+  },
+  {
+    "id": "org-026",
+    "name": {
+      "fallback": "乾象投资"
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-026.png"
+    }
+  },
+  {
+    "id": "org-091",
+    "name": {
+      "fallback": "杭州学军中学"
+    },
+    "logo": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/ecfinal/organizations/logos/org-091.png"
+    }
+  }
+]
