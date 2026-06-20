@@ -96,7 +96,7 @@
   "options": {
     "submission_timestamp_unit": "millisecond",
     "team_photo_url_template": {
-      "url": "https://data.icpc.site/50th/xian/teams/${team_id}.jpg",
+      "url": "https://r2.xcpcio.com/images/icpc/50th/xian/teams/${team_id}.jpg",
       "mime": "image/jpeg",
       "width": 1620,
       "height": 1080
