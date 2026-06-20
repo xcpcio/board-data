@@ -4,13 +4,15 @@
 
 [![License][license-image-mit]][license-link-mit]
 ![Repo Size](https://img.shields.io/github/repo-size/XCPCIO/board-data.svg)
-[![Deploy](https://github.com/XCPCIO/board-data/actions/workflows/deploy.yml/badge.svg)](https://github.com/XCPCIO/board-data/actions/workflows/deploy.yml)
 
 ## Development
 
 ```bash
 # generate index
 uv run ./python/gen_contest_list.py
+
+# generate site
+uv run ./python/create_site.py
 
 # start a http server
 ./start.sh
