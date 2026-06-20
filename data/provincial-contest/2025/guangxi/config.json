@@ -1,0 +1,114 @@
+{
+	"contest_name": "第八届广西大学生程序设计大赛暨2025邀请赛",
+	"start_time": 1748134800,
+	"end_time": 1748152800,
+	"frozen_time": 3600,
+	"problem_quantity": 12,
+	"problem_id": [
+		"A",
+		"B",
+		"C",
+		"D",
+		"E",
+		"F",
+		"G",
+		"H",
+		"I",
+		"J",
+		"K",
+		"L"
+	],
+	"group": {
+		"official": "区内本科组",
+		"unofficial": "打星组",
+		"invite": "邀请赛组",
+		"gaozhi": "高职专科组",
+		"xx": "中小学组",
+		"girls": "女队"
+	},
+	"organization": "School",
+	"status_time_display": {
+		"correct": 1,
+		"incorrect": 1,
+		"pending": 1
+	},
+	"penalty": 1200,
+	"medal": {
+		"official": {
+			"gold": 11,
+			"silver": 15,
+			"bronze": 25
+		},
+		"invite": {
+			"gold": 15,
+			"silver": 21,
+			"bronze": 19
+		},
+		"xx": {
+			"gold": 4,
+			"silver": 7,
+			"bronze": 10
+		},
+		"gaozhi": {
+			"gold": 1,
+			"silver": 2,
+			"bronze": 2
+		}
+	},
+	"balloon_color": [
+		{
+			"background_color": "rgba(189, 14, 14, 0.7)",
+			"color": "#fff"
+		},
+		{
+			"background_color": "rgba(255, 144, 228, 0.7)",
+			"color": "#fff"
+		},
+		{
+			"background_color": "rgba(255, 255, 255, 0.7)",
+			"color": "#000"
+		},
+		{
+			"background_color": "rgba(38, 185, 60, 0.7)",
+			"color": "#fff"
+		},
+		{
+			"background_color": "rgba(239, 217, 9, 0.7)",
+			"color": "#000"
+		},
+		{
+			"background_color": "rgba(243, 88, 20, 0.7)",
+			"color": "#fff"
+		},
+		{
+			"background_color": "rgba(12, 76, 138, 0.7)",
+			"color": "#fff"
+		},
+		{
+			"background_color": "rgba(156, 155, 155, 0.7)",
+			"color": "#fff"
+		},
+		{
+			"background_color": "rgba(4, 154, 115, 0.7)",
+			"color": "#fff"
+		},
+		{
+			"background_color": "rgba(159, 19, 236, 0.7)",
+			"color": "#fff"
+		},
+		{
+			"background_color": "rgba(42, 197, 202, 0.7)",
+			"color": "#fff"
+		},
+		{
+			"background_color": "rgba(142, 56, 54, 0.7)",
+			"color": "#fff"
+		}
+	],
+	"logo": {
+		"preset": "CCPC"
+	},
+	"options": {
+		"enable_organization": true
+	}
+}
