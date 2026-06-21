@@ -230,7 +230,7 @@ dev = [
 [package.metadata]
 requires-dist = [
     { name = "click", specifier = ">=8.3.1" },
-    { name = "xcpcio", specifier = ">=0.76.2" },
+    { name = "xcpcio", specifier = ">=0.85.3" },
 ]
 
 [package.metadata.requires-dev]
@@ -1216,6 +1216,15 @@ wheels = [
 ]
 
 [[package]]
+name = "truststore"
+version = "0.10.4"
+source = { registry = "https://pypi.org/simple" }
+sdist = { url = "https://files.pythonhosted.org/packages/53/a3/1585216310e344e8102c22482f6060c7a6ea0322b63e026372e6dcefcfd6/truststore-0.10.4.tar.gz", hash = "sha256:9d91bd436463ad5e4ee4aba766628dd6cd7010cf3e2461756b3303710eebc301", size = 26169, upload-time = "2025-08-12T18:49:02.73Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/19/97/56608b2249fe206a67cd573bc93cd9896e1efb9e98bce9c163bcdc704b88/truststore-0.10.4-py3-none-any.whl", hash = "sha256:adaeaecf1cbb5f4de3b1959b42d41f6fab57b2b1666adb59e89cb0b53361d981", size = 18660, upload-time = "2025-08-12T18:49:01.46Z" },
+]
+
+[[package]]
 name = "typing-extensions"
 version = "4.15.0"
 source = { registry = "https://pypi.org/simple" }
@@ -1303,7 +1312,7 @@ wheels = [
 
 [[package]]
 name = "xcpcio"
-version = "0.76.2"
+version = "0.85.3"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "aiofiles" },
@@ -1314,12 +1323,13 @@ dependencies = [
     { name = "pyyaml" },
     { name = "semver" },
     { name = "tenacity" },
+    { name = "truststore" },
     { name = "uvicorn" },
     { name = "zstandard" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/09/b7/20b370b227bf915484056fcbd8f2dd6396381f1ff9434423959966e6767f/xcpcio-0.76.2.tar.gz", hash = "sha256:7fd96b27f8285900f66b0216c43f27433bf2d19c338cbb9e630b99b357b2fc4c", size = 116022, upload-time = "2025-12-07T04:37:29.248Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/9b/8c/4194363ef050547f7f6250ccdbf2606ab9eac888e2b0c8f844bccaae372b/xcpcio-0.85.3.tar.gz", hash = "sha256:64a0de12209babdd688449bc2b85bc2093018bde74fffcd50e9a94d7f20bf407", size = 117002, upload-time = "2026-06-20T14:59:07.131Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/94/9f/9b80afeaac55afc085459ccba8ca0fea64fe3238519b374a5240b90a0649/xcpcio-0.76.2-py3-none-any.whl", hash = "sha256:cdfe5f7a35d48e28a35292604fa467db94153679036519b5f3261ae9c7b8d32e", size = 43737, upload-time = "2025-12-07T04:37:28.261Z" },
+    { url = "https://files.pythonhosted.org/packages/42/c9/abcf6bea58deec10b0ff3e854bb86b82cc7bb00627526baf3a44754c2747/xcpcio-0.85.3-py3-none-any.whl", hash = "sha256:66aae7502ae5a043d4c83e88606a422959d5f1dabe4183cd29543f24e1e78f16", size = 44764, upload-time = "2026-06-20T14:59:06.033Z" },
 ]
 
 [[package]]
