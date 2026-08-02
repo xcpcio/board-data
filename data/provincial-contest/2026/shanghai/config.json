@@ -1,0 +1,88 @@
+{
+  "contest_name": "“华为智联杯”无线程序设计大赛暨2026年上海市大学生程序设计竞赛",
+  "start_time": 1785031200000,
+  "end_time": 1785045600000,
+  "penalty": 1200,
+  "frozen_time": 3600,
+  "problem_id": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J"
+  ],
+  "balloon_color": [
+    {
+      "color": "#000000",
+      "background_color": "#000000"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#0000ff"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#c0c0c0"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#ff0000"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#00ffff"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#ffa500"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#ffd700"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#ffc0cb"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#008000"
+    },
+    {
+      "color": "#000000",
+      "background_color": "#800080"
+    }
+  ],
+  "status_time_display": {
+    "correct": true,
+    "incorrect": true,
+    "pending": true
+  },
+  "medal": {
+    "official": {
+      "gold": 14,
+      "silver": 28,
+      "bronze": 42
+    }
+  },
+  "group": {
+    "official": "正式队伍",
+    "unofficial": "打星队伍"
+  },
+  "options": {
+    "enable_organization": true,
+    "submission_timestamp_unit": "millisecond",
+    "organization_logo_template": {
+      "url": "https://r2.xcpcio.com/images/provincial-contest/2026/shanghai/organizations/${organization_id}.png",
+      "mime": "image/png"
+    }
+  },
+  "organizations": {
+    "url": "organizations.json"
+  }
+}
