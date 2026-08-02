@@ -43,6 +43,15 @@
   },
   "options": {
     "submission_timestamp_unit": "millisecond",
-    "enable_organization": true
+    "enable_organization": true,
+    "organization_logo_template": {
+      "url": "https://r2.xcpcio.com/images/icpc/50th/hongkong/organizations/${organization_id}.png",
+      "mime": "image/png",
+      "width": 320,
+      "height": 320
+    }
+  },
+  "organizations": {
+    "url": "organizations.json"
   }
 }
