@@ -1,5 +1,5 @@
-{
-  "302029": {
+[
+  {
     "team_id": "302029",
     "name": "旅行者",
     "organization": "广东工业大学",
@@ -12,7 +12,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "102040": {
+  {
     "team_id": "102040",
     "name": " 0代码选手s",
     "organization": "郑州轻工业大学",
@@ -25,7 +25,7 @@
     "unofficial": false,
     "girl": false
   },
-  "302023": {
+  {
     "team_id": "302023",
     "name": "杭电18队",
     "organization": "杭州电子科技大学",
@@ -38,7 +38,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "201027": {
+  {
     "team_id": "201027",
     "name": "捧杯的梦想",
     "organization": "郑州大学",
@@ -51,7 +51,7 @@
     "unofficial": false,
     "girl": false
   },
-  "202002": {
+  {
     "team_id": "202002",
     "name": "莫比乌斯反卷",
     "organization": "河南农业大学",
@@ -64,7 +64,7 @@
     "unofficial": false,
     "girl": false
   },
-  "202040": {
+  {
     "team_id": "202040",
     "name": "拏云",
     "organization": "河南大学",
@@ -77,7 +77,7 @@
     "unofficial": false,
     "girl": false
   },
-  "316022": {
+  {
     "team_id": "316022",
     "name": "Decretum",
     "organization": "河南工业大学",
@@ -90,7 +90,7 @@
     "unofficial": false,
     "girl": false
   },
-  "301008": {
+  {
     "team_id": "301008",
     "name": "她说他很重要",
     "organization": "河南大学",
@@ -103,7 +103,7 @@
     "unofficial": false,
     "girl": false
   },
-  "301028": {
+  {
     "team_id": "301028",
     "name": "望星",
     "organization": "河南大学",
@@ -116,7 +116,7 @@
     "unofficial": false,
     "girl": false
   },
-  "302004": {
+  {
     "team_id": "302004",
     "name": "杭电17队",
     "organization": "杭州电子科技大学",
@@ -129,7 +129,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "202020": {
+  {
     "team_id": "202020",
     "name": "零异事件",
     "organization": "河南大学",
@@ -142,7 +142,7 @@
     "unofficial": false,
     "girl": false
   },
-  "102014": {
+  {
     "team_id": "102014",
     "name": "将故事写成我们",
     "organization": "河南工业大学",
@@ -155,7 +155,7 @@
     "unofficial": false,
     "girl": false
   },
-  "302009": {
+  {
     "team_id": "302009",
     "name": "遇到问题先喝茶",
     "organization": "广东工业大学",
@@ -168,7 +168,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "316036": {
+  {
     "team_id": "316036",
     "name": "零基础,学IT,月薪过万,就来黑马程序员",
     "organization": "平顶山学院",
@@ -181,7 +181,7 @@
     "unofficial": false,
     "girl": false
   },
-  "202027": {
+  {
     "team_id": "202027",
     "name": "快要神智不清了",
     "organization": "郑州轻工业大学",
@@ -194,7 +194,7 @@
     "unofficial": false,
     "girl": false
   },
-  "302019": {
+  {
     "team_id": "302019",
     "name": "三地鼠",
     "organization": "广东工业大学",
@@ -207,7 +207,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "316030": {
+  {
     "team_id": "316030",
     "name": "神里绫华",
     "organization": "周口师范学院",
@@ -220,7 +220,7 @@
     "unofficial": false,
     "girl": false
   },
-  "316021": {
+  {
     "team_id": "316021",
     "name": "wawa自动机",
     "organization": "河南财政金融学院",
@@ -233,7 +233,7 @@
     "unofficial": false,
     "girl": false
   },
-  "215025": {
+  {
     "team_id": "215025",
     "name": "HPUCST-退役老人旅游观光",
     "organization": "河南理工大学",
@@ -246,7 +246,7 @@
     "unofficial": false,
     "girl": false
   },
-  "215043": {
+  {
     "team_id": "215043",
     "name": "来个队名",
     "organization": "河南财经政法大学",
@@ -259,7 +259,7 @@
     "unofficial": false,
     "girl": false
   },
-  "202011": {
+  {
     "team_id": "202011",
     "name": "菜的一批之带妹妹",
     "organization": "河南科技大学",
@@ -272,7 +272,7 @@
     "unofficial": false,
     "girl": false
   },
-  "316027": {
+  {
     "team_id": "316027",
     "name": "仲夏夜之梦",
     "organization": "战略支援部队信息工程大学",
@@ -285,7 +285,7 @@
     "unofficial": false,
     "girl": false
   },
-  "102042": {
+  {
     "team_id": "102042",
     "name": "急切想要答案",
     "organization": "安阳工学院",
@@ -298,7 +298,7 @@
     "unofficial": false,
     "girl": false
   },
-  "202009": {
+  {
     "team_id": "202009",
     "name": "做猫做狗不做银首",
     "organization": "安阳工学院",
@@ -311,7 +311,7 @@
     "unofficial": false,
     "girl": false
   },
-  "302030": {
+  {
     "team_id": "302030",
     "name": "你再怎么喷我也没用，我已经努力A题了啊",
     "organization": "南阳理工学院",
@@ -324,7 +324,7 @@
     "unofficial": false,
     "girl": false
   },
-  "102029": {
+  {
     "team_id": "102029",
     "name": "孔乙己在流水线上哭着要回古代",
     "organization": "郑州大学",
@@ -337,7 +337,7 @@
     "unofficial": false,
     "girl": false
   },
-  "201033": {
+  {
     "team_id": "201033",
     "name": "黑洞里的一条飞狗",
     "organization": "河南农业大学",
@@ -350,7 +350,7 @@
     "unofficial": false,
     "girl": false
   },
-  "202016": {
+  {
     "team_id": "202016",
     "name": "日子会越来越甜的",
     "organization": "郑州大学",
@@ -363,7 +363,7 @@
     "unofficial": false,
     "girl": false
   },
-  "201018": {
+  {
     "team_id": "201018",
     "name": "Finale",
     "organization": "郑州轻大",
@@ -371,7 +371,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "102039": {
+  {
     "team_id": "102039",
     "name": "扣1送派派传家宝",
     "organization": "郑州大学",
@@ -384,7 +384,7 @@
     "unofficial": false,
     "girl": false
   },
-  "201031": {
+  {
     "team_id": "201031",
     "name": "xzgg爱上我",
     "organization": "河南大学",
@@ -397,7 +397,7 @@
     "unofficial": false,
     "girl": false
   },
-  "302033": {
+  {
     "team_id": "302033",
     "name": "这里是中文名",
     "organization": "郑州轻工业大学",
@@ -410,7 +410,7 @@
     "unofficial": false,
     "girl": false
   },
-  "302040": {
+  {
     "team_id": "302040",
     "name": "神奇动物AC园",
     "organization": "南阳理工学院",
@@ -423,7 +423,7 @@
     "unofficial": false,
     "girl": false
   },
-  "302043": {
+  {
     "team_id": "302043",
     "name": "#define int long long",
     "organization": "郑州轻大",
@@ -431,7 +431,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "402020": {
+  {
     "team_id": "402020",
     "name": "F1appy_b0ys",
     "organization": "战略支援部队信息工程大学",
@@ -444,7 +444,7 @@
     "unofficial": false,
     "girl": false
   },
-  "316005": {
+  {
     "team_id": "316005",
     "name": "無限好运",
     "organization": "黄淮学院",
@@ -457,7 +457,7 @@
     "unofficial": false,
     "girl": false
   },
-  "316042": {
+  {
     "team_id": "316042",
     "name": "从零开始的AC",
     "organization": "河南工业大学",
@@ -470,7 +470,7 @@
     "unofficial": false,
     "girl": false
   },
-  "302035": {
+  {
     "team_id": "302035",
     "name": "茶餐厅",
     "organization": "广东工业大学",
@@ -483,7 +483,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "302003": {
+  {
     "team_id": "302003",
     "name": "网恋辰砂被骗百万树脂",
     "organization": "郑州轻工业大学",
@@ -496,7 +496,7 @@
     "unofficial": false,
     "girl": 1
   },
-  "301020": {
+  {
     "team_id": "301020",
     "name": "打完就去考公",
     "organization": "河南师范大学",
@@ -509,7 +509,7 @@
     "unofficial": false,
     "girl": false
   },
-  "201008": {
+  {
     "team_id": "201008",
     "name": "alt+f4一键榜一",
     "organization": "郑州轻工业大学",
@@ -522,7 +522,7 @@
     "unofficial": false,
     "girl": false
   },
-  "102024": {
+  {
     "team_id": "102024",
     "name": "消失的雪豹",
     "organization": "河南工业大学",
@@ -535,7 +535,7 @@
     "unofficial": false,
     "girl": false
   },
-  "302034": {
+  {
     "team_id": "302034",
     "name": "ak_感觉不如原神",
     "organization": "中原工学院",
@@ -548,7 +548,7 @@
     "unofficial": false,
     "girl": false
   },
-  "316011": {
+  {
     "team_id": "316011",
     "name": "老年选手在线挨打",
     "organization": "河南财经政法大学",
@@ -561,7 +561,7 @@
     "unofficial": false,
     "girl": false
   },
-  "202026": {
+  {
     "team_id": "202026",
     "name": "我从未离去",
     "organization": "郑州大学",
@@ -574,7 +574,7 @@
     "unofficial": false,
     "girl": false
   },
-  "202037": {
+  {
     "team_id": "202037",
     "name": "蓝色一望无际",
     "organization": "郑州轻工业大学",
@@ -587,7 +587,7 @@
     "unofficial": false,
     "girl": false
   },
-  "202030": {
+  {
     "team_id": "202030",
     "name": "没人理解C++",
     "organization": "河南大学",
@@ -600,7 +600,7 @@
     "unofficial": false,
     "girl": false
   },
-  "202042": {
+  {
     "team_id": "202042",
     "name": "汪汪大队",
     "organization": "河南农业大学",
@@ -613,7 +613,7 @@
     "unofficial": false,
     "girl": false
   },
-  "302028": {
+  {
     "team_id": "302028",
     "name": "机你太美",
     "organization": "河南师范大学",
@@ -626,7 +626,7 @@
     "unofficial": false,
     "girl": false
   },
-  "316012": {
+  {
     "team_id": "316012",
     "name": "真、摸鱼小队",
     "organization": "河南工程学院",
@@ -639,7 +639,7 @@
     "unofficial": false,
     "girl": false
   },
-  "402023": {
+  {
     "team_id": "402023",
     "name": "xyz",
     "organization": "中原工学院",
@@ -652,7 +652,7 @@
     "unofficial": false,
     "girl": false
   },
-  "215009": {
+  {
     "team_id": "215009",
     "name": "老村长",
     "organization": "战略支援部队信息工程大学",
@@ -665,7 +665,7 @@
     "unofficial": false,
     "girl": false
   },
-  "201034": {
+  {
     "team_id": "201034",
     "name": "赛客黑马",
     "organization": "华北水利水电大学",
@@ -678,7 +678,7 @@
     "unofficial": false,
     "girl": false
   },
-  "402009": {
+  {
     "team_id": "402009",
     "name": "我大抵熬不过这场了，单等队友ac就心烦",
     "organization": "南阳理工学院",
@@ -691,7 +691,7 @@
     "unofficial": false,
     "girl": false
   },
-  "402016": {
+  {
     "team_id": "402016",
     "name": "HPUCST-不打了",
     "organization": "河南理工大学",
@@ -704,7 +704,7 @@
     "unofficial": false,
     "girl": false
   },
-  "202022": {
+  {
     "team_id": "202022",
     "name": "神奇酸奶",
     "organization": "河南农业大学",
@@ -717,7 +717,7 @@
     "unofficial": false,
     "girl": false
   },
-  "102012": {
+  {
     "team_id": "102012",
     "name": "抱歉，集美们",
     "organization": "安阳工学院",
@@ -730,7 +730,7 @@
     "unofficial": false,
     "girl": 1
   },
-  "215008": {
+  {
     "team_id": "215008",
     "name": "一眼丁真鉴定为AC",
     "organization": "南阳理工学院",
@@ -743,7 +743,7 @@
     "unofficial": false,
     "girl": false
   },
-  "402039": {
+  {
     "team_id": "402039",
     "name": "一林子成双的猪",
     "organization": "南阳理工学院",
@@ -756,7 +756,7 @@
     "unofficial": false,
     "girl": 1
   },
-  "201019": {
+  {
     "team_id": "201019",
     "name": "一拖二",
     "organization": "郑州升达经贸管理学院",
@@ -769,7 +769,7 @@
     "unofficial": false,
     "girl": false
   },
-  "302010": {
+  {
     "team_id": "302010",
     "name": "好饿啊，早知道就不打ACM，感觉不如《》",
     "organization": "南阳理工学院",
@@ -782,7 +782,7 @@
     "unofficial": false,
     "girl": false
   },
-  "402036": {
+  {
     "team_id": "402036",
     "name": "HPUCST-还真是",
     "organization": "河南理工大学",
@@ -795,7 +795,7 @@
     "unofficial": false,
     "girl": false
   },
-  "102043": {
+  {
     "team_id": "102043",
     "name": "可她总在梦里",
     "organization": "河南城建学院",
@@ -808,7 +808,7 @@
     "unofficial": false,
     "girl": false
   },
-  "302025": {
+  {
     "team_id": "302025",
     "name": "昏睡红茶打铁队",
     "organization": "东华理工大学",
@@ -821,7 +821,7 @@
     "unofficial": false,
     "girl": false
   },
-  "402026": {
+  {
     "team_id": "402026",
     "name": "HPUCST-纯路人",
     "organization": "河南理工大学",
@@ -834,7 +834,7 @@
     "unofficial": false,
     "girl": false
   },
-  "201030": {
+  {
     "team_id": "201030",
     "name": "想不到名字啊",
     "organization": "安阳工学院",
@@ -847,7 +847,7 @@
     "unofficial": false,
     "girl": false
   },
-  "215035": {
+  {
     "team_id": "215035",
     "name": "HPUCST-我不想走回河理",
     "organization": "河南理工大学",
@@ -860,7 +860,7 @@
     "unofficial": false,
     "girl": false
   },
-  "316006": {
+  {
     "team_id": "316006",
     "name": "java1500包吃住",
     "organization": "平顶山学院",
@@ -873,7 +873,7 @@
     "unofficial": false,
     "girl": false
   },
-  "302038": {
+  {
     "team_id": "302038",
     "name": "绫华小姐什么时候溜我",
     "organization": "河南师范大学",
@@ -886,7 +886,7 @@
     "unofficial": false,
     "girl": false
   },
-  "316007": {
+  {
     "team_id": "316007",
     "name": "信大打铁人",
     "organization": "战略支援部队信息工程大学",
@@ -899,7 +899,7 @@
     "unofficial": false,
     "girl": false
   },
-  "402027": {
+  {
     "team_id": "402027",
     "name": "想捞个牌队",
     "organization": "河南师范大学",
@@ -912,7 +912,7 @@
     "unofficial": false,
     "girl": false
   },
-  "202032": {
+  {
     "team_id": "202032",
     "name": "十年算竞一场空",
     "organization": "河南农业大学",
@@ -925,7 +925,7 @@
     "unofficial": false,
     "girl": false
   },
-  "102034": {
+  {
     "team_id": "102034",
     "name": "重拾快乐",
     "organization": "河南工业大学",
@@ -938,7 +938,7 @@
     "unofficial": false,
     "girl": false
   },
-  "202004": {
+  {
     "team_id": "202004",
     "name": "前面的题目以后再来探索吧？\t\t",
     "organization": "洛阳师范学院",
@@ -951,7 +951,7 @@
     "unofficial": false,
     "girl": false
   },
-  "302042": {
+  {
     "team_id": "302042",
     "name": "ZUA一队",
     "organization": "郑州航空工业管理学院",
@@ -964,7 +964,7 @@
     "unofficial": false,
     "girl": false
   },
-  "301038": {
+  {
     "team_id": "301038",
     "name": "我来试试水",
     "organization": "河南大学",
@@ -977,7 +977,7 @@
     "unofficial": false,
     "girl": false
   },
-  "402019": {
+  {
     "team_id": "402019",
     "name": "我是铁t我超a",
     "organization": "南阳理工学院",
@@ -990,7 +990,7 @@
     "unofficial": false,
     "girl": 1
   },
-  "202006": {
+  {
     "team_id": "202006",
     "name": "青春猪头学弟不会梦到兔女郎学长",
     "organization": "郑州大学",
@@ -1003,7 +1003,7 @@
     "unofficial": false,
     "girl": false
   },
-  "202017": {
+  {
     "team_id": "202017",
     "name": "鸿鹄之志,不在林间",
     "organization": "郑州轻工业大学",
@@ -1016,7 +1016,7 @@
     "unofficial": false,
     "girl": false
   },
-  "302008": {
+  {
     "team_id": "302008",
     "name": "饭醉团伙",
     "organization": "河南师范大学",
@@ -1029,7 +1029,7 @@
     "unofficial": false,
     "girl": 1
   },
-  "202035": {
+  {
     "team_id": "202035",
     "name": "泰裤辣",
     "organization": "商丘学院应用科技学院",
@@ -1042,7 +1042,7 @@
     "unofficial": false,
     "girl": false
   },
-  "201023": {
+  {
     "team_id": "201023",
     "name": "队友做错我做队",
     "organization": "河南农业大学",
@@ -1055,7 +1055,7 @@
     "unofficial": false,
     "girl": false
   },
-  "102017": {
+  {
     "team_id": "102017",
     "name": "逸一时误一世",
     "organization": "江门市第一实验学校",
@@ -1068,7 +1068,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "215039": {
+  {
     "team_id": "215039",
     "name": "三小只打铁怪",
     "organization": "战略支援部队信息工程大学",
@@ -1081,7 +1081,7 @@
     "unofficial": false,
     "girl": 1
   },
-  "201037": {
+  {
     "team_id": "201037",
     "name": "七天速成班",
     "organization": "郑州大学",
@@ -1094,7 +1094,7 @@
     "unofficial": false,
     "girl": false
   },
-  "201017": {
+  {
     "team_id": "201017",
     "name": "你说爱我对不队",
     "organization": "郑州大学",
@@ -1107,7 +1107,7 @@
     "unofficial": false,
     "girl": false
   },
-  "202013": {
+  {
     "team_id": "202013",
     "name": "喜羊羊、小鲤鱼和虹猫",
     "organization": "华北水利水电大学",
@@ -1120,7 +1120,7 @@
     "unofficial": false,
     "girl": false
   },
-  "301025": {
+  {
     "team_id": "301025",
     "name": "所以爱会消失对不队",
     "organization": "郑州轻工业大学",
@@ -1133,7 +1133,7 @@
     "unofficial": false,
     "girl": false
   },
-  "302020": {
+  {
     "team_id": "302020",
     "name": "坤坤暴打篮球",
     "organization": "南阳理工学院",
@@ -1146,7 +1146,7 @@
     "unofficial": false,
     "girl": false
   },
-  "202019": {
+  {
     "team_id": "202019",
     "name": " 阿里嘎多，美羊羊桑",
     "organization": "安阳师范学院",
@@ -1159,7 +1159,7 @@
     "unofficial": false,
     "girl": false
   },
-  "215038": {
+  {
     "team_id": "215038",
     "name": "对手不对（队）",
     "organization": "南阳师范学院",
@@ -1172,7 +1172,7 @@
     "unofficial": false,
     "girl": false
   },
-  "402007": {
+  {
     "team_id": "402007",
     "name": "师大摸鱼小队",
     "organization": "河南师范大学",
@@ -1185,7 +1185,7 @@
     "unofficial": false,
     "girl": false
   },
-  "215012": {
+  {
     "team_id": "215012",
     "name": "什么都对",
     "organization": "中原工学院",
@@ -1198,7 +1198,7 @@
     "unofficial": false,
     "girl": false
   },
-  "201006": {
+  {
     "team_id": "201006",
     "name": "做梦都在AC",
     "organization": "平顶山学院",
@@ -1211,7 +1211,7 @@
     "unofficial": false,
     "girl": false
   },
-  "402035": {
+  {
     "team_id": "402035",
     "name": "南苑二队",
     "organization": "河南工程学院",
@@ -1224,7 +1224,7 @@
     "unofficial": false,
     "girl": false
   },
-  "202043": {
+  {
     "team_id": "202043",
     "name": "张良，萧何，韩信",
     "organization": "华北水利水电大学",
@@ -1237,7 +1237,7 @@
     "unofficial": false,
     "girl": false
   },
-  "202021": {
+  {
     "team_id": "202021",
     "name": "打完回去预习期末",
     "organization": "河南科技大学",
@@ -1250,7 +1250,7 @@
     "unofficial": false,
     "girl": false
   },
-  "215018": {
+  {
     "team_id": "215018",
     "name": "BLQ梦之队",
     "organization": "南阳师范学院",
@@ -1263,7 +1263,7 @@
     "unofficial": false,
     "girl": false
   },
-  "215015": {
+  {
     "team_id": "215015",
     "name": "HPUCST-丝滑拿铁",
     "organization": "河南理工大学",
@@ -1276,7 +1276,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "102002": {
+  {
     "team_id": "102002",
     "name": "按任意键AC",
     "organization": "安阳工学院",
@@ -1289,7 +1289,7 @@
     "unofficial": false,
     "girl": false
   },
-  "301015": {
+  {
     "team_id": "301015",
     "name": "你还是爱我的对不队",
     "organization": "郑州轻工业大学",
@@ -1302,7 +1302,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "201015": {
+  {
     "team_id": "201015",
     "name": "家人们，谁懂啊\t\t",
     "organization": "洛阳师范学院",
@@ -1315,7 +1315,7 @@
     "unofficial": false,
     "girl": false
   },
-  "316037": {
+  {
     "team_id": "316037",
     "name": "走",
     "organization": "战略支援部队信息工程大学",
@@ -1328,7 +1328,7 @@
     "unofficial": false,
     "girl": false
   },
-  "301022": {
+  {
     "team_id": "301022",
     "name": "bug生产大队",
     "organization": "南阳理工学院",
@@ -1341,7 +1341,7 @@
     "unofficial": false,
     "girl": false
   },
-  "301023": {
+  {
     "team_id": "301023",
     "name": "欢迎来信阳参加茶文化节",
     "organization": "信阳师范学院",
@@ -1354,7 +1354,7 @@
     "unofficial": false,
     "girl": false
   },
-  "202007": {
+  {
     "team_id": "202007",
     "name": "关于起队名这件事",
     "organization": "郑州轻工业大学",
@@ -1367,7 +1367,7 @@
     "unofficial": false,
     "girl": false
   },
-  "215014": {
+  {
     "team_id": "215014",
     "name": "南苑三队",
     "organization": "河南工程学院",
@@ -1380,7 +1380,7 @@
     "unofficial": false,
     "girl": false
   },
-  "102022": {
+  {
     "team_id": "102022",
     "name": "吃喝玩乐第一名",
     "organization": "安阳工学院",
@@ -1393,7 +1393,7 @@
     "unofficial": false,
     "girl": false
   },
-  "201041": {
+  {
     "team_id": "201041",
     "name": "不玩原神导致的",
     "organization": "河南大学",
@@ -1406,7 +1406,7 @@
     "unofficial": false,
     "girl": false
   },
-  "402029": {
+  {
     "team_id": "402029",
     "name": "一哥一演一挂机",
     "organization": "南阳理工学院",
@@ -1419,7 +1419,7 @@
     "unofficial": false,
     "girl": false
   },
-  "302021": {
+  {
     "team_id": "302021",
     "name": "线下来打铁，你们别急我们先WA",
     "organization": "许昌学院",
@@ -1432,7 +1432,7 @@
     "unofficial": false,
     "girl": false
   },
-  "215024": {
+  {
     "team_id": "215024",
     "name": "南苑四队",
     "organization": "河南工程学院",
@@ -1445,7 +1445,7 @@
     "unofficial": false,
     "girl": false
   },
-  "316018": {
+  {
     "team_id": "316018",
     "name": "我没错，是你不队",
     "organization": "郑州经贸学院",
@@ -1458,7 +1458,7 @@
     "unofficial": false,
     "girl": false
   },
-  "301032": {
+  {
     "team_id": "301032",
     "name": "动物朋友",
     "organization": "南阳理工学院",
@@ -1471,7 +1471,7 @@
     "unofficial": false,
     "girl": false
   },
-  "402021": {
+  {
     "team_id": "402021",
     "name": "错过与你有关的未来队",
     "organization": "郑州经贸学院",
@@ -1484,7 +1484,7 @@
     "unofficial": false,
     "girl": false
   },
-  "202008": {
+  {
     "team_id": "202008",
     "name": "风决定发型队",
     "organization": "郑州师范学院",
@@ -1497,7 +1497,7 @@
     "unofficial": false,
     "girl": false
   },
-  "215002": {
+  {
     "team_id": "215002",
     "name": "签到过了就算赢",
     "organization": "中原工学院",
@@ -1510,7 +1510,7 @@
     "unofficial": false,
     "girl": false
   },
-  "201032": {
+  {
     "team_id": "201032",
     "name": "WCG",
     "organization": "河南科技大学",
@@ -1523,7 +1523,7 @@
     "unofficial": false,
     "girl": false
   },
-  "202014": {
+  {
     "team_id": "202014",
     "name": "三只小脑 fu～唔唔唔～\t\t",
     "organization": "洛阳师范学院",
@@ -1536,7 +1536,7 @@
     "unofficial": false,
     "girl": false
   },
-  "102009": {
+  {
     "team_id": "102009",
     "name": "对的对的噢不对",
     "organization": "郑州大学",
@@ -1549,7 +1549,7 @@
     "unofficial": false,
     "girl": false
   },
-  "201011": {
+  {
     "team_id": "201011",
     "name": "你知道我是什么成分",
     "organization": "河南城建学院",
@@ -1562,7 +1562,7 @@
     "unofficial": false,
     "girl": false
   },
-  "215030": {
+  {
     "team_id": "215030",
     "name": "碱基互补配队",
     "organization": "郑州经贸学院",
@@ -1575,7 +1575,7 @@
     "unofficial": false,
     "girl": 1
   },
-  "302018": {
+  {
     "team_id": "302018",
     "name": "河师大某队",
     "organization": "河南师范大学",
@@ -1588,7 +1588,7 @@
     "unofficial": false,
     "girl": false
   },
-  "402037": {
+  {
     "team_id": "402037",
     "name": "熊猫队",
     "organization": "河南师范大学",
@@ -1601,7 +1601,7 @@
     "unofficial": false,
     "girl": false
   },
-  "302024": {
+  {
     "team_id": "302024",
     "name": "NOIP2022三人合砍10分",
     "organization": "郑州外国语学校",
@@ -1614,7 +1614,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "316016": {
+  {
     "team_id": "316016",
     "name": "WA？WA也算时间嗷",
     "organization": "平顶山学院",
@@ -1627,7 +1627,7 @@
     "unofficial": false,
     "girl": false
   },
-  "202024": {
+  {
     "team_id": "202024",
     "name": "秃头不熬夜\t\t",
     "organization": "洛阳师范学院",
@@ -1640,7 +1640,7 @@
     "unofficial": false,
     "girl": false
   },
-  "302031": {
+  {
     "team_id": "302031",
     "name": "一刻赛尔彪阁",
     "organization": "许昌学院",
@@ -1653,7 +1653,7 @@
     "unofficial": false,
     "girl": false
   },
-  "215033": {
+  {
     "team_id": "215033",
     "name": "可以让队长买柠檬水吗",
     "organization": "河南财经政法大学",
@@ -1666,7 +1666,7 @@
     "unofficial": false,
     "girl": false
   },
-  "202010": {
+  {
     "team_id": "202010",
     "name": "可乐鸡翅炸薯条",
     "organization": "河南大学",
@@ -1679,7 +1679,7 @@
     "unofficial": false,
     "girl": 1
   },
-  "316032": {
+  {
     "team_id": "316032",
     "name": "WA常有而AC不常有，经常寄于TLE之手",
     "organization": "河南工业大学",
@@ -1692,7 +1692,7 @@
     "unofficial": false,
     "girl": false
   },
-  "215020": {
+  {
     "team_id": "215020",
     "name": "给wa插上翅膀队",
     "organization": "郑州经贸学院",
@@ -1705,7 +1705,7 @@
     "unofficial": false,
     "girl": false
   },
-  "316002": {
+  {
     "team_id": "316002",
     "name": "南苑一队",
     "organization": "河南工程学院",
@@ -1718,7 +1718,7 @@
     "unofficial": false,
     "girl": false
   },
-  "102035": {
+  {
     "team_id": "102035",
     "name": "_不知道叫什么队",
     "organization": "河南农业大学",
@@ -1731,7 +1731,7 @@
     "unofficial": false,
     "girl": false
   },
-  "402005": {
+  {
     "team_id": "402005",
     "name": "好好写题日子会越来越甜",
     "organization": "河南工程学院",
@@ -1744,7 +1744,7 @@
     "unofficial": false,
     "girl": false
   },
-  "202018": {
+  {
     "team_id": "202018",
     "name": "光剑如我，斩尽WAWA！",
     "organization": "郑州师范学院",
@@ -1757,7 +1757,7 @@
     "unofficial": false,
     "girl": false
   },
-  "302011": {
+  {
     "team_id": "302011",
     "name": "鼠鼠我啊，真的要AC了",
     "organization": "许昌学院",
@@ -1770,7 +1770,7 @@
     "unofficial": false,
     "girl": false
   },
-  "301007": {
+  {
     "team_id": "301007",
     "name": "芭芭拉冲呀",
     "organization": "安阳师范学院",
@@ -1783,7 +1783,7 @@
     "unofficial": false,
     "girl": false
   },
-  "402015": {
+  {
     "team_id": "402015",
     "name": "红鲤鱼与绿鲤鱼与驴队",
     "organization": "河南工程学院",
@@ -1796,7 +1796,7 @@
     "unofficial": false,
     "girl": false
   },
-  "301030": {
+  {
     "team_id": "301030",
     "name": "打完就去考研",
     "organization": "河南师范大学",
@@ -1809,7 +1809,7 @@
     "unofficial": false,
     "girl": false
   },
-  "201024": {
+  {
     "team_id": "201024",
     "name": "路人选手的打铁方法",
     "organization": "华北水利水电大学",
@@ -1822,7 +1822,7 @@
     "unofficial": false,
     "girl": false
   },
-  "301035": {
+  {
     "team_id": "301035",
     "name": "提交什么都队",
     "organization": "郑州轻工业大学",
@@ -1835,7 +1835,7 @@
     "unofficial": false,
     "girl": false
   },
-  "301042": {
+  {
     "team_id": "301042",
     "name": "短剑风云",
     "organization": "南阳理工学院",
@@ -1848,7 +1848,7 @@
     "unofficial": false,
     "girl": false
   },
-  "201028": {
+  {
     "team_id": "201028",
     "name": "从A走到C",
     "organization": "郑州轻工业大学",
@@ -1861,7 +1861,7 @@
     "unofficial": false,
     "girl": false
   },
-  "102019": {
+  {
     "team_id": "102019",
     "name": "弗莱斯曼",
     "organization": "郑州大学",
@@ -1874,7 +1874,7 @@
     "unofficial": false,
     "girl": false
   },
-  "302013": {
+  {
     "team_id": "302013",
     "name": "我们队",
     "organization": "郑州轻工业大学",
@@ -1887,7 +1887,7 @@
     "unofficial": false,
     "girl": false
   },
-  "301004": {
+  {
     "team_id": "301004",
     "name": "不要再WA啦",
     "organization": "郑州工商学院",
@@ -1900,7 +1900,7 @@
     "unofficial": false,
     "girl": false
   },
-  "302039": {
+  {
     "team_id": "302039",
     "name": "波龙记",
     "organization": "黄淮学院",
@@ -1913,7 +1913,7 @@
     "unofficial": false,
     "girl": false
   },
-  "316025": {
+  {
     "team_id": "316025",
     "name": "行至朝雾里",
     "organization": "黄淮学院",
@@ -1926,7 +1926,7 @@
     "unofficial": false,
     "girl": false
   },
-  "302016": {
+  {
     "team_id": "302016",
     "name": "重生之我在二次元异世界当蒟蒻",
     "organization": "河南大学",
@@ -1939,7 +1939,7 @@
     "unofficial": false,
     "girl": false
   },
-  "302014": {
+  {
     "team_id": "302014",
     "name": "HAOI2023三人合砍180分",
     "organization": "郑州外国语学校",
@@ -1952,7 +1952,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "301010": {
+  {
     "team_id": "301010",
     "name": "Vans 如意",
     "organization": "河南师范大学",
@@ -1965,7 +1965,7 @@
     "unofficial": false,
     "girl": 1
   },
-  "201040": {
+  {
     "team_id": "201040",
     "name": "只会混分",
     "organization": "安阳工学院",
@@ -1978,7 +1978,7 @@
     "unofficial": false,
     "girl": false
   },
-  "201022": {
+  {
     "team_id": "201022",
     "name": "goodluck",
     "organization": "河南科技大学",
@@ -1991,7 +1991,7 @@
     "unofficial": false,
     "girl": false
   },
-  "201002": {
+  {
     "team_id": "201002",
     "name": "转生史莱姆因为太菜被逐出队伍后遇伊蕾娜桑",
     "organization": "河南工业大学",
@@ -2004,7 +2004,7 @@
     "unofficial": false,
     "girl": false
   },
-  "402024": {
+  {
     "team_id": "402024",
     "name": "Bug制造商",
     "organization": "黄淮学院",
@@ -2017,7 +2017,7 @@
     "unofficial": false,
     "girl": false
   },
-  "402010": {
+  {
     "team_id": "402010",
     "name": "aknb",
     "organization": "战略支援部队信息工程大学",
@@ -2030,7 +2030,7 @@
     "unofficial": false,
     "girl": false
   },
-  "201038": {
+  {
     "team_id": "201038",
     "name": "东吴三英杰",
     "organization": "郑州轻工业大学",
@@ -2043,7 +2043,7 @@
     "unofficial": false,
     "girl": false
   },
-  "201029": {
+  {
     "team_id": "201029",
     "name": "哎呀",
     "organization": "郑州师范学院",
@@ -2056,7 +2056,7 @@
     "unofficial": false,
     "girl": false
   },
-  "316008": {
+  {
     "team_id": "316008",
     "name": "我带你们打队",
     "organization": "郑州经贸学院",
@@ -2069,7 +2069,7 @@
     "unofficial": false,
     "girl": false
   },
-  "102036": {
+  {
     "team_id": "102036",
     "name": "海底小纵队",
     "organization": "华北水利水电大学",
@@ -2082,7 +2082,7 @@
     "unofficial": false,
     "girl": false
   },
-  "302027": {
+  {
     "team_id": "302027",
     "name": "刷穿力扣",
     "organization": "河南科技学院",
@@ -2095,7 +2095,7 @@
     "unofficial": false,
     "girl": false
   },
-  "102013": {
+  {
     "team_id": "102013",
     "name": "加油再加油",
     "organization": "河南财政金融学院",
@@ -2108,7 +2108,7 @@
     "unofficial": false,
     "girl": false
   },
-  "316024": {
+  {
     "team_id": "316024",
     "name": "没什么大不了队",
     "organization": "河南中医药大学",
@@ -2121,7 +2121,7 @@
     "unofficial": false,
     "girl": false
   },
-  "302041": {
+  {
     "team_id": "302041",
     "name": "主打的就是运气",
     "organization": "许昌学院",
@@ -2134,7 +2134,7 @@
     "unofficial": false,
     "girl": false
   },
-  "316019": {
+  {
     "team_id": "316019",
     "name": "Lucky",
     "organization": "郑州升达经贸管理学院",
@@ -2147,7 +2147,7 @@
     "unofficial": false,
     "girl": false
   },
-  "316043": {
+  {
     "team_id": "316043",
     "name": "发际线与我作队",
     "organization": "河南牧业经济学院",
@@ -2160,7 +2160,7 @@
     "unofficial": false,
     "girl": false
   },
-  "102038": {
+  {
     "team_id": "102038",
     "name": "自习室卷心菜",
     "organization": "平顶山学院",
@@ -2173,7 +2173,7 @@
     "unofficial": false,
     "girl": false
   },
-  "215004": {
+  {
     "team_id": "215004",
     "name": "南苑六队",
     "organization": "河南工程学院",
@@ -2186,7 +2186,7 @@
     "unofficial": false,
     "girl": 1
   },
-  "316009": {
+  {
     "team_id": "316009",
     "name": "Hello World",
     "organization": "郑州升达经贸管理学院",
@@ -2199,7 +2199,7 @@
     "unofficial": false,
     "girl": false
   },
-  "201016": {
+  {
     "team_id": "201016",
     "name": "做啥啥都对",
     "organization": "平顶山学院",
@@ -2212,7 +2212,7 @@
     "unofficial": false,
     "girl": false
   },
-  "301019": {
+  {
     "team_id": "301019",
     "name": "AC梦",
     "organization": "河南科技学院",
@@ -2225,7 +2225,7 @@
     "unofficial": false,
     "girl": false
   },
-  "301012": {
+  {
     "team_id": "301012",
     "name": "做得都队\t\t",
     "organization": "洛阳师范学院",
@@ -2238,7 +2238,7 @@
     "unofficial": false,
     "girl": 1
   },
-  "215037": {
+  {
     "team_id": "215037",
     "name": "生手",
     "organization": "黄淮学院",
@@ -2251,7 +2251,7 @@
     "unofficial": false,
     "girl": false
   },
-  "102025": {
+  {
     "team_id": "102025",
     "name": "签到题做队",
     "organization": "河南牧业经济学院",
@@ -2264,7 +2264,7 @@
     "unofficial": false,
     "girl": false
   },
-  "201004": {
+  {
     "team_id": "201004",
     "name": "黄防护服与红防护服队",
     "organization": "华北水利水电大学",
@@ -2277,7 +2277,7 @@
     "unofficial": false,
     "girl": false
   },
-  "201021": {
+  {
     "team_id": "201021",
     "name": "我们相信自己",
     "organization": "河南城建学院",
@@ -2290,7 +2290,7 @@
     "unofficial": false,
     "girl": false
   },
-  "301037": {
+  {
     "team_id": "301037",
     "name": "一杯冰蓝Mojito",
     "organization": "安阳师范学院",
@@ -2303,7 +2303,7 @@
     "unofficial": false,
     "girl": false
   },
-  "301016": {
+  {
     "team_id": "301016",
     "name": "鼠鼠的命也是命！",
     "organization": "郑州师范学院",
@@ -2316,7 +2316,7 @@
     "unofficial": false,
     "girl": false
   },
-  "215022": {
+  {
     "team_id": "215022",
     "name": "四级没过对不队",
     "organization": "中原工学院",
@@ -2329,7 +2329,7 @@
     "unofficial": false,
     "girl": false
   },
-  "102027": {
+  {
     "team_id": "102027",
     "name": "爱会消失对不队?\t\t",
     "organization": "洛阳师范学院",
@@ -2342,7 +2342,7 @@
     "unofficial": false,
     "girl": false
   },
-  "402006": {
+  {
     "team_id": "402006",
     "name": "HPUCST-fAKer",
     "organization": "河南理工大学",
@@ -2355,7 +2355,7 @@
     "unofficial": false,
     "girl": false
   },
-  "202029": {
+  {
     "team_id": "202029",
     "name": "AC小分队",
     "organization": "安阳师范学院",
@@ -2368,7 +2368,7 @@
     "unofficial": false,
     "girl": false
   },
-  "301018": {
+  {
     "team_id": "301018",
     "name": "玩原神玩的",
     "organization": "河南大学",
@@ -2381,7 +2381,7 @@
     "unofficial": false,
     "girl": false
   },
-  "301002": {
+  {
     "team_id": "301002",
     "name": "月明湖糊\t\t",
     "organization": "洛阳师范学院",
@@ -2394,7 +2394,7 @@
     "unofficial": false,
     "girl": 1
   },
-  "316013": {
+  {
     "team_id": "316013",
     "name": "某个队伍",
     "organization": "河南理工大学",
@@ -2407,7 +2407,7 @@
     "unofficial": false,
     "girl": false
   },
-  "102021": {
+  {
     "team_id": "102021",
     "name": "清早起扫庭院",
     "organization": "郑州升达经贸管理学院",
@@ -2420,7 +2420,7 @@
     "unofficial": false,
     "girl": false
   },
-  "215032": {
+  {
     "team_id": "215032",
     "name": "御坂美琴珈百璃赛高",
     "organization": "中原工学院",
@@ -2433,7 +2433,7 @@
     "unofficial": false,
     "girl": false
   },
-  "202031": {
+  {
     "team_id": "202031",
     "name": "咣咣打铁队",
     "organization": "河南科技大学",
@@ -2446,7 +2446,7 @@
     "unofficial": false,
     "girl": false
   },
-  "316026": {
+  {
     "team_id": "316026",
     "name": "WYDL",
     "organization": "平顶山学院",
@@ -2459,7 +2459,7 @@
     "unofficial": false,
     "girl": false
   },
-  "202012": {
+  {
     "team_id": "202012",
     "name": "三元一次方程组",
     "organization": "河南农业大学",
@@ -2472,7 +2472,7 @@
     "unofficial": false,
     "girl": false
   },
-  "215029": {
+  {
     "team_id": "215029",
     "name": "偏执acm的菜狗小娇妻",
     "organization": "战略支援部队信息工程大学",
@@ -2485,7 +2485,7 @@
     "unofficial": false,
     "girl": 1
   },
-  "201003": {
+  {
     "team_id": "201003",
     "name": "RESISTER",
     "organization": "河南农业大学",
@@ -2498,7 +2498,7 @@
     "unofficial": false,
     "girl": false
   },
-  "202003": {
+  {
     "team_id": "202003",
     "name": "唔姆唔姆唔姆唔姆唔姆唔姆",
     "organization": "华北水利水电大学",
@@ -2511,7 +2511,7 @@
     "unofficial": false,
     "girl": false
   },
-  "201010": {
+  {
     "team_id": "201010",
     "name": "龙哥：I will carry you",
     "organization": "安阳工学院",
@@ -2524,7 +2524,7 @@
     "unofficial": false,
     "girl": false
   },
-  "215019": {
+  {
     "team_id": "215019",
     "name": "你们都不",
     "organization": "战略支援部队信息工程大学",
@@ -2537,7 +2537,7 @@
     "unofficial": false,
     "girl": false
   },
-  "202033": {
+  {
     "team_id": "202033",
     "name": "一提交都对",
     "organization": "华北水利水电大学",
@@ -2550,7 +2550,7 @@
     "unofficial": false,
     "girl": false
   },
-  "301005": {
+  {
     "team_id": "301005",
     "name": "刘奶奶找牛奶奶买牛奶",
     "organization": "郑州轻工业大学",
@@ -2563,7 +2563,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "402040": {
+  {
     "team_id": "402040",
     "name": "北归之雁",
     "organization": "战略支援部队信息工程大学",
@@ -2576,7 +2576,7 @@
     "unofficial": false,
     "girl": false
   },
-  "402013": {
+  {
     "team_id": "402013",
     "name": "place_degenerative",
     "organization": "中原工学院",
@@ -2589,7 +2589,7 @@
     "unofficial": false,
     "girl": false
   },
-  "215013": {
+  {
     "team_id": "215013",
     "name": "丁真珍珠不会梦到马保国老师",
     "organization": "河南财经政法大学",
@@ -2602,7 +2602,7 @@
     "unofficial": false,
     "girl": false
   },
-  "201014": {
+  {
     "team_id": "201014",
     "name": "吉祥物队",
     "organization": "华北水利水电大学",
@@ -2615,7 +2615,7 @@
     "unofficial": false,
     "girl": false
   },
-  "302006": {
+  {
     "team_id": "302006",
     "name": "争取胜利队",
     "organization": "河南大学",
@@ -2628,7 +2628,7 @@
     "unofficial": false,
     "girl": 1
   },
-  "302015": {
+  {
     "team_id": "302015",
     "name": "做的都对",
     "organization": "安阳师范学院",
@@ -2641,7 +2641,7 @@
     "unofficial": false,
     "girl": false
   },
-  "301036": {
+  {
     "team_id": "301036",
     "name": "向来半夜不睡",
     "organization": "郑州师范学院",
@@ -2654,7 +2654,7 @@
     "unofficial": false,
     "girl": false
   },
-  "102023": {
+  {
     "team_id": "102023",
     "name": "努力努力",
     "organization": "河南财政金融学院",
@@ -2667,7 +2667,7 @@
     "unofficial": false,
     "girl": false
   },
-  "402031": {
+  {
     "team_id": "402031",
     "name": "帝国的绝凶猛虎卢某是也队",
     "organization": "郑州经贸学院",
@@ -2680,7 +2680,7 @@
     "unofficial": false,
     "girl": false
   },
-  "301027": {
+  {
     "team_id": "301027",
     "name": "了解你的捍卫者",
     "organization": "安阳师范学院",
@@ -2693,7 +2693,7 @@
     "unofficial": false,
     "girl": false
   },
-  "215005": {
+  {
     "team_id": "215005",
     "name": "HPUCST-很喜欢早八有种魂飞魄散的感觉",
     "organization": "河南理工大学",
@@ -2706,7 +2706,7 @@
     "unofficial": false,
     "girl": false
   },
-  "102005": {
+  {
     "team_id": "102005",
     "name": "高数学也学不会代码改也改不队",
     "organization": "河南牧业经济学院",
@@ -2719,7 +2719,7 @@
     "unofficial": false,
     "girl": false
   },
-  "201039": {
+  {
     "team_id": "201039",
     "name": "超能陆战队",
     "organization": "郑州师范学院",
@@ -2732,7 +2732,7 @@
     "unofficial": false,
     "girl": false
   },
-  "316003": {
+  {
     "team_id": "316003",
     "name": "攻城狮",
     "organization": "河南理工大学",
@@ -2745,7 +2745,7 @@
     "unofficial": false,
     "girl": false
   },
-  "102032": {
+  {
     "team_id": "102032",
     "name": "代码地板砖",
     "organization": "安阳工学院",
@@ -2758,7 +2758,7 @@
     "unofficial": false,
     "girl": false
   },
-  "201009": {
+  {
     "team_id": "201009",
     "name": "一提交就队",
     "organization": "郑州升达经贸管理学院",
@@ -2771,7 +2771,7 @@
     "unofficial": false,
     "girl": false
   },
-  "102004": {
+  {
     "team_id": "102004",
     "name": "从容应队",
     "organization": "河南工业大学",
@@ -2784,7 +2784,7 @@
     "unofficial": false,
     "girl": 1
   },
-  "201042": {
+  {
     "team_id": "201042",
     "name": "xcpc的奇妙冒险",
     "organization": "河南科技大学",
@@ -2797,7 +2797,7 @@
     "unofficial": false,
     "girl": false
   },
-  "316035": {
+  {
     "team_id": "316035",
     "name": "唱、跳、RAP、篮球",
     "organization": "江门市第一实验学校",
@@ -2810,7 +2810,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "302017": {
+  {
     "team_id": "302017",
     "name": "马克思说的真队",
     "organization": "河南科技学院",
@@ -2823,7 +2823,7 @@
     "unofficial": false,
     "girl": false
   },
-  "201026": {
+  {
     "team_id": "201026",
     "name": "暴力不爆零",
     "organization": "泉州师范学院",
@@ -2836,7 +2836,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "301040": {
+  {
     "team_id": "301040",
     "name": "翻斗花园",
     "organization": "河南师范大学",
@@ -2849,7 +2849,7 @@
     "unofficial": false,
     "girl": false
   },
-  "316017": {
+  {
     "team_id": "316017",
     "name": "熊熊乐园",
     "organization": "战略支援部队信息工程大学",
@@ -2862,7 +2862,7 @@
     "unofficial": false,
     "girl": false
   },
-  "102030": {
+  {
     "team_id": "102030",
     "name": "zit-至善",
     "organization": "郑州科技学院",
@@ -2875,7 +2875,7 @@
     "unofficial": false,
     "girl": false
   },
-  "302037": {
+  {
     "team_id": "302037",
     "name": "终身成长者",
     "organization": "河南科技学院",
@@ -2888,7 +2888,7 @@
     "unofficial": false,
     "girl": false
   },
-  "202039": {
+  {
     "team_id": "202039",
     "name": "啊对对对",
     "organization": "安阳师范学院",
@@ -2901,7 +2901,7 @@
     "unofficial": false,
     "girl": false
   },
-  "402030": {
+  {
     "team_id": "402030",
     "name": "阿巴",
     "organization": "战略支援部队信息工程大学",
@@ -2914,7 +2914,7 @@
     "unofficial": false,
     "girl": false
   },
-  "302026": {
+  {
     "team_id": "302026",
     "name": "8787猛男队",
     "organization": "河南工程学院",
@@ -2927,7 +2927,7 @@
     "unofficial": false,
     "girl": false
   },
-  "302022": {
+  {
     "team_id": "302022",
     "name": "ZUA二队",
     "organization": "郑州航空工业管理学院",
@@ -2940,7 +2940,7 @@
     "unofficial": false,
     "girl": false
   },
-  "402002": {
+  {
     "team_id": "402002",
     "name": "007打工队",
     "organization": "郑州商学院",
@@ -2953,7 +2953,7 @@
     "unofficial": false,
     "girl": false
   },
-  "215021": {
+  {
     "team_id": "215021",
     "name": "生产大队",
     "organization": "郑州商学院",
@@ -2966,7 +2966,7 @@
     "unofficial": false,
     "girl": false
   },
-  "102028": {
+  {
     "team_id": "102028",
     "name": "只有闯闯单身队",
     "organization": "平顶山学院",
@@ -2979,7 +2979,7 @@
     "unofficial": false,
     "girl": false
   },
-  "102020": {
+  {
     "team_id": "102020",
     "name": "zit-明德",
     "organization": "郑州科技学院",
@@ -2992,7 +2992,7 @@
     "unofficial": false,
     "girl": false
   },
-  "316014": {
+  {
     "team_id": "316014",
     "name": "坤坤队",
     "organization": "河南中医药大学",
@@ -3005,7 +3005,7 @@
     "unofficial": false,
     "girl": false
   },
-  "102007": {
+  {
     "team_id": "102007",
     "name": "吃不饱睡不醒",
     "organization": "江门市第一实验学校",
@@ -3018,7 +3018,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "102026": {
+  {
     "team_id": "102026",
     "name": "翻斗花园",
     "organization": "华北水利水电大学",
@@ -3031,7 +3031,7 @@
     "unofficial": false,
     "girl": false
   },
-  "215034": {
+  {
     "team_id": "215034",
     "name": "南苑五队",
     "organization": "河南工程学院",
@@ -3044,7 +3044,7 @@
     "unofficial": false,
     "girl": false
   },
-  "316029": {
+  {
     "team_id": "316029",
     "name": "Network Ninjas",
     "organization": "郑州升达经贸管理学院",
@@ -3057,7 +3057,7 @@
     "unofficial": false,
     "girl": false
   },
-  "215040": {
+  {
     "team_id": "215040",
     "name": "脑子没了队",
     "organization": "郑州经贸学院",
@@ -3070,7 +3070,7 @@
     "unofficial": false,
     "girl": false
   },
-  "215003": {
+  {
     "team_id": "215003",
     "name": "星之所在队",
     "organization": "郑州轻工业大学",
@@ -3083,7 +3083,7 @@
     "unofficial": false,
     "girl": 1
   },
-  "301043": {
+  {
     "team_id": "301043",
     "name": "收留失足金牌",
     "organization": "许昌学院",
@@ -3096,7 +3096,7 @@
     "unofficial": false,
     "girl": false
   },
-  "402034": {
+  {
     "team_id": "402034",
     "name": "阳光开朗大女孩队",
     "organization": "郑州师范学院",
@@ -3109,7 +3109,7 @@
     "unofficial": false,
     "girl": 1
   },
-  "402008": {
+  {
     "team_id": "402008",
     "name": "菜鸡行",
     "organization": "黄淮学院",
@@ -3122,7 +3122,7 @@
     "unofficial": false,
     "girl": false
   },
-  "201012": {
+  {
     "team_id": "201012",
     "name": "一个也写不队",
     "organization": "河南开封科技传媒学院",
@@ -3135,7 +3135,7 @@
     "unofficial": false,
     "girl": false
   },
-  "201013": {
+  {
     "team_id": "201013",
     "name": "摆烂三人组",
     "organization": "河南农业大学",
@@ -3148,7 +3148,7 @@
     "unofficial": false,
     "girl": false
   },
-  "102033": {
+  {
     "team_id": "102033",
     "name": "仰望星空",
     "organization": "河南财政金融学院",
@@ -3161,7 +3161,7 @@
     "unofficial": false,
     "girl": false
   },
-  "402018": {
+  {
     "team_id": "402018",
     "name": "对啊对",
     "organization": "黄淮学院",
@@ -3174,7 +3174,7 @@
     "unofficial": false,
     "girl": false
   },
-  "102011": {
+  {
     "team_id": "102011",
     "name": "皮皮虾我们走",
     "organization": "郑州升达经贸管理学院",
@@ -3187,7 +3187,7 @@
     "unofficial": false,
     "girl": false
   },
-  "201035": {
+  {
     "team_id": "201035",
     "name": "你在跟我作队",
     "organization": "洛阳师范学院",
@@ -3200,7 +3200,7 @@
     "unofficial": false,
     "girl": false
   },
-  "402041": {
+  {
     "team_id": "402041",
     "name": "第一，我不叫喂，我叫孟姐队",
     "organization": "郑州经贸学院",
@@ -3213,7 +3213,7 @@
     "unofficial": false,
     "girl": false
   },
-  "301017": {
+  {
     "team_id": "301017",
     "name": "半岛银盒",
     "organization": "安阳师范学院",
@@ -3226,7 +3226,7 @@
     "unofficial": false,
     "girl": false
   },
-  "202041": {
+  {
     "team_id": "202041",
     "name": "蔬菜狗",
     "organization": "河南科技大学",
@@ -3239,7 +3239,7 @@
     "unofficial": false,
     "girl": false
   },
-  "102041": {
+  {
     "team_id": "102041",
     "name": "无言以队",
     "organization": "郑州升达经贸管理学院",
@@ -3252,7 +3252,7 @@
     "unofficial": false,
     "girl": false
   },
-  "102037": {
+  {
     "team_id": "102037",
     "name": "答案借我对一队\t\t",
     "organization": "洛阳师范学院",
@@ -3265,7 +3265,7 @@
     "unofficial": false,
     "girl": false
   },
-  "215028": {
+  {
     "team_id": "215028",
     "name": "队友带我飞",
     "organization": "南阳师范学院",
@@ -3278,7 +3278,7 @@
     "unofficial": false,
     "girl": false
   },
-  "301026": {
+  {
     "team_id": "301026",
     "name": "网吧也没这么贵队",
     "organization": "郑州师范学院",
@@ -3291,7 +3291,7 @@
     "unofficial": false,
     "girl": false
   },
-  "215036": {
+  {
     "team_id": "215036",
     "name": "创丽丽半挂车队",
     "organization": "河南中医药大学",
@@ -3304,7 +3304,7 @@
     "unofficial": false,
     "girl": false
   },
-  "201005": {
+  {
     "team_id": "201005",
     "name": "懂不了一点，只知道无语。",
     "organization": "洛阳师范学院",
@@ -3317,7 +3317,7 @@
     "unofficial": false,
     "girl": false
   },
-  "402025": {
+  {
     "team_id": "402025",
     "name": "快乐比赛之有请下一队",
     "organization": "河南工程学院",
@@ -3330,7 +3330,7 @@
     "unofficial": false,
     "girl": 1
   },
-  "402032": {
+  {
     "team_id": "402032",
     "name": "摸鱼大队",
     "organization": "郑州商学院",
@@ -3343,7 +3343,7 @@
     "unofficial": false,
     "girl": false
   },
-  "302036": {
+  {
     "team_id": "302036",
     "name": "CCPC请爱我一次",
     "organization": "河南工程学院",
@@ -3356,7 +3356,7 @@
     "unofficial": false,
     "girl": false
   },
-  "102018": {
+  {
     "team_id": "102018",
     "name": "心若止水",
     "organization": "平顶山学院",
@@ -3369,7 +3369,7 @@
     "unofficial": false,
     "girl": false
   },
-  "201036": {
+  {
     "team_id": "201036",
     "name": "阿里嘎多懒羊羊桑",
     "organization": "商丘学院应用科技学院",
@@ -3382,7 +3382,7 @@
     "unofficial": false,
     "girl": false
   },
-  "402028": {
+  {
     "team_id": "402028",
     "name": "复制者联盟",
     "organization": "黄淮学院",
@@ -3395,7 +3395,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "201020": {
+  {
     "team_id": "201020",
     "name": "没有队名",
     "organization": "安阳工学院",
@@ -3408,7 +3408,7 @@
     "unofficial": false,
     "girl": false
   },
-  "102016": {
+  {
     "team_id": "102016",
     "name": "锐刻五队",
     "organization": "河南中医药大学",
@@ -3421,7 +3421,7 @@
     "unofficial": false,
     "girl": false
   },
-  "102015": {
+  {
     "team_id": "102015",
     "name": "你答的不队",
     "organization": "河南牧业经济学院",
@@ -3434,7 +3434,7 @@
     "unofficial": false,
     "girl": false
   },
-  "215007": {
+  {
     "team_id": "215007",
     "name": "河南三朵花",
     "organization": "黄淮学院",
@@ -3447,7 +3447,7 @@
     "unofficial": false,
     "girl": false
   },
-  "215011": {
+  {
     "team_id": "215011",
     "name": "签到小分队",
     "organization": "郑州商学院",
@@ -3460,7 +3460,7 @@
     "unofficial": false,
     "girl": false
   },
-  "201007": {
+  {
     "team_id": "201007",
     "name": "来轻工业做客啦，你猜猜地上的头发是谁掉的",
     "organization": "郑州大学",
@@ -3473,7 +3473,7 @@
     "unofficial": false,
     "girl": 1
   },
-  "316040": {
+  {
     "team_id": "316040",
     "name": "只拿铜奖队",
     "organization": "周口师范学院",
@@ -3486,7 +3486,7 @@
     "unofficial": false,
     "girl": false
   },
-  "402038": {
+  {
     "team_id": "402038",
     "name": "过山车小分队",
     "organization": "黄淮学院",
@@ -3499,7 +3499,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "402003": {
+  {
     "team_id": "402003",
     "name": "Forerunner",
     "organization": "中原工学院",
@@ -3512,7 +3512,7 @@
     "unofficial": false,
     "girl": false
   },
-  "215027": {
+  {
     "team_id": "215027",
     "name": "蒟蒻三剑客",
     "organization": "黄淮学院",
@@ -3525,7 +3525,7 @@
     "unofficial": false,
     "girl": false
   },
-  "215023": {
+  {
     "team_id": "215023",
     "name": "混乱即阶梯",
     "organization": "河南财经政法大学",
@@ -3538,7 +3538,7 @@
     "unofficial": false,
     "girl": false
   },
-  "215010": {
+  {
     "team_id": "215010",
     "name": "发际线总是跟我们作队",
     "organization": "郑州经贸学院",
@@ -3551,7 +3551,7 @@
     "unofficial": false,
     "girl": false
   },
-  "316015": {
+  {
     "team_id": "316015",
     "name": "雾里探花",
     "organization": "黄淮学院",
@@ -3564,7 +3564,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "402017": {
+  {
     "team_id": "402017",
     "name": "威锋战队",
     "organization": "河南师范大学",
@@ -3577,7 +3577,7 @@
     "unofficial": false,
     "girl": false
   },
-  "402011": {
+  {
     "team_id": "402011",
     "name": "不要指望我们队",
     "organization": "郑州经贸学院",
@@ -3590,7 +3590,7 @@
     "unofficial": false,
     "girl": false
   },
-  "202034": {
+  {
     "team_id": "202034",
     "name": "我落泪情绪零碎",
     "organization": "洛阳师范学院",
@@ -3603,7 +3603,7 @@
     "unofficial": false,
     "girl": false
   },
-  "301006": {
+  {
     "team_id": "301006",
     "name": "十行代码九行报错八门考试七门飘过队 ",
     "organization": "郑州师范学院",
@@ -3616,7 +3616,7 @@
     "unofficial": false,
     "girl": false
   },
-  "201025": {
+  {
     "team_id": "201025",
     "name": "你说的都队\t\t",
     "organization": "洛阳师范学院",
@@ -3629,7 +3629,7 @@
     "unofficial": false,
     "girl": false
   },
-  "301013": {
+  {
     "team_id": "301013",
     "name": "从容应队",
     "organization": "信阳师范学院",
@@ -3642,7 +3642,7 @@
     "unofficial": false,
     "girl": false
   },
-  "316028": {
+  {
     "team_id": "316028",
     "name": "勇往直前小分队",
     "organization": "郑州经贸学院",
@@ -3655,7 +3655,7 @@
     "unofficial": false,
     "girl": false
   },
-  "402014": {
+  {
     "team_id": "402014",
     "name": "YCL",
     "organization": "黄淮学院",
@@ -3668,7 +3668,7 @@
     "unofficial": false,
     "girl": 1
   },
-  "301009": {
+  {
     "team_id": "301009",
     "name": "汪汪队",
     "organization": "河南科技大学",
@@ -3681,7 +3681,7 @@
     "unofficial": false,
     "girl": false
   },
-  "215006": {
+  {
     "team_id": "215006",
     "name": "GGBond队",
     "organization": "河南中医药大学",
@@ -3694,7 +3694,7 @@
     "unofficial": false,
     "girl": false
   },
-  "402042": {
+  {
     "team_id": "402042",
     "name": "你说的都队",
     "organization": "郑州商学院",
@@ -3707,7 +3707,7 @@
     "unofficial": false,
     "girl": 1
   },
-  "402033": {
+  {
     "team_id": "402033",
     "name": "宝可梦,Change our future,结束乐队",
     "organization": "中原工学院",
@@ -3720,7 +3720,7 @@
     "unofficial": false,
     "girl": false
   },
-  "402012": {
+  {
     "team_id": "402012",
     "name": "啊对对队",
     "organization": "郑州商学院",
@@ -3733,7 +3733,7 @@
     "unofficial": false,
     "girl": false
   },
-  "202023": {
+  {
     "team_id": "202023",
     "name": "想去洛阳看牡丹",
     "organization": "华北水利水电大学",
@@ -3746,7 +3746,7 @@
     "unofficial": false,
     "girl": 1
   },
-  "316034": {
+  {
     "team_id": "316034",
     "name": "你说的都队",
     "organization": "河南中医药大学",
@@ -3759,7 +3759,7 @@
     "unofficial": false,
     "girl": false
   },
-  "316020": {
+  {
     "team_id": "316020",
     "name": "什么档次和我一队",
     "organization": "周口师范学院",
@@ -3772,7 +3772,7 @@
     "unofficial": false,
     "girl": false
   },
-  "316039": {
+  {
     "team_id": "316039",
     "name": "甲骨文认得队",
     "organization": "郑州升达经贸管理学院",
@@ -3785,7 +3785,7 @@
     "unofficial": false,
     "girl": false
   },
-  "316038": {
+  {
     "team_id": "316038",
     "name": "zit-博学",
     "organization": "郑州科技学院",
@@ -3798,7 +3798,7 @@
     "unofficial": false,
     "girl": false
   },
-  "301021": {
+  {
     "team_id": "301021",
     "name": "阿对对队",
     "organization": "黄河科技学院",
@@ -3811,7 +3811,7 @@
     "unofficial": false,
     "girl": false
   },
-  "301034": {
+  {
     "team_id": "301034",
     "name": "瑞克五代队",
     "organization": "郑州工商学院",
@@ -3824,7 +3824,7 @@
     "unofficial": false,
     "girl": false
   },
-  "302007": {
+  {
     "team_id": "302007",
     "name": "砾石途往",
     "organization": "河南科技学院",
@@ -3837,7 +3837,7 @@
     "unofficial": false,
     "girl": false
   },
-  "316041": {
+  {
     "team_id": "316041",
     "name": "不知道对不队",
     "organization": "河南财政金融学院",
@@ -3850,7 +3850,7 @@
     "unofficial": false,
     "girl": false
   },
-  "301014": {
+  {
     "team_id": "301014",
     "name": "黄金矿工队",
     "organization": "郑州工商学院",
@@ -3863,7 +3863,7 @@
     "unofficial": false,
     "girl": false
   },
-  "301029": {
+  {
     "team_id": "301029",
     "name": "从容应队",
     "organization": "河南科技学院",
@@ -3876,7 +3876,7 @@
     "unofficial": false,
     "girl": false
   },
-  "202036": {
+  {
     "team_id": "202036",
     "name": "HelloWorld",
     "organization": "郑州工商学院",
@@ -3889,7 +3889,7 @@
     "unofficial": false,
     "girl": false
   },
-  "301033": {
+  {
     "team_id": "301033",
     "name": "美依题B会",
     "organization": "信阳师范学院",
@@ -3902,7 +3902,7 @@
     "unofficial": false,
     "girl": false
   },
-  "215017": {
+  {
     "team_id": "215017",
     "name": "基因突变",
     "organization": "黄淮学院",
@@ -3915,7 +3915,7 @@
     "unofficial": false,
     "girl": false
   },
-  "202025": {
+  {
     "team_id": "202025",
     "name": "算啥都对",
     "organization": "商丘学院应用科技学院",
@@ -3928,7 +3928,7 @@
     "unofficial": false,
     "girl": false
   },
-  "301031": {
+  {
     "team_id": "301031",
     "name": "观光团",
     "organization": "黄河科技学院",
@@ -3941,7 +3941,7 @@
     "unofficial": false,
     "girl": false
   },
-  "102006": {
+  {
     "team_id": "102006",
     "name": "全都队",
     "organization": "河南中医药大学",
@@ -3954,7 +3954,7 @@
     "unofficial": false,
     "girl": false
   },
-  "301003": {
+  {
     "team_id": "301003",
     "name": "不要指望我们队",
     "organization": "信阳师范学院",
@@ -3967,7 +3967,7 @@
     "unofficial": false,
     "girl": false
   },
-  "301039": {
+  {
     "team_id": "301039",
     "name": "河南科技学院 赢！",
     "organization": "河南科技学院",
@@ -3979,7 +3979,7 @@
     "unofficial": false,
     "girl": false
   },
-  "316004": {
+  {
     "team_id": "316004",
     "name": "干饭不想排队",
     "organization": "河南中医药大学",
@@ -3992,7 +3992,7 @@
     "unofficial": false,
     "girl": 1
   },
-  "301011": {
+  {
     "team_id": "301011",
     "name": "Mr. Ma is urging",
     "organization": "黄河科技学院",
@@ -4005,7 +4005,7 @@
     "unofficial": false,
     "girl": false
   },
-  "215042": {
+  {
     "team_id": "215042",
     "name": "队长说的都队",
     "organization": "周口师范学院",
@@ -4018,7 +4018,7 @@
     "unofficial": false,
     "girl": false
   },
-  "215031": {
+  {
     "team_id": "215031",
     "name": "我觉得都队",
     "organization": "郑州商学院",
@@ -4031,7 +4031,7 @@
     "unofficial": false,
     "girl": false
   },
-  "316031": {
+  {
     "team_id": "316031",
     "name": "啊对对队",
     "organization": "河南财政金融学院",
@@ -4044,7 +4044,7 @@
     "unofficial": false,
     "girl": false
   },
-  "202038": {
+  {
     "team_id": "202038",
     "name": "哦豁",
     "organization": "郑州师范学院",
@@ -4057,7 +4057,7 @@
     "unofficial": false,
     "girl": false
   },
-  "102031": {
+  {
     "team_id": "102031",
     "name": "三只松鼠",
     "organization": "郑州升达经贸管理学院",
@@ -4070,7 +4070,7 @@
     "unofficial": false,
     "girl": false
   },
-  "202028": {
+  {
     "team_id": "202028",
     "name": "妙蛙吃着妙角进妙屋",
     "organization": "郑州师范学院",
@@ -4083,7 +4083,7 @@
     "unofficial": false,
     "girl": false
   },
-  "316010": {
+  {
     "team_id": "316010",
     "name": "奇思妙想队",
     "organization": "周口师范学院",
@@ -4096,7 +4096,7 @@
     "unofficial": false,
     "girl": false
   },
-  "302002": {
+  {
     "team_id": "302002",
     "name": "少年先锋队",
     "organization": "郑州工商学院",
@@ -4109,7 +4109,7 @@
     "unofficial": false,
     "girl": false
   },
-  "316023": {
+  {
     "team_id": "316023",
     "name": "汪汪队",
     "organization": "河南理工大学",
@@ -4122,7 +4122,7 @@
     "unofficial": false,
     "girl": false
   },
-  "316033": {
+  {
     "team_id": "316033",
     "name": "从容应队",
     "organization": "河南牧业经济学院",
@@ -4135,7 +4135,7 @@
     "unofficial": false,
     "girl": false
   },
-  "215041": {
+  {
     "team_id": "215041",
     "name": "逐梦队",
     "organization": "郑州商学院",
@@ -4148,7 +4148,7 @@
     "unofficial": false,
     "girl": false
   },
-  "301024": {
+  {
     "team_id": "301024",
     "name": "你知道我什么成分来找我吧队",
     "organization": "郑州工商学院",
@@ -4161,7 +4161,7 @@
     "unofficial": false,
     "girl": false
   },
-  "302012": {
+  {
     "team_id": "302012",
     "name": "每道题都AC",
     "organization": "郑州工业应用技术学院",
@@ -4174,7 +4174,7 @@
     "unofficial": false,
     "girl": false
   },
-  "202015": {
+  {
     "team_id": "202015",
     "name": "菜菜捞捞",
     "organization": "商丘学院应用科技学院",
@@ -4187,7 +4187,7 @@
     "unofficial": false,
     "girl": false
   },
-  "302032": {
+  {
     "team_id": "302032",
     "name": "ZUA三队",
     "organization": "郑州航空工业管理学院",
@@ -4200,7 +4200,7 @@
     "unofficial": false,
     "girl": false
   },
-  "102003": {
+  {
     "team_id": "102003",
     "name": "贺浩勇队",
     "organization": "河南财政金融学院",
@@ -4213,7 +4213,7 @@
     "unofficial": false,
     "girl": false
   },
-  "215016": {
+  {
     "team_id": "215016",
     "name": "不会DP就是你的不队",
     "organization": "河南中医药大学",
@@ -4226,7 +4226,7 @@
     "unofficial": false,
     "girl": 1
   },
-  "402004": {
+  {
     "team_id": "402004",
     "name": "啊对对对",
     "organization": "黄淮学院",
@@ -4239,7 +4239,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "202005": {
+  {
     "team_id": "202005",
     "name": "阿里嘎多美羊羊桑",
     "organization": "商丘学院应用科技学院",
@@ -4252,7 +4252,7 @@
     "unofficial": false,
     "girl": false
   },
-  "215026": {
+  {
     "team_id": "215026",
     "name": "草莓芭菲队",
     "organization": "河南中医药大学",
@@ -4265,7 +4265,7 @@
     "unofficial": false,
     "girl": false
   },
-  "102008": {
+  {
     "team_id": "102008",
     "name": "芜湖~~",
     "organization": "平顶山学院",
@@ -4278,7 +4278,7 @@
     "unofficial": false,
     "girl": 1
   },
-  "102010": {
+  {
     "team_id": "102010",
     "name": "zit-笃行",
     "organization": "郑州科技学院",
@@ -4291,7 +4291,7 @@
     "unofficial": false,
     "girl": false
   },
-  "402022": {
+  {
     "team_id": "402022",
     "name": "大概全队",
     "organization": "郑州商学院",
@@ -4304,7 +4304,7 @@
     "unofficial": false,
     "girl": false
   },
-  "302005": {
+  {
     "team_id": "302005",
     "name": "至尊无敌霸气队",
     "organization": "安阳师范学院",
@@ -4317,7 +4317,7 @@
     "unofficial": false,
     "girl": false
   },
-  "301041": {
+  {
     "team_id": "301041",
     "name": "又双叒叕a了一道题",
     "organization": "黄河科技学院",
@@ -4330,4 +4330,4 @@
     "unofficial": false,
     "girl": false
   }
-}
+]

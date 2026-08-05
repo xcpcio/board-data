@@ -1,5 +1,5 @@
-{
-  "B30": {
+[
+  {
     "team_id": "B30",
     "name": "羊羊羊",
     "organization": "北京交通大学",
@@ -13,7 +13,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "A07": {
+  {
     "team_id": "A07",
     "name": "重生之我是北邮菜狗",
     "organization": "北京邮电大学",
@@ -26,7 +26,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "A04": {
+  {
     "team_id": "A04",
     "name": "东北大学_毒",
     "organization": "东北大学",
@@ -40,7 +40,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "A08": {
+  {
     "team_id": "A08",
     "name": "XCPC腐乳，出列！",
     "organization": "东北大学秦皇岛分校",
@@ -54,7 +54,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "E35": {
+  {
     "team_id": "E35",
     "name": "uuz 可爱",
     "organization": "河北工业大学",
@@ -68,7 +68,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "A06": {
+  {
     "team_id": "A06",
     "name": "风追夜白",
     "organization": "北京交通大学",
@@ -82,7 +82,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "F44": {
+  {
     "team_id": "F44",
     "name": "王源法把龙举",
     "organization": "燕山大学",
@@ -96,7 +96,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "F17": {
+  {
     "team_id": "F17",
     "name": "小饼卷大葱",
     "organization": "东北大学秦皇岛分校",
@@ -110,7 +110,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "G10": {
+  {
     "team_id": "G10",
     "name": "泰裤辣腊",
     "organization": "东北大学秦皇岛分校",
@@ -124,7 +124,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "G22": {
+  {
     "team_id": "G22",
     "name": "云帆一三人成行",
     "organization": "河北大学",
@@ -138,7 +138,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "B08": {
+  {
     "team_id": "B08",
     "name": "为什么不看题？为什么要看题？",
     "organization": "闽南师范大学",
@@ -152,7 +152,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "A15": {
+  {
     "team_id": "A15",
     "name": "未命名",
     "organization": "东北大学秦皇岛分校",
@@ -166,7 +166,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "A03": {
+  {
     "team_id": "A03",
     "name": "黎明之光",
     "organization": "河北师范大学",
@@ -180,7 +180,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "B33": {
+  {
     "team_id": "B33",
     "name": "东北大学_三人成行",
     "organization": "东北大学",
@@ -194,7 +194,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "A21": {
+  {
     "team_id": "A21",
     "name": "先打他一块铁",
     "organization": "河北工业大学",
@@ -208,7 +208,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "D09": {
+  {
     "team_id": "D09",
     "name": "ZTYC",
     "organization": "东北大学秦皇岛分校",
@@ -222,7 +222,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "E40": {
+  {
     "team_id": "E40",
     "name": "叶惠美",
     "organization": "河北师范大学",
@@ -236,7 +236,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "C19": {
+  {
     "team_id": "C19",
     "name": "范特西",
     "organization": "河北师范大学",
@@ -250,7 +250,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "F09": {
+  {
     "team_id": "F09",
     "name": "小黑子蒸虾饺",
     "organization": "东北大学秦皇岛分校",
@@ -264,7 +264,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "F35": {
+  {
     "team_id": "F35",
     "name": "光子灵枪·繁星飞耀",
     "organization": "华北理工大学",
@@ -278,7 +278,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "C13": {
+  {
     "team_id": "C13",
     "name": "重启征途",
     "organization": "河北经贸大学",
@@ -292,7 +292,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "F19": {
+  {
     "team_id": "F19",
     "name": "云帆三无产阶级先锋队",
     "organization": "河北大学",
@@ -306,7 +306,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "F40": {
+  {
     "team_id": "F40",
     "name": "想与写与蛙",
     "organization": "中国民航大学",
@@ -320,7 +320,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "B24": {
+  {
     "team_id": "B24",
     "name": "金色飞贼",
     "organization": "中国人民警察大学",
@@ -334,7 +334,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "F42": {
+  {
     "team_id": "F42",
     "name": "铁牌自动机",
     "organization": "东北大学秦皇岛分校",
@@ -348,7 +348,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "B04": {
+  {
     "team_id": "B04",
     "name": "NOEPU",
     "organization": "华北电力大学（保定）",
@@ -362,7 +362,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "G12": {
+  {
     "team_id": "G12",
     "name": "若能化作星座",
     "organization": "燕山大学",
@@ -376,7 +376,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "B06": {
+  {
     "team_id": "B06",
     "name": "键上翻花",
     "organization": "河北师范大学",
@@ -390,7 +390,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "A22": {
+  {
     "team_id": "A22",
     "name": "直觉理性",
     "organization": "东北大学秦皇岛分校",
@@ -404,7 +404,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "F05": {
+  {
     "team_id": "F05",
     "name": "本队已升级为星穹打铁道队",
     "organization": "燕山大学",
@@ -418,7 +418,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "G32": {
+  {
     "team_id": "G32",
     "name": "我心永恒~",
     "organization": "中国人民警察大学",
@@ -432,7 +432,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "F28": {
+  {
     "team_id": "F28",
     "name": "嘉然今天玩星穹铁道",
     "organization": "东北大学秦皇岛分校",
@@ -446,7 +446,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "F25": {
+  {
     "team_id": "F25",
     "name": "Explosions！",
     "organization": "河北农业大学",
@@ -460,7 +460,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "C06": {
+  {
     "team_id": "C06",
     "name": "属鼠也想队",
     "organization": "东北大学秦皇岛分校",
@@ -474,7 +474,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "B34": {
+  {
     "team_id": "B34",
     "name": "这次不能白给了",
     "organization": "东北大学秦皇岛分校",
@@ -488,7 +488,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "D23": {
+  {
     "team_id": "D23",
     "name": "八度空间",
     "organization": "河北师范大学",
@@ -502,7 +502,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "C22": {
+  {
     "team_id": "C22",
     "name": "广告位招租",
     "organization": "华北电力大学（保定）",
@@ -516,7 +516,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "G06": {
+  {
     "team_id": "G06",
     "name": "对什么队",
     "organization": "燕山大学",
@@ -530,7 +530,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "C27": {
+  {
     "team_id": "C27",
     "name": "嘉德罗斯",
     "organization": "石家庄铁道大学",
@@ -544,7 +544,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "B01": {
+  {
     "team_id": "B01",
     "name": "JAY",
     "organization": "河北师范大学",
@@ -558,7 +558,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "G18": {
+  {
     "team_id": "G18",
     "name": "签到题都不会我不急谁急",
     "organization": "燕山大学",
@@ -572,7 +572,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "C18": {
+  {
     "team_id": "C18",
     "name": "家人们谁懂啊",
     "organization": "河北农业大学",
@@ -586,7 +586,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "F13": {
+  {
     "team_id": "F13",
     "name": "计科好就业",
     "organization": "中国传媒大学",
@@ -600,7 +600,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "C30": {
+  {
     "team_id": "C30",
     "name": "叫什么无所谓对不队",
     "organization": "东北大学秦皇岛分校",
@@ -614,7 +614,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "E23": {
+  {
     "team_id": "E23",
     "name": "Rurirat速来拯救我的数理基",
     "organization": "燕山大学",
@@ -628,7 +628,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "A32": {
+  {
     "team_id": "A32",
     "name": "啊对对对你说的都队",
     "organization": "东北大学秦皇岛分校",
@@ -642,7 +642,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "E38": {
+  {
     "team_id": "E38",
     "name": "重生",
     "organization": "河北科技师范学院",
@@ -655,7 +655,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "F14": {
+  {
     "team_id": "F14",
     "name": "山水有情",
     "organization": "中国人民警察大学",
@@ -669,7 +669,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "G19": {
+  {
     "team_id": "G19",
     "name": "打铁还需自身硬",
     "organization": "中国民航大学",
@@ -684,7 +684,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "A18": {
+  {
     "team_id": "A18",
     "name": "矩阵先锋队",
     "organization": "河北地质大学",
@@ -698,7 +698,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "C08": {
+  {
     "team_id": "C08",
     "name": "全都做队",
     "organization": "河北工业大学",
@@ -712,7 +712,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "G33": {
+  {
     "team_id": "G33",
     "name": "云帆二想喝罗老师煮的咖啡队",
     "organization": "河北大学",
@@ -726,7 +726,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "F43": {
+  {
     "team_id": "F43",
     "name": "七里香",
     "organization": "河北师范大学",
@@ -740,7 +740,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "E17": {
+  {
     "team_id": "E17",
     "name": "塔山上的三角恋",
     "organization": "燕山大学",
@@ -754,7 +754,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "E16": {
+  {
     "team_id": "E16",
     "name": "云程发轫",
     "organization": "河北师范大学",
@@ -768,7 +768,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "D16": {
+  {
     "team_id": "D16",
     "name": "大展宏图",
     "organization": "东北大学秦皇岛分校",
@@ -782,7 +782,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "E04": {
+  {
     "team_id": "E04",
     "name": "到了秦皇岛吃什么",
     "organization": "河北农业大学",
@@ -796,7 +796,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "G27": {
+  {
     "team_id": "G27",
     "name": "铃芽户缔",
     "organization": "河北师范大学",
@@ -810,7 +810,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "F26": {
+  {
     "team_id": "F26",
     "name": "云帆五在这么冷的天~",
     "organization": "河北大学",
@@ -824,7 +824,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "F41": {
+  {
     "team_id": "F41",
     "name": "妈妈省的",
     "organization": "中国人民警察大学",
@@ -838,7 +838,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "F20": {
+  {
     "team_id": "F20",
     "name": "一把钝了的刀",
     "organization": "河北工业大学",
@@ -852,7 +852,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "G25": {
+  {
     "team_id": "G25",
     "name": "农大往事",
     "organization": "河北农业大学",
@@ -866,7 +866,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "G36": {
+  {
     "team_id": "G36",
     "name": "11月的肖邦",
     "organization": "河北师范大学",
@@ -880,7 +880,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "D05": {
+  {
     "team_id": "D05",
     "name": "Ac Win",
     "organization": "燕山大学",
@@ -894,7 +894,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "F32": {
+  {
     "team_id": "F32",
     "name": "只因你太酷啦队",
     "organization": "华北电力大学（保定）",
@@ -908,7 +908,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "D10": {
+  {
     "team_id": "D10",
     "name": "肖申克的救赎队",
     "organization": "中国人民警察大学",
@@ -922,7 +922,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "A34": {
+  {
     "team_id": "A34",
     "name": "四小时下班",
     "organization": "河北民族师范学院",
@@ -936,7 +936,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "B23": {
+  {
     "team_id": "B23",
     "name": "蜥蜴饭队",
     "organization": "中国传媒大学",
@@ -950,7 +950,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "E06": {
+  {
     "team_id": "E06",
     "name": "芝士雪豹",
     "organization": "东北大学秦皇岛分校",
@@ -964,7 +964,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "G15": {
+  {
     "team_id": "G15",
     "name": "都是高手",
     "organization": "华北理工大学",
@@ -978,7 +978,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "F33": {
+  {
     "team_id": "F33",
     "name": "九天揽月",
     "organization": "河北师范大学",
@@ -992,7 +992,7 @@
     "girl": 1,
     "undergraduate": 1
   },
-  "C12": {
+  {
     "team_id": "C12",
     "name": "TTL",
     "organization": "河北金融学院",
@@ -1006,7 +1006,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "G34": {
+  {
     "team_id": "G34",
     "name": "小趴菜",
     "organization": "河北建筑工程学院",
@@ -1020,7 +1020,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "E15": {
+  {
     "team_id": "E15",
     "name": "重生之汪汪队",
     "organization": "石家庄学院",
@@ -1034,7 +1034,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "B10": {
+  {
     "team_id": "B10",
     "name": "破浪队",
     "organization": "石家庄铁道大学",
@@ -1048,7 +1048,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "D27": {
+  {
     "team_id": "D27",
     "name": "嘤嘤嘤的小土豆",
     "organization": "河北农业大学",
@@ -1062,7 +1062,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "B35": {
+  {
     "team_id": "B35",
     "name": "三生万物",
     "organization": "防灾科技学院",
@@ -1076,7 +1076,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "B15": {
+  {
     "team_id": "B15",
     "name": "老墨我想吃鱼了",
     "organization": "燕山大学",
@@ -1090,7 +1090,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "E24": {
+  {
     "team_id": "E24",
     "name": "白杨1队",
     "organization": "中国传媒大学",
@@ -1104,7 +1104,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "F31": {
+  {
     "team_id": "F31",
     "name": "海底小纵队",
     "organization": "衡水学院",
@@ -1118,7 +1118,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "C01": {
+  {
     "team_id": "C01",
     "name": "三只大趴菜",
     "organization": "邯郸学院",
@@ -1132,7 +1132,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "B12": {
+  {
     "team_id": "B12",
     "name": "进秦打铁",
     "organization": "石家庄学院",
@@ -1146,7 +1146,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "F39": {
+  {
     "team_id": "F39",
     "name": "交个朋友",
     "organization": "燕山大学",
@@ -1160,7 +1160,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "B25": {
+  {
     "team_id": "B25",
     "name": "踏宇摘星",
     "organization": "河北师范大学",
@@ -1174,7 +1174,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "B07": {
+  {
     "team_id": "B07",
     "name": "三只小鹿飞走咯",
     "organization": "华北理工大学",
@@ -1188,7 +1188,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "F34": {
+  {
     "team_id": "F34",
     "name": "取名太困难了（",
     "organization": "华北科技学院",
@@ -1202,7 +1202,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "F29": {
+  {
     "team_id": "F29",
     "name": "摩羯座",
     "organization": "河北师范大学",
@@ -1216,7 +1216,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "D26": {
+  {
     "team_id": "D26",
     "name": "都可以",
     "organization": "河北工业大学",
@@ -1230,7 +1230,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "E09": {
+  {
     "team_id": "E09",
     "name": "破晓一队",
     "organization": "河北大学",
@@ -1244,7 +1244,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "A30": {
+  {
     "team_id": "A30",
     "name": "请君入栈",
     "organization": "河北农业大学",
@@ -1258,7 +1258,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "B26": {
+  {
     "team_id": "B26",
     "name": "保院三剑客",
     "organization": "保定学院",
@@ -1272,7 +1272,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "E08": {
+  {
     "team_id": "E08",
     "name": "wrong不要紧 信仰中国红",
     "organization": "衡水学院",
@@ -1286,7 +1286,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "B18": {
+  {
     "team_id": "B18",
     "name": "AC不过不吃饭",
     "organization": "天津商业大学",
@@ -1300,7 +1300,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "E05": {
+  {
     "team_id": "E05",
     "name": "指尖破晓",
     "organization": "河北师范大学",
@@ -1314,7 +1314,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "C05": {
+  {
     "team_id": "C05",
     "name": "暴力搜索队",
     "organization": "河北地质大学",
@@ -1328,7 +1328,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "E01": {
+  {
     "team_id": "E01",
     "name": "重生之我又是菜狗",
     "organization": "河北科技师范学院",
@@ -1342,7 +1342,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "B17": {
+  {
     "team_id": "B17",
     "name": "大聪明不相信眼泪",
     "organization": "天津工业大学",
@@ -1356,7 +1356,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "D31": {
+  {
     "team_id": "D31",
     "name": "面向样例",
     "organization": "河北经贸大学",
@@ -1370,7 +1370,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "A11": {
+  {
     "team_id": "A11",
     "name": "混世魔王",
     "organization": "河北农业大学",
@@ -1384,7 +1384,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "G30": {
+  {
     "team_id": "G30",
     "name": "第七班",
     "organization": "燕京理工学院",
@@ -1398,7 +1398,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "D08": {
+  {
     "team_id": "D08",
     "name": "旺仔小分队",
     "organization": "中国传媒大学",
@@ -1412,7 +1412,7 @@
     "girl": 1,
     "undergraduate": 1
   },
-  "E39": {
+  {
     "team_id": "E39",
     "name": "coding自然成",
     "organization": "河北农业大学",
@@ -1426,7 +1426,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "D30": {
+  {
     "team_id": "D30",
     "name": "光之队",
     "organization": "河北金融学院",
@@ -1440,7 +1440,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "E10": {
+  {
     "team_id": "E10",
     "name": "TLEWARE",
     "organization": "华北电力大学（保定）",
@@ -1454,7 +1454,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "G02": {
+  {
     "team_id": "G02",
     "name": "云帆四秦皇岛两日游",
     "organization": "河北大学",
@@ -1468,7 +1468,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "E28": {
+  {
     "team_id": "E28",
     "name": "三元一次方程组",
     "organization": "东北大学秦皇岛分校",
@@ -1482,7 +1482,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "A20": {
+  {
     "team_id": "A20",
     "name": "算法如诗 ",
     "organization": "河北师范大学",
@@ -1496,7 +1496,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "E32": {
+  {
     "team_id": "E32",
     "name": "喵喵队摸大鱼",
     "organization": "河北大学",
@@ -1510,7 +1510,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "E25": {
+  {
     "team_id": "E25",
     "name": "杠上开花",
     "organization": "中国人民警察大学",
@@ -1524,7 +1524,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "G24": {
+  {
     "team_id": "G24",
     "name": "青春码农少年不会梦到icpc金牌队",
     "organization": "河北科技师范学院",
@@ -1538,7 +1538,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "G39": {
+  {
     "team_id": "G39",
     "name": "你说的对，但是hcpc",
     "organization": "燕山大学",
@@ -1552,7 +1552,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "G14": {
+  {
     "team_id": "G14",
     "name": "知识，与你分享",
     "organization": "华北科技学院",
@@ -1566,7 +1566,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "E31": {
+  {
     "team_id": "E31",
     "name": "沧溟踏浪",
     "organization": "河北师范大学",
@@ -1580,7 +1580,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "D11": {
+  {
     "team_id": "D11",
     "name": "听取WA声一片",
     "organization": "保定学院",
@@ -1594,7 +1594,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "C29": {
+  {
     "team_id": "C29",
     "name": "天生伊队",
     "organization": "石家庄学院",
@@ -1608,7 +1608,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "F30": {
+  {
     "team_id": "F30",
     "name": "勇勇勇勇勇",
     "organization": "河北师范大学附属民族学院",
@@ -1622,7 +1622,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "G37": {
+  {
     "team_id": "G37",
     "name": "嘎嘎队",
     "organization": "东北大学秦皇岛分校",
@@ -1636,7 +1636,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "G11": {
+  {
     "team_id": "G11",
     "name": "依然范特西",
     "organization": "河北师范大学",
@@ -1650,7 +1650,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "E42": {
+  {
     "team_id": "E42",
     "name": "黑客三小白",
     "organization": "衡水学院",
@@ -1664,7 +1664,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "A09": {
+  {
     "team_id": "A09",
     "name": "谁懂啊家人们一题也不会",
     "organization": "沧州交通学院",
@@ -1678,7 +1678,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "C17": {
+  {
     "team_id": "C17",
     "name": "从容应队",
     "organization": "河北民族师范学院",
@@ -1692,7 +1692,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "D13": {
+  {
     "team_id": "D13",
     "name": "金色闪光",
     "organization": "北华航天工业学院",
@@ -1706,7 +1706,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "F27": {
+  {
     "team_id": "F27",
     "name": "浑元形意",
     "organization": "河北农业大学",
@@ -1720,7 +1720,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "C25": {
+  {
     "team_id": "C25",
     "name": "重生之我们是jianglyfansfans",
     "organization": "华北理工大学",
@@ -1734,7 +1734,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "B29": {
+  {
     "team_id": "B29",
     "name": "啊对对对队",
     "organization": "北华航天工业学院",
@@ -1748,7 +1748,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "B16": {
+  {
     "team_id": "B16",
     "name": "我们嗜帝盗犇愤牢弑人",
     "organization": "唐山学院",
@@ -1762,7 +1762,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "B32": {
+  {
     "team_id": "B32",
     "name": "钊哥说的队",
     "organization": "沧州师范学院",
@@ -1776,7 +1776,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "C16": {
+  {
     "team_id": "C16",
     "name": "香菜奶茶不加冰",
     "organization": "河北科技学院",
@@ -1790,7 +1790,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "A33": {
+  {
     "team_id": "A33",
     "name": "出题太难是你的不队",
     "organization": "河北科技学院",
@@ -1804,7 +1804,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "E03": {
+  {
     "team_id": "E03",
     "name": "红鲤鱼与绿鲤鱼与驴",
     "organization": "河北民族师范学院",
@@ -1818,7 +1818,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "G04": {
+  {
     "team_id": "G04",
     "name": "跨时代",
     "organization": "河北师范大学",
@@ -1832,7 +1832,7 @@
     "girl": 1,
     "undergraduate": 1
   },
-  "E33": {
+  {
     "team_id": "E33",
     "name": "在小小的花园里面挖呀挖呀挖",
     "organization": "河北东方学院",
@@ -1846,7 +1846,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "D21": {
+  {
     "team_id": "D21",
     "name": "你这题保熟吗",
     "organization": "河北大学",
@@ -1860,7 +1860,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "A26": {
+  {
     "team_id": "A26",
     "name": "听取wa声一片",
     "organization": "河北建筑工程学院",
@@ -1874,7 +1874,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "G09": {
+  {
     "team_id": "G09",
     "name": "0x7fffffff",
     "organization": "河北农业大学现代科技学院",
@@ -1888,7 +1888,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "F24": {
+  {
     "team_id": "F24",
     "name": "河北垫底king",
     "organization": "河北科技师范学院",
@@ -1902,7 +1902,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "C21": {
+  {
     "team_id": "C21",
     "name": "你写的答案都不队",
     "organization": "衡水学院",
@@ -1916,7 +1916,7 @@
     "girl": 1,
     "undergraduate": 1
   },
-  "F08": {
+  {
     "team_id": "F08",
     "name": "格兰芬多小队",
     "organization": "唐山师范学院",
@@ -1930,7 +1930,7 @@
     "girl": 1,
     "undergraduate": 1
   },
-  "E37": {
+  {
     "team_id": "E37",
     "name": "花园宝宝",
     "organization": "河北建筑工程学院",
@@ -1944,7 +1944,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "A05": {
+  {
     "team_id": "A05",
     "name": "八阿哥之家",
     "organization": "北华航天工业学院",
@@ -1958,7 +1958,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "F22": {
+  {
     "team_id": "F22",
     "name": "amagi",
     "organization": "东北大学秦皇岛分校",
@@ -1972,7 +1972,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "F23": {
+  {
     "team_id": "F23",
     "name": "未来队",
     "organization": "河北建筑工程学院",
@@ -1986,7 +1986,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "D24": {
+  {
     "team_id": "D24",
     "name": "cj编码小组",
     "organization": "河北地质大学",
@@ -2000,7 +2000,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "G40": {
+  {
     "team_id": "G40",
     "name": "周本三缺一",
     "organization": "中国人民警察大学",
@@ -2014,7 +2014,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "F12": {
+  {
     "team_id": "F12",
     "name": "东秦夕阳红旅游团",
     "organization": "燕山大学",
@@ -2028,7 +2028,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "D17": {
+  {
     "team_id": "D17",
     "name": "TXC战队",
     "organization": "防灾科技学院",
@@ -2042,7 +2042,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "C02": {
+  {
     "team_id": "C02",
     "name": "就队",
     "organization": "河北北方学院",
@@ -2056,7 +2056,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "E41": {
+  {
     "team_id": "E41",
     "name": "感觉就很队",
     "organization": "河北师范大学附属民族学院",
@@ -2070,7 +2070,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "E19": {
+  {
     "team_id": "E19",
     "name": "码到成功",
     "organization": "唐山师范学院",
@@ -2084,7 +2084,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "D07": {
+  {
     "team_id": "D07",
     "name": "不上榜就不改名",
     "organization": "张家口学院",
@@ -2098,7 +2098,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "B19": {
+  {
     "team_id": "B19",
     "name": "浪队",
     "organization": "邢台学院",
@@ -2112,7 +2112,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "B03": {
+  {
     "team_id": "B03",
     "name": "所以爱会消失对不队",
     "organization": "衡水学院",
@@ -2126,7 +2126,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "G28": {
+  {
     "team_id": "G28",
     "name": "云游四海胡吃海塞队",
     "organization": "华北科技学院",
@@ -2140,7 +2140,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "G31": {
+  {
     "team_id": "G31",
     "name": "这事一个WonderfulAnswer",
     "organization": "燕山大学",
@@ -2154,7 +2154,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "E43": {
+  {
     "team_id": "E43",
     "name": "争取报销队",
     "organization": "华北电力大学（保定）",
@@ -2168,7 +2168,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "D25": {
+  {
     "team_id": "D25",
     "name": "直上云霄",
     "organization": "河北工程技术学院",
@@ -2182,7 +2182,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "F04": {
+  {
     "team_id": "F04",
     "name": "WA真是一件美逝",
     "organization": "石家庄铁道大学四方学院",
@@ -2196,7 +2196,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "A35": {
+  {
     "team_id": "A35",
     "name": "重生之我是tourist",
     "organization": "河北农业大学",
@@ -2210,7 +2210,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "E22": {
+  {
     "team_id": "E22",
     "name": "我也不知道对不队",
     "organization": "东北大学秦皇岛分校",
@@ -2224,7 +2224,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "D12": {
+  {
     "team_id": "D12",
     "name": "闹闹闹",
     "organization": "保定职业技术学院",
@@ -2238,7 +2238,7 @@
     "girl": false,
     "vocational": 1
   },
-  "B14": {
+  {
     "team_id": "B14",
     "name": "你们写的都不",
     "organization": "唐山师范学院",
@@ -2252,7 +2252,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "D06": {
+  {
     "team_id": "D06",
     "name": "战上云霄",
     "organization": "河北师范大学",
@@ -2266,7 +2266,7 @@
     "girl": 1,
     "undergraduate": 1
   },
-  "E29": {
+  {
     "team_id": "E29",
     "name": "DP闪电独角兽",
     "organization": "防灾科技学院",
@@ -2280,7 +2280,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "C04": {
+  {
     "team_id": "C04",
     "name": "还没想好呢",
     "organization": "河北大学",
@@ -2294,7 +2294,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "B21": {
+  {
     "team_id": "B21",
     "name": "风雨无阻队",
     "organization": "燕山大学",
@@ -2308,7 +2308,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "A12": {
+  {
     "team_id": "A12",
     "name": "用栈or",
     "organization": "防灾科技学院",
@@ -2322,7 +2322,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "C14": {
+  {
     "team_id": "C14",
     "name": "写不对根本写不队",
     "organization": "河北经贸大学经济管理学院",
@@ -2336,7 +2336,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "F10": {
+  {
     "team_id": "F10",
     "name": "一码当先",
     "organization": "邢台学院",
@@ -2350,7 +2350,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "F06": {
+  {
     "team_id": "F06",
     "name": "燃爆cpu",
     "organization": "石家庄学院",
@@ -2364,7 +2364,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "G38": {
+  {
     "team_id": "G38",
     "name": "汇华凝心队",
     "organization": "河北师范大学汇华学院",
@@ -2378,7 +2378,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "F37": {
+  {
     "team_id": "F37",
     "name": "粉红小马宝莉队",
     "organization": "唐山师范学院",
@@ -2392,7 +2392,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "C07": {
+  {
     "team_id": "C07",
     "name": "超级海战队",
     "organization": "河北工程技术学院",
@@ -2406,7 +2406,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "E30": {
+  {
     "team_id": "E30",
     "name": "微笑的坚果墙",
     "organization": "邯郸学院",
@@ -2420,7 +2420,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "G13": {
+  {
     "team_id": "G13",
     "name": "汇华摆烂队",
     "organization": "河北师范大学汇华学院",
@@ -2434,7 +2434,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "F02": {
+  {
     "team_id": "F02",
     "name": "谦虚勤奋好学",
     "organization": "华北理工大学",
@@ -2448,7 +2448,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "B22": {
+  {
     "team_id": "B22",
     "name": "好事成双",
     "organization": "张家口学院",
@@ -2462,7 +2462,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "D18": {
+  {
     "team_id": "D18",
     "name": "如来佛组",
     "organization": "邯郸学院",
@@ -2476,7 +2476,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "A29": {
+  {
     "team_id": "A29",
     "name": "一键Ac",
     "organization": "河北经贸大学经济管理学院",
@@ -2490,7 +2490,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "A01": {
+  {
     "team_id": "A01",
     "name": "bug小天敌",
     "organization": "保定学院",
@@ -2504,7 +2504,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "A02": {
+  {
     "team_id": "A02",
     "name": "我们做的都队",
     "organization": "保定职业技术学院",
@@ -2518,7 +2518,7 @@
     "girl": false,
     "vocational": 1
   },
-  "F11": {
+  {
     "team_id": "F11",
     "name": "超能陆战队",
     "organization": "燕京理工学院",
@@ -2532,7 +2532,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "C23": {
+  {
     "team_id": "C23",
     "name": "全对全队",
     "organization": "燕山大学",
@@ -2546,7 +2546,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "B28": {
+  {
     "team_id": "B28",
     "name": "代码粉碎机",
     "organization": "河北大学",
@@ -2560,7 +2560,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "A24": {
+  {
     "team_id": "A24",
     "name": "无所谓队",
     "organization": "河北建材职业技术学院",
@@ -2574,7 +2574,7 @@
     "girl": false,
     "vocational": 1
   },
-  "A17": {
+  {
     "team_id": "A17",
     "name": "不摆烂人",
     "organization": "河北大学",
@@ -2588,7 +2588,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "B13": {
+  {
     "team_id": "B13",
     "name": "超越梦想",
     "organization": "唐山工业职业技术学院",
@@ -2602,7 +2602,7 @@
     "girl": false,
     "vocational": 1
   },
-  "E34": {
+  {
     "team_id": "E34",
     "name": "蒸蒸日上",
     "organization": "河北工程技术学院",
@@ -2616,7 +2616,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "G20": {
+  {
     "team_id": "G20",
     "name": "主打一个混队",
     "organization": "中国人民警察大学",
@@ -2630,7 +2630,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "C03": {
+  {
     "team_id": "C03",
     "name": "佛系摸鱼队",
     "organization": "河北传媒学院",
@@ -2644,7 +2644,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "E26": {
+  {
     "team_id": "E26",
     "name": "脸给我气嚼绿",
     "organization": "保定学院",
@@ -2658,7 +2658,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "B05": {
+  {
     "team_id": "B05",
     "name": "啊对对队",
     "organization": "华北科技学院",
@@ -2672,7 +2672,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "E11": {
+  {
     "team_id": "E11",
     "name": "不斗城东",
     "organization": "华北科技学院",
@@ -2686,7 +2686,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "E12": {
+  {
     "team_id": "E12",
     "name": "我的女装ACMer不可能这么可爱",
     "organization": "华北理工大学",
@@ -2700,7 +2700,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "G29": {
+  {
     "team_id": "G29",
     "name": "电脑里有一款开放模块编译器",
     "organization": "唐山师范学院",
@@ -2714,7 +2714,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "G01": {
+  {
     "team_id": "G01",
     "name": "奋斗者",
     "organization": "邯郸学院",
@@ -2728,7 +2728,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "C20": {
+  {
     "team_id": "C20",
     "name": "永恒队",
     "organization": "河北水利电力学院",
@@ -2742,7 +2742,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "B27": {
+  {
     "team_id": "B27",
     "name": "爱门",
     "organization": "保定职业技术学院",
@@ -2756,7 +2756,7 @@
     "girl": false,
     "vocational": 1
   },
-  "C28": {
+  {
     "team_id": "C28",
     "name": "三零幺队",
     "organization": "石家庄铁道大学四方学院",
@@ -2770,7 +2770,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "E36": {
+  {
     "team_id": "E36",
     "name": "蔡徐坤篮球队",
     "organization": "河北环境工程学院",
@@ -2784,7 +2784,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "G08": {
+  {
     "team_id": "G08",
     "name": "高瞻远组",
     "organization": "河北农业大学",
@@ -2798,7 +2798,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "G35": {
+  {
     "team_id": "G35",
     "name": "奇思妙想小队",
     "organization": "河北农业大学",
@@ -2812,7 +2812,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "F18": {
+  {
     "team_id": "F18",
     "name": "仨人儿甘兰河北省",
     "organization": "邯郸学院",
@@ -2826,7 +2826,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "C09": {
+  {
     "team_id": "C09",
     "name": "长大了我要当算法人",
     "organization": "河北环境工程学院",
@@ -2840,7 +2840,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "C10": {
+  {
     "team_id": "C10",
     "name": "冰与火之歌队",
     "organization": "河北建材职业技术学院",
@@ -2854,7 +2854,7 @@
     "girl": false,
     "vocational": 1
   },
-  "G26": {
+  {
     "team_id": "G26",
     "name": "泡泡鱼",
     "organization": "燕山大学里仁学院",
@@ -2868,7 +2868,7 @@
     "girl": 1,
     "undergraduate": 1
   },
-  "D15": {
+  {
     "team_id": "D15",
     "name": "锐少说的队",
     "organization": "沧州师范学院",
@@ -2882,7 +2882,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "A10": {
+  {
     "team_id": "A10",
     "name": "云帆带的队",
     "organization": "沧州师范学院",
@@ -2896,7 +2896,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "D22": {
+  {
     "team_id": "D22",
     "name": "在农大的花园里挖呀挖呀挖",
     "organization": "河北农业大学",
@@ -2910,7 +2910,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "A28": {
+  {
     "team_id": "A28",
     "name": "小灰机",
     "organization": "河北经贸大学",
@@ -2924,7 +2924,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "D04": {
+  {
     "team_id": "D04",
     "name": "攀登者",
     "organization": "燕京理工学院",
@@ -2938,7 +2938,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "F01": {
+  {
     "team_id": "F01",
     "name": "你说的不太队",
     "organization": "河北大学",
@@ -2952,7 +2952,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "E13": {
+  {
     "team_id": "E13",
     "name": "我们写的都队",
     "organization": "秦皇岛职业技术学院",
@@ -2966,7 +2966,7 @@
     "girl": false,
     "vocational": 1
   },
-  "A31": {
+  {
     "team_id": "A31",
     "name": "不太聪明的小鬼",
     "organization": "河北科技师范学院",
@@ -2980,7 +2980,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "B20": {
+  {
     "team_id": "B20",
     "name": "猫猫今天要AC",
     "organization": "燕京理工学院",
@@ -2994,7 +2994,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "C26": {
+  {
     "team_id": "C26",
     "name": "嘎嘎冲小队",
     "organization": "秦皇岛职业技术学院",
@@ -3008,7 +3008,7 @@
     "girl": false,
     "vocational": 1
   },
-  "B02": {
+  {
     "team_id": "B02",
     "name": "水院争先队",
     "organization": "河北水利电力学院",
@@ -3022,7 +3022,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "E20": {
+  {
     "team_id": "E20",
     "name": "所以爱会消失对不队",
     "organization": "邢台学院",
@@ -3036,7 +3036,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "G16": {
+  {
     "team_id": "G16",
     "name": "暴力答题队",
     "organization": "唐山师范学院",
@@ -3050,7 +3050,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "C24": {
+  {
     "team_id": "C24",
     "name": "广告位招租",
     "organization": "华北科技学院",
@@ -3064,7 +3064,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "A14": {
+  {
     "team_id": "A14",
     "name": "一路向北",
     "organization": "河北北方学院",
@@ -3078,7 +3078,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "D29": {
+  {
     "team_id": "D29",
     "name": "黎明",
     "organization": "河北建筑工程学院",
@@ -3093,7 +3093,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "F07": {
+  {
     "team_id": "F07",
     "name": "勇拓队",
     "organization": "唐山工业职业技术学院",
@@ -3107,7 +3107,7 @@
     "girl": false,
     "vocational": 1
   },
-  "A27": {
+  {
     "team_id": "A27",
     "name": "黄金剧场",
     "organization": "河北金融学院",
@@ -3121,7 +3121,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "E07": {
+  {
     "team_id": "E07",
     "name": "阳光开朗三男孩",
     "organization": "河北水利电力学院",
@@ -3135,7 +3135,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "G41": {
+  {
     "team_id": "G41",
     "name": "山山而川，纵笔江山",
     "organization": "沧州交通学院",
@@ -3149,7 +3149,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "A13": {
+  {
     "team_id": "A13",
     "name": "代码战士",
     "organization": "邯郸学院",
@@ -3163,7 +3163,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "C15": {
+  {
     "team_id": "C15",
     "name": "对不",
     "organization": "河北科技师范学院",
@@ -3177,7 +3177,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "C11": {
+  {
     "team_id": "C11",
     "name": "绿叶队",
     "organization": "河北建筑工程学院",
@@ -3191,7 +3191,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "G23": {
+  {
     "team_id": "G23",
     "name": "Hello world",
     "organization": "河北建筑工程学院",
@@ -3205,7 +3205,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "E02": {
+  {
     "team_id": "E02",
     "name": "世末歌者",
     "organization": "河北科技学院",
@@ -3219,7 +3219,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "F21": {
+  {
     "team_id": "F21",
     "name": "起名想了两年半",
     "organization": "河北环境工程学院",
@@ -3233,7 +3233,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "D01": {
+  {
     "team_id": "D01",
     "name": "智联",
     "organization": "唐山工业职业技术学院",
@@ -3247,7 +3247,7 @@
     "girl": false,
     "vocational": 1
   },
-  "F38": {
+  {
     "team_id": "F38",
     "name": "我的朋友苗雅薇小姐",
     "organization": "燕京理工学院",
@@ -3262,7 +3262,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "G05": {
+  {
     "team_id": "G05",
     "name": "奋勇争先",
     "organization": "河北建筑工程学院",
@@ -3276,7 +3276,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "F03": {
+  {
     "team_id": "F03",
     "name": "菩提老组",
     "organization": "秦皇岛职业技术学院",
@@ -3290,7 +3290,7 @@
     "girl": false,
     "vocational": 1
   },
-  "A16": {
+  {
     "team_id": "A16",
     "name": "看不懂英文队",
     "organization": "河北传媒学院",
@@ -3304,7 +3304,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "G42": {
+  {
     "team_id": "G42",
     "name": "小小酱油队",
     "organization": "NEUQer训练营",
@@ -3317,7 +3317,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "A25": {
+  {
     "team_id": "A25",
     "name": "重生",
     "organization": "河北大学",
@@ -3331,7 +3331,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "E27": {
+  {
     "team_id": "E27",
     "name": "无言以",
     "organization": "沧州交通学院",
@@ -3345,7 +3345,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "D28": {
+  {
     "team_id": "D28",
     "name": "天韵队",
     "organization": "河北环境工程学院",
@@ -3359,7 +3359,7 @@
     "girl": 1,
     "undergraduate": 1
   },
-  "D20": {
+  {
     "team_id": "D20",
     "name": "河传3队",
     "organization": "河北传媒学院",
@@ -3373,7 +3373,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "F16": {
+  {
     "team_id": "F16",
     "name": "码力全开",
     "organization": "沧州交通学院",
@@ -3387,7 +3387,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "B11": {
+  {
     "team_id": "B11",
     "name": "三匠无亮",
     "organization": "石家庄铁道大学四方学院",
@@ -3401,7 +3401,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "E14": {
+  {
     "team_id": "E14",
     "name": "火箭队",
     "organization": "石家庄铁道大学四方学院",
@@ -3415,7 +3415,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "G21": {
+  {
     "team_id": "G21",
     "name": "编啥都队",
     "organization": "东北大学秦皇岛分校",
@@ -3429,7 +3429,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "F15": {
+  {
     "team_id": "F15",
     "name": "AI小分队",
     "organization": "保定学院",
@@ -3443,7 +3443,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "D32": {
+  {
     "team_id": "D32",
     "name": "守护发际线",
     "organization": "河北经贸大学经济管理学院",
@@ -3457,7 +3457,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "E44": {
+  {
     "team_id": "E44",
     "name": "从爆零开始的acm生活",
     "organization": "华北科技学院",
@@ -3471,7 +3471,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "G17": {
+  {
     "team_id": "G17",
     "name": "开卷有益",
     "organization": "燕京理工学院",
@@ -3485,7 +3485,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "G03": {
+  {
     "team_id": "G03",
     "name": "平凡队",
     "organization": "河北环境工程学院",
@@ -3499,7 +3499,7 @@
     "girl": 1,
     "undergraduate": 1
   },
-  "D03": {
+  {
     "team_id": "D03",
     "name": "梦之队",
     "organization": "邢台学院",
@@ -3513,7 +3513,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "A23": {
+  {
     "team_id": "A23",
     "name": "程序猿",
     "organization": "河北环境工程学院",
@@ -3527,7 +3527,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "B09": {
+  {
     "team_id": "B09",
     "name": "立大功汪汪队",
     "organization": "秦皇岛职业技术学院",
@@ -3541,7 +3541,7 @@
     "girl": false,
     "vocational": 1
   },
-  "D19": {
+  {
     "team_id": "D19",
     "name": "激流队",
     "organization": "河北北方学院",
@@ -3555,7 +3555,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "E18": {
+  {
     "team_id": "E18",
     "name": "海底小纵队",
     "organization": "唐山工业职业技术学院",
@@ -3569,7 +3569,7 @@
     "girl": false,
     "vocational": 1
   },
-  "A19": {
+  {
     "team_id": "A19",
     "name": "超能陆战队",
     "organization": "河北工程技术学院",
@@ -3583,7 +3583,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "F36": {
+  {
     "team_id": "F36",
     "name": "请为程序添砖Java队",
     "organization": "唐山工业职业技术学院",
@@ -3597,7 +3597,7 @@
     "girl": false,
     "vocational": 1
   },
-  "G07": {
+  {
     "team_id": "G07",
     "name": "才不外溜",
     "organization": "河北科技师范学院",
@@ -3611,7 +3611,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "B31": {
+  {
     "team_id": "B31",
     "name": "明石",
     "organization": "沧州交通学院",
@@ -3625,7 +3625,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "E21": {
+  {
     "team_id": "E21",
     "name": "还没秃就队",
     "organization": "燕京理工学院",
@@ -3639,7 +3639,7 @@
     "girl": 1,
     "undergraduate": 1
   },
-  "D14": {
+  {
     "team_id": "D14",
     "name": "全都做",
     "organization": "沧州交通学院",
@@ -3653,7 +3653,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "D02": {
+  {
     "team_id": "D02",
     "name": "呆到自然疯",
     "organization": "唐山师范学院",
@@ -3667,4 +3667,4 @@
     "girl": false,
     "undergraduate": 1
   }
-}
+]

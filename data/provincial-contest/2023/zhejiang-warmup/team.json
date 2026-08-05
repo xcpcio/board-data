@@ -1,5 +1,5 @@
-{
-  "2023zjcpc_pre_1_team": {
+[
+  {
     "team_id": "2023zjcpc_pre_1_team",
     "name": "三众全灰",
     "organization": "杭州师范大学",
@@ -13,7 +13,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_2_team": {
+  {
     "team_id": "2023zjcpc_pre_2_team",
     "name": "ZJUT3",
     "organization": "浙江工业大学",
@@ -27,7 +27,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_3_team": {
+  {
     "team_id": "2023zjcpc_pre_3_team",
     "name": "多A就C队",
     "organization": "中国计量大学",
@@ -41,7 +41,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_4_team": {
+  {
     "team_id": "2023zjcpc_pre_4_team",
     "name": "逆熵",
     "organization": "杭州电子科技大学信息工程学院",
@@ -55,7 +55,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_5_team": {
+  {
     "team_id": "2023zjcpc_pre_5_team",
     "name": "浙邮好厚眯",
     "organization": "浙江邮电职业技术学院",
@@ -69,7 +69,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_6_team": {
+  {
     "team_id": "2023zjcpc_pre_6_team",
     "name": "卖鱼佬队",
     "organization": "浙江理工大学科技与艺术学院",
@@ -83,7 +83,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_7_team": {
+  {
     "team_id": "2023zjcpc_pre_7_team",
     "name": "今天你摆烂了对不队",
     "organization": "金华职业技术学院",
@@ -97,7 +97,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_8_team": {
+  {
     "team_id": "2023zjcpc_pre_8_team",
     "name": "巨饿",
     "organization": "宁波工程学院",
@@ -111,7 +111,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_9_team": {
+  {
     "team_id": "2023zjcpc_pre_9_team",
     "name": "邮电好厚米",
     "organization": "浙江邮电职业技术学院",
@@ -125,7 +125,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_10_team": {
+  {
     "team_id": "2023zjcpc_pre_10_team",
     "name": "重生之我是菜鲲",
     "organization": "宁波财经学院",
@@ -139,7 +139,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_11_team": {
+  {
     "team_id": "2023zjcpc_pre_11_team",
     "name": "就要二次元就要二次元",
     "organization": "浙江经贸职业技术学院",
@@ -153,7 +153,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_12_team": {
+  {
     "team_id": "2023zjcpc_pre_12_team",
     "name": "双击点击修改",
     "organization": "浙江工商大学杭州商学院",
@@ -167,7 +167,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_13_team": {
+  {
     "team_id": "2023zjcpc_pre_13_team",
     "name": "阿里嘎多",
     "organization": "杭州万向职业技术学院",
@@ -180,7 +180,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_14_team": {
+  {
     "team_id": "2023zjcpc_pre_14_team",
     "name": "给个队名哥哥",
     "organization": "宁波大学",
@@ -194,7 +194,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_15_team": {
+  {
     "team_id": "2023zjcpc_pre_15_team",
     "name": "儒雅随和",
     "organization": "宁波职业技术学院",
@@ -208,7 +208,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_16_team": {
+  {
     "team_id": "2023zjcpc_pre_16_team",
     "name": "能不能不要卷",
     "organization": "浙江经贸职业技术学院",
@@ -222,7 +222,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_17_team": {
+  {
     "team_id": "2023zjcpc_pre_17_team",
     "name": "蟹堡王香香脆脆",
     "organization": "浙江工贸职业技术学院",
@@ -236,7 +236,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_18_team": {
+  {
     "team_id": "2023zjcpc_pre_18_team",
     "name": "C减减",
     "organization": "衢州学院",
@@ -250,7 +250,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_19_team": {
+  {
     "team_id": "2023zjcpc_pre_19_team",
     "name": "ZJUT12",
     "organization": "浙江工业大学",
@@ -264,7 +264,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_20_team": {
+  {
     "team_id": "2023zjcpc_pre_20_team",
     "name": "l0afer",
     "organization": "杭州师范大学",
@@ -278,7 +278,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_21_team": {
+  {
     "team_id": "2023zjcpc_pre_21_team",
     "name": "健康的人类就要冲出太阳系",
     "organization": "绍兴一中",
@@ -291,7 +291,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "2023zjcpc_pre_22_team": {
+  {
     "team_id": "2023zjcpc_pre_22_team",
     "name": "啃五小时面包",
     "organization": "绍兴职业技术学院",
@@ -305,7 +305,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_23_team": {
+  {
     "team_id": "2023zjcpc_pre_23_team",
     "name": "Universal Cup 旅行社",
     "organization": "浙江大学",
@@ -318,7 +318,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "2023zjcpc_pre_24_team": {
+  {
     "team_id": "2023zjcpc_pre_24_team",
     "name": "三菜一汤",
     "organization": "浙江机电职业技术学院",
@@ -332,7 +332,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_25_team": {
+  {
     "team_id": "2023zjcpc_pre_25_team",
     "name": "羊村守护者",
     "organization": "浙江师范大学",
@@ -346,7 +346,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_26_team": {
+  {
     "team_id": "2023zjcpc_pre_26_team",
     "name": "送温暖",
     "organization": "浙江理工大学科技与艺术学院",
@@ -360,7 +360,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_27_team": {
+  {
     "team_id": "2023zjcpc_pre_27_team",
     "name": "您有一个+33",
     "organization": "浙江大学",
@@ -374,7 +374,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_28_team": {
+  {
     "team_id": "2023zjcpc_pre_28_team",
     "name": "三进制",
     "organization": "杭州师范大学",
@@ -388,7 +388,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_29_team": {
+  {
     "team_id": "2023zjcpc_pre_29_team",
     "name": "我就是不摆烂",
     "organization": "浙江商业职业技术学院",
@@ -402,7 +402,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_30_team": {
+  {
     "team_id": "2023zjcpc_pre_30_team",
     "name": "时长两年半，偶像练习生，戴单一说的都队",
     "organization": "温州科技职业学院",
@@ -416,7 +416,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_31_team": {
+  {
     "team_id": "2023zjcpc_pre_31_team",
     "name": "寒星孤月",
     "organization": "浙江财经大学",
@@ -430,7 +430,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_32_team": {
+  {
     "team_id": "2023zjcpc_pre_32_team",
     "name": "杭职2队",
     "organization": "杭州职业技术学院",
@@ -444,7 +444,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_33_team": {
+  {
     "team_id": "2023zjcpc_pre_33_team",
     "name": "WA竟是我自己",
     "organization": "温州商学院",
@@ -458,7 +458,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_34_team": {
+  {
     "team_id": "2023zjcpc_pre_34_team",
     "name": "自杀小队",
     "organization": "浙江建设职业技术学院",
@@ -472,7 +472,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_35_team": {
+  {
     "team_id": "2023zjcpc_pre_35_team",
     "name": "湖职2队",
     "organization": "湖州职业技术学院",
@@ -486,7 +486,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_36_team": {
+  {
     "team_id": "2023zjcpc_pre_36_team",
     "name": "加油阿巴人",
     "organization": "浙江水利水电学院",
@@ -500,7 +500,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_37_team": {
+  {
     "team_id": "2023zjcpc_pre_37_team",
     "name": "阿对对对对对队",
     "organization": "金华职业技术学院",
@@ -514,7 +514,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_38_team": {
+  {
     "team_id": "2023zjcpc_pre_38_team",
     "name": "坤师傅",
     "organization": "浙大宁波理工学院",
@@ -528,7 +528,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_39_team": {
+  {
     "team_id": "2023zjcpc_pre_39_team",
     "name": "什么都队",
     "organization": "台州科技职业学院",
@@ -542,7 +542,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_40_team": {
+  {
     "team_id": "2023zjcpc_pre_40_team",
     "name": "福布斯富婆队",
     "organization": "浙江金融职业学院",
@@ -556,7 +556,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_41_team": {
+  {
     "team_id": "2023zjcpc_pre_41_team",
     "name": "巴巴托斯",
     "organization": "浙江机电职业技术学院",
@@ -570,7 +570,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_42_team": {
+  {
     "team_id": "2023zjcpc_pre_42_team",
     "name": "三个铁酱",
     "organization": "浙江师范大学",
@@ -584,7 +584,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_43_team": {
+  {
     "team_id": "2023zjcpc_pre_43_team",
     "name": "根本难不倒他",
     "organization": "浙江工业大学",
@@ -598,7 +598,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_44_team": {
+  {
     "team_id": "2023zjcpc_pre_44_team",
     "name": "花园宝宝",
     "organization": "浙江邮电职业技术学院",
@@ -612,7 +612,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_45_team": {
+  {
     "team_id": "2023zjcpc_pre_45_team",
     "name": "爱喝冰阔乐",
     "organization": "嘉兴职业技术学院",
@@ -626,7 +626,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_46_team": {
+  {
     "team_id": "2023zjcpc_pre_46_team",
     "name": "ZCMU-难上加难",
     "organization": "浙江中医药大学",
@@ -640,7 +640,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_47_team": {
+  {
     "team_id": "2023zjcpc_pre_47_team",
     "name": "邪王真眼是最强的",
     "organization": "浙江理工大学",
@@ -654,7 +654,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_48_team": {
+  {
     "team_id": "2023zjcpc_pre_48_team",
     "name": "对对队",
     "organization": "浙江经贸职业技术学院",
@@ -668,7 +668,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_49_team": {
+  {
     "team_id": "2023zjcpc_pre_49_team",
     "name": "Fido的小窝",
     "organization": "绍兴一中",
@@ -681,7 +681,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "2023zjcpc_pre_50_team": {
+  {
     "team_id": "2023zjcpc_pre_50_team",
     "name": "之江4队",
     "organization": "浙江工业大学之江学院",
@@ -695,7 +695,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_51_team": {
+  {
     "team_id": "2023zjcpc_pre_51_team",
     "name": "杭电六队",
     "organization": "杭州电子科技大学",
@@ -709,7 +709,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_52_team": {
+  {
     "team_id": "2023zjcpc_pre_52_team",
     "name": "林东现月",
     "organization": "浙大宁波理工学院",
@@ -723,7 +723,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_53_team": {
+  {
     "team_id": "2023zjcpc_pre_53_team",
     "name": "长相思",
     "organization": "浙江安防职业技术学院",
@@ -737,7 +737,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_54_team": {
+  {
     "team_id": "2023zjcpc_pre_54_team",
     "name": "再靠近点就会",
     "organization": "温州职业技术学院",
@@ -751,7 +751,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_55_team": {
+  {
     "team_id": "2023zjcpc_pre_55_team",
     "name": "三人四级五百分",
     "organization": "浙江工业大学之江学院",
@@ -765,7 +765,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_56_team": {
+  {
     "team_id": "2023zjcpc_pre_56_team",
     "name": "队长配了4070Ti，这把乱杀",
     "organization": "浙大宁波理工学院",
@@ -779,7 +779,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_57_team": {
+  {
     "team_id": "2023zjcpc_pre_57_team",
     "name": "奥德彪精神",
     "organization": "湖州学院",
@@ -793,7 +793,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_58_team": {
+  {
     "team_id": "2023zjcpc_pre_58_team",
     "name": "没有戴单一的温科就好像西方没有耶路撒冷",
     "organization": "浙江万里学院",
@@ -807,7 +807,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_59_team": {
+  {
     "team_id": "2023zjcpc_pre_59_team",
     "name": "临海羡鱼队",
     "organization": "台州学院",
@@ -821,7 +821,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_60_team": {
+  {
     "team_id": "2023zjcpc_pre_60_team",
     "name": "通勾队",
     "organization": "温州科技职业学院",
@@ -835,7 +835,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_61_team": {
+  {
     "team_id": "2023zjcpc_pre_61_team",
     "name": "天元公学3队",
     "organization": "天元公学",
@@ -848,7 +848,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "2023zjcpc_pre_62_team": {
+  {
     "team_id": "2023zjcpc_pre_62_team",
     "name": "下次一定",
     "organization": "湖州职业技术学院",
@@ -862,7 +862,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_63_team": {
+  {
     "team_id": "2023zjcpc_pre_63_team",
     "name": "阿布拉卡达布拉",
     "organization": "浙江大学",
@@ -876,7 +876,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_64_team": {
+  {
     "team_id": "2023zjcpc_pre_64_team",
     "name": "一切都是命运石之门的选择",
     "organization": "浙江金融职业学院",
@@ -890,7 +890,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_65_team": {
+  {
     "team_id": "2023zjcpc_pre_65_team",
     "name": "西红柿炒番茄",
     "organization": "嘉兴职业技术学院",
@@ -904,7 +904,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_66_team": {
+  {
     "team_id": "2023zjcpc_pre_66_team",
     "name": "育英九队",
     "organization": "浙江育英职业技术学院",
@@ -917,7 +917,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "2023zjcpc_pre_67_team": {
+  {
     "team_id": "2023zjcpc_pre_67_team",
     "name": "什么档次和我写一样的代码，把代码删了",
     "organization": "金华职业技术学院",
@@ -931,7 +931,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_68_team": {
+  {
     "team_id": "2023zjcpc_pre_68_team",
     "name": "叶强男明星后援团",
     "organization": "浙江工商大学杭州商学院",
@@ -945,7 +945,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_69_team": {
+  {
     "team_id": "2023zjcpc_pre_69_team",
     "name": "啊对对队",
     "organization": "杭州电子科技大学信息工程学院",
@@ -959,7 +959,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_70_team": {
+  {
     "team_id": "2023zjcpc_pre_70_team",
     "name": "挤牙膏",
     "organization": "浙江纺织服装职业技术学院",
@@ -973,7 +973,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_71_team": {
+  {
     "team_id": "2023zjcpc_pre_71_team",
     "name": "嘉职六",
     "organization": "嘉兴职业技术学院",
@@ -987,7 +987,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_72_team": {
+  {
     "team_id": "2023zjcpc_pre_72_team",
     "name": "这次一定",
     "organization": "湖州职业技术学院",
@@ -1001,7 +1001,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_73_team": {
+  {
     "team_id": "2023zjcpc_pre_73_team",
     "name": "未命名1",
     "organization": "浙江大学",
@@ -1015,7 +1015,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_74_team": {
+  {
     "team_id": "2023zjcpc_pre_74_team",
     "name": "海上星亮晶晶",
     "organization": "海亮高级中学",
@@ -1028,7 +1028,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "2023zjcpc_pre_75_team": {
+  {
     "team_id": "2023zjcpc_pre_75_team",
     "name": "来一个思路",
     "organization": "浙江水利水电学院",
@@ -1042,7 +1042,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_76_team": {
+  {
     "team_id": "2023zjcpc_pre_76_team",
     "name": "游客",
     "organization": "浙大城市学院",
@@ -1056,7 +1056,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_77_team": {
+  {
     "team_id": "2023zjcpc_pre_77_team",
     "name": "软饭硬吃",
     "organization": "浙江金融职业学院",
@@ -1070,7 +1070,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_78_team": {
+  {
     "team_id": "2023zjcpc_pre_78_team",
     "name": "可口蓝白冰",
     "organization": "嘉兴职业技术学院",
@@ -1084,7 +1084,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_79_team": {
+  {
     "team_id": "2023zjcpc_pre_79_team",
     "name": "天元公学2队",
     "organization": "天元公学",
@@ -1097,7 +1097,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "2023zjcpc_pre_80_team": {
+  {
     "team_id": "2023zjcpc_pre_80_team",
     "name": "杭电四队",
     "organization": "杭州电子科技大学",
@@ -1111,7 +1111,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_81_team": {
+  {
     "team_id": "2023zjcpc_pre_81_team",
     "name": "草神生草队",
     "organization": "浙江师范大学行知学院",
@@ -1125,7 +1125,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_82_team": {
+  {
     "team_id": "2023zjcpc_pre_82_team",
     "name": "浙江工业职业技术学院5队",
     "organization": "浙江工业职业技术学院",
@@ -1139,7 +1139,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_83_team": {
+  {
     "team_id": "2023zjcpc_pre_83_team",
     "name": "Acwing_浙科五队",
     "organization": "浙江科技学院",
@@ -1153,7 +1153,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_84_team": {
+  {
     "team_id": "2023zjcpc_pre_84_team",
     "name": "你也有五节早八对不队",
     "organization": "绍兴文理学院",
@@ -1167,7 +1167,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_85_team": {
+  {
     "team_id": "2023zjcpc_pre_85_team",
     "name": "循梦而行队",
     "organization": "浙江工商职业技术学院",
@@ -1181,7 +1181,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_86_team": {
+  {
     "team_id": "2023zjcpc_pre_86_team",
     "name": "长征2队",
     "organization": "浙江长征职业技术学院",
@@ -1195,7 +1195,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_87_team": {
+  {
     "team_id": "2023zjcpc_pre_87_team",
     "name": "最后一刻",
     "organization": "绍兴文理学院",
@@ -1209,7 +1209,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_88_team": {
+  {
     "team_id": "2023zjcpc_pre_88_team",
     "name": "猫猫二百五",
     "organization": "浙江工商大学",
@@ -1223,7 +1223,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_89_team": {
+  {
     "team_id": "2023zjcpc_pre_89_team",
     "name": "我们仍未知道那天的题是否AC",
     "organization": "浙江万里学院",
@@ -1237,7 +1237,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_90_team": {
+  {
     "team_id": "2023zjcpc_pre_90_team",
     "name": "智者无惧",
     "organization": "浙江工商大学",
@@ -1251,7 +1251,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_91_team": {
+  {
     "team_id": "2023zjcpc_pre_91_team",
     "name": "长征5队",
     "organization": "浙江长征职业技术学院",
@@ -1265,7 +1265,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_92_team": {
+  {
     "team_id": "2023zjcpc_pre_92_team",
     "name": "下一队",
     "organization": "温州理工学院",
@@ -1279,7 +1279,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_93_team": {
+  {
     "team_id": "2023zjcpc_pre_93_team",
     "name": "温大一队",
     "organization": "温州大学",
@@ -1293,7 +1293,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_94_team": {
+  {
     "team_id": "2023zjcpc_pre_94_team",
     "name": "干就完事了",
     "organization": "温州医科大学",
@@ -1307,7 +1307,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_95_team": {
+  {
     "team_id": "2023zjcpc_pre_95_team",
     "name": "浙外2队",
     "organization": "浙江外国语学院",
@@ -1321,7 +1321,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_96_team": {
+  {
     "team_id": "2023zjcpc_pre_96_team",
     "name": "陈科睿",
     "organization": "浙江机电职业技术学院",
@@ -1335,7 +1335,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_97_team": {
+  {
     "team_id": "2023zjcpc_pre_97_team",
     "name": "目的性明确，上一所好大学",
     "organization": "绍兴一中",
@@ -1348,7 +1348,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "2023zjcpc_pre_98_team": {
+  {
     "team_id": "2023zjcpc_pre_98_team",
     "name": "金花茶",
     "organization": "浙江邮电职业技术学院",
@@ -1362,7 +1362,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_99_team": {
+  {
     "team_id": "2023zjcpc_pre_99_team",
     "name": "坐导弹拿弹弓打星链",
     "organization": "宁波城市职业技术学院",
@@ -1376,7 +1376,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_100_team": {
+  {
     "team_id": "2023zjcpc_pre_100_team",
     "name": "子集卷只因",
     "organization": "浙大宁波理工学院",
@@ -1390,7 +1390,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_101_team": {
+  {
     "team_id": "2023zjcpc_pre_101_team",
     "name": "阳光开朗大男孩",
     "organization": "台州职业技术学院",
@@ -1404,7 +1404,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_102_team": {
+  {
     "team_id": "2023zjcpc_pre_102_team",
     "name": "脑子来点作用啊",
     "organization": "浙大城市学院",
@@ -1418,7 +1418,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_103_team": {
+  {
     "team_id": "2023zjcpc_pre_103_team",
     "name": "树人先锋一队",
     "organization": "浙江树人大学",
@@ -1432,7 +1432,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_104_team": {
+  {
     "team_id": "2023zjcpc_pre_104_team",
     "name": "才思泉涌",
     "organization": "浙江工业大学",
@@ -1446,7 +1446,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_105_team": {
+  {
     "team_id": "2023zjcpc_pre_105_team",
     "name": "下次娶你",
     "organization": "浙江大学",
@@ -1460,7 +1460,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_106_team": {
+  {
     "team_id": "2023zjcpc_pre_106_team",
     "name": "还是去年那对",
     "organization": "浙江金融职业学院",
@@ -1474,7 +1474,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_107_team": {
+  {
     "team_id": "2023zjcpc_pre_107_team",
     "name": "牛爷爷和张小丽的爱情故事",
     "organization": "金华职业技术学院",
@@ -1488,7 +1488,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_108_team": {
+  {
     "team_id": "2023zjcpc_pre_108_team",
     "name": "育英363队",
     "organization": "浙江育英职业技术学院",
@@ -1502,7 +1502,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_109_team": {
+  {
     "team_id": "2023zjcpc_pre_109_team",
     "name": "彩虹六号",
     "organization": "杭州医学院",
@@ -1516,7 +1516,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_110_team": {
+  {
     "team_id": "2023zjcpc_pre_110_team",
     "name": "战俘出列",
     "organization": "嘉兴职业技术学院",
@@ -1530,7 +1530,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_111_team": {
+  {
     "team_id": "2023zjcpc_pre_111_team",
     "name": "杭职3队",
     "organization": "杭州职业技术学院",
@@ -1544,7 +1544,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_112_team": {
+  {
     "team_id": "2023zjcpc_pre_112_team",
     "name": "翻斗花园爆A小分队",
     "organization": "中国计量大学现代科技学院",
@@ -1558,7 +1558,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_113_team": {
+  {
     "team_id": "2023zjcpc_pre_113_team",
     "name": "管泽元说我们拿不了金",
     "organization": "宁波职业技术学院",
@@ -1572,7 +1572,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_114_team": {
+  {
     "team_id": "2023zjcpc_pre_114_team",
     "name": "逐梦00",
     "organization": "衢州职业技术学院",
@@ -1586,7 +1586,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_115_team": {
+  {
     "team_id": "2023zjcpc_pre_115_team",
     "name": "226寝室长考研上岸了",
     "organization": "浙大城市学院",
@@ -1600,7 +1600,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_116_team": {
+  {
     "team_id": "2023zjcpc_pre_116_team",
     "name": "育英高岭一枝花队",
     "organization": "浙江育英职业技术学院",
@@ -1614,7 +1614,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_117_team": {
+  {
     "team_id": "2023zjcpc_pre_117_team",
     "name": "带花树",
     "organization": "浙江农林大学",
@@ -1628,7 +1628,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_118_team": {
+  {
     "team_id": "2023zjcpc_pre_118_team",
     "name": "局外人",
     "organization": "浙江科技学院",
@@ -1642,7 +1642,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_119_team": {
+  {
     "team_id": "2023zjcpc_pre_119_team",
     "name": "演员小队",
     "organization": "宁波大学",
@@ -1656,7 +1656,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_120_team": {
+  {
     "team_id": "2023zjcpc_pre_120_team",
     "name": "重庆鸡公煲",
     "organization": "浙江科技学院",
@@ -1670,7 +1670,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_121_team": {
+  {
     "team_id": "2023zjcpc_pre_121_team",
     "name": "fufu吃大米",
     "organization": "中国计量大学",
@@ -1684,7 +1684,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_122_team": {
+  {
     "team_id": "2023zjcpc_pre_122_team",
     "name": "夜的命名术",
     "organization": "浙江农林大学",
@@ -1698,7 +1698,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_123_team": {
+  {
     "team_id": "2023zjcpc_pre_123_team",
     "name": "青蛙过河",
     "organization": "浙江安防职业技术学院",
@@ -1712,7 +1712,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_124_team": {
+  {
     "team_id": "2023zjcpc_pre_124_team",
     "name": "看得快，写得快，睡得快",
     "organization": "绍兴职业技术学院",
@@ -1726,7 +1726,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_125_team": {
+  {
     "team_id": "2023zjcpc_pre_125_team",
     "name": "薄荷加冰",
     "organization": "浙江农林大学暨阳学院",
@@ -1740,7 +1740,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_126_team": {
+  {
     "team_id": "2023zjcpc_pre_126_team",
     "name": "取名困难户",
     "organization": "浙江财经大学",
@@ -1754,7 +1754,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_127_team": {
+  {
     "team_id": "2023zjcpc_pre_127_team",
     "name": "旅行者",
     "organization": "温州医科大学",
@@ -1768,7 +1768,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_128_team": {
+  {
     "team_id": "2023zjcpc_pre_128_team",
     "name": "二次元差不多得了",
     "organization": "浙江经贸职业技术学院",
@@ -1782,7 +1782,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_129_team": {
+  {
     "team_id": "2023zjcpc_pre_129_team",
     "name": "追梦03",
     "organization": "衢州职业技术学院",
@@ -1796,7 +1796,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_130_team": {
+  {
     "team_id": "2023zjcpc_pre_130_team",
     "name": "为白雪染色",
     "organization": "宁波大学",
@@ -1810,7 +1810,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_131_team": {
+  {
     "team_id": "2023zjcpc_pre_131_team",
     "name": "不要指望我们队",
     "organization": "浙江工业大学之江学院",
@@ -1824,7 +1824,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_132_team": {
+  {
     "team_id": "2023zjcpc_pre_132_team",
     "name": "我都可以队",
     "organization": "宁波职业技术学院",
@@ -1838,7 +1838,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_133_team": {
+  {
     "team_id": "2023zjcpc_pre_133_team",
     "name": "最后一舞",
     "organization": "浙大城市学院",
@@ -1852,7 +1852,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_134_team": {
+  {
     "team_id": "2023zjcpc_pre_134_team",
     "name": "爱喝牛奶的猫猫酱",
     "organization": "浙江工业大学",
@@ -1866,7 +1866,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_135_team": {
+  {
     "team_id": "2023zjcpc_pre_135_team",
     "name": "好想结婚",
     "organization": "台州科技职业学院",
@@ -1880,7 +1880,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_136_team": {
+  {
     "team_id": "2023zjcpc_pre_136_team",
     "name": "树人先锋二队",
     "organization": "浙江树人大学",
@@ -1894,7 +1894,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_137_team": {
+  {
     "team_id": "2023zjcpc_pre_137_team",
     "name": "风控中心",
     "organization": "浙江科贸职业技术学院",
@@ -1908,7 +1908,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_138_team": {
+  {
     "team_id": "2023zjcpc_pre_138_team",
     "name": "孔乙己",
     "organization": "杭州电子科技大学信息工程学院",
@@ -1922,7 +1922,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_139_team": {
+  {
     "team_id": "2023zjcpc_pre_139_team",
     "name": "枝江嘉心糖",
     "organization": "衢州学院",
@@ -1936,7 +1936,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_140_team": {
+  {
     "team_id": "2023zjcpc_pre_140_team",
     "name": "Reincarnation",
     "organization": "宁波大学",
@@ -1950,7 +1950,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_141_team": {
+  {
     "team_id": "2023zjcpc_pre_141_team",
     "name": "睡觉错过联合国大会",
     "organization": "宁波城市职业技术学院",
@@ -1964,7 +1964,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_142_team": {
+  {
     "team_id": "2023zjcpc_pre_142_team",
     "name": "面包真好吃，下次不来了",
     "organization": "绍兴职业技术学院",
@@ -1978,7 +1978,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_143_team": {
+  {
     "team_id": "2023zjcpc_pre_143_team",
     "name": "青春猪头少年不会梦到 AC 学姐",
     "organization": "浙江警官职业学院",
@@ -1992,7 +1992,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_144_team": {
+  {
     "team_id": "2023zjcpc_pre_144_team",
     "name": "ZCMU-胖头切丁味更佳",
     "organization": "浙江中医药大学",
@@ -2006,7 +2006,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_145_team": {
+  {
     "team_id": "2023zjcpc_pre_145_team",
     "name": "她的店里只卖樱花",
     "organization": "浙江科技学院",
@@ -2020,7 +2020,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_146_team": {
+  {
     "team_id": "2023zjcpc_pre_146_team",
     "name": "没问题我会队",
     "organization": "台州科技职业学院",
@@ -2034,7 +2034,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_147_team": {
+  {
     "team_id": "2023zjcpc_pre_147_team",
     "name": "队名好难取",
     "organization": "浙江邮电职业技术学院",
@@ -2048,7 +2048,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_148_team": {
+  {
     "team_id": "2023zjcpc_pre_148_team",
     "name": "坐大牢",
     "organization": "杭州电子科技大学信息工程学院",
@@ -2062,7 +2062,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_149_team": {
+  {
     "team_id": "2023zjcpc_pre_149_team",
     "name": "林队带的好队",
     "organization": "浙江工商大学杭州商学院",
@@ -2076,7 +2076,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_150_team": {
+  {
     "team_id": "2023zjcpc_pre_150_team",
     "name": "杭电七队",
     "organization": "杭州电子科技大学",
@@ -2090,7 +2090,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_151_team": {
+  {
     "team_id": "2023zjcpc_pre_151_team",
     "name": "三个核桃",
     "organization": "宁波大学",
@@ -2104,7 +2104,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_152_team": {
+  {
     "team_id": "2023zjcpc_pre_152_team",
     "name": "沧浪之水",
     "organization": "台州学院",
@@ -2118,7 +2118,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_153_team": {
+  {
     "team_id": "2023zjcpc_pre_153_team",
     "name": "都行",
     "organization": "温州职业技术学院",
@@ -2132,7 +2132,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_154_team": {
+  {
     "team_id": "2023zjcpc_pre_154_team",
     "name": "永昼",
     "organization": "浙江农林大学暨阳学院",
@@ -2146,7 +2146,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_155_team": {
+  {
     "team_id": "2023zjcpc_pre_155_team",
     "name": "略饱",
     "organization": "宁波工程学院",
@@ -2160,7 +2160,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_156_team": {
+  {
     "team_id": "2023zjcpc_pre_156_team",
     "name": "闪闪星亮晶晶",
     "organization": "温州职业技术学院",
@@ -2174,7 +2174,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_157_team": {
+  {
     "team_id": "2023zjcpc_pre_157_team",
     "name": "尼古丁真",
     "organization": "温州职业技术学院",
@@ -2188,7 +2188,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_158_team": {
+  {
     "team_id": "2023zjcpc_pre_158_team",
     "name": "酸鸡跳脚",
     "organization": "温州大学",
@@ -2202,7 +2202,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_159_team": {
+  {
     "team_id": "2023zjcpc_pre_159_team",
     "name": "队长非要给嘉然引流",
     "organization": "金华职业技术学院",
@@ -2216,7 +2216,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_160_team": {
+  {
     "team_id": "2023zjcpc_pre_160_team",
     "name": "摸鱼小分队",
     "organization": "绍兴文理学院元培学院",
@@ -2230,7 +2230,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_161_team": {
+  {
     "team_id": "2023zjcpc_pre_161_team",
     "name": "赵某快找对象",
     "organization": "宁波职业技术学院",
@@ -2244,7 +2244,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_162_team": {
+  {
     "team_id": "2023zjcpc_pre_162_team",
     "name": "牛马队",
     "organization": "温州理工学院",
@@ -2258,7 +2258,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_163_team": {
+  {
     "team_id": "2023zjcpc_pre_163_team",
     "name": "ZCMU-今天喝黄桃果霸",
     "organization": "浙江中医药大学",
@@ -2272,7 +2272,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_164_team": {
+  {
     "team_id": "2023zjcpc_pre_164_team",
     "name": "浙外1队",
     "organization": "浙江外国语学院",
@@ -2286,7 +2286,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_165_team": {
+  {
     "team_id": "2023zjcpc_pre_165_team",
     "name": "爱丽丝的茶话会",
     "organization": "浙大城市学院",
@@ -2300,7 +2300,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_166_team": {
+  {
     "team_id": "2023zjcpc_pre_166_team",
     "name": "科学性巫术",
     "organization": "温州大学",
@@ -2314,7 +2314,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_167_team": {
+  {
     "team_id": "2023zjcpc_pre_167_team",
     "name": "长野原·宵宫",
     "organization": "嘉兴学院",
@@ -2328,7 +2328,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_168_team": {
+  {
     "team_id": "2023zjcpc_pre_168_team",
     "name": "摩拉克斯",
     "organization": "浙江机电职业技术学院",
@@ -2342,7 +2342,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_169_team": {
+  {
     "team_id": "2023zjcpc_pre_169_team",
     "name": "没CSDN真的不行",
     "organization": "浙江经贸职业技术学院",
@@ -2356,7 +2356,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_170_team": {
+  {
     "team_id": "2023zjcpc_pre_170_team",
     "name": "小趴菜",
     "organization": "绍兴文理学院",
@@ -2370,7 +2370,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_171_team": {
+  {
     "team_id": "2023zjcpc_pre_171_team",
     "name": "地心引力",
     "organization": "嘉兴学院",
@@ -2384,7 +2384,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_172_team": {
+  {
     "team_id": "2023zjcpc_pre_172_team",
     "name": "天桥",
     "organization": "宁波职业技术学院",
@@ -2398,7 +2398,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_173_team": {
+  {
     "team_id": "2023zjcpc_pre_173_team",
     "name": "AR队",
     "organization": "浙江广厦建设职业技术大学",
@@ -2412,7 +2412,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_174_team": {
+  {
     "team_id": "2023zjcpc_pre_174_team",
     "name": "前进四",
     "organization": "浙江师范大学",
@@ -2426,7 +2426,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_175_team": {
+  {
     "team_id": "2023zjcpc_pre_175_team",
     "name": "极大极小",
     "organization": "浙江广厦建设职业技术大学",
@@ -2440,7 +2440,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_176_team": {
+  {
     "team_id": "2023zjcpc_pre_176_team",
     "name": "否决立方",
     "organization": "浙江科贸职业技术学院",
@@ -2454,7 +2454,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_177_team": {
+  {
     "team_id": "2023zjcpc_pre_177_team",
     "name": "ZCMU-扶摇直上",
     "organization": "浙江中医药大学滨江学院",
@@ -2468,7 +2468,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_178_team": {
+  {
     "team_id": "2023zjcpc_pre_178_team",
     "name": "啊，对!对!对!",
     "organization": "浙江师范大学行知学院",
@@ -2482,7 +2482,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_179_team": {
+  {
     "team_id": "2023zjcpc_pre_179_team",
     "name": "巴拉拉能量乌卡拉卡小魔仙全身变",
     "organization": "浙江海洋大学",
@@ -2496,7 +2496,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_180_team": {
+  {
     "team_id": "2023zjcpc_pre_180_team",
     "name": "不知名队",
     "organization": "宁波职业技术学院",
@@ -2510,7 +2510,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_181_team": {
+  {
     "team_id": "2023zjcpc_pre_181_team",
     "name": "得之我幸，失之我命",
     "organization": "浙江金融职业学院",
@@ -2524,7 +2524,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_182_team": {
+  {
     "team_id": "2023zjcpc_pre_182_team",
     "name": "科艺1队",
     "organization": "浙江理工大学科技与艺术学院",
@@ -2538,7 +2538,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_183_team": {
+  {
     "team_id": "2023zjcpc_pre_183_team",
     "name": "杭职4队",
     "organization": "杭州职业技术学院",
@@ -2552,7 +2552,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_184_team": {
+  {
     "team_id": "2023zjcpc_pre_184_team",
     "name": "湖师院4队",
     "organization": "湖州师范学院",
@@ -2566,7 +2566,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_185_team": {
+  {
     "team_id": "2023zjcpc_pre_185_team",
     "name": "浙经院2队",
     "organization": "浙江经济职业技术学院",
@@ -2580,7 +2580,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_186_team": {
+  {
     "team_id": "2023zjcpc_pre_186_team",
     "name": "打完这场要考研去了",
     "organization": "浙江科技学院",
@@ -2594,7 +2594,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_187_team": {
+  {
     "team_id": "2023zjcpc_pre_187_team",
     "name": "来杯拿铁",
     "organization": "浙大城市学院",
@@ -2608,7 +2608,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_188_team": {
+  {
     "team_id": "2023zjcpc_pre_188_team",
     "name": "快乐小组",
     "organization": "浙江广厦建设职业技术大学",
@@ -2622,7 +2622,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_189_team": {
+  {
     "team_id": "2023zjcpc_pre_189_team",
     "name": "和群友打完vp一起吃黄焖坤顺便蜜一下",
     "organization": "杭州师范大学",
@@ -2636,7 +2636,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_190_team": {
+  {
     "team_id": "2023zjcpc_pre_190_team",
     "name": "怎么会事呢",
     "organization": "宁波财经学院",
@@ -2650,7 +2650,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_191_team": {
+  {
     "team_id": "2023zjcpc_pre_191_team",
     "name": "浙外3队",
     "organization": "浙江外国语学院",
@@ -2664,7 +2664,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_192_team": {
+  {
     "team_id": "2023zjcpc_pre_192_team",
     "name": "长征1队",
     "organization": "浙江长征职业技术学院",
@@ -2678,7 +2678,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_193_team": {
+  {
     "team_id": "2023zjcpc_pre_193_team",
     "name": "育英我们只会电表队",
     "organization": "浙江育英职业技术学院",
@@ -2692,7 +2692,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_194_team": {
+  {
     "team_id": "2023zjcpc_pre_194_team",
     "name": "湖师院2队",
     "organization": "湖州师范学院",
@@ -2706,7 +2706,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_195_team": {
+  {
     "team_id": "2023zjcpc_pre_195_team",
     "name": "赚钱小分队",
     "organization": "浙江理工大学",
@@ -2720,7 +2720,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_196_team": {
+  {
     "team_id": "2023zjcpc_pre_196_team",
     "name": "越人歌",
     "organization": "台州学院",
@@ -2734,7 +2734,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_197_team": {
+  {
     "team_id": "2023zjcpc_pre_197_team",
     "name": "不会起名",
     "organization": "温州职业技术学院",
@@ -2748,7 +2748,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_198_team": {
+  {
     "team_id": "2023zjcpc_pre_198_team",
     "name": "讲个笑话我过样例了",
     "organization": "浙江财经大学",
@@ -2762,7 +2762,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_199_team": {
+  {
     "team_id": "2023zjcpc_pre_199_team",
     "name": "浙江工业职业技术学院1队",
     "organization": "浙江工业职业技术学院",
@@ -2776,7 +2776,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_200_team": {
+  {
     "team_id": "2023zjcpc_pre_200_team",
     "name": "鹤望兰",
     "organization": "杭州师范大学",
@@ -2790,7 +2790,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_201_team": {
+  {
     "team_id": "2023zjcpc_pre_201_team",
     "name": "杭电十一队",
     "organization": "杭州电子科技大学",
@@ -2804,7 +2804,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_202_team": {
+  {
     "team_id": "2023zjcpc_pre_202_team",
     "name": "ZCMU-最后的省赛，必须拿牌",
     "organization": "浙江中医药大学",
@@ -2818,7 +2818,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_203_team": {
+  {
     "team_id": "2023zjcpc_pre_203_team",
     "name": "我爱打铁",
     "organization": "温州科技职业学院",
@@ -2832,7 +2832,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_204_team": {
+  {
     "team_id": "2023zjcpc_pre_204_team",
     "name": "三人成行",
     "organization": "浙大宁波理工学院",
@@ -2846,7 +2846,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_205_team": {
+  {
     "team_id": "2023zjcpc_pre_205_team",
     "name": "乱拳打死老师傅",
     "organization": "浙大城市学院",
@@ -2860,7 +2860,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_206_team": {
+  {
     "team_id": "2023zjcpc_pre_206_team",
     "name": "打星队",
     "organization": "浙江科技学院",
@@ -2874,7 +2874,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_207_team": {
+  {
     "team_id": "2023zjcpc_pre_207_team",
     "name": "两眼花花乱蛙一通",
     "organization": "浙江农林大学",
@@ -2888,7 +2888,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_208_team": {
+  {
     "team_id": "2023zjcpc_pre_208_team",
     "name": "育英86队",
     "organization": "浙江育英职业技术学院",
@@ -2902,7 +2902,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_209_team": {
+  {
     "team_id": "2023zjcpc_pre_209_team",
     "name": "现代科技学院四队",
     "organization": "中国计量大学现代科技学院",
@@ -2916,7 +2916,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_210_team": {
+  {
     "team_id": "2023zjcpc_pre_210_team",
     "name": "ZCMU-_-",
     "organization": "浙江中医药大学",
@@ -2930,7 +2930,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_211_team": {
+  {
     "team_id": "2023zjcpc_pre_211_team",
     "name": "天元公学1队",
     "organization": "天元公学",
@@ -2943,7 +2943,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "2023zjcpc_pre_212_team": {
+  {
     "team_id": "2023zjcpc_pre_212_team",
     "name": "代码敲不队",
     "organization": "杭州医学院",
@@ -2957,7 +2957,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_213_team": {
+  {
     "team_id": "2023zjcpc_pre_213_team",
     "name": "重生之我是欧尼酱",
     "organization": "宁波财经学院",
@@ -2971,7 +2971,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_214_team": {
+  {
     "team_id": "2023zjcpc_pre_214_team",
     "name": "我终于解开了自己对宝可梦游戏最后的疑问",
     "organization": "嘉兴学院",
@@ -2985,7 +2985,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_215_team": {
+  {
     "team_id": "2023zjcpc_pre_215_team",
     "name": "育英77队",
     "organization": "浙江育英职业技术学院",
@@ -2999,7 +2999,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_216_team": {
+  {
     "team_id": "2023zjcpc_pre_216_team",
     "name": "追逐少女乐园的白色噩梦",
     "organization": "金华市丽泽中学",
@@ -3012,7 +3012,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "2023zjcpc_pre_217_team": {
+  {
     "team_id": "2023zjcpc_pre_217_team",
     "name": "你随意发挥",
     "organization": "浙江海洋大学",
@@ -3026,7 +3026,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_218_team": {
+  {
     "team_id": "2023zjcpc_pre_218_team",
     "name": "浙江工业职业技术学院2队",
     "organization": "浙江工业职业技术学院",
@@ -3040,7 +3040,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_219_team": {
+  {
     "team_id": "2023zjcpc_pre_219_team",
     "name": "长征4队",
     "organization": "浙江长征职业技术学院",
@@ -3054,7 +3054,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_220_team": {
+  {
     "team_id": "2023zjcpc_pre_220_team",
     "name": "想要个牌",
     "organization": "湖州学院",
@@ -3068,7 +3068,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_221_team": {
+  {
     "team_id": "2023zjcpc_pre_221_team",
     "name": "废物remake重开人生模拟",
     "organization": "台州学院",
@@ -3082,7 +3082,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_222_team": {
+  {
     "team_id": "2023zjcpc_pre_222_team",
     "name": "猫猫滚脸2",
     "organization": "浙江工商大学",
@@ -3096,7 +3096,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_223_team": {
+  {
     "team_id": "2023zjcpc_pre_223_team",
     "name": "AC危机",
     "organization": "浙大城市学院",
@@ -3110,7 +3110,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_224_team": {
+  {
     "team_id": "2023zjcpc_pre_224_team",
     "name": "湖师院1队",
     "organization": "湖州师范学院",
@@ -3124,7 +3124,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_225_team": {
+  {
     "team_id": "2023zjcpc_pre_225_team",
     "name": "rep(_,A,M) cout<<wa;",
     "organization": "绍兴文理学院元培学院",
@@ -3138,7 +3138,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_226_team": {
+  {
     "team_id": "2023zjcpc_pre_226_team",
     "name": "等等还没想好",
     "organization": "台州学院",
@@ -3152,7 +3152,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_227_team": {
+  {
     "team_id": "2023zjcpc_pre_227_team",
     "name": "BUG制造者队",
     "organization": "湖州学院",
@@ -3166,7 +3166,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_228_team": {
+  {
     "team_id": "2023zjcpc_pre_228_team",
     "name": "锟斤拷",
     "organization": "浙江理工大学",
@@ -3180,7 +3180,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_229_team": {
+  {
     "team_id": "2023zjcpc_pre_229_team",
     "name": "吃饭不排队",
     "organization": "浙江万里学院",
@@ -3194,7 +3194,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_230_team": {
+  {
     "team_id": "2023zjcpc_pre_230_team",
     "name": "彩月",
     "organization": "浙江机电职业技术学院",
@@ -3208,7 +3208,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_231_team": {
+  {
     "team_id": "2023zjcpc_pre_231_team",
     "name": "CPU发烧队",
     "organization": "杭州师范大学",
@@ -3222,7 +3222,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_232_team": {
+  {
     "team_id": "2023zjcpc_pre_232_team",
     "name": "我将以猫形态出击",
     "organization": "浙江师范大学",
@@ -3236,7 +3236,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_233_team": {
+  {
     "team_id": "2023zjcpc_pre_233_team",
     "name": "炸鸡腿饭",
     "organization": "浙江科技学院",
@@ -3250,7 +3250,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_234_team": {
+  {
     "team_id": "2023zjcpc_pre_234_team",
     "name": "士别三日",
     "organization": "浙江水利水电学院",
@@ -3264,7 +3264,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_235_team": {
+  {
     "team_id": "2023zjcpc_pre_235_team",
     "name": "别当 OIer 了",
     "organization": "绍兴一中",
@@ -3277,7 +3277,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "2023zjcpc_pre_236_team": {
+  {
     "team_id": "2023zjcpc_pre_236_team",
     "name": "有你有我一鼓作气",
     "organization": "浙江工商大学",
@@ -3291,7 +3291,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_237_team": {
+  {
     "team_id": "2023zjcpc_pre_237_team",
     "name": "大锤队",
     "organization": "浙江海洋大学",
@@ -3305,7 +3305,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_238_team": {
+  {
     "team_id": "2023zjcpc_pre_238_team",
     "name": "今天你签到了WA",
     "organization": "浙江农林大学",
@@ -3319,7 +3319,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_239_team": {
+  {
     "team_id": "2023zjcpc_pre_239_team",
     "name": "杭职5队",
     "organization": "杭州职业技术学院",
@@ -3333,7 +3333,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_240_team": {
+  {
     "team_id": "2023zjcpc_pre_240_team",
     "name": "这个彬彬交题超勇的",
     "organization": "浙江农林大学",
@@ -3347,7 +3347,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_241_team": {
+  {
     "team_id": "2023zjcpc_pre_241_team",
     "name": "宁静秋天",
     "organization": "浙江理工大学",
@@ -3361,7 +3361,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_242_team": {
+  {
     "team_id": "2023zjcpc_pre_242_team",
     "name": "太帅影响俄乌谈判",
     "organization": "宁波城市职业技术学院",
@@ -3375,7 +3375,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_243_team": {
+  {
     "team_id": "2023zjcpc_pre_243_team",
     "name": "我是如何因为算法竞赛…",
     "organization": "浙江工业大学",
@@ -3389,7 +3389,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_244_team": {
+  {
     "team_id": "2023zjcpc_pre_244_team",
     "name": "佚名",
     "organization": "杭州万向职业技术学院",
@@ -3403,7 +3403,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_245_team": {
+  {
     "team_id": "2023zjcpc_pre_245_team",
     "name": "无敌暴龙战士",
     "organization": "浙江建设职业技术学院",
@@ -3417,7 +3417,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_246_team": {
+  {
     "team_id": "2023zjcpc_pre_246_team",
     "name": "restart",
     "organization": "浙江农林大学",
@@ -3431,7 +3431,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_247_team": {
+  {
     "team_id": "2023zjcpc_pre_247_team",
     "name": "玛卡巴卡 ",
     "organization": "浙江机电职业技术学院",
@@ -3445,7 +3445,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_248_team": {
+  {
     "team_id": "2023zjcpc_pre_248_team",
     "name": "一码就队",
     "organization": "宁波大学科学技术学院",
@@ -3459,7 +3459,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_249_team": {
+  {
     "team_id": "2023zjcpc_pre_249_team",
     "name": "你说的都队",
     "organization": "浙江经贸职业技术学院",
@@ -3473,7 +3473,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_250_team": {
+  {
     "team_id": "2023zjcpc_pre_250_team",
     "name": "这地方我早就想来了",
     "organization": "绍兴职业技术学院",
@@ -3487,7 +3487,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_251_team": {
+  {
     "team_id": "2023zjcpc_pre_251_team",
     "name": "敲不队",
     "organization": "浙江传媒学院",
@@ -3501,7 +3501,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_252_team": {
+  {
     "team_id": "2023zjcpc_pre_252_team",
     "name": "陌上花开",
     "organization": "浙江工商大学",
@@ -3515,7 +3515,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_253_team": {
+  {
     "team_id": "2023zjcpc_pre_253_team",
     "name": "翻斗花园第一突破手牛爷爷",
     "organization": "丽水职业技术学院",
@@ -3529,7 +3529,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_254_team": {
+  {
     "team_id": "2023zjcpc_pre_254_team",
     "name": "海底修栈队",
     "organization": "浙江工贸职业技术学院",
@@ -3543,7 +3543,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_255_team": {
+  {
     "team_id": "2023zjcpc_pre_255_team",
     "name": "猫猫把妖怪抓走了",
     "organization": "浙江师范大学",
@@ -3557,7 +3557,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_256_team": {
+  {
     "team_id": "2023zjcpc_pre_256_team",
     "name": "浙江工业职业技术学院3队",
     "organization": "浙江工业职业技术学院",
@@ -3571,7 +3571,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_257_team": {
+  {
     "team_id": "2023zjcpc_pre_257_team",
     "name": "这个队",
     "organization": "浙大宁波理工学院",
@@ -3585,7 +3585,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_258_team": {
+  {
     "team_id": "2023zjcpc_pre_258_team",
     "name": "不知道",
     "organization": "浙江警官职业学院",
@@ -3599,7 +3599,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_259_team": {
+  {
     "team_id": "2023zjcpc_pre_259_team",
     "name": "拿个杯",
     "organization": "浙江商业职业技术学院",
@@ -3613,7 +3613,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_260_team": {
+  {
     "team_id": "2023zjcpc_pre_260_team",
     "name": "五年竞赛，三年打铁",
     "organization": "浙江水利水电学院",
@@ -3627,7 +3627,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_261_team": {
+  {
     "team_id": "2023zjcpc_pre_261_team",
     "name": "郁金香",
     "organization": "浙大宁波理工学院",
@@ -3641,7 +3641,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_262_team": {
+  {
     "team_id": "2023zjcpc_pre_262_team",
     "name": "瑞道克道格",
     "organization": "浙江工商大学",
@@ -3655,7 +3655,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_263_team": {
+  {
     "team_id": "2023zjcpc_pre_263_team",
     "name": "第一滴血 ",
     "organization": "嘉兴职业技术学院",
@@ -3669,7 +3669,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_264_team": {
+  {
     "team_id": "2023zjcpc_pre_264_team",
     "name": "超越",
     "organization": "浙江水利水电学院",
@@ -3683,7 +3683,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_265_team": {
+  {
     "team_id": "2023zjcpc_pre_265_team",
     "name": "追梦01",
     "organization": "衢州职业技术学院",
@@ -3697,7 +3697,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_266_team": {
+  {
     "team_id": "2023zjcpc_pre_266_team",
     "name": "灭了新冠想拿金冠",
     "organization": "宁波城市职业技术学院",
@@ -3711,7 +3711,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_267_team": {
+  {
     "team_id": "2023zjcpc_pre_267_team",
     "name": "cout<<“我pythoh学的很好”；",
     "organization": "绍兴职业技术学院",
@@ -3725,7 +3725,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_268_team": {
+  {
     "team_id": "2023zjcpc_pre_268_team",
     "name": "那就随便点吧",
     "organization": "浙江警官职业学院",
@@ -3739,7 +3739,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_269_team": {
+  {
     "team_id": "2023zjcpc_pre_269_team",
     "name": "现在是AC时间",
     "organization": "浙江农林大学暨阳学院",
@@ -3753,7 +3753,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_270_team": {
+  {
     "team_id": "2023zjcpc_pre_270_team",
     "name": "我真6，嘻嘻",
     "organization": "浙江师范大学",
@@ -3767,7 +3767,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_271_team": {
+  {
     "team_id": "2023zjcpc_pre_271_team",
     "name": "我不想加入Ranking俯冲",
     "organization": "中国计量大学",
@@ -3781,7 +3781,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_272_team": {
+  {
     "team_id": "2023zjcpc_pre_272_team",
     "name": "丽水学院2队",
     "organization": "丽水学院",
@@ -3795,7 +3795,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_273_team": {
+  {
     "team_id": "2023zjcpc_pre_273_team",
     "name": "雷霆",
     "organization": "浙江农林大学暨阳学院",
@@ -3809,7 +3809,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_274_team": {
+  {
     "team_id": "2023zjcpc_pre_274_team",
     "name": "浙经院1队",
     "organization": "浙江经济职业技术学院",
@@ -3823,7 +3823,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_275_team": {
+  {
     "team_id": "2023zjcpc_pre_275_team",
     "name": "猫猫头鹰",
     "organization": "温州商学院",
@@ -3837,7 +3837,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_276_team": {
+  {
     "team_id": "2023zjcpc_pre_276_team",
     "name": "干饭不想排队",
     "organization": "嘉兴学院",
@@ -3851,7 +3851,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_277_team": {
+  {
     "team_id": "2023zjcpc_pre_277_team",
     "name": "听取WA声一片",
     "organization": "温州商学院",
@@ -3865,7 +3865,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_278_team": {
+  {
     "team_id": "2023zjcpc_pre_278_team",
     "name": "精神小伙成双成队",
     "organization": "浙江万里学院",
@@ -3879,7 +3879,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_279_team": {
+  {
     "team_id": "2023zjcpc_pre_279_team",
     "name": "恭迎龙王",
     "organization": "浙江商业职业技术学院",
@@ -3893,7 +3893,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_280_team": {
+  {
     "team_id": "2023zjcpc_pre_280_team",
     "name": "三个退役狗",
     "organization": "浙江大学",
@@ -3907,7 +3907,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_281_team": {
+  {
     "team_id": "2023zjcpc_pre_281_team",
     "name": "星空漫步",
     "organization": "温州大学",
@@ -3921,7 +3921,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_282_team": {
+  {
     "team_id": "2023zjcpc_pre_282_team",
     "name": "感觉要长脑子",
     "organization": "台州职业技术学院",
@@ -3935,7 +3935,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_283_team": {
+  {
     "team_id": "2023zjcpc_pre_283_team",
     "name": "Insomniac ",
     "organization": "浙江工业大学",
@@ -3949,7 +3949,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_284_team": {
+  {
     "team_id": "2023zjcpc_pre_284_team",
     "name": "今天吃好吃的",
     "organization": "台州职业技术学院",
@@ -3963,7 +3963,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_285_team": {
+  {
     "team_id": "2023zjcpc_pre_285_team",
     "name": "希望代码一次敲队",
     "organization": "浙江工商大学",
@@ -3977,7 +3977,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_286_team": {
+  {
     "team_id": "2023zjcpc_pre_286_team",
     "name": "爆饿",
     "organization": "宁波工程学院",
@@ -3991,7 +3991,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_287_team": {
+  {
     "team_id": "2023zjcpc_pre_287_team",
     "name": "风则江队",
     "organization": "绍兴文理学院",
@@ -4005,7 +4005,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_288_team": {
+  {
     "team_id": "2023zjcpc_pre_288_team",
     "name": "宁波老年俱乐部？",
     "organization": "宁波大学",
@@ -4019,7 +4019,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_289_team": {
+  {
     "team_id": "2023zjcpc_pre_289_team",
     "name": "先做E题",
     "organization": "宁波工程学院",
@@ -4033,7 +4033,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_290_team": {
+  {
     "team_id": "2023zjcpc_pre_290_team",
     "name": "十里坡键神",
     "organization": "台州学院",
@@ -4047,7 +4047,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_291_team": {
+  {
     "team_id": "2023zjcpc_pre_291_team",
     "name": "啊对对队",
     "organization": "绍兴文理学院元培学院",
@@ -4061,7 +4061,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_292_team": {
+  {
     "team_id": "2023zjcpc_pre_292_team",
     "name": "之江5队",
     "organization": "浙江工业大学之江学院",
@@ -4075,7 +4075,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_293_team": {
+  {
     "team_id": "2023zjcpc_pre_293_team",
     "name": "杭电十六队",
     "organization": "杭州电子科技大学",
@@ -4089,7 +4089,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_294_team": {
+  {
     "team_id": "2023zjcpc_pre_294_team",
     "name": "广告位招租",
     "organization": "浙江大学",
@@ -4103,7 +4103,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_295_team": {
+  {
     "team_id": "2023zjcpc_pre_295_team",
     "name": "猫猫虫队",
     "organization": "温州科技职业学院",
@@ -4117,7 +4117,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_296_team": {
+  {
     "team_id": "2023zjcpc_pre_296_team",
     "name": "再看一眼就会",
     "organization": "温州职业技术学院",
@@ -4131,7 +4131,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_297_team": {
+  {
     "team_id": "2023zjcpc_pre_297_team",
     "name": "喵喵汪汪大作战",
     "organization": "浙江工贸职业技术学院",
@@ -4145,7 +4145,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_298_team": {
+  {
     "team_id": "2023zjcpc_pre_298_team",
     "name": "山洞",
     "organization": "海亮高级中学",
@@ -4158,7 +4158,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "2023zjcpc_pre_299_team": {
+  {
     "team_id": "2023zjcpc_pre_299_team",
     "name": "越渊",
     "organization": "中国计量大学",
@@ -4172,7 +4172,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_300_team": {
+  {
     "team_id": "2023zjcpc_pre_300_team",
     "name": "育英八队",
     "organization": "浙江育英职业技术学院",
@@ -4186,7 +4186,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_301_team": {
+  {
     "team_id": "2023zjcpc_pre_301_team",
     "name": "浙传1队",
     "organization": "浙江传媒学院",
@@ -4200,7 +4200,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_302_team": {
+  {
     "team_id": "2023zjcpc_pre_302_team",
     "name": "队名越长꧅꧅꧅꧅꧅꧅꧅꧅꧅꧅꧅꧅越丢脸啊",
     "organization": "金华职业技术学院",
@@ -4214,7 +4214,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_303_team": {
+  {
     "team_id": "2023zjcpc_pre_303_team",
     "name": "800",
     "organization": "浙大宁波理工学院",
@@ -4228,7 +4228,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_304_team": {
+  {
     "team_id": "2023zjcpc_pre_304_team",
     "name": "偷吃贡品",
     "organization": "宁波财经学院",
@@ -4242,7 +4242,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_305_team": {
+  {
     "team_id": "2023zjcpc_pre_305_team",
     "name": "push rbp",
     "organization": "浙江农林大学",
@@ -4256,7 +4256,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_306_team": {
+  {
     "team_id": "2023zjcpc_pre_306_team",
     "name": "无尽幻想",
     "organization": "台州学院",
@@ -4270,7 +4270,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_307_team": {
+  {
     "team_id": "2023zjcpc_pre_307_team",
     "name": "老头观光团",
     "organization": "宁波工程学院",
@@ -4284,7 +4284,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_308_team": {
+  {
     "team_id": "2023zjcpc_pre_308_team",
     "name": "悠米拌饭",
     "organization": "杭州师范大学",
@@ -4298,7 +4298,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_309_team": {
+  {
     "team_id": "2023zjcpc_pre_309_team",
     "name": "呜呜呜菜死了",
     "organization": "浙江理工大学",
@@ -4312,7 +4312,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_310_team": {
+  {
     "team_id": "2023zjcpc_pre_310_team",
     "name": "朝气蓬勃大一队",
     "organization": "绍兴文理学院元培学院",
@@ -4326,7 +4326,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_311_team": {
+  {
     "team_id": "2023zjcpc_pre_311_team",
     "name": "过期爽歪歪",
     "organization": "浙江传媒学院",
@@ -4340,7 +4340,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_312_team": {
+  {
     "team_id": "2023zjcpc_pre_312_team",
     "name": "三个臭皮匠",
     "organization": "杭州医学院",
@@ -4354,7 +4354,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_313_team": {
+  {
     "team_id": "2023zjcpc_pre_313_team",
     "name": "东风谷早苗世界第一可爱",
     "organization": "杭州电子科技大学信息工程学院",
@@ -4368,7 +4368,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_314_team": {
+  {
     "team_id": "2023zjcpc_pre_314_team",
     "name": "带恶人组织",
     "organization": "中国计量大学",
@@ -4382,7 +4382,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_315_team": {
+  {
     "team_id": "2023zjcpc_pre_315_team",
     "name": "希望能对",
     "organization": "浙江纺织服装职业技术学院",
@@ -4396,7 +4396,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_316_team": {
+  {
     "team_id": "2023zjcpc_pre_316_team",
     "name": "有想法吗有想法吗",
     "organization": "浙江理工大学",
@@ -4410,7 +4410,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_317_team": {
+  {
     "team_id": "2023zjcpc_pre_317_team",
     "name": "青春不留白，代码一把梭",
     "organization": "宁波大学",
@@ -4424,7 +4424,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_318_team": {
+  {
     "team_id": "2023zjcpc_pre_318_team",
     "name": "丨",
     "organization": "浙江安防职业技术学院",
@@ -4438,7 +4438,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_319_team": {
+  {
     "team_id": "2023zjcpc_pre_319_team",
     "name": "acmの最强传说AC纯一郎",
     "organization": "绍兴文理学院元培学院",
@@ -4452,7 +4452,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_320_team": {
+  {
     "team_id": "2023zjcpc_pre_320_team",
     "name": "ZCMU-不划水不摆烂",
     "organization": "浙江中医药大学滨江学院",
@@ -4466,7 +4466,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_321_team": {
+  {
     "team_id": "2023zjcpc_pre_321_team",
     "name": "菜地卷狗",
     "organization": "绍兴文理学院元培学院",
@@ -4480,7 +4480,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_322_team": {
+  {
     "team_id": "2023zjcpc_pre_322_team",
     "name": "浙经院3队",
     "organization": "浙江经济职业技术学院",
@@ -4494,7 +4494,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_323_team": {
+  {
     "team_id": "2023zjcpc_pre_323_team",
     "name": "湖职1队",
     "organization": "湖州职业技术学院",
@@ -4508,7 +4508,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_324_team": {
+  {
     "team_id": "2023zjcpc_pre_324_team",
     "name": "队伍中文名",
     "organization": "金华市丽泽中学",
@@ -4521,7 +4521,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "2023zjcpc_pre_325_team": {
+  {
     "team_id": "2023zjcpc_pre_325_team",
     "name": "啊对对队",
     "organization": "浙江大学",
@@ -4535,7 +4535,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_326_team": {
+  {
     "team_id": "2023zjcpc_pre_326_team",
     "name": "杭电一队",
     "organization": "杭州电子科技大学",
@@ -4549,7 +4549,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_327_team": {
+  {
     "team_id": "2023zjcpc_pre_327_team",
     "name": "摸鱼的鸽子",
     "organization": "浙江机电职业技术学院",
@@ -4563,7 +4563,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_328_team": {
+  {
     "team_id": "2023zjcpc_pre_328_team",
     "name": "RE：从爆零开始的ACM生活",
     "organization": "绍兴文理学院",
@@ -4577,7 +4577,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_329_team": {
+  {
     "team_id": "2023zjcpc_pre_329_team",
     "name": "麦当劳不排队",
     "organization": "丽水职业技术学院",
@@ -4591,7 +4591,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_330_team": {
+  {
     "team_id": "2023zjcpc_pre_330_team",
     "name": "长征3队",
     "organization": "浙江长征职业技术学院",
@@ -4605,7 +4605,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_331_team": {
+  {
     "team_id": "2023zjcpc_pre_331_team",
     "name": "Inforno",
     "organization": "浙江金融职业学院",
@@ -4619,7 +4619,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_332_team": {
+  {
     "team_id": "2023zjcpc_pre_332_team",
     "name": "CodeGPT",
     "organization": "浙江师范大学",
@@ -4633,7 +4633,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_333_team": {
+  {
     "team_id": "2023zjcpc_pre_333_team",
     "name": "杭电十五队",
     "organization": "杭州电子科技大学",
@@ -4647,7 +4647,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_334_team": {
+  {
     "team_id": "2023zjcpc_pre_334_team",
     "name": "秃驴敢跟贫道抢老尼",
     "organization": "宁波城市职业技术学院",
@@ -4661,7 +4661,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_335_team": {
+  {
     "team_id": "2023zjcpc_pre_335_team",
     "name": "幼稚未完",
     "organization": "杭州师范大学",
@@ -4675,7 +4675,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_336_team": {
+  {
     "team_id": "2023zjcpc_pre_336_team",
     "name": "原神高手",
     "organization": "金华职业技术学院",
@@ -4689,7 +4689,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_337_team": {
+  {
     "team_id": "2023zjcpc_pre_337_team",
     "name": "今天刚学会print",
     "organization": "绍兴职业技术学院",
@@ -4703,7 +4703,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_338_team": {
+  {
     "team_id": "2023zjcpc_pre_338_team",
     "name": "红葉最多情",
     "organization": "浙江农林大学",
@@ -4717,7 +4717,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_339_team": {
+  {
     "team_id": "2023zjcpc_pre_339_team",
     "name": "数技联盟",
     "organization": "浙江传媒学院",
@@ -4731,7 +4731,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_340_team": {
+  {
     "team_id": "2023zjcpc_pre_340_team",
     "name": "浙江工业职业技术学院4队",
     "organization": "浙江工业职业技术学院",
@@ -4745,7 +4745,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_341_team": {
+  {
     "team_id": "2023zjcpc_pre_341_team",
     "name": "你们做的都对",
     "organization": "浙江商业职业技术学院",
@@ -4759,7 +4759,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_342_team": {
+  {
     "team_id": "2023zjcpc_pre_342_team",
     "name": "爆龙战士",
     "organization": "浙江金融职业学院",
@@ -4773,7 +4773,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_343_team": {
+  {
     "team_id": "2023zjcpc_pre_343_team",
     "name": "杭职1队",
     "organization": "杭州职业技术学院",
@@ -4787,7 +4787,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_344_team": {
+  {
     "team_id": "2023zjcpc_pre_344_team",
     "name": "我吃甜口不是我是舔狗",
     "organization": "浙江财经大学",
@@ -4801,7 +4801,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_345_team": {
+  {
     "team_id": "2023zjcpc_pre_345_team",
     "name": "浙江工业职业技术学院6队",
     "organization": "浙江工业职业技术学院",
@@ -4815,7 +4815,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_346_team": {
+  {
     "team_id": "2023zjcpc_pre_346_team",
     "name": "你所热爱的",
     "organization": "中国计量大学",
@@ -4829,7 +4829,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_347_team": {
+  {
     "team_id": "2023zjcpc_pre_347_team",
     "name": "育英10086队",
     "organization": "浙江育英职业技术学院",
@@ -4843,7 +4843,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_348_team": {
+  {
     "team_id": "2023zjcpc_pre_348_team",
     "name": "秃如其来 ",
     "organization": "浙江财经大学",
@@ -4857,7 +4857,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_349_team": {
+  {
     "team_id": "2023zjcpc_pre_349_team",
     "name": "篱笆墙的影子",
     "organization": "浙江工商职业技术学院",
@@ -4871,7 +4871,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_350_team": {
+  {
     "team_id": "2023zjcpc_pre_350_team",
     "name": "完全想不好",
     "organization": "浙江海洋大学",
@@ -4885,7 +4885,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_351_team": {
+  {
     "team_id": "2023zjcpc_pre_351_team",
     "name": "地球猫猫 ",
     "organization": "浙江工业大学",
@@ -4899,7 +4899,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_352_team": {
+  {
     "team_id": "2023zjcpc_pre_352_team",
     "name": "Duckforces",
     "organization": "浙江大学",
@@ -4913,7 +4913,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_353_team": {
+  {
     "team_id": "2023zjcpc_pre_353_team",
     "name": "温医菜狗",
     "organization": "温州医科大学",
@@ -4927,7 +4927,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_354_team": {
+  {
     "team_id": "2023zjcpc_pre_354_team",
     "name": "宁波震动队",
     "organization": "宁波职业技术学院",
@@ -4941,7 +4941,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_355_team": {
+  {
     "team_id": "2023zjcpc_pre_355_team",
     "name": "手我",
     "organization": "金华市丽泽中学",
@@ -4954,7 +4954,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "2023zjcpc_pre_356_team": {
+  {
     "team_id": "2023zjcpc_pre_356_team",
     "name": "破晓",
     "organization": "绍兴文理学院",
@@ -4968,7 +4968,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_357_team": {
+  {
     "team_id": "2023zjcpc_pre_357_team",
     "name": "杭电十七队",
     "organization": "杭州电子科技大学",
@@ -4982,7 +4982,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_358_team": {
+  {
     "team_id": "2023zjcpc_pre_358_team",
     "name": "海底小纵队",
     "organization": "浙江纺织服装职业技术学院",
@@ -4996,7 +4996,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_359_team": {
+  {
     "team_id": "2023zjcpc_pre_359_team",
     "name": "同舟共济",
     "organization": "浙江同济科技职业学院",
@@ -5010,7 +5010,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_360_team": {
+  {
     "team_id": "2023zjcpc_pre_360_team",
     "name": "简单点",
     "organization": "浙江师范大学",
@@ -5024,7 +5024,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_361_team": {
+  {
     "team_id": "2023zjcpc_pre_361_team",
     "name": "黄鑫尉队",
     "organization": "温州理工学院",
@@ -5038,7 +5038,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_362_team": {
+  {
     "team_id": "2023zjcpc_pre_362_team",
     "name": "杭商1队",
     "organization": "浙江工商大学杭州商学院",
@@ -5052,7 +5052,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_363_team": {
+  {
     "team_id": "2023zjcpc_pre_363_team",
     "name": "湖师院3队",
     "organization": "湖州师范学院",
@@ -5066,7 +5066,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_364_team": {
+  {
     "team_id": "2023zjcpc_pre_364_team",
     "name": "白兰咖啡厅",
     "organization": "浙江理工大学",
@@ -5080,7 +5080,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_365_team": {
+  {
     "team_id": "2023zjcpc_pre_365_team",
     "name": "楼上你A慢一点等等我们队",
     "organization": "绍兴文理学院",
@@ -5094,7 +5094,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_366_team": {
+  {
     "team_id": "2023zjcpc_pre_366_team",
     "name": "湖师院5队",
     "organization": "湖州师范学院",
@@ -5108,7 +5108,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_367_team": {
+  {
     "team_id": "2023zjcpc_pre_367_team",
     "name": "风灵月影",
     "organization": "浙江万里学院",
@@ -5122,7 +5122,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_368_team": {
+  {
     "team_id": "2023zjcpc_pre_368_team",
     "name": "绿头怪，真的帅",
     "organization": "浙江商业职业技术学院",
@@ -5136,7 +5136,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_369_team": {
+  {
     "team_id": "2023zjcpc_pre_369_team",
     "name": "还没想好队名",
     "organization": "浙江财经大学",
@@ -5150,7 +5150,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_370_team": {
+  {
     "team_id": "2023zjcpc_pre_370_team",
     "name": "ZCMU_void ac( )",
     "organization": "浙江中医药大学",
@@ -5164,7 +5164,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_371_team": {
+  {
     "team_id": "2023zjcpc_pre_371_team",
     "name": "A在西元前",
     "organization": "中国计量大学现代科技学院",
@@ -5178,7 +5178,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_372_team": {
+  {
     "team_id": "2023zjcpc_pre_372_team",
     "name": "ZCMU-八点起床上班",
     "organization": "浙江中医药大学滨江学院",
@@ -5192,7 +5192,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_373_team": {
+  {
     "team_id": "2023zjcpc_pre_373_team",
     "name": "卖鱼",
     "organization": "浙江警官职业学院",
@@ -5206,7 +5206,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_374_team": {
+  {
     "team_id": "2023zjcpc_pre_374_team",
     "name": "丽水学院1队",
     "organization": "丽水学院",
@@ -5220,7 +5220,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_375_team": {
+  {
     "team_id": "2023zjcpc_pre_375_team",
     "name": "从容应队",
     "organization": "温州理工学院",
@@ -5234,7 +5234,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_376_team": {
+  {
     "team_id": "2023zjcpc_pre_376_team",
     "name": "可持久化内卷",
     "organization": "浙江金融职业学院",
@@ -5248,7 +5248,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_377_team": {
+  {
     "team_id": "2023zjcpc_pre_377_team",
     "name": "Lqingyi去上班了两人打省赛",
     "organization": "中国计量大学现代科技学院",
@@ -5262,7 +5262,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_378_team": {
+  {
     "team_id": "2023zjcpc_pre_378_team",
     "name": "落叶逐火",
     "organization": "浙江机电职业技术学院",
@@ -5276,7 +5276,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_379_team": {
+  {
     "team_id": "2023zjcpc_pre_379_team",
     "name": "ZCMU-啊对对队",
     "organization": "浙江中医药大学滨江学院",
@@ -5290,7 +5290,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_380_team": {
+  {
     "team_id": "2023zjcpc_pre_380_team",
     "name": "月隐前还有路要走",
     "organization": "宁波大学",
@@ -5304,7 +5304,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_381_team": {
+  {
     "team_id": "2023zjcpc_pre_381_team",
     "name": "编猿队",
     "organization": "湖州学院",
@@ -5318,7 +5318,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_382_team": {
+  {
     "team_id": "2023zjcpc_pre_382_team",
     "name": "今天要干亿碗饭",
     "organization": "浙江工业大学之江学院",
@@ -5332,7 +5332,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_383_team": {
+  {
     "team_id": "2023zjcpc_pre_383_team",
     "name": "拉普兰德天下第一",
     "organization": "浙江工商职业技术学院",
@@ -5346,7 +5346,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_384_team": {
+  {
     "team_id": "2023zjcpc_pre_384_team",
     "name": "鹅队 ",
     "organization": "浙江财经大学",
@@ -5360,7 +5360,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_385_team": {
+  {
     "team_id": "2023zjcpc_pre_385_team",
     "name": "飞飞",
     "organization": "浙江理工大学",
@@ -5374,7 +5374,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_386_team": {
+  {
     "team_id": "2023zjcpc_pre_386_team",
     "name": "要我告儿你多少遍?",
     "organization": "温州大学",
@@ -5388,7 +5388,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_387_team": {
+  {
     "team_id": "2023zjcpc_pre_387_team",
     "name": "无情葬月",
     "organization": "湖州职业技术学院",
@@ -5402,7 +5402,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_388_team": {
+  {
     "team_id": "2023zjcpc_pre_388_team",
     "name": "浙江工业职业技术学院7队",
     "organization": "浙江工业职业技术学院",
@@ -5416,7 +5416,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_389_team": {
+  {
     "team_id": "2023zjcpc_pre_389_team",
     "name": "特斯拉泥头车",
     "organization": "宁波工程学院",
@@ -5430,7 +5430,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_390_team": {
+  {
     "team_id": "2023zjcpc_pre_390_team",
     "name": "娃娃菜",
     "organization": "浙江财经大学",
@@ -5444,7 +5444,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_391_team": {
+  {
     "team_id": "2023zjcpc_pre_391_team",
     "name": "ZCMU-昨日之战",
     "organization": "浙江中医药大学",
@@ -5458,7 +5458,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_392_team": {
+  {
     "team_id": "2023zjcpc_pre_392_team",
     "name": "\\u6211\\u5fc5\\u0041\\u",
     "organization": "浙江万里学院",
@@ -5472,7 +5472,7 @@
     "girl": false,
     "undergraduate": 1
   },
-  "2023zjcpc_pre_393_team": {
+  {
     "team_id": "2023zjcpc_pre_393_team",
     "name": "ACM  图论秒杀队",
     "organization": "台州科技职业学院",
@@ -5486,7 +5486,7 @@
     "girl": false,
     "vocational": 1
   },
-  "2023zjcpc_pre_394_team": {
+  {
     "team_id": "2023zjcpc_pre_394_team",
     "name": "育英汐入玖玖里队",
     "organization": "浙江育英职业技术学院",
@@ -5500,4 +5500,4 @@
     "girl": false,
     "vocational": 1
   }
-}
+]

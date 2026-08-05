@@ -1,5 +1,5 @@
-{
-  "2001202310210001": {
+[
+  {
     "team_id": "2001202310210001",
     "name": "玩原神玩的",
     "organization": "宁波职业技术学院",
@@ -12,7 +12,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2001202310210002": {
+  {
     "team_id": "2001202310210002",
     "name": "你不能拿我们和那些强队比",
     "organization": "宁波职业技术学院",
@@ -25,7 +25,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2001202310210003": {
+  {
     "team_id": "2001202310210003",
     "name": "三人成行重制版",
     "organization": "宁波职业技术学院",
@@ -38,7 +38,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2001202310210004": {
+  {
     "team_id": "2001202310210004",
     "name": "机电5队",
     "organization": "浙江机电职业技术学院",
@@ -51,7 +51,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2001202310210005": {
+  {
     "team_id": "2001202310210005",
     "name": "机电4队",
     "organization": "浙江机电职业技术学院",
@@ -64,7 +64,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2001202310210006": {
+  {
     "team_id": "2001202310210006",
     "name": "机电3队",
     "organization": "浙江机电职业技术学院",
@@ -77,7 +77,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2001202310210007": {
+  {
     "team_id": "2001202310210007",
     "name": "机电2队",
     "organization": "浙江机电职业技术学院",
@@ -90,7 +90,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2001202310210008": {
+  {
     "team_id": "2001202310210008",
     "name": "机电1队",
     "organization": "浙江机电职业技术学院",
@@ -103,7 +103,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2001202310210009": {
+  {
     "team_id": "2001202310210009",
     "name": "育英五队",
     "organization": "浙江育英职业技术学院",
@@ -116,7 +116,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2001202310210010": {
+  {
     "team_id": "2001202310210010",
     "name": "育英七队",
     "organization": "浙江育英职业技术学院",
@@ -129,7 +129,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2001202310210011": {
+  {
     "team_id": "2001202310210011",
     "name": "育英三队",
     "organization": "浙江育英职业技术学院",
@@ -142,7 +142,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2001202310210012": {
+  {
     "team_id": "2001202310210012",
     "name": "育英十队",
     "organization": "浙江育英职业技术学院",
@@ -155,7 +155,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2001202310210013": {
+  {
     "team_id": "2001202310210013",
     "name": "嘉兴一日游后想去教练家吃饭",
     "organization": "浙江金融职业学院",
@@ -168,7 +168,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2001202310210014": {
+  {
     "team_id": "2001202310210014",
     "name": "福布斯富婆队",
     "organization": "浙江金融职业学院",
@@ -181,7 +181,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2001202310210015": {
+  {
     "team_id": "2001202310210015",
     "name": "一切都是命运石之门的选择",
     "organization": "浙江金融职业学院",
@@ -194,7 +194,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2001202310210016": {
+  {
     "team_id": "2001202310210016",
     "name": "大佬求带",
     "organization": "绍兴职业技术学院",
@@ -207,7 +207,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2001202310210017": {
+  {
     "team_id": "2001202310210017",
     "name": "裁判组",
     "organization": "绍兴职业技术学院",
@@ -220,7 +220,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2001202310210018": {
+  {
     "team_id": "2001202310210018",
     "name": "朗朗晴天",
     "organization": "南昌理工学院",
@@ -233,7 +233,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2001202310210019": {
+  {
     "team_id": "2001202310210019",
     "name": "赢了比赛要自愿请学长学姐吃饭对不队",
     "organization": "南昌理工学院",
@@ -246,7 +246,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2001202310210020": {
+  {
     "team_id": "2001202310210020",
     "name": "不会DP怎么办",
     "organization": "浙江警官职业学院",
@@ -259,7 +259,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2001202310210021": {
+  {
     "team_id": "2001202310210021",
     "name": "四海一叶秋",
     "organization": "金华职业技术学院",
@@ -272,7 +272,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2001202310210022": {
+  {
     "team_id": "2001202310210022",
     "name": "取名恐惧症",
     "organization": "金华职业技术学院",
@@ -285,7 +285,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2001202310210023": {
+  {
     "team_id": "2001202310210023",
     "name": "被卡车创死穿越到金职院",
     "organization": "金华职业技术学院",
@@ -298,7 +298,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2001202310210024": {
+  {
     "team_id": "2001202310210024",
     "name": "全员恶人",
     "organization": "金华职业技术学院",
@@ -311,7 +311,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2001202310210025": {
+  {
     "team_id": "2001202310210025",
     "name": "332娇羞曲奇",
     "organization": "金华职业技术学院",
@@ -324,7 +324,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2001202310210026": {
+  {
     "team_id": "2001202310210026",
     "name": "写啥都对",
     "organization": "浙江工业职业技术学院",
@@ -337,7 +337,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2001202310210027": {
+  {
     "team_id": "2001202310210027",
     "name": "重生之我是懒羊羊",
     "organization": "浙江工业职业技术学院",
@@ -350,7 +350,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2001202310210028": {
+  {
     "team_id": "2001202310210028",
     "name": "逢暮蝉",
     "organization": "浙江工业职业技术学院",
@@ -363,7 +363,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2001202310210029": {
+  {
     "team_id": "2001202310210029",
     "name": "队内有一个笨蛋",
     "organization": "浙江工业职业技术学院",
@@ -376,7 +376,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2001202310210030": {
+  {
     "team_id": "2001202310210030",
     "name": "三人行",
     "organization": "武汉职业技术学院",
@@ -389,7 +389,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2001202310210031": {
+  {
     "team_id": "2001202310210031",
     "name": "你说的都队",
     "organization": "浙江长征职业技术学院",
@@ -402,7 +402,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2001202310210032": {
+  {
     "team_id": "2001202310210032",
     "name": "嘉兴职业技术学院二队",
     "organization": "嘉兴职业技术学院",
@@ -415,7 +415,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2001202310210033": {
+  {
     "team_id": "2001202310210033",
     "name": "嘉兴职业技术学院三队",
     "organization": "嘉兴职业技术学院",
@@ -428,7 +428,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2001202310210034": {
+  {
     "team_id": "2001202310210034",
     "name": "嘉兴职业技术学院一队",
     "organization": "嘉兴职业技术学院",
@@ -441,4 +441,4 @@
     "unofficial": false,
     "girl": false
   }
-}
+]

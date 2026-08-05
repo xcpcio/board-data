@@ -1,5 +1,5 @@
-{
-  "C415-01": {
+[
+  {
     "team_id": "C415-01",
     "name": "Sleepy",
     "organization": "东华大学",
@@ -12,7 +12,7 @@
       "official"
     ]
   },
-  "C415-02": {
+  {
     "team_id": "C415-02",
     "name": "例方体",
     "organization": "华东师范大学",
@@ -25,7 +25,7 @@
       "official"
     ]
   },
-  "C415-03": {
+  {
     "team_id": "C415-03",
     "name": "SHU24",
     "organization": "上海大学",
@@ -37,7 +37,7 @@
       "official"
     ]
   },
-  "C415-04": {
+  {
     "team_id": "C415-04",
     "name": "惊讶惊讶惊讶",
     "organization": "上海交通大学",
@@ -50,7 +50,7 @@
       "official"
     ]
   },
-  "C415-05": {
+  {
     "team_id": "C415-05",
     "name": "使题来袭，AC力场全开",
     "organization": "复旦大学",
@@ -63,7 +63,7 @@
       "official"
     ]
   },
-  "C415-06": {
+  {
     "team_id": "C415-06",
     "name": "WC!BIN!",
     "organization": "上海电力大学",
@@ -76,7 +76,7 @@
       "official"
     ]
   },
-  "C415-07": {
+  {
     "team_id": "C415-07",
     "name": "自由曲面",
     "organization": "上海理工大学",
@@ -89,7 +89,7 @@
       "official"
     ]
   },
-  "C415-08": {
+  {
     "team_id": "C415-08",
     "name": "SHU04",
     "organization": "上海大学",
@@ -102,7 +102,7 @@
       "official"
     ]
   },
-  "C415-09": {
+  {
     "team_id": "C415-09",
     "name": "逆熵海事局",
     "organization": "上海海事大学",
@@ -115,7 +115,7 @@
       "official"
     ]
   },
-  "C415-10": {
+  {
     "team_id": "C415-10",
     "name": "那一天的WA AC起来",
     "organization": "上海理工大学",
@@ -128,7 +128,7 @@
       "official"
     ]
   },
-  "C415-11": {
+  {
     "team_id": "C415-11",
     "name": "SHU14",
     "organization": "上海大学",
@@ -141,7 +141,7 @@
       "official"
     ]
   },
-  "C415-12": {
+  {
     "team_id": "C415-12",
     "name": "清朝老兵",
     "organization": "东华大学",
@@ -154,7 +154,7 @@
       "official"
     ]
   },
-  "C415-13": {
+  {
     "team_id": "C415-13",
     "name": "七天能速成吗",
     "organization": "上海电力大学",
@@ -167,7 +167,7 @@
       "official"
     ]
   },
-  "C415-14": {
+  {
     "team_id": "C415-14",
     "name": "巴别塔",
     "organization": "上海对外经贸大学",
@@ -180,7 +180,7 @@
       "official"
     ]
   },
-  "C415-15": {
+  {
     "team_id": "C415-15",
     "name": "好事多磨",
     "organization": "上海海洋大学",
@@ -193,7 +193,7 @@
       "official"
     ]
   },
-  "C415-16": {
+  {
     "team_id": "C415-16",
     "name": "我在杉达学土木",
     "organization": "上海杉达学院",
@@ -206,7 +206,7 @@
       "official"
     ]
   },
-  "C415-17": {
+  {
     "team_id": "C415-17",
     "name": "前进四",
     "organization": "上海体育大学",
@@ -219,7 +219,7 @@
       "official"
     ]
   },
-  "C415-18": {
+  {
     "team_id": "C415-18",
     "name": "不可视境界线",
     "organization": "东华大学",
@@ -232,7 +232,7 @@
       "official"
     ]
   },
-  "C417-01": {
+  {
     "team_id": "C417-01",
     "name": "河东食堂转生队",
     "organization": "华东师范大学",
@@ -245,7 +245,7 @@
       "official"
     ]
   },
-  "C417-02": {
+  {
     "team_id": "C417-02",
     "name": "SHU30",
     "organization": "上海大学",
@@ -257,7 +257,7 @@
       "official"
     ]
   },
-  "C417-03": {
+  {
     "team_id": "C417-03",
     "name": "三只老虎",
     "organization": "东华大学",
@@ -270,7 +270,7 @@
       "official"
     ]
   },
-  "C417-04": {
+  {
     "team_id": "C417-04",
     "name": "风铃夜行组的队",
     "organization": "上海电力大学",
@@ -283,7 +283,7 @@
       "official"
     ]
   },
-  "C417-05": {
+  {
     "team_id": "C417-05",
     "name": "想吃广东菜",
     "organization": "复旦大学",
@@ -296,7 +296,7 @@
       "official"
     ]
   },
-  "C417-06": {
+  {
     "team_id": "C417-06",
     "name": "SHU29",
     "organization": "上海大学",
@@ -309,7 +309,7 @@
       "official"
     ]
   },
-  "C417-07": {
+  {
     "team_id": "C417-07",
     "name": "bugmaker",
     "organization": "上海海事大学",
@@ -321,7 +321,7 @@
       "official"
     ]
   },
-  "C417-08": {
+  {
     "team_id": "C417-08",
     "name": "像乌龟叫苍蝇的蚊子",
     "organization": "上海理工大学",
@@ -334,7 +334,7 @@
       "official"
     ]
   },
-  "C417-09": {
+  {
     "team_id": "C417-09",
     "name": "SHU05",
     "organization": "上海大学",
@@ -347,7 +347,7 @@
       "official"
     ]
   },
-  "C417-10": {
+  {
     "team_id": "C417-10",
     "name": "少wa一发就是胜利",
     "organization": "上海海事大学",
@@ -360,7 +360,7 @@
       "official"
     ]
   },
-  "C417-11": {
+  {
     "team_id": "C417-11",
     "name": "三行代码让评测机哭着喊AC",
     "organization": "上海理工大学",
@@ -373,7 +373,7 @@
       "official"
     ]
   },
-  "C417-12": {
+  {
     "team_id": "C417-12",
     "name": "SHU15",
     "organization": "上海大学",
@@ -386,7 +386,7 @@
       "official"
     ]
   },
-  "C417-13": {
+  {
     "team_id": "C417-13",
     "name": "原来的队名太难听了所以先把这个队名填上去",
     "organization": "华东理工大学",
@@ -399,7 +399,7 @@
       "official"
     ]
   },
-  "C417-14": {
+  {
     "team_id": "C417-14",
     "name": "全脑溢出",
     "organization": "上海交通大学",
@@ -412,7 +412,7 @@
       "official"
     ]
   },
-  "C417-15": {
+  {
     "team_id": "C417-15",
     "name": "猫馔",
     "organization": "上海对外经贸大学",
@@ -425,7 +425,7 @@
       "official"
     ]
   },
-  "C417-16": {
+  {
     "team_id": "C417-16",
     "name": "怔魔",
     "organization": "上海建桥学院",
@@ -438,7 +438,7 @@
       "official"
     ]
   },
-  "C417-17": {
+  {
     "team_id": "C417-17",
     "name": "SHU28",
     "organization": "上海大学",
@@ -450,7 +450,7 @@
       "official"
     ]
   },
-  "C417-18": {
+  {
     "team_id": "C417-18",
     "name": "完赛后舞萌俱乐部",
     "organization": "上海杉达学院",
@@ -463,7 +463,7 @@
       "official"
     ]
   },
-  "C417-19": {
+  {
     "team_id": "C417-19",
     "name": "过了样例就算队",
     "organization": "同济大学",
@@ -476,7 +476,7 @@
       "unofficial"
     ]
   },
-  "C419-01": {
+  {
     "team_id": "C419-01",
     "name": "一个真正想银的人脸上是不会有笑容的",
     "organization": "上海政法学院",
@@ -489,7 +489,7 @@
       "official"
     ]
   },
-  "C419-02": {
+  {
     "team_id": "C419-02",
     "name": "2025杭电7队",
     "organization": "杭州电子科技大学",
@@ -502,7 +502,7 @@
       "unofficial"
     ]
   },
-  "C419-03": {
+  {
     "team_id": "C419-03",
     "name": "句点，终焉扭转",
     "organization": "东华大学",
@@ -515,7 +515,7 @@
       "official"
     ]
   },
-  "C419-04": {
+  {
     "team_id": "C419-04",
     "name": "在上海天文馆会遇到临港小企鹅吗",
     "organization": "华东师范大学",
@@ -528,7 +528,7 @@
       "official"
     ]
   },
-  "C419-05": {
+  {
     "team_id": "C419-05",
     "name": "把永远爱你写进诗的结尾",
     "organization": "东华大学",
@@ -541,7 +541,7 @@
       "official"
     ]
   },
-  "C419-06": {
+  {
     "team_id": "C419-06",
     "name": "洋芋国小分队",
     "organization": "上海电力大学",
@@ -554,7 +554,7 @@
       "official"
     ]
   },
-  "C419-07": {
+  {
     "team_id": "C419-07",
     "name": "SHU27",
     "organization": "上海大学",
@@ -567,7 +567,7 @@
       "official"
     ]
   },
-  "C419-08": {
+  {
     "team_id": "C419-08",
     "name": "逆天构造题想让我特判",
     "organization": "复旦大学",
@@ -580,7 +580,7 @@
       "official"
     ]
   },
-  "C419-09": {
+  {
     "team_id": "C419-09",
     "name": "想不出来队",
     "organization": "上海海事大学",
@@ -593,7 +593,7 @@
       "official"
     ]
   },
-  "C419-10": {
+  {
     "team_id": "C419-10",
     "name": "要不然我们就这样一万年",
     "organization": "上海理工大学",
@@ -606,7 +606,7 @@
       "official"
     ]
   },
-  "C419-11": {
+  {
     "team_id": "C419-11",
     "name": "SHU06",
     "organization": "上海大学",
@@ -619,7 +619,7 @@
       "official"
     ]
   },
-  "C419-12": {
+  {
     "team_id": "C419-12",
     "name": "ODAD",
     "organization": "上海海事大学",
@@ -632,7 +632,7 @@
       "official"
     ]
   },
-  "C419-13": {
+  {
     "team_id": "C419-13",
     "name": "昱煜宇成誉",
     "organization": "上海理工大学",
@@ -645,7 +645,7 @@
       "official"
     ]
   },
-  "C419-14": {
+  {
     "team_id": "C419-14",
     "name": "SHU16",
     "organization": "上海大学",
@@ -658,7 +658,7 @@
       "official"
     ]
   },
-  "C419-15": {
+  {
     "team_id": "C419-15",
     "name": "因为裸泳君催了所以只能先叫这个名字了",
     "organization": "华东理工大学",
@@ -671,7 +671,7 @@
       "official"
     ]
   },
-  "C419-16": {
+  {
     "team_id": "C419-16",
     "name": "皆无其名",
     "organization": "上海交通大学",
@@ -684,7 +684,7 @@
       "official"
     ]
   },
-  "C419-17": {
+  {
     "team_id": "C419-17",
     "name": "青WA子",
     "organization": "上海工程技术大学",
@@ -697,7 +697,7 @@
       "official"
     ]
   },
-  "C419-18": {
+  {
     "team_id": "C419-18",
     "name": "上纽队伍0",
     "organization": "上海纽约大学",
@@ -710,7 +710,7 @@
       "official"
     ]
   },
-  "C419-19": {
+  {
     "team_id": "C419-19",
     "name": "Non-Trivial TLE",
     "organization": "同济大学",
@@ -723,7 +723,7 @@
       "unofficial"
     ]
   },
-  "C421-01": {
+  {
     "team_id": "C421-01",
     "name": "7k狗都不玩",
     "organization": "上海杉达学院",
@@ -736,7 +736,7 @@
       "official"
     ]
   },
-  "C421-02": {
+  {
     "team_id": "C421-02",
     "name": "SHU26",
     "organization": "上海大学",
@@ -748,7 +748,7 @@
       "official"
     ]
   },
-  "C421-03": {
+  {
     "team_id": "C421-03",
     "name": "赛拓派",
     "organization": "上海政法学院",
@@ -761,7 +761,7 @@
       "official"
     ]
   },
-  "C421-04": {
+  {
     "team_id": "C421-04",
     "name": "余胜军徒儿",
     "organization": "东华大学",
@@ -774,7 +774,7 @@
       "official"
     ]
   },
-  "C421-05": {
+  {
     "team_id": "C421-05",
     "name": "AAA铜牌批发",
     "organization": "华东师范大学",
@@ -787,7 +787,7 @@
       "official"
     ]
   },
-  "C421-06": {
+  {
     "team_id": "C421-06",
     "name": "启发式优化",
     "organization": "复旦大学",
@@ -800,7 +800,7 @@
       "official"
     ]
   },
-  "C421-07": {
+  {
     "team_id": "C421-07",
     "name": "请输入文本",
     "organization": "上海电力大学",
@@ -813,7 +813,7 @@
       "official"
     ]
   },
-  "C421-08": {
+  {
     "team_id": "C421-08",
     "name": "华师大业余队",
     "organization": "华东师范大学",
@@ -826,7 +826,7 @@
       "official"
     ]
   },
-  "C421-09": {
+  {
     "team_id": "C421-09",
     "name": "天降队友能否带我ak",
     "organization": "上海海事大学",
@@ -839,7 +839,7 @@
       "official"
     ]
   },
-  "C421-10": {
+  {
     "team_id": "C421-10",
     "name": "长期素食",
     "organization": "上海理工大学",
@@ -852,7 +852,7 @@
       "official"
     ]
   },
-  "C421-11": {
+  {
     "team_id": "C421-11",
     "name": "SHU07",
     "organization": "上海大学",
@@ -865,7 +865,7 @@
       "official"
     ]
   },
-  "C421-12": {
+  {
     "team_id": "C421-12",
     "name": "我说偏差认知好牌多拿",
     "organization": "上海海事大学",
@@ -876,7 +876,7 @@
       "official"
     ]
   },
-  "C421-13": {
+  {
     "team_id": "C421-13",
     "name": "今晚和队友打ABC",
     "organization": "上海理工大学",
@@ -889,7 +889,7 @@
       "official"
     ]
   },
-  "C421-14": {
+  {
     "team_id": "C421-14",
     "name": "SHU17",
     "organization": "上海大学",
@@ -902,7 +902,7 @@
       "official"
     ]
   },
-  "C421-15": {
+  {
     "team_id": "C421-15",
     "name": "神秘老登梦想被神秘学弟带飞拿牌",
     "organization": "华东理工大学",
@@ -915,7 +915,7 @@
       "official"
     ]
   },
-  "C426-01": {
+  {
     "team_id": "C426-01",
     "name": "酸辣鼻屎",
     "organization": "东华大学",
@@ -928,7 +928,7 @@
       "official"
     ]
   },
-  "C426-02": {
+  {
     "team_id": "C426-02",
     "name": "下一个天亮",
     "organization": "华东师范大学",
@@ -941,7 +941,7 @@
       "official"
     ]
   },
-  "C426-03": {
+  {
     "team_id": "C426-03",
     "name": "月之森算法竞赛协会",
     "organization": "复旦大学",
@@ -954,7 +954,7 @@
       "official"
     ]
   },
-  "C426-04": {
+  {
     "team_id": "C426-04",
     "name": "宝石谭中辉虹见",
     "organization": "上海电力大学",
@@ -967,7 +967,7 @@
       "official"
     ]
   },
-  "C426-05": {
+  {
     "team_id": "C426-05",
     "name": "空指针",
     "organization": "华东师范大学",
@@ -980,7 +980,7 @@
       "official"
     ]
   },
-  "C426-06": {
+  {
     "team_id": "C426-06",
     "name": "星辰",
     "organization": "上海海事大学",
@@ -993,7 +993,7 @@
       "official"
     ]
   },
-  "C426-07": {
+  {
     "team_id": "C426-07",
     "name": "重生之我在打榜",
     "organization": "上海理工大学",
@@ -1006,7 +1006,7 @@
       "official"
     ]
   },
-  "C426-08": {
+  {
     "team_id": "C426-08",
     "name": "SHU08",
     "organization": "上海大学",
@@ -1019,7 +1019,7 @@
       "official"
     ]
   },
-  "C426-09": {
+  {
     "team_id": "C426-09",
     "name": "放学后Algorithm Time",
     "organization": "上海海事大学",
@@ -1032,7 +1032,7 @@
       "official"
     ]
   },
-  "C426-10": {
+  {
     "team_id": "C426-10",
     "name": "哄小孩",
     "organization": "上海理工大学",
@@ -1045,7 +1045,7 @@
       "official"
     ]
   },
-  "C426-11": {
+  {
     "team_id": "C426-11",
     "name": "SHU18",
     "organization": "上海大学",
@@ -1057,7 +1057,7 @@
       "official"
     ]
   },
-  "C426-12": {
+  {
     "team_id": "C426-12",
     "name": "萌新小登第一次来不知道起什么名",
     "organization": "华东理工大学",
@@ -1070,7 +1070,7 @@
       "official"
     ]
   },
-  "C426-13": {
+  {
     "team_id": "C426-13",
     "name": "这次一定AK",
     "organization": "东华大学",
@@ -1083,7 +1083,7 @@
       "official"
     ]
   },
-  "C426-14": {
+  {
     "team_id": "C426-14",
     "name": "二进制",
     "organization": "华东师范大学",
@@ -1095,7 +1095,7 @@
       "official"
     ]
   },
-  "C427-01": {
+  {
     "team_id": "C427-01",
     "name": "删库跑路",
     "organization": "上海理工大学",
@@ -1108,7 +1108,7 @@
       "official"
     ]
   },
-  "C427-02": {
+  {
     "team_id": "C427-02",
     "name": "欧码吉利漫播队",
     "organization": "上海电力大学",
@@ -1121,7 +1121,7 @@
       "official"
     ]
   },
-  "C427-03": {
+  {
     "team_id": "C427-03",
     "name": "橘子在上面",
     "organization": "华东师范大学",
@@ -1134,7 +1134,7 @@
       "official"
     ]
   },
-  "C427-04": {
+  {
     "team_id": "C427-04",
     "name": "干饭不排队",
     "organization": "上海海事大学",
@@ -1147,7 +1147,7 @@
       "official"
     ]
   },
-  "C427-05": {
+  {
     "team_id": "C427-05",
     "name": "AC风味代码",
     "organization": "上海理工大学",
@@ -1160,7 +1160,7 @@
       "official"
     ]
   },
-  "C427-06": {
+  {
     "team_id": "C427-06",
     "name": "SHU09",
     "organization": "上海大学",
@@ -1173,7 +1173,7 @@
       "official"
     ]
   },
-  "C427-07": {
+  {
     "team_id": "C427-07",
     "name": "请问您今天要来点奶龙吗？",
     "organization": "复旦大学",
@@ -1186,7 +1186,7 @@
       "official"
     ]
   },
-  "C427-08": {
+  {
     "team_id": "C427-08",
     "name": "航空大王",
     "organization": "上海理工大学",
@@ -1199,7 +1199,7 @@
       "official"
     ]
   },
-  "C427-09": {
+  {
     "team_id": "C427-09",
     "name": "SHU19",
     "organization": "上海大学",
@@ -1211,7 +1211,7 @@
       "official"
     ]
   },
-  "C427-10": {
+  {
     "team_id": "C427-10",
     "name": "澹澹蛋蛋",
     "organization": "华东理工大学",
@@ -1224,7 +1224,7 @@
       "official"
     ]
   },
-  "C427-11": {
+  {
     "team_id": "C427-11",
     "name": "和我的玻吕刻斯爆裂黎明说去吧",
     "organization": "上海理工大学",
@@ -1237,7 +1237,7 @@
       "official"
     ]
   },
-  "C427-12": {
+  {
     "team_id": "C427-12",
     "name": "Wonderhoy! 命由天定 运在人为",
     "organization": "华东师范大学",
@@ -1250,7 +1250,7 @@
       "official"
     ]
   },
-  "C427-13": {
+  {
     "team_id": "C427-13",
     "name": "曼波大战哈姆",
     "organization": "复旦大学",
@@ -1263,7 +1263,7 @@
       "official"
     ]
   },
-  "C427-14": {
+  {
     "team_id": "C427-14",
     "name": "三个臭皮匠",
     "organization": "上海电力大学",
@@ -1276,7 +1276,7 @@
       "official"
     ]
   },
-  "C429-01": {
+  {
     "team_id": "C429-01",
     "name": "combo",
     "organization": "华东师范大学",
@@ -1289,7 +1289,7 @@
       "official"
     ]
   },
-  "C429-02": {
+  {
     "team_id": "C429-02",
     "name": "2025杭电2队",
     "organization": "杭州电子科技大学",
@@ -1302,7 +1302,7 @@
       "unofficial"
     ]
   },
-  "C429-03": {
+  {
     "team_id": "C429-03",
     "name": "操作系统",
     "organization": "上海海事大学",
@@ -1315,7 +1315,7 @@
       "official"
     ]
   },
-  "C429-04": {
+  {
     "team_id": "C429-04",
     "name": "翠染百谷 雨浸春芜",
     "organization": "上海理工大学",
@@ -1328,7 +1328,7 @@
       "official"
     ]
   },
-  "C429-05": {
+  {
     "team_id": "C429-05",
     "name": "SHU10",
     "organization": "上海大学",
@@ -1341,7 +1341,7 @@
       "official"
     ]
   },
-  "C429-06": {
+  {
     "team_id": "C429-06",
     "name": "缝纫机糕手",
     "organization": "东华大学",
@@ -1354,7 +1354,7 @@
       "official"
     ]
   },
-  "C429-07": {
+  {
     "team_id": "C429-07",
     "name": "妈妈",
     "organization": "上海理工大学",
@@ -1367,7 +1367,7 @@
       "official"
     ]
   },
-  "C429-08": {
+  {
     "team_id": "C429-08",
     "name": "SHU20",
     "organization": "上海大学",
@@ -1379,7 +1379,7 @@
       "official"
     ]
   },
-  "C429-09": {
+  {
     "team_id": "C429-09",
     "name": "华理混沌元灵统御万码重构乾坤",
     "organization": "华东理工大学",
@@ -1392,7 +1392,7 @@
       "official"
     ]
   },
-  "C429-10": {
+  {
     "team_id": "C429-10",
     "name": "不吃蔬菜",
     "organization": "东华大学",
@@ -1405,7 +1405,7 @@
       "official"
     ]
   },
-  "C429-11": {
+  {
     "team_id": "C429-11",
     "name": "SHU01",
     "organization": "上海大学",
@@ -1418,7 +1418,7 @@
       "official"
     ]
   },
-  "C429-12": {
+  {
     "team_id": "C429-12",
     "name": "高松灯偷摸三角发出初音",
     "organization": "复旦大学",
@@ -1430,7 +1430,7 @@
       "official"
     ]
   },
-  "C429-13": {
+  {
     "team_id": "C429-13",
     "name": "三人成行",
     "organization": "上海电力大学",
@@ -1443,7 +1443,7 @@
       "official"
     ]
   },
-  "C429-14": {
+  {
     "team_id": "C429-14",
     "name": "A不了C也是AC",
     "organization": "华东师范大学",
@@ -1456,7 +1456,7 @@
       "official"
     ]
   },
-  "C601-01": {
+  {
     "team_id": "C601-01",
     "name": "稳银保铜争铁",
     "organization": "上海海事大学",
@@ -1469,7 +1469,7 @@
       "official"
     ]
   },
-  "C601-02": {
+  {
     "team_id": "C601-02",
     "name": "三英战ACM",
     "organization": "上海理工大学",
@@ -1482,7 +1482,7 @@
       "official"
     ]
   },
-  "C601-03": {
+  {
     "team_id": "C601-03",
     "name": "SHU11",
     "organization": "上海大学",
@@ -1495,7 +1495,7 @@
       "official"
     ]
   },
-  "C601-04": {
+  {
     "team_id": "C601-04",
     "name": "没有实力拿铜牌",
     "organization": "上海理工大学",
@@ -1508,7 +1508,7 @@
       "official"
     ]
   },
-  "C601-05": {
+  {
     "team_id": "C601-05",
     "name": "sha1+6deZ blackF4n-Club",
     "organization": "华东师范大学",
@@ -1521,7 +1521,7 @@
       "official"
     ]
   },
-  "C601-06": {
+  {
     "team_id": "C601-06",
     "name": "SHU21",
     "organization": "上海大学",
@@ -1534,7 +1534,7 @@
       "official"
     ]
   },
-  "C601-07": {
+  {
     "team_id": "C601-07",
     "name": "华理算法大帝霸绝寰宇碾星碎月",
     "organization": "华东理工大学",
@@ -1547,7 +1547,7 @@
       "official"
     ]
   },
-  "C601-08": {
+  {
     "team_id": "C601-08",
     "name": "夏日影",
     "organization": "上海交通大学",
@@ -1560,7 +1560,7 @@
       "official"
     ]
   },
-  "C601-09": {
+  {
     "team_id": "C601-09",
     "name": "住在学校里集训该如何是好",
     "organization": "上海海洋大学",
@@ -1573,7 +1573,7 @@
       "official"
     ]
   },
-  "C601-10": {
+  {
     "team_id": "C601-10",
     "name": "()不是回文",
     "organization": "上海纽约大学",
@@ -1586,7 +1586,7 @@
       "official"
     ]
   },
-  "C601-11": {
+  {
     "team_id": "C601-11",
     "name": "O(114514)",
     "organization": "上海师范大学",
@@ -1599,7 +1599,7 @@
       "official"
     ]
   },
-  "C601-12": {
+  {
     "team_id": "C601-12",
     "name": "福音摇滚",
     "organization": "东华大学",
@@ -1612,7 +1612,7 @@
       "official"
     ]
   },
-  "C603-01": {
+  {
     "team_id": "C603-01",
     "name": "假飞了！",
     "organization": "华东师范大学",
@@ -1625,7 +1625,7 @@
       "official"
     ]
   },
-  "C603-02": {
+  {
     "team_id": "C603-02",
     "name": "SHU02",
     "organization": "上海大学",
@@ -1638,7 +1638,7 @@
       "official"
     ]
   },
-  "C603-03": {
+  {
     "team_id": "C603-03",
     "name": "静谧午夜",
     "organization": "上海电力大学",
@@ -1651,7 +1651,7 @@
       "official"
     ]
   },
-  "C603-04": {
+  {
     "team_id": "C603-04",
     "name": "mex｛fe，cu，ag｝",
     "organization": "华东师范大学",
@@ -1664,7 +1664,7 @@
       "official"
     ]
   },
-  "C603-05": {
+  {
     "team_id": "C603-05",
     "name": "量子跃迁",
     "organization": "上海海事大学",
@@ -1677,7 +1677,7 @@
       "official"
     ]
   },
-  "C603-06": {
+  {
     "team_id": "C603-06",
     "name": "我们是屹立不倒的对不",
     "organization": "上海理工大学",
@@ -1690,7 +1690,7 @@
       "official"
     ]
   },
-  "C603-07": {
+  {
     "team_id": "C603-07",
     "name": "SHU12",
     "organization": "上海大学",
@@ -1703,7 +1703,7 @@
       "official"
     ]
   },
-  "C603-08": {
+  {
     "team_id": "C603-08",
     "name": "样例过就是过",
     "organization": "上海理工大学",
@@ -1716,7 +1716,7 @@
       "official"
     ]
   },
-  "C603-09": {
+  {
     "team_id": "C603-09",
     "name": "苦心经营的摸鱼毁于一旦",
     "organization": "复旦大学",
@@ -1729,7 +1729,7 @@
       "official"
     ]
   },
-  "C603-10": {
+  {
     "team_id": "C603-10",
     "name": "SHU22",
     "organization": "上海大学",
@@ -1741,7 +1741,7 @@
       "official"
     ]
   },
-  "C603-11": {
+  {
     "team_id": "C603-11",
     "name": "华理算法皇帝霸气侧漏毁天灭地",
     "organization": "华东理工大学",
@@ -1754,7 +1754,7 @@
       "official"
     ]
   },
-  "C603-12": {
+  {
     "team_id": "C603-12",
     "name": "进击的奶龙",
     "organization": "上海第二工业大学",
@@ -1767,7 +1767,7 @@
       "official"
     ]
   },
-  "C607-01": {
+  {
     "team_id": "C607-01",
     "name": "Beyond the Sky",
     "organization": "上海海洋大学",
@@ -1780,7 +1780,7 @@
       "official"
     ]
   },
-  "C607-02": {
+  {
     "team_id": "C607-02",
     "name": "SHU03",
     "organization": "上海大学",
@@ -1793,7 +1793,7 @@
       "official"
     ]
   },
-  "C607-03": {
+  {
     "team_id": "C607-03",
     "name": "AI可以取代程序员但永远无法取代家里蹲",
     "organization": "上海师范大学",
@@ -1806,7 +1806,7 @@
       "official"
     ]
   },
-  "C607-04": {
+  {
     "team_id": "C607-04",
     "name": "HDU二队",
     "organization": "东华大学",
@@ -1819,7 +1819,7 @@
       "official"
     ]
   },
-  "C607-05": {
+  {
     "team_id": "C607-05",
     "name": "风铃夜行我们喜欢你",
     "organization": "上海电力大学",
@@ -1832,7 +1832,7 @@
       "official"
     ]
   },
-  "C607-06": {
+  {
     "team_id": "C607-06",
     "name": "Republic of Acmers",
     "organization": "复旦大学",
@@ -1845,7 +1845,7 @@
       "official"
     ]
   },
-  "C607-07": {
+  {
     "team_id": "C607-07",
     "name": "今晚来我床上看GBC",
     "organization": "上海电力大学",
@@ -1858,7 +1858,7 @@
       "official"
     ]
   },
-  "C607-08": {
+  {
     "team_id": "C607-08",
     "name": "东瓷器普通大学",
     "organization": "华东师范大学",
@@ -1871,7 +1871,7 @@
       "official"
     ]
   },
-  "C607-09": {
+  {
     "team_id": "C607-09",
     "name": "狂炫麦当劳",
     "organization": "上海海事大学",
@@ -1884,7 +1884,7 @@
       "official"
     ]
   },
-  "C607-10": {
+  {
     "team_id": "C607-10",
     "name": "以德服人",
     "organization": "上海理工大学",
@@ -1897,7 +1897,7 @@
       "official"
     ]
   },
-  "C607-11": {
+  {
     "team_id": "C607-11",
     "name": "SHU13",
     "organization": "上海大学",
@@ -1910,7 +1910,7 @@
       "official"
     ]
   },
-  "C607-12": {
+  {
     "team_id": "C607-12",
     "name": "你也打瓦对不队",
     "organization": "上海理工大学",
@@ -1923,7 +1923,7 @@
       "official"
     ]
   },
-  "C609-01": {
+  {
     "team_id": "C609-01",
     "name": "小男娘",
     "organization": "上海纽约大学",
@@ -1936,7 +1936,7 @@
       "official"
     ]
   },
-  "C609-02": {
+  {
     "team_id": "C609-02",
     "name": "SHU23",
     "organization": "上海大学",
@@ -1949,7 +1949,7 @@
       "official"
     ]
   },
-  "C609-03": {
+  {
     "team_id": "C609-03",
     "name": "千分混沌",
     "organization": "上海交通大学",
@@ -1962,7 +1962,7 @@
       "official"
     ]
   },
-  "C609-04": {
+  {
     "team_id": "C609-04",
     "name": "⑨",
     "organization": "上海第二工业大学",
@@ -1975,7 +1975,7 @@
       "official"
     ]
   },
-  "C609-05": {
+  {
     "team_id": "C609-05",
     "name": "牢铁传说之陨落的天才",
     "organization": "上海海洋大学",
@@ -1988,7 +1988,7 @@
       "official"
     ]
   },
-  "C609-06": {
+  {
     "team_id": "C609-06",
     "name": "袋鼠长期素食会影响入侵梵蒂冈吗",
     "organization": "上海杉达学院",
@@ -2001,7 +2001,7 @@
       "official"
     ]
   },
-  "C609-07": {
+  {
     "team_id": "C609-07",
     "name": "赛前不小心通宵了",
     "organization": "上海师范大学",
@@ -2014,7 +2014,7 @@
       "official"
     ]
   },
-  "C609-08": {
+  {
     "team_id": "C609-08",
     "name": "洛谷奶龙粉丝团",
     "organization": "洛谷网络科技",
@@ -2027,7 +2027,7 @@
       "unofficial"
     ]
   },
-  "C609-09": {
+  {
     "team_id": "C609-09",
     "name": "向明中学队",
     "organization": "向明中学",
@@ -2040,7 +2040,7 @@
       "unofficial"
     ]
   },
-  "C609-10": {
+  {
     "team_id": "C609-10",
     "name": "Nanani",
     "organization": "哈尔滨工业大学",
@@ -2053,7 +2053,7 @@
       "unofficial"
     ]
   },
-  "C609-11": {
+  {
     "team_id": "C609-11",
     "name": "SHU25",
     "organization": "上海大学",
@@ -2066,7 +2066,7 @@
       "official"
     ]
   },
-  "C609-12": {
+  {
     "team_id": "C609-12",
     "name": "2025杭电6队",
     "organization": "杭州电子科技大学",
@@ -2079,4 +2079,4 @@
       "unofficial"
     ]
   }
-}
+]

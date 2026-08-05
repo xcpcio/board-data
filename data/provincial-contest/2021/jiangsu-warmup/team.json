@@ -1,5 +1,6 @@
-{
-  "1": {
+[
+  {
+    "team_id": "1",
     "organization": "常熟理工学院",
     "name": "卷王的心得感悟",
     "members": [
@@ -9,7 +10,8 @@
     ],
     "official": 1
   },
-  "2": {
+  {
+    "team_id": "2",
     "organization": "常熟理工学院",
     "name": "键盘里有虫",
     "members": [
@@ -19,7 +21,8 @@
     ],
     "official": 1
   },
-  "3": {
+  {
+    "team_id": "3",
     "organization": "常熟理工学院",
     "name": "AC三题就罢工",
     "members": [
@@ -29,7 +32,8 @@
     ],
     "official": 1
   },
-  "4": {
+  {
+    "team_id": "4",
     "organization": "常熟理工学院",
     "name": "曙光",
     "members": [
@@ -39,7 +43,8 @@
     ],
     "official": 1
   },
-  "5": {
+  {
+    "team_id": "5",
     "organization": "常熟理工学院",
     "name": "拿不拿奖队长都女装",
     "members": [
@@ -49,7 +54,8 @@
     ],
     "official": 1
   },
-  "6": {
+  {
+    "team_id": "6",
     "organization": "常熟理工学院",
     "name": "我们发量多着呢",
     "members": [
@@ -60,7 +66,8 @@
     "official": 1,
     "girl": 1
   },
-  "7": {
+  {
+    "team_id": "7",
     "organization": "常熟理工学院",
     "name": "离离原上普",
     "members": [
@@ -70,7 +77,8 @@
     ],
     "unofficial": 1
   },
-  "8": {
+  {
+    "team_id": "8",
     "organization": "常熟理工学院",
     "name": "一起吃奶酪",
     "members": [
@@ -80,7 +88,8 @@
     ],
     "unofficial": 1
   },
-  "9": {
+  {
+    "team_id": "9",
     "organization": "常熟理工学院",
     "name": "烧烤队",
     "members": [
@@ -90,7 +99,8 @@
     ],
     "unofficial": 1
   },
-  "10": {
+  {
+    "team_id": "10",
     "organization": "东南大学",
     "name": "/all",
     "members": [
@@ -100,7 +110,8 @@
     ],
     "official": 1
   },
-  "11": {
+  {
+    "team_id": "11",
     "organization": "东南大学",
     "name": "动力强劲哈库鱼",
     "members": [
@@ -110,7 +121,8 @@
     ],
     "official": 1
   },
-  "12": {
+  {
+    "team_id": "12",
     "organization": "东南大学",
     "name": "未命名",
     "members": [
@@ -120,7 +132,8 @@
     ],
     "official": 1
   },
-  "13": {
+  {
+    "team_id": "13",
     "organization": "东南大学",
     "name": "程序媛",
     "members": [
@@ -131,7 +144,8 @@
     "official": 1,
     "girl": 1
   },
-  "14": {
+  {
+    "team_id": "14",
     "organization": "河海大学",
     "name": "河海铁匠铺",
     "members": [
@@ -141,7 +155,8 @@
     ],
     "official": 1
   },
-  "15": {
+  {
+    "team_id": "15",
     "organization": "河海大学",
     "name": "可每队",
     "members": [
@@ -151,7 +166,8 @@
     ],
     "official": 1
   },
-  "16": {
+  {
+    "team_id": "16",
     "organization": "河海大学",
     "name": "几丁质",
     "members": [
@@ -161,7 +177,8 @@
     ],
     "official": 1
   },
-  "17": {
+  {
+    "team_id": "17",
     "organization": "河海大学",
     "name": "埃派克斯",
     "members": [
@@ -171,7 +188,8 @@
     ],
     "official": 1
   },
-  "18": {
+  {
+    "team_id": "18",
     "organization": "河海大学",
     "name": "焦糖布丁",
     "members": [
@@ -181,7 +199,8 @@
     ],
     "official": 1
   },
-  "19": {
+  {
+    "team_id": "19",
     "organization": "河海大学常州校区",
     "name": "哇哇哇",
     "members": [
@@ -191,7 +210,8 @@
     ],
     "official": 1
   },
-  "20": {
+  {
+    "team_id": "20",
     "organization": "河海大学常州校区",
     "name": "几何杀手",
     "members": [
@@ -201,7 +221,8 @@
     ],
     "official": 1
   },
-  "21": {
+  {
+    "team_id": "21",
     "organization": "江南大学",
     "name": "我要学离散",
     "members": [
@@ -211,7 +232,8 @@
     ],
     "official": 1
   },
-  "22": {
+  {
+    "team_id": "22",
     "organization": "江南大学",
     "name": "我和铁牌过圣诞",
     "members": [
@@ -221,7 +243,8 @@
     ],
     "official": 1
   },
-  "23": {
+  {
+    "team_id": "23",
     "organization": "江南大学",
     "name": "远坂凛粉丝队",
     "members": [
@@ -231,7 +254,8 @@
     ],
     "official": 1
   },
-  "24": {
+  {
+    "team_id": "24",
     "organization": "江苏大学",
     "name": "江苏大学猛1队",
     "members": [
@@ -241,7 +265,8 @@
     ],
     "official": 1
   },
-  "25": {
+  {
+    "team_id": "25",
     "organization": "江苏大学",
     "name": "魔术棒",
     "members": [
@@ -251,7 +276,8 @@
     ],
     "official": 1
   },
-  "26": {
+  {
+    "team_id": "26",
     "organization": "江苏海洋大学",
     "name": "江海大一队",
     "members": [
@@ -261,7 +287,8 @@
     ],
     "official": 1
   },
-  "27": {
+  {
+    "team_id": "27",
     "organization": "江苏海洋大学",
     "name": "开拓者",
     "members": [
@@ -271,7 +298,8 @@
     ],
     "official": 1
   },
-  "28": {
+  {
+    "team_id": "28",
     "organization": "江苏科技大学",
     "name": "队友好码",
     "members": [
@@ -281,7 +309,8 @@
     ],
     "official": 1
   },
-  "29": {
+  {
+    "team_id": "29",
     "organization": "江苏科技大学",
     "name": "球球队友再A一题",
     "members": [
@@ -291,7 +320,8 @@
     ],
     "official": 1
   },
-  "30": {
+  {
+    "team_id": "30",
     "organization": "金陵科技学院",
     "name": "布洛特亨德尔",
     "members": [
@@ -301,7 +331,8 @@
     ],
     "official": 1
   },
-  "31": {
+  {
+    "team_id": "31",
     "organization": "金陵科技学院",
     "name": "血压太高控制不住怎么办",
     "members": [
@@ -311,7 +342,8 @@
     ],
     "official": 1
   },
-  "32": {
+  {
+    "team_id": "32",
     "organization": "金陵科技学院",
     "name": "打铁星星队",
     "members": [
@@ -321,7 +353,8 @@
     ],
     "official": 1
   },
-  "33": {
+  {
+    "team_id": "33",
     "organization": "金陵科技学院",
     "name": "透视",
     "members": [
@@ -331,7 +364,8 @@
     ],
     "official": 1
   },
-  "34": {
+  {
+    "team_id": "34",
     "organization": "南京大学",
     "name": "admax",
     "members": [
@@ -341,7 +375,8 @@
     ],
     "official": 1
   },
-  "35": {
+  {
+    "team_id": "35",
     "organization": "南京大学",
     "name": "虚幻黄昏",
     "members": [
@@ -351,7 +386,8 @@
     ],
     "official": 1
   },
-  "36": {
+  {
+    "team_id": "36",
     "organization": "南京大学",
     "name": "如烟",
     "members": [
@@ -361,7 +397,8 @@
     ],
     "official": 1
   },
-  "37": {
+  {
+    "team_id": "37",
     "organization": "南京大学",
     "name": "鸽屋咕",
     "members": [
@@ -371,7 +408,8 @@
     ],
     "official": 1
   },
-  "38": {
+  {
+    "team_id": "38",
     "organization": "南京大学",
     "name": "Thedereap",
     "members": [
@@ -381,7 +419,8 @@
     ],
     "official": 1
   },
-  "39": {
+  {
+    "team_id": "39",
     "organization": "南京大学",
     "name": "不坠机就算胜利",
     "members": [
@@ -391,7 +430,8 @@
     ],
     "unofficial": 1
   },
-  "40": {
+  {
+    "team_id": "40",
     "organization": "南京大学",
     "name": "白日",
     "members": [
@@ -401,7 +441,8 @@
     ],
     "unofficial": 1
   },
-  "41": {
+  {
+    "team_id": "41",
     "organization": "南京大学",
     "name": "还没想好叫什么",
     "members": [
@@ -411,7 +452,8 @@
     ],
     "unofficial": 1
   },
-  "42": {
+  {
+    "team_id": "42",
     "organization": "南京大学",
     "name": "烂飞机",
     "members": [
@@ -421,7 +463,8 @@
     ],
     "unofficial": 1
   },
-  "43": {
+  {
+    "team_id": "43",
     "organization": "南京大学",
     "name": "菜根队",
     "members": [
@@ -431,7 +474,8 @@
     ],
     "unofficial": 1
   },
-  "44": {
+  {
+    "team_id": "44",
     "organization": "南京大学",
     "name": "南小饱",
     "members": [
@@ -441,7 +485,8 @@
     ],
     "unofficial": 1
   },
-  "45": {
+  {
+    "team_id": "45",
     "organization": "南京大学金陵学院",
     "name": "海阔天空",
     "members": [
@@ -451,7 +496,8 @@
     ],
     "official": 1
   },
-  "46": {
+  {
+    "team_id": "46",
     "organization": "南京工业大学",
     "name": "南工大n队",
     "members": [
@@ -461,7 +507,8 @@
     ],
     "official": 1
   },
-  "47": {
+  {
+    "team_id": "47",
     "organization": "南京工业大学",
     "name": "非全菜",
     "members": [
@@ -471,7 +518,8 @@
     ],
     "official": 1
   },
-  "48": {
+  {
+    "team_id": "48",
     "organization": "南京工业大学",
     "name": "给评测姬倒一杯卡布奇诺",
     "members": [
@@ -481,7 +529,8 @@
     ],
     "official": 1
   },
-  "49": {
+  {
+    "team_id": "49",
     "organization": "南京工业大学",
     "name": "打铁小分队",
     "members": [
@@ -491,7 +540,8 @@
     ],
     "official": 1
   },
-  "50": {
+  {
+    "team_id": "50",
     "organization": "南京工业大学",
     "name": "代码都",
     "members": [
@@ -501,7 +551,8 @@
     ],
     "official": 1
   },
-  "51": {
+  {
+    "team_id": "51",
     "organization": "南京航空航天大学",
     "name": "被迫打铁",
     "members": [
@@ -511,7 +562,8 @@
     ],
     "official": 1
   },
-  "52": {
+  {
+    "team_id": "52",
     "organization": "南京航空航天大学",
     "name": "教练我想打电竞",
     "members": [
@@ -521,7 +573,8 @@
     ],
     "official": 1
   },
-  "53": {
+  {
+    "team_id": "53",
     "organization": "南京航空航天大学",
     "name": "幺鸡小分队",
     "members": [
@@ -531,7 +584,8 @@
     ],
     "official": 1
   },
-  "54": {
+  {
+    "team_id": "54",
     "organization": "南京航空航天大学",
     "name": "拿不到金牌也有女朋友队",
     "members": [
@@ -541,7 +595,8 @@
     ],
     "official": 1
   },
-  "55": {
+  {
+    "team_id": "55",
     "organization": "南京航空航天大学",
     "name": "在JSCPC中寻求AC是否搞错了什么？",
     "members": [
@@ -551,7 +606,8 @@
     ],
     "official": 1
   },
-  "56": {
+  {
+    "team_id": "56",
     "organization": "南京航空航天大学",
     "name": "匈牙利牛肉焗饭",
     "members": [
@@ -562,7 +618,8 @@
     "official": 1,
     "girl": 1
   },
-  "57": {
+  {
+    "team_id": "57",
     "organization": "南京航空航天大学",
     "name": "三脸懵逼",
     "members": [
@@ -572,7 +629,8 @@
     ],
     "unofficial": 1
   },
-  "58": {
+  {
+    "team_id": "58",
     "organization": "南京航空航天大学",
     "name": "打代码会生发",
     "members": [
@@ -582,7 +640,8 @@
     ],
     "unofficial": 1
   },
-  "59": {
+  {
+    "team_id": "59",
     "organization": "南京理工大学",
     "name": "涅槃饼干",
     "members": [
@@ -592,7 +651,8 @@
     ],
     "official": 1
   },
-  "60": {
+  {
+    "team_id": "60",
     "organization": "南京理工大学",
     "name": "瑟瑟发抖",
     "members": [
@@ -602,7 +662,8 @@
     ],
     "official": 1
   },
-  "61": {
+  {
+    "team_id": "61",
     "organization": "南京理工大学",
     "name": "逆转猫猫头",
     "members": [
@@ -612,7 +673,8 @@
     ],
     "official": 1
   },
-  "62": {
+  {
+    "team_id": "62",
     "organization": "南京理工大学",
     "name": "点燃猫猫头",
     "members": [
@@ -622,7 +684,8 @@
     ],
     "official": 1
   },
-  "63": {
+  {
+    "team_id": "63",
     "organization": "南京理工大学",
     "name": "草莓果冻",
     "members": [
@@ -632,7 +695,8 @@
     ],
     "official": 1
   },
-  "64": {
+  {
+    "team_id": "64",
     "organization": "南京林业大学",
     "name": "崩坏世界的歌姬",
     "members": [
@@ -642,7 +706,8 @@
     ],
     "official": 1
   },
-  "65": {
+  {
+    "team_id": "65",
     "organization": "南京林业大学",
     "name": "彳亍",
     "members": [
@@ -652,7 +717,8 @@
     ],
     "official": 1
   },
-  "66": {
+  {
+    "team_id": "66",
     "organization": "南京林业大学",
     "name": "快乐的小鸟",
     "members": [
@@ -662,7 +728,8 @@
     ],
     "official": 1
   },
-  "67": {
+  {
+    "team_id": "67",
     "organization": "南京林业大学",
     "name": "又来取名",
     "members": [
@@ -672,7 +739,8 @@
     ],
     "official": 1
   },
-  "68": {
+  {
+    "team_id": "68",
     "organization": "南京师范大学",
     "name": "孙伯符开大快上船",
     "members": [
@@ -682,7 +750,8 @@
     ],
     "official": 1
   },
-  "69": {
+  {
+    "team_id": "69",
     "organization": "南京师范大学",
     "name": "不打铁的只狼龙之返乡",
     "members": [
@@ -692,7 +761,8 @@
     ],
     "official": 1
   },
-  "70": {
+  {
+    "team_id": "70",
     "organization": "南京师范大学",
     "name": "你单身还不打比赛干嘛",
     "members": [
@@ -702,7 +772,8 @@
     ],
     "official": 1
   },
-  "71": {
+  {
+    "team_id": "71",
     "organization": "南京师范大学",
     "name": "苏大食堂好吃吗",
     "members": [
@@ -712,7 +783,8 @@
     ],
     "official": 1
   },
-  "72": {
+  {
+    "team_id": "72",
     "organization": "南京师范大学",
     "name": "必有我师焉队",
     "members": [
@@ -722,7 +794,8 @@
     ],
     "official": 1
   },
-  "73": {
+  {
+    "team_id": "73",
     "organization": "南京师范大学",
     "name": "翻山越岭来打你",
     "members": [
@@ -733,7 +806,8 @@
     "official": 1,
     "girl": 1
   },
-  "74": {
+  {
+    "team_id": "74",
     "organization": "南京晓庄学院",
     "name": "某科学的A一题就对",
     "members": [
@@ -743,7 +817,8 @@
     ],
     "official": 1
   },
-  "75": {
+  {
+    "team_id": "75",
     "organization": "南京晓庄学院",
     "name": "海王养山猪",
     "members": [
@@ -753,7 +828,8 @@
     ],
     "official": 1
   },
-  "76": {
+  {
+    "team_id": "76",
     "organization": "南京晓庄学院",
     "name": "watermelon黄瓜队",
     "members": [
@@ -763,7 +839,8 @@
     ],
     "official": 1
   },
-  "77": {
+  {
+    "team_id": "77",
     "organization": "南京晓庄学院",
     "name": "今晚不许emo队",
     "members": [
@@ -773,7 +850,8 @@
     ],
     "official": 1
   },
-  "78": {
+  {
+    "team_id": "78",
     "organization": "南京晓庄学院",
     "name": "上面的别A了",
     "members": [
@@ -784,7 +862,8 @@
     "official": 1,
     "girl": 1
   },
-  "79": {
+  {
+    "team_id": "79",
     "organization": "南京信息工程大学",
     "name": "跟不上榜",
     "members": [
@@ -794,7 +873,8 @@
     ],
     "official": 1
   },
-  "80": {
+  {
+    "team_id": "80",
     "organization": "南京信息工程大学",
     "name": "从零开始的ACM生活",
     "members": [
@@ -804,7 +884,8 @@
     ],
     "official": 1
   },
-  "81": {
+  {
+    "team_id": "81",
     "organization": "南京信息工程大学",
     "name": "专业防爆零",
     "members": [
@@ -814,7 +895,8 @@
     ],
     "official": 1
   },
-  "82": {
+  {
+    "team_id": "82",
     "organization": "南京信息工程大学",
     "name": "璃月之夜",
     "members": [
@@ -824,7 +906,8 @@
     ],
     "official": 1
   },
-  "83": {
+  {
+    "team_id": "83",
     "organization": "南京信息工程大学",
     "name": "小小甜心",
     "members": [
@@ -834,7 +917,8 @@
     ],
     "official": 1
   },
-  "84": {
+  {
+    "team_id": "84",
     "organization": "南京信息工程大学",
     "name": "AutoResident",
     "members": [
@@ -845,7 +929,8 @@
     "official": 1,
     "girl": 1
   },
-  "85": {
+  {
+    "team_id": "85",
     "organization": "南京邮电大学",
     "name": "收收心找个电子厂上班了",
     "members": [
@@ -855,7 +940,8 @@
     ],
     "official": 1
   },
-  "86": {
+  {
+    "team_id": "86",
     "organization": "南京邮电大学",
     "name": "蜜雪去冰城",
     "members": [
@@ -865,7 +951,8 @@
     ],
     "official": 1
   },
-  "87": {
+  {
+    "team_id": "87",
     "organization": "南京邮电大学",
     "name": "哦对对对哦不对不对",
     "members": [
@@ -875,7 +962,8 @@
     ],
     "official": 1
   },
-  "88": {
+  {
+    "team_id": "88",
     "organization": "南京邮电大学",
     "name": "事末鸽者",
     "members": [
@@ -885,7 +973,8 @@
     ],
     "official": 1
   },
-  "89": {
+  {
+    "team_id": "89",
     "organization": "南京邮电大学",
     "name": "Citrus",
     "members": [
@@ -895,7 +984,8 @@
     ],
     "official": 1
   },
-  "90": {
+  {
+    "team_id": "90",
     "organization": "南京邮电大学",
     "name": "咱家要有钱了",
     "members": [
@@ -906,7 +996,8 @@
     "official": 1,
     "girl": 1
   },
-  "91": {
+  {
+    "team_id": "91",
     "organization": "南京邮电大学",
     "name": "饥饿的时候没有创造力",
     "members": [
@@ -916,7 +1007,8 @@
     ],
     "unofficial": 1
   },
-  "92": {
+  {
+    "team_id": "92",
     "organization": "南京邮电大学",
     "name": "白给队",
     "members": [
@@ -926,7 +1018,8 @@
     ],
     "unofficial": 1
   },
-  "93": {
+  {
+    "team_id": "93",
     "organization": "南京邮电大学通达学院",
     "name": "下次一定",
     "members": [
@@ -936,7 +1029,8 @@
     ],
     "official": 1
   },
-  "94": {
+  {
+    "team_id": "94",
     "organization": "南京邮电大学通达学院",
     "name": "小霸王算法机",
     "members": [
@@ -946,7 +1040,8 @@
     ],
     "official": 1
   },
-  "95": {
+  {
+    "team_id": "95",
     "organization": "南京邮电大学通达学院",
     "name": "重返艾泽拉斯",
     "members": [
@@ -956,7 +1051,8 @@
     ],
     "official": 1
   },
-  "96": {
+  {
+    "team_id": "96",
     "organization": "南京邮电大学通达学院",
     "name": "啥都行哈哈",
     "members": [
@@ -966,7 +1062,8 @@
     ],
     "official": 1
   },
-  "97": {
+  {
+    "team_id": "97",
     "organization": "南京中医药大学",
     "name": "欢乐斗地组",
     "members": [
@@ -976,7 +1073,8 @@
     ],
     "official": 1
   },
-  "98": {
+  {
+    "team_id": "98",
     "organization": "南京中医药大学",
     "name": "一起编程",
     "members": [
@@ -986,7 +1084,8 @@
     ],
     "official": 1
   },
-  "99": {
+  {
+    "team_id": "99",
     "organization": "南通大学",
     "name": "图灵说得队",
     "members": [
@@ -996,7 +1095,8 @@
     ],
     "official": 1
   },
-  "100": {
+  {
+    "team_id": "100",
     "organization": "南通大学",
     "name": "NTU1",
     "members": [
@@ -1006,7 +1106,8 @@
     ],
     "official": 1
   },
-  "101": {
+  {
+    "team_id": "101",
     "organization": "南通大学",
     "name": "快乐星球",
     "members": [
@@ -1016,7 +1117,8 @@
     ],
     "official": 1
   },
-  "102": {
+  {
+    "team_id": "102",
     "organization": "南通大学",
     "name": "集思广益一波",
     "members": [
@@ -1026,7 +1128,8 @@
     ],
     "official": 1
   },
-  "103": {
+  {
+    "team_id": "103",
     "organization": "南通大学",
     "name": "NTUUUU",
     "members": [
@@ -1036,7 +1139,8 @@
     ],
     "official": 1
   },
-  "104": {
+  {
+    "team_id": "104",
     "organization": "南通师范高等专科学校",
     "name": "lkc说得都对",
     "members": [
@@ -1046,7 +1150,8 @@
     ],
     "official": 1
   },
-  "105": {
+  {
+    "team_id": "105",
     "organization": "南通师范高等专科学校",
     "name": "Best effort",
     "members": [
@@ -1056,7 +1161,8 @@
     ],
     "official": 1
   },
-  "106": {
+  {
+    "team_id": "106",
     "organization": "南通师范高等专科学校",
     "name": "The One",
     "members": [
@@ -1066,7 +1172,8 @@
     ],
     "official": 1
   },
-  "107": {
+  {
+    "team_id": "107",
     "organization": "苏州大学",
     "name": "555我的炸鸡",
     "members": [
@@ -1076,7 +1183,8 @@
     ],
     "official": 1
   },
-  "108": {
+  {
+    "team_id": "108",
     "organization": "苏州大学",
     "name": "求转计科院",
     "members": [
@@ -1086,7 +1194,8 @@
     ],
     "official": 1
   },
-  "109": {
+  {
+    "team_id": "109",
     "organization": "苏州大学",
     "name": "渐入'佳'境",
     "members": [
@@ -1096,7 +1205,8 @@
     ],
     "official": 1
   },
-  "110": {
+  {
+    "team_id": "110",
     "organization": "苏州大学",
     "name": "喷射战士",
     "members": [
@@ -1106,7 +1216,8 @@
     ],
     "official": 1
   },
-  "111": {
+  {
+    "team_id": "111",
     "organization": "苏州大学",
     "name": "咕咕咕咕咕咕咕",
     "members": [
@@ -1116,7 +1227,8 @@
     ],
     "official": 1
   },
-  "112": {
+  {
+    "team_id": "112",
     "organization": "苏州大学",
     "name": "九二一",
     "members": [
@@ -1127,7 +1239,8 @@
     "official": 1,
     "girl": 1
   },
-  "113": {
+  {
+    "team_id": "113",
     "organization": "苏州大学",
     "name": "赶紧补题去吧",
     "members": [
@@ -1137,7 +1250,8 @@
     ],
     "unofficial": 1
   },
-  "114": {
+  {
+    "team_id": "114",
     "organization": "苏州大学",
     "name": "气球多多",
     "members": [
@@ -1147,7 +1261,8 @@
     ],
     "unofficial": 1
   },
-  "115": {
+  {
+    "team_id": "115",
     "organization": "苏州大学",
     "name": "AD钙奶队",
     "members": [
@@ -1157,7 +1272,8 @@
     ],
     "unofficial": 1
   },
-  "116": {
+  {
+    "team_id": "116",
     "organization": "苏州大学",
     "name": "零带三",
     "members": [
@@ -1167,7 +1283,8 @@
     ],
     "unofficial": 1
   },
-  "117": {
+  {
+    "team_id": "117",
     "organization": "苏州大学",
     "name": "只想去刷题",
     "members": [
@@ -1177,7 +1294,8 @@
     ],
     "unofficial": 1
   },
-  "118": {
+  {
+    "team_id": "118",
     "organization": "苏州大学",
     "name": "哪里签到啊",
     "members": [
@@ -1187,7 +1305,8 @@
     ],
     "unofficial": 1
   },
-  "119": {
+  {
+    "team_id": "119",
     "organization": "苏州大学",
     "name": "永不摆烂队",
     "members": [
@@ -1197,7 +1316,8 @@
     ],
     "unofficial": 1
   },
-  "120": {
+  {
+    "team_id": "120",
     "organization": "苏州科技大学",
     "name": "青钢影说她下次来",
     "members": [
@@ -1207,7 +1327,8 @@
     ],
     "official": 1
   },
-  "121": {
+  {
+    "team_id": "121",
     "organization": "苏州科技大学",
     "name": "暴风雨破碎机",
     "members": [
@@ -1217,7 +1338,8 @@
     ],
     "official": 1
   },
-  "122": {
+  {
+    "team_id": "122",
     "organization": "苏州科技大学",
     "name": "笨小孩",
     "members": [
@@ -1227,7 +1349,8 @@
     ],
     "official": 1
   },
-  "123": {
+  {
+    "team_id": "123",
     "organization": "苏州科技大学",
     "name": "算法指难",
     "members": [
@@ -1237,7 +1360,8 @@
     ],
     "official": 1
   },
-  "124": {
+  {
+    "team_id": "124",
     "organization": "苏州科技大学",
     "name": "像风一样",
     "members": [
@@ -1247,7 +1371,8 @@
     ],
     "official": 1
   },
-  "125": {
+  {
+    "team_id": "125",
     "organization": "徐州工程学院",
     "name": "啪的一下就过了",
     "members": [
@@ -1257,7 +1382,8 @@
     ],
     "official": 1
   },
-  "126": {
+  {
+    "team_id": "126",
     "organization": "扬州大学",
     "name": "摆就完了呗",
     "members": [
@@ -1267,7 +1393,8 @@
     ],
     "official": 1
   },
-  "127": {
+  {
+    "team_id": "127",
     "organization": "扬州大学",
     "name": "随便",
     "members": [
@@ -1277,7 +1404,8 @@
     ],
     "official": 1
   },
-  "128": {
+  {
+    "team_id": "128",
     "organization": "扬州大学",
     "name": "三分糖",
     "members": [
@@ -1288,7 +1416,8 @@
     "official": 1,
     "girl": 1
   },
-  "129": {
+  {
+    "team_id": "129",
     "organization": "扬州大学",
     "name": "码农队",
     "members": [
@@ -1298,7 +1427,8 @@
     ],
     "unofficial": 1
   },
-  "130": {
+  {
+    "team_id": "130",
     "organization": "中国矿业大学",
     "name": "你说的都队",
     "members": [
@@ -1308,7 +1438,8 @@
     ],
     "official": 1
   },
-  "131": {
+  {
+    "team_id": "131",
     "organization": "中国矿业大学",
     "name": "面向样例编程",
     "members": [
@@ -1318,7 +1449,8 @@
     ],
     "official": 1
   },
-  "132": {
+  {
+    "team_id": "132",
     "organization": "中国矿业大学",
     "name": "一般性随机忆墨人",
     "members": [
@@ -1328,7 +1460,8 @@
     ],
     "official": 1
   },
-  "133": {
+  {
+    "team_id": "133",
     "organization": "中国矿业大学",
     "name": "签到题敲舞蹈链",
     "members": [
@@ -1338,7 +1471,8 @@
     ],
     "official": 1
   },
-  "134": {
+  {
+    "team_id": "134",
     "organization": "中国矿业大学",
     "name": "塞尔达",
     "members": [
@@ -1348,7 +1482,8 @@
     ],
     "official": 1
   },
-  "135": {
+  {
+    "team_id": "135",
     "organization": "中国矿业大学",
     "name": "三只松鼠",
     "members": [
@@ -1359,7 +1494,8 @@
     "official": 1,
     "girl": 1
   },
-  "136": {
+  {
+    "team_id": "136",
     "organization": "西交利物浦大学",
     "name": "西浦AC小分队",
     "members": [
@@ -1369,7 +1505,8 @@
     ],
     "official": 1
   },
-  "137": {
+  {
+    "team_id": "137",
     "organization": "西交利物浦大学",
     "name": "叮叮车",
     "members": [
@@ -1379,7 +1516,8 @@
     ],
     "official": 1
   },
-  "138": {
+  {
+    "team_id": "138",
     "organization": "西交利物浦大学",
     "name": "嘉然小姐的猫",
     "members": [
@@ -1389,7 +1527,8 @@
     ],
     "official": 1
   },
-  "139": {
+  {
+    "team_id": "139",
     "organization": "西交利物浦大学",
     "name": "勇敢牛牛不怕困难",
     "members": [
@@ -1400,7 +1539,8 @@
     "official": 1,
     "girl": 1
   },
-  "140": {
+  {
+    "team_id": "140",
     "organization": "苏州中学生",
     "name": "季姬击鸡记",
     "members": [
@@ -1410,7 +1550,8 @@
     ],
     "unofficial": 1
   },
-  "141": {
+  {
+    "team_id": "141",
     "organization": "苏州中学生",
     "name": "石室施氏食狮史",
     "members": [
@@ -1420,7 +1561,8 @@
     ],
     "unofficial": 1
   },
-  "142": {
+  {
+    "team_id": "142",
     "organization": "苏州中学生",
     "name": "东郭先生爱吃狼",
     "members": [
@@ -1430,7 +1572,8 @@
     ],
     "unofficial": 1
   },
-  "143": {
+  {
+    "team_id": "143",
     "organization": "苏州中学生",
     "name": "神秘的金鸡湖水怪",
     "members": [
@@ -1440,7 +1583,8 @@
     ],
     "unofficial": 1
   },
-  "144": {
+  {
+    "team_id": "144",
     "organization": "苏州中学生",
     "name": "彭城百年羊肉汤",
     "members": [
@@ -1450,7 +1594,8 @@
     ],
     "unofficial": 1
   },
-  "145": {
+  {
+    "team_id": "145",
     "organization": "苏州中学生",
     "name": "三日凌空",
     "members": [
@@ -1460,4 +1605,4 @@
     ],
     "unofficial": 1
   }
-}
+]

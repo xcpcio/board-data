@@ -1,5 +1,5 @@
-{
-  "199": {
+[
+  {
     "team_id": "199",
     "name": "Kowloon Town MMW",
     "organization": "City University of Hong Kong",
@@ -7,7 +7,7 @@
     "unofficial": false,
     "girl": false
   },
-  "200": {
+  {
     "team_id": "200",
     "name": "GenCow, activate!",
     "organization": "City University of Hong Kong",
@@ -15,7 +15,7 @@
     "unofficial": false,
     "girl": false
   },
-  "201": {
+  {
     "team_id": "201",
     "name": "Schale",
     "organization": "City University of Macau",
@@ -23,7 +23,7 @@
     "unofficial": false,
     "girl": false
   },
-  "202": {
+  {
     "team_id": "202",
     "name": "Perfect Jam",
     "organization": "City University of Macau",
@@ -31,7 +31,7 @@
     "unofficial": false,
     "girl": false
   },
-  "203": {
+  {
     "team_id": "203",
     "name": "HKBU",
     "organization": "Hong Kong Baptist University",
@@ -39,7 +39,7 @@
     "unofficial": false,
     "girl": false
   },
-  "204": {
+  {
     "team_id": "204",
     "name": "Ichikawa Tobacco",
     "organization": "Hong Kong Polytechnic University",
@@ -47,7 +47,7 @@
     "unofficial": false,
     "girl": false
   },
-  "205": {
+  {
     "team_id": "205",
     "name": "HKUST1",
     "organization": "Hong Kong University of Science and Technology",
@@ -55,7 +55,7 @@
     "unofficial": false,
     "girl": false
   },
-  "206": {
+  {
     "team_id": "206",
     "name": "HKUST2",
     "organization": "Hong Kong University of Science and Technology",
@@ -63,7 +63,7 @@
     "unofficial": false,
     "girl": false
   },
-  "207": {
+  {
     "team_id": "207",
     "name": "HKOI 0",
     "organization": "The Chinese University of Hong Kong",
@@ -71,7 +71,7 @@
     "unofficial": false,
     "girl": false
   },
-  "208": {
+  {
     "team_id": "208",
     "name": "Android Package",
     "organization": "The Chinese University of Hong Kong",
@@ -79,7 +79,7 @@
     "unofficial": false,
     "girl": false
   },
-  "209": {
+  {
     "team_id": "209",
     "name": "Better rua turtle",
     "organization": "University of Hong Kong",
@@ -87,7 +87,7 @@
     "unofficial": false,
     "girl": false
   },
-  "210": {
+  {
     "team_id": "210",
     "name": "huawei 15 pro max",
     "organization": "University of Hong Kong",
@@ -95,7 +95,7 @@
     "unofficial": false,
     "girl": false
   },
-  "211": {
+  {
     "team_id": "211",
     "name": "1 submission 1 accepted",
     "organization": "University of Macau",
@@ -103,7 +103,7 @@
     "unofficial": false,
     "girl": false
   },
-  "212": {
+  {
     "team_id": "212",
     "name": "Dinosaur_with_icyflame",
     "organization": "University of Macau",
@@ -111,7 +111,7 @@
     "unofficial": false,
     "girl": false
   },
-  "213": {
+  {
     "team_id": "213",
     "name": "op brings me confidence",
     "organization": "University of Macau",
@@ -119,7 +119,7 @@
     "unofficial": false,
     "girl": false
   },
-  "214": {
+  {
     "team_id": "214",
     "name": "Cute Red, Meow",
     "organization": "Beihang University",
@@ -127,7 +127,7 @@
     "unofficial": false,
     "girl": false
   },
-  "215": {
+  {
     "team_id": "215",
     "name": "It's Now or Never",
     "organization": "Beihang University",
@@ -135,7 +135,7 @@
     "unofficial": false,
     "girl": false
   },
-  "216": {
+  {
     "team_id": "216",
     "name": "Dawn",
     "organization": "Beijing Institute of Technology, Zhuhai",
@@ -143,7 +143,7 @@
     "unofficial": false,
     "girl": false
   },
-  "217": {
+  {
     "team_id": "217",
     "name": "uic.icu",
     "organization": "Beijing Normal University - Hong Kong Baptist University United International College",
@@ -151,7 +151,7 @@
     "unofficial": false,
     "girl": false
   },
-  "218": {
+  {
     "team_id": "218",
     "name": "nepenthe",
     "organization": "Beijing University of Posts and Telecommunications",
@@ -159,7 +159,7 @@
     "unofficial": false,
     "girl": false
   },
-  "219": {
+  {
     "team_id": "219",
     "name": "water drop",
     "organization": "Changsha University of Science and Technology",
@@ -167,7 +167,7 @@
     "unofficial": false,
     "girl": false
   },
-  "220": {
+  {
     "team_id": "220",
     "name": "CCZ",
     "organization": "Changshu Institute of Technology",
@@ -175,7 +175,7 @@
     "unofficial": false,
     "girl": false
   },
-  "221": {
+  {
     "team_id": "221",
     "name": "Are you OK?",
     "organization": "Dongguan University of Technology",
@@ -183,7 +183,7 @@
     "unofficial": false,
     "girl": false
   },
-  "222": {
+  {
     "team_id": "222",
     "name": "Remake",
     "organization": "Foshan University",
@@ -191,7 +191,7 @@
     "unofficial": false,
     "girl": false
   },
-  "223": {
+  {
     "team_id": "223",
     "name": "SWDP",
     "organization": "Fuzhou University",
@@ -199,7 +199,7 @@
     "unofficial": false,
     "girl": false
   },
-  "224": {
+  {
     "team_id": "224",
     "name": "CodeCrushers",
     "organization": "Guangdong Medical University",
@@ -207,7 +207,7 @@
     "unofficial": false,
     "girl": false
   },
-  "225": {
+  {
     "team_id": "225",
     "name": "GPNU-1",
     "organization": "GuangDong Polytechnic Normal University",
@@ -215,7 +215,7 @@
     "unofficial": false,
     "girl": false
   },
-  "226": {
+  {
     "team_id": "226",
     "name": "GDUT_Sleeping is the most comfortable",
     "organization": "Guangdong University of Technology",
@@ -223,7 +223,7 @@
     "unofficial": false,
     "girl": false
   },
-  "227": {
+  {
     "team_id": "227",
     "name": "None",
     "organization": "Guilin University of Electronic Technology",
@@ -231,7 +231,7 @@
     "unofficial": false,
     "girl": false
   },
-  "228": {
+  {
     "team_id": "228",
     "name": "Iron Law of Original Porridge",
     "organization": "Hangzhou Dianzi University",
@@ -239,7 +239,7 @@
     "unofficial": false,
     "girl": false
   },
-  "229": {
+  {
     "team_id": "229",
     "name": "Nanami gets 0721 penalty due to Genshin",
     "organization": "Harbin Engineering University",
@@ -247,7 +247,7 @@
     "unofficial": false,
     "girl": false
   },
-  "230": {
+  {
     "team_id": "230",
     "name": "Boatman no dream mechanical design",
     "organization": "Harbin Engineering University",
@@ -255,7 +255,7 @@
     "unofficial": false,
     "girl": false
   },
-  "231": {
+  {
     "team_id": "231",
     "name": "Dolls in Pseudo Paradise",
     "organization": "Harbin Institute of Technology",
@@ -263,7 +263,7 @@
     "unofficial": false,
     "girl": false
   },
-  "232": {
+  {
     "team_id": "232",
     "name": "Elderly Travel Agency",
     "organization": "Harbin Institute of Technology at Shenzhen",
@@ -271,7 +271,7 @@
     "unofficial": false,
     "girl": false
   },
-  "233": {
+  {
     "team_id": "233",
     "name": "Epilogue of Winter",
     "organization": "Harbin Institute of Technology at Weihai",
@@ -279,7 +279,7 @@
     "unofficial": false,
     "girl": false
   },
-  "234": {
+  {
     "team_id": "234",
     "name": "fufu Fans",
     "organization": "Harbin Institute of Technology at Weihai",
@@ -287,7 +287,7 @@
     "unofficial": false,
     "girl": false
   },
-  "235": {
+  {
     "team_id": "235",
     "name": "penguin",
     "organization": "Harbin University of Science and Technology at Rongcheng",
@@ -295,7 +295,7 @@
     "unofficial": false,
     "girl": false
   },
-  "236": {
+  {
     "team_id": "236",
     "name": "CATS",
     "organization": "Huazhong University of Science and Technology",
@@ -303,7 +303,7 @@
     "unofficial": false,
     "girl": false
   },
-  "237": {
+  {
     "team_id": "237",
     "name": "The ACMer I Push",
     "organization": "Huazhong University of Science and Technology",
@@ -311,7 +311,7 @@
     "unofficial": false,
     "girl": false
   },
-  "238": {
+  {
     "team_id": "238",
     "name": "The nest of the goldfinch",
     "organization": "Huizhou University",
@@ -319,7 +319,7 @@
     "unofficial": false,
     "girl": false
   },
-  "239": {
+  {
     "team_id": "239",
     "name": "Loading...",
     "organization": "Jiangsu University of Technology",
@@ -327,7 +327,7 @@
     "unofficial": false,
     "girl": false
   },
-  "240": {
+  {
     "team_id": "240",
     "name": "Fury",
     "organization": "NANFANG College at Guangzhou",
@@ -335,7 +335,7 @@
     "unofficial": false,
     "girl": false
   },
-  "241": {
+  {
     "team_id": "241",
     "name": "We can get AU, but can't get NPY",
     "organization": "Nanjing University of Aeronautics and Astronautics",
@@ -343,7 +343,7 @@
     "unofficial": false,
     "girl": false
   },
-  "242": {
+  {
     "team_id": "242",
     "name": "NUM-TCHT",
     "organization": "National University of Mongolia",
@@ -351,7 +351,7 @@
     "unofficial": false,
     "girl": false
   },
-  "243": {
+  {
     "team_id": "243",
     "name": "Coloring the snow",
     "organization": "Neusoft Institute Guangdong",
@@ -359,7 +359,7 @@
     "unofficial": false,
     "girl": false
   },
-  "244": {
+  {
     "team_id": "244",
     "name": "let's go ,icpc!",
     "organization": "Northeastern University at Qinhuangdao",
@@ -367,7 +367,7 @@
     "unofficial": false,
     "girl": false
   },
-  "245": {
+  {
     "team_id": "245",
     "name": "Wangshengtang",
     "organization": "Northwestern Polytechnical University",
@@ -375,7 +375,7 @@
     "unofficial": false,
     "girl": false
   },
-  "246": {
+  {
     "team_id": "246",
     "name": "How to write tui in tuixueshenqing?",
     "organization": "Peking University",
@@ -383,7 +383,7 @@
     "unofficial": false,
     "girl": false
   },
-  "247": {
+  {
     "team_id": "247",
     "name": "Fu DanDongliang",
     "organization": "Renmin University of China",
@@ -391,7 +391,7 @@
     "unofficial": false,
     "girl": false
   },
-  "248": {
+  {
     "team_id": "248",
     "name": "Ten years single exchange of a place",
     "organization": "Shandong Institute of Petroleum and Chemical Technology",
@@ -399,7 +399,7 @@
     "unofficial": false,
     "girl": false
   },
-  "249": {
+  {
     "team_id": "249",
     "name": "lit. posing for a rotten team",
     "organization": "Shandong University",
@@ -407,7 +407,7 @@
     "unofficial": false,
     "girl": false
   },
-  "250": {
+  {
     "team_id": "250",
     "name": "Arknights Traversing",
     "organization": "Shandong University, Weihai",
@@ -415,7 +415,7 @@
     "unofficial": false,
     "girl": false
   },
-  "251": {
+  {
     "team_id": "251",
     "name": "Haruhi Kage",
     "organization": "Shanghai Jiao Tong University",
@@ -423,7 +423,7 @@
     "unofficial": false,
     "girl": false
   },
-  "252": {
+  {
     "team_id": "252",
     "name": "TS10D FT7D",
     "organization": "Shanghai University",
@@ -431,7 +431,7 @@
     "unofficial": false,
     "girl": false
   },
-  "253": {
+  {
     "team_id": "253",
     "name": "DropletSky",
     "organization": "Shanxi University",
@@ -439,7 +439,7 @@
     "unofficial": false,
     "girl": false
   },
-  "254": {
+  {
     "team_id": "254",
     "name": "SZTU_Ataglance",
     "organization": "Shenzhen Technology University",
@@ -447,7 +447,7 @@
     "unofficial": false,
     "girl": false
   },
-  "255": {
+  {
     "team_id": "255",
     "name": "SZU_NicklausWirth",
     "organization": "Shenzhen University",
@@ -455,7 +455,7 @@
     "unofficial": false,
     "girl": false
   },
-  "256": {
+  {
     "team_id": "256",
     "name": "SILENT BLUE",
     "organization": "Sichuan University",
@@ -463,7 +463,7 @@
     "unofficial": false,
     "girl": false
   },
-  "257": {
+  {
     "team_id": "257",
     "name": "O.o",
     "organization": "Software Engineering Institute of Guangzhou",
@@ -471,7 +471,7 @@
     "unofficial": false,
     "girl": false
   },
-  "258": {
+  {
     "team_id": "258",
     "name": "SCAU_3",
     "organization": "South China Agricultural University",
@@ -479,7 +479,7 @@
     "unofficial": false,
     "girl": false
   },
-  "259": {
+  {
     "team_id": "259",
     "name": "SAC",
     "organization": "South China Normal University",
@@ -487,7 +487,7 @@
     "unofficial": false,
     "girl": false
   },
-  "260": {
+  {
     "team_id": "260",
     "name": "wide pointer",
     "organization": "South China Normal University",
@@ -495,7 +495,7 @@
     "unofficial": false,
     "girl": false
   },
-  "261": {
+  {
     "team_id": "261",
     "name": "bb84",
     "organization": "South China University of Technology",
@@ -503,7 +503,7 @@
     "unofficial": false,
     "girl": false
   },
-  "262": {
+  {
     "team_id": "262",
     "name": "Invincible zero warrior",
     "organization": "Southeast University, China",
@@ -511,7 +511,7 @@
     "unofficial": false,
     "girl": false
   },
-  "263": {
+  {
     "team_id": "263",
     "name": "SUSTech-Tampere",
     "organization": "Southern University of Science and Technology",
@@ -519,7 +519,7 @@
     "unofficial": false,
     "girl": false
   },
-  "264": {
+  {
     "team_id": "264",
     "name": "Making Money Happily",
     "organization": "Southwest Jiaotong University",
@@ -527,7 +527,7 @@
     "unofficial": false,
     "girl": false
   },
-  "265": {
+  {
     "team_id": "265",
     "name": "Magic iron",
     "organization": "Southwest University of Science and Technology",
@@ -535,7 +535,7 @@
     "unofficial": false,
     "girl": false
   },
-  "266": {
+  {
     "team_id": "266",
     "name": "CUHK-SZ (TBD)",
     "organization": "The Chinese University of Hong Kong, Shenzhen",
@@ -543,7 +543,7 @@
     "unofficial": false,
     "girl": false
   },
-  "267": {
+  {
     "team_id": "267",
     "name": "dimension^3",
     "organization": "The Chinese University of Hong Kong, Shenzhen",
@@ -551,7 +551,7 @@
     "unofficial": false,
     "girl": false
   },
-  "268": {
+  {
     "team_id": "268",
     "name": "pat angry bag",
     "organization": "Tongji University",
@@ -559,7 +559,7 @@
     "unofficial": false,
     "girl": false
   },
-  "269": {
+  {
     "team_id": "269",
     "name": "UESTC_Broforce",
     "organization": "University of Electronic Science and Technology of China",
@@ -567,7 +567,7 @@
     "unofficial": false,
     "girl": false
   },
-  "270": {
+  {
     "team_id": "270",
     "name": "good good code, debug everyday",
     "organization": "University of Science and Technology of China",
@@ -575,7 +575,7 @@
     "unofficial": false,
     "girl": false
   },
-  "271": {
+  {
     "team_id": "271",
     "name": "LooksLikeGirlTeam",
     "organization": "University of Science and Technology of China",
@@ -583,7 +583,7 @@
     "unofficial": false,
     "girl": false
   },
-  "272": {
+  {
     "team_id": "272",
     "name": "My old dream GO!!!",
     "organization": "Wuhan University",
@@ -591,7 +591,7 @@
     "unofficial": false,
     "girl": false
   },
-  "273": {
+  {
     "team_id": "273",
     "name": "I can code by myself",
     "organization": "Wuhan University",
@@ -599,7 +599,7 @@
     "unofficial": false,
     "girl": false
   },
-  "274": {
+  {
     "team_id": "274",
     "name": "Team Spirit",
     "organization": "Wuhan University of Technology",
@@ -607,7 +607,7 @@
     "unofficial": false,
     "girl": false
   },
-  "275": {
+  {
     "team_id": "275",
     "name": " Love Cut List Cut Love",
     "organization": "Xiamen University",
@@ -615,7 +615,7 @@
     "unofficial": false,
     "girl": false
   },
-  "276": {
+  {
     "team_id": "276",
     "name": "The Heart of Sirius",
     "organization": "Xi'an Jiaotong University",
@@ -623,7 +623,7 @@
     "unofficial": false,
     "girl": false
   },
-  "277": {
+  {
     "team_id": "277",
     "name": "Idear",
     "organization": "Xinjiang University",
@@ -631,7 +631,7 @@
     "unofficial": false,
     "girl": false
   },
-  "278": {
+  {
     "team_id": "278",
     "name": "Town's Acceptance Team",
     "organization": "Zhejiang Gongshang University",
@@ -639,7 +639,7 @@
     "unofficial": false,
     "girl": false
   },
-  "279": {
+  {
     "team_id": "279",
     "name": "Prismatic Encore",
     "organization": "Zhejiang University",
@@ -647,7 +647,7 @@
     "unofficial": false,
     "girl": false
   },
-  "280": {
+  {
     "team_id": "280",
     "name": "SYSU_trailblazer",
     "organization": "Zhongshan (Sun Yat-sen) University",
@@ -655,7 +655,7 @@
     "unofficial": false,
     "girl": false
   },
-  "281": {
+  {
     "team_id": "281",
     "name": "LMM Fan Club",
     "organization": "City University of Hong Kong",
@@ -663,7 +663,7 @@
     "unofficial": true,
     "girl": false
   },
-  "282": {
+  {
     "team_id": "282",
     "name": "Brain Byte Blasters",
     "organization": "University of Macau",
@@ -671,7 +671,7 @@
     "unofficial": true,
     "girl": false
   },
-  "283": {
+  {
     "team_id": "283",
     "name": "climbing",
     "organization": "HOU KONG MIDDLE SCHOOL",
@@ -679,7 +679,7 @@
     "unofficial": true,
     "girl": false
   },
-  "284": {
+  {
     "team_id": "284",
     "name": "KEEP GOING",
     "organization": "HOU KONG MIDDLE SCHOOL",
@@ -687,7 +687,7 @@
     "unofficial": true,
     "girl": false
   },
-  "285": {
+  {
     "team_id": "285",
     "name": "LH001",
     "organization": "Lou Hau High School",
@@ -695,7 +695,7 @@
     "unofficial": true,
     "girl": false
   },
-  "286": {
+  {
     "team_id": "286",
     "name": "PCMS01",
     "organization": "PUICHING MIDDLE SCHOOL, MACAU",
@@ -703,7 +703,7 @@
     "unofficial": true,
     "girl": false
   },
-  "287": {
+  {
     "team_id": "287",
     "name": "PCMS02",
     "organization": "PUICHING MIDDLE SCHOOL, MACAU",
@@ -711,7 +711,7 @@
     "unofficial": true,
     "girl": false
   },
-  "288": {
+  {
     "team_id": "288",
     "name": "HKOI 1",
     "organization": "HKOI",
@@ -719,7 +719,7 @@
     "unofficial": true,
     "girl": false
   },
-  "289": {
+  {
     "team_id": "289",
     "name": "HKOI 2",
     "organization": "HKOI",
@@ -727,7 +727,7 @@
     "unofficial": true,
     "girl": false
   },
-  "290": {
+  {
     "team_id": "290",
     "name": "HKOI 3",
     "organization": "HKOI",
@@ -735,4 +735,4 @@
     "unofficial": true,
     "girl": false
   }
-}
+]

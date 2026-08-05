@@ -1,5 +1,5 @@
-{
-  "3": {
+[
+  {
     "team_id": "3",
     "name": "东理第一大队",
     "organization": "East China University of Technology",
@@ -7,7 +7,7 @@
       "official"
     ]
   },
-  "4": {
+  {
     "team_id": "4",
     "name": "错过的题，错过的她",
     "organization": "East China University of Technology",
@@ -15,7 +15,7 @@
       "official"
     ]
   },
-  "5": {
+  {
     "team_id": "5",
     "name": "何妨吟啸",
     "organization": "East China University of Technology",
@@ -23,7 +23,7 @@
       "official"
     ]
   },
-  "6": {
+  {
     "team_id": "6",
     "name": "青铜小分队",
     "organization": "East China University of Technology",
@@ -31,7 +31,7 @@
       "official"
     ]
   },
-  "7": {
+  {
     "team_id": "7",
     "name": "打铁小分队",
     "organization": "East China University of Technology",
@@ -39,7 +39,7 @@
       "official"
     ]
   },
-  "8": {
+  {
     "team_id": "8",
     "name": "一个都过不了",
     "organization": "East China University of Technology",
@@ -47,7 +47,7 @@
       "official"
     ]
   },
-  "9": {
+  {
     "team_id": "9",
     "name": "啊对对对队",
     "organization": "East China University of Technology",
@@ -55,7 +55,7 @@
       "official"
     ]
   },
-  "10": {
+  {
     "team_id": "10",
     "name": "努力成为波奇酱队",
     "organization": "East China University of Technology",
@@ -63,7 +63,7 @@
       "official"
     ]
   },
-  "11": {
+  {
     "team_id": "11",
     "name": "球球了给我个奖吧",
     "organization": "East China University of Technology",
@@ -71,7 +71,7 @@
       "official"
     ]
   },
-  "12": {
+  {
     "team_id": "12",
     "name": "飞科小分队",
     "organization": "East China University of Technology",
@@ -79,7 +79,7 @@
       "official"
     ]
   },
-  "13": {
+  {
     "team_id": "13",
     "name": "憧憬成为算竞大神",
     "organization": "East China University of Technology",
@@ -87,7 +87,7 @@
       "official"
     ]
   },
-  "14": {
+  {
     "team_id": "14",
     "name": "我吃麻辣烫",
     "organization": "East China University of Technology",
@@ -95,7 +95,7 @@
       "official"
     ]
   },
-  "15": {
+  {
     "team_id": "15",
     "name": "不行重开队",
     "organization": "East China University of Technology",
@@ -103,7 +103,7 @@
       "unofficial"
     ]
   },
-  "16": {
+  {
     "team_id": "16",
     "name": "贪心队",
     "organization": "East China University of Technology",
@@ -111,7 +111,7 @@
       "official"
     ]
   },
-  "17": {
+  {
     "team_id": "17",
     "name": "让我们多做对几道题",
     "organization": "East China University of Technology",
@@ -119,7 +119,7 @@
       "unofficial"
     ]
   },
-  "18": {
+  {
     "team_id": "18",
     "name": "就是就是",
     "organization": "East China University of Technology",
@@ -127,7 +127,7 @@
       "official"
     ]
   },
-  "19": {
+  {
     "team_id": "19",
     "name": "赣南科技学院1队",
     "organization": "Gannan University of Science and Technology",
@@ -135,7 +135,7 @@
       "official"
     ]
   },
-  "20": {
+  {
     "team_id": "20",
     "name": "赣南科技学院2队",
     "organization": "Gannan University of Science and Technology",
@@ -143,7 +143,7 @@
       "unofficial"
     ]
   },
-  "21": {
+  {
     "team_id": "21",
     "name": "重在参与",
     "organization": "GanNan Normal University",
@@ -151,7 +151,7 @@
       "official"
     ]
   },
-  "22": {
+  {
     "team_id": "22",
     "name": "秋刀鱼队",
     "organization": "GanNan Normal University",
@@ -159,7 +159,7 @@
       "official"
     ]
   },
-  "23": {
+  {
     "team_id": "23",
     "name": "破浪队",
     "organization": "GanNan Normal University",
@@ -167,7 +167,7 @@
       "official"
     ]
   },
-  "24": {
+  {
     "team_id": "24",
     "name": "WhatCanISay",
     "organization": "GanNan Normal University",
@@ -175,7 +175,7 @@
       "official"
     ]
   },
-  "25": {
+  {
     "team_id": "25",
     "name": "CodeTians",
     "organization": "GanNan Normal University",
@@ -183,7 +183,7 @@
       "official"
     ]
   },
-  "26": {
+  {
     "team_id": "26",
     "name": "acadvanced",
     "organization": "GanNan Normal University",
@@ -191,7 +191,7 @@
       "official"
     ]
   },
-  "27": {
+  {
     "team_id": "27",
     "name": "羊村",
     "organization": "Science and Technology College Gannan Normal University",
@@ -199,7 +199,7 @@
       "official"
     ]
   },
-  "28": {
+  {
     "team_id": "28",
     "name": "啊对对队",
     "organization": "Science and Technology College Gannan Normal University",
@@ -207,7 +207,7 @@
       "official"
     ]
   },
-  "29": {
+  {
     "team_id": "29",
     "name": "欧克队",
     "organization": "Science and Technology College Gannan Normal University",
@@ -215,7 +215,7 @@
       "official"
     ]
   },
-  "30": {
+  {
     "team_id": "30",
     "name": "空指针异常",
     "organization": "Gannan Medical University",
@@ -223,7 +223,7 @@
       "official"
     ]
   },
-  "31": {
+  {
     "team_id": "31",
     "name": "不下原神不让AC",
     "organization": "Gannan Medical University",
@@ -231,7 +231,7 @@
       "official"
     ]
   },
-  "32": {
+  {
     "team_id": "32",
     "name": "前面错了后面不会",
     "organization": "Gannan Medical University",
@@ -239,7 +239,7 @@
       "official"
     ]
   },
-  "33": {
+  {
     "team_id": "33",
     "name": "立功汪汪队",
     "organization": "Ganzhou Polytechnic",
@@ -247,7 +247,7 @@
       "official"
     ]
   },
-  "34": {
+  {
     "team_id": "34",
     "name": "算法小马达",
     "organization": "Ganzhou Polytechnic",
@@ -255,7 +255,7 @@
       "official"
     ]
   },
-  "35": {
+  {
     "team_id": "35",
     "name": "GK001",
     "organization": "GongQing Institute Of Science And Technology",
@@ -263,7 +263,7 @@
       "official"
     ]
   },
-  "36": {
+  {
     "team_id": "36",
     "name": "GQKJ",
     "organization": "GongQing Institute Of Science And Technology",
@@ -271,7 +271,7 @@
       "unofficial"
     ]
   },
-  "37": {
+  {
     "team_id": "37",
     "name": "乱搞一下就对了",
     "organization": "East China Jiaotong University",
@@ -279,7 +279,7 @@
       "official"
     ]
   },
-  "38": {
+  {
     "team_id": "38",
     "name": "汪汪队坐大牢",
     "organization": "East China Jiaotong University",
@@ -287,7 +287,7 @@
       "unofficial"
     ]
   },
-  "39": {
+  {
     "team_id": "39",
     "name": "a完签到就下班",
     "organization": "East China Jiaotong University",
@@ -295,7 +295,7 @@
       "unofficial"
     ]
   },
-  "40": {
+  {
     "team_id": "40",
     "name": "不管怎样都对队",
     "organization": "East China Jiaotong University",
@@ -303,7 +303,7 @@
       "unofficial"
     ]
   },
-  "41": {
+  {
     "team_id": "41",
     "name": "真的想不到队名",
     "organization": "East China Jiaotong University",
@@ -311,7 +311,7 @@
       "unofficial"
     ]
   },
-  "42": {
+  {
     "team_id": "42",
     "name": "花椒打铁小分队",
     "organization": "East China Jiaotong University",
@@ -319,7 +319,7 @@
       "unofficial"
     ]
   },
-  "43": {
+  {
     "team_id": "43",
     "name": "华东交大附属幼儿园",
     "organization": "East China Jiaotong University",
@@ -327,7 +327,7 @@
       "unofficial"
     ]
   },
-  "44": {
+  {
     "team_id": "44",
     "name": "WAWA的也很可爱",
     "organization": "East China Jiaotong University",
@@ -335,7 +335,7 @@
       "official"
     ]
   },
-  "45": {
+  {
     "team_id": "45",
     "name": "如果不玩原神",
     "organization": "East China Jiaotong University",
@@ -343,7 +343,7 @@
       "official"
     ]
   },
-  "46": {
+  {
     "team_id": "46",
     "name": "惊人队",
     "organization": "Ji'an College",
@@ -351,7 +351,7 @@
       "unofficial"
     ]
   },
-  "47": {
+  {
     "team_id": "47",
     "name": "彩虹海",
     "organization": "Jiangxi University of Finance and Economics",
@@ -359,7 +359,7 @@
       "official"
     ]
   },
-  "48": {
+  {
     "team_id": "48",
     "name": "陈知会，对不起",
     "organization": "Jiangxi University of Finance and Economics",
@@ -367,7 +367,7 @@
       "official"
     ]
   },
-  "49": {
+  {
     "team_id": "49",
     "name": "但求问心无愧",
     "organization": "Jiangxi University of Finance and Economics",
@@ -375,7 +375,7 @@
       "official"
     ]
   },
-  "50": {
+  {
     "team_id": "50",
     "name": "牛爷爷爱玩牛至",
     "organization": "Jiangxi University of Finance and Economics",
@@ -383,7 +383,7 @@
       "official"
     ]
   },
-  "51": {
+  {
     "team_id": "51",
     "name": "廉颇老矣",
     "organization": "Jiangxi University of Finance and Economics",
@@ -391,7 +391,7 @@
       "official"
     ]
   },
-  "52": {
+  {
     "team_id": "52",
     "name": "难铜守银摄金",
     "organization": "Jiangxi University of Finance and Economics",
@@ -399,7 +399,7 @@
       "official"
     ]
   },
-  "53": {
+  {
     "team_id": "53",
     "name": "不打铁",
     "organization": "Jiangxi University of Finance and Economics",
@@ -407,7 +407,7 @@
       "official"
     ]
   },
-  "54": {
+  {
     "team_id": "54",
     "name": "做梦都要AC队",
     "organization": "Jiangxi University of Finance and Economics",
@@ -415,7 +415,7 @@
       "official"
     ]
   },
-  "55": {
+  {
     "team_id": "55",
     "name": "亲爱的翻译官",
     "organization": "Jiangxi University of Finance and Economics",
@@ -423,7 +423,7 @@
       "official"
     ]
   },
-  "56": {
+  {
     "team_id": "56",
     "name": "喜欢只是错觉",
     "organization": "Jiangxi University of Finance and Economics",
@@ -431,7 +431,7 @@
       "official"
     ]
   },
-  "57": {
+  {
     "team_id": "57",
     "name": "虚拟",
     "organization": "Jiangxi University of Finance and Economics",
@@ -439,7 +439,7 @@
       "official"
     ]
   },
-  "58": {
+  {
     "team_id": "58",
     "name": "代码就是天书",
     "organization": "Jiangxi Institute Of Fashion Technology",
@@ -447,7 +447,7 @@
       "unofficial"
     ]
   },
-  "59": {
+  {
     "team_id": "59",
     "name": "江西工程学院一队",
     "organization": "Jiangxi University of Engineering",
@@ -455,7 +455,7 @@
       "official"
     ]
   },
-  "60": {
+  {
     "team_id": "60",
     "name": "江西工程学院二队",
     "organization": "Jiangxi University of Engineering",
@@ -463,7 +463,7 @@
       "unofficial"
     ]
   },
-  "61": {
+  {
     "team_id": "61",
     "name": "碱基互补配队",
     "organization": "Jiangxi Engineering Vocational College",
@@ -471,7 +471,7 @@
       "official"
     ]
   },
-  "62": {
+  {
     "team_id": "62",
     "name": "二元一次方程组",
     "organization": "Jiangxi Engineering Vocational College",
@@ -479,7 +479,7 @@
       "official"
     ]
   },
-  "63": {
+  {
     "team_id": "63",
     "name": "案例过了就算对",
     "organization": "Jiangxi technology business polytechnic",
@@ -487,7 +487,7 @@
       "official"
     ]
   },
-  "64": {
+  {
     "team_id": "64",
     "name": "阳光彩虹小白马",
     "organization": "Jiangxi technology business polytechnic",
@@ -495,7 +495,7 @@
       "unofficial"
     ]
   },
-  "65": {
+  {
     "team_id": "65",
     "name": "明天不早签",
     "organization": "JiangXi Vocational college of Industry & Engineering",
@@ -503,7 +503,7 @@
       "unofficial"
     ]
   },
-  "66": {
+  {
     "team_id": "66",
     "name": "词不达意",
     "organization": "Jiangxi Vocational Technical College of Industry & Trade",
@@ -511,7 +511,7 @@
       "unofficial"
     ]
   },
-  "67": {
+  {
     "team_id": "67",
     "name": "快乐星球队",
     "organization": "江西警察学院",
@@ -519,7 +519,7 @@
       "unofficial"
     ]
   },
-  "68": {
+  {
     "team_id": "68",
     "name": "落后就要挨打",
     "organization": "Jiangxi Science and Technology Normal University",
@@ -527,7 +527,7 @@
       "official"
     ]
   },
-  "69": {
+  {
     "team_id": "69",
     "name": "中钟众",
     "organization": "Jiangxi Science and Technology Normal University",
@@ -535,7 +535,7 @@
       "unofficial"
     ]
   },
-  "70": {
+  {
     "team_id": "70",
     "name": "科师大一队",
     "organization": "Jiangxi Science and Technology Normal University",
@@ -543,7 +543,7 @@
       "official"
     ]
   },
-  "71": {
+  {
     "team_id": "71",
     "name": "悦码战队",
     "organization": "Jiangxi Science and Technology Normal University",
@@ -551,7 +551,7 @@
       "unofficial"
     ]
   },
-  "72": {
+  {
     "team_id": "72",
     "name": "调试之龙",
     "organization": "Jiangxi University of Technology",
@@ -559,7 +559,7 @@
       "official"
     ]
   },
-  "73": {
+  {
     "team_id": "73",
     "name": "人从众",
     "organization": "Jiangxi University of Technology",
@@ -567,7 +567,7 @@
       "official"
     ]
   },
-  "74": {
+  {
     "team_id": "74",
     "name": "华山之巅",
     "organization": "Jiangxi University of Technology",
@@ -575,7 +575,7 @@
       "official"
     ]
   },
-  "75": {
+  {
     "team_id": "75",
     "name": "我就试试",
     "organization": "Jiangxi University of Technology",
@@ -583,7 +583,7 @@
       "official"
     ]
   },
-  "76": {
+  {
     "team_id": "76",
     "name": "科附队",
     "organization": "Jiangxi University of Technology High School",
@@ -591,7 +591,7 @@
       "official"
     ]
   },
-  "77": {
+  {
     "team_id": "77",
     "name": "江理六队",
     "organization": "Jiangxi University of Science and Technology",
@@ -599,7 +599,7 @@
       "official"
     ]
   },
-  "78": {
+  {
     "team_id": "78",
     "name": "我讨厌你",
     "organization": "Jiangxi University of Science and Technology",
@@ -607,7 +607,7 @@
       "official"
     ]
   },
-  "79": {
+  {
     "team_id": "79",
     "name": "我喜欢你",
     "organization": "Jiangxi University of Science and Technology",
@@ -615,7 +615,7 @@
       "official"
     ]
   },
-  "80": {
+  {
     "team_id": "80",
     "name": "喜欢牢大被你发现",
     "organization": "Jiangxi University of Science and Technology",
@@ -623,7 +623,7 @@
       "official"
     ]
   },
-  "81": {
+  {
     "team_id": "81",
     "name": "我在5:20提交13:14准时WA",
     "organization": "Jiangxi University of Science and Technology",
@@ -631,7 +631,7 @@
       "official"
     ]
   },
-  "82": {
+  {
     "team_id": "82",
     "name": "人智1队",
     "organization": "Jiangxi University of Science and Technology",
@@ -639,7 +639,7 @@
       "official"
     ]
   },
-  "83": {
+  {
     "team_id": "83",
     "name": "人智3队",
     "organization": "Jiangxi University of Science and Technology",
@@ -647,7 +647,7 @@
       "official"
     ]
   },
-  "84": {
+  {
     "team_id": "84",
     "name": "上不如老下不如小",
     "organization": "Jiangxi University of Science and Technology Nanchang Campus",
@@ -655,7 +655,7 @@
       "official"
     ]
   },
-  "85": {
+  {
     "team_id": "85",
     "name": "摸鱼队",
     "organization": "Jiangxi University of Science and Technology Nanchang Campus",
@@ -663,7 +663,7 @@
       "official"
     ]
   },
-  "86": {
+  {
     "team_id": "86",
     "name": "xx",
     "organization": "Jiangxi University of Science and Technology Nanchang Campus",
@@ -671,7 +671,7 @@
       "official"
     ]
   },
-  "87": {
+  {
     "team_id": "87",
     "name": "有待提升队",
     "organization": "Jiangxi University of Science and Technology Nanchang Campus",
@@ -679,7 +679,7 @@
       "unofficial"
     ]
   },
-  "88": {
+  {
     "team_id": "88",
     "name": "做牢大队",
     "organization": "Jiangxi University of Science and Technology Nanchang Campus",
@@ -687,7 +687,7 @@
       "unofficial"
     ]
   },
-  "89": {
+  {
     "team_id": "89",
     "name": "未命名",
     "organization": "Jiangxi University of Science and Technology Nanchang Campus",
@@ -695,7 +695,7 @@
       "unofficial"
     ]
   },
-  "90": {
+  {
     "team_id": "90",
     "name": "那场大雨毁了我的算法梦",
     "organization": "Jiangxi University of Science and Technology Nanchang Campus",
@@ -703,7 +703,7 @@
       "unofficial"
     ]
   },
-  "91": {
+  {
     "team_id": "91",
     "name": "重生之我是春木镇镇长",
     "organization": "Jiangxi Agricultural University",
@@ -711,7 +711,7 @@
       "official"
     ]
   },
-  "92": {
+  {
     "team_id": "92",
     "name": "Night-Walking",
     "organization": "Jiangxi Agricultural University",
@@ -719,7 +719,7 @@
       "official"
     ]
   },
-  "93": {
+  {
     "team_id": "93",
     "name": "自动睡觉机",
     "organization": "Jiangxi Agricultural University",
@@ -727,7 +727,7 @@
       "official"
     ]
   },
-  "94": {
+  {
     "team_id": "94",
     "name": "皮蛋",
     "organization": "Jiangxi Agricultural University",
@@ -735,7 +735,7 @@
       "official"
     ]
   },
-  "95": {
+  {
     "team_id": "95",
     "name": "ACK",
     "organization": "Jiangxi Agricultural University",
@@ -743,7 +743,7 @@
       "official"
     ]
   },
-  "96": {
+  {
     "team_id": "96",
     "name": "当时只道是寻常",
     "organization": "Jiangxi Agricultural University",
@@ -751,7 +751,7 @@
       "official"
     ]
   },
-  "97": {
+  {
     "team_id": "97",
     "name": "LooksAmazing",
     "organization": "Jiangxi Agricultural University",
@@ -759,7 +759,7 @@
       "official"
     ]
   },
-  "98": {
+  {
     "team_id": "98",
     "name": "沉思往事立残阳",
     "organization": "Jiangxi Agricultural University",
@@ -767,7 +767,7 @@
       "official"
     ]
   },
-  "99": {
+  {
     "team_id": "99",
     "name": "四元",
     "organization": "Jiangxi Agricultural University",
@@ -775,7 +775,7 @@
       "unofficial"
     ]
   },
-  "100": {
+  {
     "team_id": "100",
     "name": "铁牌",
     "organization": "Jiangxi Agricultural University",
@@ -783,7 +783,7 @@
       "unofficial"
     ]
   },
-  "101": {
+  {
     "team_id": "101",
     "name": "我在5:20提交13:14才ac",
     "organization": "Jiangxi Agricultural University",
@@ -791,7 +791,7 @@
       "official"
     ]
   },
-  "102": {
+  {
     "team_id": "102",
     "name": "已被我一脚踢开",
     "organization": "Jiangxi Agricultural University",
@@ -799,7 +799,7 @@
       "unofficial"
     ]
   },
-  "103": {
+  {
     "team_id": "103",
     "name": "又菜又ikun",
     "organization": "Jiangxi Agricultural University",
@@ -807,7 +807,7 @@
       "unofficial"
     ]
   },
-  "104": {
+  {
     "team_id": "104",
     "name": "Fantasy",
     "organization": "Jiangxi Agricultural University",
@@ -815,7 +815,7 @@
       "official"
     ]
   },
-  "105": {
+  {
     "team_id": "105",
     "name": "sup",
     "organization": "Jiangxi Agricultural University",
@@ -823,7 +823,7 @@
       "unofficial"
     ]
   },
-  "106": {
+  {
     "team_id": "106",
     "name": "欢乐狂想曲",
     "organization": "江西农业大学南昌商学院",
@@ -831,7 +831,7 @@
       "unofficial"
     ]
   },
-  "107": {
+  {
     "team_id": "107",
     "name": "算法玩寂寞",
     "organization": "Jiangxi University of Software Professional Technology",
@@ -839,7 +839,7 @@
       "unofficial"
     ]
   },
-  "108": {
+  {
     "team_id": "108",
     "name": "Java是世界上最好的语言",
     "organization": "Jiangxi University of Software Professional Technology",
@@ -847,7 +847,7 @@
       "official"
     ]
   },
-  "109": {
+  {
     "team_id": "109",
     "name": "喜欢玩千恋万花被你发现",
     "organization": "Jiangxi University of Software Professional Technology",
@@ -855,7 +855,7 @@
       "official"
     ]
   },
-  "110": {
+  {
     "team_id": "110",
     "name": "尼卡暴动",
     "organization": "Jiangxi University of Software Professional Technology",
@@ -863,7 +863,7 @@
       "unofficial"
     ]
   },
-  "111": {
+  {
     "team_id": "111",
     "name": "蚌麻乐典孝急",
     "organization": "Jiangxi Normal University",
@@ -871,7 +871,7 @@
       "official"
     ]
   },
-  "112": {
+  {
     "team_id": "112",
     "name": "完蛋！我被原P包围了！",
     "organization": "Jiangxi Normal University",
@@ -879,7 +879,7 @@
       "official"
     ]
   },
-  "113": {
+  {
     "team_id": "113",
     "name": "Wrong_answer_on_test_1",
     "organization": "Jiangxi Normal University",
@@ -887,7 +887,7 @@
       "official"
     ]
   },
-  "114": {
+  {
     "team_id": "114",
     "name": "吃省赛免费午餐",
     "organization": "Jiangxi Normal University",
@@ -895,7 +895,7 @@
       "official"
     ]
   },
-  "115": {
+  {
     "team_id": "115",
     "name": "原来你也玩原神",
     "organization": "Jiangxi Normal University",
@@ -903,7 +903,7 @@
       "official"
     ]
   },
-  "116": {
+  {
     "team_id": "116",
     "name": "海底小纵队",
     "organization": "Jiangxi Normal University",
@@ -911,7 +911,7 @@
       "official"
     ]
   },
-  "117": {
+  {
     "team_id": "117",
     "name": "COC",
     "organization": "Jiangxi Normal University",
@@ -919,7 +919,7 @@
       "official"
     ]
   },
-  "118": {
+  {
     "team_id": "118",
     "name": "百合无限好",
     "organization": "Jiangxi Normal University",
@@ -927,7 +927,7 @@
       "official"
     ]
   },
-  "119": {
+  {
     "team_id": "119",
     "name": "憧憬成为lgm",
     "organization": "Jiangxi Normal University",
@@ -935,7 +935,7 @@
       "official"
     ]
   },
-  "120": {
+  {
     "team_id": "120",
     "name": "耐摔王稳定发挥",
     "organization": "Jiangxi Normal University",
@@ -943,7 +943,7 @@
       "official"
     ]
   },
-  "121": {
+  {
     "team_id": "121",
     "name": "\"学什么算法,不如打游戏\"",
     "organization": "Jiangxi Normal University",
@@ -951,7 +951,7 @@
       "official"
     ]
   },
-  "122": {
+  {
     "team_id": "122",
     "name": "酱油番队",
     "organization": "Jiangxi Normal University",
@@ -959,7 +959,7 @@
       "official"
     ]
   },
-  "123": {
+  {
     "team_id": "123",
     "name": "hope to ac",
     "organization": "Jiangxi Normal University",
@@ -967,7 +967,7 @@
       "official"
     ]
   },
-  "124": {
+  {
     "team_id": "124",
     "name": "思路打开",
     "organization": "Jiangxi Normal University",
@@ -975,7 +975,7 @@
       "official"
     ]
   },
-  "125": {
+  {
     "team_id": "125",
     "name": "师大食堂比附中好吃",
     "organization": "The Attached Middle School To Jiangxi Normal University",
@@ -983,7 +983,7 @@
       "official"
     ]
   },
-  "126": {
+  {
     "team_id": "126",
     "name": "还没想好叫什么名字",
     "organization": "The Attached Middle School To Jiangxi Normal University",
@@ -991,7 +991,7 @@
       "official"
     ]
   },
-  "127": {
+  {
     "team_id": "127",
     "name": "让笑容洋溢在学生脸上",
     "organization": "The Attached Middle School To Jiangxi Normal University",
@@ -999,7 +999,7 @@
       "official"
     ]
   },
-  "128": {
+  {
     "team_id": "128",
     "name": "等黄了个秋",
     "organization": "Ganjiang Innovation Research Institute，High school affiliated to Jiangxi Normal University",
@@ -1007,7 +1007,7 @@
       "official"
     ]
   },
-  "129": {
+  {
     "team_id": "129",
     "name": "逐光",
     "organization": "Jiangxi Normal University",
@@ -1015,7 +1015,7 @@
       "official"
     ]
   },
-  "130": {
+  {
     "team_id": "130",
     "name": "打铁还需自身硬",
     "organization": "Jiangxi Normal University",
@@ -1023,7 +1023,7 @@
       "official"
     ]
   },
-  "131": {
+  {
     "team_id": "131",
     "name": "我们队伍没有名字",
     "organization": "Jiangxi Normal University",
@@ -1031,7 +1031,7 @@
       "official"
     ]
   },
-  "132": {
+  {
     "team_id": "132",
     "name": "小老虎爱吃西兰花",
     "organization": "Jiangxi Normal University",
@@ -1039,7 +1039,7 @@
       "official"
     ]
   },
-  "133": {
+  {
     "team_id": "133",
     "name": "内向的小学生",
     "organization": "Jiangxi Normal University",
@@ -1047,7 +1047,7 @@
       "official"
     ]
   },
-  "134": {
+  {
     "team_id": "134",
     "name": "心态好",
     "organization": "Jiangxi Normal University",
@@ -1055,7 +1055,7 @@
       "official"
     ]
   },
-  "135": {
+  {
     "team_id": "135",
     "name": "电话无人接听",
     "organization": "Jiangxi Normal University",
@@ -1063,7 +1063,7 @@
       "official"
     ]
   },
-  "136": {
+  {
     "team_id": "136",
     "name": "这也能银？",
     "organization": "Jiangxi Normal University",
@@ -1071,7 +1071,7 @@
       "official"
     ]
   },
-  "137": {
+  {
     "team_id": "137",
     "name": "天国の3W",
     "organization": "Jiangxi Normal University",
@@ -1079,7 +1079,7 @@
       "official"
     ]
   },
-  "138": {
+  {
     "team_id": "138",
     "name": "今天没早八",
     "organization": "Jiangxi Normal University",
@@ -1087,7 +1087,7 @@
       "official"
     ]
   },
-  "139": {
+  {
     "team_id": "139",
     "name": "相亲相爱一家人",
     "organization": "Jiangxi Normal University",
@@ -1095,7 +1095,7 @@
       "official"
     ]
   },
-  "140": {
+  {
     "team_id": "140",
     "name": "辣子鸡",
     "organization": "Jiangxi Normal University",
@@ -1103,7 +1103,7 @@
       "official"
     ]
   },
-  "141": {
+  {
     "team_id": "141",
     "name": "汪汪队",
     "organization": "Jiangxi Normal University",
@@ -1111,7 +1111,7 @@
       "official"
     ]
   },
-  "142": {
+  {
     "team_id": "142",
     "name": "样例能过就算队",
     "organization": "Jiangxi Normal University",
@@ -1119,7 +1119,7 @@
       "official"
     ]
   },
-  "143": {
+  {
     "team_id": "143",
     "name": "你说的都队",
     "organization": "Jiangxi Normal University",
@@ -1127,7 +1127,7 @@
       "official"
     ]
   },
-  "144": {
+  {
     "team_id": "144",
     "name": "埃塞披萨",
     "organization": "Jiangxi Normal University",
@@ -1135,7 +1135,7 @@
       "official"
     ]
   },
-  "145": {
+  {
     "team_id": "145",
     "name": "拂晓",
     "organization": "JiangXi New Energy Technology Institute",
@@ -1143,7 +1143,7 @@
       "official"
     ]
   },
-  "146": {
+  {
     "team_id": "146",
     "name": "奇迹队",
     "organization": "JiangXi New Energy Technology Institute",
@@ -1151,7 +1151,7 @@
       "unofficial"
     ]
   },
-  "147": {
+  {
     "team_id": "147",
     "name": "不想早八队",
     "organization": "江西信息应用职业技术学院",
@@ -1159,7 +1159,7 @@
       "unofficial"
     ]
   },
-  "148": {
+  {
     "team_id": "148",
     "name": "润心先锋",
     "organization": "JIANGXI Applied Engineering Vocational Institute",
@@ -1167,7 +1167,7 @@
       "official"
     ]
   },
-  "149": {
+  {
     "team_id": "149",
     "name": "共用电子队",
     "organization": "Jiangxi University of Traditional Chinese Medicine",
@@ -1175,7 +1175,7 @@
       "official"
     ]
   },
-  "150": {
+  {
     "team_id": "150",
     "name": "碱基互补配队",
     "organization": "Jiangxi University of Traditional Chinese Medicine",
@@ -1183,7 +1183,7 @@
       "official"
     ]
   },
-  "151": {
+  {
     "team_id": "151",
     "name": "短发娇妻队",
     "organization": "Jiangxi University of Traditional Chinese Medicine",
@@ -1191,7 +1191,7 @@
       "unofficial"
     ]
   },
-  "152": {
+  {
     "team_id": "152",
     "name": "蒟蒻队",
     "organization": "Jiangxi University of Traditional Chinese Medicine",
@@ -1199,7 +1199,7 @@
       "unofficial"
     ]
   },
-  "153": {
+  {
     "team_id": "153",
     "name": "大国铁匠",
     "organization": "Jinggangshan University",
@@ -1207,7 +1207,7 @@
       "official"
     ]
   },
-  "154": {
+  {
     "team_id": "154",
     "name": "罚时大王",
     "organization": "Jinggangshan University",
@@ -1215,7 +1215,7 @@
       "official"
     ]
   },
-  "155": {
+  {
     "team_id": "155",
     "name": "涅槃",
     "organization": "Jinggangshan University",
@@ -1223,7 +1223,7 @@
       "official"
     ]
   },
-  "156": {
+  {
     "team_id": "156",
     "name": "灵魂莲华",
     "organization": "Jinggangshan University",
@@ -1231,7 +1231,7 @@
       "official"
     ]
   },
-  "157": {
+  {
     "team_id": "157",
     "name": "啊对对队",
     "organization": "Jinggangshan University",
@@ -1239,7 +1239,7 @@
       "official"
     ]
   },
-  "158": {
+  {
     "team_id": "158",
     "name": "逢三进一队",
     "organization": "Jinggangshan University",
@@ -1247,7 +1247,7 @@
       "official"
     ]
   },
-  "159": {
+  {
     "team_id": "159",
     "name": "一起加油队",
     "organization": "Jinggangshan University",
@@ -1255,7 +1255,7 @@
       "official"
     ]
   },
-  "160": {
+  {
     "team_id": "160",
     "name": "全村唯一的希望",
     "organization": "Jinggangshan University",
@@ -1263,7 +1263,7 @@
       "official"
     ]
   },
-  "161": {
+  {
     "team_id": "161",
     "name": "翻斗花园突击队",
     "organization": "Jingdezhen Ceramic University",
@@ -1271,7 +1271,7 @@
       "official"
     ]
   },
-  "162": {
+  {
     "team_id": "162",
     "name": "自然选择队",
     "organization": "Jingdezhen Ceramic University",
@@ -1279,7 +1279,7 @@
       "official"
     ]
   },
-  "163": {
+  {
     "team_id": "163",
     "name": "无伴奏合唱",
     "organization": "Jingdezhen Vocational University of Art",
@@ -1287,7 +1287,7 @@
       "unofficial"
     ]
   },
-  "164": {
+  {
     "team_id": "164",
     "name": "好运来队",
     "organization": "Jiujiang University",
@@ -1295,7 +1295,7 @@
       "official"
     ]
   },
-  "165": {
+  {
     "team_id": "165",
     "name": "软工1队",
     "organization": "Jiujiang University",
@@ -1303,7 +1303,7 @@
       "official"
     ]
   },
-  "166": {
+  {
     "team_id": "166",
     "name": "软工2队",
     "organization": "Jiujiang University",
@@ -1311,7 +1311,7 @@
       "official"
     ]
   },
-  "167": {
+  {
     "team_id": "167",
     "name": "兄弟，你好香",
     "organization": "Jiujiang University",
@@ -1319,7 +1319,7 @@
       "official"
     ]
   },
-  "168": {
+  {
     "team_id": "168",
     "name": "顶真",
     "organization": "Jiujiang University",
@@ -1327,7 +1327,7 @@
       "official"
     ]
   },
-  "169": {
+  {
     "team_id": "169",
     "name": "我的名字叫猪猪侠",
     "organization": "Jiujiang University",
@@ -1335,7 +1335,7 @@
       "official"
     ]
   },
-  "170": {
+  {
     "team_id": "170",
     "name": "重生之我在九院敲代码",
     "organization": "Jiujiang University",
@@ -1343,7 +1343,7 @@
       "official"
     ]
   },
-  "171": {
+  {
     "team_id": "171",
     "name": "AC牛牛队",
     "organization": "JiuJiang Vocational University",
@@ -1351,7 +1351,7 @@
       "unofficial"
     ]
   },
-  "172": {
+  {
     "team_id": "172",
     "name": "精锐",
     "organization": "The Army Infantry Academy of PLA",
@@ -1359,7 +1359,7 @@
       "official"
     ]
   },
-  "173": {
+  {
     "team_id": "173",
     "name": "精智",
     "organization": "The Army Infantry Academy of PLA",
@@ -1367,7 +1367,7 @@
       "official"
     ]
   },
-  "174": {
+  {
     "team_id": "174",
     "name": "PAW Patrol",
     "organization": "Nanchang University",
@@ -1375,7 +1375,7 @@
       "official"
     ]
   },
-  "175": {
+  {
     "team_id": "175",
     "name": "lyr",
     "organization": "Nanchang University",
@@ -1383,7 +1383,7 @@
       "official"
     ]
   },
-  "176": {
+  {
     "team_id": "176",
     "name": "NAVI",
     "organization": "Nanchang University",
@@ -1391,7 +1391,7 @@
       "official"
     ]
   },
-  "177": {
+  {
     "team_id": "177",
     "name": "大大大摆锤",
     "organization": "Nanchang University",
@@ -1399,7 +1399,7 @@
       "official"
     ]
   },
-  "178": {
+  {
     "team_id": "178",
     "name": "Wa哈哈",
     "organization": "Nanchang University",
@@ -1407,7 +1407,7 @@
       "official"
     ]
   },
-  "179": {
+  {
     "team_id": "179",
     "name": "PASSAL",
     "organization": "Nanchang University",
@@ -1415,7 +1415,7 @@
       "unofficial"
     ]
   },
-  "180": {
+  {
     "team_id": "180",
     "name": "日月同错",
     "organization": "Nanchang University",
@@ -1423,7 +1423,7 @@
       "official"
     ]
   },
-  "181": {
+  {
     "team_id": "181",
     "name": "Ciallo",
     "organization": "Nanchang University",
@@ -1431,7 +1431,7 @@
       "official"
     ]
   },
-  "182": {
+  {
     "team_id": "182",
     "name": "屑猫猫虫爱蓝屏",
     "organization": "Nanchang University",
@@ -1439,7 +1439,7 @@
       "official"
     ]
   },
-  "183": {
+  {
     "team_id": "183",
     "name": "玲娜贝儿最可爱队",
     "organization": "Nanchang University",
@@ -1447,7 +1447,7 @@
       "unofficial"
     ]
   },
-  "184": {
+  {
     "team_id": "184",
     "name": "随便打打",
     "organization": "Nanchang University",
@@ -1455,7 +1455,7 @@
       "official"
     ]
   },
-  "185": {
+  {
     "team_id": "185",
     "name": "牢b达",
     "organization": "Nanchang University",
@@ -1463,7 +1463,7 @@
       "official"
     ]
   },
-  "186": {
+  {
     "team_id": "186",
     "name": "Nana",
     "organization": "Nanchang University",
@@ -1471,7 +1471,7 @@
       "official"
     ]
   },
-  "187": {
+  {
     "team_id": "187",
     "name": "青青草原",
     "organization": "Nanchang University College of Science and Technology",
@@ -1479,7 +1479,7 @@
       "official"
     ]
   },
-  "188": {
+  {
     "team_id": "188",
     "name": "摸鱼",
     "organization": "Nanchang University College of Science and Technology",
@@ -1487,7 +1487,7 @@
       "official"
     ]
   },
-  "189": {
+  {
     "team_id": "189",
     "name": "正统南大在南昌",
     "organization": "Nanchang University",
@@ -1495,7 +1495,7 @@
       "official"
     ]
   },
-  "190": {
+  {
     "team_id": "190",
     "name": "三剑客",
     "organization": "Nanchang University",
@@ -1503,7 +1503,7 @@
       "official"
     ]
   },
-  "191": {
+  {
     "team_id": "191",
     "name": "DM经理的气定神闲",
     "organization": "Nanchang University",
@@ -1511,7 +1511,7 @@
       "official"
     ]
   },
-  "192": {
+  {
     "team_id": "192",
     "name": "笨小猴联盟",
     "organization": "Nanchang University",
@@ -1519,7 +1519,7 @@
       "official"
     ]
   },
-  "193": {
+  {
     "team_id": "193",
     "name": "守望队",
     "organization": "Nanchang University",
@@ -1527,7 +1527,7 @@
       "unofficial"
     ]
   },
-  "194": {
+  {
     "team_id": "194",
     "name": "登山者",
     "organization": "Nanchang University",
@@ -1535,7 +1535,7 @@
       "unofficial"
     ]
   },
-  "195": {
+  {
     "team_id": "195",
     "name": "写都写了，交一发咯",
     "organization": "Nanchang University",
@@ -1543,7 +1543,7 @@
       "official"
     ]
   },
-  "196": {
+  {
     "team_id": "196",
     "name": "自动WA机",
     "organization": "Nanchang University",
@@ -1551,7 +1551,7 @@
       "unofficial"
     ]
   },
-  "197": {
+  {
     "team_id": "197",
     "name": "二次原",
     "organization": "Nanchang University",
@@ -1559,7 +1559,7 @@
       "unofficial"
     ]
   },
-  "198": {
+  {
     "team_id": "198",
     "name": "Book思议",
     "organization": "Nanchang University",
@@ -1567,7 +1567,7 @@
       "official"
     ]
   },
-  "199": {
+  {
     "team_id": "199",
     "name": "叙拉古城邦法官",
     "organization": "Nanchang University",
@@ -1575,7 +1575,7 @@
       "unofficial"
     ]
   },
-  "200": {
+  {
     "team_id": "200",
     "name": "拉格朗日队",
     "organization": "NanChang Institute of Technology",
@@ -1583,7 +1583,7 @@
       "official"
     ]
   },
-  "201": {
+  {
     "team_id": "201",
     "name": "完蛋！我被南通包围了！",
     "organization": "NanChang Institute of Technology",
@@ -1591,7 +1591,7 @@
       "official"
     ]
   },
-  "202": {
+  {
     "team_id": "202",
     "name": "哆啦AC梦",
     "organization": "NanChang Institute of Technology",
@@ -1599,7 +1599,7 @@
       "official"
     ]
   },
-  "203": {
+  {
     "team_id": "203",
     "name": "不是，哥们",
     "organization": "NanChang Institute of Technology",
@@ -1607,7 +1607,7 @@
       "official"
     ]
   },
-  "204": {
+  {
     "team_id": "204",
     "name": "丁真带包悦刻",
     "organization": "Nanchang Institute of Science and Technology",
@@ -1615,7 +1615,7 @@
       "official"
     ]
   },
-  "205": {
+  {
     "team_id": "205",
     "name": "进击的小怪兽",
     "organization": "Nanchang Institute of Science and Technology",
@@ -1623,7 +1623,7 @@
       "official"
     ]
   },
-  "206": {
+  {
     "team_id": "206",
     "name": "算法工匠",
     "organization": "Nanchang Institute of Science and Technology",
@@ -1631,7 +1631,7 @@
       "official"
     ]
   },
-  "207": {
+  {
     "team_id": "207",
     "name": "冲哥无敌",
     "organization": "Nanchang Institute of Science and Technology",
@@ -1639,7 +1639,7 @@
       "official"
     ]
   },
-  "208": {
+  {
     "team_id": "208",
     "name": "遇到困难睡大觉",
     "organization": "Nanchang Institute of Science and Technology",
@@ -1647,7 +1647,7 @@
       "official"
     ]
   },
-  "209": {
+  {
     "team_id": "209",
     "name": "printf(敢死队);",
     "organization": "Nanchang Institute of Science and Technology",
@@ -1655,7 +1655,7 @@
       "official"
     ]
   },
-  "210": {
+  {
     "team_id": "210",
     "name": "cout<<“队”",
     "organization": "Nanchang Institute of Science and Technology",
@@ -1663,7 +1663,7 @@
       "official"
     ]
   },
-  "211": {
+  {
     "team_id": "211",
     "name": "强风吹拂",
     "organization": "Nanchang Hangkong University",
@@ -1671,7 +1671,7 @@
       "official"
     ]
   },
-  "212": {
+  {
     "team_id": "212",
     "name": "极限水花",
     "organization": "Nanchang Hangkong University",
@@ -1679,7 +1679,7 @@
       "official"
     ]
   },
-  "213": {
+  {
     "team_id": "213",
     "name": "早八晚十后在cf签到",
     "organization": "Nanchang Hangkong University",
@@ -1687,7 +1687,7 @@
       "unofficial"
     ]
   },
-  "214": {
+  {
     "team_id": "214",
     "name": "真不知道叫啥",
     "organization": "Nanchang Hangkong University",
@@ -1695,7 +1695,7 @@
       "unofficial"
     ]
   },
-  "215": {
+  {
     "team_id": "215",
     "name": "寄科开摆队",
     "organization": "Nanchang Hangkong University",
@@ -1703,7 +1703,7 @@
       "unofficial"
     ]
   },
-  "216": {
+  {
     "team_id": "216",
     "name": "风韵犹存队",
     "organization": "Nanchang Hangkong University",
@@ -1711,7 +1711,7 @@
       "unofficial"
     ]
   },
-  "217": {
+  {
     "team_id": "217",
     "name": "自然选择号",
     "organization": "Nanchang Hangkong University",
@@ -1719,7 +1719,7 @@
       "unofficial"
     ]
   },
-  "218": {
+  {
     "team_id": "218",
     "name": "雀食蟀三队",
     "organization": "Nanchang Hangkong University",
@@ -1727,7 +1727,7 @@
       "unofficial"
     ]
   },
-  "219": {
+  {
     "team_id": "219",
     "name": "拿奖就是好队名",
     "organization": "Nanchang Hangkong University",
@@ -1735,7 +1735,7 @@
       "official"
     ]
   },
-  "220": {
+  {
     "team_id": "220",
     "name": "_-_'_-_",
     "organization": "Nanchang Hangkong University",
@@ -1743,7 +1743,7 @@
       "official"
     ]
   },
-  "221": {
+  {
     "team_id": "221",
     "name": "不知道",
     "organization": "Nanchang Hangkong University",
@@ -1751,7 +1751,7 @@
       "unofficial"
     ]
   },
-  "222": {
+  {
     "team_id": "222",
     "name": "黄队是我的神",
     "organization": "Nanchang Hangkong University",
@@ -1759,7 +1759,7 @@
       "unofficial"
     ]
   },
-  "223": {
+  {
     "team_id": "223",
     "name": "暴搜都能队",
     "organization": "Nanchang Hangkong University",
@@ -1767,7 +1767,7 @@
       "unofficial"
     ]
   },
-  "224": {
+  {
     "team_id": "224",
     "name": "翻斗花园土鸡队",
     "organization": "Nanchang Hangkong University",
@@ -1775,7 +1775,7 @@
       "unofficial"
     ]
   },
-  "225": {
+  {
     "team_id": "225",
     "name": "啊对对对",
     "organization": "Science And Technology College of NCHU",
@@ -1783,7 +1783,7 @@
       "official"
     ]
   },
-  "226": {
+  {
     "team_id": "226",
     "name": "陈佳茜最可爱了",
     "organization": "Science And Technology College of NCHU",
@@ -1791,7 +1791,7 @@
       "official"
     ]
   },
-  "227": {
+  {
     "team_id": "227",
     "name": "少年先疯队",
     "organization": "Science And Technology College of NCHU",
@@ -1799,7 +1799,7 @@
       "unofficial"
     ]
   },
-  "228": {
+  {
     "team_id": "228",
     "name": "步骤哥哥，我是斯塔克",
     "organization": "Nanchang Jiaotong Institute",
@@ -1807,7 +1807,7 @@
       "official"
     ]
   },
-  "229": {
+  {
     "team_id": "229",
     "name": "得奖就公布蟹黄包秘方队",
     "organization": "Nanchang Jiaotong Institute",
@@ -1815,7 +1815,7 @@
       "official"
     ]
   },
-  "230": {
+  {
     "team_id": "230",
     "name": "南交3队",
     "organization": "Nanchang Jiaotong Institute",
@@ -1823,7 +1823,7 @@
       "official"
     ]
   },
-  "231": {
+  {
     "team_id": "231",
     "name": "柚子社",
     "organization": "Nanchang Institute of Technology",
@@ -1831,7 +1831,7 @@
       "official"
     ]
   },
-  "232": {
+  {
     "team_id": "232",
     "name": "兔子小队",
     "organization": "Nanchang Institute of Technology",
@@ -1839,7 +1839,7 @@
       "official"
     ]
   },
-  "233": {
+  {
     "team_id": "233",
     "name": "朗朗晴天",
     "organization": "Nanchang Institute of Technology",
@@ -1847,7 +1847,7 @@
       "official"
     ]
   },
-  "234": {
+  {
     "team_id": "234",
     "name": "参宿四",
     "organization": "Nanchang Institute of Technology",
@@ -1855,7 +1855,7 @@
       "official"
     ]
   },
-  "235": {
+  {
     "team_id": "235",
     "name": "一叶江舟",
     "organization": "Nanchang Institute of Technology",
@@ -1863,7 +1863,7 @@
       "unofficial"
     ]
   },
-  "236": {
+  {
     "team_id": "236",
     "name": "欢乐比奇堡",
     "organization": "Nanchang Institute of Technology",
@@ -1871,7 +1871,7 @@
       "unofficial"
     ]
   },
-  "237": {
+  {
     "team_id": "237",
     "name": "飞蘅越",
     "organization": "Nanchang Institute of Technology",
@@ -1879,7 +1879,7 @@
       "unofficial"
     ]
   },
-  "238": {
+  {
     "team_id": "238",
     "name": "Apex糕手",
     "organization": "Nanchang Institute of Technology",
@@ -1887,7 +1887,7 @@
       "unofficial"
     ]
   },
-  "239": {
+  {
     "team_id": "239",
     "name": "替补队",
     "organization": "Nanchang Institute of Technology",
@@ -1895,7 +1895,7 @@
       "official"
     ]
   },
-  "240": {
+  {
     "team_id": "240",
     "name": "老登不爆牌让你飞起来",
     "organization": "Nanchang Institute of Technology",
@@ -1903,7 +1903,7 @@
       "official"
     ]
   },
-  "241": {
+  {
     "team_id": "241",
     "name": "仍未知道那天为何AC",
     "organization": "Nanchang Institute of Technology",
@@ -1911,7 +1911,7 @@
       "unofficial"
     ]
   },
-  "242": {
+  {
     "team_id": "242",
     "name": "玛卡巴卡队",
     "organization": "Nanchang Institute of Technology",
@@ -1919,7 +1919,7 @@
       "unofficial"
     ]
   },
-  "243": {
+  {
     "team_id": "243",
     "name": "NCNU-2024",
     "organization": "Nanchang Normal University",
@@ -1927,7 +1927,7 @@
       "official"
     ]
   },
-  "244": {
+  {
     "team_id": "244",
     "name": "NCNU2024-2",
     "organization": "Nanchang Normal University",
@@ -1935,7 +1935,7 @@
       "official"
     ]
   },
-  "245": {
+  {
     "team_id": "245",
     "name": "NCNU2024-3",
     "organization": "Nanchang Normal University",
@@ -1943,7 +1943,7 @@
       "official"
     ]
   },
-  "246": {
+  {
     "team_id": "246",
     "name": "NCNU-4",
     "organization": "Nanchang Normal University",
@@ -1951,7 +1951,7 @@
       "unofficial"
     ]
   },
-  "247": {
+  {
     "team_id": "247",
     "name": "胸怀祖国队",
     "organization": "Nan Chang No.2 Middle School",
@@ -1959,7 +1959,7 @@
       "official"
     ]
   },
-  "248": {
+  {
     "team_id": "248",
     "name": "行走天下队",
     "organization": "Nan Chang No.2 Middle School",
@@ -1967,7 +1967,7 @@
       "official"
     ]
   },
-  "249": {
+  {
     "team_id": "249",
     "name": "无所畏惧",
     "organization": "Nanchang Vocational University",
@@ -1975,7 +1975,7 @@
       "official"
     ]
   },
-  "250": {
+  {
     "team_id": "250",
     "name": "她说的都对",
     "organization": "Nanchang Vocational University",
@@ -1983,7 +1983,7 @@
       "official"
     ]
   },
-  "251": {
+  {
     "team_id": "251",
     "name": "开摆吧",
     "organization": "Nanchang Vocational University",
@@ -1991,7 +1991,7 @@
       "unofficial"
     ]
   },
-  "252": {
+  {
     "team_id": "252",
     "name": "只会暴力队",
     "organization": "Nanchang Vocational University",
@@ -1999,7 +1999,7 @@
       "unofficial"
     ]
   },
-  "253": {
+  {
     "team_id": "253",
     "name": "AC Machine",
     "organization": "Shangrao Normal University",
@@ -2007,7 +2007,7 @@
       "official"
     ]
   },
-  "254": {
+  {
     "team_id": "254",
     "name": "无限循环",
     "organization": "Shangrao Normal University",
@@ -2015,7 +2015,7 @@
       "official"
     ]
   },
-  "255": {
+  {
     "team_id": "255",
     "name": "岚",
     "organization": "Yichun University",
@@ -2023,7 +2023,7 @@
       "official"
     ]
   },
-  "256": {
+  {
     "team_id": "256",
     "name": "前面的题目以后再来探索吧",
     "organization": "Yichun University",
@@ -2031,7 +2031,7 @@
       "official"
     ]
   },
-  "257": {
+  {
     "team_id": "257",
     "name": "每天都爽睡",
     "organization": "Yichun University",
@@ -2039,7 +2039,7 @@
       "official"
     ]
   },
-  "258": {
+  {
     "team_id": "258",
     "name": "别熬夜了，通宵吧",
     "organization": "Yichun University",
@@ -2047,7 +2047,7 @@
       "unofficial"
     ]
   },
-  "259": {
+  {
     "team_id": "259",
     "name": "我就划水",
     "organization": "Yichun University",
@@ -2055,7 +2055,7 @@
       "unofficial"
     ]
   },
-  "260": {
+  {
     "team_id": "260",
     "name": "拯救涛涛队",
     "organization": "Yichun Vocational Technical College",
@@ -2063,7 +2063,7 @@
       "unofficial"
     ]
   },
-  "261": {
+  {
     "team_id": "261",
     "name": "做博丽灵梦谈古明地恋",
     "organization": "Zhejiang University of Business and Technology Zhijiang College",
@@ -2071,4 +2071,4 @@
       "official"
     ]
   }
-}
+]

@@ -1,5 +1,5 @@
-{
-  "team002": {
+[
+  {
     "team_id": "team002",
     "name": "队长没过四级，能给个牌吗？",
     "organization": "广东金融学院",
@@ -13,7 +13,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team003": {
+  {
     "team_id": "team003",
     "name": "零力系",
     "organization": "广东工业大学",
@@ -27,7 +27,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team004": {
+  {
     "team_id": "team004",
     "name": "SZTU_这便是原根给我的自信",
     "organization": "深圳技术大学",
@@ -41,7 +41,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team006": {
+  {
     "team_id": "team006",
     "name": "中大农学院●最后的网瘾●早该电电了",
     "organization": "华南农业大学",
@@ -55,7 +55,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "team007": {
+  {
     "team_id": "team007",
     "name": "海明璟",
     "organization": "广东东软学院",
@@ -69,7 +69,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team008": {
+  {
     "team_id": "team008",
     "name": "疑一时，悟一世",
     "organization": "东莞理工学院",
@@ -83,7 +83,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team011": {
+  {
     "team_id": "team011",
     "name": "小猫咪一看就是想要亲亲了",
     "organization": "华南理工大学",
@@ -97,7 +97,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team013": {
+  {
     "team_id": "team013",
     "name": "不要哇",
     "organization": "广东金融学院",
@@ -111,7 +111,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team014": {
+  {
     "team_id": "team014",
     "name": "野指针",
     "organization": "华南师范大学",
@@ -125,7 +125,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team015": {
+  {
     "team_id": "team015",
     "name": "AE钙奶",
     "organization": "哈尔滨工业大学（深圳）",
@@ -139,7 +139,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team016": {
+  {
     "team_id": "team016",
     "name": "倒开罚时",
     "organization": "广东技术师范大学",
@@ -153,7 +153,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team017": {
+  {
     "team_id": "team017",
     "name": "哥哥你说的都对",
     "organization": "岭南师范学院",
@@ -167,7 +167,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team019": {
+  {
     "team_id": "team019",
     "name": "呐呐呐",
     "organization": "北京师范大学珠海校区",
@@ -181,7 +181,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team020": {
+  {
     "team_id": "team020",
     "name": "玫瑰常开警告常在",
     "organization": "韩山师范学院",
@@ -195,7 +195,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team022": {
+  {
     "team_id": "team022",
     "name": "ReMiFa",
     "organization": "华南师范大学",
@@ -209,7 +209,7 @@
     "unofficial": false,
     "girl": 1
   },
-  "team023": {
+  {
     "team_id": "team023",
     "name": "卷笔刀",
     "organization": "仲恺农业工程学院",
@@ -223,7 +223,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team024": {
+  {
     "team_id": "team024",
     "name": "大睡觉技术",
     "organization": "广东技术师范大学",
@@ -237,7 +237,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team025": {
+  {
     "team_id": "team025",
     "name": "登鲤",
     "organization": "广东工业大学",
@@ -251,7 +251,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team026": {
+  {
     "team_id": "team026",
     "name": "OvO",
     "organization": "华南理工大学",
@@ -265,7 +265,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team028": {
+  {
     "team_id": "team028",
     "name": "天天开心",
     "organization": "嘉应学院",
@@ -279,7 +279,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team029": {
+  {
     "team_id": "team029",
     "name": "永远的难题",
     "organization": "惠州学院",
@@ -293,7 +293,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team030": {
+  {
     "team_id": "team030",
     "name": "茶餐厅",
     "organization": "广东工业大学",
@@ -307,7 +307,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team031": {
+  {
     "team_id": "team031",
     "name": "中山大学_异热同心",
     "organization": "中山大学",
@@ -321,7 +321,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team032": {
+  {
     "team_id": "team032",
     "name": "攻城狮",
     "organization": "韶关学院",
@@ -335,7 +335,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team033": {
+  {
     "team_id": "team033",
     "name": "oval_m教我写A",
     "organization": "华南农业大学",
@@ -349,7 +349,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team034": {
+  {
     "team_id": "team034",
     "name": "明明可以靠颜值偏偏要拼实力",
     "organization": "华南理工大学",
@@ -363,7 +363,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "team035": {
+  {
     "team_id": "team035",
     "name": "kun--泰裤辣",
     "organization": "嘉应学院",
@@ -377,7 +377,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team036": {
+  {
     "team_id": "team036",
     "name": "三朵金花",
     "organization": "北京理工大学珠海学院",
@@ -391,7 +391,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team037": {
+  {
     "team_id": "team037",
     "name": "CodeFire",
     "organization": "广东财经大学",
@@ -405,7 +405,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team038": {
+  {
     "team_id": "team038",
     "name": "SZU_Dijkstra",
     "organization": "深圳大学",
@@ -419,7 +419,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team040": {
+  {
     "team_id": "team040",
     "name": "先特判样例",
     "organization": "北京师范大学珠海校区",
@@ -433,7 +433,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team041": {
+  {
     "team_id": "team041",
     "name": "莞专",
     "organization": "东莞理工学院",
@@ -447,7 +447,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team043": {
+  {
     "team_id": "team043",
     "name": "SZTU_后奇点",
     "organization": "深圳技术大学",
@@ -461,7 +461,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team044": {
+  {
     "team_id": "team044",
     "name": "公费旅游团",
     "organization": "北京师范大学珠海校区",
@@ -475,7 +475,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team045": {
+  {
     "team_id": "team045",
     "name": "天狼星",
     "organization": "广东东软学院",
@@ -489,7 +489,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team047": {
+  {
     "team_id": "team047",
     "name": "爆杀魔人蘑菇忍忍",
     "organization": "暨南大学",
@@ -503,7 +503,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team048": {
+  {
     "team_id": "team048",
     "name": "夏洛特",
     "organization": "惠州学院",
@@ -517,7 +517,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team049": {
+  {
     "team_id": "team049",
     "name": "打星打铁不打星铁",
     "organization": "华南理工大学",
@@ -531,7 +531,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "team050": {
+  {
     "team_id": "team050",
     "name": "快乐AC队",
     "organization": "广州中医药大学",
@@ -545,7 +545,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team051": {
+  {
     "team_id": "team051",
     "name": "没想好队名，就暂时这样叫着吧",
     "organization": "华南师范大学",
@@ -559,7 +559,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team052": {
+  {
     "team_id": "team052",
     "name": "SZTU_香香软软小草神",
     "organization": "深圳技术大学",
@@ -573,7 +573,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "team053": {
+  {
     "team_id": "team053",
     "name": "上路家都没了还在那丢丢丢丢你好队",
     "organization": "广州中医药大学",
@@ -587,7 +587,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team054": {
+  {
     "team_id": "team054",
     "name": "赛博冠军",
     "organization": "惠州学院",
@@ -601,7 +601,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team056": {
+  {
     "team_id": "team056",
     "name": "三个寄俩",
     "organization": "广东东软学院",
@@ -615,7 +615,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team057": {
+  {
     "team_id": "team057",
     "name": "我的爱是AC自动机",
     "organization": "广州大学",
@@ -629,7 +629,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team058": {
+  {
     "team_id": "team058",
     "name": "序列号",
     "organization": "广东工业大学",
@@ -643,7 +643,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team060": {
+  {
     "team_id": "team060",
     "name": "穷穿越",
     "organization": "哈尔滨工业大学（深圳）",
@@ -657,7 +657,7 @@
     "unofficial": false,
     "girl": 1
   },
-  "team061": {
+  {
     "team_id": "team061",
     "name": "狂怒",
     "organization": "广州南方学院",
@@ -671,7 +671,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team062": {
+  {
     "team_id": "team062",
     "name": "等我剑圣六级高原血统一开我不知道你怎么办",
     "organization": "广东工业大学揭阳校区",
@@ -685,7 +685,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team063": {
+  {
     "team_id": "team063",
     "name": "面向结果队",
     "organization": "广州软件学院",
@@ -699,7 +699,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team064": {
+  {
     "team_id": "team064",
     "name": "家人们，谁懂啊，队名换了三个",
     "organization": "华南农业大学",
@@ -713,7 +713,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team065": {
+  {
     "team_id": "team065",
     "name": "神狗之争",
     "organization": "嘉应学院",
@@ -727,7 +727,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team066": {
+  {
     "team_id": "team066",
     "name": "SZU_Miller-Rabin",
     "organization": "深圳大学",
@@ -741,7 +741,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team067": {
+  {
     "team_id": "team067",
     "name": "SCAU_噫！伍！",
     "organization": "华南农业大学",
@@ -755,7 +755,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team068": {
+  {
     "team_id": "team068",
     "name": "裁雨留虹",
     "organization": "哈尔滨工业大学（深圳）",
@@ -769,7 +769,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team069": {
+  {
     "team_id": "team069",
     "name": "发际线与我作队",
     "organization": "华南师范大学",
@@ -783,7 +783,7 @@
     "unofficial": false,
     "girl": 1
   },
-  "team074": {
+  {
     "team_id": "team074",
     "name": "没事干去马路扶老奶奶",
     "organization": "广州航海学院",
@@ -797,7 +797,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team075": {
+  {
     "team_id": "team075",
     "name": "我药出去丸",
     "organization": "广东药科大学",
@@ -811,7 +811,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team077": {
+  {
     "team_id": "team077",
     "name": "数据挖掘组",
     "organization": "韩山师范学院",
@@ -825,7 +825,7 @@
     "unofficial": false,
     "girl": 1
   },
-  "team078": {
+  {
     "team_id": "team078",
     "name": "周四复仇代码",
     "organization": "广州中医药大学",
@@ -839,7 +839,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team079": {
+  {
     "team_id": "team079",
     "name": "南方科技大学-万塔",
     "organization": "南方科技大学",
@@ -853,7 +853,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team080": {
+  {
     "team_id": "team080",
     "name": "你的代码都队",
     "organization": "惠州学院",
@@ -867,7 +867,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team081": {
+  {
     "team_id": "team081",
     "name": "别跟我作对",
     "organization": "深圳职业技术学院",
@@ -881,7 +881,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team082": {
+  {
     "team_id": "team082",
     "name": "怎么越吃越饿 越睡越困 越打越菜",
     "organization": "华南农业大学",
@@ -895,7 +895,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team084": {
+  {
     "team_id": "team084",
     "name": "南方科技大学-罗瓦涅米",
     "organization": "南方科技大学",
@@ -909,7 +909,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team085": {
+  {
     "team_id": "team085",
     "name": "1437 yyds",
     "organization": "电子科技大学中山学院",
@@ -923,7 +923,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team087": {
+  {
     "team_id": "team087",
     "name": "澄净闪耀",
     "organization": "电子科技大学中山学院",
@@ -937,7 +937,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team088": {
+  {
     "team_id": "team088",
     "name": "SZTU_香菇滑鸡",
     "organization": "深圳技术大学",
@@ -951,7 +951,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "team089": {
+  {
     "team_id": "team089",
     "name": "广外新手1队",
     "organization": "广东外语外贸大学",
@@ -965,7 +965,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team090": {
+  {
     "team_id": "team090",
     "name": "永旺烧鸡",
     "organization": "广州城市理工学院",
@@ -979,7 +979,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team091": {
+  {
     "team_id": "team091",
     "name": "生菜包白菜",
     "organization": "广东东软学院",
@@ -993,7 +993,7 @@
     "unofficial": false,
     "girl": 1
   },
-  "team092": {
+  {
     "team_id": "team092",
     "name": "我们不找实习了，我们去旅游",
     "organization": "广州大学",
@@ -1007,7 +1007,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team094": {
+  {
     "team_id": "team094",
     "name": "SZU_AlanTuring",
     "organization": "深圳大学",
@@ -1021,7 +1021,7 @@
     "unofficial": false,
     "girl": 1
   },
-  "team095": {
+  {
     "team_id": "team095",
     "name": "第一只螃蟹",
     "organization": "广州华立学院",
@@ -1035,7 +1035,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team096": {
+  {
     "team_id": "team096",
     "name": "老爷保号",
     "organization": "韩山师范学院",
@@ -1049,7 +1049,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team097": {
+  {
     "team_id": "team097",
     "name": "天依不加糖",
     "organization": "广东工业大学揭阳校区",
@@ -1063,7 +1063,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team099": {
+  {
     "team_id": "team099",
     "name": "中山大学_草菇烧笋",
     "organization": "中山大学",
@@ -1077,7 +1077,7 @@
     "unofficial": false,
     "girl": 1
   },
-  "team100": {
+  {
     "team_id": "team100",
     "name": "最后一舞",
     "organization": "东莞理工学院",
@@ -1091,7 +1091,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team101": {
+  {
     "team_id": "team101",
     "name": "北岭山间赏雪",
     "organization": "肇庆学院",
@@ -1105,7 +1105,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team102": {
+  {
     "team_id": "team102",
     "name": "快使用超级魔法来对抗邪恶力量",
     "organization": "广州中医药大学",
@@ -1119,7 +1119,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team104": {
+  {
     "team_id": "team104",
     "name": "无语了啊家人们",
     "organization": "广东财经大学",
@@ -1133,7 +1133,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team105": {
+  {
     "team_id": "team105",
     "name": "狂怒3",
     "organization": "广州南方学院",
@@ -1147,7 +1147,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team106": {
+  {
     "team_id": "team106",
     "name": "北岭山脚信步",
     "organization": "肇庆学院",
@@ -1161,7 +1161,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team107": {
+  {
     "team_id": "team107",
     "name": "Just AC",
     "organization": "五邑大学",
@@ -1175,7 +1175,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team108": {
+  {
     "team_id": "team108",
     "name": "嘻嘻哈哈",
     "organization": "惠州学院",
@@ -1189,7 +1189,7 @@
     "unofficial": false,
     "girl": 1
   },
-  "team109": {
+  {
     "team_id": "team109",
     "name": "0x3f3f3f3f",
     "organization": "暨南大学",
@@ -1203,7 +1203,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team110": {
+  {
     "team_id": "team110",
     "name": "小红鱼",
     "organization": "电子科技大学中山学院",
@@ -1217,7 +1217,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team111": {
+  {
     "team_id": "team111",
     "name": "水果不甜不要钱",
     "organization": "华南农业大学",
@@ -1231,7 +1231,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "team112": {
+  {
     "team_id": "team112",
     "name": "拿牌队长就女装",
     "organization": "佛山科学技术学院",
@@ -1245,7 +1245,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team113": {
+  {
     "team_id": "team113",
     "name": "双人成行",
     "organization": "广东工业大学",
@@ -1259,7 +1259,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "team114": {
+  {
     "team_id": "team114",
     "name": "星火燎原",
     "organization": "北京理工大学珠海学院",
@@ -1273,7 +1273,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team116": {
+  {
     "team_id": "team116",
     "name": "输出的全队",
     "organization": "哈尔滨工业大学（深圳）",
@@ -1287,7 +1287,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team119": {
+  {
     "team_id": "team119",
     "name": "问问评测姬",
     "organization": "汕头大学",
@@ -1301,7 +1301,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team120": {
+  {
     "team_id": "team120",
     "name": "你要这么想我也没办法队",
     "organization": "惠州学院",
@@ -1315,7 +1315,7 @@
     "unofficial": false,
     "girl": 1
   },
-  "team121": {
+  {
     "team_id": "team121",
     "name": "爱是最强的自在法",
     "organization": "嘉应学院",
@@ -1329,7 +1329,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "team123": {
+  {
     "team_id": "team123",
     "name": "打开电脑就算成功",
     "organization": "华南农业大学",
@@ -1343,7 +1343,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team125": {
+  {
     "team_id": "team125",
     "name": "GZY偷修勾分队",
     "organization": "广州中医药大学",
@@ -1357,7 +1357,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team128": {
+  {
     "team_id": "team128",
     "name": "猫猫狗狗",
     "organization": "北京理工大学珠海学院",
@@ -1371,7 +1371,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team130": {
+  {
     "team_id": "team130",
     "name": "曙光",
     "organization": "广东工业大学揭阳校区",
@@ -1385,7 +1385,7 @@
     "unofficial": false,
     "girl": 1
   },
-  "team131": {
+  {
     "team_id": "team131",
     "name": "v你50罚时",
     "organization": "暨南大学",
@@ -1399,7 +1399,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team132": {
+  {
     "team_id": "team132",
     "name": "SZTU_超级飞侠",
     "organization": "深圳技术大学",
@@ -1413,7 +1413,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team133": {
+  {
     "team_id": "team133",
     "name": "GPT也想打acm",
     "organization": "广东外语外贸大学",
@@ -1427,7 +1427,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team134": {
+  {
     "team_id": "team134",
     "name": "翻斗幼儿园霸王龙小分队",
     "organization": "韶关学院",
@@ -1441,7 +1441,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team137": {
+  {
     "team_id": "team137",
     "name": "翻译鬼才",
     "organization": "北京理工大学珠海学院",
@@ -1455,7 +1455,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team138": {
+  {
     "team_id": "team138",
     "name": "开摆队",
     "organization": "华南师范大学",
@@ -1469,7 +1469,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team139": {
+  {
     "team_id": "team139",
     "name": "SZTU_求学问道",
     "organization": "深圳技术大学",
@@ -1483,7 +1483,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team140": {
+  {
     "team_id": "team140",
     "name": "惠大正心",
     "organization": "惠州学院",
@@ -1497,7 +1497,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team141": {
+  {
     "team_id": "team141",
     "name": "WOW 原！",
     "organization": "广东技术师范大学",
@@ -1511,7 +1511,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team143": {
+  {
     "team_id": "team143",
     "name": "123456",
     "organization": "华南师范大学",
@@ -1525,7 +1525,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team144": {
+  {
     "team_id": "team144",
     "name": "少喝咖啡多喝拿铁",
     "organization": "北京师范大学珠海校区",
@@ -1539,7 +1539,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team146": {
+  {
     "team_id": "team146",
     "name": "SZU_XuanWang",
     "organization": "深圳大学",
@@ -1553,7 +1553,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team147": {
+  {
     "team_id": "team147",
     "name": "两个阵法秘术师与他们的百万大C",
     "organization": "广州大学",
@@ -1567,7 +1567,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team148": {
+  {
     "team_id": "team148",
     "name": "中山大学_从零开始",
     "organization": "中山大学",
@@ -1581,7 +1581,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team150": {
+  {
     "team_id": "team150",
     "name": "菜狗冲锋",
     "organization": "华南师范大学",
@@ -1595,7 +1595,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "team151": {
+  {
     "team_id": "team151",
     "name": "中山大学_前面的题目以后再来探索吧",
     "organization": "中山大学",
@@ -1609,7 +1609,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team152": {
+  {
     "team_id": "team152",
     "name": "SZU_Smart",
     "organization": "深圳大学",
@@ -1623,7 +1623,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team153": {
+  {
     "team_id": "team153",
     "name": "星座になれたら",
     "organization": "华南师范大学",
@@ -1637,7 +1637,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "team154": {
+  {
     "team_id": "team154",
     "name": "SZU_Musk",
     "organization": "深圳大学",
@@ -1651,7 +1651,7 @@
     "unofficial": false,
     "girl": 1
   },
-  "team156": {
+  {
     "team_id": "team156",
     "name": "夏鸿博别鸽我",
     "organization": "哈尔滨工业大学（深圳）",
@@ -1665,7 +1665,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team159": {
+  {
     "team_id": "team159",
     "name": "DGUT菜刀队",
     "organization": "东莞理工学院",
@@ -1679,7 +1679,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team160": {
+  {
     "team_id": "team160",
     "name": "南方科技大学-赫尔辛基",
     "organization": "南方科技大学",
@@ -1693,7 +1693,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team164": {
+  {
     "team_id": "team164",
     "name": "原神怎么你了",
     "organization": "韩山师范学院",
@@ -1707,7 +1707,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team165": {
+  {
     "team_id": "team165",
     "name": "青灯一点AC一夜",
     "organization": "电子科技大学中山学院",
@@ -1721,7 +1721,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team166": {
+  {
     "team_id": "team166",
     "name": "当铜不再成为梦想",
     "organization": "广州城市理工学院",
@@ -1735,7 +1735,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team168": {
+  {
     "team_id": "team168",
     "name": "某不科学的WA",
     "organization": "华南理工大学",
@@ -1749,7 +1749,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team169": {
+  {
     "team_id": "team169",
     "name": "去年打铁一整年",
     "organization": "佛山科学技术学院",
@@ -1763,7 +1763,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team170": {
+  {
     "team_id": "team170",
     "name": "旅行者",
     "organization": "广东工业大学",
@@ -1777,7 +1777,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team171": {
+  {
     "team_id": "team171",
     "name": "北岭山脚踩草",
     "organization": "肇庆学院",
@@ -1791,7 +1791,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team174": {
+  {
     "team_id": "team174",
     "name": "间谍果胶胶",
     "organization": "华南理工大学",
@@ -1805,7 +1805,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team175": {
+  {
     "team_id": "team175",
     "name": "中山大学_正想着",
     "organization": "中山大学",
@@ -1819,7 +1819,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team176": {
+  {
     "team_id": "team176",
     "name": "南方科技大学-海门林纳",
     "organization": "南方科技大学",
@@ -1833,7 +1833,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team177": {
+  {
     "team_id": "team177",
     "name": "千招百千招百千招百式在一息",
     "organization": "佛山科学技术学院",
@@ -1847,7 +1847,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team178": {
+  {
     "team_id": "team178",
     "name": "彼岸之约",
     "organization": "广东工业大学揭阳校区",
@@ -1861,7 +1861,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team181": {
+  {
     "team_id": "team181",
     "name": "随便搞搞都对",
     "organization": "韶关学院",
@@ -1875,7 +1875,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team183": {
+  {
     "team_id": "team183",
     "name": "社畜门槛",
     "organization": "中山大学",
@@ -1889,7 +1889,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "team184": {
+  {
     "team_id": "team184",
     "name": "打原神打的",
     "organization": "北京师范大学珠海分校",
@@ -1903,7 +1903,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team185": {
+  {
     "team_id": "team185",
     "name": "虚虚得实",
     "organization": "广州大学",
@@ -1917,7 +1917,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "team188": {
+  {
     "team_id": "team188",
     "name": "心态就是力量",
     "organization": "东莞理工学院",
@@ -1931,7 +1931,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team189": {
+  {
     "team_id": "team189",
     "name": "双非本科逃课挂科延毕绩点2.0",
     "organization": "嘉应学院",
@@ -1945,7 +1945,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team190": {
+  {
     "team_id": "team190",
     "name": "等爆米花花开富贵的XCPC爆米花小队",
     "organization": "韶关学院",
@@ -1959,7 +1959,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team191": {
+  {
     "team_id": "team191",
     "name": "天江行者",
     "organization": "华南师范大学",
@@ -1973,7 +1973,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "team192": {
+  {
     "team_id": "team192",
     "name": "旋风队",
     "organization": "东莞理工学院",
@@ -1987,7 +1987,7 @@
     "unofficial": false,
     "girl": 1
   },
-  "team193": {
+  {
     "team_id": "team193",
     "name": "SZTU_燃烧的征程",
     "organization": "深圳技术大学",
@@ -2001,7 +2001,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "team194": {
+  {
     "team_id": "team194",
     "name": "今天你喝了吗",
     "organization": "广东工业大学揭阳校区",
@@ -2015,7 +2015,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team195": {
+  {
     "team_id": "team195",
     "name": "他们恋爱不带我",
     "organization": "华南师范大学",
@@ -2029,7 +2029,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team196": {
+  {
     "team_id": "team196",
     "name": "中山大学_三轮车",
     "organization": "中山大学",
@@ -2043,7 +2043,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team197": {
+  {
     "team_id": "team197",
     "name": "打牌三缺一",
     "organization": "嘉应学院",
@@ -2057,7 +2057,7 @@
     "unofficial": false,
     "girl": 1
   },
-  "team199": {
+  {
     "team_id": "team199",
     "name": "搞不到 ccpcfianl 名额",
     "organization": "华南理工大学",
@@ -2071,7 +2071,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "team200": {
+  {
     "team_id": "team200",
     "name": "做咩题啊饮茶先咯",
     "organization": "嘉应学院",
@@ -2085,7 +2085,7 @@
     "unofficial": false,
     "girl": 1
   },
-  "team201": {
+  {
     "team_id": "team201",
     "name": "队名在想.jpg",
     "organization": "华南理工大学",
@@ -2099,7 +2099,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team202": {
+  {
     "team_id": "team202",
     "name": "锦鲤小分队",
     "organization": "岭南师范学院",
@@ -2113,7 +2113,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team203": {
+  {
     "team_id": "team203",
     "name": "八百标兵奔北坡",
     "organization": "广东东软学院",
@@ -2127,7 +2127,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team204": {
+  {
     "team_id": "team204",
     "name": "练铁筑铜",
     "organization": "广州城市理工学院",
@@ -2141,7 +2141,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team205": {
+  {
     "team_id": "team205",
     "name": "欧拉数的开始",
     "organization": "北京师范大学珠海分校",
@@ -2155,7 +2155,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team206": {
+  {
     "team_id": "team206",
     "name": "鶸巢",
     "organization": "惠州学院",
@@ -2169,7 +2169,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team207": {
+  {
     "team_id": "team207",
     "name": "为白雪染色",
     "organization": "广东东软学院",
@@ -2183,7 +2183,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team212": {
+  {
     "team_id": "team212",
     "name": "命悬一线",
     "organization": "广东技术师范大学",
@@ -2197,7 +2197,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team213": {
+  {
     "team_id": "team213",
     "name": "江南行者",
     "organization": "华南师范大学",
@@ -2211,7 +2211,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "team214": {
+  {
     "team_id": "team214",
     "name": "OP打个铁",
     "organization": "广东外语外贸大学",
@@ -2225,7 +2225,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team215": {
+  {
     "team_id": "team215",
     "name": "黑色畅想",
     "organization": "北京师范大学-香港浸会大学联合国际学院",
@@ -2239,7 +2239,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team216": {
+  {
     "team_id": "team216",
     "name": "红鲤鱼与绿鲤鱼与驴",
     "organization": "韩山师范学院",
@@ -2253,7 +2253,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team217": {
+  {
     "team_id": "team217",
     "name": "啊对对队",
     "organization": "暨南大学",
@@ -2267,7 +2267,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team218": {
+  {
     "team_id": "team218",
     "name": "nullptr",
     "organization": "北京师范大学-香港浸会大学联合国际学院",
@@ -2281,7 +2281,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team219": {
+  {
     "team_id": "team219",
     "name": "至暗时刻",
     "organization": "广州大学",
@@ -2295,7 +2295,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team220": {
+  {
     "team_id": "team220",
     "name": "无名之队",
     "organization": "北京师范大学珠海校区",
@@ -2309,7 +2309,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team222": {
+  {
     "team_id": "team222",
     "name": "分治AC",
     "organization": "广东技术师范大学",
@@ -2323,7 +2323,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team226": {
+  {
     "team_id": "team226",
     "name": "只因牌太美队",
     "organization": "广东外语外贸大学",
@@ -2337,7 +2337,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team227": {
+  {
     "team_id": "team227",
     "name": "混铜术士",
     "organization": "广州城市理工学院",
@@ -2351,7 +2351,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team228": {
+  {
     "team_id": "team228",
     "name": "逸误",
     "organization": "广东工业大学",
@@ -2365,7 +2365,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "team231": {
+  {
     "team_id": "team231",
     "name": "SZU_John-von-Neumann",
     "organization": "深圳大学",
@@ -2379,7 +2379,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team233": {
+  {
     "team_id": "team233",
     "name": "CDZSC008",
     "organization": "电子科技大学中山学院",
@@ -2393,7 +2393,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team235": {
+  {
     "team_id": "team235",
     "name": "遇到问题先喝茶",
     "organization": "广东工业大学",
@@ -2407,7 +2407,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team237": {
+  {
     "team_id": "team237",
     "name": "bb84",
     "organization": "华南理工大学",
@@ -2421,7 +2421,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team238": {
+  {
     "team_id": "team238",
     "name": "啊对对对",
     "organization": "深圳职业技术学院",
@@ -2435,7 +2435,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team239": {
+  {
     "team_id": "team239",
     "name": "任何邪恶终将绳之以法",
     "organization": "广东财经大学",
@@ -2449,7 +2449,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team241": {
+  {
     "team_id": "team241",
     "name": "啊对对队",
     "organization": "华南师范大学",
@@ -2463,7 +2463,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team243": {
+  {
     "team_id": "team243",
     "name": "南方科技大学-埃斯波",
     "organization": "南方科技大学",
@@ -2477,7 +2477,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team244": {
+  {
     "team_id": "team244",
     "name": "烧钱打铜",
     "organization": "广州城市理工学院",
@@ -2491,7 +2491,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team245": {
+  {
     "team_id": "team245",
     "name": "向天借一个AC就run的丧彪分队",
     "organization": "广州中医药大学",
@@ -2505,7 +2505,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team246": {
+  {
     "team_id": "team246",
     "name": "看我做的对不队",
     "organization": "广东东软学院",
@@ -2519,7 +2519,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team247": {
+  {
     "team_id": "team247",
     "name": "SZTU_日暮",
     "organization": "深圳技术大学",
@@ -2533,7 +2533,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team248": {
+  {
     "team_id": "team248",
     "name": "红梨种玉米园",
     "organization": "电子科技大学中山学院",
@@ -2547,7 +2547,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team249": {
+  {
     "team_id": "team249",
     "name": "SZU_Babbage",
     "organization": "深圳大学",
@@ -2561,7 +2561,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "team254": {
+  {
     "team_id": "team254",
     "name": "SAWA100",
     "organization": "广州大学",
@@ -2575,7 +2575,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team256": {
+  {
     "team_id": "team256",
     "name": "黑眼圈鲤鱼",
     "organization": "华南理工大学",
@@ -2589,7 +2589,7 @@
     "unofficial": false,
     "girl": 1
   },
-  "team257": {
+  {
     "team_id": "team257",
     "name": "面向样例编程",
     "organization": "仲恺农业工程学院",
@@ -2603,7 +2603,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team259": {
+  {
     "team_id": "team259",
     "name": "SZTU_邪王真眼是最强的",
     "organization": "深圳技术大学",
@@ -2617,7 +2617,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team261": {
+  {
     "team_id": "team261",
     "name": "AC Taffy",
     "organization": "五邑大学",
@@ -2631,7 +2631,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team262": {
+  {
     "team_id": "team262",
     "name": "海底小纵队",
     "organization": "华南师范大学",
@@ -2645,7 +2645,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "team263": {
+  {
     "team_id": "team263",
     "name": "想好队名了吗？",
     "organization": "东莞理工学院",
@@ -2659,7 +2659,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team264": {
+  {
     "team_id": "team264",
     "name": "广师大法拉利",
     "organization": "广东技术师范大学",
@@ -2673,7 +2673,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team267": {
+  {
     "team_id": "team267",
     "name": "北岭山阴纳凉",
     "organization": "肇庆学院",
@@ -2687,7 +2687,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team269": {
+  {
     "team_id": "team269",
     "name": "打不起ACM",
     "organization": "广东药科大学",
@@ -2701,7 +2701,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team270": {
+  {
     "team_id": "team270",
     "name": "今天晚上我是V神",
     "organization": "东莞理工学院",
@@ -2715,7 +2715,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "team271": {
+  {
     "team_id": "team271",
     "name": "凯风快晴",
     "organization": "广东工业大学揭阳校区",
@@ -2729,7 +2729,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team273": {
+  {
     "team_id": "team273",
     "name": "SZTU_快船总冠军",
     "organization": "深圳技术大学",
@@ -2743,7 +2743,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "team274": {
+  {
     "team_id": "team274",
     "name": "一分六十秒",
     "organization": "五邑大学",
@@ -2757,7 +2757,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team275": {
+  {
     "team_id": "team275",
     "name": "你也是妙蛙种子吗",
     "organization": "嘉应学院",
@@ -2771,7 +2771,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team276": {
+  {
     "team_id": "team276",
     "name": "中山大学_破败军团",
     "organization": "中山大学",
@@ -2785,7 +2785,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team279": {
+  {
     "team_id": "team279",
     "name": "三个火枪手",
     "organization": "嘉应学院",
@@ -2799,7 +2799,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team282": {
+  {
     "team_id": "team282",
     "name": "荆棘公主的优雅作风",
     "organization": "广州软件学院",
@@ -2813,7 +2813,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team283": {
+  {
     "team_id": "team283",
     "name": "全都做不队",
     "organization": "哈尔滨工业大学（深圳）",
@@ -2827,7 +2827,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team284": {
+  {
     "team_id": "team284",
     "name": "老六集团",
     "organization": "北京师范大学-香港浸会大学联合国际学院",
@@ -2841,7 +2841,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team285": {
+  {
     "team_id": "team285",
     "name": "带本小说去旅游",
     "organization": "嘉应学院",
@@ -2855,7 +2855,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "team286": {
+  {
     "team_id": "team286",
     "name": "戴佳伟说的对",
     "organization": "广东药科大学",
@@ -2869,7 +2869,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team287": {
+  {
     "team_id": "team287",
     "name": "桑浦三草",
     "organization": "汕头大学",
@@ -2883,7 +2883,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team290": {
+  {
     "team_id": "team290",
     "name": "北冥有鱼",
     "organization": "广东外语外贸大学",
@@ -2897,7 +2897,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team291": {
+  {
     "team_id": "team291",
     "name": "过不了六级",
     "organization": "华南农业大学",
@@ -2911,7 +2911,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team292": {
+  {
     "team_id": "team292",
     "name": "广外新手2队",
     "organization": "广东外语外贸大学",
@@ -2925,7 +2925,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team293": {
+  {
     "team_id": "team293",
     "name": "狂怒2",
     "organization": "广州南方学院",
@@ -2939,7 +2939,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team294": {
+  {
     "team_id": "team294",
     "name": "定风波",
     "organization": "华南师范大学",
@@ -2953,7 +2953,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "team296": {
+  {
     "team_id": "team296",
     "name": "骚仔吕迈走",
     "organization": "嘉应学院",
@@ -2967,7 +2967,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "team297": {
+  {
     "team_id": "team297",
     "name": "StarRail<OGod",
     "organization": "广州大学",
@@ -2981,7 +2981,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team299": {
+  {
     "team_id": "team299",
     "name": "SZU_Shentanford",
     "organization": "深圳大学",
@@ -2995,7 +2995,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team301": {
+  {
     "team_id": "team301",
     "name": "北岭山中听雨",
     "organization": "肇庆学院",
@@ -3009,7 +3009,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team001": {
+  {
     "team_id": "team001",
     "name": "rank++の速度系ka速五厘米desu",
     "organization": "闽南师范大学",
@@ -3023,7 +3023,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team005": {
+  {
     "team_id": "team005",
     "name": "敲代码的死宅少年不会遇到acm学姐",
     "organization": "南昌理工学院",
@@ -3037,7 +3037,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team009": {
+  {
     "team_id": "team009",
     "name": "你先别急",
     "organization": "深圳中学",
@@ -3051,7 +3051,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "team010": {
+  {
     "team_id": "team010",
     "name": "重生之不打丝绸之路",
     "organization": "山东大学",
@@ -3065,7 +3065,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team012": {
+  {
     "team_id": "team012",
     "name": "桃李不言",
     "organization": "南昌理工学院",
@@ -3079,7 +3079,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team018": {
+  {
     "team_id": "team018",
     "name": "东游记",
     "organization": "武汉大学",
@@ -3093,7 +3093,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team021": {
+  {
     "team_id": "team021",
     "name": "我不是管人痴",
     "organization": "西南科技大学",
@@ -3107,7 +3107,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team027": {
+  {
     "team_id": "team027",
     "name": "吾虽年迈箭矢犹锋",
     "organization": "浙江农林大学",
@@ -3121,7 +3121,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team039": {
+  {
     "team_id": "team039",
     "name": "都几把哥们儿",
     "organization": "厦门大学",
@@ -3135,7 +3135,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team042": {
+  {
     "team_id": "team042",
     "name": "那叫一个地地地地地道道",
     "organization": "广西大学",
@@ -3149,7 +3149,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team046": {
+  {
     "team_id": "team046",
     "name": "广附1队-啤酒咖啡洗脚水野猫狼牙棒奶茶",
     "organization": "广州大学附属中学",
@@ -3163,7 +3163,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "team055": {
+  {
     "team_id": "team055",
     "name": "羊村守护者",
     "organization": "浙江师范大学",
@@ -3177,7 +3177,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team059": {
+  {
     "team_id": "team059",
     "name": "猪猪队",
     "organization": "吉首大学",
@@ -3191,7 +3191,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team070": {
+  {
     "team_id": "team070",
     "name": "我将以猫形态出击",
     "organization": "浙江师范大学",
@@ -3205,7 +3205,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team071": {
+  {
     "team_id": "team071",
     "name": "伴坤远航，重新出发",
     "organization": "闽南师范大学",
@@ -3219,7 +3219,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team072": {
+  {
     "team_id": "team072",
     "name": "粉红毛毛兔",
     "organization": "上海第二工业大学",
@@ -3233,7 +3233,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team073": {
+  {
     "team_id": "team073",
     "name": "三重金字塔",
     "organization": "江西财经大学",
@@ -3247,7 +3247,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team076": {
+  {
     "team_id": "team076",
     "name": "肯德基疯四微我五十",
     "organization": "厦门大学",
@@ -3261,7 +3261,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team083": {
+  {
     "team_id": "team083",
     "name": "胖头切丁味道更佳",
     "organization": "浙江中医药大学",
@@ -3275,7 +3275,7 @@
     "unofficial": false,
     "girl": 1
   },
-  "team086": {
+  {
     "team_id": "team086",
     "name": "铁一_烤枯磊忒队",
     "organization": "广州市铁一中学",
@@ -3289,7 +3289,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "team093": {
+  {
     "team_id": "team093",
     "name": "猛鸷队",
     "organization": "坪山实验学校",
@@ -3303,7 +3303,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "team098": {
+  {
     "team_id": "team098",
     "name": "没有队名",
     "organization": "金华市丽泽中学",
@@ -3317,7 +3317,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "team103": {
+  {
     "team_id": "team103",
     "name": "逸一时误一世",
     "organization": "江门市第一实验学校",
@@ -3331,7 +3331,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "team115": {
+  {
     "team_id": "team115",
     "name": "深圳一日游",
     "organization": "广西大学",
@@ -3345,7 +3345,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team117": {
+  {
     "team_id": "team117",
     "name": "手我",
     "organization": "金华市丽泽中学",
@@ -3359,7 +3359,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "team118": {
+  {
     "team_id": "team118",
     "name": "登神长阶",
     "organization": "同济大学",
@@ -3373,7 +3373,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team122": {
+  {
     "team_id": "team122",
     "name": "耀华信奥2队",
     "organization": "深圳市耀华实验学校",
@@ -3387,7 +3387,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "team124": {
+  {
     "team_id": "team124",
     "name": "这题可以二分吗",
     "organization": "广西外国语学院",
@@ -3401,7 +3401,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team126": {
+  {
     "team_id": "team126",
     "name": "不会的也能蒙",
     "organization": "江西财经大学",
@@ -3415,7 +3415,7 @@
     "unofficial": false,
     "girl": 1
   },
-  "team127": {
+  {
     "team_id": "team127",
     "name": "与夜色共眠",
     "organization": "﻿衡阳师范学院",
@@ -3429,7 +3429,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team129": {
+  {
     "team_id": "team129",
     "name": "tarjan lusa",
     "organization": "华中科技大学",
@@ -3443,7 +3443,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team135": {
+  {
     "team_id": "team135",
     "name": "那叫，快点端上来吧",
     "organization": "闽南师范大学",
@@ -3457,7 +3457,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team136": {
+  {
     "team_id": "team136",
     "name": "喵了个喵",
     "organization": "广州市第三中学",
@@ -3471,7 +3471,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "team142": {
+  {
     "team_id": "team142",
     "name": "两个抵三",
     "organization": "武汉外国语学校",
@@ -3485,7 +3485,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "team145": {
+  {
     "team_id": "team145",
     "name": "没有网络安全就没有国家安全",
     "organization": "华中科技大学",
@@ -3499,7 +3499,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team149": {
+  {
     "team_id": "team149",
     "name": "完美",
     "organization": "泉州师范学院",
@@ -3513,7 +3513,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team155": {
+  {
     "team_id": "team155",
     "name": "纯纯的OI儿",
     "organization": "深圳外国语学校",
@@ -3527,7 +3527,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "team157": {
+  {
     "team_id": "team157",
     "name": "呵呵哒",
     "organization": "华中科技大学",
@@ -3541,7 +3541,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team158": {
+  {
     "team_id": "team158",
     "name": "全队",
     "organization": "南宁市第三中学",
@@ -3555,7 +3555,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "team161": {
+  {
     "team_id": "team161",
     "name": "唱、跳、RAP、篮球",
     "organization": "江门市第一实验学校",
@@ -3569,7 +3569,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "team162": {
+  {
     "team_id": "team162",
     "name": "追光者的小迷弟",
     "organization": "山东大学",
@@ -3583,7 +3583,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team163": {
+  {
     "team_id": "team163",
     "name": "千万别队",
     "organization": "泉州师范学院",
@@ -3597,7 +3597,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team167": {
+  {
     "team_id": "team167",
     "name": "石实OI",
     "organization": "佛山市南海区石门实验学校",
@@ -3611,7 +3611,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "team172": {
+  {
     "team_id": "team172",
     "name": "哦对的对的哦不对对什么啊队",
     "organization": "福建师范大学",
@@ -3625,7 +3625,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team173": {
+  {
     "team_id": "team173",
     "name": "省实信奥1队",
     "organization": "广东实验中学",
@@ -3639,7 +3639,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "team179": {
+  {
     "team_id": "team179",
     "name": "ZJUT5",
     "organization": "浙江工业大学",
@@ -3653,7 +3653,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team180": {
+  {
     "team_id": "team180",
     "name": "三个社恐不敢A题",
     "organization": "福建师范大学",
@@ -3667,7 +3667,7 @@
     "unofficial": false,
     "girl": 1
   },
-  "team182": {
+  {
     "team_id": "team182",
     "name": "广附2队-酒吧炒面人",
     "organization": "广州大学附属中学",
@@ -3681,7 +3681,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "team186": {
+  {
     "team_id": "team186",
     "name": "神之一手",
     "organization": "江西财经大学",
@@ -3695,7 +3695,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team187": {
+  {
     "team_id": "team187",
     "name": "打铁还需自身硬",
     "organization": "浙江农林大学",
@@ -3709,7 +3709,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team198": {
+  {
     "team_id": "team198",
     "name": "向着星辰与深渊",
     "organization": "福建工程学院",
@@ -3723,7 +3723,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team208": {
+  {
     "team_id": "team208",
     "name": "省实信奥3队",
     "organization": "广东实验中学",
@@ -3737,7 +3737,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "team209": {
+  {
     "team_id": "team209",
     "name": "南宁三中小黄人",
     "organization": "南宁市第三中学",
@@ -3751,7 +3751,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "team210": {
+  {
     "team_id": "team210",
     "name": "铁牌分界线",
     "organization": "广州市第六中学",
@@ -3765,7 +3765,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "team211": {
+  {
     "team_id": "team211",
     "name": "AC小鹿",
     "organization": "金华市丽泽中学",
@@ -3779,7 +3779,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "team221": {
+  {
     "team_id": "team221",
     "name": "草莓",
     "organization": "大连市第二十四中学",
@@ -3793,7 +3793,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "team223": {
+  {
     "team_id": "team223",
     "name": "役满确定铳断幺",
     "organization": "安徽大学",
@@ -3807,7 +3807,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team224": {
+  {
     "team_id": "team224",
     "name": "今年重科能升大吗？",
     "organization": "重庆科技学院",
@@ -3821,7 +3821,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team225": {
+  {
     "team_id": "team225",
     "name": "超级宇宙无敌至尊暴龙战士",
     "organization": "湖南第一师范学院",
@@ -3835,7 +3835,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team229": {
+  {
     "team_id": "team229",
     "name": "铁一奥信3队",
     "organization": "广州市铁一中学",
@@ -3849,7 +3849,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "team230": {
+  {
     "team_id": "team230",
     "name": "嗯诶去伐魔怔不录补螺丝",
     "organization": "南宁市第三中学",
@@ -3863,7 +3863,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "team232": {
+  {
     "team_id": "team232",
     "name": "到华强北买瓜",
     "organization": "武汉大学",
@@ -3877,7 +3877,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team234": {
+  {
     "team_id": "team234",
     "name": "酒吧测试工程师",
     "organization": "浙江省诸暨海亮高级中学",
@@ -3891,7 +3891,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "team236": {
+  {
     "team_id": "team236",
     "name": "吃不饱睡不醒",
     "organization": "江门市第一实验学校",
@@ -3905,7 +3905,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "team240": {
+  {
     "team_id": "team240",
     "name": "Never just talk",
     "organization": "重庆科技学院",
@@ -3919,7 +3919,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team242": {
+  {
     "team_id": "team242",
     "name": "不想起名字",
     "organization": "南宁市第三中学",
@@ -3933,7 +3933,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "team250": {
+  {
     "team_id": "team250",
     "name": "无留意",
     "organization": "衡阳师范学院",
@@ -3947,7 +3947,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team251": {
+  {
     "team_id": "team251",
     "name": "大国铁匠",
     "organization": "井冈山大学",
@@ -3961,7 +3961,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team252": {
+  {
     "team_id": "team252",
     "name": "丁真",
     "organization": "沈阳理工大学",
@@ -3975,7 +3975,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team253": {
+  {
     "team_id": "team253",
     "name": "队名太长以至于TLE",
     "organization": "广西大学",
@@ -3989,7 +3989,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team255": {
+  {
     "team_id": "team255",
     "name": "我真6，嘻嘻",
     "organization": "浙江师范大学",
@@ -4003,7 +4003,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team258": {
+  {
     "team_id": "team258",
     "name": "想好队名再改",
     "organization": "华中科技大学",
@@ -4017,7 +4017,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "team260": {
+  {
     "team_id": "team260",
     "name": "冰淇淋",
     "organization": "大连市第二十四中学",
@@ -4031,7 +4031,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "team265": {
+  {
     "team_id": "team265",
     "name": "华附初二队",
     "organization": "华南师范大学附属中学",
@@ -4045,7 +4045,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "team266": {
+  {
     "team_id": "team266",
     "name": "铁一奥信1队",
     "organization": "广州市铁一中学",
@@ -4059,7 +4059,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "team268": {
+  {
     "team_id": "team268",
     "name": "遥叩芳辰，生辰吉乐",
     "organization": "西南科技大学",
@@ -4073,7 +4073,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team272": {
+  {
     "team_id": "team272",
     "name": "努力队",
     "organization": "湖南第一师范学院",
@@ -4087,7 +4087,7 @@
     "unofficial": false,
     "girl": 1
   },
-  "team277": {
+  {
     "team_id": "team277",
     "name": "哈姆",
     "organization": "广州市第六中学",
@@ -4101,7 +4101,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "team278": {
+  {
     "team_id": "team278",
     "name": "师大之觲",
     "organization": "湖南师范大学",
@@ -4115,7 +4115,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team280": {
+  {
     "team_id": "team280",
     "name": "钢铁是怎样炼成的",
     "organization": "广州市第六中学",
@@ -4129,7 +4129,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "team281": {
+  {
     "team_id": "team281",
     "name": "3-freshMen",
     "organization": "吉首大学",
@@ -4143,7 +4143,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team288": {
+  {
     "team_id": "team288",
     "name": "你说的都队",
     "organization": "深圳外国语学校",
@@ -4157,7 +4157,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "team289": {
+  {
     "team_id": "team289",
     "name": "汪汪队起飞咯",
     "organization": "上海第二工业大学",
@@ -4171,7 +4171,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team295": {
+  {
     "team_id": "team295",
     "name": "浙农林 9 队",
     "organization": "浙江农林大学",
@@ -4185,7 +4185,7 @@
     "unofficial": false,
     "girl": false
   },
-  "team298": {
+  {
     "team_id": "team298",
     "name": "省实信奥2队",
     "organization": "广东实验中学",
@@ -4199,7 +4199,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "team300": {
+  {
     "team_id": "team300",
     "name": "耀华信奥1队",
     "organization": "深圳市耀华实验学校",
@@ -4213,7 +4213,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "team302": {
+  {
     "team_id": "team302",
     "name": "耀华信奥3队",
     "organization": "深圳市耀华实验学校",
@@ -4227,4 +4227,4 @@
     "unofficial": 1,
     "girl": false
   }
-}
+]

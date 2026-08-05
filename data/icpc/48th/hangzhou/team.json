@@ -1,5 +1,5 @@
-{
-  "2023-icpc-hz-1-team": {
+[
+  {
     "team_id": "2023-icpc-hz-1-team",
     "name": "NUM-DSE",
     "organization": "National University of Mongolia",
@@ -13,7 +13,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-2-team": {
+  {
     "team_id": "2023-icpc-hz-2-team",
     "name": "Auge",
     "organization": "淘宝银发版",
@@ -27,7 +27,7 @@
     "unofficial": true,
     "girl": false
   },
-  "2023-icpc-hz-3-team": {
+  {
     "team_id": "2023-icpc-hz-3-team",
     "name": "三条可怜（冬季限定）",
     "organization": "安徽大学",
@@ -41,7 +41,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-4-team": {
+  {
     "team_id": "2023-icpc-hz-4-team",
     "name": "安工大今年最后在ICPC上睡觉",
     "organization": "安徽工业大学",
@@ -55,7 +55,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-5-team": {
+  {
     "team_id": "2023-icpc-hz-5-team",
     "name": "全靠外卡",
     "organization": "北方工业大学",
@@ -69,7 +69,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-6-team": {
+  {
     "team_id": "2023-icpc-hz-6-team",
     "name": "暂时不能给你明确的队名！",
     "organization": "北京大学",
@@ -83,7 +83,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-7-team": {
+  {
     "team_id": "2023-icpc-hz-7-team",
     "name": "摆烂人",
     "organization": "北京大学",
@@ -97,7 +97,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-8-team": {
+  {
     "team_id": "2023-icpc-hz-8-team",
     "name": "undefined",
     "organization": "北京大学",
@@ -111,7 +111,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-9-team": {
+  {
     "team_id": "2023-icpc-hz-9-team",
     "name": "暂时不能给你明确的队名",
     "organization": "北京大学",
@@ -125,7 +125,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-10-team": {
+  {
     "team_id": "2023-icpc-hz-10-team",
     "name": "颗粒不知道阿",
     "organization": "北京电子科技学院",
@@ -139,7 +139,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-11-team": {
+  {
     "team_id": "2023-icpc-hz-11-team",
     "name": "Sis puella magica!",
     "organization": "北京工业大学",
@@ -153,7 +153,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-12-team": {
+  {
     "team_id": "2023-icpc-hz-12-team",
     "name": "电脑配置低，一打ICPC就死机",
     "organization": "北京航空航天大学",
@@ -167,7 +167,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-13-team": {
+  {
     "team_id": "2023-icpc-hz-13-team",
     "name": "哟哟",
     "organization": "北京航空航天大学",
@@ -181,7 +181,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-14-team": {
+  {
     "team_id": "2023-icpc-hz-14-team",
     "name": "不可计算",
     "organization": "北京航空航天大学",
@@ -195,7 +195,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-15-team": {
+  {
     "team_id": "2023-icpc-hz-15-team",
     "name": "口嗨战神",
     "organization": "北京航空航天大学",
@@ -209,7 +209,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-16-team": {
+  {
     "team_id": "2023-icpc-hz-16-team",
     "name": "祝你好运玩得开心",
     "organization": "北京化工大学",
@@ -223,7 +223,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-17-team": {
+  {
     "team_id": "2023-icpc-hz-17-team",
     "name": "艾克斯",
     "organization": "北京化工大学",
@@ -237,7 +237,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-18-team": {
+  {
     "team_id": "2023-icpc-hz-18-team",
     "name": "三只袋鼠",
     "organization": "北京建筑大学",
@@ -251,7 +251,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-19-team": {
+  {
     "team_id": "2023-icpc-hz-19-team",
     "name": "羊羊羊",
     "organization": "北京交通大学",
@@ -265,7 +265,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-20-team": {
+  {
     "team_id": "2023-icpc-hz-20-team",
     "name": "三位一体",
     "organization": "北京交通大学",
@@ -279,7 +279,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-21-team": {
+  {
     "team_id": "2023-icpc-hz-21-team",
     "name": "绽放",
     "organization": "北京交通大学",
@@ -293,7 +293,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-22-team": {
+  {
     "team_id": "2023-icpc-hz-22-team",
     "name": "我再试试",
     "organization": "北京科技大学",
@@ -307,7 +307,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-23-team": {
+  {
     "team_id": "2023-icpc-hz-23-team",
     "name": "雪崩团灭清一色",
     "organization": "北京理工大学",
@@ -321,7 +321,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-24-team": {
+  {
     "team_id": "2023-icpc-hz-24-team",
     "name": "脸滚键盘企图AC",
     "organization": "北京理工大学",
@@ -335,7 +335,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-25-team": {
+  {
     "team_id": "2023-icpc-hz-25-team",
     "name": "秋秋粉丝团",
     "organization": "北京理工大学",
@@ -349,7 +349,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-26-team": {
+  {
     "team_id": "2023-icpc-hz-26-team",
     "name": "ddl战神",
     "organization": "北京理工大学",
@@ -363,7 +363,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-27-team": {
+  {
     "team_id": "2023-icpc-hz-27-team",
     "name": "先行者",
     "organization": "北京理工大学珠海学院",
@@ -377,7 +377,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-28-team": {
+  {
     "team_id": "2023-icpc-hz-28-team",
     "name": "可持久化猫猫虫咖波",
     "organization": "北京林业大学",
@@ -391,7 +391,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-29-team": {
+  {
     "team_id": "2023-icpc-hz-29-team",
     "name": "异或小姐的狗",
     "organization": "北京师范大学",
@@ -405,7 +405,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-30-team": {
+  {
     "team_id": "2023-icpc-hz-30-team",
     "name": "山脉震撼明星之薪",
     "organization": "北京师范大学珠海分校",
@@ -419,7 +419,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-31-team": {
+  {
     "team_id": "2023-icpc-hz-31-team",
     "name": "开局起内格夫的冰瓜投手打国王峡谷能变鬼吗",
     "organization": "北京信息科技大学",
@@ -433,7 +433,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-32-team": {
+  {
     "team_id": "2023-icpc-hz-32-team",
     "name": "野鸡大队",
     "organization": "北京邮电大学",
@@ -447,7 +447,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-33-team": {
+  {
     "team_id": "2023-icpc-hz-33-team",
     "name": "微微晨光点亮这喧嚣世界",
     "organization": "北京邮电大学",
@@ -461,7 +461,7 @@
     "unofficial": true,
     "girl": false
   },
-  "2023-icpc-hz-34-team": {
+  {
     "team_id": "2023-icpc-hz-34-team",
     "name": "你说的队",
     "organization": "北京邮电大学",
@@ -475,7 +475,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-35-team": {
+  {
     "team_id": "2023-icpc-hz-35-team",
     "name": "六目相对",
     "organization": "北京邮电大学",
@@ -489,7 +489,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-36-team": {
+  {
     "team_id": "2023-icpc-hz-36-team",
     "name": "老默我想吃坤了",
     "organization": "常熟理工学院",
@@ -503,7 +503,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-37-team": {
+  {
     "team_id": "2023-icpc-hz-37-team",
     "name": "倚楼听风雨",
     "organization": "成都大学",
@@ -517,7 +517,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-38-team": {
+  {
     "team_id": "2023-icpc-hz-38-team",
     "name": "香奈美，带我走吧",
     "organization": "成都东软学院",
@@ -531,7 +531,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-39-team": {
+  {
     "team_id": "2023-icpc-hz-39-team",
     "name": "对对对你说的都对",
     "organization": "成都理工大学",
@@ -545,7 +545,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-40-team": {
+  {
     "team_id": "2023-icpc-hz-40-team",
     "name": "火星锥蛛广告位招租",
     "organization": "成都市树德中学",
@@ -559,7 +559,7 @@
     "unofficial": true,
     "girl": false
   },
-  "2023-icpc-hz-41-team": {
+  {
     "team_id": "2023-icpc-hz-41-team",
     "name": "试作信条：杭州圣战",
     "organization": "成都市树德中学",
@@ -573,7 +573,7 @@
     "unofficial": true,
     "girl": false
   },
-  "2023-icpc-hz-42-team": {
+  {
     "team_id": "2023-icpc-hz-42-team",
     "name": "AuKiller",
     "organization": "成都树德中学光华校区",
@@ -587,7 +587,7 @@
     "unofficial": true,
     "girl": false
   },
-  "2023-icpc-hz-43-team": {
+  {
     "team_id": "2023-icpc-hz-43-team",
     "name": "你是我未曾拥有无法捕捉的亲昵",
     "organization": "成都信息工程大学",
@@ -601,7 +601,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-44-team": {
+  {
     "team_id": "2023-icpc-hz-44-team",
     "name": "你不曾注意到孩子们在悲鸣着分崩离析！",
     "organization": "重庆大学",
@@ -615,7 +615,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-45-team": {
+  {
     "team_id": "2023-icpc-hz-45-team",
     "name": "这个队名出现在21世纪还是太超前了",
     "organization": "重庆大学",
@@ -629,7 +629,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-46-team": {
+  {
     "team_id": "2023-icpc-hz-46-team",
     "name": "第四天灾",
     "organization": "重庆大学",
@@ -643,7 +643,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-47-team": {
+  {
     "team_id": "2023-icpc-hz-47-team",
     "name": "十年单身换区预赛铜牌",
     "organization": "重庆工程学院",
@@ -657,7 +657,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-48-team": {
+  {
     "team_id": "2023-icpc-hz-48-team",
     "name": "拿舍友十年单身换铜",
     "organization": "重庆交通大学",
@@ -671,7 +671,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-49-team": {
+  {
     "team_id": "2023-icpc-hz-49-team",
     "name": "一路走来，辛苦了",
     "organization": "重庆科技学院",
@@ -685,7 +685,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-50-team": {
+  {
     "team_id": "2023-icpc-hz-50-team",
     "name": "西唯兵打铁匠",
     "organization": "重庆理工大学",
@@ -699,7 +699,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-51-team": {
+  {
     "team_id": "2023-icpc-hz-51-team",
     "name": "我们仍未知道那天AC的原因",
     "organization": "重庆邮电大学",
@@ -713,7 +713,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-52-team": {
+  {
     "team_id": "2023-icpc-hz-52-team",
     "name": "猫猫虫饼干",
     "organization": "大连大学",
@@ -727,7 +727,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-53-team": {
+  {
     "team_id": "2023-icpc-hz-53-team",
     "name": "灼灼韶华",
     "organization": "大连理工大学",
@@ -741,7 +741,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-54-team": {
+  {
     "team_id": "2023-icpc-hz-54-team",
     "name": "对无名",
     "organization": "大连理工大学",
@@ -755,7 +755,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-55-team": {
+  {
     "team_id": "2023-icpc-hz-55-team",
     "name": "小蓝鸭",
     "organization": "大连理工大学（盘锦校区）",
@@ -769,7 +769,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-56-team": {
+  {
     "team_id": "2023-icpc-hz-56-team",
     "name": "UESTC_会编程到底是什么感觉_jpg",
     "organization": "电子科技大学",
@@ -783,7 +783,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-57-team": {
+  {
     "team_id": "2023-icpc-hz-57-team",
     "name": "UESTC_篝月明火",
     "organization": "电子科技大学",
@@ -797,7 +797,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-58-team": {
+  {
     "team_id": "2023-icpc-hz-58-team",
     "name": "UESTC_扭转乾坤",
     "organization": "电子科技大学",
@@ -811,7 +811,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-59-team": {
+  {
     "team_id": "2023-icpc-hz-59-team",
     "name": "UESTC_忒修斯之船",
     "organization": "电子科技大学",
@@ -825,7 +825,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-60-team": {
+  {
     "team_id": "2023-icpc-hz-60-team",
     "name": "澄净闪耀",
     "organization": "电子科技大学中山学院",
@@ -839,7 +839,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-61-team": {
+  {
     "team_id": "2023-icpc-hz-61-team",
     "name": "东北大学_1234566",
     "organization": "东北大学",
@@ -853,7 +853,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-62-team": {
+  {
     "team_id": "2023-icpc-hz-62-team",
     "name": "东北大学_礻亻牜",
     "organization": "东北大学",
@@ -867,7 +867,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-63-team": {
+  {
     "team_id": "2023-icpc-hz-63-team",
     "name": "东北大学_天狐座",
     "organization": "东北大学",
@@ -881,7 +881,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-64-team": {
+  {
     "team_id": "2023-icpc-hz-64-team",
     "name": "东北大学_好果汁",
     "organization": "东北大学",
@@ -895,7 +895,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-65-team": {
+  {
     "team_id": "2023-icpc-hz-65-team",
     "name": "小饼卷大葱",
     "organization": "东北大学秦皇岛分校",
@@ -909,7 +909,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-66-team": {
+  {
     "team_id": "2023-icpc-hz-66-team",
     "name": "四级合砍1000分",
     "organization": "东北农业大学",
@@ -923,7 +923,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-67-team": {
+  {
     "team_id": "2023-icpc-hz-67-team",
     "name": "网瘾三人组",
     "organization": "东北师范大学",
@@ -937,7 +937,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-68-team": {
+  {
     "team_id": "2023-icpc-hz-68-team",
     "name": "想好队名了吗？",
     "organization": "东莞理工学院",
@@ -951,7 +951,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-69-team": {
+  {
     "team_id": "2023-icpc-hz-69-team",
     "name": "#不可视境界线#",
     "organization": "东华大学",
@@ -965,7 +965,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-70-team": {
+  {
     "team_id": "2023-icpc-hz-70-team",
     "name": "陈晓剑舞",
     "organization": "东华大学",
@@ -979,7 +979,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-71-team": {
+  {
     "team_id": "2023-icpc-hz-71-team",
     "name": "东理第一大队",
     "organization": "东华理工大学",
@@ -993,7 +993,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-72-team": {
+  {
     "team_id": "2023-icpc-hz-72-team",
     "name": "打ACM打的",
     "organization": "东南大学",
@@ -1007,7 +1007,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-73-team": {
+  {
     "team_id": "2023-icpc-hz-73-team",
     "name": "UKE自动机",
     "organization": "东南大学",
@@ -1021,7 +1021,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-74-team": {
+  {
     "team_id": "2023-icpc-hz-74-team",
     "name": "扬帆续新辰",
     "organization": "东南大学",
@@ -1035,7 +1035,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-75-team": {
+  {
     "team_id": "2023-icpc-hz-75-team",
     "name": "大小姐的下午茶时光",
     "organization": "东南大学",
@@ -1049,7 +1049,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-76-team": {
+  {
     "team_id": "2023-icpc-hz-76-team",
     "name": "去年打铁一整年",
     "organization": "佛山科学技术学院",
@@ -1063,7 +1063,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-77-team": {
+  {
     "team_id": "2023-icpc-hz-77-team",
     "name": "凛冬将至",
     "organization": "福建理工大学",
@@ -1077,7 +1077,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-78-team": {
+  {
     "team_id": "2023-icpc-hz-78-team",
     "name": "轻舟已过万重山",
     "organization": "福建农林大学",
@@ -1091,7 +1091,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-79-team": {
+  {
     "team_id": "2023-icpc-hz-79-team",
     "name": "哇哦!金色传说!",
     "organization": "福建师范大学",
@@ -1105,7 +1105,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-80-team": {
+  {
     "team_id": "2023-icpc-hz-80-team",
     "name": "不AC不睡觉",
     "organization": "福州大学",
@@ -1119,7 +1119,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-81-team": {
+  {
     "team_id": "2023-icpc-hz-81-team",
     "name": "三年之期，今日AC",
     "organization": "福州大学",
@@ -1133,7 +1133,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-82-team": {
+  {
     "team_id": "2023-icpc-hz-82-team",
     "name": "四年老兵",
     "organization": "福州大学",
@@ -1147,7 +1147,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-83-team": {
+  {
     "team_id": "2023-icpc-hz-83-team",
     "name": "浴室踩订书机",
     "organization": "福州大学",
@@ -1161,7 +1161,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-84-team": {
+  {
     "team_id": "2023-icpc-hz-84-team",
     "name": "人从众",
     "organization": "阜阳师范大学",
@@ -1175,7 +1175,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-85-team": {
+  {
     "team_id": "2023-icpc-hz-85-team",
     "name": "你先别急，让我调DP",
     "organization": "复旦大学",
@@ -1189,7 +1189,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-86-team": {
+  {
     "team_id": "2023-icpc-hz-86-team",
     "name": "再多一眼看一眼就会 AC",
     "organization": "复旦大学",
@@ -1203,7 +1203,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-87-team": {
+  {
     "team_id": "2023-icpc-hz-87-team",
     "name": "黑莲",
     "organization": "复旦大学",
@@ -1217,7 +1217,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-88-team": {
+  {
     "team_id": "2023-icpc-hz-88-team",
     "name": "雾里看花",
     "organization": "高中联合参赛",
@@ -1231,7 +1231,7 @@
     "unofficial": true,
     "girl": false
   },
-  "2023-icpc-hz-89-team": {
+  {
     "team_id": "2023-icpc-hz-89-team",
     "name": "I'm your fan!!!!",
     "organization": "个人",
@@ -1243,7 +1243,7 @@
     "unofficial": true,
     "girl": false
   },
-  "2023-icpc-hz-90-team": {
+  {
     "team_id": "2023-icpc-hz-90-team",
     "name": "漫游者",
     "organization": "广东工业大学",
@@ -1257,7 +1257,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-91-team": {
+  {
     "team_id": "2023-icpc-hz-91-team",
     "name": "睡觉最舒服了",
     "organization": "广东工业大学",
@@ -1271,7 +1271,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-92-team": {
+  {
     "team_id": "2023-icpc-hz-92-team",
     "name": "这不是BUG，是特性",
     "organization": "广东工业大学",
@@ -1285,7 +1285,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-93-team": {
+  {
     "team_id": "2023-icpc-hz-93-team",
     "name": "彼岸之约",
     "organization": "广东工业大学揭阳校区",
@@ -1299,7 +1299,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-94-team": {
+  {
     "team_id": "2023-icpc-hz-94-team",
     "name": "GPNU-Awei",
     "organization": "广东技术师范大学",
@@ -1313,7 +1313,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-95-team": {
+  {
     "team_id": "2023-icpc-hz-95-team",
     "name": "评测机上抹点绿",
     "organization": "广东金融学院",
@@ -1327,7 +1327,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-96-team": {
+  {
     "team_id": "2023-icpc-hz-96-team",
     "name": "邱队带飞",
     "organization": "广东实验中学",
@@ -1341,7 +1341,7 @@
     "unofficial": true,
     "girl": false
   },
-  "2023-icpc-hz-97-team": {
+  {
     "team_id": "2023-icpc-hz-97-team",
     "name": "WA1forever",
     "organization": "广东外语外贸大学",
@@ -1355,7 +1355,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-98-team": {
+  {
     "team_id": "2023-icpc-hz-98-team",
     "name": "知耻而后勇",
     "organization": "广西大学",
@@ -1369,7 +1369,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-99-team": {
+  {
     "team_id": "2023-icpc-hz-99-team",
     "name": "奇迹于你",
     "organization": "广州大学",
@@ -1383,7 +1383,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-100-team": {
+  {
     "team_id": "2023-icpc-hz-100-team",
     "name": "虚虚得实",
     "organization": "广州大学",
@@ -1397,7 +1397,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-101-team": {
+  {
     "team_id": "2023-icpc-hz-101-team",
     "name": "少壮不努力，长大靠翻译",
     "organization": "广州华立学院",
@@ -1411,7 +1411,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-102-team": {
+  {
     "team_id": "2023-icpc-hz-102-team",
     "name": "狂怒",
     "organization": "广州南方学院",
@@ -1425,7 +1425,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-103-team": {
+  {
     "team_id": "2023-icpc-hz-103-team",
     "name": "糯米锅巴",
     "organization": "贵州大学",
@@ -1439,7 +1439,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-104-team": {
+  {
     "team_id": "2023-icpc-hz-104-team",
     "name": "Dreamboat",
     "organization": "桂林电子科技大学",
@@ -1453,7 +1453,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-105-team": {
+  {
     "team_id": "2023-icpc-hz-105-team",
     "name": "青铜时代号",
     "organization": "国防科技大学",
@@ -1467,7 +1467,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-106-team": {
+  {
     "team_id": "2023-icpc-hz-106-team",
     "name": "冲冲冲",
     "organization": "国防科技大学",
@@ -1481,7 +1481,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-107-team": {
+  {
     "team_id": "2023-icpc-hz-107-team",
     "name": "可持久化阿兹弗特维修会沙勒人理旅游空想树",
     "organization": "哈尔滨工程大学",
@@ -1495,7 +1495,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-108-team": {
+  {
     "team_id": "2023-icpc-hz-108-team",
     "name": "goto:希腊奶",
     "organization": "哈尔滨工程大学",
@@ -1509,7 +1509,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-109-team": {
+  {
     "team_id": "2023-icpc-hz-109-team",
     "name": "圣马家沟修船工",
     "organization": "哈尔滨工程大学",
@@ -1523,7 +1523,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-110-team": {
+  {
     "team_id": "2023-icpc-hz-110-team",
     "name": "烨叶知秋",
     "organization": "哈尔滨工业大学",
@@ -1537,7 +1537,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-111-team": {
+  {
     "team_id": "2023-icpc-hz-111-team",
     "name": "都是方舟惹的祸",
     "organization": "哈尔滨工业大学",
@@ -1551,7 +1551,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-112-team": {
+  {
     "team_id": "2023-icpc-hz-112-team",
     "name": "北风与秋水",
     "organization": "哈尔滨工业大学",
@@ -1565,7 +1565,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-113-team": {
+  {
     "team_id": "2023-icpc-hz-113-team",
     "name": "博德之门",
     "organization": "哈尔滨工业大学（深圳）",
@@ -1579,7 +1579,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-114-team": {
+  {
     "team_id": "2023-icpc-hz-114-team",
     "name": "又被队友带飞了",
     "organization": "哈尔滨工业大学（深圳）",
@@ -1593,7 +1593,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-115-team": {
+  {
     "team_id": "2023-icpc-hz-115-team",
     "name": "老年旅行社",
     "organization": "哈尔滨工业大学（深圳）",
@@ -1607,7 +1607,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-116-team": {
+  {
     "team_id": "2023-icpc-hz-116-team",
     "name": "冬天的尾声",
     "organization": "哈尔滨工业大学（威海）",
@@ -1621,7 +1621,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-117-team": {
+  {
     "team_id": "2023-icpc-hz-117-team",
     "name": "唐可可后援会",
     "organization": "哈尔滨工业大学（威海）",
@@ -1635,7 +1635,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-118-team": {
+  {
     "team_id": "2023-icpc-hz-118-team",
     "name": "哈理工10队HZ",
     "organization": "哈尔滨理工大学",
@@ -1649,7 +1649,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-119-team": {
+  {
     "team_id": "2023-icpc-hz-119-team",
     "name": "哈理工05队HZ",
     "organization": "哈尔滨理工大学",
@@ -1663,7 +1663,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-120-team": {
+  {
     "team_id": "2023-icpc-hz-120-team",
     "name": "哈理工12队HZ",
     "organization": "哈尔滨理工大学",
@@ -1677,7 +1677,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-121-team": {
+  {
     "team_id": "2023-icpc-hz-121-team",
     "name": "开拓者",
     "organization": "哈尔滨信息工程学院",
@@ -1691,7 +1691,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-122-team": {
+  {
     "team_id": "2023-icpc-hz-122-team",
     "name": "海亮三队",
     "organization": "海亮高级中学",
@@ -1705,7 +1705,7 @@
     "unofficial": true,
     "girl": false
   },
-  "2023-icpc-hz-123-team": {
+  {
     "team_id": "2023-icpc-hz-123-team",
     "name": "海上星亮晶晶",
     "organization": "海亮高级中学",
@@ -1719,7 +1719,7 @@
     "unofficial": true,
     "girl": false
   },
-  "2023-icpc-hz-124-team": {
+  {
     "team_id": "2023-icpc-hz-124-team",
     "name": "海亮二队",
     "organization": "海亮高级中学",
@@ -1733,7 +1733,7 @@
     "unofficial": true,
     "girl": false
   },
-  "2023-icpc-hz-125-team": {
+  {
     "team_id": "2023-icpc-hz-125-team",
     "name": "海亮一队",
     "organization": "海亮高级中学",
@@ -1747,7 +1747,7 @@
     "unofficial": true,
     "girl": false
   },
-  "2023-icpc-hz-126-team": {
+  {
     "team_id": "2023-icpc-hz-126-team",
     "name": "死者蘇生",
     "organization": "海南大学",
@@ -1761,7 +1761,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-127-team": {
+  {
     "team_id": "2023-icpc-hz-127-team",
     "name": "玫瑰常开警告常在",
     "organization": "韩山师范学院",
@@ -1775,7 +1775,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-128-team": {
+  {
     "team_id": "2023-icpc-hz-128-team",
     "name": "扬州炒饭",
     "organization": "汉口学院",
@@ -1789,7 +1789,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-129-team": {
+  {
     "team_id": "2023-icpc-hz-129-team",
     "name": "Remakers",
     "organization": "杭州第二中学",
@@ -1803,7 +1803,7 @@
     "unofficial": true,
     "girl": false
   },
-  "2023-icpc-hz-130-team": {
+  {
     "team_id": "2023-icpc-hz-130-team",
     "name": "杭二预备队",
     "organization": "杭州第二中学",
@@ -1817,7 +1817,7 @@
     "unofficial": true,
     "girl": false
   },
-  "2023-icpc-hz-131-team": {
+  {
     "team_id": "2023-icpc-hz-131-team",
     "name": "收到",
     "organization": "杭州第二中学",
@@ -1831,7 +1831,7 @@
     "unofficial": true,
     "girl": false
   },
-  "2023-icpc-hz-132-team": {
+  {
     "team_id": "2023-icpc-hz-132-team",
     "name": "随便起一个",
     "organization": "杭州第二中学",
@@ -1845,7 +1845,7 @@
     "unofficial": true,
     "girl": false
   },
-  "2023-icpc-hz-133-team": {
+  {
     "team_id": "2023-icpc-hz-133-team",
     "name": "重生之我是吉吉国王",
     "organization": "杭州电子科技大学",
@@ -1859,7 +1859,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-134-team": {
+  {
     "team_id": "2023-icpc-hz-134-team",
     "name": "老年活动中心",
     "organization": "杭州电子科技大学",
@@ -1873,7 +1873,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-135-team": {
+  {
     "team_id": "2023-icpc-hz-135-team",
     "name": "Slayers Come",
     "organization": "杭州电子科技大学",
@@ -1887,7 +1887,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-136-team": {
+  {
     "team_id": "2023-icpc-hz-136-team",
     "name": "杏花疏影林",
     "organization": "杭州电子科技大学",
@@ -1901,7 +1901,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-137-team": {
+  {
     "team_id": "2023-icpc-hz-137-team",
     "name": "BugGPT",
     "organization": "杭州电子科技大学信息工程学院",
@@ -1915,7 +1915,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-138-team": {
+  {
     "team_id": "2023-icpc-hz-138-team",
     "name": "清蒸狮子头",
     "organization": "杭州电子科技大学信息工程学院",
@@ -1929,7 +1929,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-139-team": {
+  {
     "team_id": "2023-icpc-hz-139-team",
     "name": "五月的猫猫",
     "organization": "杭州师范大学",
@@ -1943,7 +1943,7 @@
     "unofficial": true,
     "girl": false
   },
-  "2023-icpc-hz-140-team": {
+  {
     "team_id": "2023-icpc-hz-140-team",
     "name": "你怎么知道我有5个xcpc铜牌",
     "organization": "杭州师范大学",
@@ -1957,7 +1957,7 @@
     "unofficial": true,
     "girl": false
   },
-  "2023-icpc-hz-141-team": {
+  {
     "team_id": "2023-icpc-hz-141-team",
     "name": "Mind the Gap",
     "organization": "杭州师范大学",
@@ -1971,7 +1971,7 @@
     "unofficial": true,
     "girl": false
   },
-  "2023-icpc-hz-142-team": {
+  {
     "team_id": "2023-icpc-hz-142-team",
     "name": "why not dp?",
     "organization": "杭州师范大学",
@@ -1985,7 +1985,7 @@
     "unofficial": true,
     "girl": false
   },
-  "2023-icpc-hz-143-team": {
+  {
     "team_id": "2023-icpc-hz-143-team",
     "name": "信友队4队",
     "organization": "杭州学军中学",
@@ -1999,7 +1999,7 @@
     "unofficial": true,
     "girl": false
   },
-  "2023-icpc-hz-144-team": {
+  {
     "team_id": "2023-icpc-hz-144-team",
     "name": "学军信友队3队",
     "organization": "杭州学军中学",
@@ -2013,7 +2013,7 @@
     "unofficial": true,
     "girl": false
   },
-  "2023-icpc-hz-145-team": {
+  {
     "team_id": "2023-icpc-hz-145-team",
     "name": "学军信友队1队",
     "organization": "杭州学军中学",
@@ -2027,7 +2027,7 @@
     "unofficial": true,
     "girl": false
   },
-  "2023-icpc-hz-146-team": {
+  {
     "team_id": "2023-icpc-hz-146-team",
     "name": "学军信友队2队",
     "organization": "杭州学军中学",
@@ -2041,7 +2041,7 @@
     "unofficial": true,
     "girl": false
   },
-  "2023-icpc-hz-147-team": {
+  {
     "team_id": "2023-icpc-hz-147-team",
     "name": "联盟二进制",
     "organization": "杭州育才中学",
@@ -2055,7 +2055,7 @@
     "unofficial": true,
     "girl": false
   },
-  "2023-icpc-hz-148-team": {
+  {
     "team_id": "2023-icpc-hz-148-team",
     "name": "天天做早操队",
     "organization": "合肥工业大学",
@@ -2069,7 +2069,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-149-team": {
+  {
     "team_id": "2023-icpc-hz-149-team",
     "name": "Please",
     "organization": "合肥工业大学宣城校区",
@@ -2083,7 +2083,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-150-team": {
+  {
     "team_id": "2023-icpc-hz-150-team",
     "name": "打个表吧",
     "organization": "合肥学院",
@@ -2097,7 +2097,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-151-team": {
+  {
     "team_id": "2023-icpc-hz-151-team",
     "name": "我来写你们别走",
     "organization": "河北工业大学",
@@ -2111,7 +2111,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-152-team": {
+  {
     "team_id": "2023-icpc-hz-152-team",
     "name": "键上翻花",
     "organization": "河北师范大学",
@@ -2125,7 +2125,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-153-team": {
+  {
     "team_id": "2023-icpc-hz-153-team",
     "name": "三个绿名",
     "organization": "河海大学",
@@ -2139,7 +2139,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-154-team": {
+  {
     "team_id": "2023-icpc-hz-154-team",
     "name": "零异事件",
     "organization": "河南大学",
@@ -2153,7 +2153,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-155-team": {
+  {
     "team_id": "2023-icpc-hz-155-team",
     "name": "过不了四级怎么办",
     "organization": "河南工业大学",
@@ -2167,7 +2167,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-156-team": {
+  {
     "team_id": "2023-icpc-hz-156-team",
     "name": "愿此行，终抵群星",
     "organization": "河南理工大学",
@@ -2181,7 +2181,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-157-team": {
+  {
     "team_id": "2023-icpc-hz-157-team",
     "name": "十年算竞一场空",
     "organization": "河南农业大学",
@@ -2195,7 +2195,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-158-team": {
+  {
     "team_id": "2023-icpc-hz-158-team",
     "name": "宇宙无敌暴龙战士",
     "organization": "黑龙江大学",
@@ -2209,7 +2209,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-159-team": {
+  {
     "team_id": "2023-icpc-hz-159-team",
     "name": "壮志凌云",
     "organization": "湖北第二师范学院",
@@ -2223,7 +2223,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-160-team": {
+  {
     "team_id": "2023-icpc-hz-160-team",
     "name": "长生",
     "organization": "湖北工业大学",
@@ -2237,7 +2237,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-161-team": {
+  {
     "team_id": "2023-icpc-hz-161-team",
     "name": "博学丁真",
     "organization": "湖南城市学院",
@@ -2251,7 +2251,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-162-team": {
+  {
     "team_id": "2023-icpc-hz-162-team",
     "name": "一眼铁木真，假不了一点",
     "organization": "湖南大学",
@@ -2265,7 +2265,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-163-team": {
+  {
     "team_id": "2023-icpc-hz-163-team",
     "name": "金色传说",
     "organization": "湖南大学",
@@ -2279,7 +2279,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-164-team": {
+  {
     "team_id": "2023-icpc-hz-164-team",
     "name": "厵神高手",
     "organization": "湖南科技大学",
@@ -2293,7 +2293,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-165-team": {
+  {
     "team_id": "2023-icpc-hz-165-team",
     "name": "流泪猫猫头",
     "organization": "湖南理工学院",
@@ -2307,7 +2307,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-166-team": {
+  {
     "team_id": "2023-icpc-hz-166-team",
     "name": "欢乐斗地组",
     "organization": "湖南理工学院",
@@ -2321,7 +2321,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-167-team": {
+  {
     "team_id": "2023-icpc-hz-167-team",
     "name": "杭州真的是美食荒漠吗？",
     "organization": "湖南农业大学",
@@ -2335,7 +2335,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-168-team": {
+  {
     "team_id": "2023-icpc-hz-168-team",
     "name": "不想努力了",
     "organization": "湖南师范大学",
@@ -2349,7 +2349,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-169-team": {
+  {
     "team_id": "2023-icpc-hz-169-team",
     "name": "我在理塘玩原神",
     "organization": "湖南文理学院",
@@ -2363,7 +2363,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-170-team": {
+  {
     "team_id": "2023-icpc-hz-170-team",
     "name": "取个队名这么难还能不能好好做题了",
     "organization": "湖南中医药大学",
@@ -2377,7 +2377,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-171-team": {
+  {
     "team_id": "2023-icpc-hz-171-team",
     "name": "我不知道该跟你怎么说，因为我只是一个灰名",
     "organization": "湖州师范学院",
@@ -2391,7 +2391,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-172-team": {
+  {
     "team_id": "2023-icpc-hz-172-team",
     "name": "难铜+难铜+队内唯一女队员",
     "organization": "华北理工大学",
@@ -2405,7 +2405,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-173-team": {
+  {
     "team_id": "2023-icpc-hz-173-team",
     "name": "想队名比过题还难",
     "organization": "华东理工大学",
@@ -2419,7 +2419,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-174-team": {
+  {
     "team_id": "2023-icpc-hz-174-team",
     "name": "上次拿金牌你还没断奶",
     "organization": "美登科技",
@@ -2433,7 +2433,7 @@
     "unofficial": true,
     "girl": false
   },
-  "2023-icpc-hz-175-team": {
+  {
     "team_id": "2023-icpc-hz-175-team",
     "name": "与夏之花",
     "organization": "华东师范大学",
@@ -2447,7 +2447,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-176-team": {
+  {
     "team_id": "2023-icpc-hz-176-team",
     "name": "AC进度加载中",
     "organization": "华东师范大学",
@@ -2461,7 +2461,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-177-team": {
+  {
     "team_id": "2023-icpc-hz-177-team",
     "name": "英文队名逆序队",
     "organization": "华东师范大学",
@@ -2475,7 +2475,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-178-team": {
+  {
     "team_id": "2023-icpc-hz-178-team",
     "name": "遥遥领先",
     "organization": "华东师范大学",
@@ -2489,7 +2489,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-179-team": {
+  {
     "team_id": "2023-icpc-hz-179-team",
     "name": "EssenceWFern",
     "organization": "华南理工大学",
@@ -2503,7 +2503,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-180-team": {
+  {
     "team_id": "2023-icpc-hz-180-team",
     "name": "bb84",
     "organization": "华南理工大学",
@@ -2517,7 +2517,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-181-team": {
+  {
     "team_id": "2023-icpc-hz-181-team",
     "name": "取乎其上",
     "organization": "华南理工大学",
@@ -2531,7 +2531,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-182-team": {
+  {
     "team_id": "2023-icpc-hz-182-team",
     "name": "天天原神启动不训练，icpc还想拿牌子?",
     "organization": "华南农业大学",
@@ -2545,7 +2545,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-183-team": {
+  {
     "team_id": "2023-icpc-hz-183-team",
     "name": "仙人掌套树构造AC自动机",
     "organization": "华南师范大学",
@@ -2559,7 +2559,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-184-team": {
+  {
     "team_id": "2023-icpc-hz-184-team",
     "name": "开摆队",
     "organization": "华南师范大学",
@@ -2573,7 +2573,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-185-team": {
+  {
     "team_id": "2023-icpc-hz-185-team",
     "name": "潜龙腾渊",
     "organization": "华侨大学",
@@ -2587,7 +2587,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-186-team": {
+  {
     "team_id": "2023-icpc-hz-186-team",
     "name": "华为云遥遥领先",
     "organization": "华为公司",
@@ -2601,7 +2601,7 @@
     "unofficial": true,
     "girl": false
   },
-  "2023-icpc-hz-187-team": {
+  {
     "team_id": "2023-icpc-hz-187-team",
     "name": "打铁打的",
     "organization": "华中科技大学",
@@ -2615,7 +2615,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-188-team": {
+  {
     "team_id": "2023-icpc-hz-188-team",
     "name": "想好队名再改",
     "organization": "华中科技大学",
@@ -2629,7 +2629,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-189-team": {
+  {
     "team_id": "2023-icpc-hz-189-team",
     "name": "小鲤鱼历险记",
     "organization": "华中科技大学",
@@ -2643,7 +2643,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-190-team": {
+  {
     "team_id": "2023-icpc-hz-190-team",
     "name": "原神怎么你了",
     "organization": "华中科技大学",
@@ -2657,7 +2657,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-191-team": {
+  {
     "team_id": "2023-icpc-hz-191-team",
     "name": "最后一舞",
     "organization": "华中农业大学",
@@ -2671,7 +2671,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-192-team": {
+  {
     "team_id": "2023-icpc-hz-192-team",
     "name": "梅狸猫",
     "organization": "华中师范大学",
@@ -2685,7 +2685,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-193-team": {
+  {
     "team_id": "2023-icpc-hz-193-team",
     "name": "热爱生活",
     "organization": "华中师范大学",
@@ -2699,7 +2699,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-194-team": {
+  {
     "team_id": "2023-icpc-hz-194-team",
     "name": "怀化学院1队",
     "organization": "怀化学院",
@@ -2713,7 +2713,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-195-team": {
+  {
     "team_id": "2023-icpc-hz-195-team",
     "name": "永远的难题",
     "organization": "惠州学院",
@@ -2727,7 +2727,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-196-team": {
+  {
     "team_id": "2023-icpc-hz-196-team",
     "name": "三只凇鼠",
     "organization": "吉林大学",
@@ -2741,7 +2741,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-197-team": {
+  {
     "team_id": "2023-icpc-hz-197-team",
     "name": "随便",
     "organization": "吉林大学",
@@ -2755,7 +2755,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-198-team": {
+  {
     "team_id": "2023-icpc-hz-198-team",
     "name": "烈冕号",
     "organization": "吉林大学",
@@ -2769,7 +2769,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-199-team": {
+  {
     "team_id": "2023-icpc-hz-199-team",
     "name": "猪猪队",
     "organization": "吉首大学",
@@ -2783,7 +2783,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-200-team": {
+  {
     "team_id": "2023-icpc-hz-200-team",
     "name": "罚时糕手",
     "organization": "集美大学",
@@ -2797,7 +2797,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-201-team": {
+  {
     "team_id": "2023-icpc-hz-201-team",
     "name": "我不知道",
     "organization": "集宁师范学院",
@@ -2811,7 +2811,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-202-team": {
+  {
     "team_id": "2023-icpc-hz-202-team",
     "name": "天下无人不识君",
     "organization": "济南大学",
@@ -2825,7 +2825,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-203-team": {
+  {
     "team_id": "2023-icpc-hz-203-team",
     "name": "广州市第六中学一队",
     "organization": "暨南大学",
@@ -2839,7 +2839,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-204-team": {
+  {
     "team_id": "2023-icpc-hz-204-team",
     "name": "V你50罚时",
     "organization": "暨南大学",
@@ -2853,7 +2853,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-205-team": {
+  {
     "team_id": "2023-icpc-hz-205-team",
     "name": "我有一个商单，但这里太小放不下甲方的文案",
     "organization": "嘉兴学院",
@@ -2867,7 +2867,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-206-team": {
+  {
     "team_id": "2023-icpc-hz-206-team",
     "name": "神狗之争",
     "organization": "嘉应学院",
@@ -2881,7 +2881,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-207-team": {
+  {
     "team_id": "2023-icpc-hz-207-team",
     "name": "糯叽糯叽猫猫队",
     "organization": "江南大学",
@@ -2895,7 +2895,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-208-team": {
+  {
     "team_id": "2023-icpc-hz-208-team",
     "name": "闪耀之所在",
     "organization": "江苏大学",
@@ -2909,7 +2909,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-209-team": {
+  {
     "team_id": "2023-icpc-hz-209-team",
     "name": "Jtrip",
     "organization": "江西财经大学",
@@ -2923,7 +2923,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-210-team": {
+  {
     "team_id": "2023-icpc-hz-210-team",
     "name": "从第一个WA开始",
     "organization": "江西财经大学",
@@ -2937,7 +2937,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-211-team": {
+  {
     "team_id": "2023-icpc-hz-211-team",
     "name": "重生之不用考试也有编制",
     "organization": "江西理工大学",
@@ -2951,7 +2951,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-212-team": {
+  {
     "team_id": "2023-icpc-hz-212-team",
     "name": "网瘾犯了",
     "organization": "江西农业大学",
@@ -2965,7 +2965,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-213-team": {
+  {
     "team_id": "2023-icpc-hz-213-team",
     "name": "逸一时误一时",
     "organization": "江西师范大学",
@@ -2979,7 +2979,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-214-team": {
+  {
     "team_id": "2023-icpc-hz-214-team",
     "name": "Watch A-SOUL and become Au",
     "organization": "江西师范大学",
@@ -2993,7 +2993,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-215-team": {
+  {
     "team_id": "2023-icpc-hz-215-team",
     "name": "谐和",
     "organization": "金华市丽泽中学",
@@ -3007,7 +3007,7 @@
     "unofficial": true,
     "girl": false
   },
-  "2023-icpc-hz-216-team": {
+  {
     "team_id": "2023-icpc-hz-216-team",
     "name": "喵喵喵晖",
     "organization": "金华市丽泽中学",
@@ -3021,7 +3021,7 @@
     "unofficial": true,
     "girl": false
   },
-  "2023-icpc-hz-217-team": {
+  {
     "team_id": "2023-icpc-hz-217-team",
     "name": "123",
     "organization": "昆山杜克大学",
@@ -3035,7 +3035,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-218-team": {
+  {
     "team_id": "2023-icpc-hz-218-team",
     "name": "ID Smile",
     "organization": "兰州大学",
@@ -3049,7 +3049,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-219-team": {
+  {
     "team_id": "2023-icpc-hz-219-team",
     "name": "艾克·尤里卡",
     "organization": "兰州大学",
@@ -3063,7 +3063,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-220-team": {
+  {
     "team_id": "2023-icpc-hz-220-team",
     "name": "超时重连",
     "organization": "乐山师范学院",
@@ -3077,7 +3077,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-221-team": {
+  {
     "team_id": "2023-icpc-hz-221-team",
     "name": "云里雾里",
     "organization": "辽宁大学",
@@ -3091,7 +3091,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-222-team": {
+  {
     "team_id": "2023-icpc-hz-222-team",
     "name": "未来算法研究所",
     "organization": "聊城大学",
@@ -3105,7 +3105,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-223-team": {
+  {
     "team_id": "2023-icpc-hz-223-team",
     "name": "小甜妹不想难铜",
     "organization": "龙岩学院",
@@ -3119,7 +3119,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-224-team": {
+  {
     "team_id": "2023-icpc-hz-224-team",
     "name": "星星之火 - 重生",
     "organization": "鲁东大学",
@@ -3133,7 +3133,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-225-team": {
+  {
     "team_id": "2023-icpc-hz-225-team",
     "name": "rank++の速度系ka速五厘米death",
     "organization": "闽南师范大学",
@@ -3147,7 +3147,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-226-team": {
+  {
     "team_id": "2023-icpc-hz-226-team",
     "name": "不可思议",
     "organization": "南昌大学",
@@ -3161,7 +3161,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-227-team": {
+  {
     "team_id": "2023-icpc-hz-227-team",
     "name": "ACkeeper",
     "organization": "南昌大学",
@@ -3175,7 +3175,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-228-team": {
+  {
     "team_id": "2023-icpc-hz-228-team",
     "name": "雀食蟀但是菜",
     "organization": "南昌航空大学",
@@ -3189,7 +3189,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-229-team": {
+  {
     "team_id": "2023-icpc-hz-229-team",
     "name": "参宿四",
     "organization": "南昌理工学院",
@@ -3203,7 +3203,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-230-team": {
+  {
     "team_id": "2023-icpc-hz-230-team",
     "name": "南方科技大学-赫尔辛基",
     "organization": "南方科技大学",
@@ -3217,7 +3217,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-231-team": {
+  {
     "team_id": "2023-icpc-hz-231-team",
     "name": "科科拉",
     "organization": "南方科技大学",
@@ -3231,7 +3231,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-232-team": {
+  {
     "team_id": "2023-icpc-hz-232-team",
     "name": "南方科技大学-万塔",
     "organization": "南方科技大学",
@@ -3245,7 +3245,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-233-team": {
+  {
     "team_id": "2023-icpc-hz-233-team",
     "name": "昨天刚学cpp",
     "organization": "南华大学",
@@ -3259,7 +3259,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-234-team": {
+  {
     "team_id": "2023-icpc-hz-234-team",
     "name": "南小鸟",
     "organization": "南京大学",
@@ -3273,7 +3273,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-235-team": {
+  {
     "team_id": "2023-icpc-hz-235-team",
     "name": "优质解答：我不知道",
     "organization": "南京大学",
@@ -3287,7 +3287,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-236-team": {
+  {
     "team_id": "2023-icpc-hz-236-team",
     "name": "明明是我先来的",
     "organization": "南京大学",
@@ -3301,7 +3301,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-237-team": {
+  {
     "team_id": "2023-icpc-hz-237-team",
     "name": "平流层",
     "organization": "南京大学",
@@ -3315,7 +3315,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-238-team": {
+  {
     "team_id": "2023-icpc-hz-238-team",
     "name": "像我们一样爆零就泰裤辣",
     "organization": "南京工业大学",
@@ -3329,7 +3329,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-239-team": {
+  {
     "team_id": "2023-icpc-hz-239-team",
     "name": "我的XCPC物语果然有问题",
     "organization": "南京航空航天大学",
@@ -3343,7 +3343,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-240-team": {
+  {
     "team_id": "2023-icpc-hz-240-team",
     "name": "金牌锅贴",
     "organization": "南京航空航天大学",
@@ -3357,7 +3357,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-241-team": {
+  {
     "team_id": "2023-icpc-hz-241-team",
     "name": "林克时间",
     "organization": "南京航空航天大学",
@@ -3371,7 +3371,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-242-team": {
+  {
     "team_id": "2023-icpc-hz-242-team",
     "name": "不知道什么是算法",
     "organization": "南京航空航天大学",
@@ -3385,7 +3385,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-243-team": {
+  {
     "team_id": "2023-icpc-hz-243-team",
     "name": "流满猫猫头",
     "organization": "南京理工大学",
@@ -3399,7 +3399,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-244-team": {
+  {
     "team_id": "2023-icpc-hz-244-team",
     "name": "平和猫猫头",
     "organization": "南京理工大学",
@@ -3413,7 +3413,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-245-team": {
+  {
     "team_id": "2023-icpc-hz-245-team",
     "name": "赤豹纹狸",
     "organization": "南京理工大学",
@@ -3427,7 +3427,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-246-team": {
+  {
     "team_id": "2023-icpc-hz-246-team",
     "name": "林带观光团",
     "organization": "南京林业大学",
@@ -3441,7 +3441,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-247-team": {
+  {
     "team_id": "2023-icpc-hz-247-team",
     "name": "石砖のicpc == 篮球省赛",
     "organization": "南京师范大学",
@@ -3455,7 +3455,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-248-team": {
+  {
     "team_id": "2023-icpc-hz-248-team",
     "name": "跟不上榜",
     "organization": "南京信息工程大学",
@@ -3469,7 +3469,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-249-team": {
+  {
     "team_id": "2023-icpc-hz-249-team",
     "name": "蒟蒻果冻",
     "organization": "南京信息工程大学",
@@ -3483,7 +3483,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-250-team": {
+  {
     "team_id": "2023-icpc-hz-250-team",
     "name": "梦里也会觉得AC难求",
     "organization": "南京邮电大学",
@@ -3497,7 +3497,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-251-team": {
+  {
     "team_id": "2023-icpc-hz-251-team",
     "name": "黎明彼岸",
     "organization": "南京邮电大学",
@@ -3511,7 +3511,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-252-team": {
+  {
     "team_id": "2023-icpc-hz-252-team",
     "name": "你别急，我先看看榜",
     "organization": "南京邮电大学",
@@ -3525,7 +3525,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-253-team": {
+  {
     "team_id": "2023-icpc-hz-253-team",
     "name": "苟分小队",
     "organization": "南京邮电大学",
@@ -3539,7 +3539,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-254-team": {
+  {
     "team_id": "2023-icpc-hz-254-team",
     "name": "td 启动！",
     "organization": "南京邮电大学通达学院",
@@ -3553,7 +3553,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-255-team": {
+  {
     "team_id": "2023-icpc-hz-255-team",
     "name": "又到了想队伍名的时间",
     "organization": "南开大学",
@@ -3567,7 +3567,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-256-team": {
+  {
     "team_id": "2023-icpc-hz-256-team",
     "name": "强基计划我爱你",
     "organization": "南开大学",
@@ -3581,7 +3581,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-257-team": {
+  {
     "team_id": "2023-icpc-hz-257-team",
     "name": "斌斌全球粉丝后援会",
     "organization": "南开大学",
@@ -3595,7 +3595,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-258-team": {
+  {
     "team_id": "2023-icpc-hz-258-team",
     "name": "抱歉，这没有南通",
     "organization": "南通大学",
@@ -3609,7 +3609,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-259-team": {
+  {
     "team_id": "2023-icpc-hz-259-team",
     "name": "随便吧",
     "organization": "南阳师范学院",
@@ -3623,7 +3623,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-260-team": {
+  {
     "team_id": "2023-icpc-hz-260-team",
     "name": "IMNU1",
     "organization": "内蒙古师范大学",
@@ -3637,7 +3637,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-261-team": {
+  {
     "team_id": "2023-icpc-hz-261-team",
     "name": "下水管道疏通半小时上门",
     "organization": "宁波财经学院",
@@ -3651,7 +3651,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-262-team": {
+  {
     "team_id": "2023-icpc-hz-262-team",
     "name": "Nullpo后要接Ga",
     "organization": "宁波大学",
@@ -3665,7 +3665,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-263-team": {
+  {
     "team_id": "2023-icpc-hz-263-team",
     "name": "重生之菜狗不是我",
     "organization": "宁波大学",
@@ -3679,7 +3679,7 @@
     "unofficial": true,
     "girl": false
   },
-  "2023-icpc-hz-264-team": {
+  {
     "team_id": "2023-icpc-hz-264-team",
     "name": "ACtor",
     "organization": "宁波大学",
@@ -3693,7 +3693,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-265-team": {
+  {
     "team_id": "2023-icpc-hz-265-team",
     "name": "酸 梅 汤",
     "organization": "宁波工程学院",
@@ -3707,7 +3707,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-266-team": {
+  {
     "team_id": "2023-icpc-hz-266-team",
     "name": "镇中3队",
     "organization": "宁波市镇海中学",
@@ -3721,7 +3721,7 @@
     "unofficial": true,
     "girl": false
   },
-  "2023-icpc-hz-267-team": {
+  {
     "team_id": "2023-icpc-hz-267-team",
     "name": "镇中2队",
     "organization": "宁波市镇海中学",
@@ -3735,7 +3735,7 @@
     "unofficial": true,
     "girl": false
   },
-  "2023-icpc-hz-268-team": {
+  {
     "team_id": "2023-icpc-hz-268-team",
     "name": "镇中1队",
     "organization": "宁波市镇海中学",
@@ -3749,7 +3749,7 @@
     "unofficial": true,
     "girl": false
   },
-  "2023-icpc-hz-269-team": {
+  {
     "team_id": "2023-icpc-hz-269-team",
     "name": "寻人启事:宁职王某",
     "organization": "宁波职业技术学院",
@@ -3763,7 +3763,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-270-team": {
+  {
     "team_id": "2023-icpc-hz-270-team",
     "name": "求求你给我打个星吧，我什么都愿意做",
     "organization": "牛客竞赛",
@@ -3777,7 +3777,7 @@
     "unofficial": true,
     "girl": false
   },
-  "2023-icpc-hz-271-team": {
+  {
     "team_id": "2023-icpc-hz-271-team",
     "name": "葡萄菜菜子",
     "organization": "莆田学院",
@@ -3791,7 +3791,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-272-team": {
+  {
     "team_id": "2023-icpc-hz-272-team",
     "name": "人见人爱花见花开车见车爆胎的猪猪侠男神赐予我力量吧！",
     "organization": "齐鲁工业大学",
@@ -3805,7 +3805,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-273-team": {
+  {
     "team_id": "2023-icpc-hz-273-team",
     "name": "我是一颗二叉树，又二又差又上树",
     "organization": "齐鲁工业大学",
@@ -3819,7 +3819,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-274-team": {
+  {
     "team_id": "2023-icpc-hz-274-team",
     "name": "关于我转生变成孙笑川打算竞这档事",
     "organization": "齐鲁工业大学（山东省科学院）",
@@ -3833,7 +3833,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-275-team": {
+  {
     "team_id": "2023-icpc-hz-275-team",
     "name": "三个东营人",
     "organization": "青岛大学",
@@ -3847,7 +3847,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-276-team": {
+  {
     "team_id": "2023-icpc-hz-276-team",
     "name": "斯卡布罗集市",
     "organization": "青岛科技大学",
@@ -3861,7 +3861,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-277-team": {
+  {
     "team_id": "2023-icpc-hz-277-team",
     "name": "风起微澜",
     "organization": "青岛理工大学",
@@ -3875,7 +3875,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-278-team": {
+  {
     "team_id": "2023-icpc-hz-278-team",
     "name": "在西湖湖畔看V玩原神",
     "organization": "青岛农业大学",
@@ -3889,7 +3889,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-279-team": {
+  {
     "team_id": "2023-icpc-hz-279-team",
     "name": "QDEZ214驻清办",
     "organization": "清华大学",
@@ -3903,7 +3903,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-280-team": {
+  {
     "team_id": "2023-icpc-hz-280-team",
     "name": "顶针的约克5",
     "organization": "清华大学",
@@ -3917,7 +3917,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-281-team": {
+  {
     "team_id": "2023-icpc-hz-281-team",
     "name": "循环不止，优化不息",
     "organization": "清华大学",
@@ -3931,7 +3931,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-282-team": {
+  {
     "team_id": "2023-icpc-hz-282-team",
     "name": "一路向北",
     "organization": "清华大学",
@@ -3945,7 +3945,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-283-team": {
+  {
     "team_id": "2023-icpc-hz-283-team",
     "name": "拿不到牌就给三国杀好评",
     "organization": "衢州学院",
@@ -3959,7 +3959,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-284-team": {
+  {
     "team_id": "2023-icpc-hz-284-team",
     "name": "失踪的天鹅本鹅",
     "organization": "曲阜师范大学",
@@ -3973,7 +3973,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-285-team": {
+  {
     "team_id": "2023-icpc-hz-285-team",
     "name": "梦天使",
     "organization": "山东大学",
@@ -3987,7 +3987,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-286-team": {
+  {
     "team_id": "2023-icpc-hz-286-team",
     "name": "其实，我们早就是世一大了",
     "organization": "山东大学",
@@ -4001,7 +4001,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-287-team": {
+  {
     "team_id": "2023-icpc-hz-287-team",
     "name": "玩原神玩的",
     "organization": "山东大学",
@@ -4015,7 +4015,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-288-team": {
+  {
     "team_id": "2023-icpc-hz-288-team",
     "name": "世伊鸾涧渊",
     "organization": "山东大学",
@@ -4029,7 +4029,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-289-team": {
+  {
     "team_id": "2023-icpc-hz-289-team",
     "name": "主打一个陪伴",
     "organization": "山东大学（威海）",
@@ -4043,7 +4043,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-290-team": {
+  {
     "team_id": "2023-icpc-hz-290-team",
     "name": "花开富贵队",
     "organization": "山东管理学院",
@@ -4057,7 +4057,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-291-team": {
+  {
     "team_id": "2023-icpc-hz-291-team",
     "name": "大明湖的神秘生物",
     "organization": "山东建筑大学",
@@ -4071,7 +4071,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-292-team": {
+  {
     "team_id": "2023-icpc-hz-292-team",
     "name": "亚特兰蒂斯号",
     "organization": "山东科技大学",
@@ -4085,7 +4085,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-293-team": {
+  {
     "team_id": "2023-icpc-hz-293-team",
     "name": "张鱼小丸子",
     "organization": "山东理工大学",
@@ -4099,7 +4099,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-294-team": {
+  {
     "team_id": "2023-icpc-hz-294-team",
     "name": "一小瓶果粒橙",
     "organization": "山东女子学院",
@@ -4113,7 +4113,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-295-team": {
+  {
     "team_id": "2023-icpc-hz-295-team",
     "name": "首充奖励",
     "organization": "山东师范大学",
@@ -4127,7 +4127,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-296-team": {
+  {
     "team_id": "2023-icpc-hz-296-team",
     "name": "昼夜平分时",
     "organization": "陕西科技大学",
@@ -4141,7 +4141,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-297-team": {
+  {
     "team_id": "2023-icpc-hz-297-team",
     "name": "iDLEM@STER O149",
     "organization": "上海财经大学",
@@ -4155,7 +4155,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-298-team": {
+  {
     "team_id": "2023-icpc-hz-298-team",
     "name": "离群者队",
     "organization": "上海大学",
@@ -4169,7 +4169,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-299-team": {
+  {
     "team_id": "2023-icpc-hz-299-team",
     "name": "海底小纵队",
     "organization": "上海大学",
@@ -4183,7 +4183,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-300-team": {
+  {
     "team_id": "2023-icpc-hz-300-team",
     "name": "鼠shu",
     "organization": "上海大学",
@@ -4197,7 +4197,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-301-team": {
+  {
     "team_id": "2023-icpc-hz-301-team",
     "name": "夜航星",
     "organization": "上海大学",
@@ -4211,7 +4211,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-302-team": {
+  {
     "team_id": "2023-icpc-hz-302-team",
     "name": "上海电机之星",
     "organization": "上海电机学院",
@@ -4225,7 +4225,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-303-team": {
+  {
     "team_id": "2023-icpc-hz-303-team",
     "name": "我推的难铜",
     "organization": "上海海事大学",
@@ -4239,7 +4239,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-304-team": {
+  {
     "team_id": "2023-icpc-hz-304-team",
     "name": "想想布鲁特福斯怎么做",
     "organization": "上海海洋大学",
@@ -4253,7 +4253,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-305-team": {
+  {
     "team_id": "2023-icpc-hz-305-team",
     "name": "星尘幻想",
     "organization": "上海交通大学",
@@ -4267,7 +4267,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-306-team": {
+  {
     "team_id": "2023-icpc-hz-306-team",
     "name": "涡状银河",
     "organization": "上海交通大学",
@@ -4281,7 +4281,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-307-team": {
+  {
     "team_id": "2023-icpc-hz-307-team",
     "name": "蒸蒸日上",
     "organization": "上海交通大学",
@@ -4295,7 +4295,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-308-team": {
+  {
     "team_id": "2023-icpc-hz-308-team",
     "name": "逆命",
     "organization": "上海交通大学",
@@ -4309,7 +4309,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-309-team": {
+  {
     "team_id": "2023-icpc-hz-309-team",
     "name": "以上成绩全部无效",
     "organization": "上海科技大学",
@@ -4323,7 +4323,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-310-team": {
+  {
     "team_id": "2023-icpc-hz-310-team",
     "name": "安云染街 客语佳辰",
     "organization": "上海理工大学",
@@ -4337,7 +4337,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-311-team": {
+  {
     "team_id": "2023-icpc-hz-311-team",
     "name": "我看队友打代码",
     "organization": "韶关学院",
@@ -4351,7 +4351,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-312-team": {
+  {
     "team_id": "2023-icpc-hz-312-team",
     "name": "破晓",
     "organization": "绍兴文理学院",
@@ -4365,7 +4365,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-313-team": {
+  {
     "team_id": "2023-icpc-hz-313-team",
     "name": "菜地卷狗",
     "organization": "绍兴文理学院元培学院",
@@ -4379,7 +4379,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-314-team": {
+  {
     "team_id": "2023-icpc-hz-314-team",
     "name": "明日香",
     "organization": "绍兴文理学院元培学院",
@@ -4393,7 +4393,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-315-team": {
+  {
     "team_id": "2023-icpc-hz-315-team",
     "name": "拽姐带带我",
     "organization": "深圳北理莫斯科大学",
@@ -4406,7 +4406,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-316-team": {
+  {
     "team_id": "2023-icpc-hz-316-team",
     "name": "Ave Mujica",
     "organization": "深圳大学",
@@ -4420,7 +4420,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-317-team": {
+  {
     "team_id": "2023-icpc-hz-317-team",
     "name": "SZU_NicklausWirth",
     "organization": "深圳大学",
@@ -4434,7 +4434,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-318-team": {
+  {
     "team_id": "2023-icpc-hz-318-team",
     "name": "SZU_HuiFei",
     "organization": "深圳大学",
@@ -4448,7 +4448,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-319-team": {
+  {
     "team_id": "2023-icpc-hz-319-team",
     "name": "拉莱耶波子水442",
     "organization": "深圳大学",
@@ -4462,7 +4462,7 @@
     "unofficial": true,
     "girl": false
   },
-  "2023-icpc-hz-320-team": {
+  {
     "team_id": "2023-icpc-hz-320-team",
     "name": "SZTU_小呆猫猫",
     "organization": "深圳技术大学",
@@ -4476,7 +4476,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-321-team": {
+  {
     "team_id": "2023-icpc-hz-321-team",
     "name": "别挡我的路",
     "organization": "沈阳化工大学",
@@ -4490,7 +4490,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-322-team": {
+  {
     "team_id": "2023-icpc-hz-322-team",
     "name": "fLoWerS",
     "organization": "石家庄铁道大学",
@@ -4504,7 +4504,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-323-team": {
+  {
     "team_id": "2023-icpc-hz-323-team",
     "name": "树上莫队",
     "organization": "四川大学",
@@ -4518,7 +4518,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-324-team": {
+  {
     "team_id": "2023-icpc-hz-324-team",
     "name": "雨",
     "organization": "四川大学",
@@ -4532,7 +4532,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-325-team": {
+  {
     "team_id": "2023-icpc-hz-325-team",
     "name": "铜境无敌越境伐上",
     "organization": "四川大学",
@@ -4546,7 +4546,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-326-team": {
+  {
     "team_id": "2023-icpc-hz-326-team",
     "name": "做AC梦",
     "organization": "苏州大学",
@@ -4560,7 +4560,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-327-team": {
+  {
     "team_id": "2023-icpc-hz-327-team",
     "name": "家人们早八谁懂啊",
     "organization": "苏州大学",
@@ -4574,7 +4574,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-328-team": {
+  {
     "team_id": "2023-icpc-hz-328-team",
     "name": "Blowback",
     "organization": "苏州大学",
@@ -4588,7 +4588,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-329-team": {
+  {
     "team_id": "2023-icpc-hz-329-team",
     "name": "雨霖铃",
     "organization": "苏州科技大学",
@@ -4602,7 +4602,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-330-team": {
+  {
     "team_id": "2023-icpc-hz-330-team",
     "name": "沧浪之水--为梦而战",
     "organization": "台州学院",
@@ -4616,7 +4616,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-331-team": {
+  {
     "team_id": "2023-icpc-hz-331-team",
     "name": "别垂头丧气",
     "organization": "台州学院",
@@ -4630,7 +4630,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-332-team": {
+  {
     "team_id": "2023-icpc-hz-332-team",
     "name": "AC中",
     "organization": "太原理工大学",
@@ -4644,7 +4644,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-333-team": {
+  {
     "team_id": "2023-icpc-hz-333-team",
     "name": "原神、道和篮球",
     "organization": "天津大学",
@@ -4658,7 +4658,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-334-team": {
+  {
     "team_id": "2023-icpc-hz-334-team",
     "name": "气球批发队",
     "organization": "天津大学",
@@ -4672,7 +4672,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-335-team": {
+  {
     "team_id": "2023-icpc-hz-335-team",
     "name": "铜的三次方",
     "organization": "天津大学",
@@ -4686,7 +4686,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-336-team": {
+  {
     "team_id": "2023-icpc-hz-336-team",
     "name": "100.7进尾杀，优势在我",
     "organization": "天津理工大学",
@@ -4700,7 +4700,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-337-team": {
+  {
     "team_id": "2023-icpc-hz-337-team",
     "name": "Leandent零点",
     "organization": "天元公学·杭州蕙兰未来科技城学校",
@@ -4714,7 +4714,7 @@
     "unofficial": true,
     "girl": false
   },
-  "2023-icpc-hz-338-team": {
+  {
     "team_id": "2023-icpc-hz-338-team",
     "name": "为千江月找万山日",
     "organization": "天元公学·杭州蕙兰未来科技城学校",
@@ -4728,7 +4728,7 @@
     "unofficial": true,
     "girl": false
   },
-  "2023-icpc-hz-339-team": {
+  {
     "team_id": "2023-icpc-hz-339-team",
     "name": "长日将尽",
     "organization": "同济大学",
@@ -4742,7 +4742,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-340-team": {
+  {
     "team_id": "2023-icpc-hz-340-team",
     "name": "本来挺喜欢ACM的",
     "organization": "同济大学",
@@ -4756,7 +4756,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-341-team": {
+  {
     "team_id": "2023-icpc-hz-341-team",
     "name": "WA真的是你啊",
     "organization": "同济大学",
@@ -4770,7 +4770,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-342-team": {
+  {
     "team_id": "2023-icpc-hz-342-team",
     "name": "此处无队名",
     "organization": "潍坊学院",
@@ -4784,7 +4784,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-343-team": {
+  {
     "team_id": "2023-icpc-hz-343-team",
     "name": "超有意义队",
     "organization": "温州大学",
@@ -4798,7 +4798,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-344-team": {
+  {
     "team_id": "2023-icpc-hz-344-team",
     "name": "猫娘特工队",
     "organization": "温州大学",
@@ -4812,7 +4812,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-345-team": {
+  {
     "team_id": "2023-icpc-hz-345-team",
     "name": "温大二队",
     "organization": "温州大学",
@@ -4826,7 +4826,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-346-team": {
+  {
     "team_id": "2023-icpc-hz-346-team",
     "name": "背水一战",
     "organization": "武汉大学",
@@ -4840,7 +4840,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-347-team": {
+  {
     "team_id": "2023-icpc-hz-347-team",
     "name": "revenge fire",
     "organization": "武汉大学",
@@ -4854,7 +4854,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-348-team": {
+  {
     "team_id": "2023-icpc-hz-348-team",
     "name": "单身十年换金牌",
     "organization": "武汉大学",
@@ -4868,7 +4868,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-349-team": {
+  {
     "team_id": "2023-icpc-hz-349-team",
     "name": "珊瑚宫心海",
     "organization": "武汉工程大学",
@@ -4882,7 +4882,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-350-team": {
+  {
     "team_id": "2023-icpc-hz-350-team",
     "name": "再取一年真经",
     "organization": "武汉科技大学",
@@ -4896,7 +4896,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-351-team": {
+  {
     "team_id": "2023-icpc-hz-351-team",
     "name": "！动起，神原",
     "organization": "武汉理工大学",
@@ -4910,7 +4910,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-352-team": {
+  {
     "team_id": "2023-icpc-hz-352-team",
     "name": "幻想乡旅行团",
     "organization": "武汉理工大学",
@@ -4924,7 +4924,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-353-team": {
+  {
     "team_id": "2023-icpc-hz-353-team",
     "name": "深海古代鱼",
     "organization": "武汉理工大学",
@@ -4938,7 +4938,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-354-team": {
+  {
     "team_id": "2023-icpc-hz-354-team",
     "name": "线段树维护图上DP网络流自动机",
     "organization": "武汉商学院",
@@ -4952,7 +4952,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-355-team": {
+  {
     "team_id": "2023-icpc-hz-355-team",
     "name": "恋剖分剖恋",
     "organization": "厦门大学",
@@ -4966,7 +4966,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-356-team": {
+  {
     "team_id": "2023-icpc-hz-356-team",
     "name": "点分治分点",
     "organization": "厦门大学",
@@ -4980,7 +4980,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-357-team": {
+  {
     "team_id": "2023-icpc-hz-357-team",
     "name": "asdadasd",
     "organization": "厦门大学嘉庚学院",
@@ -4994,7 +4994,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-358-team": {
+  {
     "team_id": "2023-icpc-hz-358-team",
     "name": "理工路600号",
     "organization": "厦门理工学院",
@@ -5008,7 +5008,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-359-team": {
+  {
     "team_id": "2023-icpc-hz-359-team",
     "name": "超额剩余价值",
     "organization": "西安电子科技大学",
@@ -5022,7 +5022,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-360-team": {
+  {
     "team_id": "2023-icpc-hz-360-team",
     "name": "队名是啥",
     "organization": "西安电子科技大学",
@@ -5036,7 +5036,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-361-team": {
+  {
     "team_id": "2023-icpc-hz-361-team",
     "name": "夜之向日葵",
     "organization": "西安电子科技大学",
@@ -5050,7 +5050,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-362-team": {
+  {
     "team_id": "2023-icpc-hz-362-team",
     "name": "红枣树",
     "organization": "西安电子科技大学",
@@ -5064,7 +5064,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-363-team": {
+  {
     "team_id": "2023-icpc-hz-363-team",
     "name": "一千四光年之外",
     "organization": "西安交通大学",
@@ -5078,7 +5078,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-364-team": {
+  {
     "team_id": "2023-icpc-hz-364-team",
     "name": "天狼星的心脏",
     "organization": "西安交通大学",
@@ -5092,7 +5092,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-365-team": {
+  {
     "team_id": "2023-icpc-hz-365-team",
     "name": "现在需要一个队伍名",
     "organization": "西安交通大学",
@@ -5106,7 +5106,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-366-team": {
+  {
     "team_id": "2023-icpc-hz-366-team",
     "name": "写都写了，交一发吧",
     "organization": "西安交通大学",
@@ -5120,7 +5120,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-367-team": {
+  {
     "team_id": "2023-icpc-hz-367-team",
     "name": "神秘的力量",
     "organization": "西安理工大学",
@@ -5134,7 +5134,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-368-team": {
+  {
     "team_id": "2023-icpc-hz-368-team",
     "name": "思考了很久，还是决定出国啦",
     "organization": "西安邮电大学",
@@ -5148,7 +5148,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-369-team": {
+  {
     "team_id": "2023-icpc-hz-369-team",
     "name": "打铁转生，在区域赛要拿出真本事",
     "organization": "西北大学",
@@ -5162,7 +5162,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-370-team": {
+  {
     "team_id": "2023-icpc-hz-370-team",
     "name": "亿烟丁真，鉴定为：王源剩太多导致的",
     "organization": "西北工业大学",
@@ -5176,7 +5176,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-371-team": {
+  {
     "team_id": "2023-icpc-hz-371-team",
     "name": "蒸羊羔蒸鹿尾烧花鸭烧雏鸡烧子鹅卤煮卤鸭酱鸡腊肉松花小肚晾肉香肠",
     "organization": "西北工业大学",
@@ -5190,7 +5190,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-372-team": {
+  {
     "team_id": "2023-icpc-hz-372-team",
     "name": "往生堂",
     "organization": "西北工业大学",
@@ -5204,7 +5204,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-373-team": {
+  {
     "team_id": "2023-icpc-hz-373-team",
     "name": "就在今天",
     "organization": "西北工业大学",
@@ -5218,7 +5218,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-374-team": {
+  {
     "team_id": "2023-icpc-hz-374-team",
     "name": "被抛弃的野孩子不配拿牌子",
     "organization": "西北农林科技大学",
@@ -5232,7 +5232,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-375-team": {
+  {
     "team_id": "2023-icpc-hz-375-team",
     "name": "秦汉1",
     "organization": "西藏民族大学",
@@ -5246,7 +5246,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-376-team": {
+  {
     "team_id": "2023-icpc-hz-376-team",
     "name": "西湖",
     "organization": "西湖大学",
@@ -5260,7 +5260,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-377-team": {
+  {
     "team_id": "2023-icpc-hz-377-team",
     "name": "旅行者",
     "organization": "西南财经大学",
@@ -5274,7 +5274,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-378-team": {
+  {
     "team_id": "2023-icpc-hz-378-team",
     "name": "AutoC++",
     "organization": "西南大学",
@@ -5288,7 +5288,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-379-team": {
+  {
     "team_id": "2023-icpc-hz-379-team",
     "name": "公主殿下后卫队",
     "organization": "西南交通大学",
@@ -5302,7 +5302,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-380-team": {
+  {
     "team_id": "2023-icpc-hz-380-team",
     "name": "花",
     "organization": "西南交通大学",
@@ -5316,7 +5316,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-381-team": {
+  {
     "team_id": "2023-icpc-hz-381-team",
     "name": "队名啥的问他吧",
     "organization": "西南交通大学",
@@ -5330,7 +5330,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-382-team": {
+  {
     "team_id": "2023-icpc-hz-382-team",
     "name": "能别挂我java/计基/概率论吗",
     "organization": "西南科技大学",
@@ -5344,7 +5344,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-383-team": {
+  {
     "team_id": "2023-icpc-hz-383-team",
     "name": "凭阑西望，潇潇雨歇",
     "organization": "西南科技大学",
@@ -5358,7 +5358,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-384-team": {
+  {
     "team_id": "2023-icpc-hz-384-team",
     "name": "天府大木灵",
     "organization": "西南民族大学",
@@ -5372,7 +5372,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-385-team": {
+  {
     "team_id": "2023-icpc-hz-385-team",
     "name": "上限冠军",
     "organization": "西南石油大学",
@@ -5386,7 +5386,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-386-team": {
+  {
     "team_id": "2023-icpc-hz-386-team",
     "name": "导师叫我们来打比赛",
     "organization": "香港城市大学",
@@ -5400,7 +5400,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-387-team": {
+  {
     "team_id": "2023-icpc-hz-387-team",
     "name": "KUSHT",
     "organization": "香港科技大学",
@@ -5414,7 +5414,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-388-team": {
+  {
     "team_id": "2023-icpc-hz-388-team",
     "name": "新生",
     "organization": "香港中文大学（深圳）",
@@ -5428,7 +5428,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-389-team": {
+  {
     "team_id": "2023-icpc-hz-389-team",
     "name": "稳中向好",
     "organization": "香港中文大学（深圳）",
@@ -5442,7 +5442,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-390-team": {
+  {
     "team_id": "2023-icpc-hz-390-team",
     "name": "他命题又参赛，保研原神实验室",
     "organization": "香港中文大学（新加坡）",
@@ -5456,7 +5456,7 @@
     "unofficial": true,
     "girl": false
   },
-  "2023-icpc-hz-391-team": {
+  {
     "team_id": "2023-icpc-hz-391-team",
     "name": "麥當勞5G炸雞",
     "organization": "香港中文大學",
@@ -5470,7 +5470,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-392-team": {
+  {
     "team_id": "2023-icpc-hz-392-team",
     "name": "逆命",
     "organization": "香港中文大學",
@@ -5484,7 +5484,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-393-team": {
+  {
     "team_id": "2023-icpc-hz-393-team",
     "name": "準備搖滾",
     "organization": "香港中文大學",
@@ -5498,7 +5498,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-394-team": {
+  {
     "team_id": "2023-icpc-hz-394-team",
     "name": "Dream Ntt",
     "organization": "湘潭大学",
@@ -5512,7 +5512,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-395-team": {
+  {
     "team_id": "2023-icpc-hz-395-team",
     "name": "Tomato",
     "organization": "湘潭大学",
@@ -5526,7 +5526,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-396-team": {
+  {
     "team_id": "2023-icpc-hz-396-team",
     "name": "求求了赏个铜吧",
     "organization": "新疆大学",
@@ -5540,7 +5540,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-397-team": {
+  {
     "team_id": "2023-icpc-hz-397-team",
     "name": "OI学弟带带我",
     "organization": "新疆大学",
@@ -5554,7 +5554,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-398-team": {
+  {
     "team_id": "2023-icpc-hz-398-team",
     "name": "脑洞大爆炸",
     "organization": "信阳农林学院",
@@ -5568,7 +5568,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-399-team": {
+  {
     "team_id": "2023-icpc-hz-399-team",
     "name": "在大大的ICPC里WA呀WA呀WA",
     "organization": "烟台大学",
@@ -5582,7 +5582,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-400-team": {
+  {
     "team_id": "2023-icpc-hz-400-team",
     "name": "听完彭博大神直播课来看看能拿什么牌",
     "organization": "亦赋量化",
@@ -5596,7 +5596,7 @@
     "unofficial": true,
     "girl": false
   },
-  "2023-icpc-hz-401-team": {
+  {
     "team_id": "2023-icpc-hz-401-team",
     "name": "穿越之我在太空",
     "organization": "云南大学",
@@ -5610,7 +5610,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-402-team": {
+  {
     "team_id": "2023-icpc-hz-402-team",
     "name": "可达鸭今天什么都吃",
     "organization": "长安大学",
@@ -5624,7 +5624,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-403-team": {
+  {
     "team_id": "2023-icpc-hz-403-team",
     "name": "杭州游",
     "organization": "长春理工大学",
@@ -5638,7 +5638,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-404-team": {
+  {
     "team_id": "2023-icpc-hz-404-team",
     "name": "终旅",
     "organization": "长沙理工大学",
@@ -5652,7 +5652,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-405-team": {
+  {
     "team_id": "2023-icpc-hz-405-team",
     "name": "北岭山下信步",
     "organization": "肇庆学院",
@@ -5666,7 +5666,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-406-team": {
+  {
     "team_id": "2023-icpc-hz-406-team",
     "name": "夜曲一响……",
     "organization": "浙大城市学院",
@@ -5680,7 +5680,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-407-team": {
+  {
     "team_id": "2023-icpc-hz-407-team",
     "name": "爱丽丝的茶话会",
     "organization": "浙大城市学院",
@@ -5694,7 +5694,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-408-team": {
+  {
     "team_id": "2023-icpc-hz-408-team",
     "name": "星辰雨",
     "organization": "浙大城市学院",
@@ -5708,7 +5708,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-409-team": {
+  {
     "team_id": "2023-icpc-hz-409-team",
     "name": "f1rst d4nce",
     "organization": "浙大城市学院",
@@ -5722,7 +5722,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-410-team": {
+  {
     "team_id": "2023-icpc-hz-410-team",
     "name": "快乐猫不快乐",
     "organization": "浙大宁波理工学院",
@@ -5736,7 +5736,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-411-team": {
+  {
     "team_id": "2023-icpc-hz-411-team",
     "name": "大橘.exe未响应",
     "organization": "浙大宁波理工学院",
@@ -5750,7 +5750,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-412-team": {
+  {
     "team_id": "2023-icpc-hz-412-team",
     "name": "令人愉悦XCPC，我大概一生都不会忘了你吧",
     "organization": "浙江财经大学",
@@ -5764,7 +5764,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-413-team": {
+  {
     "team_id": "2023-icpc-hz-413-team",
     "name": "寒星孤月",
     "organization": "浙江财经大学",
@@ -5778,7 +5778,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-414-team": {
+  {
     "team_id": "2023-icpc-hz-414-team",
     "name": "咱们弎plus",
     "organization": "浙江工商大学",
@@ -5792,7 +5792,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-415-team": {
+  {
     "team_id": "2023-icpc-hz-415-team",
     "name": "噫叁柒陆",
     "organization": "浙江工商大学",
@@ -5806,7 +5806,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-416-team": {
+  {
     "team_id": "2023-icpc-hz-416-team",
     "name": "宝宝巴士",
     "organization": "浙江工商大学",
@@ -5820,7 +5820,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-417-team": {
+  {
     "team_id": "2023-icpc-hz-417-team",
     "name": "树下猫猫虫",
     "organization": "浙江工商大学杭州商学院",
@@ -5834,7 +5834,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-418-team": {
+  {
     "team_id": "2023-icpc-hz-418-team",
     "name": "苦思冥想",
     "organization": "浙江工业大学",
@@ -5848,7 +5848,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-419-team": {
+  {
     "team_id": "2023-icpc-hz-419-team",
     "name": "无翼鸾冕",
     "organization": "浙江工业大学",
@@ -5862,7 +5862,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-420-team": {
+  {
     "team_id": "2023-icpc-hz-420-team",
     "name": "灵光乍现",
     "organization": "浙江工业大学",
@@ -5876,7 +5876,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-421-team": {
+  {
     "team_id": "2023-icpc-hz-421-team",
     "name": "ZJUT6",
     "organization": "浙江工业大学",
@@ -5890,7 +5890,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-422-team": {
+  {
     "team_id": "2023-icpc-hz-422-team",
     "name": "今天要干亿碗饭",
     "organization": "浙江工业大学之江学院",
@@ -5904,7 +5904,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-423-team": {
+  {
     "team_id": "2023-icpc-hz-423-team",
     "name": "东阳市老年开放大学1队",
     "organization": "浙江广厦建设职业技术大学",
@@ -5918,7 +5918,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-424-team": {
+  {
     "team_id": "2023-icpc-hz-424-team",
     "name": "机电八队",
     "organization": "浙江机电职业技术学院",
@@ -5932,7 +5932,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-425-team": {
+  {
     "team_id": "2023-icpc-hz-425-team",
     "name": "再强没有xtq",
     "organization": "浙江金华第一中学",
@@ -5946,7 +5946,7 @@
     "unofficial": true,
     "girl": false
   },
-  "2023-icpc-hz-426-team": {
+  {
     "team_id": "2023-icpc-hz-426-team",
     "name": "我文盲呀老师",
     "organization": "浙江金融职业学院",
@@ -5960,7 +5960,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-427-team": {
+  {
     "team_id": "2023-icpc-hz-427-team",
     "name": "摸到铜即是胜利✌",
     "organization": "浙江警官职业学院",
@@ -5974,7 +5974,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-428-team": {
+  {
     "team_id": "2023-icpc-hz-428-team",
     "name": "咸鱼干",
     "organization": "浙江科技学院",
@@ -5988,7 +5988,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-429-team": {
+  {
     "team_id": "2023-icpc-hz-429-team",
     "name": "djwcb",
     "organization": "浙江科技学院",
@@ -6002,7 +6002,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-430-team": {
+  {
     "team_id": "2023-icpc-hz-430-team",
     "name": "签到：从样例到罚时",
     "organization": "浙江理工大学",
@@ -6016,7 +6016,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-431-team": {
+  {
     "team_id": "2023-icpc-hz-431-team",
     "name": "小喷菇喷喷大喷菇咕咕咕",
     "organization": "浙江理工大学",
@@ -6030,7 +6030,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-432-team": {
+  {
     "team_id": "2023-icpc-hz-432-team",
     "name": "在区域赛寻求AC是否搞错了什么",
     "organization": "浙江农林大学",
@@ -6044,7 +6044,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-433-team": {
+  {
     "team_id": "2023-icpc-hz-433-team",
     "name": "夜的命名术",
     "organization": "浙江农林大学",
@@ -6058,7 +6058,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-434-team": {
+  {
     "team_id": "2023-icpc-hz-434-team",
     "name": "⑨这样吧",
     "organization": "浙江农林大学",
@@ -6072,7 +6072,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-435-team": {
+  {
     "team_id": "2023-icpc-hz-435-team",
     "name": "蟒蛇仙草咖啡馆",
     "organization": "浙江农林大学暨阳学院",
@@ -6086,7 +6086,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-436-team": {
+  {
     "team_id": "2023-icpc-hz-436-team",
     "name": "白洞、白色的明天在等着我们",
     "organization": "浙江师范大学",
@@ -6100,7 +6100,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-437-team": {
+  {
     "team_id": "2023-icpc-hz-437-team",
     "name": "羊村王中王",
     "organization": "浙江师范大学",
@@ -6114,7 +6114,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-438-team": {
+  {
     "team_id": "2023-icpc-hz-438-team",
     "name": "天上飞来一只猪",
     "organization": "浙江师范大学",
@@ -6128,7 +6128,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-439-team": {
+  {
     "team_id": "2023-icpc-hz-439-team",
     "name": "ZJNU_CodeGPT",
     "organization": "浙江师范大学",
@@ -6142,7 +6142,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-440-team": {
+  {
     "team_id": "2023-icpc-hz-440-team",
     "name": "彻夜之歌",
     "organization": "浙江万里学院",
@@ -6156,7 +6156,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-441-team": {
+  {
     "team_id": "2023-icpc-hz-441-team",
     "name": "原来你们都是原神高手",
     "organization": "浙江万里学院",
@@ -6170,7 +6170,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-442-team": {
+  {
     "team_id": "2023-icpc-hz-442-team",
     "name": "育英10086队",
     "organization": "浙江育英职业技术学院",
@@ -6184,7 +6184,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-443-team": {
+  {
     "team_id": "2023-icpc-hz-443-team",
     "name": "胖头切丁味更佳",
     "organization": "浙江中医药大学",
@@ -6198,7 +6198,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-444-team": {
+  {
     "team_id": "2023-icpc-hz-444-team",
     "name": "重生之我是原神高手",
     "organization": "浙江中医药大学",
@@ -6212,7 +6212,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-445-team": {
+  {
     "team_id": "2023-icpc-hz-445-team",
     "name": "绝体绝命",
     "organization": "郑州大学",
@@ -6226,7 +6226,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-446-team": {
+  {
     "team_id": "2023-icpc-hz-446-team",
     "name": "VP Master",
     "organization": "郑州轻工业大学",
@@ -6240,7 +6240,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-447-team": {
+  {
     "team_id": "2023-icpc-hz-447-team",
     "name": "捌玖拾",
     "organization": "郑州升达经贸管理学院",
@@ -6254,7 +6254,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-448-team": {
+  {
     "team_id": "2023-icpc-hz-448-team",
     "name": "银牌: 队长 cos maple, 原神 考研, 小丑 acm 烧烤;",
     "organization": "中北大学",
@@ -6268,7 +6268,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-449-team": {
+  {
     "team_id": "2023-icpc-hz-449-team",
     "name": "打铁两年半的练习生",
     "organization": "中国传媒大学",
@@ -6282,7 +6282,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-450-team": {
+  {
     "team_id": "2023-icpc-hz-450-team",
     "name": "不会dp",
     "organization": "中国地质大学（北京）",
@@ -6296,7 +6296,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-451-team": {
+  {
     "team_id": "2023-icpc-hz-451-team",
     "name": "AC，启动！",
     "organization": "中国地质大学（北京）",
@@ -6310,7 +6310,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-452-team": {
+  {
     "team_id": "2023-icpc-hz-452-team",
     "name": "白色基地",
     "organization": "中国地质大学（武汉）",
@@ -6324,7 +6324,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-453-team": {
+  {
     "team_id": "2023-icpc-hz-453-team",
     "name": "西游记之大错归来",
     "organization": "中国海洋大学",
@@ -6338,7 +6338,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-454-team": {
+  {
     "team_id": "2023-icpc-hz-454-team",
     "name": "TB浪子",
     "organization": "中国计量大学",
@@ -6352,7 +6352,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-455-team": {
+  {
     "team_id": "2023-icpc-hz-455-team",
     "name": "(c102)不AC就會入夜狂飆(GenShin Impart)[Chinese]",
     "organization": "中国计量大学",
@@ -6366,7 +6366,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-456-team": {
+  {
     "team_id": "2023-icpc-hz-456-team",
     "name": "燃烧你的梦",
     "organization": "中国计量大学现代科技学院",
@@ -6380,7 +6380,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-457-team": {
+  {
     "team_id": "2023-icpc-hz-457-team",
     "name": "调查兵团",
     "organization": "中国科学技术大学",
@@ -6394,7 +6394,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-458-team": {
+  {
     "team_id": "2023-icpc-hz-458-team",
     "name": "丝路市西套村代表队",
     "organization": "中国科学技术大学",
@@ -6408,7 +6408,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-459-team": {
+  {
     "team_id": "2023-icpc-hz-459-team",
     "name": "cls",
     "organization": "中国科学技术大学",
@@ -6422,7 +6422,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-460-team": {
+  {
     "team_id": "2023-icpc-hz-460-team",
     "name": "Firezox",
     "organization": "中国科学技术大学",
@@ -6436,7 +6436,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-461-team": {
+  {
     "team_id": "2023-icpc-hz-461-team",
     "name": "啥",
     "organization": "中国科学院大学",
@@ -6450,7 +6450,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-462-team": {
+  {
     "team_id": "2023-icpc-hz-462-team",
     "name": "原神，启动",
     "organization": "中国科学院大学",
@@ -6464,7 +6464,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-463-team": {
+  {
     "team_id": "2023-icpc-hz-463-team",
     "name": "十一万四千五百一十四维介质",
     "organization": "中国科学院大学",
@@ -6478,7 +6478,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-464-team": {
+  {
     "team_id": "2023-icpc-hz-464-team",
     "name": "杭州摆烂旅游团",
     "organization": "中国科学院大学",
@@ -6492,7 +6492,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-465-team": {
+  {
     "team_id": "2023-icpc-hz-465-team",
     "name": "宇宙兄弟",
     "organization": "中国矿业大学",
@@ -6506,7 +6506,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-466-team": {
+  {
     "team_id": "2023-icpc-hz-466-team",
     "name": "宇宙究极无敌龙神变身",
     "organization": "中国矿业大学（北京）",
@@ -6520,7 +6520,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-467-team": {
+  {
     "team_id": "2023-icpc-hz-467-team",
     "name": "想与写与蛙",
     "organization": "中国民航大学",
@@ -6534,7 +6534,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-468-team": {
+  {
     "team_id": "2023-icpc-hz-468-team",
     "name": "原来农专也能打ACM",
     "organization": "中国农业大学",
@@ -6548,7 +6548,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-469-team": {
+  {
     "team_id": "2023-icpc-hz-469-team",
     "name": "旋涡",
     "organization": "中国人民大学",
@@ -6562,7 +6562,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-470-team": {
+  {
     "team_id": "2023-icpc-hz-470-team",
     "name": "我当个石油工人",
     "organization": "中国石油大学（北京）",
@@ -6576,7 +6576,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-471-team": {
+  {
     "team_id": "2023-icpc-hz-471-team",
     "name": "中石大1988",
     "organization": "中国石油大学（华东）",
@@ -6590,7 +6590,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-472-team": {
+  {
     "team_id": "2023-icpc-hz-472-team",
     "name": "我吃麦当劳",
     "organization": "中南大学",
@@ -6604,7 +6604,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-473-team": {
+  {
     "team_id": "2023-icpc-hz-473-team",
     "name": "你若安好便是AC",
     "organization": "中南大学",
@@ -6618,7 +6618,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-474-team": {
+  {
     "team_id": "2023-icpc-hz-474-team",
     "name": "Ciallo_World",
     "organization": "中南大学",
@@ -6632,7 +6632,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-475-team": {
+  {
     "team_id": "2023-icpc-hz-475-team",
     "name": "温柔换不来温柔",
     "organization": "中南民族大学",
@@ -6646,7 +6646,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-476-team": {
+  {
     "team_id": "2023-icpc-hz-476-team",
     "name": "起名废物队",
     "organization": "中南民族大学",
@@ -6660,7 +6660,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-477-team": {
+  {
     "team_id": "2023-icpc-hz-477-team",
     "name": "中山大学_破晓之旅",
     "organization": "中山大学",
@@ -6674,7 +6674,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-478-team": {
+  {
     "team_id": "2023-icpc-hz-478-team",
     "name": "中山大学_testWA",
     "organization": "中山大学",
@@ -6688,7 +6688,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-479-team": {
+  {
     "team_id": "2023-icpc-hz-479-team",
     "name": "中山大学_教练我想拿金牌",
     "organization": "中山大学",
@@ -6702,7 +6702,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-480-team": {
+  {
     "team_id": "2023-icpc-hz-480-team",
     "name": "中山大学_天选打工人",
     "organization": "中山大学",
@@ -6716,7 +6716,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-481-team": {
+  {
     "team_id": "2023-icpc-hz-481-team",
     "name": "必拿下！",
     "organization": "仲恺农业工程学院",
@@ -6730,7 +6730,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-482-team": {
+  {
     "team_id": "2023-icpc-hz-482-team",
     "name": "神里绫华",
     "organization": "周口师范学院",
@@ -6744,7 +6744,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2023-icpc-hz-483-team": {
+  {
     "team_id": "2023-icpc-hz-483-team",
     "name": "孤勇者",
     "organization": "杭州师范大学附属未来科技城学校",
@@ -6757,4 +6757,4 @@
     "unofficial": true,
     "girl": false
   }
-}
+]

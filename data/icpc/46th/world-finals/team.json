@@ -1,5 +1,5 @@
-{
-  "24": {
+[
+  {
     "team_id": "24",
     "name": "Peking University",
     "organization": "",
@@ -7,7 +7,7 @@
     "unofficial": false,
     "girl": false
   },
-  "93": {
+  {
     "team_id": "93",
     "name": "Massachusetts Institute of Technology",
     "organization": "",
@@ -15,7 +15,7 @@
     "unofficial": false,
     "girl": false
   },
-  "3": {
+  {
     "team_id": "3",
     "name": "National Research University Higher School of Economics",
     "organization": "",
@@ -23,7 +23,7 @@
     "unofficial": false,
     "girl": false
   },
-  "117": {
+  {
     "team_id": "117",
     "name": "University of Oxford",
     "organization": "",
@@ -31,7 +31,7 @@
     "unofficial": false,
     "girl": false
   },
-  "8": {
+  {
     "team_id": "8",
     "name": "Moscow Institute of Physics and Technology",
     "organization": "",
@@ -39,7 +39,7 @@
     "unofficial": false,
     "girl": false
   },
-  "46": {
+  {
     "team_id": "46",
     "name": "Seoul National University",
     "organization": "",
@@ -47,7 +47,7 @@
     "unofficial": false,
     "girl": false
   },
-  "67": {
+  {
     "team_id": "67",
     "name": "Taras Shevchenko National University of Kyiv",
     "organization": "",
@@ -55,7 +55,7 @@
     "unofficial": false,
     "girl": false
   },
-  "94": {
+  {
     "team_id": "94",
     "name": "University of Wisconsin-Madison",
     "organization": "",
@@ -63,7 +63,7 @@
     "unofficial": false,
     "girl": false
   },
-  "49": {
+  {
     "team_id": "49",
     "name": "The University of Tokyo",
     "organization": "",
@@ -71,7 +71,7 @@
     "unofficial": false,
     "girl": false
   },
-  "26": {
+  {
     "team_id": "26",
     "name": "Tsinghua University",
     "organization": "",
@@ -79,7 +79,7 @@
     "unofficial": false,
     "girl": false
   },
-  "27": {
+  {
     "team_id": "27",
     "name": "Nanjing University of Posts and Telecommunications",
     "organization": "",
@@ -87,7 +87,7 @@
     "unofficial": false,
     "girl": false
   },
-  "50": {
+  {
     "team_id": "50",
     "name": "National Taiwan University",
     "organization": "",
@@ -95,7 +95,7 @@
     "unofficial": false,
     "girl": false
   },
-  "97": {
+  {
     "team_id": "97",
     "name": "Georgia Institute of Technology",
     "organization": "",
@@ -103,7 +103,7 @@
     "unofficial": false,
     "girl": false
   },
-  "34": {
+  {
     "team_id": "34",
     "name": "Nanjing University",
     "organization": "",
@@ -111,7 +111,7 @@
     "unofficial": false,
     "girl": false
   },
-  "124": {
+  {
     "team_id": "124",
     "name": "Union University - Faculty of Computer Science",
     "organization": "",
@@ -119,7 +119,7 @@
     "unofficial": false,
     "girl": false
   },
-  "6": {
+  {
     "team_id": "6",
     "name": "St. Petersburg ITMO University",
     "organization": "",
@@ -127,7 +127,7 @@
     "unofficial": false,
     "girl": false
   },
-  "28": {
+  {
     "team_id": "28",
     "name": "Beijing Institute of Technology",
     "organization": "",
@@ -135,7 +135,7 @@
     "unofficial": false,
     "girl": false
   },
-  "95": {
+  {
     "team_id": "95",
     "name": "University of Waterloo",
     "organization": "",
@@ -143,7 +143,7 @@
     "unofficial": false,
     "girl": false
   },
-  "5": {
+  {
     "team_id": "5",
     "name": "St. Petersburg Campus of Higher School of Economics",
     "organization": "",
@@ -151,7 +151,7 @@
     "unofficial": false,
     "girl": false
   },
-  "7": {
+  {
     "team_id": "7",
     "name": "Belarusian State University",
     "organization": "",
@@ -159,7 +159,7 @@
     "unofficial": false,
     "girl": false
   },
-  "10": {
+  {
     "team_id": "10",
     "name": "Yerevan State University",
     "organization": "",
@@ -167,7 +167,7 @@
     "unofficial": false,
     "girl": false
   },
-  "96": {
+  {
     "team_id": "96",
     "name": "Carnegie Mellon University",
     "organization": "",
@@ -175,7 +175,7 @@
     "unofficial": false,
     "girl": false
   },
-  "98": {
+  {
     "team_id": "98",
     "name": "University of Central Florida",
     "organization": "",
@@ -183,7 +183,7 @@
     "unofficial": false,
     "girl": false
   },
-  "48": {
+  {
     "team_id": "48",
     "name": "Soongsil University",
     "organization": "",
@@ -191,7 +191,7 @@
     "unofficial": false,
     "girl": false
   },
-  "69": {
+  {
     "team_id": "69",
     "name": "University of Wroclaw",
     "organization": "",
@@ -199,7 +199,7 @@
     "unofficial": false,
     "girl": false
   },
-  "118": {
+  {
     "team_id": "118",
     "name": "Zhejiang University",
     "organization": "",
@@ -207,7 +207,7 @@
     "unofficial": false,
     "girl": false
   },
-  "68": {
+  {
     "team_id": "68",
     "name": "Kharkiv National University of Radio Electronics",
     "organization": "",
@@ -215,7 +215,7 @@
     "unofficial": false,
     "girl": false
   },
-  "66": {
+  {
     "team_id": "66",
     "name": "Bangladesh University of Engineering and Technology",
     "organization": "",
@@ -223,7 +223,7 @@
     "unofficial": false,
     "girl": false
   },
-  "9": {
+  {
     "team_id": "9",
     "name": "Moscow State University",
     "organization": "",
@@ -231,7 +231,7 @@
     "unofficial": false,
     "girl": false
   },
-  "119": {
+  {
     "team_id": "119",
     "name": "Zhejiang Normal University",
     "organization": "",
@@ -239,7 +239,7 @@
     "unofficial": false,
     "girl": false
   },
-  "102": {
+  {
     "team_id": "102",
     "name": "Stanford University",
     "organization": "",
@@ -247,7 +247,7 @@
     "unofficial": false,
     "girl": false
   },
-  "78": {
+  {
     "team_id": "78",
     "name": "Escuela Superior De Computo Instituto Politecnico Nacional",
     "organization": "",
@@ -255,7 +255,7 @@
     "unofficial": false,
     "girl": false
   },
-  "71": {
+  {
     "team_id": "71",
     "name": "University of Warsaw",
     "organization": "",
@@ -263,7 +263,7 @@
     "unofficial": false,
     "girl": false
   },
-  "70": {
+  {
     "team_id": "70",
     "name": "Jagiellonian University in Krakow",
     "organization": "",
@@ -271,7 +271,7 @@
     "unofficial": false,
     "girl": false
   },
-  "53": {
+  {
     "team_id": "53",
     "name": "University of Dhaka",
     "organization": "",
@@ -279,7 +279,7 @@
     "unofficial": false,
     "girl": false
   },
-  "38": {
+  {
     "team_id": "38",
     "name": "Beihang University",
     "organization": "",
@@ -287,7 +287,7 @@
     "unofficial": false,
     "girl": false
   },
-  "111": {
+  {
     "team_id": "111",
     "name": "UNSW Sydney",
     "organization": "",
@@ -295,7 +295,7 @@
     "unofficial": false,
     "girl": false
   },
-  "30": {
+  {
     "team_id": "30",
     "name": "University of Electronic Science and Technology of China",
     "organization": "",
@@ -303,7 +303,7 @@
     "unofficial": false,
     "girl": false
   },
-  "4": {
+  {
     "team_id": "4",
     "name": "St. Petersburg State University",
     "organization": "",
@@ -311,7 +311,7 @@
     "unofficial": false,
     "girl": false
   },
-  "123": {
+  {
     "team_id": "123",
     "name": "Nanyang Technological University",
     "organization": "",
@@ -319,7 +319,7 @@
     "unofficial": false,
     "girl": false
   },
-  "37": {
+  {
     "team_id": "37",
     "name": "Northwestern Polytechnical University",
     "organization": "",
@@ -327,7 +327,7 @@
     "unofficial": false,
     "girl": false
   },
-  "41": {
+  {
     "team_id": "41",
     "name": "Universitas Indonesia",
     "organization": "",
@@ -335,7 +335,7 @@
     "unofficial": false,
     "girl": false
   },
-  "104": {
+  {
     "team_id": "104",
     "name": "Columbia University",
     "organization": "",
@@ -343,7 +343,7 @@
     "unofficial": false,
     "girl": false
   },
-  "75": {
+  {
     "team_id": "75",
     "name": "ETH Zürich",
     "organization": "",
@@ -351,7 +351,7 @@
     "unofficial": false,
     "girl": false
   },
-  "107": {
+  {
     "team_id": "107",
     "name": "International IT University",
     "organization": "",
@@ -359,7 +359,7 @@
     "unofficial": false,
     "girl": false
   },
-  "121": {
+  {
     "team_id": "121",
     "name": "Ecole Polytechnique",
     "organization": "",
@@ -367,7 +367,7 @@
     "unofficial": false,
     "girl": false
   },
-  "16": {
+  {
     "team_id": "16",
     "name": "Ain Shams University - Faculty of Computer and Information Sciences",
     "organization": "",
@@ -375,7 +375,7 @@
     "unofficial": false,
     "girl": false
   },
-  "108": {
+  {
     "team_id": "108",
     "name": "Nizhny Novgorod State University",
     "organization": "",
@@ -383,7 +383,7 @@
     "unofficial": false,
     "girl": false
   },
-  "47": {
+  {
     "team_id": "47",
     "name": "KAIST",
     "organization": "",
@@ -391,7 +391,7 @@
     "unofficial": false,
     "girl": false
   },
-  "120": {
+  {
     "team_id": "120",
     "name": "Harbour.Space University - Barcelona Campus",
     "organization": "",
@@ -399,7 +399,7 @@
     "unofficial": false,
     "girl": false
   },
-  "74": {
+  {
     "team_id": "74",
     "name": "École Normale Supérieure de Paris",
     "organization": "",
@@ -407,7 +407,7 @@
     "unofficial": false,
     "girl": false
   },
-  "25": {
+  {
     "team_id": "25",
     "name": "Zhongshan (Sun Yat-sen) University",
     "organization": "",
@@ -415,7 +415,7 @@
     "unofficial": false,
     "girl": false
   },
-  "103": {
+  {
     "team_id": "103",
     "name": "The University of Texas at Austin",
     "organization": "",
@@ -423,7 +423,7 @@
     "unofficial": false,
     "girl": false
   },
-  "84": {
+  {
     "team_id": "84",
     "name": "Universidad Nacional de Córdoba - FaMAF",
     "organization": "",
@@ -431,7 +431,7 @@
     "unofficial": false,
     "girl": false
   },
-  "61": {
+  {
     "team_id": "61",
     "name": "Birla Institute of Technology and Science, Pilani Campus",
     "organization": "",
@@ -439,7 +439,7 @@
     "unofficial": false,
     "girl": false
   },
-  "73": {
+  {
     "team_id": "73",
     "name": "Technische Universität München",
     "organization": "",
@@ -447,7 +447,7 @@
     "unofficial": false,
     "girl": false
   },
-  "112": {
+  {
     "team_id": "112",
     "name": "Free University of Tbilisi",
     "organization": "",
@@ -455,7 +455,7 @@
     "unofficial": false,
     "girl": false
   },
-  "52": {
+  {
     "team_id": "52",
     "name": "National Yang Ming Chiao Tung University",
     "organization": "",
@@ -463,7 +463,7 @@
     "unofficial": false,
     "girl": false
   },
-  "32": {
+  {
     "team_id": "32",
     "name": "University of Science and Technology of China",
     "organization": "",
@@ -471,7 +471,7 @@
     "unofficial": false,
     "girl": false
   },
-  "72": {
+  {
     "team_id": "72",
     "name": "University of Cambridge",
     "organization": "",
@@ -479,7 +479,7 @@
     "unofficial": false,
     "girl": false
   },
-  "33": {
+  {
     "team_id": "33",
     "name": "Shanghai Jiao Tong University",
     "organization": "",
@@ -487,7 +487,7 @@
     "unofficial": false,
     "girl": false
   },
-  "35": {
+  {
     "team_id": "35",
     "name": "Jinan University",
     "organization": "",
@@ -495,7 +495,7 @@
     "unofficial": false,
     "girl": false
   },
-  "55": {
+  {
     "team_id": "55",
     "name": "Indian Institute of Technology - Madras",
     "organization": "",
@@ -503,7 +503,7 @@
     "unofficial": false,
     "girl": false
   },
-  "109": {
+  {
     "team_id": "109",
     "name": "Astana IT University",
     "organization": "",
@@ -511,7 +511,7 @@
     "unofficial": false,
     "girl": false
   },
-  "13": {
+  {
     "team_id": "13",
     "name": "German University in Cairo",
     "organization": "",
@@ -519,7 +519,7 @@
     "unofficial": false,
     "girl": false
   },
-  "11": {
+  {
     "team_id": "11",
     "name": "Ural Federal University",
     "organization": "",
@@ -527,7 +527,7 @@
     "unofficial": false,
     "girl": false
   },
-  "14": {
+  {
     "team_id": "14",
     "name": "Arab Academy for Science,Technology and Maritime Transport - Alexandria",
     "organization": "",
@@ -535,7 +535,7 @@
     "unofficial": false,
     "girl": false
   },
-  "29": {
+  {
     "team_id": "29",
     "name": "Hangzhou Dianzi University",
     "organization": "",
@@ -543,7 +543,7 @@
     "unofficial": false,
     "girl": false
   },
-  "83": {
+  {
     "team_id": "83",
     "name": "Universidad Tecnológica Nacional - Facultad Regional Santa Fe",
     "organization": "",
@@ -551,7 +551,7 @@
     "unofficial": false,
     "girl": false
   },
-  "105": {
+  {
     "team_id": "105",
     "name": "University of Illinois at Urbana-Champaign",
     "organization": "",
@@ -559,7 +559,7 @@
     "unofficial": false,
     "girl": false
   },
-  "40": {
+  {
     "team_id": "40",
     "name": "National University of Singapore",
     "organization": "",
@@ -567,7 +567,7 @@
     "unofficial": false,
     "girl": false
   },
-  "91": {
+  {
     "team_id": "91",
     "name": "Universidade de São Paulo",
     "organization": "",
@@ -575,7 +575,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2": {
+  {
     "team_id": "2",
     "name": "University of Melbourne",
     "organization": "",
@@ -583,7 +583,7 @@
     "unofficial": false,
     "girl": false
   },
-  "99": {
+  {
     "team_id": "99",
     "name": "Rutgers University",
     "organization": "",
@@ -591,7 +591,7 @@
     "unofficial": false,
     "girl": false
   },
-  "15": {
+  {
     "team_id": "15",
     "name": "Assiut University",
     "organization": "",
@@ -599,7 +599,7 @@
     "unofficial": false,
     "girl": false
   },
-  "57": {
+  {
     "team_id": "57",
     "name": "Indian Institute of Technology (ISM), Dhanbad",
     "organization": "",
@@ -607,7 +607,7 @@
     "unofficial": false,
     "girl": false
   },
-  "31": {
+  {
     "team_id": "31",
     "name": "Tianjin University",
     "organization": "",
@@ -615,7 +615,7 @@
     "unofficial": false,
     "girl": false
   },
-  "44": {
+  {
     "team_id": "44",
     "name": "University of Engineering and Technology - VNU",
     "organization": "",
@@ -623,7 +623,7 @@
     "unofficial": false,
     "girl": false
   },
-  "45": {
+  {
     "team_id": "45",
     "name": "University of Science, VNU-HCM",
     "organization": "",
@@ -631,7 +631,7 @@
     "unofficial": false,
     "girl": false
   },
-  "110": {
+  {
     "team_id": "110",
     "name": "National University of Science and Technology \"MISiS\"",
     "organization": "",
@@ -639,7 +639,7 @@
     "unofficial": false,
     "girl": false
   },
-  "82": {
+  {
     "team_id": "82",
     "name": "Universidad de Buenos Aires - FCEN",
     "organization": "",
@@ -647,7 +647,7 @@
     "unofficial": false,
     "girl": false
   },
-  "54": {
+  {
     "team_id": "54",
     "name": "Indian Institute of Technology - Varanasi",
     "organization": "",
@@ -655,7 +655,7 @@
     "unofficial": false,
     "girl": false
   },
-  "86": {
+  {
     "team_id": "86",
     "name": "Universidad Nacional de Colombia - Bogotá",
     "organization": "",
@@ -663,7 +663,7 @@
     "unofficial": false,
     "girl": false
   },
-  "87": {
+  {
     "team_id": "87",
     "name": "Universidade Federal de Pernambuco",
     "organization": "",
@@ -671,7 +671,7 @@
     "unofficial": false,
     "girl": false
   },
-  "100": {
+  {
     "team_id": "100",
     "name": "Purdue University",
     "organization": "",
@@ -679,7 +679,7 @@
     "unofficial": false,
     "girl": false
   },
-  "36": {
+  {
     "team_id": "36",
     "name": "The Chinese University of Hong Kong, Shenzhen",
     "organization": "",
@@ -687,7 +687,7 @@
     "unofficial": false,
     "girl": false
   },
-  "22": {
+  {
     "team_id": "22",
     "name": "Al-Baath University",
     "organization": "",
@@ -695,7 +695,7 @@
     "unofficial": false,
     "girl": false
   },
-  "76": {
+  {
     "team_id": "76",
     "name": "Universidad de La Habana",
     "organization": "",
@@ -703,7 +703,7 @@
     "unofficial": false,
     "girl": false
   },
-  "51": {
+  {
     "team_id": "51",
     "name": "National Tsing Hua University",
     "organization": "",
@@ -711,7 +711,7 @@
     "unofficial": false,
     "girl": false
   },
-  "42": {
+  {
     "team_id": "42",
     "name": "Hanoi University of Science and Technology",
     "organization": "",
@@ -719,7 +719,7 @@
     "unofficial": false,
     "girl": false
   },
-  "60": {
+  {
     "team_id": "60",
     "name": "Rajshahi University of Engineering & Technology",
     "organization": "",
@@ -727,7 +727,7 @@
     "unofficial": false,
     "girl": false
   },
-  "116": {
+  {
     "team_id": "116",
     "name": "Institut Supérieur d'Informatique",
     "organization": "",
@@ -735,7 +735,7 @@
     "unofficial": false,
     "girl": false
   },
-  "12": {
+  {
     "team_id": "12",
     "name": "Innopolis University",
     "organization": "",
@@ -743,7 +743,7 @@
     "unofficial": false,
     "girl": false
   },
-  "65": {
+  {
     "team_id": "65",
     "name": "IIIT-Delhi",
     "organization": "",
@@ -751,7 +751,7 @@
     "unofficial": false,
     "girl": false
   },
-  "58": {
+  {
     "team_id": "58",
     "name": "Indian Institute of Technology - Roorkee",
     "organization": "",
@@ -759,7 +759,7 @@
     "unofficial": false,
     "girl": false
   },
-  "17": {
+  {
     "team_id": "17",
     "name": "American University of Beirut",
     "organization": "",
@@ -767,7 +767,7 @@
     "unofficial": false,
     "girl": false
   },
-  "106": {
+  {
     "team_id": "106",
     "name": "University of Alberta",
     "organization": "",
@@ -775,7 +775,7 @@
     "unofficial": false,
     "girl": false
   },
-  "101": {
+  {
     "team_id": "101",
     "name": "University of Washington",
     "organization": "",
@@ -783,7 +783,7 @@
     "unofficial": false,
     "girl": false
   },
-  "113": {
+  {
     "team_id": "113",
     "name": "ADA University",
     "organization": "",
@@ -791,7 +791,7 @@
     "unofficial": false,
     "girl": false
   },
-  "89": {
+  {
     "team_id": "89",
     "name": "Instituto de Matemática Pura e Aplicada",
     "organization": "",
@@ -799,7 +799,7 @@
     "unofficial": false,
     "girl": false
   },
-  "64": {
+  {
     "team_id": "64",
     "name": "National Institute of Technology, Trichy",
     "organization": "",
@@ -807,7 +807,7 @@
     "unofficial": false,
     "girl": false
   },
-  "62": {
+  {
     "team_id": "62",
     "name": "IIT Bhubaneswar",
     "organization": "",
@@ -815,7 +815,7 @@
     "unofficial": false,
     "girl": false
   },
-  "56": {
+  {
     "team_id": "56",
     "name": "International Institute of Information Technology - Hyderabad",
     "organization": "",
@@ -823,7 +823,7 @@
     "unofficial": false,
     "girl": false
   },
-  "114": {
+  {
     "team_id": "114",
     "name": "Damascus University",
     "organization": "",
@@ -831,7 +831,7 @@
     "unofficial": false,
     "girl": false
   },
-  "90": {
+  {
     "team_id": "90",
     "name": "Universidade de São Paulo - Campus de São Carlos",
     "organization": "",
@@ -839,7 +839,7 @@
     "unofficial": false,
     "girl": false
   },
-  "63": {
+  {
     "team_id": "63",
     "name": "Indian Institute of Technology - Patna",
     "organization": "",
@@ -847,7 +847,7 @@
     "unofficial": false,
     "girl": false
   },
-  "80": {
+  {
     "team_id": "80",
     "name": "Instituto Tecnológico Autónomo de México",
     "organization": "",
@@ -855,7 +855,7 @@
     "unofficial": false,
     "girl": false
   },
-  "23": {
+  {
     "team_id": "23",
     "name": "Jordan University of Science and Technology",
     "organization": "",
@@ -863,7 +863,7 @@
     "unofficial": false,
     "girl": false
   },
-  "85": {
+  {
     "team_id": "85",
     "name": "Universidad Simón Bolívar",
     "organization": "",
@@ -871,7 +871,7 @@
     "unofficial": false,
     "girl": false
   },
-  "79": {
+  {
     "team_id": "79",
     "name": "Universidad de Guadalajara CUCEI",
     "organization": "",
@@ -879,7 +879,7 @@
     "unofficial": false,
     "girl": false
   },
-  "77": {
+  {
     "team_id": "77",
     "name": "Universidad de las Ciencias Informáticas",
     "organization": "",
@@ -887,7 +887,7 @@
     "unofficial": false,
     "girl": false
   },
-  "92": {
+  {
     "team_id": "92",
     "name": "Universidade Federal de Campina Grande",
     "organization": "",
@@ -895,7 +895,7 @@
     "unofficial": false,
     "girl": false
   },
-  "122": {
+  {
     "team_id": "122",
     "name": "Uzhgorod National University",
     "organization": "",
@@ -903,7 +903,7 @@
     "unofficial": false,
     "girl": false
   },
-  "39": {
+  {
     "team_id": "39",
     "name": "Bina Nusantara University",
     "organization": "",
@@ -911,7 +911,7 @@
     "unofficial": false,
     "girl": false
   },
-  "18": {
+  {
     "team_id": "18",
     "name": "Al-Azhar University",
     "organization": "",
@@ -919,7 +919,7 @@
     "unofficial": false,
     "girl": false
   },
-  "81": {
+  {
     "team_id": "81",
     "name": "Universidad Autónoma de Nuevo Leon",
     "organization": "",
@@ -927,7 +927,7 @@
     "unofficial": false,
     "girl": false
   },
-  "125": {
+  {
     "team_id": "125",
     "name": "Applied Science Private University",
     "organization": "",
@@ -935,7 +935,7 @@
     "unofficial": false,
     "girl": false
   },
-  "21": {
+  {
     "team_id": "21",
     "name": "Higher Institute for Applied Sciences and Technology",
     "organization": "",
@@ -943,7 +943,7 @@
     "unofficial": false,
     "girl": false
   },
-  "43": {
+  {
     "team_id": "43",
     "name": "Ho Chi Minh City International University",
     "organization": "",
@@ -951,7 +951,7 @@
     "unofficial": false,
     "girl": false
   },
-  "19": {
+  {
     "team_id": "19",
     "name": "Cairo University - Faculty of Computers and Artificial Intelligence",
     "organization": "",
@@ -959,7 +959,7 @@
     "unofficial": false,
     "girl": false
   },
-  "115": {
+  {
     "team_id": "115",
     "name": "The British University in Egypt",
     "organization": "",
@@ -967,7 +967,7 @@
     "unofficial": false,
     "girl": false
   },
-  "20": {
+  {
     "team_id": "20",
     "name": "Tishreen University",
     "organization": "",
@@ -975,7 +975,7 @@
     "unofficial": false,
     "girl": false
   },
-  "88": {
+  {
     "team_id": "88",
     "name": "Universidade Federal do Rio de Janeiro",
     "organization": "",
@@ -983,7 +983,7 @@
     "unofficial": false,
     "girl": false
   },
-  "59": {
+  {
     "team_id": "59",
     "name": "Ghulam Ishaq Khan Institute of Engineering Sciences and Technology",
     "organization": "",
@@ -991,4 +991,4 @@
     "unofficial": false,
     "girl": false
   }
-}
+]

@@ -1,5 +1,5 @@
-{
-  "SHCPC-D401-01": {
+[
+  {
     "team_id": "SHCPC-D401-01",
     "name": "我永远喜欢Chtholly",
     "organization": "安徽理工大学",
@@ -13,7 +13,7 @@
       "unofficial"
     ]
   },
-  "SHCPC-D401-02": {
+  {
     "team_id": "SHCPC-D401-02",
     "name": "灵茶山猫猫队",
     "organization": "东北石油大学",
@@ -27,7 +27,7 @@
       "unofficial"
     ]
   },
-  "SHCPC-D401-03": {
+  {
     "team_id": "SHCPC-D401-03",
     "name": "荒",
     "organization": "东华大学",
@@ -38,7 +38,7 @@
       "official"
     ]
   },
-  "SHCPC-D401-04": {
+  {
     "team_id": "SHCPC-D401-04",
     "name": "$不可视境界线$",
     "organization": "东华大学",
@@ -52,7 +52,7 @@
       "official"
     ]
   },
-  "SHCPC-D401-05": {
+  {
     "team_id": "SHCPC-D401-05",
     "name": "TOP3.3",
     "organization": "复旦大学",
@@ -66,7 +66,7 @@
       "official"
     ]
   },
-  "SHCPC-D401-06": {
+  {
     "team_id": "SHCPC-D401-06",
     "name": "ACM是这样的",
     "organization": "东华大学",
@@ -80,7 +80,7 @@
       "official"
     ]
   },
-  "SHCPC-D401-07": {
+  {
     "team_id": "SHCPC-D401-07",
     "name": "六一六",
     "organization": "复旦大学",
@@ -94,7 +94,7 @@
       "official"
     ]
   },
-  "SHCPC-D401-08": {
+  {
     "team_id": "SHCPC-D401-08",
     "name": "Yqtranscend",
     "organization": "广东工业大学",
@@ -107,7 +107,7 @@
       "unofficial"
     ]
   },
-  "SHCPC-D401-09": {
+  {
     "team_id": "SHCPC-D401-09",
     "name": "地平线",
     "organization": "复旦大学",
@@ -118,7 +118,7 @@
       "official"
     ]
   },
-  "SHCPC-D401-10": {
+  {
     "team_id": "SHCPC-D401-10",
     "name": "梦违ACM世纪",
     "organization": "复旦大学",
@@ -132,7 +132,7 @@
       "official"
     ]
   },
-  "SHCPC-D401-11": {
+  {
     "team_id": "SHCPC-D401-11",
     "name": "蚌小队",
     "organization": "华东理工大学",
@@ -146,7 +146,7 @@
       "official"
     ]
   },
-  "SHCPC-D401-12": {
+  {
     "team_id": "SHCPC-D401-12",
     "name": "一天一节课实习远离我",
     "organization": "上海工程技术大学",
@@ -157,7 +157,7 @@
       "official"
     ]
   },
-  "SHCPC-D401-13": {
+  {
     "team_id": "SHCPC-D401-13",
     "name": "CodeCrushers",
     "organization": "东华大学",
@@ -171,7 +171,7 @@
       "official"
     ]
   },
-  "SHCPC-D401-14": {
+  {
     "team_id": "SHCPC-D401-14",
     "name": "while （true）",
     "organization": "上海大学",
@@ -185,7 +185,7 @@
       "official"
     ]
   },
-  "SHCPC-D401-15": {
+  {
     "team_id": "SHCPC-D401-15",
     "name": "枫林晚",
     "organization": "华东师范大学",
@@ -199,7 +199,7 @@
       "official"
     ]
   },
-  "SHCPC-D401-16": {
+  {
     "team_id": "SHCPC-D401-16",
     "name": "别急我还在藏东西",
     "organization": "华东理工大学",
@@ -213,7 +213,7 @@
       "official"
     ]
   },
-  "SHCPC-D401-17": {
+  {
     "team_id": "SHCPC-D401-17",
     "name": "灵茶山10086队",
     "organization": "江苏大学",
@@ -227,7 +227,7 @@
       "unofficial"
     ]
   },
-  "SHCPC-D401-18": {
+  {
     "team_id": "SHCPC-D401-18",
     "name": "国足出线了吗",
     "organization": "南京理工大学紫金学院",
@@ -241,7 +241,7 @@
       "unofficial"
     ]
   },
-  "SHCPC-D401-19": {
+  {
     "team_id": "SHCPC-D401-19",
     "name": "过了样例她就回来找我对不队",
     "organization": "上海大学",
@@ -255,7 +255,7 @@
       "official"
     ]
   },
-  "SHCPC-D401-20": {
+  {
     "team_id": "SHCPC-D401-20",
     "name": "希望能",
     "organization": "华东理工大学",
@@ -269,7 +269,7 @@
       "official"
     ]
   },
-  "SHCPC-D401-21": {
+  {
     "team_id": "SHCPC-D401-21",
     "name": "东方homo馆",
     "organization": "华东师范大学",
@@ -283,7 +283,7 @@
       "official"
     ]
   },
-  "SHCPC-D401-22": {
+  {
     "team_id": "SHCPC-D401-22",
     "name": "面试官问我ccpc是什么",
     "organization": "上海大学",
@@ -297,7 +297,7 @@
       "official"
     ]
   },
-  "SHCPC-D401-23": {
+  {
     "team_id": "SHCPC-D401-23",
     "name": "秒速1e9",
     "organization": "复旦大学",
@@ -311,7 +311,7 @@
       "official"
     ]
   },
-  "SHCPC-D401-24": {
+  {
     "team_id": "SHCPC-D401-24",
     "name": "原来的队名太难听了所以先把这个队名填上去",
     "organization": "华东理工大学",
@@ -325,7 +325,7 @@
       "official"
     ]
   },
-  "SHCPC-D401-25": {
+  {
     "team_id": "SHCPC-D401-25",
     "name": "不玩原神导致的",
     "organization": "华东师范大学",
@@ -339,7 +339,7 @@
       "official"
     ]
   },
-  "SHCPC-D401-26": {
+  {
     "team_id": "SHCPC-D401-26",
     "name": "算竞tv之柚子厨也干了想你了曼波wa吉米wa",
     "organization": "复旦大学",
@@ -353,7 +353,7 @@
       "official"
     ]
   },
-  "SHCPC-D401-27": {
+  {
     "team_id": "SHCPC-D401-27",
     "name": "永恒行旅",
     "organization": "上海理工大学",
@@ -365,7 +365,7 @@
       "official"
     ]
   },
-  "SHCPC-D401-28": {
+  {
     "team_id": "SHCPC-D401-28",
     "name": "你好",
     "organization": "同济大学",
@@ -377,7 +377,7 @@
       "official"
     ]
   },
-  "SHCPC-D401-29": {
+  {
     "team_id": "SHCPC-D401-29",
     "name": "CPP点心师",
     "organization": "东华大学",
@@ -391,7 +391,7 @@
       "official"
     ]
   },
-  "SHCPC-D401-30": {
+  {
     "team_id": "SHCPC-D401-30",
     "name": "无何有之乡",
     "organization": "复旦大学",
@@ -405,7 +405,7 @@
       "official"
     ]
   },
-  "SHCPC-D401-31": {
+  {
     "team_id": "SHCPC-D401-31",
     "name": "春日影",
     "organization": "华东师范大学",
@@ -418,7 +418,7 @@
       "official"
     ]
   },
-  "SHCPC-D401-32": {
+  {
     "team_id": "SHCPC-D401-32",
     "name": "灿星队",
     "organization": "上海大学",
@@ -431,7 +431,7 @@
       "official"
     ]
   },
-  "SHCPC-D401-33": {
+  {
     "team_id": "SHCPC-D401-33",
     "name": "河东食堂转生队",
     "organization": "华东师范大学",
@@ -445,7 +445,7 @@
       "official"
     ]
   },
-  "SHCPC-D401-34": {
+  {
     "team_id": "SHCPC-D401-34",
     "name": "太一般",
     "organization": "上海大学",
@@ -459,7 +459,7 @@
       "official"
     ]
   },
-  "SHCPC-D401-35": {
+  {
     "team_id": "SHCPC-D401-35",
     "name": "上海电机",
     "organization": "上海电机学院",
@@ -473,7 +473,7 @@
       "official"
     ]
   },
-  "SHCPC-D401-36": {
+  {
     "team_id": "SHCPC-D401-36",
     "name": "我的妹妹才不会那么可爱",
     "organization": "上海电力大学",
@@ -487,7 +487,7 @@
       "official"
     ]
   },
-  "SHCPC-D401-37": {
+  {
     "team_id": "SHCPC-D401-37",
     "name": "打算法竞赛太孤独了，所以我们要摇滚起来",
     "organization": "上海海事大学",
@@ -501,7 +501,7 @@
       "official"
     ]
   },
-  "SHCPC-D401-38": {
+  {
     "team_id": "SHCPC-D401-38",
     "name": "前面没学，中间没写，后面没看",
     "organization": "上海海洋大学",
@@ -515,7 +515,7 @@
       "official"
     ]
   },
-  "SHCPC-D401-39": {
+  {
     "team_id": "SHCPC-D401-39",
     "name": "世间的霸主",
     "organization": "同济大学",
@@ -527,7 +527,7 @@
       "official"
     ]
   },
-  "SHCPC-D401-40": {
+  {
     "team_id": "SHCPC-D401-40",
     "name": "XLin",
     "organization": "中国科学院大学",
@@ -538,7 +538,7 @@
       "unofficial"
     ]
   },
-  "SHCPC-D401-41": {
+  {
     "team_id": "SHCPC-D401-41",
     "name": "Sleepy",
     "organization": "东华大学",
@@ -552,7 +552,7 @@
       "official"
     ]
   },
-  "SHCPC-D401-42": {
+  {
     "team_id": "SHCPC-D401-42",
     "name": "以键盘的音色世界鸣响",
     "organization": "复旦大学",
@@ -566,7 +566,7 @@
       "official"
     ]
   },
-  "SHCPC-D401-43": {
+  {
     "team_id": "SHCPC-D401-43",
     "name": "例方体",
     "organization": "华东师范大学",
@@ -580,7 +580,7 @@
       "official"
     ]
   },
-  "SHCPC-D401-44": {
+  {
     "team_id": "SHCPC-D401-44",
     "name": "你说得对",
     "organization": "上海大学",
@@ -593,7 +593,7 @@
       "official"
     ]
   },
-  "SHCPC-D401-45": {
+  {
     "team_id": "SHCPC-D401-45",
     "name": "待到秋来九月八",
     "organization": "华东师范大学",
@@ -607,7 +607,7 @@
       "official"
     ]
   },
-  "SHCPC-D401-46": {
+  {
     "team_id": "SHCPC-D401-46",
     "name": "160bpm24分完全不会",
     "organization": "上海大学",
@@ -620,7 +620,7 @@
       "official"
     ]
   },
-  "SHCPC-D401-47": {
+  {
     "team_id": "SHCPC-D401-47",
     "name": "想想布鲁特福斯怎么做",
     "organization": "上海海洋大学",
@@ -634,7 +634,7 @@
       "official"
     ]
   },
-  "SHCPC-D401-48": {
+  {
     "team_id": "SHCPC-D401-48",
     "name": "若有战召必回 老ACM烧烤",
     "organization": "上海科技大学",
@@ -648,7 +648,7 @@
       "official"
     ]
   },
-  "SHCPC-D406-01": {
+  {
     "team_id": "SHCPC-D406-01",
     "name": "北宇治ACM部",
     "organization": "东华大学",
@@ -662,7 +662,7 @@
       "official"
     ]
   },
-  "SHCPC-D406-02": {
+  {
     "team_id": "SHCPC-D406-02",
     "name": "有密码",
     "organization": "复旦大学",
@@ -676,7 +676,7 @@
       "official"
     ]
   },
-  "SHCPC-D406-03": {
+  {
     "team_id": "SHCPC-D406-03",
     "name": "东方straight馆",
     "organization": "华东师范大学",
@@ -690,7 +690,7 @@
       "official"
     ]
   },
-  "SHCPC-D406-04": {
+  {
     "team_id": "SHCPC-D406-04",
     "name": "GITCODE-zhiyue666",
     "organization": "重庆邮电大学",
@@ -701,7 +701,7 @@
       "unofficial"
     ]
   },
-  "SHCPC-D406-05": {
+  {
     "team_id": "SHCPC-D406-05",
     "name": "不可视境界线Official",
     "organization": "东华大学",
@@ -715,7 +715,7 @@
       "official"
     ]
   },
-  "SHCPC-D406-06": {
+  {
     "team_id": "SHCPC-D406-06",
     "name": "三十年河东，三十年河西",
     "organization": "华东师范大学",
@@ -729,7 +729,7 @@
       "official"
     ]
   },
-  "SHCPC-D406-07": {
+  {
     "team_id": "SHCPC-D406-07",
     "name": "xy",
     "organization": "重庆邮电大学",
@@ -740,7 +740,7 @@
       "unofficial"
     ]
   },
-  "SHCPC-D406-08": {
+  {
     "team_id": "SHCPC-D406-08",
     "name": "陈晓剑舞",
     "organization": "东华大学",
@@ -754,7 +754,7 @@
       "official"
     ]
   },
-  "SHCPC-D406-09": {
+  {
     "team_id": "SHCPC-D406-09",
     "name": "谁说在实验室吃东西不队？",
     "organization": "华东师范大学",
@@ -768,7 +768,7 @@
       "official"
     ]
   },
-  "SHCPC-D406-11": {
+  {
     "team_id": "SHCPC-D406-11",
     "name": "为了拿奖金才放弃了百度之星偷鸡的机会",
     "organization": "华东师范大学",
@@ -782,7 +782,7 @@
       "official"
     ]
   },
-  "SHCPC-D406-12": {
+  {
     "team_id": "SHCPC-D406-12",
     "name": "我打ccpc？真的假的",
     "organization": "上海大学",
@@ -796,7 +796,7 @@
       "official"
     ]
   },
-  "SHCPC-D406-14": {
+  {
     "team_id": "SHCPC-D406-14",
     "name": "我们一般只会用两个字来形容这种人——土块",
     "organization": "上海电力大学",
@@ -810,7 +810,7 @@
       "official"
     ]
   },
-  "SHCPC-D406-15": {
+  {
     "team_id": "SHCPC-D406-15",
     "name": "感觉不如女大学生挑战一",
     "organization": "上海海事大学",
@@ -824,7 +824,7 @@
       "official"
     ]
   },
-  "SHCPC-D406-16": {
+  {
     "team_id": "SHCPC-D406-16",
     "name": "分红毛毛兔",
     "organization": "上海第二工业大学",
@@ -838,7 +838,7 @@
       "official"
     ]
   },
-  "SHCPC-D406-17": {
+  {
     "team_id": "SHCPC-D406-17",
     "name": "海事探险小分队",
     "organization": "上海海事大学",
@@ -852,7 +852,7 @@
       "official"
     ]
   },
-  "SHCPC-D406-18": {
+  {
     "team_id": "SHCPC-D406-18",
     "name": "WA也是A",
     "organization": "上海海洋大学",
@@ -866,7 +866,7 @@
       "official"
     ]
   },
-  "SHCPC-D406-19": {
+  {
     "team_id": "SHCPC-D406-19",
     "name": "​黑白织影 光彩绘羽",
     "organization": "上海理工大学",
@@ -880,7 +880,7 @@
       "official"
     ]
   },
-  "SHCPC-D406-21": {
+  {
     "team_id": "SHCPC-D406-21",
     "name": "帮帮我，AK先生",
     "organization": "上海理工大学",
@@ -894,7 +894,7 @@
       "official"
     ]
   },
-  "SHCPC-D406-22": {
+  {
     "team_id": "SHCPC-D406-22",
     "name": "馆毛木",
     "organization": "上海建桥学院",
@@ -908,7 +908,7 @@
       "official"
     ]
   },
-  "SHCPC-D406-24": {
+  {
     "team_id": "SHCPC-D406-24",
     "name": "Mayoiuta",
     "organization": "上海交通大学",
@@ -922,7 +922,7 @@
       "official"
     ]
   },
-  "SHCPC-D406-25": {
+  {
     "team_id": "SHCPC-D406-25",
     "name": "冰原坍缩小队",
     "organization": "上海理工大学",
@@ -936,7 +936,7 @@
       "official"
     ]
   },
-  "SHCPC-D406-27": {
+  {
     "team_id": "SHCPC-D406-27",
     "name": "YuzuSoft, 启动",
     "organization": "上海纽约大学",
@@ -950,7 +950,7 @@
       "official"
     ]
   },
-  "SHCPC-D406-28": {
+  {
     "team_id": "SHCPC-D406-28",
     "name": "重在参与",
     "organization": "上海理工大学",
@@ -964,7 +964,7 @@
       "official"
     ]
   },
-  "SHCPC-D406-30": {
+  {
     "team_id": "SHCPC-D406-30",
     "name": "MJ or LBJ",
     "organization": "上海纽约大学",
@@ -978,7 +978,7 @@
       "official"
     ]
   },
-  "SHCPC-D406-31": {
+  {
     "team_id": "SHCPC-D406-31",
     "name": "你用着二次元头像说我是二次元？",
     "organization": "上海师范大学",
@@ -992,7 +992,7 @@
       "official"
     ]
   },
-  "SHCPC-D406-32": {
+  {
     "team_id": "SHCPC-D406-32",
     "name": "SDCCPC-02",
     "organization": "上海杉达学院",
@@ -1006,7 +1006,7 @@
       "official"
     ]
   },
-  "SHCPC-D413-01": {
+  {
     "team_id": "SHCPC-D413-01",
     "name": "导师抽查我的毕设惊了",
     "organization": "东华大学",
@@ -1020,7 +1020,7 @@
       "official"
     ]
   },
-  "SHCPC-D413-02": {
+  {
     "team_id": "SHCPC-D413-02",
     "name": "夏雪冬花，麦秋亦春",
     "organization": "华东师范大学",
@@ -1034,7 +1034,7 @@
       "official"
     ]
   },
-  "SHCPC-D413-03": {
+  {
     "team_id": "SHCPC-D413-03",
     "name": "统建校三勇闯CCPC",
     "organization": "上海海事大学",
@@ -1048,7 +1048,7 @@
       "official"
     ]
   },
-  "SHCPC-D413-04": {
+  {
     "team_id": "SHCPC-D413-04",
     "name": "侠隐阁",
     "organization": "上海电力大学",
@@ -1062,7 +1062,7 @@
       "official"
     ]
   },
-  "SHCPC-D413-05": {
+  {
     "team_id": "SHCPC-D413-05",
     "name": "apl43 I love you",
     "organization": "台州学院",
@@ -1075,7 +1075,7 @@
       "unofficial"
     ]
   },
-  "SHCPC-D413-06": {
+  {
     "team_id": "SHCPC-D413-06",
     "name": "704",
     "organization": "同济大学",
@@ -1089,7 +1089,7 @@
       "official"
     ]
   },
-  "SHCPC-D413-07": {
+  {
     "team_id": "SHCPC-D413-07",
     "name": "偶哈呦前辈",
     "organization": "上海政法学院",
@@ -1103,7 +1103,7 @@
       "official"
     ]
   },
-  "SHCPC-D413-08": {
+  {
     "team_id": "SHCPC-D413-08",
     "name": "C++养老院",
     "organization": "同济大学",
@@ -1117,7 +1117,7 @@
       "official"
     ]
   },
-  "SHCPC-D413-09": {
+  {
     "team_id": "SHCPC-D413-09",
     "name": "HKNU",
     "organization": "香港浸会大学",
@@ -1130,7 +1130,7 @@
       "unofficial"
     ]
   },
-  "SHCPC-D413-12": {
+  {
     "team_id": "SHCPC-D413-12",
     "name": "灵茶山10086队",
     "organization": "浙江大学",
@@ -1143,7 +1143,7 @@
       "unofficial"
     ]
   },
-  "SHCPC-D413-13": {
+  {
     "team_id": "SHCPC-D413-13",
     "name": "大一能拿个铜吗？",
     "organization": "浙江广厦建设职业技术大学",
@@ -1156,7 +1156,7 @@
       "unofficial"
     ]
   },
-  "SHCPC-D413-14": {
+  {
     "team_id": "SHCPC-D413-14",
     "name": "Divine_Ascent",
     "organization": "同济大学",
@@ -1169,7 +1169,7 @@
       "official"
     ]
   },
-  "SHCPC-D413-15": {
+  {
     "team_id": "SHCPC-D413-15",
     "name": "都可以队",
     "organization": "上海理工大学",
@@ -1183,7 +1183,7 @@
       "official"
     ]
   },
-  "SHCPC-D413-16": {
+  {
     "team_id": "SHCPC-D413-16",
     "name": "FC：找不到差异",
     "organization": "同济大学",
@@ -1197,7 +1197,7 @@
       "official"
     ]
   },
-  "SHCPC-D413-17": {
+  {
     "team_id": "SHCPC-D413-17",
     "name": "小男娘",
     "organization": "上海纽约大学",
@@ -1211,7 +1211,7 @@
       "official"
     ]
   },
-  "SHCPC-D413-18": {
+  {
     "team_id": "SHCPC-D413-18",
     "name": "芝士就是力量",
     "organization": "上海理工大学",
@@ -1225,7 +1225,7 @@
       "official"
     ]
   },
-  "SHCPC-D413-19": {
+  {
     "team_id": "SHCPC-D413-19",
     "name": "pita保佑我全对",
     "organization": "同济大学",
@@ -1239,7 +1239,7 @@
       "official"
     ]
   },
-  "SHCPC-D413-20": {
+  {
     "team_id": "SHCPC-D413-20",
     "name": "二进制的暗影雕刻者",
     "organization": "上海理工大学",
@@ -1253,7 +1253,7 @@
       "official"
     ]
   },
-  "SHCPC-D413-21": {
+  {
     "team_id": "SHCPC-D413-21",
     "name": "txt_compare对",
     "organization": "同济大学",
@@ -1267,7 +1267,7 @@
       "official"
     ]
   },
-  "SHCPC-D413-22": {
+  {
     "team_id": "SHCPC-D413-22",
     "name": "法式双重巧克力厚塔",
     "organization": "上海理工大学",
@@ -1281,7 +1281,7 @@
       "official"
     ]
   },
-  "SHCPC-D413-23": {
+  {
     "team_id": "SHCPC-D413-23",
     "name": "啊对对队",
     "organization": "同济大学",
@@ -1295,7 +1295,7 @@
       "official"
     ]
   },
-  "SHCPC-D413-24": {
+  {
     "team_id": "SHCPC-D413-24",
     "name": "一神带两坑",
     "organization": "上海纽约大学",
@@ -1309,7 +1309,7 @@
       "official"
     ]
   },
-  "SHCPC-D413-25": {
+  {
     "team_id": "SHCPC-D413-25",
     "name": "翻斗花园胡图图带队",
     "organization": "上海理工大学",
@@ -1323,7 +1323,7 @@
       "official"
     ]
   },
-  "SHCPC-D413-26": {
+  {
     "team_id": "SHCPC-D413-26",
     "name": "本来挺喜欢ACM的",
     "organization": "同济大学",
@@ -1337,7 +1337,7 @@
       "official"
     ]
   },
-  "SHCPC-D413-27": {
+  {
     "team_id": "SHCPC-D413-27",
     "name": "煌煌威灵 照彻万川",
     "organization": "上海理工大学",
@@ -1351,7 +1351,7 @@
       "official"
     ]
   },
-  "SHCPC-D413-28": {
+  {
     "team_id": "SHCPC-D413-28",
     "name": "程序设计范式",
     "organization": "同济大学",
@@ -1365,7 +1365,7 @@
       "official"
     ]
   },
-  "SHCPC-D413-29": {
+  {
     "team_id": "SHCPC-D413-29",
     "name": "坤力无穷",
     "organization": "上海理工大学",
@@ -1379,7 +1379,7 @@
       "official"
     ]
   },
-  "SHCPC-D413-30": {
+  {
     "team_id": "SHCPC-D413-30",
     "name": "传奇机车族战士龙卷风",
     "organization": "同济大学",
@@ -1392,7 +1392,7 @@
       "official"
     ]
   },
-  "SHCPC-D413-31": {
+  {
     "team_id": "SHCPC-D413-31",
     "name": "明日方舟杂交版",
     "organization": "上海理工大学",
@@ -1406,7 +1406,7 @@
       "official"
     ]
   },
-  "SHCPC-D413-32": {
+  {
     "team_id": "SHCPC-D413-32",
     "name": "东华WA掘机",
     "organization": "东华大学",
@@ -1420,7 +1420,7 @@
       "official"
     ]
   },
-  "SHCPC-D413-33": {
+  {
     "team_id": "SHCPC-D413-33",
     "name": "有什么主意吗",
     "organization": "华东师范大学",
@@ -1434,7 +1434,7 @@
       "official"
     ]
   },
-  "SHCPC-D413-34": {
+  {
     "team_id": "SHCPC-D413-34",
     "name": "在智慧湖底wa呀wa呀wa",
     "organization": "上海海事大学",
@@ -1448,7 +1448,7 @@
       "official"
     ]
   },
-  "SHCPC-D413-35": {
+  {
     "team_id": "SHCPC-D413-35",
     "name": "你说的队",
     "organization": "上海理工大学",
@@ -1462,7 +1462,7 @@
       "official"
     ]
   },
-  "SHCPC-D413-36": {
+  {
     "team_id": "SHCPC-D413-36",
     "name": "SDCCPC-01",
     "organization": "上海杉达学院",
@@ -1476,7 +1476,7 @@
       "official"
     ]
   },
-  "SHCPC-D413-37": {
+  {
     "team_id": "SHCPC-D413-37",
     "name": "三个一星合成两星",
     "organization": "上海师范大学",
@@ -1490,7 +1490,7 @@
       "official"
     ]
   },
-  "SHCPC-D413-38": {
+  {
     "team_id": "SHCPC-D413-38",
     "name": "晨续源",
     "organization": "上海应用技术大学",
@@ -1504,7 +1504,7 @@
       "official"
     ]
   },
-  "SHCPC-D413-39": {
+  {
     "team_id": "SHCPC-D413-39",
     "name": "神",
     "organization": "上海师范大学",
@@ -1518,7 +1518,7 @@
       "official"
     ]
   },
-  "SHCPC-D413-40": {
+  {
     "team_id": "SHCPC-D413-40",
     "name": "都是意外",
     "organization": "同济大学",
@@ -1532,7 +1532,7 @@
       "official"
     ]
   },
-  "SHCPC-D413-41": {
+  {
     "team_id": "SHCPC-D413-41",
     "name": "晚上不睡，早上不起",
     "organization": "上海师范大学",
@@ -1546,7 +1546,7 @@
       "official"
     ]
   },
-  "SHCPC-D413-42": {
+  {
     "team_id": "SHCPC-D413-42",
     "name": "如潮涌至 领你归乡",
     "organization": "上海理工大学",
@@ -1560,7 +1560,7 @@
       "official"
     ]
   },
-  "SHCPC-D415-01": {
+  {
     "team_id": "SHCPC-D415-01",
     "name": "滑滑蛋",
     "organization": "东华大学",
@@ -1574,7 +1574,7 @@
       "official"
     ]
   },
-  "SHCPC-D415-02": {
+  {
     "team_id": "SHCPC-D415-02",
     "name": "这是一封离别信",
     "organization": "上海海事大学",
@@ -1588,7 +1588,7 @@
       "official"
     ]
   },
-  "SHCPC-D415-03": {
+  {
     "team_id": "SHCPC-D415-03",
     "name": "写的都队",
     "organization": "上海理工大学",
@@ -1602,7 +1602,7 @@
       "official"
     ]
   },
-  "SHCPC-D415-04": {
+  {
     "team_id": "SHCPC-D415-04",
     "name": "坐车五小时我们A题少但我们有非常长的名字",
     "organization": "上海应用技术大学",
@@ -1616,7 +1616,7 @@
       "official"
     ]
   },
-  "SHCPC-D415-05": {
+  {
     "team_id": "SHCPC-D415-05",
     "name": "嘉定耐睡王",
     "organization": "同济大学",
@@ -1630,7 +1630,7 @@
       "official"
     ]
   },
-  "SHCPC-D415-06": {
+  {
     "team_id": "SHCPC-D415-06",
     "name": "星藏点雪",
     "organization": "上海理工大学",
@@ -1644,7 +1644,7 @@
       "official"
     ]
   },
-  "SHCPC-D415-07": {
+  {
     "team_id": "SHCPC-D415-07",
     "name": "交界地坠机王",
     "organization": "同济大学",
@@ -1658,7 +1658,7 @@
       "official"
     ]
   },
-  "SHCPC-D415-08": {
+  {
     "team_id": "SHCPC-D415-08",
     "name": "星骑light",
     "organization": "上海理工大学",
@@ -1672,7 +1672,7 @@
       "official"
     ]
   },
-  "SHCPC-D415-09": {
+  {
     "team_id": "SHCPC-D415-09",
     "name": "今天吃什么",
     "organization": "同济大学",
@@ -1686,7 +1686,7 @@
       "official"
     ]
   },
-  "SHCPC-D415-10": {
+  {
     "team_id": "SHCPC-D415-10",
     "name": "今年叫什么？好问题",
     "organization": "东华大学",
@@ -1700,7 +1700,7 @@
       "official"
     ]
   },
-  "SHCPC-D415-11": {
+  {
     "team_id": "SHCPC-D415-11",
     "name": "井incloud{oisteam}",
     "organization": "同济大学",
@@ -1714,7 +1714,7 @@
       "official"
     ]
   },
-  "SHCPC-D415-12": {
+  {
     "team_id": "SHCPC-D415-12",
     "name": "你见过凌晨四点的hack吗",
     "organization": "东华大学",
@@ -1728,7 +1728,7 @@
       "official"
     ]
   },
-  "SHCPC-D415-13": {
+  {
     "team_id": "SHCPC-D415-13",
     "name": "君与构造与构造之恋",
     "organization": "同济大学",
@@ -1742,7 +1742,7 @@
       "official"
     ]
   },
-  "SHCPC-D415-14": {
+  {
     "team_id": "SHCPC-D415-14",
     "name": "失眠",
     "organization": "东华大学",
@@ -1756,7 +1756,7 @@
       "official"
     ]
   },
-  "SHCPC-D415-15": {
+  {
     "team_id": "SHCPC-D415-15",
     "name": "理塘最速传说と绝凶の猛虎纯真丁一郎",
     "organization": "同济大学",
@@ -1770,7 +1770,7 @@
       "official"
     ]
   },
-  "SHCPC-D415-16": {
+  {
     "team_id": "SHCPC-D415-16",
     "name": "石蒜咖啡厅",
     "organization": "东华大学",
@@ -1784,7 +1784,7 @@
       "official"
     ]
   },
-  "SHCPC-D415-17": {
+  {
     "team_id": "SHCPC-D415-17",
     "name": "玛卡巴卡说得对",
     "organization": "同济大学",
@@ -1798,7 +1798,7 @@
       "official"
     ]
   },
-  "SHCPC-D415-18": {
+  {
     "team_id": "SHCPC-D415-18",
     "name": "吸阳大补阵",
     "organization": "东华大学",
@@ -1812,7 +1812,7 @@
       "official"
     ]
   },
-  "SHCPC-D415-19": {
+  {
     "team_id": "SHCPC-D415-19",
     "name": "南129工科数学分析",
     "organization": "同济大学",
@@ -1826,7 +1826,7 @@
       "official"
     ]
   },
-  "SHCPC-D415-20": {
+  {
     "team_id": "SHCPC-D415-20",
     "name": "海王",
     "organization": "上海海洋大学",
@@ -1840,7 +1840,7 @@
       "official"
     ]
   },
-  "SHCPC-D415-22": {
+  {
     "team_id": "SHCPC-D415-22",
     "name": "求求你要我怎么做才肯AC",
     "organization": "上海大学",
@@ -1853,7 +1853,7 @@
       "official"
     ]
   },
-  "SHCPC-D415-23": {
+  {
     "team_id": "SHCPC-D415-23",
     "name": "找不到队名",
     "organization": "同济大学",
@@ -1867,7 +1867,7 @@
       "official"
     ]
   },
-  "SHCPC-D415-26": {
+  {
     "team_id": "SHCPC-D415-26",
     "name": "暴力出奇迹",
     "organization": "上海大学",
@@ -1880,7 +1880,7 @@
       "official"
     ]
   },
-  "SHCPC-D415-27": {
+  {
     "team_id": "SHCPC-D415-27",
     "name": "SHU08",
     "organization": "上海大学",
@@ -1894,7 +1894,7 @@
       "official"
     ]
   },
-  "SHCPC-D415-28": {
+  {
     "team_id": "SHCPC-D415-28",
     "name": "啊对对队",
     "organization": "上海大学",
@@ -1907,7 +1907,7 @@
       "official"
     ]
   },
-  "SHCPC-D503-01": {
+  {
     "team_id": "SHCPC-D503-01",
     "name": "有队名吗",
     "organization": "东华大学",
@@ -1921,7 +1921,7 @@
       "official"
     ]
   },
-  "SHCPC-D503-02": {
+  {
     "team_id": "SHCPC-D503-02",
     "name": "能跑就算队",
     "organization": "同济大学",
@@ -1935,7 +1935,7 @@
       "official"
     ]
   },
-  "SHCPC-D503-05": {
+  {
     "team_id": "SHCPC-D503-05",
     "name": "三体国家队",
     "organization": "同济大学",
@@ -1949,7 +1949,7 @@
       "official"
     ]
   },
-  "SHCPC-D503-07": {
+  {
     "team_id": "SHCPC-D503-07",
     "name": "我实在不会",
     "organization": "同济大学",
@@ -1963,7 +1963,7 @@
       "official"
     ]
   },
-  "SHCPC-D503-08": {
+  {
     "team_id": "SHCPC-D503-08",
     "name": "紫晶工作室",
     "organization": "同济大学",
@@ -1977,7 +1977,7 @@
       "official"
     ]
   },
-  "SHCPC-D503-09": {
+  {
     "team_id": "SHCPC-D503-09",
     "name": "抓马西瓜",
     "organization": "东华大学",
@@ -1991,7 +1991,7 @@
       "official"
     ]
   },
-  "SHCPC-D503-11": {
+  {
     "team_id": "SHCPC-D503-11",
     "name": "三脸懵逼队",
     "organization": "同济大学",
@@ -2005,7 +2005,7 @@
       "official"
     ]
   },
-  "SHCPC-D503-13": {
+  {
     "team_id": "SHCPC-D503-13",
     "name": "抽象派",
     "organization": "上海大学",
@@ -2018,7 +2018,7 @@
       "official"
     ]
   },
-  "SHCPC-D503-15": {
+  {
     "team_id": "SHCPC-D503-15",
     "name": "穿越时空的AC",
     "organization": "上海大学",
@@ -2031,7 +2031,7 @@
       "official"
     ]
   },
-  "SHCPC-D503-16": {
+  {
     "team_id": "SHCPC-D503-16",
     "name": "香鱼炫劳大嘴里队",
     "organization": "同济大学",
@@ -2045,7 +2045,7 @@
       "official"
     ]
   },
-  "SHCPC-D503-19": {
+  {
     "team_id": "SHCPC-D503-19",
     "name": "浅尝辄止",
     "organization": "上海大学",
@@ -2058,7 +2058,7 @@
       "official"
     ]
   },
-  "SHCPC-D503-22": {
+  {
     "team_id": "SHCPC-D503-22",
     "name": "你这个人满脑子都想着AC呢",
     "organization": "上海大学",
@@ -2071,7 +2071,7 @@
       "official"
     ]
   },
-  "SHCPC-D503-23": {
+  {
     "team_id": "SHCPC-D503-23",
     "name": "逆命",
     "organization": "上海交通大学",
@@ -2085,7 +2085,7 @@
       "unofficial"
     ]
   },
-  "SHCPC-D503-24": {
+  {
     "team_id": "SHCPC-D503-24",
     "name": "仙银",
     "organization": "同济大学",
@@ -2099,7 +2099,7 @@
       "official"
     ]
   },
-  "SHCPC-D503-26": {
+  {
     "team_id": "SHCPC-D503-26",
     "name": "星辰之音",
     "organization": "同济大学",
@@ -2113,7 +2113,7 @@
       "official"
     ]
   },
-  "SHCPC-D504-01": {
+  {
     "team_id": "SHCPC-D504-01",
     "name": "打完开派对",
     "organization": "上海应用技术大学",
@@ -2127,7 +2127,7 @@
       "official"
     ]
   },
-  "SHCPC-D504-02": {
+  {
     "team_id": "SHCPC-D504-02",
     "name": "缝纫机糕手",
     "organization": "东华大学",
@@ -2141,7 +2141,7 @@
       "official"
     ]
   },
-  "SHCPC-D504-03": {
+  {
     "team_id": "SHCPC-D504-03",
     "name": "智算火花",
     "organization": "华东师范大学",
@@ -2155,7 +2155,7 @@
       "official"
     ]
   },
-  "SHCPC-D504-04": {
+  {
     "team_id": "SHCPC-D504-04",
     "name": "小草,小花,小鸡,小兔子里,谁更会网络流?",
     "organization": "上海大学",
@@ -2168,7 +2168,7 @@
       "official"
     ]
   },
-  "SHCPC-D504-05": {
+  {
     "team_id": "SHCPC-D504-05",
     "name": "算法探索者",
     "organization": "上海电机学院",
@@ -2182,7 +2182,7 @@
       "official"
     ]
   },
-  "SHCPC-D504-06": {
+  {
     "team_id": "SHCPC-D504-06",
     "name": "6006",
     "organization": "上海工程技术大学",
@@ -2195,7 +2195,7 @@
       "official"
     ]
   },
-  "SHCPC-D504-07": {
+  {
     "team_id": "SHCPC-D504-07",
     "name": "丁真的动物朋友",
     "organization": "上海海事大学",
@@ -2208,7 +2208,7 @@
       "official"
     ]
   },
-  "SHCPC-D504-08": {
+  {
     "team_id": "SHCPC-D504-08",
     "name": "安云染街 客语佳辰",
     "organization": "上海理工大学",
@@ -2222,7 +2222,7 @@
       "official"
     ]
   },
-  "SHCPC-D504-09": {
+  {
     "team_id": "SHCPC-D504-09",
     "name": "队名还没定",
     "organization": "同济大学",
@@ -2236,7 +2236,7 @@
       "official"
     ]
   },
-  "SHCPC-D504-10": {
+  {
     "team_id": "SHCPC-D504-10",
     "name": "代码先锋",
     "organization": "上海应用技术大学",
@@ -2250,7 +2250,7 @@
       "official"
     ]
   },
-  "SHCPC-D504-11": {
+  {
     "team_id": "SHCPC-D504-11",
     "name": "翻斗花园宝宝",
     "organization": "同济大学",
@@ -2264,7 +2264,7 @@
       "official"
     ]
   },
-  "SHCPC-D504-12": {
+  {
     "team_id": "SHCPC-D504-12",
     "name": "羊毛小队",
     "organization": "上海海洋大学",
@@ -2278,7 +2278,7 @@
       "official"
     ]
   },
-  "SHCPC-D504-13": {
+  {
     "team_id": "SHCPC-D504-13",
     "name": "斧子斩铁",
     "organization": "同济大学",
@@ -2292,7 +2292,7 @@
       "official"
     ]
   },
-  "SHCPC-D504-14": {
+  {
     "team_id": "SHCPC-D504-14",
     "name": "我将点燃大海",
     "organization": "上海理工大学",
@@ -2306,7 +2306,7 @@
       "official"
     ]
   },
-  "SHCPC-D504-15": {
+  {
     "team_id": "SHCPC-D504-15",
     "name": "高程突击队",
     "organization": "同济大学",
@@ -2320,7 +2320,7 @@
       "official"
     ]
   },
-  "SHCPC-D504-16": {
+  {
     "team_id": "SHCPC-D504-16",
     "name": "乌斯斯特的咸鱼",
     "organization": "上海理工大学",
@@ -2334,7 +2334,7 @@
       "official"
     ]
   },
-  "SHCPC-D504-17": {
+  {
     "team_id": "SHCPC-D504-17",
     "name": "公费旅行社",
     "organization": "同济大学",
@@ -2348,7 +2348,7 @@
       "official"
     ]
   },
-  "SHCPC-D504-18": {
+  {
     "team_id": "SHCPC-D504-18",
     "name": "关键字",
     "organization": "东华大学",
@@ -2362,7 +2362,7 @@
       "official"
     ]
   },
-  "SHCPC-D504-19": {
+  {
     "team_id": "SHCPC-D504-19",
     "name": "汉东大学计科队",
     "organization": "同济大学",
@@ -2376,7 +2376,7 @@
       "official"
     ]
   },
-  "SHCPC-D504-20": {
+  {
     "team_id": "SHCPC-D504-20",
     "name": "无言以队",
     "organization": "上海理工大学",
@@ -2390,7 +2390,7 @@
       "official"
     ]
   },
-  "SHCPC-D504-21": {
+  {
     "team_id": "SHCPC-D504-21",
     "name": "哈兰姆，趁早停止电子通道",
     "organization": "东华大学",
@@ -2404,7 +2404,7 @@
       "official"
     ]
   },
-  "SHCPC-D504-22": {
+  {
     "team_id": "SHCPC-D504-22",
     "name": "队名不可为空",
     "organization": "上海海洋大学",
@@ -2418,7 +2418,7 @@
       "official"
     ]
   },
-  "SHCPC-D504-23": {
+  {
     "team_id": "SHCPC-D504-23",
     "name": "黄渡技术幼儿园",
     "organization": "同济大学",
@@ -2432,7 +2432,7 @@
       "official"
     ]
   },
-  "SHCPC-D504-24": {
+  {
     "team_id": "SHCPC-D504-24",
     "name": "Alice and Bob",
     "organization": "上海大学",
@@ -2445,4 +2445,4 @@
       "official"
     ]
   }
-}
+]
