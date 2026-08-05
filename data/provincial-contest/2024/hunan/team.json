@@ -1,5 +1,5 @@
-{
-  "team001": {
+[
+  {
     "team_id": "team001",
     "name": "海之霸",
     "organization": "湘潭大学",
@@ -14,7 +14,7 @@
       "official"
     ]
   },
-  "team002": {
+  {
     "team_id": "team002",
     "name": "湖南警察学院1队（ACM）",
     "organization": "湖南警察学院",
@@ -29,7 +29,7 @@
       "official"
     ]
   },
-  "team003": {
+  {
     "team_id": "team003",
     "name": "长沙学院4队（ACM）",
     "organization": "长沙学院",
@@ -44,7 +44,7 @@
       "official"
     ]
   },
-  "team004": {
+  {
     "team_id": "team004",
     "name": "张家界学院2队(ACM)",
     "organization": "吉首大学张家界学院",
@@ -59,7 +59,7 @@
       "official"
     ]
   },
-  "team005": {
+  {
     "team_id": "team005",
     "name": "湖南财政经济学院4队（ACM）",
     "organization": "湖南财政经济学院",
@@ -74,7 +74,7 @@
       "official"
     ]
   },
-  "team006": {
+  {
     "team_id": "team006",
     "name": "湖南第一师范学院3队（ACM）",
     "organization": "湖南第一师范学院",
@@ -89,7 +89,7 @@
       "official"
     ]
   },
-  "team007": {
+  {
     "team_id": "team007",
     "name": "长沙市开福区青竹湖湘一外国语学校1队",
     "organization": "长沙市开福区青竹湖湘一外国语学校",
@@ -104,7 +104,7 @@
       "unofficial"
     ]
   },
-  "team008": {
+  {
     "team_id": "team008",
     "name": "湖南师范大学1队(ACM)",
     "organization": "湖南师范大学",
@@ -119,7 +119,7 @@
       "official"
     ]
   },
-  "team009": {
+  {
     "team_id": "team009",
     "name": "湖南科技大学2队（ACM）",
     "organization": "湖南科技大学",
@@ -134,7 +134,7 @@
       "official"
     ]
   },
-  "team010": {
+  {
     "team_id": "team010",
     "name": "湖南工程学院1队（ACM）",
     "organization": "湖南工程学院",
@@ -149,7 +149,7 @@
       "official"
     ]
   },
-  "team011": {
+  {
     "team_id": "team011",
     "name": "邵阳学院2队（ACM）",
     "organization": "邵阳学院",
@@ -164,7 +164,7 @@
       "official"
     ]
   },
-  "team012": {
+  {
     "team_id": "team012",
     "name": "衡阳师范学院3队(ACM)",
     "organization": "衡阳师范学院",
@@ -179,7 +179,7 @@
       "official"
     ]
   },
-  "team013": {
+  {
     "team_id": "team013",
     "name": "湖南科技大学1队（ACM）",
     "organization": "湖南科技大学",
@@ -194,7 +194,7 @@
       "official"
     ]
   },
-  "team014": {
+  {
     "team_id": "team014",
     "name": "湖南应用技术学院3队（程序设计）",
     "organization": "湖南应用技术学院",
@@ -209,7 +209,7 @@
       "official"
     ]
   },
-  "team015": {
+  {
     "team_id": "team015",
     "name": "长郡中学3队(ACM)",
     "organization": "长沙市长郡中学",
@@ -224,7 +224,7 @@
       "unofficial"
     ]
   },
-  "team016": {
+  {
     "team_id": "team016",
     "name": "附中3队（天线宝宝）",
     "organization": "湖南师范大学附属中学",
@@ -239,7 +239,7 @@
       "unofficial"
     ]
   },
-  "team017": {
+  {
     "team_id": "team017",
     "name": "湖南人文科技学院1队（ACM）",
     "organization": "湖南人文科技学院",
@@ -254,7 +254,7 @@
       "official"
     ]
   },
-  "team018": {
+  {
     "team_id": "team018",
     "name": "邵阳学院1队（ACM）",
     "organization": "邵阳学院",
@@ -269,7 +269,7 @@
       "official"
     ]
   },
-  "team019": {
+  {
     "team_id": "team019",
     "name": "衡阳师范学院1队(ACM)",
     "organization": "衡阳师范学院",
@@ -284,7 +284,7 @@
       "official"
     ]
   },
-  "team020": {
+  {
     "team_id": "team020",
     "name": "湖南应用技术学院4队（程序设计）",
     "organization": "湖南应用技术学院",
@@ -299,7 +299,7 @@
       "official"
     ]
   },
-  "team021": {
+  {
     "team_id": "team021",
     "name": "长沙学院2队（ACM）",
     "organization": "长沙学院",
@@ -314,7 +314,7 @@
       "official"
     ]
   },
-  "team022": {
+  {
     "team_id": "team022",
     "name": "长沙医学院3队",
     "organization": "长沙医学院",
@@ -329,7 +329,7 @@
       "official"
     ]
   },
-  "team023": {
+  {
     "team_id": "team023",
     "name": "湖南科技大学潇湘学院1队（ACM）",
     "organization": "湖南科技大学潇湘学院",
@@ -344,7 +344,7 @@
       "official"
     ]
   },
-  "team024": {
+  {
     "team_id": "team024",
     "name": "怀化学院3队",
     "organization": "怀化学院",
@@ -359,7 +359,7 @@
       "official"
     ]
   },
-  "team025": {
+  {
     "team_id": "team025",
     "name": "湖南信息学院3队(ACM)",
     "organization": "湖南信息学院",
@@ -374,7 +374,7 @@
       "official"
     ]
   },
-  "team026": {
+  {
     "team_id": "team026",
     "name": "湖南工商大学2队(ACM)",
     "organization": "湖南工商大学",
@@ -389,7 +389,7 @@
       "official"
     ]
   },
-  "team027": {
+  {
     "team_id": "team027",
     "name": "附中4队（小鱼队）",
     "organization": "湖南师范大学附属中学",
@@ -404,7 +404,7 @@
       "unofficial"
     ]
   },
-  "team028": {
+  {
     "team_id": "team028",
     "name": "湖南文理学院4队（ACM）",
     "organization": "湖南文理学院",
@@ -419,7 +419,7 @@
       "official"
     ]
   },
-  "team029": {
+  {
     "team_id": "team029",
     "name": "湖南工业大学3队(ACM)",
     "organization": "湖南工业大学",
@@ -434,7 +434,7 @@
       "official"
     ]
   },
-  "team030": {
+  {
     "team_id": "team030",
     "name": "湖南人文科技学院3队（ACM）",
     "organization": "湖南人文科技学院",
@@ -449,7 +449,7 @@
       "official"
     ]
   },
-  "team031": {
+  {
     "team_id": "team031",
     "name": "湖南工业大学科技学院2队(ACM)",
     "organization": "湖南工业大学科技学院",
@@ -464,7 +464,7 @@
       "official"
     ]
   },
-  "team032": {
+  {
     "team_id": "team032",
     "name": "中南大学4队（ACM）",
     "organization": "中南大学",
@@ -479,7 +479,7 @@
       "official"
     ]
   },
-  "team033": {
+  {
     "team_id": "team033",
     "name": "湖南应用技术学院2队（程序设计）",
     "organization": "湖南应用技术学院",
@@ -494,7 +494,7 @@
       "official"
     ]
   },
-  "team034": {
+  {
     "team_id": "team034",
     "name": "湖南大学2队（ACM)",
     "organization": "湖南大学",
@@ -509,7 +509,7 @@
       "official"
     ]
   },
-  "team035": {
+  {
     "team_id": "team035",
     "name": "湖南工学院4队（ACM）",
     "organization": "湖南工学院",
@@ -524,7 +524,7 @@
       "official"
     ]
   },
-  "team036": {
+  {
     "team_id": "team036",
     "name": "湖南财政经济学院3队（ACM）",
     "organization": "湖南财政经济学院",
@@ -539,7 +539,7 @@
       "official"
     ]
   },
-  "team037": {
+  {
     "team_id": "team037",
     "name": "湖南文理学院2队 （ACM）",
     "organization": "湖南文理学院",
@@ -554,7 +554,7 @@
       "official"
     ]
   },
-  "team038": {
+  {
     "team_id": "team038",
     "name": "中南林业科技大学4队(ACM)",
     "organization": "中南林业科技大学",
@@ -569,7 +569,7 @@
       "official"
     ]
   },
-  "team039": {
+  {
     "team_id": "team039",
     "name": "湖南应用技术学院1队（程序设计）",
     "organization": "湖南应用技术学院",
@@ -584,7 +584,7 @@
       "official"
     ]
   },
-  "team040": {
+  {
     "team_id": "team040",
     "name": "南华大学一队",
     "organization": "南华大学",
@@ -599,7 +599,7 @@
       "official"
     ]
   },
-  "team041": {
+  {
     "team_id": "team041",
     "name": "长沙师范学院1队",
     "organization": "长沙师范学院",
@@ -614,7 +614,7 @@
       "official"
     ]
   },
-  "team042": {
+  {
     "team_id": "team042",
     "name": "长沙理工大学ACM3队",
     "organization": "长沙理工大学",
@@ -629,7 +629,7 @@
       "official"
     ]
   },
-  "team043": {
+  {
     "team_id": "team043",
     "name": "吉首大学2队(ACM程序设计)",
     "organization": "吉首大学",
@@ -644,7 +644,7 @@
       "official"
     ]
   },
-  "team044": {
+  {
     "team_id": "team044",
     "name": "湖南农业大学2队",
     "organization": "湖南农业大学",
@@ -659,7 +659,7 @@
       "official"
     ]
   },
-  "team045": {
+  {
     "team_id": "team045",
     "name": "湖南文理学院1队（ACM）",
     "organization": "湖南文理学院",
@@ -674,7 +674,7 @@
       "official"
     ]
   },
-  "team046": {
+  {
     "team_id": "team046",
     "name": "南华大学三队",
     "organization": "南华大学",
@@ -689,7 +689,7 @@
       "official"
     ]
   },
-  "team047": {
+  {
     "team_id": "team047",
     "name": "长郡中学1队(ACM)",
     "organization": "长沙市长郡中学",
@@ -704,7 +704,7 @@
       "unofficial"
     ]
   },
-  "team048": {
+  {
     "team_id": "team048",
     "name": "湖南城市学院3队（ACM）",
     "organization": "湖南城市学院",
@@ -719,7 +719,7 @@
       "official"
     ]
   },
-  "team049": {
+  {
     "team_id": "team049",
     "name": "湖南第一师范学院1队（ACM）",
     "organization": "湖南第一师范学院",
@@ -734,7 +734,7 @@
       "official"
     ]
   },
-  "team050": {
+  {
     "team_id": "team050",
     "name": "长沙学院1队（ACM）",
     "organization": "长沙学院",
@@ -749,7 +749,7 @@
       "official"
     ]
   },
-  "team051": {
+  {
     "team_id": "team051",
     "name": "湖南女子学院1队（ACM）",
     "organization": "湖南女子学院",
@@ -764,7 +764,7 @@
       "official"
     ]
   },
-  "team052": {
+  {
     "team_id": "team052",
     "name": "长沙学院3队（ACM）",
     "organization": "长沙学院",
@@ -779,7 +779,7 @@
       "official"
     ]
   },
-  "team053": {
+  {
     "team_id": "team053",
     "name": "长沙医学院1队",
     "organization": "长沙医学院",
@@ -794,7 +794,7 @@
       "official"
     ]
   },
-  "team054": {
+  {
     "team_id": "team054",
     "name": "湖南财政经济学院2队（ACM）",
     "organization": "湖南财政经济学院",
@@ -809,7 +809,7 @@
       "official"
     ]
   },
-  "team055": {
+  {
     "team_id": "team055",
     "name": "长沙市一中双语实验学校",
     "organization": "长沙市一中双语实验学校",
@@ -824,7 +824,7 @@
       "unofficial"
     ]
   },
-  "team056": {
+  {
     "team_id": "team056",
     "name": "中南大学1队（ACM）",
     "organization": "中南大学",
@@ -839,7 +839,7 @@
       "official"
     ]
   },
-  "team057": {
+  {
     "team_id": "team057",
     "name": "湖南信息学院1队(ACM)",
     "organization": "湖南信息学院",
@@ -854,7 +854,7 @@
       "official"
     ]
   },
-  "team058": {
+  {
     "team_id": "team058",
     "name": "夜曲",
     "organization": "湘潭大学",
@@ -869,7 +869,7 @@
       "official"
     ]
   },
-  "team059": {
+  {
     "team_id": "team059",
     "name": "湖南城市学院1队（ACM）",
     "organization": "湖南城市学院",
@@ -884,7 +884,7 @@
       "official"
     ]
   },
-  "team060": {
+  {
     "team_id": "team060",
     "name": "湖南工商大学3队(ACM)",
     "organization": "湖南工商大学",
@@ -899,7 +899,7 @@
       "official"
     ]
   },
-  "team061": {
+  {
     "team_id": "team061",
     "name": "湖南理工学院4队(ACM)",
     "organization": "湖南理工学院",
@@ -914,7 +914,7 @@
       "official"
     ]
   },
-  "team062": {
+  {
     "team_id": "team062",
     "name": "湘南学院2队（ACM）",
     "organization": "湘南学院",
@@ -929,7 +929,7 @@
       "official"
     ]
   },
-  "team063": {
+  {
     "team_id": "team063",
     "name": "湖南农业大学4队",
     "organization": "湖南农业大学",
@@ -944,7 +944,7 @@
       "official"
     ]
   },
-  "team064": {
+  {
     "team_id": "team064",
     "name": "湖南警察学院4队（ACM）",
     "organization": "湖南警察学院",
@@ -959,7 +959,7 @@
       "official"
     ]
   },
-  "team065": {
+  {
     "team_id": "team065",
     "name": "湖南理工学院南湖学院1队（ACM）",
     "organization": "湖南理工学院南湖学院",
@@ -974,7 +974,7 @@
       "official"
     ]
   },
-  "team066": {
+  {
     "team_id": "team066",
     "name": "湖南警察学院3队（ACM）",
     "organization": "湖南警察学院",
@@ -989,7 +989,7 @@
       "official"
     ]
   },
-  "team067": {
+  {
     "team_id": "team067",
     "name": "湖南科技学院ACM2队",
     "organization": "湖南科技学院",
@@ -1004,7 +1004,7 @@
       "official"
     ]
   },
-  "team068": {
+  {
     "team_id": "team068",
     "name": "中南林业科技大学1队(ACM)",
     "organization": "中南林业科技大学",
@@ -1019,7 +1019,7 @@
       "official"
     ]
   },
-  "team069": {
+  {
     "team_id": "team069",
     "name": "湖南科技学院ACM3队",
     "organization": "湖南科技学院",
@@ -1034,7 +1034,7 @@
       "official"
     ]
   },
-  "team070": {
+  {
     "team_id": "team070",
     "name": "湖南城市学院4队（ACM）",
     "organization": "湖南城市学院",
@@ -1049,7 +1049,7 @@
       "official"
     ]
   },
-  "team071": {
+  {
     "team_id": "team071",
     "name": "湖南信息学院4队(ACM)",
     "organization": "湖南信息学院",
@@ -1064,7 +1064,7 @@
       "official"
     ]
   },
-  "team072": {
+  {
     "team_id": "team072",
     "name": "怀化学院1队",
     "organization": "怀化学院",
@@ -1079,7 +1079,7 @@
       "official"
     ]
   },
-  "team073": {
+  {
     "team_id": "team073",
     "name": "训练两年半，何日上绿名",
     "organization": "湘潭大学",
@@ -1094,7 +1094,7 @@
       "official"
     ]
   },
-  "team074": {
+  {
     "team_id": "team074",
     "name": "长沙医学院2队",
     "organization": "长沙医学院",
@@ -1109,7 +1109,7 @@
       "official"
     ]
   },
-  "team075": {
+  {
     "team_id": "team075",
     "name": "长沙市一中2队",
     "organization": "湖南省长沙市第一中学",
@@ -1124,7 +1124,7 @@
       "unofficial"
     ]
   },
-  "team076": {
+  {
     "team_id": "team076",
     "name": "湖南工程学院4队（ACM）",
     "organization": "湖南工程学院",
@@ -1139,7 +1139,7 @@
       "official"
     ]
   },
-  "team077": {
+  {
     "team_id": "team077",
     "name": "邵阳学院4队（ACM）",
     "organization": "邵阳学院",
@@ -1154,7 +1154,7 @@
       "official"
     ]
   },
-  "team078": {
+  {
     "team_id": "team078",
     "name": "湖南工商大学1队(ACM)",
     "organization": "湖南工商大学",
@@ -1169,7 +1169,7 @@
       "official"
     ]
   },
-  "team079": {
+  {
     "team_id": "team079",
     "name": "湖南涉外经济学院2队 （ACM）",
     "organization": "湖南涉外经济学院",
@@ -1184,7 +1184,7 @@
       "official"
     ]
   },
-  "team080": {
+  {
     "team_id": "team080",
     "name": "中南大学3队（ACM）",
     "organization": "中南大学",
@@ -1199,7 +1199,7 @@
       "official"
     ]
   },
-  "team081": {
+  {
     "team_id": "team081",
     "name": "怀化学院4队",
     "organization": "怀化学院",
@@ -1214,7 +1214,7 @@
       "official"
     ]
   },
-  "team082": {
+  {
     "team_id": "team082",
     "name": "湖南中医药大学2队（ACM）",
     "organization": "湖南中医药大学",
@@ -1229,7 +1229,7 @@
       "official"
     ]
   },
-  "team083": {
+  {
     "team_id": "team083",
     "name": "湖南农业大学1队",
     "organization": "湖南农业大学",
@@ -1244,7 +1244,7 @@
       "official"
     ]
   },
-  "team084": {
+  {
     "team_id": "team084",
     "name": "湖南理工学院1队(ACM)",
     "organization": "湖南理工学院",
@@ -1259,7 +1259,7 @@
       "official"
     ]
   },
-  "team085": {
+  {
     "team_id": "team085",
     "name": "湖南信息学院2队(ACM)",
     "organization": "湖南信息学院",
@@ -1274,7 +1274,7 @@
       "official"
     ]
   },
-  "team086": {
+  {
     "team_id": "team086",
     "name": "湖南理工学院南湖学院3队（ACM）",
     "organization": "湖南理工学院南湖学院",
@@ -1289,7 +1289,7 @@
       "official"
     ]
   },
-  "team087": {
+  {
     "team_id": "team087",
     "name": "衡阳师范学院南岳学院1队（ACM）",
     "organization": "衡阳师范学院南岳学院",
@@ -1304,7 +1304,7 @@
       "official"
     ]
   },
-  "team088": {
+  {
     "team_id": "team088",
     "name": "湖南财政经济学院1队（ACM）",
     "organization": "湖南财政经济学院",
@@ -1319,7 +1319,7 @@
       "official"
     ]
   },
-  "team089": {
+  {
     "team_id": "team089",
     "name": "湖南师范大学4队(ACM)",
     "organization": "湖南师范大学",
@@ -1334,7 +1334,7 @@
       "official"
     ]
   },
-  "team090": {
+  {
     "team_id": "team090",
     "name": "长沙师范学院4队",
     "organization": "长沙师范学院",
@@ -1349,7 +1349,7 @@
       "official"
     ]
   },
-  "team091": {
+  {
     "team_id": "team091",
     "name": "湖南工商大学4队(ACM)",
     "organization": "湖南工商大学",
@@ -1364,7 +1364,7 @@
       "official"
     ]
   },
-  "team092": {
+  {
     "team_id": "team092",
     "name": "怀化学院2队",
     "organization": "怀化学院",
@@ -1379,7 +1379,7 @@
       "official"
     ]
   },
-  "team093": {
+  {
     "team_id": "team093",
     "name": "中南林业科技大学2队(ACM)",
     "organization": "中南林业科技大学",
@@ -1394,7 +1394,7 @@
       "official"
     ]
   },
-  "team094": {
+  {
     "team_id": "team094",
     "name": "湖南工程学院3队（ACM）",
     "organization": "湖南工程学院",
@@ -1409,7 +1409,7 @@
       "official"
     ]
   },
-  "team095": {
+  {
     "team_id": "team095",
     "name": "附中2队（海绵宝宝）",
     "organization": "湖南师范大学附属中学",
@@ -1424,7 +1424,7 @@
       "unofficial"
     ]
   },
-  "team096": {
+  {
     "team_id": "team096",
     "name": "湖南第一师范学院2队（ACM）",
     "organization": "湖南第一师范学院",
@@ -1439,7 +1439,7 @@
       "official"
     ]
   },
-  "team097": {
+  {
     "team_id": "team097",
     "name": "湖南中医药大学1队（ACM）",
     "organization": "湖南中医药大学",
@@ -1454,7 +1454,7 @@
       "official"
     ]
   },
-  "team098": {
+  {
     "team_id": "team098",
     "name": "湖南工业大学2队(ACM)",
     "organization": "湖南工业大学",
@@ -1469,7 +1469,7 @@
       "official"
     ]
   },
-  "team099": {
+  {
     "team_id": "team099",
     "name": "长沙市一中3队",
     "organization": "湖南省长沙市第一中学",
@@ -1484,7 +1484,7 @@
       "unofficial"
     ]
   },
-  "team100": {
+  {
     "team_id": "team100",
     "name": "湖南工业大学4队(ACM)",
     "organization": "湖南工业大学",
@@ -1499,7 +1499,7 @@
       "official"
     ]
   },
-  "team101": {
+  {
     "team_id": "team101",
     "name": "湖南中医药大学3队（ACM）",
     "organization": "湖南中医药大学",
@@ -1514,7 +1514,7 @@
       "official"
     ]
   },
-  "team102": {
+  {
     "team_id": "team102",
     "name": "湖南农业大学3队",
     "organization": "湖南农业大学",
@@ -1529,7 +1529,7 @@
       "official"
     ]
   },
-  "team103": {
+  {
     "team_id": "team103",
     "name": "四大爷放过我",
     "organization": "株洲市南方中学",
@@ -1544,7 +1544,7 @@
       "unofficial"
     ]
   },
-  "team104": {
+  {
     "team_id": "team104",
     "name": "湖南工业大学科技学院3队(ACM)",
     "organization": "湖南工业大学科技学院",
@@ -1559,7 +1559,7 @@
       "official"
     ]
   },
-  "team105": {
+  {
     "team_id": "team105",
     "name": "中南林业科技大学涉外学院1队（ACM）",
     "organization": "中南林业科技大学涉外学院",
@@ -1574,7 +1574,7 @@
       "official"
     ]
   },
-  "team106": {
+  {
     "team_id": "team106",
     "name": "衡阳师范学院2队(ACM)",
     "organization": "衡阳师范学院",
@@ -1589,7 +1589,7 @@
       "official"
     ]
   },
-  "team107": {
+  {
     "team_id": "team107",
     "name": "湖南工学院1队（ACM）",
     "organization": "湖南工学院",
@@ -1604,7 +1604,7 @@
       "official"
     ]
   },
-  "team108": {
+  {
     "team_id": "team108",
     "name": "长郡中学4队(ACM)",
     "organization": "长沙市长郡中学",
@@ -1619,7 +1619,7 @@
       "unofficial"
     ]
   },
-  "team109": {
+  {
     "team_id": "team109",
     "name": "湘南学院1队（ACM）",
     "organization": "湘南学院",
@@ -1634,7 +1634,7 @@
       "official"
     ]
   },
-  "team110": {
+  {
     "team_id": "team110",
     "name": "长沙市一中1队",
     "organization": "湖南省长沙市第一中学",
@@ -1649,7 +1649,7 @@
       "unofficial"
     ]
   },
-  "team111": {
+  {
     "team_id": "team111",
     "name": "衡阳师范学院4队(ACM)",
     "organization": "衡阳师范学院",
@@ -1664,7 +1664,7 @@
       "official"
     ]
   },
-  "team112": {
+  {
     "team_id": "team112",
     "name": "湖南涉外经济学院3队 （ACM）",
     "organization": "湖南涉外经济学院",
@@ -1679,7 +1679,7 @@
       "official"
     ]
   },
-  "team113": {
+  {
     "team_id": "team113",
     "name": "湖南工程学院2队（ACM）",
     "organization": "湖南工程学院",
@@ -1694,7 +1694,7 @@
       "official"
     ]
   },
-  "team114": {
+  {
     "team_id": "team114",
     "name": "长沙理工大学ACM4队",
     "organization": "长沙理工大学",
@@ -1709,7 +1709,7 @@
       "official"
     ]
   },
-  "team115": {
+  {
     "team_id": "team115",
     "name": "horizon",
     "organization": "湘潭大学",
@@ -1724,7 +1724,7 @@
       "official"
     ]
   },
-  "team116": {
+  {
     "team_id": "team116",
     "name": "湖南理工学院南湖学院4队（ACM)",
     "organization": "湖南理工学院南湖学院",
@@ -1739,7 +1739,7 @@
       "official"
     ]
   },
-  "team117": {
+  {
     "team_id": "team117",
     "name": "湖南科技学院ACM4队",
     "organization": "湖南科技学院",
@@ -1754,7 +1754,7 @@
       "official"
     ]
   },
-  "team118": {
+  {
     "team_id": "team118",
     "name": "湖南工业大学1队(ACM)",
     "organization": "湖南工业大学",
@@ -1769,7 +1769,7 @@
       "official"
     ]
   },
-  "team119": {
+  {
     "team_id": "team119",
     "name": "湖南理工学院3队(ACM)",
     "organization": "湖南理工学院",
@@ -1784,7 +1784,7 @@
       "official"
     ]
   },
-  "team120": {
+  {
     "team_id": "team120",
     "name": "湖南理工学院南湖学院2队（ACM）",
     "organization": "湖南理工学院南湖学院",
@@ -1799,7 +1799,7 @@
       "official"
     ]
   },
-  "team121": {
+  {
     "team_id": "team121",
     "name": "湘南学院3队（ACM）",
     "organization": "湘南学院",
@@ -1814,7 +1814,7 @@
       "official"
     ]
   },
-  "team122": {
+  {
     "team_id": "team122",
     "name": "湖南城市学院2队（ACM）",
     "organization": "湖南城市学院",
@@ -1829,7 +1829,7 @@
       "official"
     ]
   },
-  "team123": {
+  {
     "team_id": "team123",
     "name": "湖南科技学院ACM1队",
     "organization": "湖南科技学院",
@@ -1844,7 +1844,7 @@
       "official"
     ]
   },
-  "team124": {
+  {
     "team_id": "team124",
     "name": "湖南大学3队（ACM)",
     "organization": "湖南大学",
@@ -1859,7 +1859,7 @@
       "official"
     ]
   },
-  "team125": {
+  {
     "team_id": "team125",
     "name": "湖南工学院2队（ACM）",
     "organization": "湖南工学院",
@@ -1874,7 +1874,7 @@
       "official"
     ]
   },
-  "team126": {
+  {
     "team_id": "team126",
     "name": "湖南理工学院2队(ACM)",
     "organization": "湖南理工学院",
@@ -1889,7 +1889,7 @@
       "official"
     ]
   },
-  "team127": {
+  {
     "team_id": "team127",
     "name": "长沙理工大学ACM1队",
     "organization": "长沙理工大学",
@@ -1904,7 +1904,7 @@
       "official"
     ]
   },
-  "team128": {
+  {
     "team_id": "team128",
     "name": "附中1队（混合头脑队）",
     "organization": "湖南师范大学附属中学",
@@ -1919,7 +1919,7 @@
       "unofficial"
     ]
   },
-  "team129": {
+  {
     "team_id": "team129",
     "name": "湖南工业大学科技学院1队(ACM)",
     "organization": "湖南工业大学科技学院",
@@ -1934,7 +1934,7 @@
       "official"
     ]
   },
-  "team130": {
+  {
     "team_id": "team130",
     "name": "湖南中医药大学4队（ACM）",
     "organization": "湖南中医药大学",
@@ -1949,7 +1949,7 @@
       "official"
     ]
   },
-  "team131": {
+  {
     "team_id": "team131",
     "name": "南华大学二队",
     "organization": "南华大学",
@@ -1964,7 +1964,7 @@
       "official"
     ]
   },
-  "team132": {
+  {
     "team_id": "team132",
     "name": "长沙市一中4队",
     "organization": "湖南省长沙市第一中学",
@@ -1979,7 +1979,7 @@
       "unofficial"
     ]
   },
-  "team133": {
+  {
     "team_id": "team133",
     "name": "吉首大学3队（ACM 程序设计）",
     "organization": "吉首大学",
@@ -1994,7 +1994,7 @@
       "official"
     ]
   },
-  "team134": {
+  {
     "team_id": "team134",
     "name": "湖南人文科技学院2队（ACM）",
     "organization": "湖南人文科技学院",
@@ -2009,7 +2009,7 @@
       "official"
     ]
   },
-  "team135": {
+  {
     "team_id": "team135",
     "name": "湖南师范大学3队(ACM)",
     "organization": "湖南师范大学",
@@ -2024,7 +2024,7 @@
       "official"
     ]
   },
-  "team136": {
+  {
     "team_id": "team136",
     "name": "湖南人文科技学院4队（ACM）",
     "organization": "湖南人文科技学院",
@@ -2039,7 +2039,7 @@
       "official"
     ]
   },
-  "team137": {
+  {
     "team_id": "team137",
     "name": "湖南女子学院2队（ACM）",
     "organization": "湖南女子学院",
@@ -2054,7 +2054,7 @@
       "official"
     ]
   },
-  "team138": {
+  {
     "team_id": "team138",
     "name": "湖南科技大学4队（ACM）",
     "organization": "湖南科技大学",
@@ -2069,7 +2069,7 @@
       "official"
     ]
   },
-  "team139": {
+  {
     "team_id": "team139",
     "name": "张家界学院1队(ACM)",
     "organization": "吉首大学张家界学院",
@@ -2084,7 +2084,7 @@
       "official"
     ]
   },
-  "team140": {
+  {
     "team_id": "team140",
     "name": "长郡中学2队(ACM)",
     "organization": "长沙市长郡中学",
@@ -2099,7 +2099,7 @@
       "unofficial"
     ]
   },
-  "team141": {
+  {
     "team_id": "team141",
     "name": "湘南学院4队（ACM）",
     "organization": "湘南学院",
@@ -2114,7 +2114,7 @@
       "official"
     ]
   },
-  "team142": {
+  {
     "team_id": "team142",
     "name": "湖南涉外经济学院1队 （ACM）",
     "organization": "湖南涉外经济学院",
@@ -2129,7 +2129,7 @@
       "official"
     ]
   },
-  "team143": {
+  {
     "team_id": "team143",
     "name": "吉首大学4队(ACM 程序设计)",
     "organization": "吉首大学",
@@ -2144,7 +2144,7 @@
       "official"
     ]
   },
-  "team144": {
+  {
     "team_id": "team144",
     "name": "中南林业科技大学涉外学院3队（ACM）",
     "organization": "中南林业科技大学涉外学院",
@@ -2159,7 +2159,7 @@
       "official"
     ]
   },
-  "team145": {
+  {
     "team_id": "team145",
     "name": "湖南第一师范学院4队（ACM）",
     "organization": "湖南第一师范学院",
@@ -2174,7 +2174,7 @@
       "official"
     ]
   },
-  "team146": {
+  {
     "team_id": "team146",
     "name": "湖南师范大学2队(ACM)",
     "organization": "湖南师范大学",
@@ -2189,7 +2189,7 @@
       "official"
     ]
   },
-  "team147": {
+  {
     "team_id": "team147",
     "name": "中南大学2队（ACM）",
     "organization": "中南大学",
@@ -2204,7 +2204,7 @@
       "official"
     ]
   },
-  "team148": {
+  {
     "team_id": "team148",
     "name": "长沙师范学院3队",
     "organization": "长沙师范学院",
@@ -2219,7 +2219,7 @@
       "official"
     ]
   },
-  "team149": {
+  {
     "team_id": "team149",
     "name": "湖南涉外经济学院4队 （ACM）",
     "organization": "湖南涉外经济学院",
@@ -2234,7 +2234,7 @@
       "official"
     ]
   },
-  "team150": {
+  {
     "team_id": "team150",
     "name": "邵阳学院3队（ACM）",
     "organization": "邵阳学院",
@@ -2249,7 +2249,7 @@
       "official"
     ]
   },
-  "team151": {
+  {
     "team_id": "team151",
     "name": "长沙师范学院2队",
     "organization": "长沙师范学院",
@@ -2264,7 +2264,7 @@
       "official"
     ]
   },
-  "team152": {
+  {
     "team_id": "team152",
     "name": "吉首大学1队（ACM 程序设计）",
     "organization": "吉首大学",
@@ -2279,7 +2279,7 @@
       "official"
     ]
   },
-  "team153": {
+  {
     "team_id": "team153",
     "name": "湖南大学4队（ACM)",
     "organization": "湖南大学",
@@ -2294,7 +2294,7 @@
       "official"
     ]
   },
-  "team154": {
+  {
     "team_id": "team154",
     "name": "长沙理工大学ACM2队",
     "organization": "长沙理工大学",
@@ -2309,7 +2309,7 @@
       "official"
     ]
   },
-  "team155": {
+  {
     "team_id": "team155",
     "name": "湖南大学1队（ACM)",
     "organization": "湖南大学",
@@ -2324,7 +2324,7 @@
       "official"
     ]
   },
-  "team156": {
+  {
     "team_id": "team156",
     "name": "南华大学四队",
     "organization": "南华大学",
@@ -2339,7 +2339,7 @@
       "official"
     ]
   },
-  "team157": {
+  {
     "team_id": "team157",
     "name": "中南林业科技大学涉外学院2队（ACM）",
     "organization": "中南林业科技大学涉外学院",
@@ -2354,7 +2354,7 @@
       "official"
     ]
   },
-  "team158": {
+  {
     "team_id": "team158",
     "name": "湖南科技大学3队（ACM）",
     "organization": "湖南科技大学",
@@ -2369,7 +2369,7 @@
       "official"
     ]
   },
-  "team159": {
+  {
     "team_id": "team159",
     "name": "湖南文理学院3队（ACM）",
     "organization": "湖南文理学院",
@@ -2384,7 +2384,7 @@
       "official"
     ]
   },
-  "team160": {
+  {
     "team_id": "team160",
     "name": "中南林业科技大学3队(ACM)",
     "organization": "中南林业科技大学",
@@ -2399,7 +2399,7 @@
       "official"
     ]
   },
-  "team161": {
+  {
     "team_id": "team161",
     "name": "湖南警察学院2队（ACM）",
     "organization": "湖南警察学院",
@@ -2414,7 +2414,7 @@
       "official"
     ]
   },
-  "team162": {
+  {
     "team_id": "team162",
     "name": "湖南工学院3队（ACM）",
     "organization": "湖南工学院",
@@ -2429,4 +2429,4 @@
       "official"
     ]
   }
-}
+]

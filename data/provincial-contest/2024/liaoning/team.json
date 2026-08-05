@@ -1,5 +1,5 @@
-{
-  "team1": {
+[
+  {
     "team_id": "team1",
     "name": "蛋壳特工队",
     "organization": "大连东软信息学院",
@@ -14,7 +14,7 @@
       "official"
     ]
   },
-  "team101": {
+  {
     "team_id": "team101",
     "name": "没AC的题都会对",
     "organization": "大连民族大学",
@@ -29,7 +29,7 @@
       "official"
     ]
   },
-  "team102": {
+  {
     "team_id": "team102",
     "name": "无敌gogogo",
     "organization": "沈阳师范大学",
@@ -44,7 +44,7 @@
       "official"
     ]
   },
-  "team103": {
+  {
     "team_id": "team103",
     "name": "断幺截役满",
     "organization": "辽宁省实验中学",
@@ -59,7 +59,7 @@
       "unofficial"
     ]
   },
-  "team104": {
+  {
     "team_id": "team104",
     "name": "金属老登转生二次元竟然成为acmer",
     "organization": "辽宁科技大学",
@@ -74,7 +74,7 @@
       "official"
     ]
   },
-  "team105": {
+  {
     "team_id": "team105",
     "name": "类人群星闪耀",
     "organization": "大连东软信息学院",
@@ -89,7 +89,7 @@
       "official"
     ]
   },
-  "team106": {
+  {
     "team_id": "team106",
     "name": "东北大学_不会取名",
     "organization": "东北大学",
@@ -104,7 +104,7 @@
       "unofficial"
     ]
   },
-  "team107": {
+  {
     "team_id": "team107",
     "name": "24K_Ultra",
     "organization": "大连市第二十四中学金普学校",
@@ -119,7 +119,7 @@
       "unofficial"
     ]
   },
-  "team108": {
+  {
     "team_id": "team108",
     "name": "与发际线作队",
     "organization": "大连大学",
@@ -134,7 +134,7 @@
       "official"
     ]
   },
-  "team109": {
+  {
     "team_id": "team109",
     "name": "上海爱丽丝幻乐团",
     "organization": "大连市第二十四中学",
@@ -149,7 +149,7 @@
       "unofficial"
     ]
   },
-  "team11": {
+  {
     "team_id": "team11",
     "name": "0624RP++",
     "organization": "辽宁省实验中学",
@@ -164,7 +164,7 @@
       "unofficial"
     ]
   },
-  "team111": {
+  {
     "team_id": "team111",
     "name": "拿个签到吃自助",
     "organization": "大连东软信息学院",
@@ -179,7 +179,7 @@
       "official"
     ]
   },
-  "team112": {
+  {
     "team_id": "team112",
     "name": "你说的队",
     "organization": "沈阳航空航天大学",
@@ -194,7 +194,7 @@
       "official"
     ]
   },
-  "team113": {
+  {
     "team_id": "team113",
     "name": "Last Dance",
     "organization": "大连理工大学城市学院",
@@ -209,7 +209,7 @@
       "official"
     ]
   },
-  "team114": {
+  {
     "team_id": "team114",
     "name": "海底小纵队",
     "organization": "大连海洋大学",
@@ -224,7 +224,7 @@
       "official"
     ]
   },
-  "team115": {
+  {
     "team_id": "team115",
     "name": "屁股带火别惹我",
     "organization": "辽宁科技大学",
@@ -239,7 +239,7 @@
       "official"
     ]
   },
-  "team116": {
+  {
     "team_id": "team116",
     "name": "网瘾病友会",
     "organization": "沈阳师范大学",
@@ -254,7 +254,7 @@
       "official"
     ]
   },
-  "team117": {
+  {
     "team_id": "team117",
     "name": "爱玩金铲铲",
     "organization": "辽宁科技大学",
@@ -269,7 +269,7 @@
       "official"
     ]
   },
-  "team118": {
+  {
     "team_id": "team118",
     "name": "Echo",
     "organization": "沈阳化工大学",
@@ -284,7 +284,7 @@
       "official"
     ]
   },
-  "team119": {
+  {
     "team_id": "team119",
     "name": "Incpc windows killer",
     "organization": "辽宁省实验中学",
@@ -299,7 +299,7 @@
       "unofficial"
     ]
   },
-  "team12": {
+  {
     "team_id": "team12",
     "name": "再多过一道题她就会回来找我",
     "organization": "大连理工大学",
@@ -314,7 +314,7 @@
       "unofficial"
     ]
   },
-  "team121": {
+  {
     "team_id": "team121",
     "name": "东北大学_dream",
     "organization": "东北大学",
@@ -329,7 +329,7 @@
       "unofficial"
     ]
   },
-  "team122": {
+  {
     "team_id": "team122",
     "name": "胆小菇",
     "organization": "大连理工大学",
@@ -344,7 +344,7 @@
       "unofficial"
     ]
   },
-  "team123": {
+  {
     "team_id": "team123",
     "name": "重装小兔不会敲算法",
     "organization": "辽宁科技大学",
@@ -359,7 +359,7 @@
       "official"
     ]
   },
-  "team124": {
+  {
     "team_id": "team124",
     "name": "重生之成为java高手和玛卡巴卡一起爆零",
     "organization": "大连民族大学",
@@ -374,7 +374,7 @@
       "official"
     ]
   },
-  "team125": {
+  {
     "team_id": "team125",
     "name": "队名带个缪缪队",
     "organization": "辽宁石油化工大学",
@@ -389,7 +389,7 @@
       "official"
     ]
   },
-  "team126": {
+  {
     "team_id": "team126",
     "name": "switch",
     "organization": "大连东软信息学院",
@@ -404,7 +404,7 @@
       "official"
     ]
   },
-  "team127": {
+  {
     "team_id": "team127",
     "name": "熹妃回宫",
     "organization": "辽东学院",
@@ -420,7 +420,7 @@
       "girl"
     ]
   },
-  "team128": {
+  {
     "team_id": "team128",
     "name": "24K_T2",
     "organization": "大连市第二十四中学金普学校",
@@ -435,7 +435,7 @@
       "unofficial"
     ]
   },
-  "team129": {
+  {
     "team_id": "team129",
     "name": "东北大学_DesperateDebuggers",
     "organization": "东北大学",
@@ -450,7 +450,7 @@
       "official"
     ]
   },
-  "team13": {
+  {
     "team_id": "team13",
     "name": "氪金队",
     "organization": "大连理工大学盘锦校区",
@@ -465,7 +465,7 @@
       "official"
     ]
   },
-  "team131": {
+  {
     "team_id": "team131",
     "name": "YMOI打星队",
     "organization": "大连育明高级中学",
@@ -480,7 +480,7 @@
       "unofficial"
     ]
   },
-  "team132": {
+  {
     "team_id": "team132",
     "name": "不知怎么答才队",
     "organization": "大连大学",
@@ -495,7 +495,7 @@
       "official"
     ]
   },
-  "team133": {
+  {
     "team_id": "team133",
     "name": "东北大学_不再哦莫",
     "organization": "东北大学",
@@ -510,7 +510,7 @@
       "official"
     ]
   },
-  "team134": {
+  {
     "team_id": "team134",
     "name": "Acmer不嘻嘻",
     "organization": "大连东软信息学院",
@@ -525,7 +525,7 @@
       "official"
     ]
   },
-  "team135": {
+  {
     "team_id": "team135",
     "name": "LHP",
     "organization": "沈阳化工大学",
@@ -540,7 +540,7 @@
       "official"
     ]
   },
-  "team136": {
+  {
     "team_id": "team136",
     "name": "我打省赛？真的假的",
     "organization": "大连理工大学",
@@ -555,7 +555,7 @@
       "unofficial"
     ]
   },
-  "team137": {
+  {
     "team_id": "team137",
     "name": "这一罚，贯穿星辰",
     "organization": "沈阳航空航天大学",
@@ -570,7 +570,7 @@
       "official"
     ]
   },
-  "team138": {
+  {
     "team_id": "team138",
     "name": "我制Bug队友改",
     "organization": "大连民族大学",
@@ -585,7 +585,7 @@
       "official"
     ]
   },
-  "team139": {
+  {
     "team_id": "team139",
     "name": "三个顶俩",
     "organization": "大连大学",
@@ -600,7 +600,7 @@
       "official"
     ]
   },
-  "team14": {
+  {
     "team_id": "team14",
     "name": "月影宵行",
     "organization": "辽宁大学",
@@ -615,7 +615,7 @@
       "official"
     ]
   },
-  "team141": {
+  {
     "team_id": "team141",
     "name": "氦闪队",
     "organization": "大连理工大学盘锦校区",
@@ -630,7 +630,7 @@
       "official"
     ]
   },
-  "team142": {
+  {
     "team_id": "team142",
     "name": "火箭汪汪队",
     "organization": "大连交通大学",
@@ -645,7 +645,7 @@
       "official"
     ]
   },
-  "team143": {
+  {
     "team_id": "team143",
     "name": "过了样例就算对",
     "organization": "大连民族大学",
@@ -660,7 +660,7 @@
       "official"
     ]
   },
-  "team144": {
+  {
     "team_id": "team144",
     "name": "不祈者",
     "organization": "沈阳理工大学",
@@ -675,7 +675,7 @@
       "official"
     ]
   },
-  "team145": {
+  {
     "team_id": "team145",
     "name": "BHL",
     "organization": "沈阳化工大学",
@@ -690,7 +690,7 @@
       "official"
     ]
   },
-  "team146": {
+  {
     "team_id": "team146",
     "name": "三行四列行列式",
     "organization": "沈阳工业大学",
@@ -705,7 +705,7 @@
       "official"
     ]
   },
-  "team147": {
+  {
     "team_id": "team147",
     "name": "东北大学_对对对",
     "organization": "东北大学",
@@ -720,7 +720,7 @@
       "unofficial"
     ]
   },
-  "team148": {
+  {
     "team_id": "team148",
     "name": "大连第一信息大队",
     "organization": "大连理工大学",
@@ -735,7 +735,7 @@
       "official"
     ]
   },
-  "team149": {
+  {
     "team_id": "team149",
     "name": "为什么沈师CCPC不加分",
     "organization": "沈阳师范大学",
@@ -750,7 +750,7 @@
       "official"
     ]
   },
-  "team15": {
+  {
     "team_id": "team15",
     "name": "队友都是我大爹",
     "organization": "黑龙江科技大学",
@@ -765,7 +765,7 @@
       "unofficial"
     ]
   },
-  "team151": {
+  {
     "team_id": "team151",
     "name": "喵嘤喵",
     "organization": "大连理工大学",
@@ -780,7 +780,7 @@
       "unofficial"
     ]
   },
-  "team152": {
+  {
     "team_id": "team152",
     "name": "常青树",
     "organization": "沈阳航空航天大学",
@@ -795,7 +795,7 @@
       "official"
     ]
   },
-  "team153": {
+  {
     "team_id": "team153",
     "name": "USTL-十年老兵",
     "organization": "辽宁科技大学",
@@ -810,7 +810,7 @@
       "official"
     ]
   },
-  "team154": {
+  {
     "team_id": "team154",
     "name": "Miracle Pilot",
     "organization": "大连市第二十四中学",
@@ -825,7 +825,7 @@
       "unofficial"
     ]
   },
-  "team155": {
+  {
     "team_id": "team155",
     "name": "做的题都队",
     "organization": "辽宁省实验中学",
@@ -840,7 +840,7 @@
       "unofficial"
     ]
   },
-  "team156": {
+  {
     "team_id": "team156",
     "name": "马超轻轻碎了",
     "organization": "大连东软信息学院",
@@ -855,7 +855,7 @@
       "official"
     ]
   },
-  "team157": {
+  {
     "team_id": "team157",
     "name": "icpc毁了我的编程梦",
     "organization": "沈阳航空航天大学",
@@ -870,7 +870,7 @@
       "official"
     ]
   },
-  "team158": {
+  {
     "team_id": "team158",
     "name": "WA的速度是每秒五发",
     "organization": "大连民族大学",
@@ -885,7 +885,7 @@
       "official"
     ]
   },
-  "team159": {
+  {
     "team_id": "team159",
     "name": "三元一次方程组",
     "organization": "沈阳化工大学",
@@ -900,7 +900,7 @@
       "official"
     ]
   },
-  "team16": {
+  {
     "team_id": "team16",
     "name": "大宝宝",
     "organization": "辽宁科技大学",
@@ -915,7 +915,7 @@
       "official"
     ]
   },
-  "team161": {
+  {
     "team_id": "team161",
     "name": "XXX",
     "organization": "辽宁大学",
@@ -930,7 +930,7 @@
       "official"
     ]
   },
-  "team162": {
+  {
     "team_id": "team162",
     "name": "502 Bad Gateway",
     "organization": "大连理工大学",
@@ -945,7 +945,7 @@
       "official"
     ]
   },
-  "team163": {
+  {
     "team_id": "team163",
     "name": "听说拿着一本数学书念出上面的公式就可以打出火球",
     "organization": "沈阳航空航天大学",
@@ -960,7 +960,7 @@
       "official"
     ]
   },
-  "team164": {
+  {
     "team_id": "team164",
     "name": "code",
     "organization": "大连东软信息学院",
@@ -975,7 +975,7 @@
       "official"
     ]
   },
-  "team165": {
+  {
     "team_id": "team165",
     "name": "旺仔小分队",
     "organization": "大连大学",
@@ -990,7 +990,7 @@
       "official"
     ]
   },
-  "team166": {
+  {
     "team_id": "team166",
     "name": "除以二向上取整",
     "organization": "东北育才学校",
@@ -1005,7 +1005,7 @@
       "unofficial"
     ]
   },
-  "team167": {
+  {
     "team_id": "team167",
     "name": "这还抽象?",
     "organization": "大连民族大学",
@@ -1020,7 +1020,7 @@
       "official"
     ]
   },
-  "team168": {
+  {
     "team_id": "team168",
     "name": "24K_Mini2",
     "organization": "大连市第二十四中学金普学校",
@@ -1035,7 +1035,7 @@
       "unofficial"
     ]
   },
-  "team169": {
+  {
     "team_id": "team169",
     "name": "☆听泉鉴题",
     "organization": "辽东学院",
@@ -1051,7 +1051,7 @@
       "girl"
     ]
   },
-  "team17": {
+  {
     "team_id": "team17",
     "name": "压力队友",
     "organization": "沈阳农业大学",
@@ -1066,7 +1066,7 @@
       "official"
     ]
   },
-  "team171": {
+  {
     "team_id": "team171",
     "name": "广告招租位",
     "organization": "沈阳工业大学",
@@ -1081,7 +1081,7 @@
       "official"
     ]
   },
-  "team172": {
+  {
     "team_id": "team172",
     "name": "就签到题队",
     "organization": "大连大学",
@@ -1096,7 +1096,7 @@
       "official"
     ]
   },
-  "team173": {
+  {
     "team_id": "team173",
     "name": "队名总不能再叫喵喵喵了吧",
     "organization": "大连理工大学",
@@ -1111,7 +1111,7 @@
       "unofficial"
     ]
   },
-  "team174": {
+  {
     "team_id": "team174",
     "name": "管午饭吗",
     "organization": "大连外国语大学",
@@ -1126,7 +1126,7 @@
       "official"
     ]
   },
-  "team175": {
+  {
     "team_id": "team175",
     "name": "东北大学_neulfox",
     "organization": "东北大学",
@@ -1141,7 +1141,7 @@
       "official"
     ]
   },
-  "team176": {
+  {
     "team_id": "team176",
     "name": "今天又没加训",
     "organization": "大连大学",
@@ -1156,7 +1156,7 @@
       "official"
     ]
   },
-  "team177": {
+  {
     "team_id": "team177",
     "name": "牛郎年年念刘娘，刘娘连连恋牛郎",
     "organization": "辽宁科技大学",
@@ -1171,7 +1171,7 @@
       "official"
     ]
   },
-  "team178": {
+  {
     "team_id": "team178",
     "name": "来都来了，别打铁就行",
     "organization": "大连民族大学",
@@ -1186,7 +1186,7 @@
       "official"
     ]
   },
-  "team179": {
+  {
     "team_id": "team179",
     "name": "金陵守望",
     "organization": "大连海事大学",
@@ -1201,7 +1201,7 @@
       "official"
     ]
   },
-  "team18": {
+  {
     "team_id": "team18",
     "name": "XGA",
     "organization": "沈阳工业大学",
@@ -1216,7 +1216,7 @@
       "official"
     ]
   },
-  "team181": {
+  {
     "team_id": "team181",
     "name": "这么六！",
     "organization": "大连理工大学",
@@ -1231,7 +1231,7 @@
       "official"
     ]
   },
-  "team182": {
+  {
     "team_id": "team182",
     "name": "东北大学_谁说这省赛水啊？这省赛太~棒了!",
     "organization": "东北大学",
@@ -1246,7 +1246,7 @@
       "official"
     ]
   },
-  "team19": {
+  {
     "team_id": "team19",
     "name": "沈航旅游团",
     "organization": "沈阳航空航天大学",
@@ -1261,7 +1261,7 @@
       "official"
     ]
   },
-  "team2": {
+  {
     "team_id": "team2",
     "name": "一打一挨一看戏",
     "organization": "大连市第二十四中学",
@@ -1276,7 +1276,7 @@
       "unofficial"
     ]
   },
-  "team21": {
+  {
     "team_id": "team21",
     "name": "Tiramisu Intelligence",
     "organization": "大连理工大学",
@@ -1291,7 +1291,7 @@
       "unofficial"
     ]
   },
-  "team22": {
+  {
     "team_id": "team22",
     "name": "至强大之人",
     "organization": "沈阳航空航天大学",
@@ -1306,7 +1306,7 @@
       "official"
     ]
   },
-  "team23": {
+  {
     "team_id": "team23",
     "name": "能多对就多队",
     "organization": "大连理工大学城市学院",
@@ -1321,7 +1321,7 @@
       "official"
     ]
   },
-  "team24": {
+  {
     "team_id": "team24",
     "name": "重生之这次一定不是罚时战神",
     "organization": "大连理工大学",
@@ -1336,7 +1336,7 @@
       "official"
     ]
   },
-  "team25": {
+  {
     "team_id": "team25",
     "name": "654",
     "organization": "大连海事大学",
@@ -1351,7 +1351,7 @@
       "official"
     ]
   },
-  "team26": {
+  {
     "team_id": "team26",
     "name": "只会hello world",
     "organization": "沈阳化工大学",
@@ -1366,7 +1366,7 @@
       "official"
     ]
   },
-  "team27": {
+  {
     "team_id": "team27",
     "name": "初一",
     "organization": "沈阳市第一二六中学和东北育才学校",
@@ -1380,7 +1380,7 @@
       "unofficial"
     ]
   },
-  "team28": {
+  {
     "team_id": "team28",
     "name": "ACCS2",
     "organization": "大连东软信息学院",
@@ -1395,7 +1395,7 @@
       "official"
     ]
   },
-  "team29": {
+  {
     "team_id": "team29",
     "name": "想把红的染成绿的，wawawawa",
     "organization": "大连理工大学",
@@ -1410,7 +1410,7 @@
       "unofficial"
     ]
   },
-  "team3": {
+  {
     "team_id": "team3",
     "name": "vegetable reality",
     "organization": "辽宁省实验中学",
@@ -1425,7 +1425,7 @@
       "unofficial"
     ]
   },
-  "team31": {
+  {
     "team_id": "team31",
     "name": "人机",
     "organization": "大连东软信息学院",
@@ -1441,7 +1441,7 @@
       "girl"
     ]
   },
-  "team32": {
+  {
     "team_id": "team32",
     "name": "我不会写O(1)的代码，但能调O(n^2)的美",
     "organization": "沈阳化工大学",
@@ -1456,7 +1456,7 @@
       "official"
     ]
   },
-  "team33": {
+  {
     "team_id": "team33",
     "name": "欢迎报考辽宁大学",
     "organization": "辽宁大学",
@@ -1471,7 +1471,7 @@
       "official"
     ]
   },
-  "team34": {
+  {
     "team_id": "team34",
     "name": "东北大学_奇迹星轨",
     "organization": "东北大学",
@@ -1486,7 +1486,7 @@
       "official"
     ]
   },
-  "team35": {
+  {
     "team_id": "team35",
     "name": "憧憬成为算法高手队",
     "organization": "大连交通大学",
@@ -1501,7 +1501,7 @@
       "official"
     ]
   },
-  "team36": {
+  {
     "team_id": "team36",
     "name": "蛋仔派队",
     "organization": "沈阳工业大学",
@@ -1516,7 +1516,7 @@
       "official"
     ]
   },
-  "team37": {
+  {
     "team_id": "team37",
     "name": "是我不队",
     "organization": "大连民族大学",
@@ -1531,7 +1531,7 @@
       "official"
     ]
   },
-  "team38": {
+  {
     "team_id": "team38",
     "name": "V我50鸡翅分你一队",
     "organization": "大连大学",
@@ -1547,7 +1547,7 @@
       "girl"
     ]
   },
-  "team39": {
+  {
     "team_id": "team39",
     "name": "三月二十八",
     "organization": "沈阳化工大学",
@@ -1562,7 +1562,7 @@
       "official"
     ]
   },
-  "team4": {
+  {
     "team_id": "team4",
     "name": "怎么不得拿个三等奖队",
     "organization": "大连大学",
@@ -1577,7 +1577,7 @@
       "official"
     ]
   },
-  "team41": {
+  {
     "team_id": "team41",
     "name": "What can i say",
     "organization": "沈阳航空航天大学",
@@ -1592,7 +1592,7 @@
       "official"
     ]
   },
-  "team42": {
+  {
     "team_id": "team42",
     "name": "Farewell, OI",
     "organization": "大连市第二十四中学",
@@ -1606,7 +1606,7 @@
       "unofficial"
     ]
   },
-  "team43": {
+  {
     "team_id": "team43",
     "name": "SUPER耐肘王",
     "organization": "大连东软信息学院",
@@ -1621,7 +1621,7 @@
       "official"
     ]
   },
-  "team44": {
+  {
     "team_id": "team44",
     "name": "仿生孙笑川会梦见电子东雪莲吗？",
     "organization": "东北育才学校",
@@ -1636,7 +1636,7 @@
       "unofficial"
     ]
   },
-  "team45": {
+  {
     "team_id": "team45",
     "name": "我心澎湃",
     "organization": "大连民族大学",
@@ -1651,7 +1651,7 @@
       "official"
     ]
   },
-  "team46": {
+  {
     "team_id": "team46",
     "name": "东北大学_青春dp少年不会梦到TLE学姐",
     "organization": "东北大学",
@@ -1666,7 +1666,7 @@
       "official"
     ]
   },
-  "team47": {
+  {
     "team_id": "team47",
     "name": "三人凑钱买黑神话悟空",
     "organization": "大连理工大学",
@@ -1681,7 +1681,7 @@
       "official"
     ]
   },
-  "team48": {
+  {
     "team_id": "team48",
     "name": "没嗯点嘻皮皮",
     "organization": "辽宁省实验中学",
@@ -1696,7 +1696,7 @@
       "unofficial"
     ]
   },
-  "team49": {
+  {
     "team_id": "team49",
     "name": "时不时就被罚时的临时%%%",
     "organization": "大连理工大学",
@@ -1711,7 +1711,7 @@
       "unofficial"
     ]
   },
-  "team5": {
+  {
     "team_id": "team5",
     "name": "我重生了重生在省赛前一晚这一次我要",
     "organization": "大连民族大学",
@@ -1726,7 +1726,7 @@
       "official"
     ]
   },
-  "team51": {
+  {
     "team_id": "team51",
     "name": "拿个学妹给au",
     "organization": "大连东软信息学院",
@@ -1741,7 +1741,7 @@
       "official"
     ]
   },
-  "team52": {
+  {
     "team_id": "team52",
     "name": "我们怎么做都队",
     "organization": "沈阳航空航天大学",
@@ -1756,7 +1756,7 @@
       "official"
     ]
   },
-  "team53": {
+  {
     "team_id": "team53",
     "name": "NAT",
     "organization": "辽宁科技大学",
@@ -1771,7 +1771,7 @@
       "official"
     ]
   },
-  "team54": {
+  {
     "team_id": "team54",
     "name": "给个牌子，这辈子没求过人",
     "organization": "大连民族大学",
@@ -1786,7 +1786,7 @@
       "official"
     ]
   },
-  "team55": {
+  {
     "team_id": "team55",
     "name": "能不能给我一个offer",
     "organization": "大连大学",
@@ -1801,7 +1801,7 @@
       "official"
     ]
   },
-  "team56": {
+  {
     "team_id": "team56",
     "name": "燃冬",
     "organization": "辽宁科技大学",
@@ -1816,7 +1816,7 @@
       "official"
     ]
   },
-  "team57": {
+  {
     "team_id": "team57",
     "name": "东北大学_我们不玩星穹铁道",
     "organization": "东北大学",
@@ -1831,7 +1831,7 @@
       "unofficial"
     ]
   },
-  "team58": {
+  {
     "team_id": "team58",
     "name": "24K_Mini1",
     "organization": "大连市第二十四中学金普学校",
@@ -1846,7 +1846,7 @@
       "unofficial"
     ]
   },
-  "team59": {
+  {
     "team_id": "team59",
     "name": "篮球杯只会暴力也要来打省赛",
     "organization": "沈阳理工大学",
@@ -1861,7 +1861,7 @@
       "official"
     ]
   },
-  "team6": {
+  {
     "team_id": "team6",
     "name": "杏菜",
     "organization": "辽宁科技大学",
@@ -1876,7 +1876,7 @@
       "official"
     ]
   },
-  "team61": {
+  {
     "team_id": "team61",
     "name": "红绿色盲",
     "organization": "大连大学",
@@ -1891,7 +1891,7 @@
       "official"
     ]
   },
-  "team62": {
+  {
     "team_id": "team62",
     "name": "南通想在大工守银摄金",
     "organization": "沈阳化工大学",
@@ -1906,7 +1906,7 @@
       "official"
     ]
   },
-  "team63": {
+  {
     "team_id": "team63",
     "name": "签完到就撤退",
     "organization": "沈阳航空航天大学",
@@ -1921,7 +1921,7 @@
       "official"
     ]
   },
-  "team64": {
+  {
     "team_id": "team64",
     "name": "我推的育才oi✌带我俩嘎嘎乱杀",
     "organization": "大连外国语大学",
@@ -1936,7 +1936,7 @@
       "official"
     ]
   },
-  "team65": {
+  {
     "team_id": "team65",
     "name": "CCPC能不能给新手一点福利",
     "organization": "沈阳师范大学",
@@ -1951,7 +1951,7 @@
       "official"
     ]
   },
-  "team66": {
+  {
     "team_id": "team66",
     "name": "依依揪葭妻",
     "organization": "沈阳化工大学",
@@ -1966,7 +1966,7 @@
       "official"
     ]
   },
-  "team67": {
+  {
     "team_id": "team67",
     "name": "超终极无敌暴龙战队",
     "organization": "大连东软信息学院",
@@ -1981,7 +1981,7 @@
       "official"
     ]
   },
-  "team68": {
+  {
     "team_id": "team68",
     "name": "ac不太行，打瓦第一名",
     "organization": "沈阳师范大学",
@@ -1996,7 +1996,7 @@
       "official"
     ]
   },
-  "team69": {
+  {
     "team_id": "team69",
     "name": "随便10086",
     "organization": "沈阳航空航天大学",
@@ -2011,7 +2011,7 @@
       "official"
     ]
   },
-  "team7": {
+  {
     "team_id": "team7",
     "name": "什么都队",
     "organization": "沈阳航空航天大学",
@@ -2027,7 +2027,7 @@
       "girl"
     ]
   },
-  "team71": {
+  {
     "team_id": "team71",
     "name": "要怎么做才能ac，只要是我能做的我都会做的，欧内盖，瓦塔西",
     "organization": "大连民族大学",
@@ -2042,7 +2042,7 @@
       "official"
     ]
   },
-  "team72": {
+  {
     "team_id": "team72",
     "name": "翻斗花园突击队",
     "organization": "大连东软信息学院",
@@ -2057,7 +2057,7 @@
       "official"
     ]
   },
-  "team73": {
+  {
     "team_id": "team73",
     "name": "Accepted",
     "organization": "辽宁大学",
@@ -2072,7 +2072,7 @@
       "official"
     ]
   },
-  "team74": {
+  {
     "team_id": "team74",
     "name": "我觉得这个事吧，在研究研究",
     "organization": "沈阳师范大学",
@@ -2087,7 +2087,7 @@
       "official"
     ]
   },
-  "team75": {
+  {
     "team_id": "team75",
     "name": "我比赛和训练的报销还没下来我要死了",
     "organization": "大连理工大学",
@@ -2102,7 +2102,7 @@
       "official"
     ]
   },
-  "team76": {
+  {
     "team_id": "team76",
     "name": "一碰到键盘就想吐",
     "organization": "沈阳航空航天大学",
@@ -2117,7 +2117,7 @@
       "official"
     ]
   },
-  "team77": {
+  {
     "team_id": "team77",
     "name": "东北大学_unwaretle",
     "organization": "东北大学",
@@ -2132,7 +2132,7 @@
       "unofficial"
     ]
   },
-  "team78": {
+  {
     "team_id": "team78",
     "name": "9块9拼出来的夸克会员学算法",
     "organization": "沈阳化工大学",
@@ -2147,7 +2147,7 @@
       "official"
     ]
   },
-  "team79": {
+  {
     "team_id": "team79",
     "name": "若是月亮还没来",
     "organization": "大连理工大学城市学院",
@@ -2162,7 +2162,7 @@
       "official"
     ]
   },
-  "team8": {
+  {
     "team_id": "team8",
     "name": "东北大学_美女与美女与野兽",
     "organization": "东北大学",
@@ -2177,7 +2177,7 @@
       "unofficial"
     ]
   },
-  "team81": {
+  {
     "team_id": "team81",
     "name": "～O～分队",
     "organization": "大连海事大学",
@@ -2192,7 +2192,7 @@
       "official"
     ]
   },
-  "team82": {
+  {
     "team_id": "team82",
     "name": "24K_T1",
     "organization": "大连市第二十四中学金普学校",
@@ -2207,7 +2207,7 @@
       "unofficial"
     ]
   },
-  "team83": {
+  {
     "team_id": "team83",
     "name": "沈阳师范大学CCPC四队",
     "organization": "沈阳师范大学",
@@ -2222,7 +2222,7 @@
       "official"
     ]
   },
-  "team84": {
+  {
     "team_id": "team84",
     "name": "芝麻开门队",
     "organization": "辽东学院",
@@ -2237,7 +2237,7 @@
       "official"
     ]
   },
-  "team85": {
+  {
     "team_id": "team85",
     "name": "你看我这题做的对不队",
     "organization": "大连大学",
@@ -2252,7 +2252,7 @@
       "official"
     ]
   },
-  "team86": {
+  {
     "team_id": "team86",
     "name": "林海",
     "organization": "沈阳航空航天大学",
@@ -2267,7 +2267,7 @@
       "official"
     ]
   },
-  "team87": {
+  {
     "team_id": "team87",
     "name": "铁血驾兵队",
     "organization": "大连海事大学",
@@ -2282,7 +2282,7 @@
       "official"
     ]
   },
-  "team88": {
+  {
     "team_id": "team88",
     "name": "创新创业产教融合",
     "organization": "大连东软信息学院",
@@ -2297,7 +2297,7 @@
       "official"
     ]
   },
-  "team89": {
+  {
     "team_id": "team89",
     "name": "东北大学_ChatGPTo1-preview",
     "organization": "东北大学",
@@ -2312,7 +2312,7 @@
       "unofficial"
     ]
   },
-  "team9": {
+  {
     "team_id": "team9",
     "name": "蔚蓝山的猫",
     "organization": "沈阳师范大学",
@@ -2327,7 +2327,7 @@
       "official"
     ]
   },
-  "team91": {
+  {
     "team_id": "team91",
     "name": "过一道就算赢",
     "organization": "大连东软信息学院",
@@ -2342,7 +2342,7 @@
       "official"
     ]
   },
-  "team92": {
+  {
     "team_id": "team92",
     "name": "12345",
     "organization": "沈阳理工大学",
@@ -2357,7 +2357,7 @@
       "official"
     ]
   },
-  "team93": {
+  {
     "team_id": "team93",
     "name": "Master",
     "organization": "沈阳航空航天大学",
@@ -2372,7 +2372,7 @@
       "official"
     ]
   },
-  "team94": {
+  {
     "team_id": "team94",
     "name": "点击查看题解",
     "organization": "沈阳化工大学",
@@ -2387,7 +2387,7 @@
       "official"
     ]
   },
-  "team95": {
+  {
     "team_id": "team95",
     "name": "哟，咋都来大黑山了",
     "organization": "大连理工大学",
@@ -2402,7 +2402,7 @@
       "unofficial"
     ]
   },
-  "team96": {
+  {
     "team_id": "team96",
     "name": "三位一体",
     "organization": "辽宁大学",
@@ -2417,7 +2417,7 @@
       "official"
     ]
   },
-  "team97": {
+  {
     "team_id": "team97",
     "name": "渣男再爱我一次",
     "organization": "沈阳化工大学",
@@ -2432,7 +2432,7 @@
       "official"
     ]
   },
-  "team98": {
+  {
     "team_id": "team98",
     "name": "东北大学_BinaryBrawlers",
     "organization": "东北大学",
@@ -2447,7 +2447,7 @@
       "unofficial"
     ]
   },
-  "team99": {
+  {
     "team_id": "team99",
     "name": "超级666",
     "organization": "沈阳师范大学",
@@ -2462,4 +2462,4 @@
       "official"
     ]
   }
-}
+]

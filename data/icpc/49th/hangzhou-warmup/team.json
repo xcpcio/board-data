@@ -1,5 +1,5 @@
-{
-  "C01": {
+[
+  {
     "team_id": "C01",
     "name": "庄周梦韩",
     "organization": "西安理工大学",
@@ -13,7 +13,7 @@
       "official"
     ]
   },
-  "A71": {
+  {
     "team_id": "A71",
     "name": "NJIT_13队_被封了七十六个账号",
     "organization": "南京工程学院",
@@ -27,7 +27,7 @@
       "official"
     ]
   },
-  "A72": {
+  {
     "team_id": "A72",
     "name": "不祈者",
     "organization": "沈阳理工大学",
@@ -41,7 +41,7 @@
       "official"
     ]
   },
-  "A73": {
+  {
     "team_id": "A73",
     "name": "栀晓",
     "organization": "湖南师范大学",
@@ -55,7 +55,7 @@
       "official"
     ]
   },
-  "A74": {
+  {
     "team_id": "A74",
     "name": "未铭记何谈淡忘",
     "organization": "西安交通大学",
@@ -69,7 +69,7 @@
       "official"
     ]
   },
-  "A75": {
+  {
     "team_id": "A75",
     "name": "海底小纵队",
     "organization": "东北师范大学",
@@ -83,7 +83,7 @@
       "official"
     ]
   },
-  "A76": {
+  {
     "team_id": "A76",
     "name": "别闹了老婆，咱们回家吧",
     "organization": "曲阜师范大学",
@@ -97,7 +97,7 @@
       "official"
     ]
   },
-  "A77": {
+  {
     "team_id": "A77",
     "name": "悬笔一绝",
     "organization": "南阳师范学院",
@@ -111,7 +111,7 @@
       "official"
     ]
   },
-  "A81": {
+  {
     "team_id": "A81",
     "name": "我从来不觉得打ICPC开心过",
     "organization": "南昌大学",
@@ -125,7 +125,7 @@
       "official"
     ]
   },
-  "A82": {
+  {
     "team_id": "A82",
     "name": "空花阳焰",
     "organization": "浙江工商大学",
@@ -139,7 +139,7 @@
       "official"
     ]
   },
-  "A83": {
+  {
     "team_id": "A83",
     "name": "河东食堂转生队",
     "organization": "华东师范大学",
@@ -153,7 +153,7 @@
       "official"
     ]
   },
-  "A84": {
+  {
     "team_id": "A84",
     "name": "倒头就睡",
     "organization": "浙大宁波理工学院",
@@ -167,7 +167,7 @@
       "official"
     ]
   },
-  "A85": {
+  {
     "team_id": "A85",
     "name": "学军信友队1队",
     "organization": "杭州学军中学",
@@ -181,7 +181,7 @@
       "unofficial"
     ]
   },
-  "A86": {
+  {
     "team_id": "A86",
     "name": "粥畜除三害",
     "organization": "南开大学",
@@ -195,7 +195,7 @@
       "official"
     ]
   },
-  "A87": {
+  {
     "team_id": "A87",
     "name": "XCPC第一道难题是买机票",
     "organization": "北京理工大学珠海学院",
@@ -209,7 +209,7 @@
       "official"
     ]
   },
-  "A91": {
+  {
     "team_id": "A91",
     "name": "秘封俱乐部",
     "organization": "武汉大学",
@@ -223,7 +223,7 @@
       "official"
     ]
   },
-  "A92": {
+  {
     "team_id": "A92",
     "name": "Wrong_answer_on_test_1",
     "organization": "江西师范大学",
@@ -237,7 +237,7 @@
       "official"
     ]
   },
-  "A93": {
+  {
     "team_id": "A93",
     "name": "杭电5队",
     "organization": "杭州电子科技大学",
@@ -251,7 +251,7 @@
       "official"
     ]
   },
-  "A94": {
+  {
     "team_id": "A94",
     "name": "求你让我过一道",
     "organization": "上海大学",
@@ -265,7 +265,7 @@
       "official"
     ]
   },
-  "A95": {
+  {
     "team_id": "A95",
     "name": "风灵玉秀",
     "organization": "哈尔滨工业大学",
@@ -279,7 +279,7 @@
       "official"
     ]
   },
-  "A96": {
+  {
     "team_id": "A96",
     "name": "蓝图测绘分队",
     "organization": "绍兴文理学院元培学院",
@@ -293,7 +293,7 @@
       "official"
     ]
   },
-  "A97": {
+  {
     "team_id": "A97",
     "name": "UESTC_EndlessEmbrace",
     "organization": "电子科技大学",
@@ -307,7 +307,7 @@
       "official"
     ]
   },
-  "D01": {
+  {
     "team_id": "D01",
     "name": "电子界探寻者",
     "organization": "中南大学",
@@ -321,7 +321,7 @@
       "official"
     ]
   },
-  "D02": {
+  {
     "team_id": "D02",
     "name": "#define 铁 金",
     "organization": "重庆交通大学",
@@ -335,7 +335,7 @@
       "official"
     ]
   },
-  "D03": {
+  {
     "team_id": "D03",
     "name": "好好想想",
     "organization": "北京邮电大学",
@@ -349,7 +349,7 @@
       "official"
     ]
   },
-  "D04": {
+  {
     "team_id": "D04",
     "name": "存在证明的自动机械",
     "organization": "北京理工大学",
@@ -363,7 +363,7 @@
       "official"
     ]
   },
-  "D05": {
+  {
     "team_id": "D05",
     "name": "#N/A",
     "organization": "西北工业大学",
@@ -377,7 +377,7 @@
       "official"
     ]
   },
-  "D06": {
+  {
     "team_id": "D06",
     "name": "锐刻没有电",
     "organization": "天津大学",
@@ -391,7 +391,7 @@
       "official"
     ]
   },
-  "D07": {
+  {
     "team_id": "D07",
     "name": "浑水摸奖",
     "organization": "中国科学技术大学",
@@ -405,7 +405,7 @@
       "official"
     ]
   },
-  "D11": {
+  {
     "team_id": "D11",
     "name": "难开题开题难",
     "organization": "南开大学",
@@ -419,7 +419,7 @@
       "official"
     ]
   },
-  "D12": {
+  {
     "team_id": "D12",
     "name": "青春ac少年不会遇到wa学姐",
     "organization": "湖州师范学院",
@@ -433,7 +433,7 @@
       "official"
     ]
   },
-  "D13": {
+  {
     "team_id": "D13",
     "name": "做博丽灵梦，谈古明地恋",
     "organization": "浙江工业大学之江学院",
@@ -447,7 +447,7 @@
       "official"
     ]
   },
-  "D14": {
+  {
     "team_id": "D14",
     "name": "永昼2.0",
     "organization": "浙江农林大学暨阳学院",
@@ -461,7 +461,7 @@
       "official"
     ]
   },
-  "D15": {
+  {
     "team_id": "D15",
     "name": "循序渐WA",
     "organization": "南京航空航天大学",
@@ -475,7 +475,7 @@
       "official"
     ]
   },
-  "D16": {
+  {
     "team_id": "D16",
     "name": "五小时战神",
     "organization": "湖南文理学院",
@@ -489,7 +489,7 @@
       "official"
     ]
   },
-  "D17": {
+  {
     "team_id": "D17",
     "name": "六尺之下",
     "organization": "浙江广厦建设职业技术大学",
@@ -503,7 +503,7 @@
       "official"
     ]
   },
-  "D21": {
+  {
     "team_id": "D21",
     "name": "字节无虞",
     "organization": "中国人民大学",
@@ -517,7 +517,7 @@
       "official"
     ]
   },
-  "D22": {
+  {
     "team_id": "D22",
     "name": "一人写，两人睡",
     "organization": "天津理工大学",
@@ -531,7 +531,7 @@
       "official"
     ]
   },
-  "D23": {
+  {
     "team_id": "D23",
     "name": "CF灰名也有打铁梦",
     "organization": "南京信息工程大学",
@@ -545,7 +545,7 @@
       "official"
     ]
   },
-  "D24": {
+  {
     "team_id": "D24",
     "name": "Sanagi",
     "organization": "集美大学",
@@ -559,7 +559,7 @@
       "official"
     ]
   },
-  "D25": {
+  {
     "team_id": "D25",
     "name": "趁红利学Java狠赚一笔",
     "organization": "中国地质大学（北京）",
@@ -573,7 +573,7 @@
       "official"
     ]
   },
-  "D26": {
+  {
     "team_id": "D26",
     "name": "先輩愛♪♡",
     "organization": "香港城市大学（东莞）",
@@ -587,7 +587,7 @@
       "official"
     ]
   },
-  "D27": {
+  {
     "team_id": "D27",
     "name": "ACMore",
     "organization": "武汉大学",
@@ -601,7 +601,7 @@
       "official"
     ]
   },
-  "D31": {
+  {
     "team_id": "D31",
     "name": "完蛋！我被原P包围了！",
     "organization": "江西师范大学",
@@ -615,7 +615,7 @@
       "official"
     ]
   },
-  "D32": {
+  {
     "team_id": "D32",
     "name": "东北大学_哦莫",
     "organization": "东北大学",
@@ -629,7 +629,7 @@
       "official"
     ]
   },
-  "D33": {
+  {
     "team_id": "D33",
     "name": "了解你的捍卫者",
     "organization": "浙江工商大学",
@@ -643,7 +643,7 @@
       "official"
     ]
   },
-  "D34": {
+  {
     "team_id": "D34",
     "name": "就是你的生活",
     "organization": "中国计量大学",
@@ -657,7 +657,7 @@
       "official"
     ]
   },
-  "D35": {
+  {
     "team_id": "D35",
     "name": "多压力队友才会有好成绩",
     "organization": "山东师范大学",
@@ -671,7 +671,7 @@
       "official"
     ]
   },
-  "D36": {
+  {
     "team_id": "D36",
     "name": "白随鸡",
     "organization": "原神大学",
@@ -685,7 +685,7 @@
       "unofficial"
     ]
   },
-  "D37": {
+  {
     "team_id": "D37",
     "name": "goto: 希腊奶",
     "organization": "哈尔滨工程大学",
@@ -699,7 +699,7 @@
       "official"
     ]
   },
-  "D41": {
+  {
     "team_id": "D41",
     "name": "于离别之朝束起约定之花",
     "organization": "同济大学",
@@ -713,7 +713,7 @@
       "official"
     ]
   },
-  "D42": {
+  {
     "team_id": "D42",
     "name": "对WA使用无懈可击",
     "organization": "华北水利水电大学",
@@ -727,7 +727,7 @@
       "official"
     ]
   },
-  "D43": {
+  {
     "team_id": "D43",
     "name": "能否让我停止这场追逐",
     "organization": "宁夏大学",
@@ -741,7 +741,7 @@
       "official"
     ]
   },
-  "D44": {
+  {
     "team_id": "D44",
     "name": "甘！文！！崔！！！",
     "organization": "合肥大学",
@@ -755,7 +755,7 @@
       "official"
     ]
   },
-  "D45": {
+  {
     "team_id": "D45",
     "name": "GDUTJY_揭宿乐队",
     "organization": "广东工业大学揭阳校区",
@@ -769,7 +769,7 @@
       "official"
     ]
   },
-  "D46": {
+  {
     "team_id": "D46",
     "name": "塔尖粉丝团",
     "organization": "上海大学",
@@ -783,7 +783,7 @@
       "official"
     ]
   },
-  "D47": {
+  {
     "team_id": "D47",
     "name": "众梦之聚",
     "organization": "安徽大学",
@@ -797,7 +797,7 @@
       "official"
     ]
   },
-  "D51": {
+  {
     "team_id": "D51",
     "name": "猿农舟",
     "organization": "福建理工大学",
@@ -811,7 +811,7 @@
       "official"
     ]
   },
-  "D52": {
+  {
     "team_id": "D52",
     "name": "杭电8队",
     "organization": "杭州电子科技大学",
@@ -825,7 +825,7 @@
       "official"
     ]
   },
-  "D53": {
+  {
     "team_id": "D53",
     "name": "ZJNU_12队",
     "organization": "浙江师范大学",
@@ -839,7 +839,7 @@
       "official"
     ]
   },
-  "D54": {
+  {
     "team_id": "D54",
     "name": "上海纽约大学队伍1",
     "organization": "上海纽约大学",
@@ -853,7 +853,7 @@
       "official"
     ]
   },
-  "D55": {
+  {
     "team_id": "D55",
     "name": "学军信友队2队",
     "organization": "杭州学军中学",
@@ -867,7 +867,7 @@
       "unofficial"
     ]
   },
-  "D56": {
+  {
     "team_id": "D56",
     "name": "想想MJ怎么做",
     "organization": "暨南大学",
@@ -881,7 +881,7 @@
       "official"
     ]
   },
-  "D57": {
+  {
     "team_id": "D57",
     "name": "马拉车拉马",
     "organization": "电子科技大学中山学院",
@@ -895,7 +895,7 @@
       "official"
     ]
   },
-  "D61": {
+  {
     "team_id": "D61",
     "name": "治愈ACM致郁我的AC梦",
     "organization": "嘉应学院",
@@ -909,7 +909,7 @@
       "official"
     ]
   },
-  "D62": {
+  {
     "team_id": "D62",
     "name": "中文队名想不出",
     "organization": "宁波大学",
@@ -923,7 +923,7 @@
       "official"
     ]
   },
-  "D63": {
+  {
     "team_id": "D63",
     "name": "关注带工喵，关注带工谢谢喵(≧^.^≦)",
     "organization": "大连理工大学",
@@ -937,7 +937,7 @@
       "official"
     ]
   },
-  "D64": {
+  {
     "team_id": "D64",
     "name": "小狗怎么叫",
     "organization": "郑州轻工业大学",
@@ -951,7 +951,7 @@
       "official"
     ]
   },
-  "D65": {
+  {
     "team_id": "D65",
     "name": "三人行，必有考研工作教培",
     "organization": "西南科技大学",
@@ -965,7 +965,7 @@
       "official"
     ]
   },
-  "D66": {
+  {
     "team_id": "D66",
     "name": "温大一队",
     "organization": "温州大学",
@@ -979,7 +979,7 @@
       "official"
     ]
   },
-  "D67": {
+  {
     "team_id": "D67",
     "name": "氪金",
     "organization": "大连理工大学(盘锦校区)",
@@ -993,7 +993,7 @@
       "official"
     ]
   },
-  "D71": {
+  {
     "team_id": "D71",
     "name": "中山大学_无限天堂",
     "organization": "中山大学",
@@ -1007,7 +1007,7 @@
       "official"
     ]
   },
-  "D72": {
+  {
     "team_id": "D72",
     "name": "正在评测中",
     "organization": "西安交通大学",
@@ -1021,7 +1021,7 @@
       "official"
     ]
   },
-  "D73": {
+  {
     "team_id": "D73",
     "name": "东方 homo 馆",
     "organization": "华东师范大学",
@@ -1035,7 +1035,7 @@
       "official"
     ]
   },
-  "D74": {
+  {
     "team_id": "D74",
     "name": "便邀东风揽明月",
     "organization": "中国民航大学",
@@ -1049,7 +1049,7 @@
       "official"
     ]
   },
-  "D75": {
+  {
     "team_id": "D75",
     "name": "命运旋律",
     "organization": "成都信息工程大学",
@@ -1063,7 +1063,7 @@
       "official"
     ]
   },
-  "D76": {
+  {
     "team_id": "D76",
     "name": "随机队名",
     "organization": "华南农业大学",
@@ -1077,7 +1077,7 @@
       "official"
     ]
   },
-  "D77": {
+  {
     "team_id": "D77",
     "name": "她还爱我对不队",
     "organization": "江西财经大学",
@@ -1091,7 +1091,7 @@
       "official"
     ]
   },
-  "D81": {
+  {
     "team_id": "D81",
     "name": "自行车",
     "organization": "北京师范大学",
@@ -1105,7 +1105,7 @@
       "official"
     ]
   },
-  "D82": {
+  {
     "team_id": "D82",
     "name": "睡到自然醒",
     "organization": "哈尔滨工业大学",
@@ -1119,7 +1119,7 @@
       "official"
     ]
   },
-  "D83": {
+  {
     "team_id": "D83",
     "name": "华为云遥遥领先",
     "organization": "华为技术有限公司",
@@ -1133,7 +1133,7 @@
       "unofficial"
     ]
   },
-  "D84": {
+  {
     "team_id": "D84",
     "name": "不可视境界线",
     "organization": "东华大学",
@@ -1147,7 +1147,7 @@
       "official"
     ]
   },
-  "D85": {
+  {
     "team_id": "D85",
     "name": "由于该校无XCPC经费,正在联系该队伍教练退赛",
     "organization": "山东财经大学",
@@ -1161,7 +1161,7 @@
       "official"
     ]
   },
-  "D86": {
+  {
     "team_id": "D86",
     "name": "崔神启动",
     "organization": "山东科技大学济南校区",
@@ -1175,7 +1175,7 @@
       "unofficial"
     ]
   },
-  "D87": {
+  {
     "team_id": "D87",
     "name": "UESTC_牢东西",
     "organization": "电子科技大学",
@@ -1189,7 +1189,7 @@
       "official"
     ]
   },
-  "D91": {
+  {
     "team_id": "D91",
     "name": "三WA打碎AC梦",
     "organization": "绍兴文理学院元培学院",
@@ -1203,7 +1203,7 @@
       "official"
     ]
   },
-  "D92": {
+  {
     "team_id": "D92",
     "name": "追梦者",
     "organization": "西安工程大学",
@@ -1217,7 +1217,7 @@
       "unofficial"
     ]
   },
-  "D93": {
+  {
     "team_id": "D93",
     "name": "中石大2011",
     "organization": "中国石油大学（华东）",
@@ -1231,7 +1231,7 @@
       "official"
     ]
   },
-  "D94": {
+  {
     "team_id": "D94",
     "name": "拼图",
     "organization": "四川大学",
@@ -1245,7 +1245,7 @@
       "official"
     ]
   },
-  "D95": {
+  {
     "team_id": "D95",
     "name": "漫游者",
     "organization": "广东工业大学",
@@ -1259,7 +1259,7 @@
       "official"
     ]
   },
-  "D96": {
+  {
     "team_id": "D96",
     "name": "超级梦之队",
     "organization": "西安工业大学",
@@ -1273,7 +1273,7 @@
       "official"
     ]
   },
-  "D97": {
+  {
     "team_id": "D97",
     "name": "报名晚了，名额没了",
     "organization": "杭州第二中学",
@@ -1287,7 +1287,7 @@
       "unofficial"
     ]
   },
-  "C13": {
+  {
     "team_id": "C13",
     "name": "NUM-L3",
     "organization": "National University of Mongolia",
@@ -1301,7 +1301,7 @@
       "official"
     ]
   },
-  "C02": {
+  {
     "team_id": "C02",
     "name": "理塘最速WA传说",
     "organization": "浙江工商大学",
@@ -1315,7 +1315,7 @@
       "official"
     ]
   },
-  "C03": {
+  {
     "team_id": "C03",
     "name": "chengcheng567_fan",
     "organization": "中国矿业大学",
@@ -1329,7 +1329,7 @@
       "official"
     ]
   },
-  "C04": {
+  {
     "team_id": "C04",
     "name": "我有一个绝妙的算法，但空白处太少，我写不下",
     "organization": "太原理工大学",
@@ -1343,7 +1343,7 @@
       "official"
     ]
   },
-  "C05": {
+  {
     "team_id": "C05",
     "name": "WXU_Excalibur",
     "organization": "无锡学院",
@@ -1357,7 +1357,7 @@
       "official"
     ]
   },
-  "C06": {
+  {
     "team_id": "C06",
     "name": "永远都像初次见你那样，使我心荡漾",
     "organization": "西南民族大学",
@@ -1371,7 +1371,7 @@
       "official"
     ]
   },
-  "C07": {
+  {
     "team_id": "C07",
     "name": "家门口的下午茶好喝吗",
     "organization": "西湖大学",
@@ -1385,7 +1385,7 @@
       "official"
     ]
   },
-  "C11": {
+  {
     "team_id": "C11",
     "name": "全甲野牛突袭派蒙",
     "organization": "海南大学",
@@ -1399,7 +1399,7 @@
       "official"
     ]
   },
-  "C12": {
+  {
     "team_id": "C12",
     "name": "你用着二次元头像说我是二次元？",
     "organization": "上海师范大学",
@@ -1413,7 +1413,7 @@
       "official"
     ]
   },
-  "C14": {
+  {
     "team_id": "C14",
     "name": "尼采说得队",
     "organization": "上海财经大学",
@@ -1427,7 +1427,7 @@
       "official"
     ]
   },
-  "C15": {
+  {
     "team_id": "C15",
     "name": "不知江月待何人",
     "organization": "华中师范大学",
@@ -1441,7 +1441,7 @@
       "official"
     ]
   },
-  "C16": {
+  {
     "team_id": "C16",
     "name": "长生",
     "organization": "湖北工业大学",
@@ -1455,7 +1455,7 @@
       "official"
     ]
   },
-  "C17": {
+  {
     "team_id": "C17",
     "name": "嚼菜根队",
     "organization": "南京大学",
@@ -1469,7 +1469,7 @@
       "official"
     ]
   },
-  "C21": {
+  {
     "team_id": "C21",
     "name": "可达鸭觉得你说得对",
     "organization": "可达鸭编程",
@@ -1483,7 +1483,7 @@
       "unofficial"
     ]
   },
-  "C22": {
+  {
     "team_id": "C22",
     "name": "阿莫西林",
     "organization": "河南师范大学",
@@ -1497,7 +1497,7 @@
       "official"
     ]
   },
-  "C23": {
+  {
     "team_id": "C23",
     "name": "蓝色空间号",
     "organization": "国防科技大学",
@@ -1511,7 +1511,7 @@
       "official"
     ]
   },
-  "C24": {
+  {
     "team_id": "C24",
     "name": "智算先锋队",
     "organization": "中国人民大学",
@@ -1525,7 +1525,7 @@
       "official"
     ]
   },
-  "C25": {
+  {
     "team_id": "C25",
     "name": "代码不能从这一侧AC",
     "organization": "长沙理工大学",
@@ -1539,7 +1539,7 @@
       "official"
     ]
   },
-  "C26": {
+  {
     "team_id": "C26",
     "name": "不如加训",
     "organization": "哈尔滨工业大学（深圳）",
@@ -1553,7 +1553,7 @@
       "official"
     ]
   },
-  "C27": {
+  {
     "team_id": "C27",
     "name": "烟花易冷",
     "organization": "浙江金华第一中学",
@@ -1567,7 +1567,7 @@
       "unofficial"
     ]
   },
-  "C31": {
+  {
     "team_id": "C31",
     "name": "普罗旺斯",
     "organization": "浙江大学",
@@ -1581,7 +1581,7 @@
       "unofficial"
     ]
   },
-  "C32": {
+  {
     "team_id": "C32",
     "name": "凌云",
     "organization": "福建农林大学",
@@ -1595,7 +1595,7 @@
       "official"
     ]
   },
-  "C33": {
+  {
     "team_id": "C33",
     "name": "桃李酥",
     "organization": "长春理工大学",
@@ -1609,7 +1609,7 @@
       "official"
     ]
   },
-  "C34": {
+  {
     "team_id": "C34",
     "name": "我庄严宣誓我不干好事",
     "organization": "中国矿业大学（北京）",
@@ -1623,7 +1623,7 @@
       "official"
     ]
   },
-  "C35": {
+  {
     "team_id": "C35",
     "name": "徐麒雯信奥共同体",
     "organization": "个人参赛",
@@ -1637,7 +1637,7 @@
       "unofficial"
     ]
   },
-  "C37": {
+  {
     "team_id": "C37",
     "name": "老师说拿不到奖就要开除我们",
     "organization": "湖州师范学院",
@@ -1651,7 +1651,7 @@
       "official"
     ]
   },
-  "C41": {
+  {
     "team_id": "C41",
     "name": "队名本来超级长但因为太长被ban呜呜呜队",
     "organization": "浙江理工大学",
@@ -1665,7 +1665,7 @@
       "official"
     ]
   },
-  "C42": {
+  {
     "team_id": "C42",
     "name": "寒春知梦",
     "organization": "北方工业大学",
@@ -1679,7 +1679,7 @@
       "official"
     ]
   },
-  "C43": {
+  {
     "team_id": "C43",
     "name": "踏雪寻梅",
     "organization": "浙江财经大学",
@@ -1693,7 +1693,7 @@
       "official"
     ]
   },
-  "C44": {
+  {
     "team_id": "C44",
     "name": "重生之我在贵大上高中",
     "organization": "贵州大学",
@@ -1707,7 +1707,7 @@
       "official"
     ]
   },
-  "C45": {
+  {
     "team_id": "C45",
     "name": "能和我打一辈子ACM吗",
     "organization": "浙江机电职业技术大学",
@@ -1721,7 +1721,7 @@
       "official"
     ]
   },
-  "C46": {
+  {
     "team_id": "C46",
     "name": "镇海中学2队",
     "organization": "宁波市镇海中学",
@@ -1735,7 +1735,7 @@
       "unofficial"
     ]
   },
-  "C47": {
+  {
     "team_id": "C47",
     "name": " 突破极限",
     "organization": "武汉理工大学",
@@ -1749,7 +1749,7 @@
       "official"
     ]
   },
-  "C51": {
+  {
     "team_id": "C51",
     "name": "布尔诺",
     "organization": "南方科技大学",
@@ -1763,7 +1763,7 @@
       "official"
     ]
   },
-  "C52": {
+  {
     "team_id": "C52",
     "name": "转生异世界发现自己acm水平下降100倍",
     "organization": "台州学院",
@@ -1777,7 +1777,7 @@
       "official"
     ]
   },
-  "C53": {
+  {
     "team_id": "C53",
     "name": "蓝桥杯深圳总部",
     "organization": "深圳大学",
@@ -1791,7 +1791,7 @@
       "official"
     ]
   },
-  "C54": {
+  {
     "team_id": "C54",
     "name": "很内向在电脑前不敢写代码",
     "organization": "西南交通大学",
@@ -1805,7 +1805,7 @@
       "official"
     ]
   },
-  "C55": {
+  {
     "team_id": "C55",
     "name": "搏至无憾",
     "organization": "山东农业大学",
@@ -1819,7 +1819,7 @@
       "official"
     ]
   },
-  "C56": {
+  {
     "team_id": "C56",
     "name": "杭电9队",
     "organization": "杭州电子科技大学",
@@ -1833,7 +1833,7 @@
       "official"
     ]
   },
-  "C57": {
+  {
     "team_id": "C57",
     "name": "RE手动机",
     "organization": "苏州大学",
@@ -1847,7 +1847,7 @@
       "official"
     ]
   },
-  "C61": {
+  {
     "team_id": "C61",
     "name": "仙银",
     "organization": "同济大学",
@@ -1861,7 +1861,7 @@
       "official"
     ]
   },
-  "C62": {
+  {
     "team_id": "C62",
     "name": "我们从未知道那天所参加的ICPC的报销日期",
     "organization": "大连海事大学",
@@ -1875,7 +1875,7 @@
       "official"
     ]
   },
-  "C63": {
+  {
     "team_id": "C63",
     "name": "小展小陈小吴",
     "organization": "南京邮电大学",
@@ -1889,7 +1889,7 @@
       "official"
     ]
   },
-  "C64": {
+  {
     "team_id": "C64",
     "name": "青梅绿茶",
     "organization": "浙大宁波理工学院",
@@ -1903,7 +1903,7 @@
       "official"
     ]
   },
-  "C65": {
+  {
     "team_id": "C65",
     "name": "UESTC_篝月明火",
     "organization": "电子科技大学",
@@ -1917,7 +1917,7 @@
       "official"
     ]
   },
-  "C66": {
+  {
     "team_id": "C66",
     "name": "本场比赛所有花销由杨公子买单",
     "organization": "延安大学西安创新学院",
@@ -1931,7 +1931,7 @@
       "official"
     ]
   },
-  "C67": {
+  {
     "team_id": "C67",
     "name": "学军信友队4队",
     "organization": "杭州学军中学",
@@ -1945,7 +1945,7 @@
       "unofficial"
     ]
   },
-  "C71": {
+  {
     "team_id": "C71",
     "name": "祥子帮帮写",
     "organization": "天津工业大学",
@@ -1959,7 +1959,7 @@
       "official"
     ]
   },
-  "C72": {
+  {
     "team_id": "C72",
     "name": "榴莲忘返",
     "organization": "厦门理工学院",
@@ -1973,7 +1973,7 @@
       "official"
     ]
   },
-  "C73": {
+  {
     "team_id": "C73",
     "name": "月球猫猫",
     "organization": "浙江工业大学",
@@ -1987,7 +1987,7 @@
       "official"
     ]
   },
-  "C74": {
+  {
     "team_id": "C74",
     "name": "我是外卡三个顶俩",
     "organization": "福建理工大学",
@@ -2001,7 +2001,7 @@
       "official"
     ]
   },
-  "C75": {
+  {
     "team_id": "C75",
     "name": "三脸懵逼",
     "organization": "长沙学院",
@@ -2015,7 +2015,7 @@
       "official"
     ]
   },
-  "C76": {
+  {
     "team_id": "C76",
     "name": "早知道，还是可口可乐",
     "organization": "北京航空航天大学",
@@ -2029,7 +2029,7 @@
       "official"
     ]
   },
-  "C77": {
+  {
     "team_id": "C77",
     "name": "剑来",
     "organization": "宁波大学",
@@ -2043,7 +2043,7 @@
       "official"
     ]
   },
-  "C81": {
+  {
     "team_id": "C81",
     "name": "柏林号",
     "organization": "山东科技大学",
@@ -2057,7 +2057,7 @@
       "official"
     ]
   },
-  "C82": {
+  {
     "team_id": "C82",
     "name": "羊羊羊",
     "organization": "北京交通大学",
@@ -2071,7 +2071,7 @@
       "official"
     ]
   },
-  "C83": {
+  {
     "team_id": "C83",
     "name": "五条牢师",
     "organization": "香港大学",
@@ -2085,7 +2085,7 @@
       "official"
     ]
   },
-  "C84": {
+  {
     "team_id": "C84",
     "name": "S属性大爆发",
     "organization": "香港科技大学（广州）",
@@ -2099,7 +2099,7 @@
       "official"
     ]
   },
-  "C85": {
+  {
     "team_id": "C85",
     "name": "帮Zn刷牙",
     "organization": "浙江工业大学之江学院",
@@ -2113,7 +2113,7 @@
       "official"
     ]
   },
-  "C86": {
+  {
     "team_id": "C86",
     "name": "茶姬猫猫头",
     "organization": "南京理工大学",
@@ -2127,7 +2127,7 @@
       "official"
     ]
   },
-  "C87": {
+  {
     "team_id": "C87",
     "name": "不知道",
     "organization": "湖南工业大学",
@@ -2141,7 +2141,7 @@
       "official"
     ]
   },
-  "C91": {
+  {
     "team_id": "C91",
     "name": "浙科二十队",
     "organization": "浙江科技大学",
@@ -2155,7 +2155,7 @@
       "official"
     ]
   },
-  "C92": {
+  {
     "team_id": "C92",
     "name": "踏月乘歌",
     "organization": "吉林大学",
@@ -2169,7 +2169,7 @@
       "official"
     ]
   },
-  "C93": {
+  {
     "team_id": "C93",
     "name": "不时以暴力算法tle的邻座acm同学",
     "organization": "河海大学",
@@ -2183,7 +2183,7 @@
       "official"
     ]
   },
-  "C94": {
+  {
     "team_id": "C94",
     "name": "D.D.D.",
     "organization": "西北工业大学",
@@ -2197,7 +2197,7 @@
       "official"
     ]
   },
-  "C95": {
+  {
     "team_id": "C95",
     "name": "黑吗喽：无码",
     "organization": "上海大学",
@@ -2211,7 +2211,7 @@
       "official"
     ]
   },
-  "C96": {
+  {
     "team_id": "C96",
     "name": "憂鬱烏龜",
     "organization": "哈尔滨工业大学",
@@ -2225,7 +2225,7 @@
       "official"
     ]
   },
-  "C97": {
+  {
     "team_id": "C97",
     "name": "假飞了！",
     "organization": "华东师范大学",
@@ -2239,7 +2239,7 @@
       "official"
     ]
   },
-  "F01": {
+  {
     "team_id": "F01",
     "name": "乌拉呀哈 呀哈乌拉",
     "organization": "浙江大学",
@@ -2253,7 +2253,7 @@
       "unofficial"
     ]
   },
-  "F02": {
+  {
     "team_id": "F02",
     "name": "NUM-BNTs",
     "organization": "National University of Mongolia",
@@ -2267,7 +2267,7 @@
       "official"
     ]
   },
-  "F03": {
+  {
     "team_id": "F03",
     "name": "再见了，所有的ICPC",
     "organization": "江苏大学",
@@ -2281,7 +2281,7 @@
       "official"
     ]
   },
-  "F04": {
+  {
     "team_id": "F04",
     "name": "灰姑娘的故事",
     "organization": "湖南城市学院",
@@ -2295,7 +2295,7 @@
       "official"
     ]
   },
-  "F05": {
+  {
     "team_id": "F05",
     "name": "UESTC_诶多诶多呐呐呐",
     "organization": "电子科技大学",
@@ -2309,7 +2309,7 @@
       "official"
     ]
   },
-  "F06": {
+  {
     "team_id": "F06",
     "name": "完美答案",
     "organization": "浙大城市学院",
@@ -2323,7 +2323,7 @@
       "official"
     ]
   },
-  "F07": {
+  {
     "team_id": "F07",
     "name": "ZJUT12",
     "organization": "浙江工业大学",
@@ -2337,7 +2337,7 @@
       "official"
     ]
   },
-  "F11": {
+  {
     "team_id": "F11",
     "name": "黑唐龙 : 暴暴龙",
     "organization": "武汉理工大学",
@@ -2351,7 +2351,7 @@
       "official"
     ]
   },
-  "F12": {
+  {
     "team_id": "F12",
     "name": "队长啊，你不玩原神，难道原神题会自己ac吗？",
     "organization": "烟台大学",
@@ -2365,7 +2365,7 @@
       "official"
     ]
   },
-  "F13": {
+  {
     "team_id": "F13",
     "name": "你猜金城厚不厚",
     "organization": "北京信息科技大学",
@@ -2379,7 +2379,7 @@
       "official"
     ]
   },
-  "F14": {
+  {
     "team_id": "F14",
     "name": "team_name",
     "organization": "华南理工大学",
@@ -2393,7 +2393,7 @@
       "official"
     ]
   },
-  "F15": {
+  {
     "team_id": "F15",
     "name": "春平习艺中学口十木木大土土",
     "organization": "亦赋量化",
@@ -2407,7 +2407,7 @@
       "unofficial"
     ]
   },
-  "F16": {
+  {
     "team_id": "F16",
     "name": "送你一朵邮菜花",
     "organization": "西安邮电大学",
@@ -2421,7 +2421,7 @@
       "official"
     ]
   },
-  "F17": {
+  {
     "team_id": "F17",
     "name": "轰炸机数学学院",
     "organization": "西湖大学",
@@ -2435,7 +2435,7 @@
       "official"
     ]
   },
-  "F21": {
+  {
     "team_id": "F21",
     "name": "为帅哥学长征婚QQ2216541094",
     "organization": "哈尔滨工业大学（威海）",
@@ -2449,7 +2449,7 @@
       "official"
     ]
   },
-  "F22": {
+  {
     "team_id": "F22",
     "name": "银从必过队",
     "organization": "浙江金融职业学院",
@@ -2463,7 +2463,7 @@
       "official"
     ]
   },
-  "F23": {
+  {
     "team_id": "F23",
     "name": "不时以藏语遮羞的邻座丁真同学",
     "organization": "福州大学",
@@ -2477,7 +2477,7 @@
       "official"
     ]
   },
-  "F24": {
+  {
     "team_id": "F24",
     "name": "坂田金银铜时",
     "organization": "江南大学",
@@ -2491,7 +2491,7 @@
       "official"
     ]
   },
-  "F25": {
+  {
     "team_id": "F25",
     "name": "幻想成为ICPC糕手",
     "organization": "嘉兴大学",
@@ -2505,7 +2505,7 @@
       "official"
     ]
   },
-  "F26": {
+  {
     "team_id": "F26",
     "name": "A了这题就去吃麦旋风",
     "organization": "华南师范大学",
@@ -2519,7 +2519,7 @@
       "official"
     ]
   },
-  "F27": {
+  {
     "team_id": "F27",
     "name": "鳄鱼也要做鳄梦",
     "organization": "集美大学",
@@ -2533,7 +2533,7 @@
       "official"
     ]
   },
-  "F31": {
+  {
     "team_id": "F31",
     "name": "我们只是来吃西湖醋鱼的",
     "organization": "云南大学",
@@ -2547,7 +2547,7 @@
       "official"
     ]
   },
-  "F32": {
+  {
     "team_id": "F32",
     "name": "兔八鸽",
     "organization": "浙江机电职业技术大学",
@@ -2561,7 +2561,7 @@
       "official"
     ]
   },
-  "F33": {
+  {
     "team_id": "F33",
     "name": "开局重伤倒地，激发队友潜力",
     "organization": "中国传媒大学",
@@ -2575,7 +2575,7 @@
       "official"
     ]
   },
-  "F34": {
+  {
     "team_id": "F34",
     "name": "o1-IOI 中之人",
     "organization": "北京化工大学",
@@ -2589,7 +2589,7 @@
       "official"
     ]
   },
-  "F35": {
+  {
     "team_id": "F35",
     "name": "你有这样高速运转的机械进入软件园",
     "organization": "山东大学",
@@ -2603,7 +2603,7 @@
       "official"
     ]
   },
-  "F36": {
+  {
     "team_id": "F36",
     "name": "睡觉养神队",
     "organization": "昆山杜克大学",
@@ -2617,7 +2617,7 @@
       "official"
     ]
   },
-  "F37": {
+  {
     "team_id": "F37",
     "name": "赛场偶遇沟槽大模拟，三页题面长如怪物，拼尽全力无法AC",
     "organization": "浙江理工大学",
@@ -2631,7 +2631,7 @@
       "official"
     ]
   },
-  "F41": {
+  {
     "team_id": "F41",
     "name": "题不在会，猜对则赢",
     "organization": "青岛理工大学",
@@ -2645,7 +2645,7 @@
       "official"
     ]
   },
-  "F42": {
+  {
     "team_id": "F42",
     "name": "疾速命名",
     "organization": "广州华商学院",
@@ -2659,7 +2659,7 @@
       "official"
     ]
   },
-  "F43": {
+  {
     "team_id": "F43",
     "name": "流泪猫猫头",
     "organization": "湖南理工学院",
@@ -2673,7 +2673,7 @@
       "official"
     ]
   },
-  "F44": {
+  {
     "team_id": "F44",
     "name": "ΨoO",
     "organization": "温州商学院",
@@ -2687,7 +2687,7 @@
       "official"
     ]
   },
-  "F45": {
+  {
     "team_id": "F45",
     "name": "我也不知道叫什么",
     "organization": "南京航空航天大学",
@@ -2701,7 +2701,7 @@
       "official"
     ]
   },
-  "F46": {
+  {
     "team_id": "F46",
     "name": "深藏不露",
     "organization": "长沙理工大学",
@@ -2715,7 +2715,7 @@
       "official"
     ]
   },
-  "F47": {
+  {
     "team_id": "F47",
     "name": "樱花泪",
     "organization": "成都锦城学院",
@@ -2729,7 +2729,7 @@
       "official"
     ]
   },
-  "F51": {
+  {
     "team_id": "F51",
     "name": "总裁，夫人说这签到题写不完，今晚不许回家",
     "organization": "浙江师范大学",
@@ -2743,7 +2743,7 @@
       "official"
     ]
   },
-  "F52": {
+  {
     "team_id": "F52",
     "name": "别急，再给我五分钟",
     "organization": "浙江农林大学",
@@ -2757,7 +2757,7 @@
       "official"
     ]
   },
-  "F53": {
+  {
     "team_id": "F53",
     "name": "Chirp-Z变换",
     "organization": "中国科学院大学",
@@ -2771,7 +2771,7 @@
       "official"
     ]
   },
-  "F54": {
+  {
     "team_id": "F54",
     "name": "爱哇tv之哈基米对签到哈气",
     "organization": "武汉大学",
@@ -2785,7 +2785,7 @@
       "official"
     ]
   },
-  "F55": {
+  {
     "team_id": "F55",
     "name": "镇海中学1队",
     "organization": "宁波市镇海中学",
@@ -2799,7 +2799,7 @@
       "unofficial"
     ]
   },
-  "F56": {
+  {
     "team_id": "F56",
     "name": "中石大1969",
     "organization": "中国石油大学（华东）",
@@ -2813,7 +2813,7 @@
       "official"
     ]
   },
-  "F57": {
+  {
     "team_id": "F57",
     "name": "一唱雄鸡天下白",
     "organization": "青岛科技大学",
@@ -2827,7 +2827,7 @@
       "official"
     ]
   },
-  "F61": {
+  {
     "team_id": "F61",
     "name": "哈理工12队HZ",
     "organization": "哈尔滨理工大学",
@@ -2841,7 +2841,7 @@
       "official"
     ]
   },
-  "F62": {
+  {
     "team_id": "F62",
     "name": "都不玩原神",
     "organization": "郑州大学",
@@ -2855,7 +2855,7 @@
       "official"
     ]
   },
-  "F63": {
+  {
     "team_id": "F63",
     "name": "随风飘游于阳炎热浪",
     "organization": "哈尔滨工程大学",
@@ -2869,7 +2869,7 @@
       "official"
     ]
   },
-  "F64": {
+  {
     "team_id": "F64",
     "name": "领航者",
     "organization": "江西农业大学",
@@ -2883,7 +2883,7 @@
       "official"
     ]
   },
-  "F65": {
+  {
     "team_id": "F65",
     "name": "极限水花",
     "organization": "南昌航空大学",
@@ -2897,7 +2897,7 @@
       "official"
     ]
   },
-  "F66": {
+  {
     "team_id": "F66",
     "name": "育英七队",
     "organization": "浙江育英职业技术学院",
@@ -2911,7 +2911,7 @@
       "official"
     ]
   },
-  "F67": {
+  {
     "team_id": "F67",
     "name": "Twilight Illusion",
     "organization": "深圳大学",
@@ -2925,7 +2925,7 @@
       "official"
     ]
   },
-  "F71": {
+  {
     "team_id": "F71",
     "name": "空零",
     "organization": "国防科技大学",
@@ -2939,7 +2939,7 @@
       "official"
     ]
   },
-  "F72": {
+  {
     "team_id": "F72",
     "name": "糖醋奶龙",
     "organization": "成都东软学院",
@@ -2953,7 +2953,7 @@
       "official"
     ]
   },
-  "F73": {
+  {
     "team_id": "F73",
     "name": "爱鸡TV之我不要爱我要麦",
     "organization": "杭州电子科技大学信息工程学院",
@@ -2967,7 +2967,7 @@
       "official"
     ]
   },
-  "F74": {
+  {
     "team_id": "F74",
     "name": "南京Hero久竞",
     "organization": "南京邮电大学",
@@ -2981,7 +2981,7 @@
       "official"
     ]
   },
-  "F75": {
+  {
     "team_id": "F75",
     "name": "双翼翱翔",
     "organization": "北京工业大学",
@@ -2995,7 +2995,7 @@
       "official"
     ]
   },
-  "F76": {
+  {
     "team_id": "F76",
     "name": "帰宅部。",
     "organization": "香港城市大学",
@@ -3009,7 +3009,7 @@
       "official"
     ]
   },
-  "F77": {
+  {
     "team_id": "F77",
     "name": "東雲端",
     "organization": "吉林大学",
@@ -3023,7 +3023,7 @@
       "official"
     ]
   },
-  "F81": {
+  {
     "team_id": "F81",
     "name": "就我们没实力",
     "organization": "重庆理工大学",
@@ -3037,7 +3037,7 @@
       "official"
     ]
   },
-  "F82": {
+  {
     "team_id": "F82",
     "name": "什么都不会也能参加acm吗",
     "organization": "西安电子科技大学",
@@ -3051,7 +3051,7 @@
       "official"
     ]
   },
-  "F83": {
+  {
     "team_id": "F83",
     "name": "越来越好",
     "organization": "西北大学",
@@ -3065,7 +3065,7 @@
       "official"
     ]
   },
-  "F84": {
+  {
     "team_id": "F84",
     "name": "会挽雕弓如满月",
     "organization": "北京航空航天大学",
@@ -3079,7 +3079,7 @@
       "official"
     ]
   },
-  "F85": {
+  {
     "team_id": "F85",
     "name": "现充队友太多了！",
     "organization": "北京大学",
@@ -3093,7 +3093,7 @@
       "official"
     ]
   },
-  "F86": {
+  {
     "team_id": "F86",
     "name": "txt说的都队",
     "organization": "个人联合参赛",
@@ -3107,7 +3107,7 @@
       "unofficial"
     ]
   },
-  "F87": {
+  {
     "team_id": "F87",
     "name": "杠上林克，队长砍树",
     "organization": "复旦大学",
@@ -3121,7 +3121,7 @@
       "official"
     ]
   },
-  "F91": {
+  {
     "team_id": "F91",
     "name": "树上的忍者",
     "organization": "上海大学",
@@ -3135,7 +3135,7 @@
       "official"
     ]
   },
-  "F92": {
+  {
     "team_id": "F92",
     "name": "以上队伍成绩全部无效",
     "organization": "武汉科技大学",
@@ -3149,7 +3149,7 @@
       "official"
     ]
   },
-  "F93": {
+  {
     "team_id": "F93",
     "name": "菜鸡的最终幻想",
     "organization": "上海海洋大学",
@@ -3163,7 +3163,7 @@
       "official"
     ]
   },
-  "F94": {
+  {
     "team_id": "F94",
     "name": "一路风光，一路风霜",
     "organization": "上海电力大学",
@@ -3177,7 +3177,7 @@
       "official"
     ]
   },
-  "F95": {
+  {
     "team_id": "F95",
     "name": "world. search (you);",
     "organization": "清华大学",
@@ -3191,7 +3191,7 @@
       "official"
     ]
   },
-  "F96": {
+  {
     "team_id": "F96",
     "name": "可以组一辈子acm队吗",
     "organization": "河海大学",
@@ -3205,7 +3205,7 @@
       "official"
     ]
   },
-  "F97": {
+  {
     "team_id": "F97",
     "name": "可爱白毛萝莉",
     "organization": "中国科学技术大学",
@@ -3219,7 +3219,7 @@
       "official"
     ]
   },
-  "B01": {
+  {
     "team_id": "B01",
     "name": "？神？动",
     "organization": "北京化工大学",
@@ -3233,7 +3233,7 @@
       "official"
     ]
   },
-  "B02": {
+  {
     "team_id": "B02",
     "name": "无尽的风之轨迹",
     "organization": "杭州电子科技大学信息工程学院",
@@ -3247,7 +3247,7 @@
       "official"
     ]
   },
-  "B03": {
+  {
     "team_id": "B03",
     "name": "一剑霜寒十四州",
     "organization": "北京航空航天大学",
@@ -3261,7 +3261,7 @@
       "official"
     ]
   },
-  "B04": {
+  {
     "team_id": "B04",
     "name": "喵亦或鱼",
     "organization": "西安电子科技大学",
@@ -3275,7 +3275,7 @@
       "official"
     ]
   },
-  "B05": {
+  {
     "team_id": "B05",
     "name": "报告阎王：处死蓝鸟!",
     "organization": "东华大学",
@@ -3289,7 +3289,7 @@
       "official"
     ]
   },
-  "B06": {
+  {
     "team_id": "B06",
     "name": "dlut 06",
     "organization": "大连理工大学",
@@ -3303,7 +3303,7 @@
       "official"
     ]
   },
-  "B07": {
+  {
     "team_id": "B07",
     "name": "总湿摇篮",
     "organization": "西北工业大学",
@@ -3317,7 +3317,7 @@
       "official"
     ]
   },
-  "B11": {
+  {
     "team_id": "B11",
     "name": "最有希望的一集",
     "organization": "福建师范大学",
@@ -3331,7 +3331,7 @@
       "official"
     ]
   },
-  "B12": {
+  {
     "team_id": "B12",
     "name": "扫雷爱好者",
     "organization": "浙大城市学院",
@@ -3345,7 +3345,7 @@
       "official"
     ]
   },
-  "B13": {
+  {
     "team_id": "B13",
     "name": "拔丝地瓜",
     "organization": "华南理工大学",
@@ -3359,7 +3359,7 @@
       "official"
     ]
   },
-  "B14": {
+  {
     "team_id": "B14",
     "name": "青青子衿，悠悠我心",
     "organization": "武汉工程大学",
@@ -3373,7 +3373,7 @@
       "official"
     ]
   },
-  "B15": {
+  {
     "team_id": "B15",
     "name": "学军信友队3队",
     "organization": "杭州学军中学",
@@ -3387,7 +3387,7 @@
       "unofficial"
     ]
   },
-  "B16": {
+  {
     "team_id": "B16",
     "name": "今宵露宿何妨",
     "organization": "北京交通大学",
@@ -3401,7 +3401,7 @@
       "official"
     ]
   },
-  "B17": {
+  {
     "team_id": "B17",
     "name": "银钥之门",
     "organization": "丽水学院",
@@ -3415,7 +3415,7 @@
       "official"
     ]
   },
-  "B21": {
+  {
     "team_id": "B21",
     "name": "蓝桥春雪",
     "organization": "中国科学技术大学",
@@ -3429,7 +3429,7 @@
       "official"
     ]
   },
-  "B22": {
+  {
     "team_id": "B22",
     "name": "食堂难民走线和园卖花",
     "organization": "南京大学",
@@ -3443,7 +3443,7 @@
       "official"
     ]
   },
-  "B23": {
+  {
     "team_id": "B23",
     "name": "断桥雪",
     "organization": "吉林大学",
@@ -3457,7 +3457,7 @@
       "official"
     ]
   },
-  "B24": {
+  {
     "team_id": "B24",
     "name": "金职1队",
     "organization": "金华职业技术大学",
@@ -3471,7 +3471,7 @@
       "official"
     ]
   },
-  "B25": {
+  {
     "team_id": "B25",
     "name": "miku DAD",
     "organization": "天津仁爱学院",
@@ -3485,7 +3485,7 @@
       "official"
     ]
   },
-  "B26": {
+  {
     "team_id": "B26",
     "name": "雾里看花",
     "organization": "清华大学",
@@ -3499,7 +3499,7 @@
       "official"
     ]
   },
-  "B27": {
+  {
     "team_id": "B27",
     "name": "命名空间",
     "organization": "浙江省余姚中学",
@@ -3513,7 +3513,7 @@
       "unofficial"
     ]
   },
-  "B31": {
+  {
     "team_id": "B31",
     "name": "东北大学_出毛",
     "organization": "东北大学",
@@ -3527,7 +3527,7 @@
       "official"
     ]
   },
-  "B32": {
+  {
     "team_id": "B32",
     "name": "炒饭梦想家",
     "organization": "浙江财经大学",
@@ -3541,7 +3541,7 @@
       "official"
     ]
   },
-  "B33": {
+  {
     "team_id": "B33",
     "name": "趁他们睡觉偷偷训一题",
     "organization": "东北大学秦皇岛分校",
@@ -3555,7 +3555,7 @@
       "official"
     ]
   },
-  "B34": {
+  {
     "team_id": "B34",
     "name": "我们队有人延毕才有了这次机会最后一舞",
     "organization": "大连大学",
@@ -3569,7 +3569,7 @@
       "official"
     ]
   },
-  "B35": {
+  {
     "team_id": "B35",
     "name": "我们一起去匹诺康尼大冒险",
     "organization": "重庆移通学院",
@@ -3583,7 +3583,7 @@
       "unofficial"
     ]
   },
-  "B36": {
+  {
     "team_id": "B36",
     "name": "猫狗鱼",
     "organization": "四川大学",
@@ -3597,7 +3597,7 @@
       "official"
     ]
   },
-  "B37": {
+  {
     "team_id": "B37",
     "name": "求求给个昆明牌牌和白毛萝莉吧我们什么都可以做的",
     "organization": "湖南科技大学",
@@ -3611,7 +3611,7 @@
       "official"
     ]
   },
-  "B41": {
+  {
     "team_id": "B41",
     "name": "错误",
     "organization": "南京航空航天大学",
@@ -3625,7 +3625,7 @@
       "unofficial"
     ]
   },
-  "B42": {
+  {
     "team_id": "B42",
     "name": "香蕉的感觉不奇妙",
     "organization": "北京理工大学",
@@ -3639,7 +3639,7 @@
       "official"
     ]
   },
-  "B43": {
+  {
     "team_id": "B43",
     "name": "诺曼底上岸",
     "organization": "山东大学",
@@ -3653,7 +3653,7 @@
       "official"
     ]
   },
-  "B44": {
+  {
     "team_id": "B44",
     "name": "中山大学_二分对勾函数",
     "organization": "中山大学",
@@ -3667,7 +3667,7 @@
       "official"
     ]
   },
-  "B45": {
+  {
     "team_id": "B45",
     "name": "杭电0队",
     "organization": "杭州电子科技大学",
@@ -3681,7 +3681,7 @@
       "official"
     ]
   },
-  "B46": {
+  {
     "team_id": "B46",
     "name": "wc又不是正解",
     "organization": "中国计量大学",
@@ -3695,7 +3695,7 @@
       "official"
     ]
   },
-  "B47": {
+  {
     "team_id": "B47",
     "name": "Select Capoo",
     "organization": "江苏省苏州中学校",
@@ -3709,7 +3709,7 @@
       "unofficial"
     ]
   },
-  "B51": {
+  {
     "team_id": "B51",
     "name": "你不能拿我们和那些本科队伍比",
     "organization": "宁波职业技术学院",
@@ -3723,7 +3723,7 @@
       "official"
     ]
   },
-  "B52": {
+  {
     "team_id": "B52",
     "name": "孤高曼波",
     "organization": "福州大学",
@@ -3737,7 +3737,7 @@
       "official"
     ]
   },
-  "B53": {
+  {
     "team_id": "B53",
     "name": "找到工作考上研了吗还在打A",
     "organization": "浙江农林大学",
@@ -3751,7 +3751,7 @@
       "official"
     ]
   },
-  "B54": {
+  {
     "team_id": "B54",
     "name": "乱搞一下就对了",
     "organization": "华东交通大学",
@@ -3765,7 +3765,7 @@
       "official"
     ]
   },
-  "B55": {
+  {
     "team_id": "B55",
     "name": "Ad Astra Abyssosque",
     "organization": "香港理工大学",
@@ -3779,7 +3779,7 @@
       "official"
     ]
   },
-  "B56": {
+  {
     "team_id": "B56",
     "name": "别质疑我们了好吗好的乖摸摸头",
     "organization": "武汉纺织大学",
@@ -3793,7 +3793,7 @@
       "official"
     ]
   },
-  "B57": {
+  {
     "team_id": "B57",
     "name": "憧憬成为膜法ACMer",
     "organization": "河海大学",
@@ -3807,7 +3807,7 @@
       "official"
     ]
   },
-  "B61": {
+  {
     "team_id": "B61",
     "name": "粉毛大香蕉",
     "organization": "江苏科技大学",
@@ -3821,7 +3821,7 @@
       "official"
     ]
   },
-  "B62": {
+  {
     "team_id": "B62",
     "name": "分秒易逝，V我5时",
     "organization": "浙江师范大学",
@@ -3835,7 +3835,7 @@
       "official"
     ]
   },
-  "B63": {
+  {
     "team_id": "B63",
     "name": "饿饿饿不知道吃什么",
     "organization": "中南大学",
@@ -3849,7 +3849,7 @@
       "official"
     ]
   },
-  "B64": {
+  {
     "team_id": "B64",
     "name": "在ACM校赛中被大一oi爷暴虐的大二蒟蒻能打xcpc吗?",
     "organization": "重庆邮电大学",
@@ -3863,7 +3863,7 @@
       "official"
     ]
   },
-  "B65": {
+  {
     "team_id": "B65",
     "name": "重生之道",
     "organization": "惠州学院",
@@ -3877,7 +3877,7 @@
       "official"
     ]
   },
-  "B66": {
+  {
     "team_id": "B66",
     "name": "WhiteLoneliness",
     "organization": "安徽大学",
@@ -3891,7 +3891,7 @@
       "official"
     ]
   },
-  "B67": {
+  {
     "team_id": "B67",
     "name": "思路打开",
     "organization": "北京大学",
@@ -3905,7 +3905,7 @@
       "official"
     ]
   },
-  "B71": {
+  {
     "team_id": "B71",
     "name": "凌空摘星",
     "organization": "湖南大学",
@@ -3919,7 +3919,7 @@
       "official"
     ]
   },
-  "B72": {
+  {
     "team_id": "B72",
     "name": "口胡金牌题",
     "organization": "莆田学院",
@@ -3933,7 +3933,7 @@
       "official"
     ]
   },
-  "B73": {
+  {
     "team_id": "B73",
     "name": "菠萝好吃",
     "organization": "南京邮电大学",
@@ -3947,7 +3947,7 @@
       "official"
     ]
   },
-  "B74": {
+  {
     "team_id": "B74",
     "name": "南方科技大学-特隆赫姆",
     "organization": "南方科技大学",
@@ -3961,7 +3961,7 @@
       "official"
     ]
   },
-  "B75": {
+  {
     "team_id": "B75",
     "name": "懒大王",
     "organization": "华中科技大学",
@@ -3975,7 +3975,7 @@
       "official"
     ]
   },
-  "B76": {
+  {
     "team_id": "B76",
     "name": "打火匣之队",
     "organization": "浙江警官职业学院",
@@ -3989,7 +3989,7 @@
       "official"
     ]
   },
-  "B77": {
+  {
     "team_id": "B77",
     "name": "电光火石的前奏",
     "organization": "上海交通大学",
@@ -4003,7 +4003,7 @@
       "official"
     ]
   },
-  "E01": {
+  {
     "team_id": "E01",
     "name": "VP Expert",
     "organization": "郑州轻工业大学",
@@ -4017,7 +4017,7 @@
       "official"
     ]
   },
-  "E02": {
+  {
     "team_id": "E02",
     "name": "WA症候群",
     "organization": "西安交通大学",
@@ -4031,7 +4031,7 @@
       "official"
     ]
   },
-  "E03": {
+  {
     "team_id": "E03",
     "name": "风浪越大题越队",
     "organization": "青岛大学",
@@ -4045,7 +4045,7 @@
       "official"
     ]
   },
-  "E04": {
+  {
     "team_id": "E04",
     "name": "三只菜狗的算竞梦",
     "organization": "江西理工大学南昌校区",
@@ -4059,7 +4059,7 @@
       "official"
     ]
   },
-  "E05": {
+  {
     "team_id": "E05",
     "name": "会赢的",
     "organization": "华南师范大学",
@@ -4073,7 +4073,7 @@
       "official"
     ]
   },
-  "E06": {
+  {
     "team_id": "E06",
     "name": "关于我的队长4级323这件事",
     "organization": "安徽农业大学",
@@ -4087,7 +4087,7 @@
       "official"
     ]
   },
-  "E07": {
+  {
     "team_id": "E07",
     "name": "夏日影",
     "organization": "上海交通大学",
@@ -4101,7 +4101,7 @@
       "official"
     ]
   },
-  "E11": {
+  {
     "team_id": "E11",
     "name": "白色基地",
     "organization": "中国地质大学（武汉）",
@@ -4115,7 +4115,7 @@
       "official"
     ]
   },
-  "E12": {
+  {
     "team_id": "E12",
     "name": "打一辈子出你字母能转生为AC高手吗",
     "organization": "武汉理工大学",
@@ -4129,7 +4129,7 @@
       "official"
     ]
   },
-  "E13": {
+  {
     "team_id": "E13",
     "name": "原来的队名太难听了所以先把这个队名填上去",
     "organization": "华东理工大学",
@@ -4143,7 +4143,7 @@
       "official"
     ]
   },
-  "E14": {
+  {
     "team_id": "E14",
     "name": "fas de fanci",
     "organization": "山东大学（威海）",
@@ -4157,7 +4157,7 @@
       "official"
     ]
   },
-  "E15": {
+  {
     "team_id": "E15",
     "name": "东北大学_好果汁",
     "organization": "东北大学",
@@ -4171,7 +4171,7 @@
       "official"
     ]
   },
-  "E16": {
+  {
     "team_id": "E16",
     "name": "银狼",
     "organization": "鲁东大学",
@@ -4185,7 +4185,7 @@
       "official"
     ]
   },
-  "E17": {
+  {
     "team_id": "E17",
     "name": "狼狼狼",
     "organization": "西南财经大学",
@@ -4199,7 +4199,7 @@
       "official"
     ]
   },
-  "E21": {
+  {
     "team_id": "E21",
     "name": "想喝绪山家的药",
     "organization": "北京邮电大学",
@@ -4213,7 +4213,7 @@
       "official"
     ]
   },
-  "E22": {
+  {
     "team_id": "E22",
     "name": "二仙桥AP的救赎",
     "organization": "成都理工大学",
@@ -4227,7 +4227,7 @@
       "official"
     ]
   },
-  "E23": {
+  {
     "team_id": "E23",
     "name": "i * i = -1",
     "organization": "广州大学",
@@ -4241,7 +4241,7 @@
       "official"
     ]
   },
-  "E24": {
+  {
     "team_id": "E24",
     "name": "ICPC杭州简直就是一个乙游大世界！",
     "organization": "上海理工大学",
@@ -4255,7 +4255,7 @@
       "official"
     ]
   },
-  "E25": {
+  {
     "team_id": "E25",
     "name": "樱之重生",
     "organization": "济南大学",
@@ -4269,7 +4269,7 @@
       "official"
     ]
   },
-  "E26": {
+  {
     "team_id": "E26",
     "name": "积极向上，到处睡觉",
     "organization": "安徽工业大学",
@@ -4283,7 +4283,7 @@
       "official"
     ]
   },
-  "E27": {
+  {
     "team_id": "E27",
     "name": "Cheeky Chubbies",
     "organization": "香港大学",
@@ -4297,7 +4297,7 @@
       "official"
     ]
   },
-  "E31": {
+  {
     "team_id": "E31",
     "name": "vivo50",
     "organization": "浙江广厦建设职业技术大学",
@@ -4311,7 +4311,7 @@
       "official"
     ]
   },
-  "E32": {
+  {
     "team_id": "E32",
     "name": "三位一体",
     "organization": "辽宁大学",
@@ -4325,7 +4325,7 @@
       "official"
     ]
   },
-  "E33": {
+  {
     "team_id": "E33",
     "name": "夜曲",
     "organization": "湘潭大学",
@@ -4339,7 +4339,7 @@
       "official"
     ]
   },
-  "E34": {
+  {
     "team_id": "E34",
     "name": "我有一个AC梦",
     "organization": "新疆大学",
@@ -4353,7 +4353,7 @@
       "official"
     ]
   },
-  "E35": {
+  {
     "team_id": "E35",
     "name": "南方科技大学-利贝雷茨",
     "organization": "南方科技大学",
@@ -4367,7 +4367,7 @@
       "official"
     ]
   },
-  "E36": {
+  {
     "team_id": "E36",
     "name": "考研择校考察队",
     "organization": "武汉商学院",
@@ -4381,7 +4381,7 @@
       "official"
     ]
   },
-  "E37": {
+  {
     "team_id": "E37",
     "name": "温大二队",
     "organization": "温州大学",
@@ -4395,7 +4395,7 @@
       "official"
     ]
   },
-  "E41": {
+  {
     "team_id": "E41",
     "name": "橙子往昔",
     "organization": "河南理工大学",
@@ -4409,7 +4409,7 @@
       "official"
     ]
   },
-  "E42": {
+  {
     "team_id": "E42",
     "name": "残差连接",
     "organization": "华中农业大学",
@@ -4423,7 +4423,7 @@
       "official"
     ]
   },
-  "E43": {
+  {
     "team_id": "E43",
     "name": "自信，沉着，冷静。",
     "organization": "兰州大学",
@@ -4437,7 +4437,7 @@
       "official"
     ]
   },
-  "E44": {
+  {
     "team_id": "E44",
     "name": "签不来到怎么办吧",
     "organization": "重庆大学",
@@ -4451,7 +4451,7 @@
       "official"
     ]
   },
-  "E45": {
+  {
     "team_id": "E45",
     "name": "阿尔吉侬",
     "organization": "山西大学",
@@ -4465,7 +4465,7 @@
       "official"
     ]
   },
-  "E46": {
+  {
     "team_id": "E46",
     "name": "仨人成行",
     "organization": "北京大学",
@@ -4479,7 +4479,7 @@
       "official"
     ]
   },
-  "E47": {
+  {
     "team_id": "E47",
     "name": "AutoC++",
     "organization": "西南大学",
@@ -4493,7 +4493,7 @@
       "official"
     ]
   },
-  "E51": {
+  {
     "team_id": "E51",
     "name": "传奇援桌骑士0x0d00",
     "organization": "厦门大学",
@@ -4507,7 +4507,7 @@
       "official"
     ]
   },
-  "E52": {
+  {
     "team_id": "E52",
     "name": "三唐大闹 icpc",
     "organization": "上海科技大学",
@@ -4521,7 +4521,7 @@
       "official"
     ]
   },
-  "E53": {
+  {
     "team_id": "E53",
     "name": "阿尔法",
     "organization": "东北大学秦皇岛分校",
@@ -4535,7 +4535,7 @@
       "official"
     ]
   },
-  "E54": {
+  {
     "team_id": "E54",
     "name": "重生之我是原神高手",
     "organization": "浙江中医药大学",
@@ -4549,7 +4549,7 @@
       "official"
     ]
   },
-  "E55": {
+  {
     "team_id": "E55",
     "name": "菜狗要带可达鸭去西湖游泳",
     "organization": "长安大学",
@@ -4563,7 +4563,7 @@
       "official"
     ]
   },
-  "E56": {
+  {
     "team_id": "E56",
     "name": "这次一定AC",
     "organization": "海南大学",
@@ -4577,7 +4577,7 @@
       "official"
     ]
   },
-  "E57": {
+  {
     "team_id": "E57",
     "name": "Ulterior Motive",
     "organization": "云南大学",
@@ -4591,7 +4591,7 @@
       "official"
     ]
   },
-  "E61": {
+  {
     "team_id": "E61",
     "name": "SDU-TCS",
     "organization": "山东大学",
@@ -4605,7 +4605,7 @@
       "official"
     ]
   },
-  "E62": {
+  {
     "team_id": "E62",
     "name": "雍正王朝老太医",
     "organization": "四川大学",
@@ -4619,7 +4619,7 @@
       "official"
     ]
   },
-  "E63": {
+  {
     "team_id": "E63",
     "name": "幼稚原",
     "organization": "河南农业大学",
@@ -4633,7 +4633,7 @@
       "official"
     ]
   },
-  "E64": {
+  {
     "team_id": "E64",
     "name": "帮帮我，鲍汁锅！",
     "organization": "南京理工大学",
@@ -4647,7 +4647,7 @@
       "official"
     ]
   },
-  "E65": {
+  {
     "team_id": "E65",
     "name": "老九农",
     "organization": "西北农林科技大学",
@@ -4661,7 +4661,7 @@
       "official"
     ]
   },
-  "E66": {
+  {
     "team_id": "E66",
     "name": "中山大学_可燃乌龙茶",
     "organization": "中山大学",
@@ -4675,7 +4675,7 @@
       "official"
     ]
   },
-  "E67": {
+  {
     "team_id": "E67",
     "name": "打饿了吃隔壁桌",
     "organization": "北京理工大学",
@@ -4689,7 +4689,7 @@
       "official"
     ]
   },
-  "E71": {
+  {
     "team_id": "E71",
     "name": "物之不齐，物之情也",
     "organization": "信息工程大学",
@@ -4703,7 +4703,7 @@
       "official"
     ]
   },
-  "E72": {
+  {
     "team_id": "E72",
     "name": "玛卡巴卡和它的秘密花园",
     "organization": "中南民族大学",
@@ -4717,7 +4717,7 @@
       "official"
     ]
   },
-  "E73": {
+  {
     "team_id": "E73",
     "name": "艰难依然坚持",
     "organization": "齐鲁工业大学",
@@ -4731,7 +4731,7 @@
       "official"
     ]
   },
-  "E74": {
+  {
     "team_id": "E74",
     "name": "飞带长队",
     "organization": "浙江省衢州第二中学",
@@ -4745,7 +4745,7 @@
       "unofficial"
     ]
   },
-  "E75": {
+  {
     "team_id": "E75",
     "name": "Poetry of The Day After",
     "organization": "浙江万里学院",
@@ -4759,7 +4759,7 @@
       "official"
     ]
   },
-  "E76": {
+  {
     "team_id": "E76",
     "name": "武汉希区柯克亲手操办邹知秋退役仪式",
     "organization": "华中科技大学",
@@ -4773,7 +4773,7 @@
       "official"
     ]
   },
-  "E77": {
+  {
     "team_id": "E77",
     "name": "ZJUT11",
     "organization": "浙江工业大学",
@@ -4787,7 +4787,7 @@
       "official"
     ]
   },
-  "A01": {
+  {
     "team_id": "A01",
     "name": "低语的月亮",
     "organization": "中央民族大学",
@@ -4801,7 +4801,7 @@
       "official"
     ]
   },
-  "A02": {
+  {
     "team_id": "A02",
     "name": "躺在沙发上变成没知觉的植物沉入泥中蝶泳",
     "organization": "北京大学",
@@ -4815,7 +4815,7 @@
       "official"
     ]
   },
-  "A03": {
+  {
     "team_id": "A03",
     "name": "中山大学_cutelyou",
     "organization": "中山大学",
@@ -4829,7 +4829,7 @@
       "official"
     ]
   },
-  "A04": {
+  {
     "team_id": "A04",
     "name": "对了吗？如队",
     "organization": "北京邮电大学",
@@ -4843,7 +4843,7 @@
       "official"
     ]
   },
-  "A05": {
+  {
     "team_id": "A05",
     "name": "铁逝二度",
     "organization": "中国海洋大学",
@@ -4857,7 +4857,7 @@
       "official"
     ]
   },
-  "A06": {
+  {
     "team_id": "A06",
     "name": "Wonder of U",
     "organization": "浙江万里学院",
@@ -4871,7 +4871,7 @@
       "official"
     ]
   },
-  "A07": {
+  {
     "team_id": "A07",
     "name": "极光队",
     "organization": "华为技术有限公司",
@@ -4885,7 +4885,7 @@
       "unofficial"
     ]
   },
-  "A11": {
+  {
     "team_id": "A11",
     "name": "一码归一码",
     "organization": "北京林业大学",
@@ -4899,7 +4899,7 @@
       "official"
     ]
   },
-  "A12": {
+  {
     "team_id": "A12",
     "name": "锐笔速写",
     "organization": "阜阳师范大学",
@@ -4913,7 +4913,7 @@
       "official"
     ]
   },
-  "A13": {
+  {
     "team_id": "A13",
     "name": "哈理工10队HZ",
     "organization": "哈尔滨理工大学",
@@ -4927,7 +4927,7 @@
       "official"
     ]
   },
-  "A14": {
+  {
     "team_id": "A14",
     "name": "初始之音，响彻未来",
     "organization": "江西理工大学",
@@ -4941,7 +4941,7 @@
       "official"
     ]
   },
-  "A15": {
+  {
     "team_id": "A15",
     "name": "学海无涯，回头是岸",
     "organization": "复旦大学",
@@ -4955,7 +4955,7 @@
       "official"
     ]
   },
-  "A16": {
+  {
     "team_id": "A16",
     "name": "你的择路人",
     "organization": "北京师范大学-香港浸会大学联合国际学院",
@@ -4969,7 +4969,7 @@
       "official"
     ]
   },
-  "A17": {
+  {
     "team_id": "A17",
     "name": "别急",
     "organization": "台州学院",
@@ -4983,7 +4983,7 @@
       "official"
     ]
   },
-  "A21": {
+  {
     "team_id": "A21",
     "name": "Must be the right",
     "organization": "云南大学",
@@ -4997,7 +4997,7 @@
       "official"
     ]
   },
-  "A22": {
+  {
     "team_id": "A22",
     "name": "今亦求金",
     "organization": "浙江工业大学",
@@ -5011,7 +5011,7 @@
       "official"
     ]
   },
-  "A23": {
+  {
     "team_id": "A23",
     "name": "东北大学_十三的全排列",
     "organization": "东北大学",
@@ -5025,7 +5025,7 @@
       "official"
     ]
   },
-  "A24": {
+  {
     "team_id": "A24",
     "name": "原始人，起洞！",
     "organization": "齐鲁工业大学",
@@ -5039,7 +5039,7 @@
       "official"
     ]
   },
-  "A25": {
+  {
     "team_id": "A25",
     "name": "托腮",
     "organization": "浙江大学",
@@ -5053,7 +5053,7 @@
       "unofficial"
     ]
   },
-  "A26": {
+  {
     "team_id": "A26",
     "name": "Oops",
     "organization": "香港科技大学",
@@ -5067,7 +5067,7 @@
       "official"
     ]
   },
-  "A27": {
+  {
     "team_id": "A27",
     "name": "AAA蜜雪冰城代购",
     "organization": "浙江师范大学",
@@ -5081,7 +5081,7 @@
       "official"
     ]
   },
-  "A31": {
+  {
     "team_id": "A31",
     "name": "我打铁牌？真的假的？",
     "organization": "南京大学",
@@ -5095,7 +5095,7 @@
       "official"
     ]
   },
-  "A32": {
+  {
     "team_id": "A32",
     "name": "夏日青空",
     "organization": "浙大城市学院",
@@ -5109,7 +5109,7 @@
       "official"
     ]
   },
-  "A33": {
+  {
     "team_id": "A33",
     "name": "和平讨论不带节奏",
     "organization": "华中科技大学",
@@ -5123,7 +5123,7 @@
       "official"
     ]
   },
-  "A34": {
+  {
     "team_id": "A34",
     "name": "与星尘的握手",
     "organization": "广西大学",
@@ -5137,7 +5137,7 @@
       "official"
     ]
   },
-  "A35": {
+  {
     "team_id": "A35",
     "name": "南航猫猫头（队长十年单身换区域赛铜牌版）",
     "organization": "南京航空航天大学",
@@ -5151,7 +5151,7 @@
       "official"
     ]
   },
-  "A36": {
+  {
     "team_id": "A36",
     "name": "打xcpc不喊我",
     "organization": "华南理工大学",
@@ -5165,7 +5165,7 @@
       "official"
     ]
   },
-  "A37": {
+  {
     "team_id": "A37",
     "name": "蓝桥杯梦之队",
     "organization": "重庆邮电大学",
@@ -5179,7 +5179,7 @@
       "official"
     ]
   },
-  "A41": {
+  {
     "team_id": "A41",
     "name": "帅哥队长还在征婚QQ2216541094",
     "organization": "哈尔滨工业大学（威海）",
@@ -5193,7 +5193,7 @@
       "official"
     ]
   },
-  "A42": {
+  {
     "team_id": "A42",
     "name": "请你给个牌子，我什么都可以做",
     "organization": "新疆大学",
@@ -5207,7 +5207,7 @@
       "official"
     ]
   },
-  "A43": {
+  {
     "team_id": "A43",
     "name": "找不到队友",
     "organization": "广东培正学院",
@@ -5221,7 +5221,7 @@
       "official"
     ]
   },
-  "A44": {
+  {
     "team_id": "A44",
     "name": "重生之我在哈工深打ACM",
     "organization": "哈尔滨工业大学（深圳）",
@@ -5235,7 +5235,7 @@
       "official"
     ]
   },
-  "A45": {
+  {
     "team_id": "A45",
     "name": "初心",
     "organization": "香港城市大学",
@@ -5249,7 +5249,7 @@
       "official"
     ]
   },
-  "A46": {
+  {
     "team_id": "A46",
     "name": "带带我，我也会挂名",
     "organization": "浙江理工大学",
@@ -5263,7 +5263,7 @@
       "official"
     ]
   },
-  "A47": {
+  {
     "team_id": "A47",
     "name": "卡批炉批和穹批",
     "organization": "北京理工大学",
@@ -5277,7 +5277,7 @@
       "official"
     ]
   },
-  "A51": {
+  {
     "team_id": "A51",
     "name": "退休中灯再就业",
     "organization": "中国科学技术大学",
@@ -5291,7 +5291,7 @@
       "official"
     ]
   },
-  "A52": {
+  {
     "team_id": "A52",
     "name": "清纯白毛小萝莉",
     "organization": "山东理工大学",
@@ -5305,7 +5305,7 @@
       "official"
     ]
   },
-  "A53": {
+  {
     "team_id": "A53",
     "name": "我们只要敲代码就可以了，可是测评机要考虑的事情就多了",
     "organization": "浙江工业职业技术学院",
@@ -5319,7 +5319,7 @@
       "official"
     ]
   },
-  "A54": {
+  {
     "team_id": "A54",
     "name": "西西弗斯",
     "organization": "东南大学",
@@ -5333,7 +5333,7 @@
       "official"
     ]
   },
-  "A55": {
+  {
     "team_id": "A55",
     "name": "拼搏百天，我要上天津大学",
     "organization": "天津大学",
@@ -5347,7 +5347,7 @@
       "official"
     ]
   },
-  "A56": {
+  {
     "team_id": "A56",
     "name": "我爱杭师",
     "organization": "长春理工大学",
@@ -5361,7 +5361,7 @@
       "official"
     ]
   },
-  "A57": {
+  {
     "team_id": "A57",
     "name": "大鸟ZigZigZag",
     "organization": "中南大学",
@@ -5375,7 +5375,7 @@
       "official"
     ]
   },
-  "A61": {
+  {
     "team_id": "A61",
     "name": "训练两年半，何日上绿名",
     "organization": "湘潭大学",
@@ -5389,7 +5389,7 @@
       "official"
     ]
   },
-  "A62": {
+  {
     "team_id": "A62",
     "name": "狗不理包子",
     "organization": "河南大学",
@@ -5403,7 +5403,7 @@
       "official"
     ]
   },
-  "A63": {
+  {
     "team_id": "A63",
     "name": "啥",
     "organization": "中国科学院大学",
@@ -5417,7 +5417,7 @@
       "official"
     ]
   },
-  "A64": {
+  {
     "team_id": "A64",
     "name": "jump！！！！",
     "organization": "广东工业大学",
@@ -5431,7 +5431,7 @@
       "official"
     ]
   },
-  "A65": {
+  {
     "team_id": "A65",
     "name": "牛战士的AK之梦",
     "organization": "西北工业大学",
@@ -5445,7 +5445,7 @@
       "official"
     ]
   },
-  "A66": {
+  {
     "team_id": "A66",
     "name": "不拿牌就不能守护你，拿起牌就不能拥抱你",
     "organization": "浙江农林大学",
@@ -5459,7 +5459,7 @@
       "official"
     ]
   },
-  "A67": {
+  {
     "team_id": "A67",
     "name": "我我我我我我",
     "organization": "上海理工大学",
@@ -5473,4 +5473,4 @@
       "official"
     ]
   }
-}
+]

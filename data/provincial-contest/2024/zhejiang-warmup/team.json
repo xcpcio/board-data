@@ -1,5 +1,5 @@
-{
-  "exteam": {
+[
+  {
     "team_id": "exteam",
     "name": "Example teamname",
     "organization": "Utrecht University",
@@ -7,7 +7,7 @@
     "unofficial": false,
     "girl": false
   },
-  "2-A01": {
+  {
     "team_id": "2-A01",
     "name": "彻夜之歌",
     "organization": "浙江万里学院",
@@ -21,7 +21,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-A03": {
+  {
     "team_id": "2-A03",
     "name": "别急",
     "organization": "台州学院",
@@ -35,7 +35,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-A05": {
+  {
     "team_id": "2-A05",
     "name": "干饭不想排队",
     "organization": "浙江纺织服装职业技术学院",
@@ -49,7 +49,7 @@
     "girl": false,
     "vocational": true
   },
-  "2-A07": {
+  {
     "team_id": "2-A07",
     "name": "寒星孤月",
     "organization": "浙江财经大学",
@@ -63,7 +63,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-A09": {
+  {
     "team_id": "2-A09",
     "name": "学姐，菜菜，带带！",
     "organization": "中国计量大学",
@@ -77,7 +77,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-A11": {
+  {
     "team_id": "2-A11",
     "name": "破晓",
     "organization": "绍兴文理学院",
@@ -91,7 +91,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-A13": {
+  {
     "team_id": "2-A13",
     "name": "破了古罗马+队",
     "organization": "温州理工学院",
@@ -105,7 +105,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-A15": {
+  {
     "team_id": "2-A15",
     "name": "ZJUT5",
     "organization": "浙江工业大学",
@@ -119,7 +119,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-A17": {
+  {
     "team_id": "2-A17",
     "name": "送温暖",
     "organization": "浙江理工大学科技与艺术学院",
@@ -133,7 +133,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-A19": {
+  {
     "team_id": "2-A19",
     "name": "杭电7队",
     "organization": "杭州电子科技大学",
@@ -147,7 +147,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-A21": {
+  {
     "team_id": "2-A21",
     "name": "TWT爱水题",
     "organization": "浙江科技大学",
@@ -161,7 +161,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-A23": {
+  {
     "team_id": "2-A23",
     "name": "异世湘豫",
     "organization": "浙江机电职业技术学院",
@@ -175,7 +175,7 @@
     "girl": false,
     "vocational": true
   },
-  "2-A25": {
+  {
     "team_id": "2-A25",
     "name": "静水流深",
     "organization": "湖州学院",
@@ -189,7 +189,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-A27": {
+  {
     "team_id": "2-A27",
     "name": "理塘最速WA传说",
     "organization": "浙江工商大学",
@@ -203,7 +203,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-A29": {
+  {
     "team_id": "2-A29",
     "name": "a几题干几碗饭",
     "organization": "浙江商业职业技术学院",
@@ -217,7 +217,7 @@
     "girl": false,
     "vocational": true
   },
-  "2-A31": {
+  {
     "team_id": "2-A31",
     "name": "你不能拿我们和那些本科队伍比",
     "organization": "宁波职业技术学院",
@@ -231,7 +231,7 @@
     "girl": false,
     "vocational": true
   },
-  "2-A33": {
+  {
     "team_id": "2-A33",
     "name": "东阳市老年开放大学1队",
     "organization": "浙江广厦建设职业技术大学",
@@ -245,7 +245,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-A35": {
+  {
     "team_id": "2-A35",
     "name": "点击提交",
     "organization": "温州商学院",
@@ -259,7 +259,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-A37": {
+  {
     "team_id": "2-A37",
     "name": "随机雾里",
     "organization": "浙江大学",
@@ -273,7 +273,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-A39": {
+  {
     "team_id": "2-A39",
     "name": "手我",
     "organization": "浙江金华第一中学",
@@ -286,7 +286,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "2-A41": {
+  {
     "team_id": "2-A41",
     "name": "坩埚花菜嘎嘎香",
     "organization": "宁波大学",
@@ -300,7 +300,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-A43": {
+  {
     "team_id": "2-A43",
     "name": "创意工坊",
     "organization": "宁波工程学院",
@@ -314,7 +314,7 @@
     "girl": true,
     "undergraduate": true
   },
-  "2-A45": {
+  {
     "team_id": "2-A45",
     "name": "25科软点击就送",
     "organization": "浙江农林大学",
@@ -328,7 +328,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-A47": {
+  {
     "team_id": "2-A47",
     "name": "温医菜狗",
     "organization": "温州医科大学",
@@ -342,7 +342,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-A49": {
+  {
     "team_id": "2-A49",
     "name": "浙江工业职业技术学院14队",
     "organization": "浙江工业职业技术学院",
@@ -356,7 +356,7 @@
     "girl": false,
     "vocational": true
   },
-  "2-A51": {
+  {
     "team_id": "2-A51",
     "name": "青梅绿茶",
     "organization": "浙大宁波理工学院",
@@ -370,7 +370,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-A53": {
+  {
     "team_id": "2-A53",
     "name": "金六队",
     "organization": "浙江金融职业学院",
@@ -384,7 +384,7 @@
     "girl": false,
     "vocational": true
   },
-  "2-A55": {
+  {
     "team_id": "2-A55",
     "name": "红鹰一号",
     "organization": "宁波财经学院",
@@ -398,7 +398,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-A57": {
+  {
     "team_id": "2-A57",
     "name": "你再怎么喷我都没用，我只会签到题",
     "organization": "金华职业技术学院",
@@ -412,7 +412,7 @@
     "girl": false,
     "vocational": true
   },
-  "2-A59": {
+  {
     "team_id": "2-A59",
     "name": "Java2k包吃住",
     "organization": "嘉兴大学",
@@ -426,7 +426,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-A61": {
+  {
     "team_id": "2-A61",
     "name": "Lemon Tree",
     "organization": "浙大城市学院",
@@ -440,7 +440,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-A63": {
+  {
     "team_id": "2-A63",
     "name": "HTT-F",
     "organization": "浙江中医药大学",
@@ -454,7 +454,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-A65": {
+  {
     "team_id": "2-A65",
     "name": "三个臭皮匠",
     "organization": "绍兴职业技术学院",
@@ -468,7 +468,7 @@
     "girl": false,
     "vocational": true
   },
-  "2-A67": {
+  {
     "team_id": "2-A67",
     "name": "就这个了吧",
     "organization": "杭州师范大学",
@@ -482,7 +482,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-A69": {
+  {
     "team_id": "2-A69",
     "name": "面向队象",
     "organization": "浙江外国语学院",
@@ -496,7 +496,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-A71": {
+  {
     "team_id": "2-A71",
     "name": "桥豆麻队",
     "organization": "浙江传媒学院",
@@ -510,7 +510,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-A73": {
+  {
     "team_id": "2-A73",
     "name": "我没错就对",
     "organization": "宁波城市职业技术学院",
@@ -524,7 +524,7 @@
     "girl": false,
     "vocational": true
   },
-  "2-A75": {
+  {
     "team_id": "2-A75",
     "name": "一一一",
     "organization": "杭州医学院",
@@ -538,7 +538,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-A77": {
+  {
     "team_id": "2-A77",
     "name": "温大四队",
     "organization": "温州大学",
@@ -552,7 +552,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-A79": {
+  {
     "team_id": "2-A79",
     "name": "嘉职院三队",
     "organization": "嘉兴职业技术学院",
@@ -566,7 +566,7 @@
     "girl": false,
     "vocational": true
   },
-  "2-A81": {
+  {
     "team_id": "2-A81",
     "name": "桃夭",
     "organization": "浙江越秀外国语学院",
@@ -580,7 +580,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-A83": {
+  {
     "team_id": "2-A83",
     "name": "三幻神",
     "organization": "浙江师范大学",
@@ -594,7 +594,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-B01": {
+  {
     "team_id": "2-B01",
     "name": "劳大也来ACM",
     "organization": "浙江理工大学科技与艺术学院",
@@ -608,7 +608,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-B03": {
+  {
     "team_id": "2-B03",
     "name": "七彩阳光",
     "organization": "温州大学",
@@ -622,7 +622,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-B05": {
+  {
     "team_id": "2-B05",
     "name": "整天对着5sao憧的凑DD们(",
     "organization": "浙江机电职业技术学院",
@@ -636,7 +636,7 @@
     "girl": false,
     "vocational": true
   },
-  "2-B07": {
+  {
     "team_id": "2-B07",
     "name": "nan",
     "organization": "浙江纺织服装职业技术学院",
@@ -650,7 +650,7 @@
     "girl": false,
     "vocational": true
   },
-  "2-B09": {
+  {
     "team_id": "2-B09",
     "name": "Antiamuny Computation",
     "organization": "上海大学",
@@ -663,7 +663,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "2-B11": {
+  {
     "team_id": "2-B11",
     "name": "梅川苦茶子",
     "organization": "浙江科技大学",
@@ -677,7 +677,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-B13": {
+  {
     "team_id": "2-B13",
     "name": "我觉得不太",
     "organization": "宁波职业技术学院",
@@ -691,7 +691,7 @@
     "girl": false,
     "vocational": true
   },
-  "2-B15": {
+  {
     "team_id": "2-B15",
     "name": "疾旋鼬可爱喵",
     "organization": "浙江农林大学",
@@ -705,7 +705,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-B17": {
+  {
     "team_id": "2-B17",
     "name": "压缩猫巾",
     "organization": "浙江财经大学",
@@ -719,7 +719,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-B19": {
+  {
     "team_id": "2-B19",
     "name": "难铜",
     "organization": "绍兴文理学院",
@@ -733,7 +733,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-B21": {
+  {
     "team_id": "2-B21",
     "name": "凤雏",
     "organization": "丽水职业技术学院",
@@ -747,7 +747,7 @@
     "girl": false,
     "vocational": true
   },
-  "2-B23": {
+  {
     "team_id": "2-B23",
     "name": "happy猫不happy",
     "organization": "浙大宁波理工学院",
@@ -761,7 +761,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-B25": {
+  {
     "team_id": "2-B25",
     "name": "三人小队",
     "organization": "宁波大学",
@@ -775,7 +775,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-B27": {
+  {
     "team_id": "2-B27",
     "name": "参宿七",
     "organization": "浙大城市学院",
@@ -789,7 +789,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-B29": {
+  {
     "team_id": "2-B29",
     "name": "霍霍的花火",
     "organization": "浙江工业大学",
@@ -803,7 +803,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-B31": {
+  {
     "team_id": "2-B31",
     "name": "羊村王中王",
     "organization": "浙江师范大学",
@@ -817,7 +817,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-B33": {
+  {
     "team_id": "2-B33",
     "name": "热爱队",
     "organization": "湖州职业技术学院",
@@ -831,7 +831,7 @@
     "girl": false,
     "vocational": true
   },
-  "2-B35": {
+  {
     "team_id": "2-B35",
     "name": "真有趣该回家了",
     "organization": "台州学院",
@@ -845,7 +845,7 @@
     "girl": true,
     "undergraduate": true
   },
-  "2-B37": {
+  {
     "team_id": "2-B37",
     "name": "余霞成绮",
     "organization": "浙江工商大学",
@@ -859,7 +859,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-B39": {
+  {
     "team_id": "2-B39",
     "name": "yummy最yummy队",
     "organization": "西湖大学",
@@ -873,7 +873,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-B41": {
+  {
     "team_id": "2-B41",
     "name": "复仇之魂",
     "organization": "浙江大学",
@@ -887,7 +887,7 @@
     "girl": true,
     "undergraduate": true
   },
-  "2-B43": {
+  {
     "team_id": "2-B43",
     "name": "银河棒球侠",
     "organization": "杭州职业技术学院",
@@ -901,7 +901,7 @@
     "girl": false,
     "vocational": true
   },
-  "2-B45": {
+  {
     "team_id": "2-B45",
     "name": "天元公学2队",
     "organization": "天元公学",
@@ -914,7 +914,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "2-B47": {
+  {
     "team_id": "2-B47",
     "name": "浙外X队",
     "organization": "浙江外国语学院",
@@ -928,7 +928,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-B49": {
+  {
     "team_id": "2-B49",
     "name": "待到秋来九月八",
     "organization": "湖州师范学院",
@@ -942,7 +942,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-B51": {
+  {
     "team_id": "2-B51",
     "name": "温职四队",
     "organization": "温州职业技术学院",
@@ -956,7 +956,7 @@
     "girl": false,
     "vocational": true
   },
-  "2-B53": {
+  {
     "team_id": "2-B53",
     "name": "啊对对对对队",
     "organization": "浙江经贸职业技术学院",
@@ -970,7 +970,7 @@
     "girl": false,
     "vocational": true
   },
-  "2-B55": {
+  {
     "team_id": "2-B55",
     "name": "艾我钟华队",
     "organization": "台州科技职业学院",
@@ -984,7 +984,7 @@
     "girl": false,
     "vocational": true
   },
-  "2-B57": {
+  {
     "team_id": "2-B57",
     "name": "让我ac吧，求求你了，我什么都会做的",
     "organization": "浙江水利水电学院",
@@ -998,7 +998,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-B59": {
+  {
     "team_id": "2-B59",
     "name": "浙江工业职业技术学院16队",
     "organization": "浙江工业职业技术学院",
@@ -1012,7 +1012,7 @@
     "girl": false,
     "vocational": true
   },
-  "2-B61": {
+  {
     "team_id": "2-B61",
     "name": "大家对就对",
     "organization": "宁波城市职业技术学院",
@@ -1026,7 +1026,7 @@
     "girl": false,
     "vocational": true
   },
-  "2-B63": {
+  {
     "team_id": "2-B63",
     "name": "海上星亮晶晶",
     "organization": "海亮高级中学",
@@ -1039,7 +1039,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "2-B65": {
+  {
     "team_id": "2-B65",
     "name": "温科像素海盗",
     "organization": "温州科技职业学院",
@@ -1053,7 +1053,7 @@
     "girl": false,
     "vocational": true
   },
-  "2-B67": {
+  {
     "team_id": "2-B67",
     "name": "妙WA种子",
     "organization": "温州商学院",
@@ -1067,7 +1067,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-B69": {
+  {
     "team_id": "2-B69",
     "name": "杭电8队",
     "organization": "杭州电子科技大学",
@@ -1081,7 +1081,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-B71": {
+  {
     "team_id": "2-B71",
     "name": "长不出脑子",
     "organization": "台州职业技术学院",
@@ -1095,7 +1095,7 @@
     "girl": false,
     "vocational": true
   },
-  "2-B73": {
+  {
     "team_id": "2-B73",
     "name": "旅游三人组",
     "organization": "宁波财经学院",
@@ -1109,7 +1109,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-B75": {
+  {
     "team_id": "2-B75",
     "name": "啊对对对对队",
     "organization": "嘉兴大学",
@@ -1123,7 +1123,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-B77": {
+  {
     "team_id": "2-B77",
     "name": "重生之被菜狗虐爆",
     "organization": "宁波工程学院",
@@ -1137,7 +1137,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-B79": {
+  {
     "team_id": "2-B79",
     "name": "苍蝇搓手,优势在我",
     "organization": "中国计量大学",
@@ -1151,7 +1151,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-B81": {
+  {
     "team_id": "2-B81",
     "name": "青青草原不dp",
     "organization": "杭州师范大学附属中学",
@@ -1164,7 +1164,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "2-B83": {
+  {
     "team_id": "2-B83",
     "name": "星玥落，凝成糖",
     "organization": "浙江中医药大学",
@@ -1178,7 +1178,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-C01": {
+  {
     "team_id": "2-C01",
     "name": "碗圆深碗太多导致的",
     "organization": "宁波城市职业技术学院",
@@ -1192,7 +1192,7 @@
     "girl": false,
     "vocational": true
   },
-  "2-C03": {
+  {
     "team_id": "2-C03",
     "name": "不会编程",
     "organization": "台州科技职业学院",
@@ -1206,7 +1206,7 @@
     "girl": false,
     "vocational": true
   },
-  "2-C05": {
+  {
     "team_id": "2-C05",
     "name": "新手挑战者",
     "organization": "浙江经贸职业技术学院",
@@ -1220,7 +1220,7 @@
     "girl": false,
     "vocational": true
   },
-  "2-C07": {
+  {
     "team_id": "2-C07",
     "name": "什么档次挑战我们队",
     "organization": "浙江商业职业技术学院",
@@ -1234,7 +1234,7 @@
     "girl": false,
     "vocational": true
   },
-  "2-C09": {
+  {
     "team_id": "2-C09",
     "name": "这次一定队",
     "organization": "湖州职业技术学院",
@@ -1248,7 +1248,7 @@
     "girl": false,
     "vocational": true
   },
-  "2-C11": {
+  {
     "team_id": "2-C11",
     "name": "温大二十八队",
     "organization": "温州大学",
@@ -1262,7 +1262,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-C13": {
+  {
     "team_id": "2-C13",
     "name": "不想坐牢大了",
     "organization": "浙江财经大学",
@@ -1276,7 +1276,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-C15": {
+  {
     "team_id": "2-C15",
     "name": "来生",
     "organization": "浙大宁波理工学院",
@@ -1290,7 +1290,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-C17": {
+  {
     "team_id": "2-C17",
     "name": "Insomniac",
     "organization": "浙江工业大学",
@@ -1304,7 +1304,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-C19": {
+  {
     "team_id": "2-C19",
     "name": "爱丽丝错了，爱丽丝不该在网上口嗨的😭",
     "organization": "嘉兴大学",
@@ -1318,7 +1318,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-C21": {
+  {
     "team_id": "2-C21",
     "name": "海底小纵队",
     "organization": "温州理工学院",
@@ -1332,7 +1332,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-C23": {
+  {
     "team_id": "2-C23",
     "name": "奇妙旋律",
     "organization": "浙江农林大学暨阳学院",
@@ -1346,7 +1346,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-C25": {
+  {
     "team_id": "2-C25",
     "name": "感觉要长脑子",
     "organization": "台州职业技术学院",
@@ -1360,7 +1360,7 @@
     "girl": false,
     "vocational": true
   },
-  "2-C27": {
+  {
     "team_id": "2-C27",
     "name": "朱振纯AC亮子勋章",
     "organization": "绍兴文理学院元培学院",
@@ -1374,7 +1374,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-C29": {
+  {
     "team_id": "2-C29",
     "name": "兄弟，我想拿牌",
     "organization": "中国计量大学",
@@ -1388,7 +1388,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-C31": {
+  {
     "team_id": "2-C31",
     "name": "浙理二队",
     "organization": "浙江理工大学",
@@ -1402,7 +1402,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-C33": {
+  {
     "team_id": "2-C33",
     "name": "竹石队",
     "organization": "杭州职业技术学院",
@@ -1416,7 +1416,7 @@
     "girl": false,
     "vocational": true
   },
-  "2-C35": {
+  {
     "team_id": "2-C35",
     "name": "瑞道克道格",
     "organization": "浙江工商大学",
@@ -1430,7 +1430,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-C37": {
+  {
     "team_id": "2-C37",
     "name": "你说的都队",
     "organization": "浙江长征职业技术学院",
@@ -1444,7 +1444,7 @@
     "girl": false,
     "vocational": true
   },
-  "2-C39": {
+  {
     "team_id": "2-C39",
     "name": "码码生的队",
     "organization": "衢州学院",
@@ -1458,7 +1458,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-C41": {
+  {
     "team_id": "2-C41",
     "name": "神犇v你50罚时看看实力",
     "organization": "宁波工程学院",
@@ -1472,7 +1472,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-C43": {
+  {
     "team_id": "2-C43",
     "name": "无敌暴龙战队",
     "organization": "金华职业技术学院",
@@ -1486,7 +1486,7 @@
     "girl": false,
     "vocational": true
   },
-  "2-C45": {
+  {
     "team_id": "2-C45",
     "name": "兄弟你好香",
     "organization": "杭州医学院",
@@ -1500,7 +1500,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-C47": {
+  {
     "team_id": "2-C47",
     "name": "春天的草莓和夏天的啤酒花",
     "organization": "杭州师范大学",
@@ -1514,7 +1514,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-C49": {
+  {
     "team_id": "2-C49",
     "name": "嘉职院二队",
     "organization": "嘉兴职业技术学院",
@@ -1528,7 +1528,7 @@
     "girl": false,
     "vocational": true
   },
-  "2-C51": {
+  {
     "team_id": "2-C51",
     "name": "真红骑士，出发！",
     "organization": "浙江水利水电学院",
@@ -1542,7 +1542,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-C53": {
+  {
     "team_id": "2-C53",
     "name": "泥巴动物园",
     "organization": "宁波大学",
@@ -1556,7 +1556,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-C55": {
+  {
     "team_id": "2-C55",
     "name": "杭电2队",
     "organization": "杭州电子科技大学",
@@ -1570,7 +1570,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-C57": {
+  {
     "team_id": "2-C57",
     "name": "温科一队",
     "organization": "温州科技职业学院",
@@ -1584,7 +1584,7 @@
     "girl": false,
     "vocational": true
   },
-  "2-C59": {
+  {
     "team_id": "2-C59",
     "name": "育英六队附属队",
     "organization": "浙江育英职业技术学院",
@@ -1598,7 +1598,7 @@
     "girl": false,
     "vocational": true
   },
-  "2-D01": {
+  {
     "team_id": "2-D01",
     "name": "温职二队",
     "organization": "温州职业技术学院",
@@ -1612,7 +1612,7 @@
     "girl": false,
     "vocational": true
   },
-  "2-D03": {
+  {
     "team_id": "2-D03",
     "name": "浙江海洋大学二队",
     "organization": "浙江海洋大学",
@@ -1626,7 +1626,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-D05": {
+  {
     "team_id": "2-D05",
     "name": "蹭到饭就是成功队",
     "organization": "浙江传媒学院",
@@ -1640,7 +1640,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-D07": {
+  {
     "team_id": "2-D07",
     "name": "霸气酷酷伦",
     "organization": "浙江师范大学",
@@ -1654,7 +1654,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-D09": {
+  {
     "team_id": "2-D09",
     "name": "懒羊羊队",
     "organization": "湖州师范学院",
@@ -1668,7 +1668,7 @@
     "girl": true,
     "undergraduate": true
   },
-  "2-D11": {
+  {
     "team_id": "2-D11",
     "name": "贾如伍真的宁AC",
     "organization": "浙江警官职业学院",
@@ -1682,7 +1682,7 @@
     "girl": false,
     "vocational": true
   },
-  "2-D13": {
+  {
     "team_id": "2-D13",
     "name": "写给AYAKA的十四行诗",
     "organization": "浙江经贸职业技术学院",
@@ -1696,7 +1696,7 @@
     "girl": false,
     "vocational": true
   },
-  "2-D15": {
+  {
     "team_id": "2-D15",
     "name": "飞飞",
     "organization": "浙江理工大学",
@@ -1710,7 +1710,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-D17": {
+  {
     "team_id": "2-D17",
     "name": "很好的题目使我的脑袋旋转",
     "organization": "浙江纺织服装职业技术学院",
@@ -1724,7 +1724,7 @@
     "girl": false,
     "vocational": true
   },
-  "2-D19": {
+  {
     "team_id": "2-D19",
     "name": "大橘为重",
     "organization": "浙大宁波理工学院",
@@ -1738,7 +1738,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-D21": {
+  {
     "team_id": "2-D21",
     "name": "你说我还有机会吗",
     "organization": "浙江财经大学",
@@ -1752,7 +1752,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-D23": {
+  {
     "team_id": "2-D23",
     "name": "别垂头丧气",
     "organization": "台州学院",
@@ -1766,7 +1766,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-D25": {
+  {
     "team_id": "2-D25",
     "name": "金神寄托",
     "organization": "浙江工业大学",
@@ -1780,7 +1780,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-D27": {
+  {
     "team_id": "2-D27",
     "name": "的喂对",
     "organization": "浙江理工大学科技与艺术学院",
@@ -1794,7 +1794,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-D29": {
+  {
     "team_id": "2-D29",
     "name": "这个彬彬交题好逊哦",
     "organization": "浙江农林大学",
@@ -1808,7 +1808,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-D31": {
+  {
     "team_id": "2-D31",
     "name": "浙江工业职业技术学院12队",
     "organization": "浙江工业职业技术学院",
@@ -1822,7 +1822,7 @@
     "girl": false,
     "vocational": true
   },
-  "2-D33": {
+  {
     "team_id": "2-D33",
     "name": "追逐梦想的小狗",
     "organization": "浙江万里学院",
@@ -1836,7 +1836,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-D35": {
+  {
     "team_id": "2-D35",
     "name": "菜地卷狗",
     "organization": "绍兴文理学院元培学院",
@@ -1850,7 +1850,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-D37": {
+  {
     "team_id": "2-D37",
     "name": "低级错误",
     "organization": "浙江邮电职业技术学院",
@@ -1864,7 +1864,7 @@
     "girl": false,
     "vocational": true
   },
-  "2-D39": {
+  {
     "team_id": "2-D39",
     "name": "下水管道疏通半小时上门",
     "organization": "宁波财经学院",
@@ -1878,7 +1878,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-D41": {
+  {
     "team_id": "2-D41",
     "name": "哎呦2",
     "organization": "宁波大学科学技术学院",
@@ -1892,7 +1892,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-D43": {
+  {
     "team_id": "2-D43",
     "name": "我样例过了",
     "organization": "中国计量大学",
@@ -1906,7 +1906,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-D45": {
+  {
     "team_id": "2-D45",
     "name": "追梦少年",
     "organization": "浙江工商大学杭州商学院",
@@ -1920,7 +1920,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-D47": {
+  {
     "team_id": "2-D47",
     "name": "树形DP一下就过了",
     "organization": "杭州师范大学",
@@ -1934,7 +1934,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-D49": {
+  {
     "team_id": "2-D49",
     "name": "杭电3队",
     "organization": "杭州电子科技大学",
@@ -1948,7 +1948,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-D51": {
+  {
     "team_id": "2-D51",
     "name": "火之剑圣下西洋",
     "organization": "杭州学军中学",
@@ -1961,7 +1961,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "2-D53": {
+  {
     "team_id": "2-D53",
     "name": "重生之我是原神高手",
     "organization": "浙江中医药大学",
@@ -1975,7 +1975,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-D55": {
+  {
     "team_id": "2-D55",
     "name": "耐摔冰红茶",
     "organization": "上海财经大学浙江学院",
@@ -1989,7 +1989,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-D57": {
+  {
     "team_id": "2-D57",
     "name": "科贸1队",
     "organization": "浙江金华科贸职业技术学院",
@@ -2003,7 +2003,7 @@
     "girl": false,
     "vocational": true
   },
-  "2-D59": {
+  {
     "team_id": "2-D59",
     "name": "月亮计划",
     "organization": "杭州职业技术学院",
@@ -2017,7 +2017,7 @@
     "girl": false,
     "vocational": true
   },
-  "2-E01": {
+  {
     "team_id": "2-E01",
     "name": "坏了呀",
     "organization": "宁波大学",
@@ -2031,7 +2031,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-E03": {
+  {
     "team_id": "2-E03",
     "name": "青春中分少年会不会梦见耐摔王学长",
     "organization": "衢州学院",
@@ -2045,7 +2045,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-E05": {
+  {
     "team_id": "2-E05",
     "name": "玲珑骰子",
     "organization": "杭州电子科技大学信息工程学院",
@@ -2059,7 +2059,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-E07": {
+  {
     "team_id": "2-E07",
     "name": "数据别和我作队",
     "organization": "绍兴文理学院元培学院",
@@ -2073,7 +2073,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-E09": {
+  {
     "team_id": "2-E09",
     "name": "亿布瑞克",
     "organization": "浙江科技大学",
@@ -2087,7 +2087,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-E11": {
+  {
     "team_id": "2-E11",
     "name": "咕五的平方分钟",
     "organization": "浙江大学",
@@ -2101,7 +2101,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-E13": {
+  {
     "team_id": "2-E13",
     "name": "酸 梅 汤",
     "organization": "宁波工程学院",
@@ -2115,7 +2115,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-E15": {
+  {
     "team_id": "2-E15",
     "name": "我脑子呢我头呢我头不见了快帮我找找",
     "organization": "浙江工商大学杭州商学院",
@@ -2129,7 +2129,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-E17": {
+  {
     "team_id": "2-E17",
     "name": "Boboge",
     "organization": "杭州师范大学附属中学",
@@ -2142,7 +2142,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "2-E19": {
+  {
     "team_id": "2-E19",
     "name": "梭哈",
     "organization": "金华职业技术学院",
@@ -2156,7 +2156,7 @@
     "girl": false,
     "vocational": true
   },
-  "2-E21": {
+  {
     "team_id": "2-E21",
     "name": "温职五队",
     "organization": "温州职业技术学院",
@@ -2170,7 +2170,7 @@
     "girl": false,
     "vocational": true
   },
-  "2-E23": {
+  {
     "team_id": "2-E23",
     "name": "我们真的取不出来队名",
     "organization": "宁波职业技术学院",
@@ -2184,7 +2184,7 @@
     "girl": false,
     "vocational": true
   },
-  "2-E25": {
+  {
     "team_id": "2-E25",
     "name": "想不出队名队",
     "organization": "湖州职业技术学院",
@@ -2198,7 +2198,7 @@
     "girl": false,
     "vocational": true
   },
-  "2-E27": {
+  {
     "team_id": "2-E27",
     "name": "育英十二队",
     "organization": "浙江育英职业技术学院",
@@ -2212,7 +2212,7 @@
     "girl": true,
     "vocational": true
   },
-  "2-E29": {
+  {
     "team_id": "2-E29",
     "name": "长征一百队",
     "organization": "浙江长征职业技术学院",
@@ -2226,7 +2226,7 @@
     "girl": false,
     "vocational": true
   },
-  "2-E31": {
+  {
     "team_id": "2-E31",
     "name": "星辰雨",
     "organization": "浙大城市学院",
@@ -2240,7 +2240,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-E33": {
+  {
     "team_id": "2-E33",
     "name": "浙江工业职业技术学院17队",
     "organization": "浙江工业职业技术学院",
@@ -2254,7 +2254,7 @@
     "girl": false,
     "vocational": true
   },
-  "2-E35": {
+  {
     "team_id": "2-E35",
     "name": "阐释你的梦",
     "organization": "中国计量大学现代科技学院",
@@ -2268,7 +2268,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-E37": {
+  {
     "team_id": "2-E37",
     "name": "发际线和我作队",
     "organization": "浙江工业大学之江学院",
@@ -2282,7 +2282,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "2-E39": {
+  {
     "team_id": "2-E39",
     "name": "龙骋",
     "organization": "浙江农林大学暨阳学院",
@@ -2296,7 +2296,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-A01": {
+  {
     "team_id": "3-A01",
     "name": "Tea mAster",
     "organization": "浙江省诸暨市海亮高级中学",
@@ -2309,7 +2309,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "3-A03": {
+  {
     "team_id": "3-A03",
     "name": "幻想家在幻想时间幻想ac",
     "organization": "浙江财经大学",
@@ -2323,7 +2323,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-A05": {
+  {
     "team_id": "3-A05",
     "name": "长寿的关键在于无所事事",
     "organization": "求是书院张江校区",
@@ -2336,7 +2336,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "3-A07": {
+  {
     "team_id": "3-A07",
     "name": "三元一次方程",
     "organization": "绍兴文理学院",
@@ -2350,7 +2350,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-A09": {
+  {
     "team_id": "3-A09",
     "name": "温大一队",
     "organization": "温州大学",
@@ -2364,7 +2364,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-A11": {
+  {
     "team_id": "3-A11",
     "name": "永昼",
     "organization": "浙江农林大学暨阳学院",
@@ -2378,7 +2378,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-A13": {
+  {
     "team_id": "3-A13",
     "name": "随机过题军团",
     "organization": "浙江大学",
@@ -2392,7 +2392,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-A15": {
+  {
     "team_id": "3-A15",
     "name": "猫猫火锅",
     "organization": "浙江工商大学",
@@ -2406,7 +2406,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-A17": {
+  {
     "team_id": "3-A17",
     "name": "东阳市老年开放大学3队",
     "organization": "浙江广厦建设职业技术大学",
@@ -2420,7 +2420,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-A19": {
+  {
     "team_id": "3-A19",
     "name": "苟服一",
     "organization": "浙江机电职业技术学院",
@@ -2434,7 +2434,7 @@
     "girl": false,
     "vocational": true
   },
-  "3-A21": {
+  {
     "team_id": "3-A21",
     "name": "浙警四队",
     "organization": "浙江警察学院",
@@ -2448,7 +2448,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-A23": {
+  {
     "team_id": "3-A23",
     "name": "ZPVA_拓荒者",
     "organization": "浙江警官职业学院",
@@ -2462,7 +2462,7 @@
     "girl": false,
     "vocational": true
   },
-  "3-A25": {
+  {
     "team_id": "3-A25",
     "name": "分秒易逝，V我5时",
     "organization": "浙江师范大学",
@@ -2476,7 +2476,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-A27": {
+  {
     "team_id": "3-A27",
     "name": "蛋仔派队",
     "organization": "浙江科技大学",
@@ -2490,7 +2490,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-A29": {
+  {
     "team_id": "3-A29",
     "name": "我们不是小（3）",
     "organization": "浙江水利水电学院",
@@ -2504,7 +2504,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-A31": {
+  {
     "team_id": "3-A31",
     "name": "阳春雪后树新芽",
     "organization": "浙江工业大学之江学院",
@@ -2518,7 +2518,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-A33": {
+  {
     "team_id": "3-A33",
     "name": "ac成林队",
     "organization": "浙江邮电职业技术学院",
@@ -2532,7 +2532,7 @@
     "girl": false,
     "vocational": true
   },
-  "3-A35": {
+  {
     "team_id": "3-A35",
     "name": "队名越怪实力越强",
     "organization": "浙江外国语学院",
@@ -2546,7 +2546,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-A37": {
+  {
     "team_id": "3-A37",
     "name": "浙中医特种兵兵兵",
     "organization": "浙江中医药大学",
@@ -2560,7 +2560,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-A39": {
+  {
     "team_id": "3-A39",
     "name": "猫猫拳",
     "organization": "杭州师范大学",
@@ -2574,7 +2574,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-A41": {
+  {
     "team_id": "3-A41",
     "name": "你把爱情给了谁",
     "organization": "金华职业技术学院",
@@ -2588,7 +2588,7 @@
     "girl": false,
     "vocational": true
   },
-  "3-A43": {
+  {
     "team_id": "3-A43",
     "name": "育英六队",
     "organization": "浙江育英职业技术学院",
@@ -2602,7 +2602,7 @@
     "girl": false,
     "vocational": true
   },
-  "3-A45": {
+  {
     "team_id": "3-A45",
     "name": "AC是你的谎言",
     "organization": "浙江金融职业学院",
@@ -2616,7 +2616,7 @@
     "girl": false,
     "vocational": true
   },
-  "3-A47": {
+  {
     "team_id": "3-A47",
     "name": "杭电4队",
     "organization": "杭州电子科技大学",
@@ -2630,7 +2630,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-A49": {
+  {
     "team_id": "3-A49",
     "name": "燃烧你的梦",
     "organization": "中国计量大学现代科技学院",
@@ -2644,7 +2644,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-A51": {
+  {
     "team_id": "3-A51",
     "name": "听说水的快就能拿奖",
     "organization": "温州科技职业学院",
@@ -2658,7 +2658,7 @@
     "girl": false,
     "vocational": true
   },
-  "3-A53": {
+  {
     "team_id": "3-A53",
     "name": "使一支队免于WA",
     "organization": "宁波职业技术学院",
@@ -2672,7 +2672,7 @@
     "girl": false,
     "vocational": true
   },
-  "3-A55": {
+  {
     "team_id": "3-A55",
     "name": "夏日青空",
     "organization": "浙大城市学院",
@@ -2686,7 +2686,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-A57": {
+  {
     "team_id": "3-A57",
     "name": "青春acm少年不会梦到妙wa种子",
     "organization": "浙江农林大学",
@@ -2700,7 +2700,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-A59": {
+  {
     "team_id": "3-A59",
     "name": "练习两年半+个人练习生=小黑子",
     "organization": "浙江万里学院",
@@ -2714,7 +2714,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-A61": {
+  {
     "team_id": "3-A61",
     "name": "退役了也手痒难耐",
     "organization": "浙大宁波理工学院",
@@ -2728,7 +2728,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-A63": {
+  {
     "team_id": "3-A63",
     "name": "不死图腾",
     "organization": "浙江理工大学",
@@ -2742,7 +2742,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-A65": {
+  {
     "team_id": "3-A65",
     "name": "浙江海洋大学三队",
     "organization": "浙江海洋大学",
@@ -2756,7 +2756,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-A67": {
+  {
     "team_id": "3-A67",
     "name": "黑夜的猫",
     "organization": "绍兴文理学院元培学院",
@@ -2770,7 +2770,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-A69": {
+  {
     "team_id": "3-A69",
     "name": "秋海棠",
     "organization": "金华市丽泽中学",
@@ -2783,7 +2783,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "3-A71": {
+  {
     "team_id": "3-A71",
     "name": "廉仕哥哥我们的神",
     "organization": "湖州师范学院",
@@ -2797,7 +2797,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-A73": {
+  {
     "team_id": "3-A73",
     "name": "重生之我在双一流综合性创新创业大学受训两年半",
     "organization": "宁波大学",
@@ -2811,7 +2811,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-A75": {
+  {
     "team_id": "3-A75",
     "name": "卧龙",
     "organization": "丽水职业技术学院",
@@ -2825,7 +2825,7 @@
     "girl": false,
     "vocational": true
   },
-  "3-A77": {
+  {
     "team_id": "3-A77",
     "name": "曼巴永不落幕",
     "organization": "台州学院",
@@ -2839,7 +2839,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-A79": {
+  {
     "team_id": "3-A79",
     "name": "没有B树怎么队",
     "organization": "浙江工贸职业技术学院",
@@ -2853,7 +2853,7 @@
     "girl": false,
     "vocational": true
   },
-  "3-A81": {
+  {
     "team_id": "3-A81",
     "name": "匿名",
     "organization": "上海交通大学",
@@ -2866,7 +2866,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "3-A83": {
+  {
     "team_id": "3-A83",
     "name": "叫什么名字好呢",
     "organization": "浙江安防职业技术学院",
@@ -2880,7 +2880,7 @@
     "girl": false,
     "vocational": true
   },
-  "3-B01": {
+  {
     "team_id": "3-B01",
     "name": "万能头",
     "organization": "丽水学院",
@@ -2894,7 +2894,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-B03": {
+  {
     "team_id": "3-B03",
     "name": "v50，鸡翅分你一队",
     "organization": "浙江万里学院",
@@ -2908,7 +2908,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-B05": {
+  {
     "team_id": "3-B05",
     "name": "浙江工业职业技术学院15",
     "organization": "浙江工业职业技术学院",
@@ -2922,7 +2922,7 @@
     "girl": false,
     "vocational": true
   },
-  "3-B07": {
+  {
     "team_id": "3-B07",
     "name": "Actor",
     "organization": "宁波大学",
@@ -2936,7 +2936,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-B09": {
+  {
     "team_id": "3-B09",
     "name": "戴佳伟彩笔",
     "organization": "浙江科技大学",
@@ -2950,7 +2950,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-B11": {
+  {
     "team_id": "3-B11",
     "name": "万夫莫敌",
     "organization": "宁波工程学院",
@@ -2964,7 +2964,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-B13": {
+  {
     "team_id": "3-B13",
     "name": "ak了又怎样，她依旧不会回来",
     "organization": "浙大宁波理工学院",
@@ -2978,7 +2978,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-B15": {
+  {
     "team_id": "3-B15",
     "name": "美少女战士",
     "organization": "台州科技职业学院",
@@ -2992,7 +2992,7 @@
     "girl": true,
     "vocational": true
   },
-  "3-B17": {
+  {
     "team_id": "3-B17",
     "name": "我在IO当帕鲁",
     "organization": "衢州学院",
@@ -3006,7 +3006,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-B19": {
+  {
     "team_id": "3-B19",
     "name": "元培学院最后一舞",
     "organization": "绍兴文理学院元培学院",
@@ -3020,7 +3020,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-B21": {
+  {
     "team_id": "3-B21",
     "name": "蚁钳是蚁钳",
     "organization": "中国计量大学现代科技学院",
@@ -3034,7 +3034,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-B23": {
+  {
     "team_id": "3-B23",
     "name": "麦秋",
     "organization": "浙江机电职业技术学院",
@@ -3048,7 +3048,7 @@
     "girl": false,
     "vocational": true
   },
-  "3-B25": {
+  {
     "team_id": "3-B25",
     "name": "九衢尘",
     "organization": "浙江大学",
@@ -3062,7 +3062,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-B27": {
+  {
     "team_id": "3-B27",
     "name": "育英瘦肚子队",
     "organization": "浙江育英职业技术学院",
@@ -3076,7 +3076,7 @@
     "girl": false,
     "vocational": true
   },
-  "3-B29": {
+  {
     "team_id": "3-B29",
     "name": "我确认并感谢您强有力的测试",
     "organization": "杭州学军中学",
@@ -3089,7 +3089,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "3-B31": {
+  {
     "team_id": "3-B31",
     "name": "推翻旧日的猪仔",
     "organization": "台州学院",
@@ -3103,7 +3103,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-B33": {
+  {
     "team_id": "3-B33",
     "name": "兄弟你好香",
     "organization": "浙江中医药大学",
@@ -3117,7 +3117,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-B35": {
+  {
     "team_id": "3-B35",
     "name": "你卷吧我睡了",
     "organization": "浙江金融职业学院",
@@ -3131,7 +3131,7 @@
     "girl": true,
     "vocational": true
   },
-  "3-B37": {
+  {
     "team_id": "3-B37",
     "name": "烟花三月",
     "organization": "杭州高级中学",
@@ -3144,7 +3144,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "3-B39": {
+  {
     "team_id": "3-B39",
     "name": "三只蒟蒻",
     "organization": "绍兴文理学院",
@@ -3158,7 +3158,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-B41": {
+  {
     "team_id": "3-B41",
     "name": "东阳市老年开放大学2队",
     "organization": "浙江广厦建设职业技术大学",
@@ -3172,7 +3172,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-B43": {
+  {
     "team_id": "3-B43",
     "name": "漫无止境的七月三",
     "organization": "浙江工商大学",
@@ -3186,7 +3186,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-B45": {
+  {
     "team_id": "3-B45",
     "name": "HelloWorld",
     "organization": "上海财经大学浙江学院",
@@ -3200,7 +3200,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-B47": {
+  {
     "team_id": "3-B47",
     "name": "畅想",
     "organization": "浙江安防职业技术学院",
@@ -3214,7 +3214,7 @@
     "girl": false,
     "vocational": true
   },
-  "3-B49": {
+  {
     "team_id": "3-B49",
     "name": "403 can't AC",
     "organization": "浙江农林大学",
@@ -3228,7 +3228,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-B51": {
+  {
     "team_id": "3-B51",
     "name": "无所谓，我们会Wrong Answer",
     "organization": "绍兴职业技术学院",
@@ -3242,7 +3242,7 @@
     "girl": false,
     "vocational": true
   },
-  "3-B53": {
+  {
     "team_id": "3-B53",
     "name": "莱茵生命科考队",
     "organization": "浙江经贸职业技术学院",
@@ -3256,7 +3256,7 @@
     "girl": false,
     "vocational": true
   },
-  "3-B55": {
+  {
     "team_id": "3-B55",
     "name": "遇到困难睡大觉",
     "organization": "浙江工业大学之江学院",
@@ -3270,7 +3270,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-B57": {
+  {
     "team_id": "3-B57",
     "name": "签到就好",
     "organization": "浙江越秀外国语学院",
@@ -3284,7 +3284,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-B59": {
+  {
     "team_id": "3-B59",
     "name": "ZJNU_CodeGPT",
     "organization": "浙江师范大学",
@@ -3298,7 +3298,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-B61": {
+  {
     "team_id": "3-B61",
     "name": "啊队队队",
     "organization": "杭州电子科技大学信息工程学院",
@@ -3312,7 +3312,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-B63": {
+  {
     "team_id": "3-B63",
     "name": "老师说的队",
     "organization": "浙江理工大学",
@@ -3326,7 +3326,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-B65": {
+  {
     "team_id": "3-B65",
     "name": "老师我错了，下次一宀",
     "organization": "杭州师范大学",
@@ -3340,7 +3340,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-B67": {
+  {
     "team_id": "3-B67",
     "name": "有读我们队名的时间是不是能多A两道题",
     "organization": "嘉兴大学",
@@ -3354,7 +3354,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-B69": {
+  {
     "team_id": "3-B69",
     "name": "古希腊掌管蟒蛇的神医",
     "organization": "杭州医学院",
@@ -3368,7 +3368,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-B71": {
+  {
     "team_id": "3-B71",
     "name": "芝士蛋糕没有知识",
     "organization": "浙大城市学院",
@@ -3382,7 +3382,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-B73": {
+  {
     "team_id": "3-B73",
     "name": "随机队名",
     "organization": "浙江省诸暨市海亮高级中学",
@@ -3395,7 +3395,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "3-B75": {
+  {
     "team_id": "3-B75",
     "name": "城院一队",
     "organization": "宁波城市职业技术学院",
@@ -3409,7 +3409,7 @@
     "girl": false,
     "vocational": true
   },
-  "3-B77": {
+  {
     "team_id": "3-B77",
     "name": "不要指望我们队",
     "organization": "金华职业技术学院",
@@ -3423,7 +3423,7 @@
     "girl": true,
     "vocational": true
   },
-  "3-B79": {
+  {
     "team_id": "3-B79",
     "name": "代码写不队",
     "organization": "浙江警官职业学院",
@@ -3437,7 +3437,7 @@
     "girl": false,
     "vocational": true
   },
-  "3-B81": {
+  {
     "team_id": "3-B81",
     "name": "打acm打的",
     "organization": "浙江邮电职业技术学院",
@@ -3451,7 +3451,7 @@
     "girl": false,
     "vocational": true
   },
-  "3-B83": {
+  {
     "team_id": "3-B83",
     "name": "卡布奇诺",
     "organization": "湖州职业技术学院",
@@ -3465,7 +3465,7 @@
     "girl": false,
     "vocational": true
   },
-  "3-C01": {
+  {
     "team_id": "3-C01",
     "name": "算法福星",
     "organization": "浙江工商职业技术学院",
@@ -3479,7 +3479,7 @@
     "girl": false,
     "vocational": true
   },
-  "3-C03": {
+  {
     "team_id": "3-C03",
     "name": "逐梦02",
     "organization": "衢州职业技术学院",
@@ -3493,7 +3493,7 @@
     "girl": false,
     "vocational": true
   },
-  "3-C05": {
+  {
     "team_id": "3-C05",
     "name": "树人先锋2队",
     "organization": "浙江树人学院",
@@ -3507,7 +3507,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-C07": {
+  {
     "team_id": "3-C07",
     "name": "锟斤拷",
     "organization": "浙江水利水电学院",
@@ -3521,7 +3521,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-C09": {
+  {
     "team_id": "3-C09",
     "name": "徐金泽粉丝后援团",
     "organization": "温州理工学院",
@@ -3535,7 +3535,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-C11": {
+  {
     "team_id": "3-C11",
     "name": "汪汪队立大功",
     "organization": "杭州师范大学附属中学",
@@ -3548,7 +3548,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "3-C13": {
+  {
     "team_id": "3-C13",
     "name": "随便白给",
     "organization": "浙江科技大学",
@@ -3562,7 +3562,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-C15": {
+  {
     "team_id": "3-C15",
     "name": "小学生",
     "organization": "台州学院",
@@ -3576,7 +3576,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-C17": {
+  {
     "team_id": "3-C17",
     "name": "提姆内姆",
     "organization": "浙江大学",
@@ -3590,7 +3590,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-C19": {
+  {
     "team_id": "3-C19",
     "name": "育英小包你给点力队",
     "organization": "浙江育英职业技术学院",
@@ -3604,7 +3604,7 @@
     "girl": false,
     "vocational": true
   },
-  "3-C21": {
+  {
     "team_id": "3-C21",
     "name": "天元公学1队",
     "organization": "天元公学",
@@ -3617,7 +3617,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "3-C23": {
+  {
     "team_id": "3-C23",
     "name": "白洞、白色的明天在等着我们",
     "organization": "浙江师范大学",
@@ -3631,7 +3631,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-C25": {
+  {
     "team_id": "3-C25",
     "name": "蛙蛙",
     "organization": "嘉兴大学",
@@ -3645,7 +3645,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-C27": {
+  {
     "team_id": "3-C27",
     "name": "不玩原神",
     "organization": "杭州学军中学",
@@ -3658,7 +3658,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "3-C29": {
+  {
     "team_id": "3-C29",
     "name": "夜将不眠",
     "organization": "浙江机电职业技术学院",
@@ -3672,7 +3672,7 @@
     "girl": false,
     "vocational": true
   },
-  "3-C31": {
+  {
     "team_id": "3-C31",
     "name": "一",
     "organization": "中国计量大学",
@@ -3686,7 +3686,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-C33": {
+  {
     "team_id": "3-C33",
     "name": "温大七队",
     "organization": "温州大学",
@@ -3700,7 +3700,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-C35": {
+  {
     "team_id": "3-C35",
     "name": "兄弟，你好香！",
     "organization": "浙江财经大学",
@@ -3714,7 +3714,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-C37": {
+  {
     "team_id": "3-C37",
     "name": "红温怪兽",
     "organization": "浙大城市学院",
@@ -3728,7 +3728,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-C39": {
+  {
     "team_id": "3-C39",
     "name": "温职一队",
     "organization": "温州职业技术学院",
@@ -3742,7 +3742,7 @@
     "girl": false,
     "vocational": true
   },
-  "3-C41": {
+  {
     "team_id": "3-C41",
     "name": "十年后的八月",
     "organization": "温州商学院",
@@ -3756,7 +3756,7 @@
     "girl": false,
     "vocational": true
   },
-  "3-C43": {
+  {
     "team_id": "3-C43",
     "name": "啊对对队",
     "organization": "绍兴文理学院",
@@ -3770,7 +3770,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-C45": {
+  {
     "team_id": "3-C45",
     "name": "上一世我被原神所害，重生一世，我要励志成为星穹高手",
     "organization": "金华职业技术学院",
@@ -3784,7 +3784,7 @@
     "girl": false,
     "vocational": true
   },
-  "3-C47": {
+  {
     "team_id": "3-C47",
     "name": "persona",
     "organization": "浙江工业大学之江学院",
@@ -3798,7 +3798,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-C49": {
+  {
     "team_id": "3-C49",
     "name": "我要去浙大当保安",
     "organization": "杭州万向职业技术学院",
@@ -3812,7 +3812,7 @@
     "girl": false,
     "vocational": true
   },
-  "3-C51": {
+  {
     "team_id": "3-C51",
     "name": "无尽的风之轨迹",
     "organization": "杭州电子科技大学信息工程学院",
@@ -3826,7 +3826,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-C53": {
+  {
     "team_id": "3-C53",
     "name": "有请下一队",
     "organization": "台州科技职业学院",
@@ -3840,7 +3840,7 @@
     "girl": false,
     "vocational": true
   },
-  "3-C55": {
+  {
     "team_id": "3-C55",
     "name": "猪猪侠",
     "organization": "浙江邮电职业技术学院",
@@ -3854,7 +3854,7 @@
     "girl": false,
     "vocational": true
   },
-  "3-C57": {
+  {
     "team_id": "3-C57",
     "name": "火龙队",
     "organization": "金华市新东方双语学校",
@@ -3867,7 +3867,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "3-C59": {
+  {
     "team_id": "3-C59",
     "name": "写啥都队",
     "organization": "浙江商业职业技术学院",
@@ -3881,7 +3881,7 @@
     "girl": true,
     "vocational": true
   },
-  "3-D01": {
+  {
     "team_id": "3-D01",
     "name": "哥谭饿梦",
     "organization": "浙江工业大学之江学院",
@@ -3895,7 +3895,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-D03": {
+  {
     "team_id": "3-D03",
     "name": "胖头切丁味更佳",
     "organization": "浙江中医药大学",
@@ -3909,7 +3909,7 @@
     "girl": true,
     "undergraduate": true
   },
-  "3-D05": {
+  {
     "team_id": "3-D05",
     "name": "嘉职院一队",
     "organization": "嘉兴职业技术学院",
@@ -3923,7 +3923,7 @@
     "girl": false,
     "vocational": true
   },
-  "3-D07": {
+  {
     "team_id": "3-D07",
     "name": "+1儿童票",
     "organization": "天元公学·杭州师范大学附属未来科技城学校",
@@ -3936,7 +3936,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "3-D09": {
+  {
     "team_id": "3-D09",
     "name": "猫猫滚脸4",
     "organization": "浙江工商大学",
@@ -3950,7 +3950,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-D11": {
+  {
     "team_id": "3-D11",
     "name": "命运逆转",
     "organization": "杭州师范大学附属中学",
@@ -3963,7 +3963,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "3-D13": {
+  {
     "team_id": "3-D13",
     "name": "邪恶泡泡与射线恶魔",
     "organization": "浙江理工大学",
@@ -3977,7 +3977,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-D15": {
+  {
     "team_id": "3-D15",
     "name": "十发罚时",
     "organization": "浙江大学",
@@ -3991,7 +3991,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-D17": {
+  {
     "team_id": "3-D17",
     "name": "我一定要扫宁波大街",
     "organization": "宁波大学",
@@ -4005,7 +4005,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-D19": {
+  {
     "team_id": "3-D19",
     "name": "AC不了一点",
     "organization": "绍兴文理学院",
@@ -4019,7 +4019,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-D21": {
+  {
     "team_id": "3-D21",
     "name": "害怕内卷大学牲",
     "organization": "浙大城市学院",
@@ -4033,7 +4033,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-D23": {
+  {
     "team_id": "3-D23",
     "name": "纯真丁一郎",
     "organization": "宁波城市职业技术学院",
@@ -4047,7 +4047,7 @@
     "girl": false,
     "vocational": true
   },
-  "3-D25": {
+  {
     "team_id": "3-D25",
     "name": "大吉大利",
     "organization": "绍兴职业技术学院",
@@ -4061,7 +4061,7 @@
     "girl": false,
     "vocational": true
   },
-  "3-D27": {
+  {
     "team_id": "3-D27",
     "name": "登高望远队",
     "organization": "宁波工程学院",
@@ -4075,7 +4075,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-D29": {
+  {
     "team_id": "3-D29",
     "name": "队里有神，但是原神",
     "organization": "浙江长征职业技术学院",
@@ -4089,7 +4089,7 @@
     "girl": false,
     "vocational": true
   },
-  "3-D31": {
+  {
     "team_id": "3-D31",
     "name": "杭电6队",
     "organization": "杭州电子科技大学",
@@ -4103,7 +4103,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-D33": {
+  {
     "team_id": "3-D33",
     "name": "育英1012队",
     "organization": "浙江育英职业技术学院",
@@ -4117,7 +4117,7 @@
     "girl": false,
     "vocational": true
   },
-  "3-D35": {
+  {
     "team_id": "3-D35",
     "name": "温科二队",
     "organization": "温州科技职业学院",
@@ -4131,7 +4131,7 @@
     "girl": false,
     "vocational": true
   },
-  "3-D37": {
+  {
     "team_id": "3-D37",
     "name": "完蛋，我被acmer包围了",
     "organization": "温州理工学院",
@@ -4145,7 +4145,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-D39": {
+  {
     "team_id": "3-D39",
     "name": "我觉得很队",
     "organization": "宁波职业技术学院",
@@ -4159,7 +4159,7 @@
     "girl": false,
     "vocational": true
   },
-  "3-D41": {
+  {
     "team_id": "3-D41",
     "name": "我是BIFF，他叫子龙，还有个宙斯",
     "organization": "浙江水利水电学院",
@@ -4173,7 +4173,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-D43": {
+  {
     "team_id": "3-D43",
     "name": "雪之下雪乃天下第一",
     "organization": "浙江工商职业技术学院",
@@ -4187,7 +4187,7 @@
     "girl": false,
     "vocational": true
   },
-  "3-D45": {
+  {
     "team_id": "3-D45",
     "name": "你真是个小天才",
     "organization": "浙大宁波理工学院",
@@ -4201,7 +4201,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-D47": {
+  {
     "team_id": "3-D47",
     "name": "重生之我是FHQ-Treap高手",
     "organization": "中国计量大学",
@@ -4215,7 +4215,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-D49": {
+  {
     "team_id": "3-D49",
     "name": "原来你也超限？！",
     "organization": "浙江金融职业学院",
@@ -4229,7 +4229,7 @@
     "girl": false,
     "vocational": true
   },
-  "3-D51": {
+  {
     "team_id": "3-D51",
     "name": "怎么打都队",
     "organization": "浙江警察学院",
@@ -4243,7 +4243,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-D53": {
+  {
     "team_id": "3-D53",
     "name": "重生之我在浙传打算法",
     "organization": "浙江传媒学院",
@@ -4257,7 +4257,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-D55": {
+  {
     "team_id": "3-D55",
     "name": "最后一把坐牢了，还没出过省",
     "organization": "湖州师范学院",
@@ -4271,7 +4271,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-D57": {
+  {
     "team_id": "3-D57",
     "name": "在省赛寻求AC是否搞错了什么",
     "organization": "浙江农林大学",
@@ -4285,7 +4285,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-D59": {
+  {
     "team_id": "3-D59",
     "name": "最后一舞",
     "organization": "西湖大学",
@@ -4299,7 +4299,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-E01": {
+  {
     "team_id": "3-E01",
     "name": "雪之下 上春山",
     "organization": "浙江财经大学",
@@ -4313,7 +4313,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-E03": {
+  {
     "team_id": "3-E03",
     "name": "您说的队",
     "organization": "浙江理工大学科技与艺术学院",
@@ -4327,7 +4327,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-E05": {
+  {
     "team_id": "3-E05",
     "name": "东阳市老年开放大学4队",
     "organization": "浙江广厦建设职业技术大学",
@@ -4341,7 +4341,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-E07": {
+  {
     "team_id": "3-E07",
     "name": "你也来打省赛了帕",
     "organization": "中国计量大学现代科技学院",
@@ -4355,7 +4355,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-E09": {
+  {
     "team_id": "3-E09",
     "name": "三众全灰",
     "organization": "杭州师范大学",
@@ -4369,7 +4369,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-E11": {
+  {
     "team_id": "3-E11",
     "name": "三洋开泰",
     "organization": "浙江警察学院",
@@ -4383,7 +4383,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-E13": {
+  {
     "team_id": "3-E13",
     "name": "月球猫猫",
     "organization": "浙江工业大学",
@@ -4397,7 +4397,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-E15": {
+  {
     "team_id": "3-E15",
     "name": "就算我说我现在要嫁给你，你以后也会喜欢上别人的对不队",
     "organization": "杭州电子科技大学信息工程学院",
@@ -4411,7 +4411,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-E17": {
+  {
     "team_id": "3-E17",
     "name": "队友做不出题就把队友做了",
     "organization": "浙江农林大学",
@@ -4425,7 +4425,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-E19": {
+  {
     "team_id": "3-E19",
     "name": "湖职33",
     "organization": "湖州职业技术学院",
@@ -4439,7 +4439,7 @@
     "girl": false,
     "vocational": true
   },
-  "3-E21": {
+  {
     "team_id": "3-E21",
     "name": "温职六队",
     "organization": "温州职业技术学院",
@@ -4453,7 +4453,7 @@
     "girl": false,
     "vocational": true
   },
-  "3-E23": {
+  {
     "team_id": "3-E23",
     "name": "汪汪队",
     "organization": "杭州职业技术学院",
@@ -4467,7 +4467,7 @@
     "girl": false,
     "vocational": true
   },
-  "3-E25": {
+  {
     "team_id": "3-E25",
     "name": "为什么要演奏春日影",
     "organization": "绍兴文理学院元培学院",
@@ -4481,7 +4481,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-E27": {
+  {
     "team_id": "3-E27",
     "name": "文件都不会建",
     "organization": "绍兴职业技术学院",
@@ -4495,7 +4495,7 @@
     "girl": false,
     "vocational": true
   },
-  "3-E29": {
+  {
     "team_id": "3-E29",
     "name": "烂柯人",
     "organization": "浙江机电职业技术学院",
@@ -4509,7 +4509,7 @@
     "girl": false,
     "vocational": true
   },
-  "3-E31": {
+  {
     "team_id": "3-E31",
     "name": "不知道叫啥",
     "organization": "宁波职业技术学院",
@@ -4523,7 +4523,7 @@
     "girl": false,
     "vocational": true
   },
-  "3-E33": {
+  {
     "team_id": "3-E33",
     "name": "葬送的程序员",
     "organization": "浙江师范大学行知学院",
@@ -4537,7 +4537,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-E35": {
+  {
     "team_id": "3-E35",
     "name": "空花阳焰",
     "organization": "浙江工商大学",
@@ -4551,7 +4551,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "3-E37": {
+  {
     "team_id": "3-E37",
     "name": "一切都是命运石之门的选择",
     "organization": "浙江金融职业学院",
@@ -4565,7 +4565,7 @@
     "girl": false,
     "vocational": true
   },
-  "3-E39": {
+  {
     "team_id": "3-E39",
     "name": "浙江工业职业技术学院11队",
     "organization": "浙江工业职业技术学院",
@@ -4579,7 +4579,7 @@
     "girl": false,
     "vocational": true
   },
-  "4-A01": {
+  {
     "team_id": "4-A01",
     "name": "浙江工业职业技术学院13队",
     "organization": "浙江工业职业技术学院",
@@ -4593,7 +4593,7 @@
     "girl": false,
     "vocational": true
   },
-  "4-A03": {
+  {
     "team_id": "4-A03",
     "name": "我要当月圆之夜高手",
     "organization": "台州学院",
@@ -4607,7 +4607,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "4-A05": {
+  {
     "team_id": "4-A05",
     "name": "淀粉肠，三块一根，十块三根",
     "organization": "浙江财经大学",
@@ -4621,7 +4621,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "4-A07": {
+  {
     "team_id": "4-A07",
     "name": "倚星折月",
     "organization": "浙江工商大学",
@@ -4635,7 +4635,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "4-A09": {
+  {
     "team_id": "4-A09",
     "name": "创意园",
     "organization": "杭州职业技术学院",
@@ -4649,7 +4649,7 @@
     "girl": false,
     "vocational": true
   },
-  "4-A11": {
+  {
     "team_id": "4-A11",
     "name": "浙海大超级计算机",
     "organization": "浙江海洋大学",
@@ -4663,7 +4663,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "4-A13": {
+  {
     "team_id": "4-A13",
     "name": "咸鱼干",
     "organization": "浙江科技大学",
@@ -4677,7 +4677,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "4-A15": {
+  {
     "team_id": "4-A15",
     "name": "看看你的",
     "organization": "浙江万里学院",
@@ -4691,7 +4691,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "4-A17": {
+  {
     "team_id": "4-A17",
     "name": "水韵伴汐",
     "organization": "绍兴文理学院元培学院",
@@ -4705,7 +4705,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "4-A19": {
+  {
     "team_id": "4-A19",
     "name": "原神，华为，谷爱凌，吴京，5G，丁真",
     "organization": "金华职业技术学院",
@@ -4719,7 +4719,7 @@
     "girl": false,
     "vocational": true
   },
-  "4-A21": {
+  {
     "team_id": "4-A21",
     "name": "初次见面的人初次见面",
     "organization": "浙江金融职业学院",
@@ -4733,7 +4733,7 @@
     "girl": false,
     "vocational": true
   },
-  "4-A23": {
+  {
     "team_id": "4-A23",
     "name": "打完开派队",
     "organization": "湖州学院",
@@ -4747,7 +4747,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "4-A25": {
+  {
     "team_id": "4-A25",
     "name": "哎呦～",
     "organization": "宁波大学科学技术学院",
@@ -4761,7 +4761,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "4-A27": {
+  {
     "team_id": "4-A27",
     "name": "绝绝子小仙女偶像团队",
     "organization": "宁波财经学院",
@@ -4775,7 +4775,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "4-A29": {
+  {
     "team_id": "4-A29",
     "name": "科贸2队",
     "organization": "浙江金华科贸职业技术学院",
@@ -4789,7 +4789,7 @@
     "girl": false,
     "vocational": true
   },
-  "4-A31": {
+  {
     "team_id": "4-A31",
     "name": "困了就睡",
     "organization": "绍兴职业技术学院",
@@ -4803,7 +4803,7 @@
     "girl": true,
     "vocational": true
   },
-  "4-A33": {
+  {
     "team_id": "4-A33",
     "name": "你说对就对",
     "organization": "宁波城市职业技术学院",
@@ -4817,7 +4817,7 @@
     "girl": false,
     "vocational": true
   },
-  "4-A35": {
+  {
     "team_id": "4-A35",
     "name": "你太吊了克里斯蒂娜",
     "organization": "湖州师范学院",
@@ -4831,7 +4831,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "4-A37": {
+  {
     "team_id": "4-A37",
     "name": "青花瓷",
     "organization": "浙江长征职业技术学院",
@@ -4845,7 +4845,7 @@
     "girl": false,
     "vocational": true
   },
-  "4-A39": {
+  {
     "team_id": "4-A39",
     "name": "温大三队",
     "organization": "温州大学",
@@ -4859,7 +4859,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "4-A41": {
+  {
     "team_id": "4-A41",
     "name": "我要成为编程高手",
     "organization": "杭州万向职业技术学院",
@@ -4873,7 +4873,7 @@
     "girl": false,
     "vocational": true
   },
-  "4-A43": {
+  {
     "team_id": "4-A43",
     "name": "时代少年团",
     "organization": "台州职业技术学院",
@@ -4887,7 +4887,7 @@
     "girl": false,
     "vocational": true
   },
-  "4-A45": {
+  {
     "team_id": "4-A45",
     "name": "一气难球",
     "organization": "浙江外国语学院",
@@ -4901,7 +4901,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "4-A47": {
+  {
     "team_id": "4-A47",
     "name": "育英五队",
     "organization": "浙江育英职业技术学院",
@@ -4915,7 +4915,7 @@
     "girl": false,
     "vocational": true
   },
-  "4-A49": {
+  {
     "team_id": "4-A49",
     "name": "这题我奶奶来了都会做",
     "organization": "浙江农林大学暨阳学院",
@@ -4929,7 +4929,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "4-A51": {
+  {
     "team_id": "4-A51",
     "name": "队名晚点再取",
     "organization": "浙大城市学院",
@@ -4943,7 +4943,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "4-A53": {
+  {
     "team_id": "4-A53",
     "name": "再想想特判？",
     "organization": "杭州师范大学附属中学",
@@ -4956,7 +4956,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "4-A55": {
+  {
     "team_id": "4-A55",
     "name": "没有早八",
     "organization": "浙江警察学院",
@@ -4970,7 +4970,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "4-A57": {
+  {
     "team_id": "4-A57",
     "name": "队长六级424",
     "organization": "丽水学院",
@@ -4984,7 +4984,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "4-A59": {
+  {
     "team_id": "4-A59",
     "name": "这题肯定",
     "organization": "宁波职业技术学院",
@@ -4998,7 +4998,7 @@
     "girl": false,
     "vocational": true
   },
-  "4-A61": {
+  {
     "team_id": "4-A61",
     "name": "佛系玄学队",
     "organization": "浙江传媒学院",
@@ -5012,7 +5012,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "4-A63": {
+  {
     "team_id": "4-A63",
     "name": "队名我忘了",
     "organization": "中国计量大学",
@@ -5026,7 +5026,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "4-A65": {
+  {
     "team_id": "4-A65",
     "name": "海底小纵队",
     "organization": "浙江同济科技职业学院",
@@ -5040,7 +5040,7 @@
     "girl": false,
     "vocational": true
   },
-  "4-A67": {
+  {
     "team_id": "4-A67",
     "name": "魔法猫咪！",
     "organization": "浙江工商职业技术学院",
@@ -5054,7 +5054,7 @@
     "girl": false,
     "vocational": true
   },
-  "4-A69": {
+  {
     "team_id": "4-A69",
     "name": "ZJUT2",
     "organization": "浙江工业大学",
@@ -5068,7 +5068,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "4-A71": {
+  {
     "team_id": "4-A71",
     "name": "样例都过了，就交一发吧 -> Wrong answer on test 7",
     "organization": "杭州电子科技大学信息工程学院",
@@ -5082,7 +5082,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "4-A73": {
+  {
     "team_id": "4-A73",
     "name": "快乐小虎鲸",
     "organization": "浙江经贸职业技术学院",
@@ -5096,7 +5096,7 @@
     "girl": false,
     "vocational": true
   },
-  "4-A75": {
+  {
     "team_id": "4-A75",
     "name": "名字",
     "organization": "浙江警官职业学院",
@@ -5110,7 +5110,7 @@
     "girl": false,
     "vocational": true
   },
-  "4-A77": {
+  {
     "team_id": "4-A77",
     "name": "晨曦",
     "organization": "浙江邮电职业技术学院",
@@ -5124,7 +5124,7 @@
     "girl": false,
     "vocational": true
   },
-  "4-A79": {
+  {
     "team_id": "4-A79",
     "name": "浙理2024队",
     "organization": "浙江理工大学",
@@ -5138,7 +5138,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "4-A81": {
+  {
     "team_id": "4-A81",
     "name": "椅子队",
     "organization": "浙江省诸暨市海亮高级中学",
@@ -5151,7 +5151,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "4-A83": {
+  {
     "team_id": "4-A83",
     "name": "主C没来",
     "organization": "浙江师范大学",
@@ -5165,7 +5165,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "4-B01": {
+  {
     "team_id": "4-B01",
     "name": "ZJNU_遵纪守法",
     "organization": "浙江师范大学",
@@ -5179,7 +5179,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "4-B03": {
+  {
     "team_id": "4-B03",
     "name": "树人先锋１队",
     "organization": "浙江树人学院",
@@ -5193,7 +5193,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "4-B05": {
+  {
     "team_id": "4-B05",
     "name": "Hello World都不会",
     "organization": "浙江同济科技职业学院",
@@ -5207,7 +5207,7 @@
     "girl": false,
     "vocational": true
   },
-  "4-B07": {
+  {
     "team_id": "4-B07",
     "name": "烤羊，最后一只",
     "organization": "浙江工业大学",
@@ -5221,7 +5221,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "4-B09": {
+  {
     "team_id": "4-B09",
     "name": "附魔金苹果",
     "organization": "浙江理工大学",
@@ -5235,7 +5235,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "4-B11": {
+  {
     "team_id": "4-B11",
     "name": "你真是饿了忍不住吃了淀粉肠",
     "organization": "绍兴文理学院",
@@ -5249,7 +5249,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "4-B13": {
+  {
     "team_id": "4-B13",
     "name": "冰红茶",
     "organization": "浙江长征职业技术学院",
@@ -5263,7 +5263,7 @@
     "girl": false,
     "vocational": true
   },
-  "4-B15": {
+  {
     "team_id": "4-B15",
     "name": "光之创造神",
     "organization": "浙江农林大学",
@@ -5277,7 +5277,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "4-B17": {
+  {
     "team_id": "4-B17",
     "name": "牢大复活赛",
     "organization": "浙江万里学院",
@@ -5291,7 +5291,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "4-B19": {
+  {
     "team_id": "4-B19",
     "name": "温职三队",
     "organization": "温州职业技术学院",
@@ -5305,7 +5305,7 @@
     "girl": false,
     "vocational": true
   },
-  "4-B21": {
+  {
     "team_id": "4-B21",
     "name": "破冰小队",
     "organization": "衢州职业技术学院",
@@ -5319,7 +5319,7 @@
     "girl": false,
     "vocational": true
   },
-  "4-B23": {
+  {
     "team_id": "4-B23",
     "name": "育英大梦队",
     "organization": "浙江育英职业技术学院",
@@ -5333,7 +5333,7 @@
     "girl": false,
     "vocational": true
   },
-  "4-B25": {
+  {
     "team_id": "4-B25",
     "name": "星尘幻想",
     "organization": "浙江大学",
@@ -5347,7 +5347,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "4-B27": {
+  {
     "team_id": "4-B27",
     "name": "思古目开诶无次炯比哦",
     "organization": "金华职业技术学院",
@@ -5361,7 +5361,7 @@
     "girl": false,
     "vocational": true
   },
-  "4-B29": {
+  {
     "team_id": "4-B29",
     "name": "浙江工业职业技术学院10队",
     "organization": "浙江工业职业技术学院",
@@ -5375,7 +5375,7 @@
     "girl": false,
     "vocational": true
   },
-  "4-B31": {
+  {
     "team_id": "4-B31",
     "name": "你怎么知道我六级考了425",
     "organization": "浙江金融职业学院",
@@ -5389,7 +5389,7 @@
     "girl": false,
     "vocational": true
   },
-  "4-B33": {
+  {
     "team_id": "4-B33",
     "name": "听说杭电饭很好吃",
     "organization": "温州大学",
@@ -5403,7 +5403,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "4-B35": {
+  {
     "team_id": "4-B35",
     "name": "不要气球",
     "organization": "浙江邮电职业技术学院",
@@ -5417,7 +5417,7 @@
     "girl": false,
     "vocational": true
   },
-  "4-B37": {
+  {
     "team_id": "4-B37",
     "name": "重生之我不是菜狗",
     "organization": "宁波大学",
@@ -5431,7 +5431,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "4-B39": {
+  {
     "team_id": "4-B39",
     "name": "想成功，先原神",
     "organization": "绍兴职业技术学院",
@@ -5445,7 +5445,7 @@
     "girl": false,
     "vocational": true
   },
-  "4-B41": {
+  {
     "team_id": "4-B41",
     "name": "添砖Java",
     "organization": "浙大宁波理工学院",
@@ -5459,7 +5459,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "4-B43": {
+  {
     "team_id": "4-B43",
     "name": "仓前一日游",
     "organization": "杭州职业技术学院",
@@ -5473,7 +5473,7 @@
     "girl": false,
     "vocational": true
   },
-  "4-B45": {
+  {
     "team_id": "4-B45",
     "name": "签到在哪",
     "organization": "浙江经贸职业技术学院",
@@ -5487,7 +5487,7 @@
     "girl": false,
     "vocational": true
   },
-  "4-B47": {
+  {
     "team_id": "4-B47",
     "name": "谢皇镇压ak47",
     "organization": "浙江商业职业技术学院",
@@ -5501,7 +5501,7 @@
     "girl": false,
     "vocational": true
   },
-  "4-B49": {
+  {
     "team_id": "4-B49",
     "name": "这题交给队友了，下题也是",
     "organization": "中国计量大学现代科技学院",
@@ -5515,7 +5515,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "4-B51": {
+  {
     "team_id": "4-B51",
     "name": "菜就多练",
     "organization": "金华市丽泽中学",
@@ -5528,7 +5528,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "4-B53": {
+  {
     "team_id": "4-B53",
     "name": "六点共圆队",
     "organization": "浙江省诸暨市海亮高级中学",
@@ -5541,7 +5541,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "4-B55": {
+  {
     "team_id": "4-B55",
     "name": "算法小分队",
     "organization": "台州科技职业学院",
@@ -5555,7 +5555,7 @@
     "girl": false,
     "vocational": true
   },
-  "4-B57": {
+  {
     "team_id": "4-B57",
     "name": "浙中医无敌暴龙队",
     "organization": "浙江中医药大学",
@@ -5569,7 +5569,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "4-B59": {
+  {
     "team_id": "4-B59",
     "name": "骗分小队",
     "organization": "杭州钉耙网络科技有限公司",
@@ -5582,7 +5582,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "4-B61": {
+  {
     "team_id": "4-B61",
     "name": "树下猫猫虫",
     "organization": "浙江工商大学杭州商学院",
@@ -5596,7 +5596,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "4-B63": {
+  {
     "team_id": "4-B63",
     "name": "说爱我尊嘟假嘟",
     "organization": "浙江安防职业技术学院",
@@ -5610,7 +5610,7 @@
     "girl": false,
     "vocational": true
   },
-  "4-B65": {
+  {
     "team_id": "4-B65",
     "name": "wa不了一点",
     "organization": "台州学院",
@@ -5624,7 +5624,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "4-B67": {
+  {
     "team_id": "4-B67",
     "name": "竹杖芒鞋轻胜马之终极形态",
     "organization": "浙江传媒学院",
@@ -5638,7 +5638,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "4-B69": {
+  {
     "team_id": "4-B69",
     "name": "逐梦一解",
     "organization": "湖州学院",
@@ -5652,7 +5652,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "4-B71": {
+  {
     "team_id": "4-B71",
     "name": "杭电5队",
     "organization": "杭州电子科技大学",
@@ -5666,7 +5666,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "4-B73": {
+  {
     "team_id": "4-B73",
     "name": "做博丽灵梦，谈古明地恋",
     "organization": "浙江工业大学之江学院",
@@ -5680,7 +5680,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "4-B75": {
+  {
     "team_id": "4-B75",
     "name": "自己买的闪自己吃",
     "organization": "丽水学院",
@@ -5694,7 +5694,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "4-B77": {
+  {
     "team_id": "4-B77",
     "name": "最卷裁判长",
     "organization": "金陵中学河西分校",
@@ -5707,7 +5707,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "4-B79": {
+  {
     "team_id": "4-B79",
     "name": "别打ACM了，队友都去背八股了",
     "organization": "杭州师范大学",
@@ -5721,7 +5721,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "4-B81": {
+  {
     "team_id": "4-B81",
     "name": "机电8队",
     "organization": "浙江机电职业技术学院",
@@ -5735,7 +5735,7 @@
     "girl": false,
     "vocational": true
   },
-  "4-B83": {
+  {
     "team_id": "4-B83",
     "name": "铁道游击队",
     "organization": "温州理工学院",
@@ -5749,7 +5749,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "4-C01": {
+  {
     "team_id": "4-C01",
     "name": "特斯拉泥头车",
     "organization": "宁波工程学院",
@@ -5763,7 +5763,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "4-C03": {
+  {
     "team_id": "4-C03",
     "name": "平平无奇",
     "organization": "温州商学院",
@@ -5777,7 +5777,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "4-C05": {
+  {
     "team_id": "4-C05",
     "name": "杭电1队",
     "organization": "杭州电子科技大学",
@@ -5791,7 +5791,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "4-C07": {
+  {
     "team_id": "4-C07",
     "name": "ZJUT6",
     "organization": "浙江工业大学",
@@ -5805,7 +5805,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "4-C09": {
+  {
     "team_id": "4-C09",
     "name": "对榜一使用天手力",
     "organization": "浙江师范大学行知学院",
@@ -5819,7 +5819,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "4-C11": {
+  {
     "team_id": "4-C11",
     "name": "养老的鸽子",
     "organization": "浙江机电职业技术学院",
@@ -5833,7 +5833,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "4-C13": {
+  {
     "team_id": "4-C13",
     "name": "聪明的墨菲特",
     "organization": "浙江同济科技职业学院",
@@ -5847,7 +5847,7 @@
     "girl": false,
     "vocational": true
   },
-  "4-C15": {
+  {
     "team_id": "4-C15",
     "name": "什么都不会",
     "organization": "上海财经大学浙江学院",
@@ -5861,7 +5861,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "4-C17": {
+  {
     "team_id": "4-C17",
     "name": "欢乐斗地组",
     "organization": "浙江工商职业技术学院",
@@ -5875,7 +5875,7 @@
     "girl": false,
     "vocational": true
   },
-  "4-C19": {
+  {
     "team_id": "4-C19",
     "name": "做出来才能队",
     "organization": "浙江工贸职业技术学院",
@@ -5889,7 +5889,7 @@
     "girl": false,
     "vocational": true
   },
-  "4-C21": {
+  {
     "team_id": "4-C21",
     "name": "爱坤一队",
     "organization": "浙江工商大学杭州商学院",
@@ -5903,7 +5903,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "4-C23": {
+  {
     "team_id": "4-C23",
     "name": "偶内盖，如果没牌的话，瓦塔西",
     "organization": "绍兴文理学院",
@@ -5917,7 +5917,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "4-C25": {
+  {
     "team_id": "4-C25",
     "name": "听完直呼内行你说的队",
     "organization": "湖州师范学院",
@@ -5931,7 +5931,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "4-C27": {
+  {
     "team_id": "4-C27",
     "name": "安防陪跑队",
     "organization": "浙江安防职业技术学院",
@@ -5945,7 +5945,7 @@
     "girl": false,
     "vocational": true
   },
-  "4-C29": {
+  {
     "team_id": "4-C29",
     "name": "主人，我完成任务了吗",
     "organization": "浙江理工大学",
@@ -5959,7 +5959,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "4-C31": {
+  {
     "team_id": "4-C31",
     "name": "睿爸458小队",
     "organization": "宁波疯虫网络科技有限公司",
@@ -5972,7 +5972,7 @@
     "unofficial": 1,
     "girl": false
   },
-  "4-C33": {
+  {
     "team_id": "4-C33",
     "name": "挂神统治世界",
     "organization": "浙江金融职业学院",
@@ -5986,7 +5986,7 @@
     "girl": false,
     "vocational": true
   },
-  "4-C35": {
+  {
     "team_id": "4-C35",
     "name": "惹到我，你算是踢到棉花啦",
     "organization": "浙江万里学院",
@@ -6000,7 +6000,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "4-C37": {
+  {
     "team_id": "4-C37",
     "name": "耐摔王",
     "organization": "浙江长征职业技术学院",
@@ -6014,7 +6014,7 @@
     "girl": false,
     "vocational": true
   },
-  "4-C39": {
+  {
     "team_id": "4-C39",
     "name": "双倍合成",
     "organization": "杭州师范大学",
@@ -6028,7 +6028,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "4-C41": {
+  {
     "team_id": "4-C41",
     "name": "发际线和我作",
     "organization": "宁波职业技术学院",
@@ -6042,7 +6042,7 @@
     "girl": false,
     "vocational": true
   },
-  "4-C43": {
+  {
     "team_id": "4-C43",
     "name": "自杀小队",
     "organization": "浙江建设职业技术学院",
@@ -6056,7 +6056,7 @@
     "girl": false,
     "vocational": true
   },
-  "4-C45": {
+  {
     "team_id": "4-C45",
     "name": "浙江海洋大学一队",
     "organization": "浙江海洋大学",
@@ -6070,7 +6070,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "4-C47": {
+  {
     "team_id": "4-C47",
     "name": "鸽鸽勇往直前",
     "organization": "湖州职业技术学院",
@@ -6084,7 +6084,7 @@
     "girl": false,
     "vocational": true
   },
-  "4-C49": {
+  {
     "team_id": "4-C49",
     "name": "这是你起的名字吗",
     "organization": "浙江科技大学",
@@ -6098,7 +6098,7 @@
     "girl": false,
     "undergraduate": true
   },
-  "4-C51": {
+  {
     "team_id": "4-C51",
     "name": "命名空间",
     "organization": "浙江省余姚中学",
@@ -6111,4 +6111,4 @@
     "unofficial": 1,
     "girl": false
   }
-}
+]

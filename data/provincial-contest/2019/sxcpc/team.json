@@ -1,5 +1,6 @@
-{
-  "team:5": {
+[
+  {
+    "team_id": "team:5",
     "unofficial": 1,
     "organization": "The High School Affiliated to Xi’an Jiaotong University",
     "badge": {
@@ -7,7 +8,8 @@
     },
     "name": "葛瑞"
   },
-  "team:1": {
+  {
+    "team_id": "team:1",
     "unofficial": 1,
     "organization": "Xi'an Tie Yi High School",
     "badge": {
@@ -15,7 +17,8 @@
     },
     "name": "rookie"
   },
-  "team:106": {
+  {
+    "team_id": "team:106",
     "official": 1,
     "organization": "Xi’an Jiaotong University",
     "badge": {
@@ -23,7 +26,8 @@
     },
     "name": "渡渡鸟幼儿园"
   },
-  "team:111": {
+  {
+    "team_id": "team:111",
     "official": 1,
     "organization": "Xidian University",
     "badge": {
@@ -31,7 +35,8 @@
     },
     "name": "几何旋律"
   },
-  "team:74": {
+  {
+    "team_id": "team:74",
     "official": 1,
     "organization": "Xidian University",
     "badge": {
@@ -39,7 +44,8 @@
     },
     "name": "红衣老人"
   },
-  "team:13": {
+  {
+    "team_id": "team:13",
     "official": 1,
     "organization": "Xi’an Jiaotong University",
     "badge": {
@@ -47,7 +53,8 @@
     },
     "name": "免费赠送ac帽"
   },
-  "team:53": {
+  {
+    "team_id": "team:53",
     "official": 1,
     "organization": "Xidian University",
     "badge": {
@@ -55,7 +62,8 @@
     },
     "name": "qko国际后援团"
   },
-  "team:83": {
+  {
+    "team_id": "team:83",
     "official": 1,
     "organization": "Northwestern Polytechnical University",
     "badge": {
@@ -63,7 +71,8 @@
     },
     "name": "你的菜名从爱尔兰到契丹无人不知无人不晓"
   },
-  "team:95": {
+  {
+    "team_id": "team:95",
     "official": 1,
     "organization": "Xidian University",
     "badge": {
@@ -71,7 +80,8 @@
     },
     "name": "自动wa掘机"
   },
-  "team:51": {
+  {
+    "team_id": "team:51",
     "official": 1,
     "organization": "Xidian University",
     "badge": {
@@ -79,7 +89,8 @@
     },
     "name": "火辣鸡不会include"
   },
-  "team:27": {
+  {
+    "team_id": "team:27",
     "official": 1,
     "organization": "Northwestern Polytechnical University",
     "badge": {
@@ -87,7 +98,8 @@
     },
     "name": "唱跳rap篮球"
   },
-  "team:93": {
+  {
+    "team_id": "team:93",
     "official": 1,
     "organization": "Northwest University",
     "badge": {
@@ -95,7 +107,8 @@
     },
     "name": "大菜鸡尾酒"
   },
-  "team:105": {
+  {
+    "team_id": "team:105",
     "official": 1,
     "organization": "Xidian University",
     "badge": {
@@ -103,7 +116,8 @@
     },
     "name": "在下西电第一数据结构王汪俊逸"
   },
-  "team:97": {
+  {
+    "team_id": "team:97",
     "official": 1,
     "organization": "Xidian University",
     "badge": {
@@ -111,7 +125,8 @@
     },
     "name": "李先生说的"
   },
-  "team:38": {
+  {
+    "team_id": "team:38",
     "official": 1,
     "organization": "Chang'an University",
     "badge": {
@@ -119,7 +134,8 @@
     },
     "name": "“拿金打二十场多校”"
   },
-  "team:23": {
+  {
+    "team_id": "team:23",
     "official": 1,
     "organization": "Northwest University",
     "badge": {
@@ -127,7 +143,8 @@
     },
     "name": "C++20"
   },
-  "team:46": {
+  {
+    "team_id": "team:46",
     "official": 1,
     "organization": "Xi'an University of Posts and Telecommunications",
     "badge": {
@@ -135,7 +152,8 @@
     },
     "name": "糖糖真好吃"
   },
-  "team:70": {
+  {
+    "team_id": "team:70",
     "official": 1,
     "organization": "Northwestern Polytechnical University",
     "badge": {
@@ -143,7 +161,8 @@
     },
     "name": "雨下整夜我的爱溢出就像雨水"
   },
-  "team:72": {
+  {
+    "team_id": "team:72",
     "official": 1,
     "organization": "Xi'an University of Technology",
     "badge": {
@@ -151,7 +170,8 @@
     },
     "name": "红橙作伴"
   },
-  "team:56": {
+  {
+    "team_id": "team:56",
     "official": 1,
     "organization": "Northwestern Polytechnical University",
     "badge": {
@@ -159,7 +179,8 @@
     },
     "name": "国服49"
   },
-  "team:89": {
+  {
+    "team_id": "team:89",
     "official": 1,
     "organization": "Northwestern Polytechnical University",
     "badge": {
@@ -167,7 +188,8 @@
     },
     "name": "今天的风儿甚是喧嚣"
   },
-  "team:15": {
+  {
+    "team_id": "team:15",
     "official": 1,
     "organization": "Xidian University",
     "badge": {
@@ -175,7 +197,8 @@
     },
     "name": "反九九六"
   },
-  "team:100": {
+  {
+    "team_id": "team:100",
     "official": 1,
     "organization": "Xidian University",
     "badge": {
@@ -183,7 +206,8 @@
     },
     "name": "酸菜鱼队"
   },
-  "team:76": {
+  {
+    "team_id": "team:76",
     "official": 1,
     "organization": "Xidian University",
     "badge": {
@@ -191,7 +215,8 @@
     },
     "name": "樱花树下"
   },
-  "team:73": {
+  {
+    "team_id": "team:73",
     "official": 1,
     "organization": "Northwestern Polytechnical University",
     "badge": {
@@ -199,7 +224,8 @@
     },
     "name": "求求你让我AC吧"
   },
-  "team:30": {
+  {
+    "team_id": "team:30",
     "official": 1,
     "organization": "Northwestern Polytechnical University",
     "badge": {
@@ -207,7 +233,8 @@
     },
     "name": "刘奶奶和牛奶奶和牛栏牌榴莲牛奶"
   },
-  "team:3": {
+  {
+    "team_id": "team:3",
     "unofficial": 1,
     "organization": "The High School Affiliated to Xi’an Jiaotong University",
     "badge": {
@@ -215,7 +242,8 @@
     },
     "name": "假淇"
   },
-  "team:102": {
+  {
+    "team_id": "team:102",
     "official": 1,
     "organization": "Northwest University",
     "badge": {
@@ -223,7 +251,8 @@
     },
     "name": "基锂钛镁"
   },
-  "team:17": {
+  {
+    "team_id": "team:17",
     "official": 1,
     "organization": "Xidian University",
     "badge": {
@@ -231,7 +260,8 @@
     },
     "name": "文体两开花"
   },
-  "team:12": {
+  {
+    "team_id": "team:12",
     "official": 1,
     "organization": "Xidian University",
     "badge": {
@@ -239,7 +269,8 @@
     },
     "name": "目标一题"
   },
-  "team:86": {
+  {
+    "team_id": "team:86",
     "official": 1,
     "organization": "Chang'an University",
     "badge": {
@@ -247,7 +278,8 @@
     },
     "name": "永远的韦德"
   },
-  "team:77": {
+  {
+    "team_id": "team:77",
     "official": 1,
     "organization": "Airforce Engineering University",
     "badge": {
@@ -255,7 +287,8 @@
     },
     "name": "星星之火"
   },
-  "team:63": {
+  {
+    "team_id": "team:63",
     "official": 1,
     "organization": "Xidian University",
     "badge": {
@@ -263,7 +296,8 @@
     },
     "name": "缺一件出门的衣服"
   },
-  "team:39": {
+  {
+    "team_id": "team:39",
     "official": 1,
     "organization": "Xidian University",
     "badge": {
@@ -271,7 +305,8 @@
     },
     "name": "hacker小分队"
   },
-  "team:92": {
+  {
+    "team_id": "team:92",
     "official": 1,
     "organization": "Xi'an University of Posts and Telecommunications",
     "badge": {
@@ -279,7 +314,8 @@
     },
     "name": "达拉崩吧"
   },
-  "team:37": {
+  {
+    "team_id": "team:37",
     "official": 1,
     "organization": "Xidian University",
     "badge": {
@@ -287,7 +323,8 @@
     },
     "name": "名字随便起的队"
   },
-  "team:35": {
+  {
+    "team_id": "team:35",
     "official": 1,
     "organization": "Chang'an University",
     "badge": {
@@ -295,7 +332,8 @@
     },
     "name": "爬不动五楼就刷不动难题"
   },
-  "team:75": {
+  {
+    "team_id": "team:75",
     "official": 1,
     "organization": "Northwestern Polytechnical University",
     "badge": {
@@ -303,7 +341,8 @@
     },
     "name": "漫游者"
   },
-  "team:24": {
+  {
+    "team_id": "team:24",
     "official": 1,
     "organization": "Xi'an University of Technology",
     "badge": {
@@ -311,7 +350,8 @@
     },
     "name": "改个名字"
   },
-  "team:85": {
+  {
+    "team_id": "team:85",
     "official": 1,
     "organization": "Xidian University",
     "badge": {
@@ -319,7 +359,8 @@
     },
     "name": "混分巨兽"
   },
-  "team:55": {
+  {
+    "team_id": "team:55",
     "official": 1,
     "organization": "Xi'an University of Technology",
     "badge": {
@@ -327,7 +368,8 @@
     },
     "name": "只想签个到"
   },
-  "team:82": {
+  {
+    "team_id": "team:82",
     "official": 1,
     "organization": "Xi’an Jiaotong University",
     "badge": {
@@ -335,7 +377,8 @@
     },
     "name": "宋老板天下第一"
   },
-  "team:68": {
+  {
+    "team_id": "team:68",
     "official": 1,
     "organization": "Xidian University",
     "badge": {
@@ -343,7 +386,8 @@
     },
     "name": "儒雅随和队"
   },
-  "team:79": {
+  {
+    "team_id": "team:79",
     "official": 1,
     "organization": "Northwest University",
     "badge": {
@@ -351,7 +395,8 @@
     },
     "name": "让我过个题吧"
   },
-  "team:9": {
+  {
+    "team_id": "team:9",
     "official": 1,
     "organization": "Shaanxi Normal University",
     "badge": {
@@ -359,7 +404,8 @@
     },
     "name": "蒟蒻收容所"
   },
-  "team:7": {
+  {
+    "team_id": "team:7",
     "official": 1,
     "organization": "Northwest University",
     "badge": {
@@ -367,7 +413,8 @@
     },
     "name": "加一昊又过题了"
   },
-  "team:98": {
+  {
+    "team_id": "team:98",
     "official": 1,
     "organization": "Northwestern Polytechnical University",
     "badge": {
@@ -375,7 +422,8 @@
     },
     "name": "你为什么那么熟练啊"
   },
-  "team:108": {
+  {
+    "team_id": "team:108",
     "official": 1,
     "organization": "Xidian University",
     "badge": {
@@ -383,7 +431,8 @@
     },
     "name": "写代码像蔡徐坤"
   },
-  "team:60": {
+  {
+    "team_id": "team:60",
     "official": 1,
     "organization": "Xidian University",
     "badge": {
@@ -391,7 +440,8 @@
     },
     "name": "三个打铁匠"
   },
-  "team:58": {
+  {
+    "team_id": "team:58",
     "official": 1,
     "organization": "Xidian University",
     "badge": {
@@ -399,7 +449,8 @@
     },
     "name": "我只求一题能队"
   },
-  "team:107": {
+  {
+    "team_id": "team:107",
     "official": 1,
     "organization": "Chang'an University",
     "badge": {
@@ -407,7 +458,8 @@
     },
     "name": "嘤嘤嘤"
   },
-  "team:31": {
+  {
+    "team_id": "team:31",
     "official": 1,
     "organization": "Xidian University",
     "badge": {
@@ -415,7 +467,8 @@
     },
     "name": "咱也不会做咱也不敢说"
   },
-  "team:78": {
+  {
+    "team_id": "team:78",
     "official": 1,
     "organization": "Shaanxi Normal University",
     "badge": {
@@ -423,7 +476,8 @@
     },
     "name": "省赛拿金就女装"
   },
-  "team:62": {
+  {
+    "team_id": "team:62",
     "official": 1,
     "organization": "Xi'an University of Posts and Telecommunications",
     "badge": {
@@ -431,7 +485,8 @@
     },
     "name": "多线程滚筒ac机"
   },
-  "team:14": {
+  {
+    "team_id": "team:14",
     "official": 1,
     "organization": "Northwestern Polytechnical University",
     "badge": {
@@ -439,7 +494,8 @@
     },
     "name": "老衲法号秃夫"
   },
-  "team:25": {
+  {
+    "team_id": "team:25",
     "official": 1,
     "organization": "Xidian University",
     "badge": {
@@ -447,7 +503,8 @@
     },
     "name": "鸡你太美！"
   },
-  "team:6": {
+  {
+    "team_id": "team:6",
     "unofficial": 1,
     "organization": "Xidian University",
     "badge": {
@@ -455,7 +512,8 @@
     },
     "name": "不撞南墙不回头"
   },
-  "team:8": {
+  {
+    "team_id": "team:8",
     "official": 1,
     "organization": "Xidian University",
     "badge": {
@@ -463,7 +521,8 @@
     },
     "name": "996队"
   },
-  "team:22": {
+  {
+    "team_id": "team:22",
     "official": 1,
     "organization": "Xi'an University of Science and Technology",
     "badge": {
@@ -471,7 +530,8 @@
     },
     "name": "我被打了_我是弟弟"
   },
-  "team:16": {
+  {
+    "team_id": "team:16",
     "official": 1,
     "organization": "Northwest University",
     "badge": {
@@ -479,7 +539,8 @@
     },
     "name": "wa了就ak了"
   },
-  "team:65": {
+  {
+    "team_id": "team:65",
     "official": 1,
     "organization": "Xidian University",
     "badge": {
@@ -487,7 +548,8 @@
     },
     "name": "队名没想好队"
   },
-  "team:88": {
+  {
+    "team_id": "team:88",
     "official": 1,
     "organization": "Chang'an University",
     "badge": {
@@ -495,7 +557,8 @@
     },
     "name": "壹贰叁"
   },
-  "team:26": {
+  {
+    "team_id": "team:26",
     "official": 1,
     "organization": "Northwest A&F University",
     "badge": {
@@ -503,7 +566,8 @@
     },
     "name": "爸爸说的都队"
   },
-  "team:54": {
+  {
+    "team_id": "team:54",
     "official": 1,
     "organization": "Northwest A&F University",
     "badge": {
@@ -511,7 +575,8 @@
     },
     "name": "拿奖队里最高的人女装"
   },
-  "team:61": {
+  {
+    "team_id": "team:61",
     "official": 1,
     "organization": "Northwest University",
     "badge": {
@@ -519,7 +584,8 @@
     },
     "name": "全场最菜"
   },
-  "team:29": {
+  {
+    "team_id": "team:29",
     "official": 1,
     "organization": "Northwestern Polytechnical University",
     "badge": {
@@ -527,7 +593,8 @@
     },
     "name": "并不知道叫什么队"
   },
-  "team:21": {
+  {
+    "team_id": "team:21",
     "official": 1,
     "organization": "Xidian University",
     "badge": {
@@ -535,7 +602,8 @@
     },
     "name": "金银铜铁全没有"
   },
-  "team:32": {
+  {
+    "team_id": "team:32",
     "official": 1,
     "organization": "Xi'an University of Technology",
     "badge": {
@@ -543,7 +611,8 @@
     },
     "name": "鱼塘队"
   },
-  "team:19": {
+  {
+    "team_id": "team:19",
     "official": 1,
     "organization": "Xidian University",
     "badge": {
@@ -551,7 +620,8 @@
     },
     "name": "都挺好"
   },
-  "team:44": {
+  {
+    "team_id": "team:44",
     "official": 1,
     "organization": "Xidian University",
     "badge": {
@@ -559,7 +629,8 @@
     },
     "name": "新世纪AK战士"
   },
-  "team:69": {
+  {
+    "team_id": "team:69",
     "official": 1,
     "organization": "Northwest University",
     "badge": {
@@ -567,7 +638,8 @@
     },
     "name": "费用自理"
   },
-  "team:10": {
+  {
+    "team_id": "team:10",
     "official": 1,
     "organization": "Northwest A&F University",
     "badge": {
@@ -575,7 +647,8 @@
     },
     "name": "抱着阿柏吃餐包餐包阿柏吃不饱吃不饱餐包吃汉堡阿柏餐包汉堡包"
   },
-  "team:28": {
+  {
+    "team_id": "team:28",
     "official": 1,
     "organization": "Xi'an University of Posts and Telecommunications",
     "badge": {
@@ -583,7 +656,8 @@
     },
     "name": "胜利之歌"
   },
-  "team:41": {
+  {
+    "team_id": "team:41",
     "official": 1,
     "organization": "Northwest University",
     "badge": {
@@ -591,7 +665,8 @@
     },
     "name": "拿牌分割线"
   },
-  "team:34": {
+  {
+    "team_id": "team:34",
     "official": 1,
     "organization": "Northwest A&F University",
     "badge": {
@@ -599,7 +674,8 @@
     },
     "name": "队对队怼怼怼"
   },
-  "team:110": {
+  {
+    "team_id": "team:110",
     "official": 1,
     "organization": "Xi'an University of Technology",
     "badge": {
@@ -607,7 +683,8 @@
     },
     "name": "大碗宽面"
   },
-  "team:99": {
+  {
+    "team_id": "team:99",
     "official": 1,
     "organization": "Northwest A&F University",
     "badge": {
@@ -615,7 +692,8 @@
     },
     "name": "写的都队"
   },
-  "team:109": {
+  {
+    "team_id": "team:109",
     "official": 1,
     "organization": "Chang'an University",
     "badge": {
@@ -623,7 +701,8 @@
     },
     "name": "爆零队"
   },
-  "team:49": {
+  {
+    "team_id": "team:49",
     "official": 1,
     "organization": "Xi'an University of Science and Technology",
     "badge": {
@@ -631,7 +710,8 @@
     },
     "name": "我被锤了_我是弟弟"
   },
-  "team:4": {
+  {
+    "team_id": "team:4",
     "unofficial": 1,
     "organization": "Xidian University",
     "badge": {
@@ -639,7 +719,8 @@
     },
     "name": "重在参与"
   },
-  "team:104": {
+  {
+    "team_id": "team:104",
     "official": 1,
     "organization": "Xi'an University of Architecture and Technology",
     "badge": {
@@ -647,7 +728,8 @@
     },
     "name": "XAUAT SDY"
   },
-  "team:45": {
+  {
+    "team_id": "team:45",
     "official": 1,
     "organization": "Chang'an University",
     "badge": {
@@ -655,7 +737,8 @@
     },
     "name": "燃烧的诺顿"
   },
-  "team:64": {
+  {
+    "team_id": "team:64",
     "official": 1,
     "organization": "Northwest A&F University",
     "badge": {
@@ -663,7 +746,8 @@
     },
     "name": "拿牌高哥女装"
   },
-  "team:80": {
+  {
+    "team_id": "team:80",
     "official": 1,
     "organization": "Shaanxi Normal University",
     "badge": {
@@ -671,7 +755,8 @@
     },
     "name": "三枪战队"
   },
-  "team:48": {
+  {
+    "team_id": "team:48",
     "official": 1,
     "organization": "Xi'an University of Posts and Telecommunications",
     "badge": {
@@ -679,7 +764,8 @@
     },
     "name": "雷纳科斯"
   },
-  "team:91": {
+  {
+    "team_id": "team:91",
     "official": 1,
     "organization": "Xi'an University of Technology",
     "badge": {
@@ -687,7 +773,8 @@
     },
     "name": "女装未遂"
   },
-  "team:40": {
+  {
+    "team_id": "team:40",
     "official": 1,
     "organization": "Chang'an University",
     "badge": {
@@ -695,7 +782,8 @@
     },
     "name": "齐德龙东强"
   },
-  "team:96": {
+  {
+    "team_id": "team:96",
     "official": 1,
     "organization": "Northwest A&F University",
     "badge": {
@@ -703,7 +791,8 @@
     },
     "name": "我爱你三千遍"
   },
-  "team:59": {
+  {
+    "team_id": "team:59",
     "official": 1,
     "organization": "Chang'an University",
     "badge": {
@@ -711,7 +800,8 @@
     },
     "name": "薛定谔的喵"
   },
-  "team:36": {
+  {
+    "team_id": "team:36",
     "official": 1,
     "organization": "Shaanxi University of Science and Technology",
     "badge": {
@@ -719,7 +809,8 @@
     },
     "name": "至诚至博"
   },
-  "team:101": {
+  {
+    "team_id": "team:101",
     "official": 1,
     "organization": "Xi'an Aeronautical University",
     "badge": {
@@ -727,7 +818,8 @@
     },
     "name": "天王盖地虎"
   },
-  "team:81": {
+  {
+    "team_id": "team:81",
     "official": 1,
     "organization": "Shaanxi University of Science and Technology",
     "badge": {
@@ -735,7 +827,8 @@
     },
     "name": "辉煌甲子"
   },
-  "team:71": {
+  {
+    "team_id": "team:71",
     "official": 1,
     "organization": "Xi'an University of Posts and Telecommunications",
     "badge": {
@@ -743,7 +836,8 @@
     },
     "name": "是水队"
   },
-  "team:94": {
+  {
+    "team_id": "team:94",
     "official": 1,
     "organization": "Xi'an University of Posts and Telecommunications",
     "badge": {
@@ -751,7 +845,8 @@
     },
     "name": "先WA为敬"
   },
-  "team:43": {
+  {
+    "team_id": "team:43",
     "official": 1,
     "organization": "Xi'an University of Architecture and Technology",
     "badge": {
@@ -759,7 +854,8 @@
     },
     "name": "Hots"
   },
-  "team:52": {
+  {
+    "team_id": "team:52",
     "official": 1,
     "organization": "Northwest A&F University",
     "badge": {
@@ -767,7 +863,8 @@
     },
     "name": "L X C"
   },
-  "team:2": {
+  {
+    "team_id": "team:2",
     "unofficial": 1,
     "organization": "Xidian University",
     "badge": {
@@ -775,7 +872,8 @@
     },
     "name": "野辅联动"
   },
-  "team:20": {
+  {
+    "team_id": "team:20",
     "official": 1,
     "organization": "Chang'an University",
     "badge": {
@@ -783,7 +881,8 @@
     },
     "name": "区域赛有银牌韩老板女装对不队"
   },
-  "team:33": {
+  {
+    "team_id": "team:33",
     "official": 1,
     "organization": "Shaanxi Normal University",
     "badge": {
@@ -791,7 +890,8 @@
     },
     "name": "三只小蜜蜂"
   },
-  "team:66": {
+  {
+    "team_id": "team:66",
     "official": 1,
     "organization": "Shaanxi Normal University",
     "badge": {
@@ -799,7 +899,8 @@
     },
     "name": "榜一是我隔壁大哥"
   },
-  "team:87": {
+  {
+    "team_id": "team:87",
     "official": 1,
     "organization": "Xi'an University of Posts and Telecommunications",
     "badge": {
@@ -807,7 +908,8 @@
     },
     "name": "淼"
   },
-  "team:103": {
+  {
+    "team_id": "team:103",
     "official": 1,
     "organization": "Xi'an University of Science and Technology",
     "badge": {
@@ -815,7 +917,8 @@
     },
     "name": "技不如人甘拜下风"
   },
-  "team:11": {
+  {
+    "team_id": "team:11",
     "official": 1,
     "organization": "Xi'an University of Architecture and Technology",
     "badge": {
@@ -823,7 +926,8 @@
     },
     "name": "AC motor"
   },
-  "team:90": {
+  {
+    "team_id": "team:90",
     "official": 1,
     "organization": "Xi'an University of Architecture and Technology",
     "badge": {
@@ -831,7 +935,8 @@
     },
     "name": "XAUAT Team4"
   },
-  "team:18": {
+  {
+    "team_id": "team:18",
     "official": 1,
     "organization": "Xi'an University of Architecture and Technology",
     "badge": {
@@ -839,7 +944,8 @@
     },
     "name": "XAUAT Team5"
   },
-  "team:47": {
+  {
+    "team_id": "team:47",
     "official": 1,
     "organization": "Xi'an University of Architecture and Technology",
     "badge": {
@@ -847,7 +953,8 @@
     },
     "name": "XAUAT Team6"
   },
-  "team:84": {
+  {
+    "team_id": "team:84",
     "official": 1,
     "organization": "Xi'an University of Science and Technology",
     "badge": {
@@ -855,7 +962,8 @@
     },
     "name": "一秒wa了"
   },
-  "team:57": {
+  {
+    "team_id": "team:57",
     "official": 1,
     "organization": "Shaanxi University of Science and Technology",
     "badge": {
@@ -863,7 +971,8 @@
     },
     "name": "三创两迁"
   },
-  "team:67": {
+  {
+    "team_id": "team:67",
     "official": 1,
     "organization": "Xi'an Aeronautical University",
     "badge": {
@@ -871,7 +980,8 @@
     },
     "name": "宝塔镇河妖"
   },
-  "team:50": {
+  {
+    "team_id": "team:50",
     "official": 1,
     "organization": "Shaanxi Normal University",
     "badge": {
@@ -879,7 +989,8 @@
     },
     "name": "练习时长半个月的个人练习生队"
   },
-  "team:42": {
+  {
+    "team_id": "team:42",
     "official": 1,
     "organization": "Airforce Engineering University",
     "badge": {
@@ -887,4 +998,4 @@
     },
     "name": "荣耀"
   }
-}
+]

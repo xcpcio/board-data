@@ -1,5 +1,6 @@
-{
-  "1001": {
+[
+  {
+    "team_id": "1001",
     "organization": "杭州电子科技大学",
     "name": "杭电一队",
     "members": [
@@ -10,7 +11,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1002": {
+  {
+    "team_id": "1002",
     "organization": "杭州电子科技大学",
     "name": "杭电二队",
     "members": [
@@ -21,7 +23,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1003": {
+  {
+    "team_id": "1003",
     "organization": "杭州电子科技大学",
     "name": "杭电三队",
     "members": [
@@ -32,7 +35,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1004": {
+  {
+    "team_id": "1004",
     "organization": "杭州电子科技大学",
     "name": "杭电四队",
     "members": [
@@ -43,7 +47,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1005": {
+  {
+    "team_id": "1005",
     "organization": "杭州电子科技大学",
     "name": "杭电五队",
     "members": [
@@ -54,7 +59,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1006": {
+  {
+    "team_id": "1006",
     "organization": "杭州电子科技大学",
     "name": "杭电六队",
     "members": [
@@ -65,7 +71,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1007": {
+  {
+    "team_id": "1007",
     "organization": "杭州电子科技大学",
     "name": "杭电七队",
     "members": [
@@ -76,7 +83,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1008": {
+  {
+    "team_id": "1008",
     "organization": "杭州电子科技大学",
     "name": "杭电八队",
     "members": [
@@ -87,7 +95,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1009": {
+  {
+    "team_id": "1009",
     "organization": "浙江经济职业技术学院",
     "name": "浙经院一队",
     "members": [
@@ -98,7 +107,8 @@
     "junior": 1,
     "official": 1
   },
-  "1010": {
+  {
+    "team_id": "1010",
     "organization": "浙江经济职业技术学院",
     "name": "浙经院二队",
     "members": [
@@ -109,7 +119,8 @@
     "junior": 1,
     "official": 1
   },
-  "1011": {
+  {
+    "team_id": "1011",
     "organization": "浙江经济职业技术学院",
     "name": "浙经院三队",
     "members": [
@@ -120,7 +131,8 @@
     "junior": 1,
     "official": 1
   },
-  "1012": {
+  {
+    "team_id": "1012",
     "organization": "杭州电子科技大学信息工程学院",
     "name": "小人物",
     "members": [
@@ -130,7 +142,8 @@
     ],
     "unofficial": 1
   },
-  "1013": {
+  {
+    "team_id": "1013",
     "organization": "杭州电子科技大学信息工程学院",
     "name": "信工二队",
     "members": [
@@ -141,7 +154,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1014": {
+  {
+    "team_id": "1014",
     "organization": "杭州电子科技大学信息工程学院",
     "name": "信工三队",
     "members": [
@@ -152,7 +166,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1015": {
+  {
+    "team_id": "1015",
     "organization": "杭州电子科技大学信息工程学院",
     "name": "信工四队",
     "members": [
@@ -163,7 +178,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1016": {
+  {
+    "team_id": "1016",
     "organization": "杭州电子科技大学信息工程学院",
     "name": "信工五队",
     "members": [
@@ -174,7 +190,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1017": {
+  {
+    "team_id": "1017",
     "organization": "温州职业技术学院",
     "name": "最好吃的纸包金牌",
     "members": [
@@ -185,7 +202,8 @@
     "junior": 1,
     "official": 1
   },
-  "1018": {
+  {
+    "team_id": "1018",
     "organization": "温州职业技术学院",
     "name": "棍之勇者",
     "members": [
@@ -196,7 +214,8 @@
     "junior": 1,
     "official": 1
   },
-  "1019": {
+  {
+    "team_id": "1019",
     "organization": "温州职业技术学院",
     "name": "麻婆豆腐多放糖",
     "members": [
@@ -207,7 +226,8 @@
     "junior": 1,
     "official": 1
   },
-  "1020": {
+  {
+    "team_id": "1020",
     "organization": "温州职业技术学院",
     "name": "莫得感情的码代码机器",
     "members": [
@@ -218,7 +238,8 @@
     "junior": 1,
     "official": 1
   },
-  "1021": {
+  {
+    "team_id": "1021",
     "organization": "温州职业技术学院",
     "name": "奥利利奥",
     "members": [
@@ -229,7 +250,8 @@
     "junior": 1,
     "official": 1
   },
-  "1022": {
+  {
+    "team_id": "1022",
     "organization": "温州职业技术学院",
     "name": "今天地球上线了吗？",
     "members": [
@@ -240,7 +262,8 @@
     "junior": 1,
     "official": 1
   },
-  "1023": {
+  {
+    "team_id": "1023",
     "organization": "中国计量大学",
     "name": "一趴一躺一吃瓜",
     "members": [
@@ -251,7 +274,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1024": {
+  {
+    "team_id": "1024",
     "organization": "中国计量大学",
     "name": "你这个年龄段睡得着觉",
     "members": [
@@ -262,7 +286,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1025": {
+  {
+    "team_id": "1025",
     "organization": "中国计量大学",
     "name": "年年有今日",
     "members": [
@@ -273,7 +298,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1026": {
+  {
+    "team_id": "1026",
     "organization": "中国计量大学",
     "name": "超时自动机",
     "members": [
@@ -284,7 +310,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1027": {
+  {
+    "team_id": "1027",
     "organization": "中国计量大学",
     "name": "三棵大白菜",
     "members": [
@@ -295,7 +322,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1028": {
+  {
+    "team_id": "1028",
     "organization": "中国计量大学",
     "name": "暴力出奇迹",
     "members": [
@@ -306,7 +334,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1029": {
+  {
+    "team_id": "1029",
     "organization": "杭州师范大学",
     "name": "TI0050",
     "members": [
@@ -317,7 +346,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1030": {
+  {
+    "team_id": "1030",
     "organization": "杭州师范大学",
     "name": "四面杵鸽",
     "members": [
@@ -328,7 +358,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1031": {
+  {
+    "team_id": "1031",
     "organization": "杭州师范大学",
     "name": "你防科比我防乔丹",
     "members": [
@@ -339,7 +370,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1032": {
+  {
+    "team_id": "1032",
     "organization": "杭州师范大学",
     "name": "让老夫看看",
     "members": [
@@ -350,7 +382,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1033": {
+  {
+    "team_id": "1033",
     "organization": "杭州师范大学",
     "name": "Fahaxiki",
     "members": [
@@ -361,7 +394,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1034": {
+  {
+    "team_id": "1034",
     "organization": "杭州师范大学",
     "name": "交流电",
     "members": [
@@ -372,7 +406,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1035": {
+  {
+    "team_id": "1035",
     "organization": "杭州师范大学",
     "name": "果宝三剑客",
     "members": [
@@ -383,7 +418,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1036": {
+  {
+    "team_id": "1036",
     "organization": "杭州师范大学",
     "name": "Accepted-Graph",
     "members": [
@@ -394,7 +430,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1037": {
+  {
+    "team_id": "1037",
     "organization": "浙江理工大学",
     "name": "想不出名字",
     "members": [
@@ -405,7 +442,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1038": {
+  {
+    "team_id": "1038",
     "organization": "浙江理工大学",
     "name": "你好骚啊",
     "members": [
@@ -416,7 +454,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1039": {
+  {
+    "team_id": "1039",
     "organization": "浙江理工大学",
     "name": "奶茶茶",
     "members": [
@@ -427,7 +466,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1040": {
+  {
+    "team_id": "1040",
     "organization": "浙江理工大学",
     "name": "又双叒叕AC了",
     "members": [
@@ -438,7 +478,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1041": {
+  {
+    "team_id": "1041",
     "organization": "浙江理工大学",
     "name": "我先放一盒卫生纸在这",
     "members": [
@@ -449,7 +490,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1042": {
+  {
+    "team_id": "1042",
     "organization": "浙江理工大学",
     "name": "咕咕自动稽",
     "members": [
@@ -460,7 +502,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1043": {
+  {
+    "team_id": "1043",
     "organization": "浙江理工大学",
     "name": "走A旅行家",
     "members": [
@@ -471,7 +514,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1044": {
+  {
+    "team_id": "1044",
     "organization": "浙江理工大学",
     "name": "梦开始的地方",
     "members": [
@@ -482,7 +526,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1045": {
+  {
+    "team_id": "1045",
     "organization": "湖州师范学院",
     "name": "湖州师范学院1队",
     "members": [
@@ -493,7 +538,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1046": {
+  {
+    "team_id": "1046",
     "organization": "湖州师范学院",
     "name": "湖州师范学院2队",
     "members": [
@@ -504,7 +550,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1047": {
+  {
+    "team_id": "1047",
     "organization": "湖州师范学院",
     "name": "湖州师范学院3队",
     "members": [
@@ -515,7 +562,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1048": {
+  {
+    "team_id": "1048",
     "organization": "湖州师范学院",
     "name": "湖州师范学院4队",
     "members": [
@@ -526,7 +574,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1049": {
+  {
+    "team_id": "1049",
     "organization": "湖州师范学院",
     "name": "湖州师范学院5队",
     "members": [
@@ -537,7 +586,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1050": {
+  {
+    "team_id": "1050",
     "organization": "浙江外国语学院",
     "name": "新月学院",
     "members": [
@@ -548,7 +598,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1051": {
+  {
+    "team_id": "1051",
     "organization": "浙江外国语学院",
     "name": "一题都做不队",
     "members": [
@@ -559,7 +610,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1052": {
+  {
+    "team_id": "1052",
     "organization": "浙江外国语学院",
     "name": "看队友打代码",
     "members": [
@@ -570,7 +622,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1053": {
+  {
+    "team_id": "1053",
     "organization": "丽水职业技术学院",
     "name": "只求accepted",
     "members": [
@@ -581,7 +634,8 @@
     "junior": 1,
     "official": 1
   },
-  "1054": {
+  {
+    "team_id": "1054",
     "organization": "丽水职业技术学院",
     "name": "荔枝",
     "members": [
@@ -592,7 +646,8 @@
     "junior": 1,
     "official": 1
   },
-  "1055": {
+  {
+    "team_id": "1055",
     "organization": "杭州师范大学钱江学院",
     "name": "这里是队名",
     "members": [
@@ -603,7 +658,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1056": {
+  {
+    "team_id": "1056",
     "organization": "杭州师范大学钱江学院",
     "name": "星星之火",
     "members": [
@@ -614,7 +670,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1057": {
+  {
+    "team_id": "1057",
     "organization": "湖州师范学院求真学院",
     "name": "产出者",
     "members": [
@@ -625,7 +682,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1058": {
+  {
+    "team_id": "1058",
     "organization": "湖州师范学院求真学院",
     "name": "曙光",
     "members": [
@@ -636,7 +694,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1059": {
+  {
+    "team_id": "1059",
     "organization": "湖州师范学院求真学院",
     "name": "摩卡兑大红袍",
     "members": [
@@ -647,7 +706,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1060": {
+  {
+    "team_id": "1060",
     "organization": "湖州师范学院求真学院",
     "name": "叶",
     "members": [
@@ -658,7 +718,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1061": {
+  {
+    "team_id": "1061",
     "organization": "嘉兴职业技术学院",
     "name": "土鸡瓦狗",
     "members": [
@@ -669,7 +730,8 @@
     "junior": 1,
     "official": 1
   },
-  "1062": {
+  {
+    "team_id": "1062",
     "organization": "嘉兴职业技术学院",
     "name": "牛马",
     "members": [
@@ -680,7 +742,8 @@
     "junior": 1,
     "official": 1
   },
-  "1063": {
+  {
+    "team_id": "1063",
     "organization": "嘉兴职业技术学院",
     "name": "异世相遇",
     "members": [
@@ -691,7 +754,8 @@
     "junior": 1,
     "official": 1
   },
-  "1064": {
+  {
+    "team_id": "1064",
     "organization": "嘉兴职业技术学院",
     "name": "水题突击队",
     "members": [
@@ -702,7 +766,8 @@
     "junior": 1,
     "official": 1
   },
-  "1065": {
+  {
+    "team_id": "1065",
     "organization": "嘉兴职业技术学院",
     "name": "我带你们打",
     "members": [
@@ -713,7 +778,8 @@
     "junior": 1,
     "official": 1
   },
-  "1066": {
+  {
+    "team_id": "1066",
     "organization": "嘉兴职业技术学院",
     "name": "暴力永不过时",
     "members": [
@@ -724,7 +790,8 @@
     "junior": 1,
     "official": 1
   },
-  "1067": {
+  {
+    "team_id": "1067",
     "organization": "浙江万里学院",
     "name": "苗妙妙养了只喵叫喵妙",
     "members": [
@@ -735,7 +802,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1068": {
+  {
+    "team_id": "1068",
     "organization": "浙江万里学院",
     "name": "大吉大利",
     "members": [
@@ -746,7 +814,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1069": {
+  {
+    "team_id": "1069",
     "organization": "浙江万里学院",
     "name": "雾里掀舟",
     "members": [
@@ -757,7 +826,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1070": {
+  {
+    "team_id": "1070",
     "organization": "浙江万里学院",
     "name": "蓝湖",
     "members": [
@@ -768,7 +838,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1071": {
+  {
+    "team_id": "1071",
     "organization": "浙江万里学院",
     "name": "不会真有人是二刺螈吧",
     "members": [
@@ -779,7 +850,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1072": {
+  {
+    "team_id": "1072",
     "organization": "浙江万里学院",
     "name": "年年有鱼",
     "members": [
@@ -790,7 +862,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1073": {
+  {
+    "team_id": "1073",
     "organization": "宁波工程学院",
     "name": "斯普拉遁，好耶",
     "members": [
@@ -801,7 +874,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1074": {
+  {
+    "team_id": "1074",
     "organization": "宁波工程学院",
     "name": "格局小了",
     "members": [
@@ -812,7 +886,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1075": {
+  {
+    "team_id": "1075",
     "organization": "宁波工程学院",
     "name": "找个班上",
     "members": [
@@ -823,7 +898,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1076": {
+  {
+    "team_id": "1076",
     "organization": "宁波工程学院",
     "name": "去吧zyy",
     "members": [
@@ -834,7 +910,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1077": {
+  {
+    "team_id": "1077",
     "organization": "宁波工程学院",
     "name": "命运石之门",
     "members": [
@@ -845,7 +922,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1078": {
+  {
+    "team_id": "1078",
     "organization": "宁波工程学院",
     "name": "红莲不死六翼狂魔",
     "members": [
@@ -856,7 +934,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1079": {
+  {
+    "team_id": "1079",
     "organization": "湖州职业技术学院",
     "name": "南太湖1队",
     "members": [
@@ -867,7 +946,8 @@
     "junior": 1,
     "official": 1
   },
-  "1080": {
+  {
+    "team_id": "1080",
     "organization": "湖州职业技术学院",
     "name": "南太湖2队",
     "members": [
@@ -878,7 +958,8 @@
     "junior": 1,
     "official": 1
   },
-  "1081": {
+  {
+    "team_id": "1081",
     "organization": "湖州职业技术学院",
     "name": "南太湖3队",
     "members": [
@@ -889,7 +970,8 @@
     "junior": 1,
     "official": 1
   },
-  "1082": {
+  {
+    "team_id": "1082",
     "organization": "湖州职业技术学院",
     "name": "南太湖4队",
     "members": [
@@ -900,7 +982,8 @@
     "junior": 1,
     "official": 1
   },
-  "1083": {
+  {
+    "team_id": "1083",
     "organization": "湖州职业技术学院",
     "name": "南太湖5队",
     "members": [
@@ -911,7 +994,8 @@
     "junior": 1,
     "official": 1
   },
-  "1084": {
+  {
+    "team_id": "1084",
     "organization": "金华一中",
     "name": "真夏の夜の金牌夢",
     "members": [
@@ -921,7 +1005,8 @@
     ],
     "unofficial": 1
   },
-  "1085": {
+  {
+    "team_id": "1085",
     "organization": "浙江水利水电学院",
     "name": "杭师大的小姐姐真好看",
     "members": [
@@ -932,7 +1017,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1086": {
+  {
+    "team_id": "1086",
     "organization": "浙江水利水电学院",
     "name": "恭喜以上队伍成功打铁",
     "members": [
@@ -943,7 +1029,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1087": {
+  {
+    "team_id": "1087",
     "organization": "浙江水利水电学院",
     "name": "无名",
     "members": [
@@ -954,7 +1041,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1088": {
+  {
+    "team_id": "1088",
     "organization": "浙江水利水电学院",
     "name": "你也没办法了对不队",
     "members": [
@@ -965,7 +1053,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1089": {
+  {
+    "team_id": "1089",
     "organization": "浙江水利水电学院",
     "name": "君王暴吃不到加州王",
     "members": [
@@ -976,7 +1065,8 @@
     "junior": 1,
     "official": 1
   },
-  "1090": {
+  {
+    "team_id": "1090",
     "organization": "金华职业技术学院",
     "name": "阴曹地府",
     "members": [
@@ -987,7 +1077,8 @@
     "junior": 1,
     "official": 1
   },
-  "1091": {
+  {
+    "team_id": "1091",
     "organization": "金华职业技术学院",
     "name": "软测跨界比武",
     "members": [
@@ -998,7 +1089,8 @@
     "junior": 1,
     "official": 1
   },
-  "1092": {
+  {
+    "team_id": "1092",
     "organization": "金华职业技术学院",
     "name": "求求了别爆零，我们是划水怪",
     "members": [
@@ -1009,7 +1101,8 @@
     "junior": 1,
     "official": 1
   },
-  "1093": {
+  {
+    "team_id": "1093",
     "organization": "金华职业技术学院",
     "name": "关于想打澳门站但学校不承认ICPC这件事",
     "members": [
@@ -1020,7 +1113,8 @@
     "junior": 1,
     "official": 1
   },
-  "1094": {
+  {
+    "team_id": "1094",
     "organization": "金华职业技术学院",
     "name": "随随便便队",
     "members": [
@@ -1031,7 +1125,8 @@
     "junior": 1,
     "official": 1
   },
-  "1095": {
+  {
+    "team_id": "1095",
     "organization": "金华职业技术学院",
     "name": "颁奖典礼到此结束",
     "members": [
@@ -1042,7 +1137,8 @@
     "junior": 1,
     "official": 1
   },
-  "1096": {
+  {
+    "team_id": "1096",
     "organization": "金华职业技术学院",
     "name": "请以上同学上台领奖",
     "members": [
@@ -1053,7 +1149,8 @@
     "junior": 1,
     "official": 1
   },
-  "1097": {
+  {
+    "team_id": "1097",
     "organization": "丽水学院",
     "name": "丽水学院1队",
     "members": [
@@ -1064,7 +1161,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1098": {
+  {
+    "team_id": "1098",
     "organization": "丽水学院",
     "name": "丽水学院2队",
     "members": [
@@ -1075,7 +1173,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1099": {
+  {
+    "team_id": "1099",
     "organization": "丽水学院",
     "name": "丽水学院3队",
     "members": [
@@ -1087,7 +1186,8 @@
     "official": 1,
     "girl": 1
   },
-  "1100": {
+  {
+    "team_id": "1100",
     "organization": "丽水学院",
     "name": "丽水学院4队",
     "members": [
@@ -1098,7 +1198,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1101": {
+  {
+    "team_id": "1101",
     "organization": "宁波职业技术学院",
     "name": "宁职12队",
     "members": [
@@ -1109,7 +1210,8 @@
     "junior": 1,
     "official": 1
   },
-  "1102": {
+  {
+    "team_id": "1102",
     "organization": "宁波职业技术学院",
     "name": "菜鸡队",
     "members": [
@@ -1120,7 +1222,8 @@
     "junior": 1,
     "official": 1
   },
-  "1103": {
+  {
+    "team_id": "1103",
     "organization": "宁波职业技术学院",
     "name": "震动队",
     "members": [
@@ -1131,7 +1234,8 @@
     "junior": 1,
     "official": 1
   },
-  "1104": {
+  {
+    "team_id": "1104",
     "organization": "宁波职业技术学院",
     "name": "蝎子莱莱",
     "members": [
@@ -1142,7 +1246,8 @@
     "junior": 1,
     "official": 1
   },
-  "1105": {
+  {
+    "team_id": "1105",
     "organization": "宁波职业技术学院",
     "name": "淘金大队",
     "members": [
@@ -1153,7 +1258,8 @@
     "junior": 1,
     "official": 1
   },
-  "1106": {
+  {
+    "team_id": "1106",
     "organization": "宁波职业技术学院",
     "name": "宁职升本队",
     "members": [
@@ -1164,7 +1270,8 @@
     "junior": 1,
     "official": 1
   },
-  "1107": {
+  {
+    "team_id": "1107",
     "organization": "绍兴一中",
     "name": "那没事了",
     "members": [
@@ -1174,7 +1281,8 @@
     ],
     "unofficial": 1
   },
-  "1108": {
+  {
+    "team_id": "1108",
     "organization": "绍兴一中",
     "name": "漠漠水田",
     "members": [
@@ -1184,7 +1292,8 @@
     ],
     "unofficial": 1
   },
-  "1109": {
+  {
+    "team_id": "1109",
     "organization": "衢州学院",
     "name": "瓜皮漏斗",
     "members": [
@@ -1195,7 +1304,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1110": {
+  {
+    "team_id": "1110",
     "organization": "衢州学院",
     "name": "小咖啦兵",
     "members": [
@@ -1206,7 +1316,8 @@
     "junior": 1,
     "official": 1
   },
-  "1111": {
+  {
+    "team_id": "1111",
     "organization": "衢州学院",
     "name": "真皮沙发",
     "members": [
@@ -1217,7 +1328,8 @@
     "junior": 1,
     "official": 1
   },
-  "1112": {
+  {
+    "team_id": "1112",
     "organization": "浙江长征职业技术学院",
     "name": "长征1队",
     "members": [
@@ -1228,7 +1340,8 @@
     "junior": 1,
     "official": 1
   },
-  "1113": {
+  {
+    "team_id": "1113",
     "organization": "浙江长征职业技术学院",
     "name": "长征2队",
     "members": [
@@ -1239,7 +1352,8 @@
     "junior": 1,
     "official": 1
   },
-  "1114": {
+  {
+    "team_id": "1114",
     "organization": "浙江长征职业技术学院",
     "name": "长征3队",
     "members": [
@@ -1250,7 +1364,8 @@
     "junior": 1,
     "official": 1
   },
-  "1115": {
+  {
+    "team_id": "1115",
     "organization": "浙江长征职业技术学院",
     "name": "长征4队",
     "members": [
@@ -1261,7 +1376,8 @@
     "junior": 1,
     "official": 1
   },
-  "1116": {
+  {
+    "team_id": "1116",
     "organization": "浙江长征职业技术学院",
     "name": "长征5队",
     "members": [
@@ -1272,7 +1388,8 @@
     "junior": 1,
     "official": 1
   },
-  "1117": {
+  {
+    "team_id": "1117",
     "organization": "宁波城市职业技术学院",
     "name": "异世相遇尽享美味",
     "members": [
@@ -1283,7 +1400,8 @@
     "junior": 1,
     "official": 1
   },
-  "1118": {
+  {
+    "team_id": "1118",
     "organization": "宁波城市职业技术学院",
     "name": "台湾回归时告诉寡人",
     "members": [
@@ -1294,7 +1412,8 @@
     "junior": 1,
     "official": 1
   },
-  "1119": {
+  {
+    "team_id": "1119",
     "organization": "宁波城市职业技术学院",
     "name": "祖国统一时通知朕",
     "members": [
@@ -1305,7 +1424,8 @@
     "junior": 1,
     "official": 1
   },
-  "1120": {
+  {
+    "team_id": "1120",
     "organization": "宁波城市职业技术学院",
     "name": "同化世界时告知孤王",
     "members": [
@@ -1316,7 +1436,8 @@
     "junior": 1,
     "official": 1
   },
-  "1121": {
+  {
+    "team_id": "1121",
     "organization": "宁波城市职业技术学院",
     "name": "米国分裂时电告吾皇",
     "members": [
@@ -1327,7 +1448,8 @@
     "junior": 1,
     "official": 1
   },
-  "1122": {
+  {
+    "team_id": "1122",
     "organization": "宁波大学",
     "name": "噼哩啪啦,叽哩呱啦,呼噜哗啦",
     "members": [
@@ -1338,7 +1460,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1123": {
+  {
+    "team_id": "1123",
     "organization": "宁波大学",
     "name": "这不是人均算法吗",
     "members": [
@@ -1349,7 +1472,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1124": {
+  {
+    "team_id": "1124",
     "organization": "宁波大学",
     "name": "技不如人，甘拜下风",
     "members": [
@@ -1360,7 +1484,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1125": {
+  {
+    "team_id": "1125",
     "organization": "宁波大学",
     "name": "我们都有女朋友",
     "members": [
@@ -1371,7 +1496,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1126": {
+  {
+    "team_id": "1126",
     "organization": "宁波大学",
     "name": "水题签到员",
     "members": [
@@ -1382,7 +1508,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1127": {
+  {
+    "team_id": "1127",
     "organization": "宁波大学",
     "name": "菜鸡小队",
     "members": [
@@ -1393,7 +1520,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1128": {
+  {
+    "team_id": "1128",
     "organization": "宁波大学",
     "name": "快乐的小马驹plus",
     "members": [
@@ -1404,7 +1532,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1129": {
+  {
+    "team_id": "1129",
     "organization": "温州大学",
     "name": "Tomcat",
     "members": [
@@ -1415,7 +1544,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1130": {
+  {
+    "team_id": "1130",
     "organization": "温州大学",
     "name": "Aris",
     "members": [
@@ -1426,7 +1556,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1131": {
+  {
+    "team_id": "1131",
     "organization": "温州大学",
     "name": "背着队友偷偷WA",
     "members": [
@@ -1437,7 +1568,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1132": {
+  {
+    "team_id": "1132",
     "organization": "温州大学",
     "name": "JOJO",
     "members": [
@@ -1448,7 +1580,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1133": {
+  {
+    "team_id": "1133",
     "organization": "温州大学",
     "name": "此时这个队伍还在骑马来的路上",
     "members": [
@@ -1459,7 +1592,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1134": {
+  {
+    "team_id": "1134",
     "organization": "金华市丽泽书院",
     "name": "郭老师的迷hotel",
     "members": [
@@ -1469,7 +1603,8 @@
     ],
     "unofficial": 1
   },
-  "1135": {
+  {
+    "team_id": "1135",
     "organization": "金华市丽泽书院",
     "name": "天选之人郭老师",
     "members": [
@@ -1479,7 +1614,8 @@
     ],
     "unofficial": 1
   },
-  "1136": {
+  {
+    "team_id": "1136",
     "organization": "嘉兴学院南湖学院",
     "name": "南湖学院1队",
     "members": [
@@ -1490,7 +1626,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1137": {
+  {
+    "team_id": "1137",
     "organization": "嘉兴学院南湖学院",
     "name": "南湖学院2队",
     "members": [
@@ -1501,7 +1638,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1138": {
+  {
+    "team_id": "1138",
     "organization": "嘉兴学院南湖学院",
     "name": "南湖学院3队",
     "members": [
@@ -1512,7 +1650,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1139": {
+  {
+    "team_id": "1139",
     "organization": "绍兴鲁迅中学",
     "name": "我喜欢烤鸭",
     "members": [
@@ -1522,7 +1661,8 @@
     ],
     "unofficial": 1
   },
-  "1140": {
+  {
+    "team_id": "1140",
     "organization": "绍兴职业技术学院",
     "name": "王无限",
     "members": [
@@ -1533,7 +1673,8 @@
     "junior": 1,
     "official": 1
   },
-  "1141": {
+  {
+    "team_id": "1141",
     "organization": "绍兴职业技术学院",
     "name": "无美金",
     "members": [
@@ -1544,7 +1685,8 @@
     "junior": 1,
     "official": 1
   },
-  "1142": {
+  {
+    "team_id": "1142",
     "organization": "绍兴职业技术学院",
     "name": "金羊王",
     "members": [
@@ -1555,7 +1697,8 @@
     "junior": 1,
     "official": 1
   },
-  "1143": {
+  {
+    "team_id": "1143",
     "organization": "绍兴职业技术学院",
     "name": "蒸红炉",
     "members": [
@@ -1566,7 +1709,8 @@
     "junior": 1,
     "official": 1
   },
-  "1144": {
+  {
+    "team_id": "1144",
     "organization": "绍兴职业技术学院",
     "name": "邵王证",
     "members": [
@@ -1577,7 +1721,8 @@
     "junior": 1,
     "official": 1
   },
-  "1145": {
+  {
+    "team_id": "1145",
     "organization": "绍兴职业技术学院",
     "name": "高勿虚",
     "members": [
@@ -1588,7 +1733,8 @@
     "junior": 1,
     "official": 1
   },
-  "1146": {
+  {
+    "team_id": "1146",
     "organization": "绍兴文理学院",
     "name": "黑黑向前冲",
     "members": [
@@ -1599,7 +1745,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1147": {
+  {
+    "team_id": "1147",
     "organization": "绍兴文理学院",
     "name": "都可以",
     "members": [
@@ -1610,7 +1757,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1148": {
+  {
+    "team_id": "1148",
     "organization": "绍兴文理学院",
     "name": "你怎么敢跟我作队",
     "members": [
@@ -1621,7 +1769,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1149": {
+  {
+    "team_id": "1149",
     "organization": "绍兴文理学院",
     "name": "十八斤番茄",
     "members": [
@@ -1632,7 +1781,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1150": {
+  {
+    "team_id": "1150",
     "organization": "绍兴文理学院",
     "name": "塔塔开",
     "members": [
@@ -1643,7 +1793,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1151": {
+  {
+    "team_id": "1151",
     "organization": "绍兴文理学院",
     "name": "张三李四王五",
     "members": [
@@ -1654,7 +1805,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1152": {
+  {
+    "team_id": "1152",
     "organization": "绍兴文理学院",
     "name": "秃头且WA队",
     "members": [
@@ -1665,7 +1817,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1153": {
+  {
+    "team_id": "1153",
     "organization": "浙江邮电职业技术学院",
     "name": "小羊的新衣",
     "members": [
@@ -1676,7 +1829,8 @@
     "junior": 1,
     "official": 1
   },
-  "1154": {
+  {
+    "team_id": "1154",
     "organization": "浙江邮电职业技术学院",
     "name": "亲疏自行",
     "members": [
@@ -1687,7 +1841,8 @@
     "junior": 1,
     "official": 1
   },
-  "1155": {
+  {
+    "team_id": "1155",
     "organization": "浙江邮电职业技术学院",
     "name": "沉稳咏唱",
     "members": [
@@ -1698,7 +1853,8 @@
     "junior": 1,
     "official": 1
   },
-  "1156": {
+  {
+    "team_id": "1156",
     "organization": "浙江邮电职业技术学院",
     "name": "天赐祝福",
     "members": [
@@ -1709,7 +1865,8 @@
     "junior": 1,
     "official": 1
   },
-  "1157": {
+  {
+    "team_id": "1157",
     "organization": "浙江邮电职业技术学院",
     "name": "伏特加梦之队",
     "members": [
@@ -1720,7 +1877,8 @@
     "junior": 1,
     "official": 1
   },
-  "1158": {
+  {
+    "team_id": "1158",
     "organization": "台州学院",
     "name": "没有异议",
     "members": [
@@ -1731,7 +1889,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1159": {
+  {
+    "team_id": "1159",
     "organization": "台州学院",
     "name": "C你太美",
     "members": [
@@ -1742,7 +1901,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1160": {
+  {
+    "team_id": "1160",
     "organization": "台州学院",
     "name": "道且阻长",
     "members": [
@@ -1753,7 +1913,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1161": {
+  {
+    "team_id": "1161",
     "organization": "台州学院",
     "name": "来一碗AC",
     "members": [
@@ -1764,7 +1925,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1162": {
+  {
+    "team_id": "1162",
     "organization": "台州学院",
     "name": "学妹说带飞",
     "members": [
@@ -1775,7 +1937,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1163": {
+  {
+    "team_id": "1163",
     "organization": "台州学院",
     "name": "三个卖甘蔗的渣男",
     "members": [
@@ -1786,7 +1949,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1164": {
+  {
+    "team_id": "1164",
     "organization": "台州学院",
     "name": "吉祥三宝",
     "members": [
@@ -1797,7 +1961,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1165": {
+  {
+    "team_id": "1165",
     "organization": "乐清市知临中学",
     "name": "长跑随便跑",
     "members": [
@@ -1807,7 +1972,8 @@
     ],
     "unofficial": 1
   },
-  "1166": {
+  {
+    "team_id": "1166",
     "organization": "乐清市知临中学",
     "name": "长跑不掉队",
     "members": [
@@ -1817,7 +1983,8 @@
     ],
     "unofficial": 1
   },
-  "1167": {
+  {
+    "team_id": "1167",
     "organization": "诸暨浣江中学",
     "name": "我说停停",
     "members": [
@@ -1827,7 +1994,8 @@
     ],
     "unofficial": 1
   },
-  "1168": {
+  {
+    "team_id": "1168",
     "organization": "衢州职业技术学院",
     "name": "代码全对",
     "members": [
@@ -1838,7 +2006,8 @@
     "junior": 1,
     "official": 1
   },
-  "1169": {
+  {
+    "team_id": "1169",
     "organization": "衢州职业技术学院",
     "name": "3.141592654",
     "members": [
@@ -1849,7 +2018,8 @@
     "junior": 1,
     "official": 1
   },
-  "1170": {
+  {
+    "team_id": "1170",
     "organization": "衢州职业技术学院",
     "name": "为acm添砖java队",
     "members": [
@@ -1860,7 +2030,8 @@
     "junior": 1,
     "official": 1
   },
-  "1171": {
+  {
+    "team_id": "1171",
     "organization": "衢州职业技术学院",
     "name": "咸鱼队",
     "members": [
@@ -1871,7 +2042,8 @@
     "junior": 1,
     "official": 1
   },
-  "1172": {
+  {
+    "team_id": "1172",
     "organization": "衢州职业技术学院",
     "name": "为c语言添砖Java队",
     "members": [
@@ -1882,7 +2054,8 @@
     "junior": 1,
     "official": 1
   },
-  "1173": {
+  {
+    "team_id": "1173",
     "organization": "温州科技职业学院",
     "name": "CS1.6兄弟",
     "members": [
@@ -1893,7 +2066,8 @@
     "junior": 1,
     "official": 1
   },
-  "1174": {
+  {
+    "team_id": "1174",
     "organization": "温州科技职业学院",
     "name": "AC一题就算成功",
     "members": [
@@ -1904,7 +2078,8 @@
     "junior": 1,
     "official": 1
   },
-  "1175": {
+  {
+    "team_id": "1175",
     "organization": "温州科技职业学院",
     "name": "空指针异常",
     "members": [
@@ -1915,7 +2090,8 @@
     "junior": 1,
     "official": 1
   },
-  "1176": {
+  {
+    "team_id": "1176",
     "organization": "温州科技职业学院",
     "name": "燃烧我的编译器",
     "members": [
@@ -1926,7 +2102,8 @@
     "junior": 1,
     "official": 1
   },
-  "1177": {
+  {
+    "team_id": "1177",
     "organization": "温州科技职业学院",
     "name": "不解释队",
     "members": [
@@ -1937,7 +2114,8 @@
     "junior": 1,
     "official": 1
   },
-  "1178": {
+  {
+    "team_id": "1178",
     "organization": "浙江师范大学",
     "name": "红鲤鱼与绿鲤鱼与暴鲤龙",
     "members": [
@@ -1948,7 +2126,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1179": {
+  {
+    "team_id": "1179",
     "organization": "浙江师范大学",
     "name": "霞谷",
     "members": [
@@ -1959,7 +2138,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1180": {
+  {
+    "team_id": "1180",
     "organization": "浙江师范大学",
     "name": "能量剑",
     "members": [
@@ -1970,7 +2150,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1181": {
+  {
+    "team_id": "1181",
     "organization": "浙江师范大学",
     "name": "拳打娜娜，脚踢娜娜，头顶娜娜",
     "members": [
@@ -1982,7 +2163,8 @@
     "official": 1,
     "girl": 1
   },
-  "1182": {
+  {
+    "team_id": "1182",
     "organization": "浙江师范大学",
     "name": "防wa题研究院",
     "members": [
@@ -1993,7 +2175,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1183": {
+  {
+    "team_id": "1183",
     "organization": "浙江师范大学",
     "name": "颁奖典礼到此结束",
     "members": [
@@ -2004,7 +2187,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1184": {
+  {
+    "team_id": "1184",
     "organization": "浙江师范大学",
     "name": "快想个队名",
     "members": [
@@ -2015,7 +2199,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1185": {
+  {
+    "team_id": "1185",
     "organization": "浙江师范大学",
     "name": "师傅把妖怪抓走了",
     "members": [
@@ -2026,7 +2211,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1186": {
+  {
+    "team_id": "1186",
     "organization": "台州科技职业学院",
     "name": "台科一组",
     "members": [
@@ -2037,7 +2223,8 @@
     "junior": 1,
     "official": 1
   },
-  "1187": {
+  {
+    "team_id": "1187",
     "organization": "台州科技职业学院",
     "name": "台科又一组",
     "members": [
@@ -2048,7 +2235,8 @@
     "junior": 1,
     "official": 1
   },
-  "1188": {
+  {
+    "team_id": "1188",
     "organization": "台州科技职业学院",
     "name": "全选谢谢",
     "members": [
@@ -2059,7 +2247,8 @@
     "junior": 1,
     "official": 1
   },
-  "1189": {
+  {
+    "team_id": "1189",
     "organization": "台州科技职业学院",
     "name": "甲乙丙三人行",
     "members": [
@@ -2070,7 +2259,8 @@
     "junior": 1,
     "official": 1
   },
-  "1190": {
+  {
+    "team_id": "1190",
     "organization": "温州中学",
     "name": "温州中学1队",
     "members": [
@@ -2080,7 +2270,8 @@
     ],
     "unofficial": 1
   },
-  "1191": {
+  {
+    "team_id": "1191",
     "organization": "温州中学",
     "name": "温州中学2队",
     "members": [
@@ -2090,7 +2281,8 @@
     ],
     "unofficial": 1
   },
-  "1192": {
+  {
+    "team_id": "1192",
     "organization": "宁波大学科学技术学院",
     "name": "十万伏特",
     "members": [
@@ -2101,7 +2293,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1193": {
+  {
+    "team_id": "1193",
     "organization": "宁波大学科学技术学院",
     "name": "永远都是TLE",
     "members": [
@@ -2112,7 +2305,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1194": {
+  {
+    "team_id": "1194",
     "organization": "宁波大学科学技术学院",
     "name": "斩码队",
     "members": [
@@ -2123,7 +2317,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1195": {
+  {
+    "team_id": "1195",
     "organization": "浙江安防职业技术学院",
     "name": "浙江安防职业技术学院一队",
     "members": [
@@ -2134,7 +2329,8 @@
     "junior": 1,
     "official": 1
   },
-  "1196": {
+  {
+    "team_id": "1196",
     "organization": "浙江安防职业技术学院",
     "name": "浙江安防职业技术学院二队",
     "members": [
@@ -2145,7 +2341,8 @@
     "junior": 1,
     "official": 1
   },
-  "1197": {
+  {
+    "team_id": "1197",
     "organization": "绍兴文理学院元培学院",
     "name": "剑指十九届acm省赛",
     "members": [
@@ -2156,7 +2353,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1198": {
+  {
+    "team_id": "1198",
     "organization": "绍兴文理学院元培学院",
     "name": "云中辉月芬芳香",
     "members": [
@@ -2167,7 +2365,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1199": {
+  {
+    "team_id": "1199",
     "organization": "绍兴文理学院元培学院",
     "name": "异世相逢，尽享美味",
     "members": [
@@ -2178,7 +2377,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1200": {
+  {
+    "team_id": "1200",
     "organization": "绍兴文理学院元培学院",
     "name": "再来一桶阿华田",
     "members": [
@@ -2189,7 +2389,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1201": {
+  {
+    "team_id": "1201",
     "organization": "绍兴文理学院元培学院",
     "name": "给他来个二次猿桶",
     "members": [
@@ -2200,7 +2401,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1202": {
+  {
+    "team_id": "1202",
     "organization": "绍兴文理学院元培学院",
     "name": "打铁关",
     "members": [
@@ -2211,7 +2413,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1203": {
+  {
+    "team_id": "1203",
     "organization": "温州理工学院",
     "name": "原来是冠军被我内定",
     "members": [
@@ -2222,7 +2425,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1204": {
+  {
+    "team_id": "1204",
     "organization": "温州理工学院",
     "name": "本地对了就是对了",
     "members": [
@@ -2233,7 +2437,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1205": {
+  {
+    "team_id": "1205",
     "organization": "温州理工学院",
     "name": "夺笋小分队",
     "members": [
@@ -2244,7 +2449,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1206": {
+  {
+    "team_id": "1206",
     "organization": "温州理工学院",
     "name": "AWM",
     "members": [
@@ -2255,7 +2461,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1207": {
+  {
+    "team_id": "1207",
     "organization": "温州医科大学",
     "name": "我来混经验",
     "members": [
@@ -2266,7 +2473,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1208": {
+  {
+    "team_id": "1208",
     "organization": "温州医科大学",
     "name": "所以爱会消失对不队",
     "members": [
@@ -2277,7 +2485,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1209": {
+  {
+    "team_id": "1209",
     "organization": "浙大城市学院",
     "name": "幻想乡的巫女",
     "members": [
@@ -2288,7 +2497,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1210": {
+  {
+    "team_id": "1210",
     "organization": "浙大城市学院",
     "name": "败者食尘",
     "members": [
@@ -2299,7 +2509,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1211": {
+  {
+    "team_id": "1211",
     "organization": "浙大城市学院",
     "name": "米卫兵集合！",
     "members": [
@@ -2310,7 +2521,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1212": {
+  {
+    "team_id": "1212",
     "organization": "浙大城市学院",
     "name": "昨夜萤火",
     "members": [
@@ -2321,7 +2533,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1213": {
+  {
+    "team_id": "1213",
     "organization": "浙大城市学院",
     "name": "外卖到了吗",
     "members": [
@@ -2332,7 +2545,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1214": {
+  {
+    "team_id": "1214",
     "organization": "浙大城市学院",
     "name": "红鲤鱼绿鲤鱼与驴要与红驴绿驴与鲤鱼比谁更",
     "members": [
@@ -2343,7 +2557,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1215": {
+  {
+    "team_id": "1215",
     "organization": "浙大城市学院",
     "name": "忒究您队",
     "members": [
@@ -2354,7 +2569,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1216": {
+  {
+    "team_id": "1216",
     "organization": "浙大城市学院",
     "name": "山隐之焰",
     "members": [
@@ -2365,7 +2581,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1217": {
+  {
+    "team_id": "1217",
     "organization": "学军中学",
     "name": "学军一队",
     "members": [
@@ -2375,7 +2592,8 @@
     ],
     "unofficial": 1
   },
-  "1218": {
+  {
+    "team_id": "1218",
     "organization": "学军中学",
     "name": "学军二队",
     "members": [
@@ -2385,7 +2603,8 @@
     ],
     "unofficial": 1
   },
-  "1219": {
+  {
+    "team_id": "1219",
     "organization": "学军中学",
     "name": "学军三队",
     "members": [
@@ -2395,7 +2614,8 @@
     ],
     "unofficial": 1
   },
-  "1220": {
+  {
+    "team_id": "1220",
     "organization": "宁波财经学院",
     "name": "试水",
     "members": [
@@ -2406,7 +2626,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1221": {
+  {
+    "team_id": "1221",
     "organization": "宁波财经学院",
     "name": "求个奖",
     "members": [
@@ -2417,7 +2638,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1222": {
+  {
+    "team_id": "1222",
     "organization": "宁波财经学院",
     "name": "以上队伍均未获奖",
     "members": [
@@ -2428,7 +2650,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1223": {
+  {
+    "team_id": "1223",
     "organization": "杭二中",
     "name": "老师你ACM打的还不够多",
     "members": [
@@ -2438,7 +2661,8 @@
     ],
     "unofficial": 1
   },
-  "1224": {
+  {
+    "team_id": "1224",
     "organization": "杭二中",
     "name": "下次再说",
     "members": [
@@ -2448,7 +2672,8 @@
     ],
     "unofficial": 1
   },
-  "1225": {
+  {
+    "team_id": "1225",
     "organization": "浙大宁波理工学院",
     "name": "午夜飞行",
     "members": [
@@ -2459,7 +2684,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1226": {
+  {
+    "team_id": "1226",
     "organization": "浙大宁波理工学院",
     "name": "执笔人",
     "members": [
@@ -2470,7 +2696,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1227": {
+  {
+    "team_id": "1227",
     "organization": "浙大宁波理工学院",
     "name": "随便",
     "members": [
@@ -2481,7 +2708,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1228": {
+  {
+    "team_id": "1228",
     "organization": "浙大宁波理工学院",
     "name": "我很高贵，wa没机会",
     "members": [
@@ -2493,7 +2721,8 @@
     "official": 1,
     "girl": 1
   },
-  "1229": {
+  {
+    "team_id": "1229",
     "organization": "浙大宁波理工学院",
     "name": "Dp带带我",
     "members": [
@@ -2504,7 +2733,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1230": {
+  {
+    "team_id": "1230",
     "organization": "浙大宁波理工学院",
     "name": "运气王拿外卖",
     "members": [
@@ -2515,7 +2745,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1231": {
+  {
+    "team_id": "1231",
     "organization": "浙大宁波理工学院",
     "name": "对兑隊對队",
     "members": [
@@ -2526,7 +2757,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1232": {
+  {
+    "team_id": "1232",
     "organization": "浙大宁波理工学院",
     "name": "赛先生",
     "members": [
@@ -2537,7 +2769,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1233": {
+  {
+    "team_id": "1233",
     "organization": "浙江中医药大学滨江学院",
     "name": "ZCMU-小丑竟是我自己",
     "members": [
@@ -2548,7 +2781,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1234": {
+  {
+    "team_id": "1234",
     "organization": "浙江中医药大学滨江学院",
     "name": "ZCMU-绝不低头",
     "members": [
@@ -2559,7 +2793,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1235": {
+  {
+    "team_id": "1235",
     "organization": "浙江中医药大学滨江学院",
     "name": "ZCMU-必胜客",
     "members": [
@@ -2570,7 +2805,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1236": {
+  {
+    "team_id": "1236",
     "organization": "浙江中医药大学滨江学院",
     "name": "ZCMU-秃头绝缘体",
     "members": [
@@ -2581,7 +2817,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1237": {
+  {
+    "team_id": "1237",
     "organization": "嘉兴学院",
     "name": "什么都队",
     "members": [
@@ -2592,7 +2829,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1238": {
+  {
+    "team_id": "1238",
     "organization": "嘉兴学院",
     "name": "哈哈哈哈哈哈哈哈哈",
     "members": [
@@ -2603,7 +2841,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1239": {
+  {
+    "team_id": "1239",
     "organization": "嘉兴学院",
     "name": "美少女战队",
     "members": [
@@ -2615,7 +2854,8 @@
     "official": 1,
     "girl": 1
   },
-  "1240": {
+  {
+    "team_id": "1240",
     "organization": "嘉兴学院",
     "name": "也随便",
     "members": [
@@ -2626,7 +2866,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1241": {
+  {
+    "team_id": "1241",
     "organization": "海亮高级中学",
     "name": "禁止潘爬",
     "members": [
@@ -2636,7 +2877,8 @@
     ],
     "unofficial": 1
   },
-  "1242": {
+  {
+    "team_id": "1242",
     "organization": "海亮高级中学",
     "name": "就是好啊",
     "members": [
@@ -2646,7 +2888,8 @@
     ],
     "unofficial": 1
   },
-  "1243": {
+  {
+    "team_id": "1243",
     "organization": "杭师大附中",
     "name": "福瑞喜满脯肉",
     "members": [
@@ -2656,7 +2899,8 @@
     ],
     "unofficial": 1
   },
-  "1244": {
+  {
+    "team_id": "1244",
     "organization": "杭师大附中",
     "name": "洗洗睡了",
     "members": [
@@ -2666,7 +2910,8 @@
     ],
     "unofficial": 1
   },
-  "1245": {
+  {
+    "team_id": "1245",
     "organization": "杭师大附中",
     "name": "好像爱这个世界啊",
     "members": [
@@ -2676,7 +2921,8 @@
     ],
     "unofficial": 1
   },
-  "1246": {
+  {
+    "team_id": "1246",
     "organization": "杭师大附中",
     "name": "带你飞",
     "members": [
@@ -2686,7 +2932,8 @@
     ],
     "unofficial": 1
   },
-  "1247": {
+  {
+    "team_id": "1247",
     "organization": "杭师大附中",
     "name": "?scald scald scald",
     "members": [
@@ -2696,7 +2943,8 @@
     ],
     "unofficial": 1
   },
-  "1248": {
+  {
+    "team_id": "1248",
     "organization": "杭师大附中",
     "name": "异世相逢，尽享编程",
     "members": [
@@ -2706,7 +2954,8 @@
     ],
     "unofficial": 1
   },
-  "1249": {
+  {
+    "team_id": "1249",
     "organization": "杭师大附中",
     "name": "为了和平",
     "members": [
@@ -2716,7 +2965,8 @@
     ],
     "unofficial": 1
   },
-  "1250": {
+  {
+    "team_id": "1250",
     "organization": "杭师大附中",
     "name": "怎么忍心怪你犯了错",
     "members": [
@@ -2726,7 +2976,8 @@
     ],
     "unofficial": 1
   },
-  "1251": {
+  {
+    "team_id": "1251",
     "organization": "杭师大附中",
     "name": "以下队伍成绩无效",
     "members": [
@@ -2736,7 +2987,8 @@
     ],
     "unofficial": 1
   },
-  "1252": {
+  {
+    "team_id": "1252",
     "organization": "杭师大附中",
     "name": "薛定谔的AC",
     "members": [
@@ -2746,7 +2998,8 @@
     ],
     "unofficial": 1
   },
-  "1253": {
+  {
+    "team_id": "1253",
     "organization": "同济大学浙江学院",
     "name": "忙里偷闲",
     "members": [
@@ -2757,7 +3010,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1254": {
+  {
+    "team_id": "1254",
     "organization": "同济大学浙江学院",
     "name": "小丑之家",
     "members": [
@@ -2768,7 +3022,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1255": {
+  {
+    "team_id": "1255",
     "organization": "同济大学浙江学院",
     "name": "有手就行",
     "members": [
@@ -2779,7 +3034,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1256": {
+  {
+    "team_id": "1256",
     "organization": "浙江工业职业技术学院",
     "name": "浙江工业职业技术学院第一弱的队伍",
     "members": [
@@ -2790,7 +3046,8 @@
     "junior": 1,
     "official": 1
   },
-  "1257": {
+  {
+    "team_id": "1257",
     "organization": "浙江工业职业技术学院",
     "name": "浙江工业职业技术学院第二弱的队伍",
     "members": [
@@ -2802,7 +3059,8 @@
     "official": 1,
     "girl": 1
   },
-  "1258": {
+  {
+    "team_id": "1258",
     "organization": "浙江工业职业技术学院",
     "name": "浙江工业职业技术学院第三弱的队伍",
     "members": [
@@ -2813,7 +3071,8 @@
     "junior": 1,
     "official": 1
   },
-  "1259": {
+  {
+    "team_id": "1259",
     "organization": "浙江工业职业技术学院",
     "name": "浙江工业职业技术学院第五弱的队伍",
     "members": [
@@ -2824,7 +3083,8 @@
     "junior": 1,
     "official": 1
   },
-  "1260": {
+  {
+    "team_id": "1260",
     "organization": "浙江工业职业技术学院",
     "name": "浙江工业职业技术学院第六弱的队伍",
     "members": [
@@ -2835,7 +3095,8 @@
     "junior": 1,
     "official": 1
   },
-  "1261": {
+  {
+    "team_id": "1261",
     "organization": "浙江工业职业技术学院",
     "name": "浙江工业职业技术学院第七弱的队伍",
     "members": [
@@ -2846,7 +3107,8 @@
     "junior": 1,
     "official": 1
   },
-  "1262": {
+  {
+    "team_id": "1262",
     "organization": "浙江工业职业技术学院",
     "name": "浙江工业职业技术学院第四弱的队伍",
     "members": [
@@ -2857,7 +3119,8 @@
     "junior": 1,
     "official": 1
   },
-  "1263": {
+  {
+    "team_id": "1263",
     "organization": "浙江农林大学",
     "name": "春田花花幼儿园",
     "members": [
@@ -2868,7 +3131,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1264": {
+  {
+    "team_id": "1264",
     "organization": "浙江农林大学",
     "name": "AC不如跳舞",
     "members": [
@@ -2879,7 +3143,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1265": {
+  {
+    "team_id": "1265",
     "organization": "浙江农林大学",
     "name": "讨论组",
     "members": [
@@ -2890,7 +3155,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1266": {
+  {
+    "team_id": "1266",
     "organization": "浙江农林大学",
     "name": "守铁人",
     "members": [
@@ -2901,7 +3167,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1267": {
+  {
+    "team_id": "1267",
     "organization": "浙江农林大学",
     "name": "小韭菜",
     "members": [
@@ -2912,7 +3179,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1268": {
+  {
+    "team_id": "1268",
     "organization": "浙江农林大学",
     "name": "我是乱打的",
     "members": [
@@ -2923,7 +3191,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1269": {
+  {
+    "team_id": "1269",
     "organization": "浙江农林大学",
     "name": "wa自动机",
     "members": [
@@ -2934,7 +3203,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1270": {
+  {
+    "team_id": "1270",
     "organization": "浙江农林大学",
     "name": "学习使我快乐",
     "members": [
@@ -2945,7 +3215,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1271": {
+  {
+    "team_id": "1271",
     "organization": "浙江传媒学院",
     "name": "浙传1队",
     "members": [
@@ -2956,7 +3227,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1272": {
+  {
+    "team_id": "1272",
     "organization": "浙江传媒学院",
     "name": "浙传2队",
     "members": [
@@ -2967,7 +3239,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1273": {
+  {
+    "team_id": "1273",
     "organization": "浙江传媒学院",
     "name": "鑫动浙传",
     "members": [
@@ -2978,7 +3251,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1274": {
+  {
+    "team_id": "1274",
     "organization": "浙江传媒学院",
     "name": "三人大队",
     "members": [
@@ -2989,7 +3263,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1275": {
+  {
+    "team_id": "1275",
     "organization": "台州职业技术学院",
     "name": "台州职业技术学院3队",
     "members": [
@@ -3000,7 +3275,8 @@
     "junior": 1,
     "official": 1
   },
-  "1276": {
+  {
+    "team_id": "1276",
     "organization": "台州职业技术学院",
     "name": "台州职业技术学院2队",
     "members": [
@@ -3011,7 +3287,8 @@
     "junior": 1,
     "official": 1
   },
-  "1277": {
+  {
+    "team_id": "1277",
     "organization": "台州职业技术学院",
     "name": "台州职业技术学院1队",
     "members": [
@@ -3022,7 +3299,8 @@
     "junior": 1,
     "official": 1
   },
-  "1278": {
+  {
+    "team_id": "1278",
     "organization": "浙江东方职业技术学院",
     "name": "梦",
     "members": [
@@ -3033,7 +3311,8 @@
     "junior": 1,
     "official": 1
   },
-  "1279": {
+  {
+    "team_id": "1279",
     "organization": "浙江东方职业技术学院",
     "name": "耀之星",
     "members": [
@@ -3044,7 +3323,8 @@
     "junior": 1,
     "official": 1
   },
-  "1280": {
+  {
+    "team_id": "1280",
     "organization": "浙江大学",
     "name": "我们都爱陈靖邦!",
     "members": [
@@ -3056,7 +3336,8 @@
     "official": 1,
     "girl": 1
   },
-  "1281": {
+  {
+    "team_id": "1281",
     "organization": "浙江大学",
     "name": "大家晚安",
     "members": [
@@ -3067,7 +3348,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1282": {
+  {
+    "team_id": "1282",
     "organization": "浙江大学",
     "name": "队名再不取给你平时分0分",
     "members": [
@@ -3078,7 +3360,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1283": {
+  {
+    "team_id": "1283",
     "organization": "浙江大学",
     "name": "磕死我了",
     "members": [
@@ -3089,7 +3372,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1284": {
+  {
+    "team_id": "1284",
     "organization": "浙江大学",
     "name": "希腊奶",
     "members": [
@@ -3100,7 +3384,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1285": {
+  {
+    "team_id": "1285",
     "organization": "浙江大学",
     "name": "队名不能为空",
     "members": [
@@ -3111,7 +3396,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1286": {
+  {
+    "team_id": "1286",
     "organization": "浙江财经大学",
     "name": "天光",
     "members": [
@@ -3122,7 +3408,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1287": {
+  {
+    "team_id": "1287",
     "organization": "浙江财经大学",
     "name": "渣男天团",
     "members": [
@@ -3133,7 +3420,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1288": {
+  {
+    "team_id": "1288",
     "organization": "浙江财经大学",
     "name": "暮光",
     "members": [
@@ -3144,7 +3432,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1289": {
+  {
+    "team_id": "1289",
     "organization": "浙江财经大学",
     "name": "日出入安穷 ",
     "members": [
@@ -3155,7 +3444,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1290": {
+  {
+    "team_id": "1290",
     "organization": "浙江财经大学",
     "name": "發財",
     "members": [
@@ -3166,7 +3456,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1291": {
+  {
+    "team_id": "1291",
     "organization": "浙江财经大学",
     "name": "阳光辰露",
     "members": [
@@ -3177,7 +3468,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1292": {
+  {
+    "team_id": "1292",
     "organization": "浙江财经大学",
     "name": " 读题困难户    ",
     "members": [
@@ -3188,7 +3480,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1293": {
+  {
+    "team_id": "1293",
     "organization": "浙江财经大学",
     "name": "不畏浮云遮望眼",
     "members": [
@@ -3199,7 +3492,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1294": {
+  {
+    "team_id": "1294",
     "organization": "中国计量大学现代科技学院",
     "name": "胖棕龙",
     "members": [
@@ -3210,7 +3504,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1295": {
+  {
+    "team_id": "1295",
     "organization": "中国计量大学现代科技学院",
     "name": "数论只会GCD",
     "members": [
@@ -3221,7 +3516,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1296": {
+  {
+    "team_id": "1296",
     "organization": "中国计量大学现代科技学院",
     "name": "刺客八九十",
     "members": [
@@ -3232,7 +3528,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1297": {
+  {
+    "team_id": "1297",
     "organization": "中国计量大学现代科技学院",
     "name": "13道题你还能AK我？",
     "members": [
@@ -3243,7 +3540,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1298": {
+  {
+    "team_id": "1298",
     "organization": "浙江工商大学",
     "name": "RedocDog",
     "members": [
@@ -3254,7 +3552,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1299": {
+  {
+    "team_id": "1299",
     "organization": "浙江工商大学",
     "name": "能力突出",
     "members": [
@@ -3265,7 +3564,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1300": {
+  {
+    "team_id": "1300",
     "organization": "浙江工商大学",
     "name": "哥斯拉面",
     "members": [
@@ -3276,7 +3576,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1301": {
+  {
+    "team_id": "1301",
     "organization": "浙江工商大学",
     "name": "粉红毛毛兔",
     "members": [
@@ -3287,7 +3588,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1302": {
+  {
+    "team_id": "1302",
     "organization": "浙江工商大学",
     "name": "生不出牌，我很抱歉",
     "members": [
@@ -3298,7 +3600,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1303": {
+  {
+    "team_id": "1303",
     "organization": "浙江工商大学",
     "name": "最后之舞",
     "members": [
@@ -3309,7 +3612,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1304": {
+  {
+    "team_id": "1304",
     "organization": "浙江工商大学",
     "name": "键盘滚脸",
     "members": [
@@ -3320,7 +3624,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1305": {
+  {
+    "team_id": "1305",
     "organization": "浙江师范大学行知学院",
     "name": "WA来了TLE还会远吗",
     "members": [
@@ -3331,7 +3636,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1306": {
+  {
+    "team_id": "1306",
     "organization": "浙江师范大学行知学院",
     "name": "码上完事",
     "members": [
@@ -3342,7 +3648,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1307": {
+  {
+    "team_id": "1307",
     "organization": "浙江师范大学行知学院",
     "name": "大锤八十",
     "members": [
@@ -3353,7 +3660,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1308": {
+  {
+    "team_id": "1308",
     "organization": "浙江财经大学东方学院",
     "name": "一行代码",
     "members": [
@@ -3364,7 +3672,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1309": {
+  {
+    "team_id": "1309",
     "organization": "浙江财经大学东方学院",
     "name": "牛气冲天",
     "members": [
@@ -3375,7 +3684,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1310": {
+  {
+    "team_id": "1310",
     "organization": "浙江财经大学东方学院",
     "name": "天天向上",
     "members": [
@@ -3386,7 +3696,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1311": {
+  {
+    "team_id": "1311",
     "organization": "浙江纺织服装职业技术学院",
     "name": "老陆说的都队",
     "members": [
@@ -3397,7 +3708,8 @@
     "junior": 1,
     "official": 1
   },
-  "1312": {
+  {
+    "team_id": "1312",
     "organization": "浙江纺织服装职业技术学院",
     "name": "老姚说的都队",
     "members": [
@@ -3408,7 +3720,8 @@
     "junior": 1,
     "official": 1
   },
-  "1313": {
+  {
+    "team_id": "1313",
     "organization": "浙江纺织服装职业技术学院",
     "name": "王姐说的都队",
     "members": [
@@ -3419,7 +3732,8 @@
     "junior": 1,
     "official": 1
   },
-  "1314": {
+  {
+    "team_id": "1314",
     "organization": "浙江育英职业技术学院",
     "name": "育英五队",
     "members": [
@@ -3430,7 +3744,8 @@
     "junior": 1,
     "official": 1
   },
-  "1315": {
+  {
+    "team_id": "1315",
     "organization": "浙江育英职业技术学院",
     "name": "育英小马宝莉队",
     "members": [
@@ -3441,7 +3756,8 @@
     "junior": 1,
     "official": 1
   },
-  "1316": {
+  {
+    "team_id": "1316",
     "organization": "浙江育英职业技术学院",
     "name": "育英七队",
     "members": [
@@ -3452,7 +3768,8 @@
     "junior": 1,
     "official": 1
   },
-  "1317": {
+  {
+    "team_id": "1317",
     "organization": "浙江育英职业技术学院",
     "name": "育英十一队",
     "members": [
@@ -3463,7 +3780,8 @@
     "junior": 1,
     "official": 1
   },
-  "1318": {
+  {
+    "team_id": "1318",
     "organization": "浙江育英职业技术学院",
     "name": "育英十七队",
     "members": [
@@ -3474,7 +3792,8 @@
     "junior": 1,
     "official": 1
   },
-  "1319": {
+  {
+    "team_id": "1319",
     "organization": "浙江育英职业技术学院",
     "name": "育英九队",
     "members": [
@@ -3485,7 +3804,8 @@
     "junior": 1,
     "official": 1
   },
-  "1320": {
+  {
+    "team_id": "1320",
     "organization": "浙江育英职业技术学院",
     "name": "育英三队",
     "members": [
@@ -3496,7 +3816,8 @@
     "junior": 1,
     "official": 1
   },
-  "1321": {
+  {
+    "team_id": "1321",
     "organization": "浙江工业大学",
     "name": "一路向北",
     "members": [
@@ -3507,7 +3828,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1322": {
+  {
+    "team_id": "1322",
     "organization": "浙江工业大学",
     "name": "一个梦想两个梦想三个梦想",
     "members": [
@@ -3518,7 +3840,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1323": {
+  {
+    "team_id": "1323",
     "organization": "浙江工业大学",
     "name": "Dinic大战迪卢克",
     "members": [
@@ -3529,7 +3852,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1324": {
+  {
+    "team_id": "1324",
     "organization": "浙江工业大学",
     "name": "地球猫猫",
     "members": [
@@ -3540,7 +3864,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1325": {
+  {
+    "team_id": "1325",
     "organization": "浙江工业大学",
     "name": "ZJUT7",
     "members": [
@@ -3551,7 +3876,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1326": {
+  {
+    "team_id": "1326",
     "organization": "浙江工业大学",
     "name": "ZJUT12",
     "members": [
@@ -3562,7 +3888,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1327": {
+  {
+    "team_id": "1327",
     "organization": "浙江工业大学",
     "name": "ZJUT13",
     "members": [
@@ -3573,7 +3900,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1328": {
+  {
+    "team_id": "1328",
     "organization": "浙江工业大学",
     "name": "ZJUT14",
     "members": [
@@ -3584,7 +3912,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1329": {
+  {
+    "team_id": "1329",
     "organization": "浙江商业职业技术学校",
     "name": "浙江商职院二队",
     "members": [
@@ -3595,7 +3924,8 @@
     "junior": 1,
     "official": 1
   },
-  "1330": {
+  {
+    "team_id": "1330",
     "organization": "浙江商业职业技术学校",
     "name": "浙江商职院一队",
     "members": [
@@ -3606,7 +3936,8 @@
     "junior": 1,
     "official": 1
   },
-  "1331": {
+  {
+    "team_id": "1331",
     "organization": "余姚中学",
     "name": "盒饭汤熏带鱼",
     "members": [
@@ -3616,7 +3947,8 @@
     ],
     "unofficial": 1
   },
-  "1332": {
+  {
+    "team_id": "1332",
     "organization": "浙江理工大学科技与艺术学院",
     "name": "科艺1队",
     "members": [
@@ -3627,7 +3959,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1333": {
+  {
+    "team_id": "1333",
     "organization": "浙江理工大学科技与艺术学院",
     "name": "科艺2队",
     "members": [
@@ -3639,7 +3972,8 @@
     "official": 1,
     "girl": 1
   },
-  "1334": {
+  {
+    "team_id": "1334",
     "organization": "浙江理工大学科技与艺术学院",
     "name": "科艺3队",
     "members": [
@@ -3650,7 +3984,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1335": {
+  {
+    "team_id": "1335",
     "organization": "浙江工商职业技术学院",
     "name": "仅此成绩有效",
     "members": [
@@ -3661,7 +3996,8 @@
     "junior": 1,
     "official": 1
   },
-  "1336": {
+  {
+    "team_id": "1336",
     "organization": "浙江工商职业技术学院",
     "name": "阿尔法和伽马",
     "members": [
@@ -3672,7 +4008,8 @@
     "junior": 1,
     "official": 1
   },
-  "1337": {
+  {
+    "team_id": "1337",
     "organization": "浙江工商职业技术学院",
     "name": "小丑竟是我自己",
     "members": [
@@ -3683,7 +4020,8 @@
     "junior": 1,
     "official": 1
   },
-  "1338": {
+  {
+    "team_id": "1338",
     "organization": "浙江科技学院",
     "name": "一朵小红花",
     "members": [
@@ -3694,7 +4032,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1339": {
+  {
+    "team_id": "1339",
     "organization": "浙江科技学院",
     "name": "四级都没过",
     "members": [
@@ -3705,7 +4044,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1340": {
+  {
+    "team_id": "1340",
     "organization": "浙江科技学院",
     "name": "高考出题组",
     "members": [
@@ -3716,7 +4056,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1341": {
+  {
+    "team_id": "1341",
     "organization": "浙江科技学院",
     "name": "队长他她它又双叒叕不见了",
     "members": [
@@ -3727,7 +4068,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1342": {
+  {
+    "team_id": "1342",
     "organization": "浙江科技学院",
     "name": "wa得一声哭出了tle",
     "members": [
@@ -3738,7 +4080,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1343": {
+  {
+    "team_id": "1343",
     "organization": "浙江科技学院",
     "name": "刚才发生了什么",
     "members": [
@@ -3749,7 +4092,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1344": {
+  {
+    "team_id": "1344",
     "organization": "浙江科技学院",
     "name": "我们队要解散了",
     "members": [
@@ -3760,7 +4104,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1345": {
+  {
+    "team_id": "1345",
     "organization": "浙江交通职业技术学院",
     "name": "小丛雨",
     "members": [
@@ -3771,7 +4116,8 @@
     "junior": 1,
     "official": 1
   },
-  "1346": {
+  {
+    "team_id": "1346",
     "organization": "浙江交通职业技术学院",
     "name": "校长亲自带队",
     "members": [
@@ -3782,7 +4128,8 @@
     "junior": 1,
     "official": 1
   },
-  "1347": {
+  {
+    "team_id": "1347",
     "organization": "浙江交通职业技术学院",
     "name": "别催，刚创文件夹",
     "members": [
@@ -3793,7 +4140,8 @@
     "junior": 1,
     "official": 1
   },
-  "1348": {
+  {
+    "team_id": "1348",
     "organization": "浙江金融职业学院",
     "name": "求求了给个牌吧",
     "members": [
@@ -3804,7 +4152,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1349": {
+  {
+    "team_id": "1349",
     "organization": "浙江金融职业学院",
     "name": "提交就会",
     "members": [
@@ -3815,7 +4164,8 @@
     "junior": 1,
     "official": 1
   },
-  "1350": {
+  {
+    "team_id": "1350",
     "organization": "浙江金融职业学院",
     "name": "一颗赛艇",
     "members": [
@@ -3826,7 +4176,8 @@
     "junior": 1,
     "official": 1
   },
-  "1351": {
+  {
+    "team_id": "1351",
     "organization": "浙江金融职业学院",
     "name": "海的那边",
     "members": [
@@ -3837,7 +4188,8 @@
     "junior": 1,
     "official": 1
   },
-  "1352": {
+  {
+    "team_id": "1352",
     "organization": "浙江金融职业学院",
     "name": "打完就跑路",
     "members": [
@@ -3848,7 +4200,8 @@
     "junior": 1,
     "official": 1
   },
-  "1353": {
+  {
+    "team_id": "1353",
     "organization": "浙江金融职业学院",
     "name": "下次一定队",
     "members": [
@@ -3859,7 +4212,8 @@
     "junior": 1,
     "official": 1
   },
-  "1354": {
+  {
+    "team_id": "1354",
     "organization": "浙江金融职业学院",
     "name": "沙地拔萝卜",
     "members": [
@@ -3870,7 +4224,8 @@
     "junior": 1,
     "official": 1
   },
-  "1355": {
+  {
+    "team_id": "1355",
     "organization": "杭州职业技术学院",
     "name": "&lt;h1&gt;红烧小鱼.cpp&lt;/h1&gt;",
     "members": [
@@ -3881,7 +4236,8 @@
     "junior": 1,
     "official": 1
   },
-  "1356": {
+  {
+    "team_id": "1356",
     "organization": "杭州职业技术学院",
     "name": "强化成功+17",
     "members": [
@@ -3892,7 +4248,8 @@
     "junior": 1,
     "official": 1
   },
-  "1357": {
+  {
+    "team_id": "1357",
     "organization": "杭州职业技术学院",
     "name": "summer",
     "members": [
@@ -3903,7 +4260,8 @@
     "junior": 1,
     "official": 1
   },
-  "1358": {
+  {
+    "team_id": "1358",
     "organization": "杭州职业技术学院",
     "name": " 齉龘龘靐齉齾爩麤龗灪龖厵",
     "members": [
@@ -3914,7 +4272,8 @@
     "junior": 1,
     "official": 1
   },
-  "1359": {
+  {
+    "team_id": "1359",
     "organization": "杭州职业技术学院",
     "name": "TuT",
     "members": [
@@ -3925,7 +4284,8 @@
     "junior": 1,
     "official": 1
   },
-  "1360": {
+  {
+    "team_id": "1360",
     "organization": "浙江科贸职业技术学院",
     "name": "代码风暴",
     "members": [
@@ -3936,7 +4296,8 @@
     "junior": 1,
     "official": 1
   },
-  "1361": {
+  {
+    "team_id": "1361",
     "organization": "浙江科贸职业技术学院",
     "name": "风控中心",
     "members": [
@@ -3947,7 +4308,8 @@
     "junior": 1,
     "official": 1
   },
-  "1362": {
+  {
+    "team_id": "1362",
     "organization": "浙江工业大学之江学院",
     "name": "之江一队",
     "members": [
@@ -3958,7 +4320,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1363": {
+  {
+    "team_id": "1363",
     "organization": "浙江工业大学之江学院",
     "name": "廾匸  亾䢋  囗厺(之江二队)",
     "members": [
@@ -3969,7 +4332,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1364": {
+  {
+    "team_id": "1364",
     "organization": "浙江工业大学之江学院",
     "name": "之江三队",
     "members": [
@@ -3980,7 +4344,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1365": {
+  {
+    "team_id": "1365",
     "organization": "浙江工业大学之江学院",
     "name": "之江四队",
     "members": [
@@ -3991,7 +4356,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1366": {
+  {
+    "team_id": "1366",
     "organization": "浙江工业大学之江学院",
     "name": "之江五队",
     "members": [
@@ -4002,7 +4368,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1367": {
+  {
+    "team_id": "1367",
     "organization": "浙江海洋大学",
     "name": "起名字真的太难了",
     "members": [
@@ -4013,7 +4380,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1368": {
+  {
+    "team_id": "1368",
     "organization": "浙江海洋大学",
     "name": "你这个年纪怎么睡得着觉",
     "members": [
@@ -4024,7 +4392,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1369": {
+  {
+    "team_id": "1369",
     "organization": "浙江海洋大学",
     "name": "愚者",
     "members": [
@@ -4035,7 +4404,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1370": {
+  {
+    "team_id": "1370",
     "organization": "浙江海洋大学",
     "name": "无名",
     "members": [
@@ -4046,7 +4416,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1371": {
+  {
+    "team_id": "1371",
     "organization": "浙江海洋大学东海科学技术学院",
     "name": "福大命大",
     "members": [
@@ -4057,7 +4428,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1372": {
+  {
+    "team_id": "1372",
     "organization": "浙江海洋大学东海科学技术学院",
     "name": "虾米对螃蟹",
     "members": [
@@ -4068,7 +4440,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1373": {
+  {
+    "team_id": "1373",
     "organization": "浙江海洋大学东海科学技术学院",
     "name": "真的菜",
     "members": [
@@ -4079,7 +4452,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1374": {
+  {
+    "team_id": "1374",
     "organization": "浙江机电职业技术学院",
     "name": "求DeBug成功的概率与心态的函数关系",
     "members": [
@@ -4090,7 +4464,8 @@
     "junior": 1,
     "official": 1
   },
-  "1375": {
+  {
+    "team_id": "1375",
     "organization": "浙江机电职业技术学院",
     "name": "三个核桃",
     "members": [
@@ -4101,7 +4476,8 @@
     "junior": 1,
     "official": 1
   },
-  "1376": {
+  {
+    "team_id": "1376",
     "organization": "浙江机电职业技术学院",
     "name": "蜜汁火腿",
     "members": [
@@ -4112,7 +4488,8 @@
     "junior": 1,
     "official": 1
   },
-  "1377": {
+  {
+    "team_id": "1377",
     "organization": "浙江机电职业技术学院",
     "name": "暴力出奇迹",
     "members": [
@@ -4123,7 +4500,8 @@
     "junior": 1,
     "official": 1
   },
-  "1378": {
+  {
+    "team_id": "1378",
     "organization": "浙江机电职业技术学院",
     "name": "我也想要金牌",
     "members": [
@@ -4134,7 +4512,8 @@
     "junior": 1,
     "official": 1
   },
-  "1379": {
+  {
+    "team_id": "1379",
     "organization": "浙江机电职业技术学院",
     "name": "她与WA皆失",
     "members": [
@@ -4145,7 +4524,8 @@
     "junior": 1,
     "official": 1
   },
-  "1380": {
+  {
+    "team_id": "1380",
     "organization": "浙江机电职业技术学院",
     "name": "摸鱼的鸽子",
     "members": [
@@ -4156,7 +4536,8 @@
     "junior": 1,
     "official": 1
   },
-  "1381": {
+  {
+    "team_id": "1381",
     "organization": "浙江机电职业技术学院",
     "name": "漫步红橙，且听风吟",
     "members": [
@@ -4167,7 +4548,8 @@
     "junior": 1,
     "official": 1
   },
-  "1382": {
+  {
+    "team_id": "1382",
     "organization": "浙江警官职业学院",
     "name": "你锁的都兑",
     "members": [
@@ -4178,7 +4560,8 @@
     "junior": 1,
     "official": 1
   },
-  "1383": {
+  {
+    "team_id": "1383",
     "organization": "浙江警官职业学院",
     "name": "比赛到此结束",
     "members": [
@@ -4189,7 +4572,8 @@
     "junior": 1,
     "official": 1
   },
-  "1384": {
+  {
+    "team_id": "1384",
     "organization": "浙江警官职业学院",
     "name": "TRH",
     "members": [
@@ -4200,7 +4584,8 @@
     "junior": 1,
     "official": 1
   },
-  "1385": {
+  {
+    "team_id": "1385",
     "organization": "浙江警官职业学院",
     "name": "DT",
     "members": [
@@ -4211,7 +4596,8 @@
     "junior": 1,
     "official": 1
   },
-  "1386": {
+  {
+    "team_id": "1386",
     "organization": "镇海中学",
     "name": "银河战筏",
     "members": [
@@ -4221,7 +4607,8 @@
     ],
     "unofficial": 1
   },
-  "1387": {
+  {
+    "team_id": "1387",
     "organization": "镇海中学",
     "name": "芝麻好吃",
     "members": [
@@ -4231,7 +4618,8 @@
     ],
     "unofficial": 1
   },
-  "1388": {
+  {
+    "team_id": "1388",
     "organization": "镇海中学",
     "name": "摸鱼天天被gank",
     "members": [
@@ -4241,7 +4629,8 @@
     ],
     "unofficial": 1
   },
-  "1389": {
+  {
+    "team_id": "1389",
     "organization": "浙江经贸职业技术学院",
     "name": "巴拉拉能量沙罗沙罗小魔仙全身变",
     "members": [
@@ -4252,7 +4641,8 @@
     "junior": 1,
     "official": 1
   },
-  "1390": {
+  {
+    "team_id": "1390",
     "organization": "浙江经贸职业技术学院",
     "name": "两只老虎爱跳舞小兔子乖乖拔萝卜",
     "members": [
@@ -4263,7 +4653,8 @@
     "junior": 1,
     "official": 1
   },
-  "1391": {
+  {
+    "team_id": "1391",
     "organization": "浙江经贸职业技术学院",
     "name": "做对签到题就算成功",
     "members": [
@@ -4274,7 +4665,8 @@
     "junior": 1,
     "official": 1
   },
-  "1392": {
+  {
+    "team_id": "1392",
     "organization": "浙江经贸职业技术学院",
     "name": "画画的北北",
     "members": [
@@ -4285,7 +4677,8 @@
     "junior": 1,
     "official": 1
   },
-  "1393": {
+  {
+    "team_id": "1393",
     "organization": "浙江经贸职业技术学院",
     "name": "史莱姆",
     "members": [
@@ -4296,7 +4689,8 @@
     "junior": 1,
     "official": 1
   },
-  "1394": {
+  {
+    "team_id": "1394",
     "organization": "浙江经贸职业技术学院",
     "name": "不用翻译器不行",
     "members": [
@@ -4307,7 +4701,8 @@
     "junior": 1,
     "official": 1
   },
-  "1395": {
+  {
+    "team_id": "1395",
     "organization": "浙江警察学院",
     "name": "郑一彬",
     "members": [
@@ -4318,7 +4713,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1396": {
+  {
+    "team_id": "1396",
     "organization": "浙江警察学院",
     "name": "师弟全做对",
     "members": [
@@ -4329,7 +4725,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1397": {
+  {
+    "team_id": "1397",
     "organization": "浙江警察学院",
     "name": "没有对象的面向对象编程",
     "members": [
@@ -4340,7 +4737,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1398": {
+  {
+    "team_id": "1398",
     "organization": "浙江警察学院",
     "name": "野兽仙贝",
     "members": [
@@ -4351,7 +4749,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1399": {
+  {
+    "team_id": "1399",
     "organization": "浙江中医药大学",
     "name": "ZCMU-稻花香里说wa年",
     "members": [
@@ -4362,7 +4761,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1400": {
+  {
+    "team_id": "1400",
     "organization": "浙江中医药大学",
     "name": "ZCMU-再一个滑铲",
     "members": [
@@ -4373,7 +4773,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1401": {
+  {
+    "team_id": "1401",
     "organization": "浙江中医药大学",
     "name": "ZCMU-扶我起来，我还能A",
     "members": [
@@ -4385,7 +4786,8 @@
     "official": 1,
     "girl": 1
   },
-  "1402": {
+  {
+    "team_id": "1402",
     "organization": "浙江中医药大学",
     "name": "ZCMU-程序探索ing",
     "members": [
@@ -4396,7 +4798,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1403": {
+  {
+    "team_id": "1403",
     "organization": "浙江中医药大学",
     "name": "ZCMU-AC自动机",
     "members": [
@@ -4407,7 +4810,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1404": {
+  {
+    "team_id": "1404",
     "organization": "浙江中医药大学",
     "name": "ZCMU-分界线",
     "members": [
@@ -4418,7 +4822,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1405": {
+  {
+    "team_id": "1405",
     "organization": "浙江中医药大学",
     "name": "ZCMU-旅行商",
     "members": [
@@ -4429,7 +4834,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1406": {
+  {
+    "team_id": "1406",
     "organization": "杭高",
     "name": "无处不在",
     "members": [
@@ -4439,7 +4845,8 @@
     ],
     "unofficial": 1
   },
-  "1407": {
+  {
+    "team_id": "1407",
     "organization": "杭高",
     "name": "涌潮",
     "members": [
@@ -4449,7 +4856,8 @@
     ],
     "unofficial": 1
   },
-  "1408": {
+  {
+    "team_id": "1408",
     "organization": "浙江农林大学暨阳学院",
     "name": "一个叫队的队",
     "members": [
@@ -4461,7 +4869,8 @@
     "official": 1,
     "girl": 1
   },
-  "1409": {
+  {
+    "team_id": "1409",
     "organization": "浙江农林大学暨阳学院",
     "name": "下次不一定但是这次一定",
     "members": [
@@ -4472,7 +4881,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1410": {
+  {
+    "team_id": "1410",
     "organization": "浙江农林大学暨阳学院",
     "name": "PE WA RE T RF IE一个不差",
     "members": [
@@ -4483,7 +4893,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1411": {
+  {
+    "team_id": "1411",
     "organization": "浙江农林大学暨阳学院",
     "name": "你说的都对",
     "members": [
@@ -4494,7 +4905,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1412": {
+  {
+    "team_id": "1412",
     "organization": "浙江工商大学杭州商学院",
     "name": "自闭男孩",
     "members": [
@@ -4505,7 +4917,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1413": {
+  {
+    "team_id": "1413",
     "organization": "浙江工商大学杭州商学院",
     "name": "时代少年团",
     "members": [
@@ -4516,7 +4929,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1414": {
+  {
+    "team_id": "1414",
     "organization": "浙江工商大学杭州商学院",
     "name": "汪汪队立大功",
     "members": [
@@ -4527,7 +4941,8 @@
     "undergraduate": 1,
     "official": 1
   },
-  "1415": {
+  {
+    "team_id": "1415",
     "organization": "浙江工商大学杭州商学院",
     "name": "没人在意",
     "members": [
@@ -4538,4 +4953,4 @@
     "undergraduate": 1,
     "official": 1
   }
-}
+]

@@ -1,5 +1,5 @@
-{
-  "T003": {
+[
+  {
     "coach": "罗国杰",
     "members": [
       "司嘉祺",
@@ -11,7 +11,7 @@
     "organization": "北京大学",
     "team_id": "T003"
   },
-  "T004": {
+  {
     "coach": "罗国杰",
     "members": [
       "刘俊豪",
@@ -23,7 +23,7 @@
     "organization": "北京大学",
     "team_id": "T004"
   },
-  "T005": {
+  {
     "coach": "罗国杰",
     "members": [
       "吴清月",
@@ -35,7 +35,7 @@
     "organization": "北京大学",
     "team_id": "T005"
   },
-  "T006": {
+  {
     "coach": "张玉清",
     "members": [
       "杨笑添",
@@ -47,7 +47,7 @@
     "organization": "中国地质大学（北京）",
     "team_id": "T006"
   },
-  "T008": {
+  {
     "coach": "刘高军",
     "members": [
       "林帅",
@@ -59,7 +59,7 @@
     "organization": "北方工业大学",
     "team_id": "T008"
   },
-  "T009": {
+  {
     "coach": "宋友",
     "members": [
       "张瑞星",
@@ -71,7 +71,7 @@
     "organization": "北京航空航天大学",
     "team_id": "T009"
   },
-  "T010": {
+  {
     "coach": "宋友",
     "members": [
       "傅云濠",
@@ -83,7 +83,7 @@
     "organization": "北京航空航天大学",
     "team_id": "T010"
   },
-  "T011": {
+  {
     "coach": "宋友",
     "members": [
       "李英龙",
@@ -95,7 +95,7 @@
     "organization": "北京航空航天大学",
     "team_id": "T011"
   },
-  "T012": {
+  {
     "coach": "鲁静轩",
     "members": [
       "林鸿鑫",
@@ -107,7 +107,7 @@
     "organization": "北华大学",
     "team_id": "T012"
   },
-  "T013": {
+  {
     "coach": "曹洪宇",
     "members": [
       "于志豪",
@@ -119,7 +119,7 @@
     "organization": "北华大学",
     "team_id": "T013"
   },
-  "T019": {
+  {
     "coach": "刘勇",
     "members": [
       "刘洋滔",
@@ -131,7 +131,7 @@
     "team_id": "T019",
     "unofficial": 1
   },
-  "T020": {
+  {
     "coach": "周晓琳",
     "members": [
       "庄禹",
@@ -143,7 +143,7 @@
     "organization": "北京化工大学",
     "team_id": "T020"
   },
-  "T021": {
+  {
     "coach": "彭冰",
     "members": [
       "孙跃峰",
@@ -155,7 +155,7 @@
     "organization": "北京化工大学",
     "team_id": "T021"
   },
-  "T022": {
+  {
     "coach": "刘勇",
     "members": [
       "姜晨",
@@ -167,7 +167,7 @@
     "team_id": "T022",
     "unofficial": 1
   },
-  "T023": {
+  {
     "coach": "刘勇",
     "members": [
       "姜哲玺",
@@ -179,7 +179,7 @@
     "team_id": "T023",
     "unofficial": 1
   },
-  "T024": {
+  {
     "coach": "黄华",
     "members": [
       "崔景志",
@@ -191,7 +191,7 @@
     "organization": "北京交通大学",
     "team_id": "T024"
   },
-  "T025": {
+  {
     "coach": "许华婷",
     "members": [
       "张博成",
@@ -203,7 +203,7 @@
     "team_id": "T025",
     "unofficial": 1
   },
-  "T026": {
+  {
     "coach": "黄华",
     "members": [
       "张雨辰",
@@ -215,7 +215,7 @@
     "organization": "北京交通大学",
     "team_id": "T026"
   },
-  "T027": {
+  {
     "coach": "史继筠",
     "members": [
       "范士琦",
@@ -227,7 +227,7 @@
     "organization": "北京理工大学",
     "team_id": "T027"
   },
-  "T028": {
+  {
     "coach": "林永钢",
     "members": [
       "刘志丹",
@@ -239,7 +239,7 @@
     "organization": "北京理工大学",
     "team_id": "T028"
   },
-  "T029": {
+  {
     "coach": "徐艳艳",
     "members": [
       "包天立",
@@ -251,7 +251,7 @@
     "team_id": "T029",
     "unofficial": 1
   },
-  "T030": {
+  {
     "coach": "徐艳艳",
     "members": [
       "周恩杰",
@@ -263,7 +263,7 @@
     "organization": "北京林业大学",
     "team_id": "T030"
   },
-  "T031": {
+  {
     "coach": "徐艳艳",
     "members": [
       "李雨萱",
@@ -275,7 +275,7 @@
     "organization": "北京林业大学",
     "team_id": "T031"
   },
-  "T034": {
+  {
     "coach": "徐鹏飞",
     "members": [
       "卢致远",
@@ -287,7 +287,7 @@
     "organization": "北京师范大学",
     "team_id": "T034"
   },
-  "T035": {
+  {
     "coach": "徐鹏飞",
     "members": [
       "彭泊词",
@@ -299,7 +299,7 @@
     "team_id": "T035",
     "unofficial": 1
   },
-  "T036": {
+  {
     "coach": "徐鹏飞",
     "members": [
       "卢炜文",
@@ -311,7 +311,7 @@
     "organization": "北京师范大学",
     "team_id": "T036"
   },
-  "T037": {
+  {
     "coach": "徐鹏飞",
     "members": [
       "吴丽莎",
@@ -323,7 +323,7 @@
     "organization": "北京师范大学",
     "team_id": "T037"
   },
-  "T039": {
+  {
     "coach": "牟永敏",
     "members": [
       "冉青林",
@@ -335,7 +335,7 @@
     "organization": "北京信息科技大学",
     "team_id": "T039"
   },
-  "T040": {
+  {
     "coach": "杨亚",
     "members": [
       "樊星宇",
@@ -347,7 +347,7 @@
     "team_id": "T040",
     "unofficial": 1
   },
-  "T041": {
+  {
     "coach": "杨亚",
     "members": [
       "王天行",
@@ -359,7 +359,7 @@
     "team_id": "T041",
     "unofficial": 1
   },
-  "T042": {
+  {
     "coach": "杨亚",
     "members": [
       "刘涛",
@@ -371,7 +371,7 @@
     "team_id": "T042",
     "unofficial": 1
   },
-  "T043": {
+  {
     "coach": "杨亚",
     "members": [
       "李亦非",
@@ -383,7 +383,7 @@
     "organization": "北京邮电大学",
     "team_id": "T043"
   },
-  "T044": {
+  {
     "coach": "杨亚",
     "members": [
       "刘东岫",
@@ -395,7 +395,7 @@
     "team_id": "T044",
     "unofficial": 1
   },
-  "T045": {
+  {
     "coach": "杨亚",
     "members": [
       "张天泽",
@@ -407,7 +407,7 @@
     "organization": "北京邮电大学",
     "team_id": "T045"
   },
-  "T046": {
+  {
     "coach": "杨亚",
     "members": [
       "娄司宇",
@@ -419,7 +419,7 @@
     "organization": "北京邮电大学",
     "team_id": "T046"
   },
-  "T047": {
+  {
     "coach": "杨亚",
     "members": [
       "侯德政",
@@ -431,7 +431,7 @@
     "team_id": "T047",
     "unofficial": 1
   },
-  "T048": {
+  {
     "coach": "杨亚",
     "members": [
       "刘天睿",
@@ -443,7 +443,7 @@
     "team_id": "T048",
     "unofficial": 1
   },
-  "T049": {
+  {
     "coach": "杨亚",
     "members": [
       "林新元",
@@ -455,7 +455,7 @@
     "team_id": "T049",
     "unofficial": 1
   },
-  "T051": {
+  {
     "coach": "聂盼红",
     "members": [
       "张啸",
@@ -467,7 +467,7 @@
     "team_id": "T051",
     "unofficial": 1
   },
-  "T052": {
+  {
     "coach": "郑金龙",
     "members": [
       "刘昕宇",
@@ -479,7 +479,7 @@
     "organization": "常熟理工学院",
     "team_id": "T052"
   },
-  "T054": {
+  {
     "coach": "张萌洁",
     "members": [
       "凤奕鸣",
@@ -491,7 +491,7 @@
     "organization": "电子科技大学",
     "team_id": "T054"
   },
-  "T055": {
+  {
     "coach": "汪小平",
     "members": [
       "刘雨曦",
@@ -503,7 +503,7 @@
     "organization": "电子科技大学",
     "team_id": "T055"
   },
-  "T056": {
+  {
     "coach": "张萌洁",
     "members": [
       "冯书瀚",
@@ -515,7 +515,7 @@
     "organization": "电子科技大学",
     "team_id": "T056"
   },
-  "T057": {
+  {
     "coach": "汪小平",
     "members": [
       "詹晟",
@@ -527,7 +527,7 @@
     "organization": "电子科技大学",
     "team_id": "T057"
   },
-  "T059": {
+  {
     "coach": "田霖",
     "members": [
       "冯浩",
@@ -539,7 +539,7 @@
     "organization": "成都东软学院",
     "team_id": "T059"
   },
-  "T060": {
+  {
     "coach": "田霖",
     "members": [
       "刘雨",
@@ -551,7 +551,7 @@
     "organization": "成都东软学院",
     "team_id": "T060"
   },
-  "T064": {
+  {
     "coach": "左劼",
     "members": [
       "珠齐明",
@@ -563,7 +563,7 @@
     "organization": "四川大学",
     "team_id": "T064"
   },
-  "T065": {
+  {
     "coach": "左劼",
     "members": [
       "罗庚欣",
@@ -575,7 +575,7 @@
     "organization": "四川大学",
     "team_id": "T065"
   },
-  "T066": {
+  {
     "coach": "李丹",
     "members": [
       "喻若舟",
@@ -587,7 +587,7 @@
     "team_id": "T066",
     "unofficial": 1
   },
-  "T067": {
+  {
     "coach": "周舸",
     "members": [
       "廖启帆",
@@ -599,7 +599,7 @@
     "organization": "四川大学锦城学院",
     "team_id": "T067"
   },
-  "T068": {
+  {
     "coach": "潘勇浩",
     "members": [
       "何雨航",
@@ -611,7 +611,7 @@
     "organization": "四川农业大学",
     "team_id": "T068"
   },
-  "T069": {
+  {
     "coach": "何海涛",
     "members": [
       "张宇昊",
@@ -623,7 +623,7 @@
     "organization": "四川轻化工大学",
     "team_id": "T069"
   },
-  "T071": {
+  {
     "coach": "陆坤",
     "members": [
       "吴励宁",
@@ -635,7 +635,7 @@
     "organization": "大连理工大学",
     "team_id": "T071"
   },
-  "T072": {
+  {
     "coach": "陆坤",
     "members": [
       "刘政",
@@ -647,7 +647,7 @@
     "organization": "大连理工大学",
     "team_id": "T072"
   },
-  "T075": {
+  {
     "coach": "张锋",
     "members": [
       "刘林凯",
@@ -659,7 +659,7 @@
     "team_id": "T075",
     "unofficial": 1
   },
-  "T076": {
+  {
     "coach": "张锋",
     "members": [
       "包嘉溢",
@@ -671,7 +671,7 @@
     "organization": "中国地质大学（武汉）",
     "team_id": "T076"
   },
-  "T080": {
+  {
     "coach": "谷峪",
     "members": [
       "刘丰铭",
@@ -683,7 +683,7 @@
     "team_id": "T080",
     "unofficial": 1
   },
-  "T081": {
+  {
     "coach": "李晓华",
     "members": [
       "杨博",
@@ -695,7 +695,7 @@
     "organization": "东北大学",
     "team_id": "T081"
   },
-  "T082": {
+  {
     "coach": "寇月",
     "members": [
       "宁飞扬",
@@ -707,7 +707,7 @@
     "team_id": "T082",
     "unofficial": 1
   },
-  "T083": {
+  {
     "coach": "陈宇",
     "members": [
       "方震",
@@ -719,7 +719,7 @@
     "team_id": "T083",
     "unofficial": 1
   },
-  "T084": {
+  {
     "coach": "陈宇",
     "members": [
       "孙杰",
@@ -731,7 +731,7 @@
     "organization": "东北林业大学",
     "team_id": "T084"
   },
-  "T085": {
+  {
     "coach": "陈宇",
     "members": [
       "曹传忠",
@@ -743,7 +743,7 @@
     "team_id": "T085",
     "unofficial": 1
   },
-  "T086": {
+  {
     "coach": "陈宇",
     "members": [
       "常中一",
@@ -755,7 +755,7 @@
     "team_id": "T086",
     "unofficial": 1
   },
-  "T087": {
+  {
     "coach": "陈宇",
     "members": [
       "曲云昊",
@@ -767,7 +767,7 @@
     "organization": "东北林业大学",
     "team_id": "T087"
   },
-  "T090": {
+  {
     "coach": "李晓明",
     "members": [
       "于振波",
@@ -779,7 +779,7 @@
     "organization": "东北农业大学",
     "team_id": "T090"
   },
-  "T091": {
+  {
     "coach": "李晓明",
     "members": [
       "孙洪嘉",
@@ -791,7 +791,7 @@
     "organization": "东北农业大学",
     "team_id": "T091"
   },
-  "T094": {
+  {
     "coach": "周治国",
     "members": [
       "唐佳成",
@@ -803,7 +803,7 @@
     "organization": "东北师范大学",
     "team_id": "T094"
   },
-  "T096": {
+  {
     "coach": "黄永锋",
     "members": [
       "李永康",
@@ -815,7 +815,7 @@
     "organization": "东华大学",
     "team_id": "T096"
   },
-  "T097": {
+  {
     "coach": "黄永锋",
     "members": [
       "吴迪",
@@ -827,7 +827,7 @@
     "organization": "东华大学",
     "team_id": "T097"
   },
-  "T098": {
+  {
     "coach": "倪庆剑",
     "members": [
       "周畅",
@@ -839,7 +839,7 @@
     "organization": "东南大学",
     "team_id": "T098"
   },
-  "T099": {
+  {
     "coach": "倪庆剑",
     "members": [
       "冉雨杭",
@@ -851,7 +851,7 @@
     "team_id": "T099",
     "unofficial": 1
   },
-  "T100": {
+  {
     "coach": "倪庆剑",
     "members": [
       "殷开颜",
@@ -863,7 +863,7 @@
     "organization": "东南大学",
     "team_id": "T100"
   },
-  "T101": {
+  {
     "coach": "王和兴",
     "members": [
       "姚鉴航",
@@ -875,7 +875,7 @@
     "team_id": "T101",
     "unofficial": 1
   },
-  "T102": {
+  {
     "coach": "王和兴",
     "members": [
       "冯绪杰",
@@ -887,7 +887,7 @@
     "team_id": "T102",
     "unofficial": 1
   },
-  "T103": {
+  {
     "coach": "王和兴",
     "members": [
       "冯世龙",
@@ -899,7 +899,7 @@
     "team_id": "T103",
     "unofficial": 1
   },
-  "T104": {
+  {
     "coach": "王和兴",
     "members": [
       "张烨槟",
@@ -911,7 +911,7 @@
     "team_id": "T104",
     "unofficial": 1
   },
-  "T105": {
+  {
     "coach": "王和兴",
     "members": [
       "刘思予",
@@ -923,7 +923,7 @@
     "team_id": "T105",
     "unofficial": 1
   },
-  "T106": {
+  {
     "coach": "王和兴",
     "members": [
       "刘泽铭",
@@ -935,7 +935,7 @@
     "team_id": "T106",
     "unofficial": 1
   },
-  "T107": {
+  {
     "coach": "王和兴",
     "members": [
       "刘子涵",
@@ -947,7 +947,7 @@
     "team_id": "T107",
     "unofficial": 1
   },
-  "T108": {
+  {
     "coach": "王和兴",
     "members": [
       "朱家琦",
@@ -959,7 +959,7 @@
     "team_id": "T108",
     "unofficial": 1
   },
-  "T109": {
+  {
     "coach": "王和兴",
     "members": [
       "何嘉俊",
@@ -971,7 +971,7 @@
     "team_id": "T109",
     "unofficial": 1
   },
-  "T110": {
+  {
     "coach": "王和兴",
     "members": [
       "倪非凡",
@@ -983,7 +983,7 @@
     "team_id": "T110",
     "unofficial": 1
   },
-  "T111": {
+  {
     "coach": "王和兴",
     "members": [
       "张旭",
@@ -995,7 +995,7 @@
     "team_id": "T111",
     "unofficial": 1
   },
-  "T112": {
+  {
     "coach": "王和兴",
     "members": [
       "周家鹏",
@@ -1007,7 +1007,7 @@
     "team_id": "T112",
     "unofficial": 1
   },
-  "T113": {
+  {
     "coach": "王和兴",
     "members": [
       "信海腾",
@@ -1019,7 +1019,7 @@
     "team_id": "T113",
     "unofficial": 1
   },
-  "T114": {
+  {
     "coach": "陈义",
     "members": [
       "罗杰鑫",
@@ -1031,7 +1031,7 @@
     "team_id": "T114",
     "unofficial": 1
   },
-  "T115": {
+  {
     "coach": "陈义",
     "members": [
       "卢芃",
@@ -1043,7 +1043,7 @@
     "organization": "福建工程学院",
     "team_id": "T115"
   },
-  "T118": {
+  {
     "coach": "吴闻",
     "members": [
       "王辉",
@@ -1055,7 +1055,7 @@
     "organization": "福建师范大学",
     "team_id": "T118"
   },
-  "T121": {
+  {
     "coach": "傅仰耿",
     "members": [
       "郑学贵",
@@ -1067,7 +1067,7 @@
     "organization": "福州大学",
     "team_id": "T121"
   },
-  "T122": {
+  {
     "coach": "傅仰耿",
     "members": [
       "关文涛",
@@ -1079,7 +1079,7 @@
     "organization": "福州大学",
     "team_id": "T122"
   },
-  "T123": {
+  {
     "coach": "傅仰耿",
     "members": [
       "张一鸿",
@@ -1091,7 +1091,7 @@
     "team_id": "T123",
     "unofficial": 1
   },
-  "T125": {
+  {
     "coach": "孙未未",
     "members": [
       "傅尔正",
@@ -1103,7 +1103,7 @@
     "organization": "复旦大学",
     "team_id": "T125"
   },
-  "T126": {
+  {
     "coach": "孙未未",
     "members": [
       "吴可非",
@@ -1115,7 +1115,7 @@
     "organization": "复旦大学",
     "team_id": "T126"
   },
-  "T127": {
+  {
     "coach": "孙未未",
     "members": [
       "张世哲",
@@ -1127,7 +1127,7 @@
     "organization": "复旦大学",
     "team_id": "T127"
   },
-  "T128": {
+  {
     "coach": "潘文安",
     "members": [
       "刘澈",
@@ -1139,7 +1139,7 @@
     "organization": "香港中文大学（深圳）",
     "team_id": "T128"
   },
-  "T130": {
+  {
     "coach": "高文宇",
     "members": [
       "李丽嘉",
@@ -1151,7 +1151,7 @@
     "organization": "广东财经大学",
     "team_id": "T130"
   },
-  "T132": {
+  {
     "coach": "孙宣东",
     "members": [
       "彭啸翔",
@@ -1163,7 +1163,7 @@
     "organization": "广东工业大学",
     "team_id": "T132"
   },
-  "T133": {
+  {
     "coach": "孙宣东",
     "members": [
       "张强",
@@ -1175,7 +1175,7 @@
     "team_id": "T133",
     "unofficial": 1
   },
-  "T134": {
+  {
     "coach": "孙宣东",
     "members": [
       "刘皓瑜",
@@ -1187,7 +1187,7 @@
     "organization": "广东工业大学",
     "team_id": "T134"
   },
-  "T136": {
+  {
     "coach": "王金艳",
     "members": [
       "吴家毅",
@@ -1199,7 +1199,7 @@
     "organization": "广西师范大学",
     "team_id": "T136"
   },
-  "T137": {
+  {
     "coach": "丘凯伦",
     "members": [
       "林国旺",
@@ -1211,7 +1211,7 @@
     "organization": "广州大学",
     "team_id": "T137"
   },
-  "T138": {
+  {
     "coach": "高鹰",
     "members": [
       "刘可佳",
@@ -1223,7 +1223,7 @@
     "organization": "广州大学",
     "team_id": "T138"
   },
-  "T139": {
+  {
     "coach": "王子民",
     "members": [
       "宁申恺",
@@ -1235,7 +1235,7 @@
     "organization": "桂林电子科技大学",
     "team_id": "T139"
   },
-  "T140": {
+  {
     "coach": "王子民",
     "members": [
       "吴希贤",
@@ -1247,7 +1247,7 @@
     "team_id": "T140",
     "unofficial": 1
   },
-  "T141": {
+  {
     "coach": "王子民",
     "members": [
       "党有威",
@@ -1259,7 +1259,7 @@
     "organization": "桂林电子科技大学",
     "team_id": "T141"
   },
-  "T143": {
+  {
     "coach": "孙晓明",
     "members": [
       "刘子扬",
@@ -1271,7 +1271,7 @@
     "organization": "中国科学院大学",
     "team_id": "T143"
   },
-  "T144": {
+  {
     "coach": "国林",
     "members": [
       "官毅",
@@ -1283,7 +1283,7 @@
     "organization": "哈尔滨工程大学",
     "team_id": "T144"
   },
-  "T145": {
+  {
     "coach": "国林",
     "members": [
       "刘成之",
@@ -1295,7 +1295,7 @@
     "organization": "哈尔滨工程大学",
     "team_id": "T145"
   },
-  "T147": {
+  {
     "coach": "孙大烈",
     "members": [
       "吕岸桐",
@@ -1307,7 +1307,7 @@
     "organization": "哈尔滨工业大学",
     "team_id": "T147"
   },
-  "T148": {
+  {
     "coach": "孙大烈",
     "members": [
       "孔佑康",
@@ -1319,7 +1319,7 @@
     "team_id": "T148",
     "unofficial": 1
   },
-  "T149": {
+  {
     "coach": "孙大烈",
     "members": [
       "曲喆平",
@@ -1331,7 +1331,7 @@
     "organization": "哈尔滨工业大学",
     "team_id": "T149"
   },
-  "T150": {
+  {
     "coach": "孙大烈",
     "members": [
       "唐贝利",
@@ -1343,7 +1343,7 @@
     "organization": "哈尔滨工业大学",
     "team_id": "T150"
   },
-  "T151": {
+  {
     "coach": "唐琳琳",
     "members": [
       "冯奕森",
@@ -1355,7 +1355,7 @@
     "organization": "哈尔滨工业大学（深圳）",
     "team_id": "T151"
   },
-  "T152": {
+  {
     "coach": "唐琳琳",
     "members": [
       "任秦江",
@@ -1367,7 +1367,7 @@
     "organization": "哈尔滨工业大学（深圳）",
     "team_id": "T152"
   },
-  "T153": {
+  {
     "coach": "唐琳琳",
     "members": [
       "徐兆彬",
@@ -1379,7 +1379,7 @@
     "organization": "哈尔滨工业大学（深圳）",
     "team_id": "T153"
   },
-  "T154": {
+  {
     "coach": "韩希先",
     "members": [
       "吴家铭",
@@ -1391,7 +1391,7 @@
     "organization": "哈尔滨工业大学（威海）",
     "team_id": "T154"
   },
-  "T155": {
+  {
     "coach": "董开坤",
     "members": [
       "刘新一",
@@ -1403,7 +1403,7 @@
     "organization": "哈尔滨工业大学（威海）",
     "team_id": "T155"
   },
-  "T156": {
+  {
     "coach": "张岩",
     "members": [
       "於泽辰",
@@ -1415,7 +1415,7 @@
     "organization": "哈尔滨工业大学（威海）",
     "team_id": "T156"
   },
-  "T157": {
+  {
     "coach": "董开坤",
     "members": [
       "刘高吉",
@@ -1427,7 +1427,7 @@
     "organization": "哈尔滨工业大学（威海）",
     "team_id": "T157"
   },
-  "T159": {
+  {
     "coach": "唐远新",
     "members": [
       "周轩宇",
@@ -1439,7 +1439,7 @@
     "organization": "哈尔滨理工大学",
     "team_id": "T159"
   },
-  "T160": {
+  {
     "coach": "金恩海",
     "members": [
       "吴国庆",
@@ -1451,7 +1451,7 @@
     "organization": "哈尔滨理工大学",
     "team_id": "T160"
   },
-  "T161": {
+  {
     "coach": "叶飞",
     "members": [
       "孙麒皓",
@@ -1463,7 +1463,7 @@
     "team_id": "T161",
     "unofficial": 1
   },
-  "T162": {
+  {
     "coach": "王克朝",
     "members": [
       "杨轶男",
@@ -1475,7 +1475,7 @@
     "organization": "哈尔滨学院",
     "team_id": "T162"
   },
-  "T163": {
+  {
     "coach": "王克朝",
     "members": [
       "张博华",
@@ -1487,7 +1487,7 @@
     "team_id": "T163",
     "unofficial": 1
   },
-  "T165": {
+  {
     "coach": "刘春英",
     "members": [
       "尹协童",
@@ -1499,7 +1499,7 @@
     "organization": "杭州电子科技大学",
     "team_id": "T165"
   },
-  "T166": {
+  {
     "coach": "刘春英",
     "members": [
       "刘智杰",
@@ -1511,7 +1511,7 @@
     "organization": "杭州电子科技大学",
     "team_id": "T166"
   },
-  "T167": {
+  {
     "coach": "刘春英",
     "members": [
       "侯津涛",
@@ -1523,7 +1523,7 @@
     "organization": "杭州电子科技大学",
     "team_id": "T167"
   },
-  "T170": {
+  {
     "coach": "单振宇",
     "members": [
       "夏哲臻",
@@ -1535,7 +1535,7 @@
     "organization": "杭州师范大学",
     "team_id": "T170"
   },
-  "T171": {
+  {
     "coach": "单振宇",
     "members": [
       "付俊",
@@ -1547,7 +1547,7 @@
     "organization": "杭州师范大学",
     "team_id": "T171"
   },
-  "T173": {
+  {
     "coach": "胡春玲",
     "members": [
       "徐永强",
@@ -1559,7 +1559,7 @@
     "organization": "合肥学院",
     "team_id": "T173"
   },
-  "T174": {
+  {
     "coach": "胡春玲",
     "members": [
       "蔡行健",
@@ -1571,7 +1571,7 @@
     "organization": "合肥学院",
     "team_id": "T174"
   },
-  "T175": {
+  {
     "coach": "曹力",
     "members": [
       "何天承",
@@ -1583,7 +1583,7 @@
     "team_id": "T175",
     "unofficial": 1
   },
-  "T176": {
+  {
     "coach": "曹力",
     "members": [
       "刘善稷",
@@ -1595,7 +1595,7 @@
     "team_id": "T176",
     "unofficial": 1
   },
-  "T177": {
+  {
     "coach": "吕俊伟",
     "members": [
       "张泽恒",
@@ -1607,7 +1607,7 @@
     "organization": "合肥工业大学宣城校区",
     "team_id": "T177"
   },
-  "T179": {
+  {
     "coach": "石强",
     "members": [
       "彭辰屹",
@@ -1619,7 +1619,7 @@
     "organization": "河北大学",
     "team_id": "T179"
   },
-  "T180": {
+  {
     "coach": "石陆魁",
     "members": [
       "刘博韬",
@@ -1631,7 +1631,7 @@
     "organization": "河北工业大学",
     "team_id": "T180"
   },
-  "T182": {
+  {
     "coach": "程银波",
     "members": [
       "孙啟航",
@@ -1643,7 +1643,7 @@
     "organization": "河北农业大学",
     "team_id": "T182"
   },
-  "T185": {
+  {
     "coach": "张培欣",
     "members": [
       "吕占捷",
@@ -1655,7 +1655,7 @@
     "organization": "河北师范大学",
     "team_id": "T185"
   },
-  "T186": {
+  {
     "coach": "韩东梅",
     "members": [
       "李昊天",
@@ -1667,7 +1667,7 @@
     "team_id": "T186",
     "unofficial": 1
   },
-  "T187": {
+  {
     "coach": "陈慧萍",
     "members": [
       "卢昶舟",
@@ -1679,7 +1679,7 @@
     "organization": "河海大学常州校区",
     "team_id": "T187"
   },
-  "T188": {
+  {
     "coach": "朱云",
     "members": [
       "何瑾雨",
@@ -1691,7 +1691,7 @@
     "organization": "河海大学",
     "team_id": "T188"
   },
-  "T189": {
+  {
     "coach": "张雪洁",
     "members": [
       "张宇杰",
@@ -1703,7 +1703,7 @@
     "organization": "河海大学",
     "team_id": "T189"
   },
-  "T190": {
+  {
     "coach": "张小红",
     "members": [
       "吕林昊",
@@ -1715,7 +1715,7 @@
     "organization": "河南财政金融学院",
     "team_id": "T190"
   },
-  "T192": {
+  {
     "coach": "王建林",
     "members": [
       "李阳",
@@ -1727,7 +1727,7 @@
     "organization": "河南大学",
     "team_id": "T192"
   },
-  "T193": {
+  {
     "coach": "刘宏月",
     "members": [
       "李维航",
@@ -1739,7 +1739,7 @@
     "organization": "河南工业大学",
     "team_id": "T193"
   },
-  "T196": {
+  {
     "coach": "陈艳丽",
     "members": [
       "何厚蒙",
@@ -1751,7 +1751,7 @@
     "organization": "河南理工大学",
     "team_id": "T196"
   },
-  "T197": {
+  {
     "coach": "陈艳丽",
     "members": [
       "潘平野",
@@ -1763,7 +1763,7 @@
     "team_id": "T197",
     "unofficial": 1
   },
-  "T199": {
+  {
     "coach": "尚俊平",
     "members": [
       "刘志煌",
@@ -1775,7 +1775,7 @@
     "organization": "河南农业大学",
     "team_id": "T199"
   },
-  "T200": {
+  {
     "coach": "徐辉",
     "members": [
       "彭泶淞",
@@ -1787,7 +1787,7 @@
     "team_id": "T200",
     "unofficial": 1
   },
-  "T201": {
+  {
     "coach": "徐辉",
     "members": [
       "宋福海",
@@ -1799,7 +1799,7 @@
     "organization": "黑龙江大学",
     "team_id": "T201"
   },
-  "T202": {
+  {
     "coach": "徐承志",
     "members": [
       "柳俊",
@@ -1811,7 +1811,7 @@
     "organization": "湖北工业大学",
     "team_id": "T202"
   },
-  "T203": {
+  {
     "coach": "王海军",
     "members": [
       "夏心哲",
@@ -1823,7 +1823,7 @@
     "organization": "湖北第二师范学院",
     "team_id": "T203"
   },
-  "T204": {
+  {
     "coach": "王海军",
     "members": [
       "余剑文",
@@ -1835,7 +1835,7 @@
     "team_id": "T204",
     "unofficial": 1
   },
-  "T205": {
+  {
     "coach": "周娟",
     "members": [
       "刘作霖",
@@ -1847,7 +1847,7 @@
     "organization": "华东交通大学",
     "team_id": "T205"
   },
-  "T206": {
+  {
     "coach": "肖春芸",
     "members": [
       "朱桐",
@@ -1859,7 +1859,7 @@
     "organization": "华东师范大学",
     "team_id": "T206"
   },
-  "T207": {
+  {
     "coach": "冼楚华",
     "members": [
       "欧幸绮",
@@ -1871,7 +1871,7 @@
     "organization": "华南理工大学",
     "team_id": "T207"
   },
-  "T208": {
+  {
     "coach": "冼楚华",
     "members": [
       "张芸辉",
@@ -1883,7 +1883,7 @@
     "organization": "华南理工大学",
     "team_id": "T208"
   },
-  "T209": {
+  {
     "coach": "陈俊颖",
     "members": [
       "章子寅",
@@ -1895,7 +1895,7 @@
     "organization": "华南理工大学",
     "team_id": "T209"
   },
-  "T211": {
+  {
     "coach": "曹霑懋",
     "members": [
       "江浚哲",
@@ -1907,7 +1907,7 @@
     "organization": "华南师范大学",
     "team_id": "T211"
   },
-  "T212": {
+  {
     "coach": "杨绍禹",
     "members": [
       "原野",
@@ -1919,7 +1919,7 @@
     "organization": "华北水利水电大学",
     "team_id": "T212"
   },
-  "T213": {
+  {
     "coach": "何琨",
     "members": [
       "姜雨奇",
@@ -1931,7 +1931,7 @@
     "organization": "华中科技大学",
     "team_id": "T213"
   },
-  "T214": {
+  {
     "coach": "章英",
     "members": [
       "吴俊彤",
@@ -1943,7 +1943,7 @@
     "organization": "华中农业大学",
     "team_id": "T214"
   },
-  "T215": {
+  {
     "coach": "章英",
     "members": [
       "胡海川",
@@ -1955,7 +1955,7 @@
     "organization": "华中农业大学",
     "team_id": "T215"
   },
-  "T218": {
+  {
     "coach": "叶俊民",
     "members": [
       "罗超洋",
@@ -1967,7 +1967,7 @@
     "organization": "华中师范大学",
     "team_id": "T218"
   },
-  "T221": {
+  {
     "coach": "李强",
     "members": [
       "周栩航",
@@ -1979,7 +1979,7 @@
     "organization": "吉林大学",
     "team_id": "T221"
   },
-  "T222": {
+  {
     "coach": "蒋彦",
     "members": [
       "刘蔚",
@@ -1991,7 +1991,7 @@
     "organization": "济南大学",
     "team_id": "T222"
   },
-  "T224": {
+  {
     "coach": "陈双平",
     "members": [
       "何富超",
@@ -2003,7 +2003,7 @@
     "organization": "暨南大学",
     "team_id": "T224"
   },
-  "T226": {
+  {
     "coach": "陈广明",
     "members": [
       "曾伟民",
@@ -2015,7 +2015,7 @@
     "team_id": "T226",
     "unofficial": 1
   },
-  "T227": {
+  {
     "coach": "景国良",
     "members": [
       "夏易辰",
@@ -2027,7 +2027,7 @@
     "organization": "江苏科技大学",
     "team_id": "T227"
   },
-  "T231": {
+  {
     "coach": "王颖",
     "members": [
       "李小龙",
@@ -2039,7 +2039,7 @@
     "team_id": "T231",
     "unofficial": 1
   },
-  "T232": {
+  {
     "coach": "骆斯文",
     "members": [
       "梁云钦",
@@ -2051,7 +2051,7 @@
     "organization": "江西财经大学",
     "team_id": "T232"
   },
-  "T237": {
+  {
     "coach": "蒋长根",
     "members": [
       "董萍初",
@@ -2063,7 +2063,7 @@
     "organization": "江西师范大学",
     "team_id": "T237"
   },
-  "T238": {
+  {
     "coach": "吴水秀",
     "members": [
       "余业鹏",
@@ -2075,7 +2075,7 @@
     "team_id": "T238",
     "unofficial": 1
   },
-  "T241": {
+  {
     "coach": "谭坤",
     "members": [
       "李承翰",
@@ -2087,7 +2087,7 @@
     "team_id": "T241",
     "unofficial": 1
   },
-  "T242": {
+  {
     "coach": "何泽林",
     "members": [
       "李睿轩",
@@ -2099,7 +2099,7 @@
     "team_id": "T242",
     "unofficial": 1
   },
-  "T243": {
+  {
     "coach": "何泽林",
     "members": [
       "刘孟阳",
@@ -2111,7 +2111,7 @@
     "team_id": "T243",
     "unofficial": 1
   },
-  "T244": {
+  {
     "coach": "曾炜杰",
     "members": [
       "卓郅杰",
@@ -2123,7 +2123,7 @@
     "team_id": "T244",
     "unofficial": 1
   },
-  "T245": {
+  {
     "coach": "何泽林",
     "members": [
       "周子衡",
@@ -2135,7 +2135,7 @@
     "team_id": "T245",
     "unofficial": 1
   },
-  "T246": {
+  {
     "coach": "何泽林",
     "members": [
       "曾元灏",
@@ -2147,7 +2147,7 @@
     "team_id": "T246",
     "unofficial": 1
   },
-  "T247": {
+  {
     "coach": "何泽林",
     "members": [
       "杨子轩",
@@ -2159,7 +2159,7 @@
     "team_id": "T247",
     "unofficial": 1
   },
-  "T249": {
+  {
     "coach": "杨文嘉",
     "members": [
       "刘浩钰",
@@ -2171,7 +2171,7 @@
     "organization": "中国矿业大学",
     "team_id": "T249"
   },
-  "T252": {
+  {
     "coach": "杨骏",
     "members": [
       "向龙",
@@ -2183,7 +2183,7 @@
     "organization": "乐山师范学院",
     "team_id": "T252"
   },
-  "T254": {
+  {
     "coach": "余兆钗",
     "members": [
       "林国荣",
@@ -2195,7 +2195,7 @@
     "organization": "闽江学院",
     "team_id": "T254"
   },
-  "T257": {
+  {
     "coach": "童先群",
     "members": [
       "刘晨薇",
@@ -2207,7 +2207,7 @@
     "organization": "闽南师范大学",
     "team_id": "T257"
   },
-  "T259": {
+  {
     "coach": "于海雯",
     "members": [
       "吴菲祺",
@@ -2219,7 +2219,7 @@
     "organization": "南昌大学",
     "team_id": "T259"
   },
-  "T260": {
+  {
     "coach": "于海雯",
     "members": [
       "张看起",
@@ -2231,7 +2231,7 @@
     "team_id": "T260",
     "unofficial": 1
   },
-  "T261": {
+  {
     "coach": "于海雯",
     "members": [
       "曾庆杰",
@@ -2243,7 +2243,7 @@
     "team_id": "T261",
     "unofficial": 1
   },
-  "T263": {
+  {
     "coach": "陈英",
     "members": [
       "吴博雄",
@@ -2255,7 +2255,7 @@
     "organization": "南昌航空大学",
     "team_id": "T263"
   },
-  "T264": {
+  {
     "coach": "陈英",
     "members": [
       "任子鸣",
@@ -2267,7 +2267,7 @@
     "organization": "南昌航空大学",
     "team_id": "T264"
   },
-  "T265": {
+  {
     "coach": "黄震宇",
     "members": [
       "孙祥赟",
@@ -2279,7 +2279,7 @@
     "team_id": "T265",
     "unofficial": 1
   },
-  "T266": {
+  {
     "coach": "赵欢",
     "members": [
       "刘军",
@@ -2291,7 +2291,7 @@
     "team_id": "T266",
     "unofficial": 1
   },
-  "T267": {
+  {
     "coach": "黄震宇",
     "members": [
       "刘谦",
@@ -2303,7 +2303,7 @@
     "team_id": "T267",
     "unofficial": 1
   },
-  "T268": {
+  {
     "coach": "胡荣群",
     "members": [
       "李俊",
@@ -2315,7 +2315,7 @@
     "organization": "南昌理工学院",
     "team_id": "T268"
   },
-  "T270": {
+  {
     "coach": "马骏",
     "members": [
       "何宇杭",
@@ -2327,7 +2327,7 @@
     "team_id": "T270",
     "unofficial": 1
   },
-  "T271": {
+  {
     "coach": "马骏",
     "members": [
       "姚嘉和",
@@ -2339,7 +2339,7 @@
     "organization": "南京大学",
     "team_id": "T271"
   },
-  "T272": {
+  {
     "coach": "马骏",
     "members": [
       "刘响",
@@ -2351,7 +2351,7 @@
     "team_id": "T272",
     "unofficial": 1
   },
-  "T273": {
+  {
     "coach": "马骏",
     "members": [
       "朱景舟",
@@ -2363,7 +2363,7 @@
     "team_id": "T273",
     "unofficial": 1
   },
-  "T274": {
+  {
     "coach": "马骏",
     "members": [
       "丁天行",
@@ -2375,7 +2375,7 @@
     "team_id": "T274",
     "unofficial": 1
   },
-  "T275": {
+  {
     "coach": "马骏",
     "members": [
       "欧丰宁",
@@ -2387,7 +2387,7 @@
     "organization": "南京大学",
     "team_id": "T275"
   },
-  "T276": {
+  {
     "coach": "马骏",
     "members": [
       "回溯",
@@ -2399,7 +2399,7 @@
     "organization": "南京大学",
     "team_id": "T276"
   },
-  "T277": {
+  {
     "coach": "马骏",
     "members": [
       "李博颖",
@@ -2411,7 +2411,7 @@
     "team_id": "T277",
     "unofficial": 1
   },
-  "T278": {
+  {
     "coach": "马骏",
     "members": [
       "张乃仁",
@@ -2423,7 +2423,7 @@
     "team_id": "T278",
     "unofficial": 1
   },
-  "T279": {
+  {
     "coach": "马骏",
     "members": [
       "宋子辰",
@@ -2435,7 +2435,7 @@
     "team_id": "T279",
     "unofficial": 1
   },
-  "T280": {
+  {
     "coach": "马骏",
     "members": [
       "倪锦涵",
@@ -2447,7 +2447,7 @@
     "team_id": "T280",
     "unofficial": 1
   },
-  "T281": {
+  {
     "coach": "马骏",
     "members": [
       "刘子扬",
@@ -2459,7 +2459,7 @@
     "team_id": "T281",
     "unofficial": 1
   },
-  "T282": {
+  {
     "coach": "马骏",
     "members": [
       "水兵",
@@ -2471,7 +2471,7 @@
     "team_id": "T282",
     "unofficial": 1
   },
-  "T283": {
+  {
     "coach": "马骏",
     "members": [
       "史丰萁",
@@ -2483,7 +2483,7 @@
     "organization": "南京大学",
     "team_id": "T283"
   },
-  "T286": {
+  {
     "coach": "唐博",
     "members": [
       "周珈伊",
@@ -2495,7 +2495,7 @@
     "team_id": "T286",
     "unofficial": 1
   },
-  "T287": {
+  {
     "coach": "唐博",
     "members": [
       "尹沛骐",
@@ -2507,7 +2507,7 @@
     "organization": "南方科技大学",
     "team_id": "T287"
   },
-  "T288": {
+  {
     "coach": "唐博",
     "members": [
       "叶顶强",
@@ -2519,7 +2519,7 @@
     "organization": "南方科技大学",
     "team_id": "T288"
   },
-  "T289": {
+  {
     "coach": "唐博",
     "members": [
       "彭书博",
@@ -2531,7 +2531,7 @@
     "organization": "南方科技大学",
     "team_id": "T289"
   },
-  "T291": {
+  {
     "coach": "余立功",
     "members": [
       "林煊",
@@ -2543,7 +2543,7 @@
     "organization": "南京理工大学",
     "team_id": "T291"
   },
-  "T292": {
+  {
     "coach": "余立功",
     "members": [
       "代领",
@@ -2555,7 +2555,7 @@
     "organization": "南京理工大学",
     "team_id": "T292"
   },
-  "T294": {
+  {
     "coach": "周恺",
     "members": [
       "张子豪",
@@ -2567,7 +2567,7 @@
     "organization": "南京晓庄学院",
     "team_id": "T294"
   },
-  "T297": {
+  {
     "coach": "潘锦基",
     "members": [
       "李文韬",
@@ -2579,7 +2579,7 @@
     "organization": "南京信息工程大学",
     "team_id": "T297"
   },
-  "T300": {
+  {
     "coach": "靳冰",
     "members": [
       "吴贤超",
@@ -2591,7 +2591,7 @@
     "organization": "南阳理工学院",
     "team_id": "T300"
   },
-  "T306": {
+  {
     "coach": "陈志",
     "members": [
       "何乐晗",
@@ -2603,7 +2603,7 @@
     "organization": "南京邮电大学",
     "team_id": "T306"
   },
-  "T307": {
+  {
     "coach": "陈志",
     "members": [
       "翟浩瑞",
@@ -2615,7 +2615,7 @@
     "organization": "南京邮电大学",
     "team_id": "T307"
   },
-  "T308": {
+  {
     "coach": "陈志",
     "members": [
       "周晖",
@@ -2627,7 +2627,7 @@
     "team_id": "T308",
     "unofficial": 1
   },
-  "T310": {
+  {
     "coach": "孟繁军",
     "members": [
       "乌日力格",
@@ -2639,7 +2639,7 @@
     "organization": "内蒙古师范大学",
     "team_id": "T310"
   },
-  "T312": {
+  {
     "coach": "陈叶芳",
     "members": [
       "孔凌哲",
@@ -2651,7 +2651,7 @@
     "organization": "宁波大学",
     "team_id": "T312"
   },
-  "T314": {
+  {
     "coach": "郭新友",
     "members": [
       "余建赛",
@@ -2663,7 +2663,7 @@
     "organization": "浙大宁波理工学院",
     "team_id": "T314"
   },
-  "T316": {
+  {
     "coach": "张志梅",
     "members": [
       "于洪森",
@@ -2675,7 +2675,7 @@
     "organization": "青岛大学",
     "team_id": "T316"
   },
-  "T319": {
+  {
     "coach": "徐义春",
     "members": [
       "应承刚",
@@ -2687,7 +2687,7 @@
     "organization": "三峡大学",
     "team_id": "T319"
   },
-  "T320": {
+  {
     "coach": "林文水",
     "members": [
       "刘久一",
@@ -2699,7 +2699,7 @@
     "organization": "厦门大学",
     "team_id": "T320"
   },
-  "T321": {
+  {
     "coach": "林文水",
     "members": [
       "赖彦丞",
@@ -2711,7 +2711,7 @@
     "team_id": "T321",
     "unofficial": 1
   },
-  "T324": {
+  {
     "coach": "汪云海",
     "members": [
       "于涛",
@@ -2723,7 +2723,7 @@
     "organization": "山东大学",
     "team_id": "T324"
   },
-  "T325": {
+  {
     "coach": "汪云海",
     "members": [
       "叶苏伟",
@@ -2735,7 +2735,7 @@
     "organization": "山东大学",
     "team_id": "T325"
   },
-  "T326": {
+  {
     "coach": "鹿旭东",
     "members": [
       "侯冠立",
@@ -2747,7 +2747,7 @@
     "organization": "山东大学",
     "team_id": "T326"
   },
-  "T327": {
+  {
     "coach": "李恒武",
     "members": [
       "刘晓康",
@@ -2759,7 +2759,7 @@
     "organization": "山东财经大学",
     "team_id": "T327"
   },
-  "T330": {
+  {
     "coach": "曲志坚",
     "members": [
       "周煜浩",
@@ -2771,7 +2771,7 @@
     "organization": "山东理工大学",
     "team_id": "T330"
   },
-  "T331": {
+  {
     "coach": "鞠传香",
     "members": [
       "方恺鹏",
@@ -2783,7 +2783,7 @@
     "organization": "山东理工大学",
     "team_id": "T331"
   },
-  "T332": {
+  {
     "coach": "张先伟",
     "members": [
       "刘家宁",
@@ -2795,7 +2795,7 @@
     "organization": "山东理工大学",
     "team_id": "T332"
   },
-  "T334": {
+  {
     "coach": "费玉奎",
     "members": [
       "张洪基",
@@ -2807,7 +2807,7 @@
     "organization": "山东农业大学",
     "team_id": "T334"
   },
-  "T336": {
+  {
     "coach": "吴振寰",
     "members": [
       "何方呈",
@@ -2819,7 +2819,7 @@
     "organization": "山东科技大学",
     "team_id": "T336"
   },
-  "T337": {
+  {
     "coach": "吴振寰",
     "members": [
       "吴岳松",
@@ -2831,7 +2831,7 @@
     "organization": "山东科技大学",
     "team_id": "T337"
   },
-  "T338": {
+  {
     "coach": "苏琨",
     "members": [
       "司维",
@@ -2843,7 +2843,7 @@
     "team_id": "T338",
     "unofficial": 1
   },
-  "T339": {
+  {
     "coach": "袁灏",
     "members": [
       "付同有",
@@ -2855,7 +2855,7 @@
     "team_id": "T339",
     "unofficial": 1
   },
-  "T340": {
+  {
     "coach": "袁灏",
     "members": [
       "于帅聪",
@@ -2867,7 +2867,7 @@
     "team_id": "T340",
     "unofficial": 1
   },
-  "T341": {
+  {
     "coach": "袁灏",
     "members": [
       "刘自轩",
@@ -2879,7 +2879,7 @@
     "organization": "山东大学（威海）",
     "team_id": "T341"
   },
-  "T342": {
+  {
     "coach": "徐东亮",
     "members": [
       "刘丰睿",
@@ -2891,7 +2891,7 @@
     "team_id": "T342",
     "unofficial": 1
   },
-  "T343": {
+  {
     "coach": "金长龙",
     "members": [
       "施钧瀚",
@@ -2903,7 +2903,7 @@
     "team_id": "T343",
     "unofficial": 1
   },
-  "T344": {
+  {
     "coach": "徐东亮",
     "members": [
       "张皓",
@@ -2915,7 +2915,7 @@
     "team_id": "T344",
     "unofficial": 1
   },
-  "T345": {
+  {
     "coach": "金长龙",
     "members": [
       "孙天琦",
@@ -2927,7 +2927,7 @@
     "team_id": "T345",
     "unofficial": 1
   },
-  "T346": {
+  {
     "coach": "金长龙",
     "members": [
       "宁涛",
@@ -2939,7 +2939,7 @@
     "team_id": "T346",
     "unofficial": 1
   },
-  "T348": {
+  {
     "coach": "沈俊",
     "members": [
       "林世铨",
@@ -2951,7 +2951,7 @@
     "organization": "上海大学",
     "team_id": "T348"
   },
-  "T349": {
+  {
     "coach": "沈云付",
     "members": [
       "周天澜",
@@ -2963,7 +2963,7 @@
     "organization": "上海大学",
     "team_id": "T349"
   },
-  "T351": {
+  {
     "coach": "俞勇",
     "members": [
       "唐嘉铭",
@@ -2975,7 +2975,7 @@
     "organization": "上海交通大学",
     "team_id": "T351"
   },
-  "T352": {
+  {
     "coach": "俞勇",
     "members": [
       "潘开森",
@@ -2987,7 +2987,7 @@
     "organization": "上海交通大学",
     "team_id": "T352"
   },
-  "T353": {
+  {
     "coach": "俞勇",
     "members": [
       "季利恒",
@@ -2999,7 +2999,7 @@
     "organization": "上海交通大学",
     "team_id": "T353"
   },
-  "T356": {
+  {
     "coach": "张小健",
     "members": [
       "杨颂贝",
@@ -3011,7 +3011,7 @@
     "organization": "深圳大学",
     "team_id": "T356"
   },
-  "T357": {
+  {
     "coach": "张小健",
     "members": [
       "宋昌霖",
@@ -3023,7 +3023,7 @@
     "organization": "深圳大学",
     "team_id": "T357"
   },
-  "T359": {
+  {
     "coach": "张学辉",
     "members": [
       "李博",
@@ -3035,7 +3035,7 @@
     "organization": "中国石油大学（华东）",
     "team_id": "T359"
   },
-  "T360": {
+  {
     "coach": "张学辉",
     "members": [
       "张森",
@@ -3047,7 +3047,7 @@
     "organization": "中国石油大学（华东）",
     "team_id": "T360"
   },
-  "T365": {
+  {
     "coach": "范江波",
     "members": [
       "夏方略",
@@ -3059,7 +3059,7 @@
     "organization": "中国石油大学（北京）",
     "team_id": "T365"
   },
-  "T366": {
+  {
     "coach": "范江波",
     "members": [
       "许思睿",
@@ -3071,7 +3071,7 @@
     "team_id": "T366",
     "unofficial": 1
   },
-  "T368": {
+  {
     "coach": "刘强",
     "members": [
       "李星遥",
@@ -3083,7 +3083,7 @@
     "team_id": "T368",
     "unofficial": 1
   },
-  "T371": {
+  {
     "coach": "朱晓旭",
     "members": [
       "李天镜",
@@ -3095,7 +3095,7 @@
     "organization": "苏州大学",
     "team_id": "T371"
   },
-  "T372": {
+  {
     "coach": "赵雷",
     "members": [
       "徐嘉诚",
@@ -3107,7 +3107,7 @@
     "organization": "苏州大学",
     "team_id": "T372"
   },
-  "T373": {
+  {
     "coach": "林福平",
     "members": [
       "何奇璋",
@@ -3119,7 +3119,7 @@
     "organization": "太原理工大学",
     "team_id": "T373"
   },
-  "T376": {
+  {
     "coach": "喻梅",
     "members": [
       "李雨寒",
@@ -3131,7 +3131,7 @@
     "organization": "天津大学",
     "team_id": "T376"
   },
-  "T377": {
+  {
     "coach": "喻梅",
     "members": [
       "施浩森",
@@ -3143,7 +3143,7 @@
     "organization": "天津大学",
     "team_id": "T377"
   },
-  "T378": {
+  {
     "coach": "喻梅",
     "members": [
       "李皓民",
@@ -3155,7 +3155,7 @@
     "organization": "天津大学",
     "team_id": "T378"
   },
-  "T381": {
+  {
     "coach": "冉娟",
     "members": [
       "张学富",
@@ -3167,7 +3167,7 @@
     "organization": "天津大学仁爱学院",
     "team_id": "T381"
   },
-  "T382": {
+  {
     "coach": "张磊",
     "members": [
       "王志涛",
@@ -3179,7 +3179,7 @@
     "team_id": "T382",
     "unofficial": 1
   },
-  "T385": {
+  {
     "coach": "叶晨",
     "members": [
       "姬文灏",
@@ -3191,7 +3191,7 @@
     "organization": "同济大学",
     "team_id": "T385"
   },
-  "T386": {
+  {
     "coach": "叶晨",
     "members": [
       "姜梓恒",
@@ -3203,7 +3203,7 @@
     "organization": "同济大学",
     "team_id": "T386"
   },
-  "T388": {
+  {
     "coach": "柴本成",
     "members": [
       "郭义杰",
@@ -3215,7 +3215,7 @@
     "organization": "浙江万里学院",
     "team_id": "T388"
   },
-  "T389": {
+  {
     "coach": "胡明晓",
     "members": [
       "杨林韬",
@@ -3227,7 +3227,7 @@
     "organization": "温州大学",
     "team_id": "T389"
   },
-  "T390": {
+  {
     "coach": "董文永",
     "members": [
       "张翔宇",
@@ -3239,7 +3239,7 @@
     "organization": "武汉大学",
     "team_id": "T390"
   },
-  "T391": {
+  {
     "coach": "董文永",
     "members": [
       "刘海杰",
@@ -3251,7 +3251,7 @@
     "organization": "武汉大学",
     "team_id": "T391"
   },
-  "T393": {
+  {
     "coach": "彭涛",
     "members": [
       "伍新琛",
@@ -3263,7 +3263,7 @@
     "organization": "武汉纺织大学",
     "team_id": "T393"
   },
-  "T396": {
+  {
     "coach": "李顺新",
     "members": [
       "张杰",
@@ -3275,7 +3275,7 @@
     "organization": "武汉科技大学",
     "team_id": "T396"
   },
-  "T397": {
+  {
     "coach": "王晓峰",
     "members": [
       "余凌紫",
@@ -3287,7 +3287,7 @@
     "organization": "武汉科技大学",
     "team_id": "T397"
   },
-  "T398": {
+  {
     "coach": "赵冬冬",
     "members": [
       "张江涛",
@@ -3299,7 +3299,7 @@
     "organization": "武汉理工大学",
     "team_id": "T398"
   },
-  "T400": {
+  {
     "coach": "王志晓",
     "members": [
       "叶春煜",
@@ -3311,7 +3311,7 @@
     "organization": "西安理工大学",
     "team_id": "T400"
   },
-  "T401": {
+  {
     "coach": "吴桐",
     "members": [
       "李博轩",
@@ -3323,7 +3323,7 @@
     "organization": "西北大学",
     "team_id": "T401"
   },
-  "T402": {
+  {
     "coach": "冯筠",
     "members": [
       "姬煜翔",
@@ -3335,7 +3335,7 @@
     "organization": "西北大学",
     "team_id": "T402"
   },
-  "T406": {
+  {
     "coach": "刘君瑞",
     "members": [
       "汪梁森",
@@ -3347,7 +3347,7 @@
     "organization": "西北工业大学",
     "team_id": "T406"
   },
-  "T407": {
+  {
     "coach": "刘君瑞",
     "members": [
       "张帆",
@@ -3359,7 +3359,7 @@
     "organization": "西北工业大学",
     "team_id": "T407"
   },
-  "T408": {
+  {
     "coach": "刘君瑞",
     "members": [
       "崔力",
@@ -3371,7 +3371,7 @@
     "organization": "西北工业大学",
     "team_id": "T408"
   },
-  "T409": {
+  {
     "coach": "徐宏喆",
     "members": [
       "杨栋",
@@ -3383,7 +3383,7 @@
     "organization": "西安交通大学",
     "team_id": "T409"
   },
-  "T410": {
+  {
     "coach": "徐宏喆",
     "members": [
       "康颢",
@@ -3395,7 +3395,7 @@
     "organization": "西安交通大学",
     "team_id": "T410"
   },
-  "T411": {
+  {
     "coach": "徐弘喆",
     "members": [
       "孙路",
@@ -3407,7 +3407,7 @@
     "organization": "西安交通大学",
     "team_id": "T411"
   },
-  "T413": {
+  {
     "coach": "张晓煜",
     "members": [
       "杨涵今",
@@ -3419,7 +3419,7 @@
     "organization": "西藏民族大学",
     "team_id": "T413"
   },
-  "T415": {
+  {
     "coach": "喻琇瑛",
     "members": [
       "徐润泽",
@@ -3431,7 +3431,7 @@
     "organization": "西南交通大学",
     "team_id": "T415"
   },
-  "T416": {
+  {
     "coach": "喻琇瑛",
     "members": [
       "张翰生",
@@ -3443,7 +3443,7 @@
     "organization": "西南交通大学",
     "team_id": "T416"
   },
-  "T418": {
+  {
     "coach": "谭顺华",
     "members": [
       "宋毅",
@@ -3455,7 +3455,7 @@
     "organization": "西南科技大学",
     "team_id": "T418"
   },
-  "T419": {
+  {
     "coach": "杨春明",
     "members": [
       "任萍",
@@ -3467,7 +3467,7 @@
     "organization": "西南科技大学",
     "team_id": "T419"
   },
-  "T420": {
+  {
     "coach": "谭顺华",
     "members": [
       "廖悦",
@@ -3479,7 +3479,7 @@
     "organization": "西南科技大学",
     "team_id": "T420"
   },
-  "T421": {
+  {
     "coach": "谭顺华",
     "members": [
       "张健",
@@ -3491,7 +3491,7 @@
     "organization": "西南科技大学",
     "team_id": "T421"
   },
-  "T424": {
+  {
     "coach": "王琳",
     "members": [
       "刘源",
@@ -3503,7 +3503,7 @@
     "team_id": "T424",
     "unofficial": 1
   },
-  "T425": {
+  {
     "coach": "王琳",
     "members": [
       "张世琛",
@@ -3515,7 +3515,7 @@
     "organization": "西南民族大学",
     "team_id": "T425"
   },
-  "T426": {
+  {
     "coach": "刘小玲",
     "members": [
       "刘依杭",
@@ -3527,7 +3527,7 @@
     "organization": "西南石油大学",
     "team_id": "T426"
   },
-  "T430": {
+  {
     "coach": "卢云宏",
     "members": [
       "徐心雨",
@@ -3539,7 +3539,7 @@
     "organization": "烟台大学",
     "team_id": "T430"
   },
-  "T432": {
+  {
     "coach": "荆树旭",
     "members": [
       "朱子怡",
@@ -3551,7 +3551,7 @@
     "organization": "长安大学",
     "team_id": "T432"
   },
-  "T434": {
+  {
     "coach": "王睿",
     "members": [
       "周泊宇",
@@ -3563,7 +3563,7 @@
     "team_id": "T434",
     "unofficial": 1
   },
-  "T435": {
+  {
     "coach": "李华",
     "members": [
       "李龙",
@@ -3575,7 +3575,7 @@
     "team_id": "T435",
     "unofficial": 1
   },
-  "T436": {
+  {
     "coach": "赵建平",
     "members": [
       "张佳浩",
@@ -3587,7 +3587,7 @@
     "organization": "长春理工大学",
     "team_id": "T436"
   },
-  "T437": {
+  {
     "coach": "李华",
     "members": [
       "张和阳",
@@ -3599,7 +3599,7 @@
     "organization": "长春理工大学",
     "team_id": "T437"
   },
-  "T438": {
+  {
     "coach": "王睿",
     "members": [
       "唐依凡",
@@ -3611,7 +3611,7 @@
     "organization": "长春理工大学",
     "team_id": "T438"
   },
-  "T439": {
+  {
     "coach": "赵建平",
     "members": [
       "孟怡飞",
@@ -3623,7 +3623,7 @@
     "organization": "长春理工大学",
     "team_id": "T439"
   },
-  "T441": {
+  {
     "coach": "邓泽林",
     "members": [
       "李文龙",
@@ -3635,7 +3635,7 @@
     "organization": "长沙理工大学",
     "team_id": "T441"
   },
-  "T442": {
+  {
     "coach": "邓广慧",
     "members": [
       "杨琰",
@@ -3647,7 +3647,7 @@
     "team_id": "T442",
     "unofficial": 1
   },
-  "T443": {
+  {
     "coach": "王灿",
     "members": [
       "张静圳",
@@ -3659,7 +3659,7 @@
     "organization": "浙江大学",
     "team_id": "T443"
   },
-  "T444": {
+  {
     "coach": "王灿",
     "members": [
       "凌子恒",
@@ -3671,7 +3671,7 @@
     "organization": "浙江大学",
     "team_id": "T444"
   },
-  "T445": {
+  {
     "coach": "王灿",
     "members": [
       "于倚岑",
@@ -3683,7 +3683,7 @@
     "organization": "浙江大学",
     "team_id": "T445"
   },
-  "T446": {
+  {
     "coach": "柯海丰",
     "members": [
       "孙华阳",
@@ -3695,7 +3695,7 @@
     "organization": "浙大城市学院",
     "team_id": "T446"
   },
-  "T450": {
+  {
     "coach": "韩姗姗",
     "members": [
       "包淳嘉",
@@ -3707,7 +3707,7 @@
     "organization": "浙江工业大学",
     "team_id": "T450"
   },
-  "T451": {
+  {
     "coach": "王春平",
     "members": [
       "吴雨轩",
@@ -3719,7 +3719,7 @@
     "organization": "浙江工业大学",
     "team_id": "T451"
   },
-  "T452": {
+  {
     "coach": "韩姗姗",
     "members": [
       "杨俊尧",
@@ -3731,7 +3731,7 @@
     "team_id": "T452",
     "unofficial": 1
   },
-  "T453": {
+  {
     "coach": "侯向辉",
     "members": [
       "周阳",
@@ -3743,7 +3743,7 @@
     "team_id": "T453",
     "unofficial": 1
   },
-  "T456": {
+  {
     "coach": "林志洁",
     "members": [
       "孙寅",
@@ -3755,7 +3755,7 @@
     "organization": "浙江科技学院",
     "team_id": "T456"
   },
-  "T457": {
+  {
     "coach": "叶海荣",
     "members": [
       "储炳焘",
@@ -3767,7 +3767,7 @@
     "organization": "浙江理工大学",
     "team_id": "T457"
   },
-  "T458": {
+  {
     "coach": "叶海荣",
     "members": [
       "林苗镔",
@@ -3779,7 +3779,7 @@
     "organization": "浙江理工大学",
     "team_id": "T458"
   },
-  "T459": {
+  {
     "coach": "叶海荣",
     "members": [
       "叶俊杰",
@@ -3791,7 +3791,7 @@
     "organization": "浙江理工大学",
     "team_id": "T459"
   },
-  "T462": {
+  {
     "coach": "童孟军",
     "members": [
       "戴振龙",
@@ -3803,7 +3803,7 @@
     "organization": "浙江农林大学",
     "team_id": "T462"
   },
-  "T463": {
+  {
     "coach": "童孟军",
     "members": [
       "陈允魁",
@@ -3815,7 +3815,7 @@
     "organization": "浙江农林大学",
     "team_id": "T463"
   },
-  "T464": {
+  {
     "coach": "童孟军",
     "members": [
       "周帆杰",
@@ -3827,7 +3827,7 @@
     "organization": "浙江农林大学",
     "team_id": "T464"
   },
-  "T467": {
+  {
     "coach": "叶荣华",
     "members": [
       "李康恬",
@@ -3839,7 +3839,7 @@
     "organization": "浙江师范大学",
     "team_id": "T467"
   },
-  "T468": {
+  {
     "coach": "韩建民",
     "members": [
       "李宇昂",
@@ -3851,7 +3851,7 @@
     "team_id": "T468",
     "unofficial": 1
   },
-  "T469": {
+  {
     "coach": "韩建民",
     "members": [
       "叶文恺",
@@ -3863,7 +3863,7 @@
     "organization": "浙江师范大学",
     "team_id": "T469"
   },
-  "T472": {
+  {
     "coach": "罗杰",
     "members": [
       "张润涛",
@@ -3875,7 +3875,7 @@
     "organization": "浙江中医药大学",
     "team_id": "T472"
   },
-  "T473": {
+  {
     "coach": "罗杰",
     "members": [
       "何雁杰",
@@ -3887,7 +3887,7 @@
     "organization": "浙江中医药大学",
     "team_id": "T473"
   },
-  "T474": {
+  {
     "coach": "张卫星",
     "members": [
       "周德蔚",
@@ -3899,7 +3899,7 @@
     "organization": "郑州大学",
     "team_id": "T474"
   },
-  "T475": {
+  {
     "coach": "吴云鹏",
     "members": [
       "安凌翔",
@@ -3911,7 +3911,7 @@
     "team_id": "T475",
     "unofficial": 1
   },
-  "T476": {
+  {
     "coach": "吴云鹏",
     "members": [
       "岳希航",
@@ -3923,7 +3923,7 @@
     "organization": "郑州大学",
     "team_id": "T476"
   },
-  "T477": {
+  {
     "coach": "吴云鹏",
     "members": [
       "张朝轲",
@@ -3935,7 +3935,7 @@
     "team_id": "T477",
     "unofficial": 1
   },
-  "T478": {
+  {
     "coach": "吴云鹏",
     "members": [
       "刘世纪",
@@ -3947,7 +3947,7 @@
     "team_id": "T478",
     "unofficial": 1
   },
-  "T479": {
+  {
     "coach": "李晔",
     "members": [
       "付军秀 ",
@@ -3959,7 +3959,7 @@
     "team_id": "T479",
     "unofficial": 1
   },
-  "T480": {
+  {
     "coach": "李晔",
     "members": [
       "刘龙辉",
@@ -3971,7 +3971,7 @@
     "organization": "郑州轻工业大学",
     "team_id": "T480"
   },
-  "T481": {
+  {
     "coach": "李晔",
     "members": [
       "张纪龙",
@@ -3983,7 +3983,7 @@
     "team_id": "T481",
     "unofficial": 1
   },
-  "T483": {
+  {
     "coach": "潘广贞",
     "members": [
       "孙琪",
@@ -3995,7 +3995,7 @@
     "team_id": "T483",
     "unofficial": 1
   },
-  "T484": {
+  {
     "coach": "潘广贞",
     "members": [
       "张健宁",
@@ -4007,7 +4007,7 @@
     "organization": "中北大学",
     "team_id": "T484"
   },
-  "T489": {
+  {
     "coach": "张子臻",
     "members": [
       "梁梓豪",
@@ -4019,7 +4019,7 @@
     "organization": "中山大学",
     "team_id": "T489"
   },
-  "T490": {
+  {
     "coach": "林瀚",
     "members": [
       "张展邦",
@@ -4031,7 +4031,7 @@
     "organization": "中山大学",
     "team_id": "T490"
   },
-  "T491": {
+  {
     "coach": "林瀚",
     "members": [
       "叶汇亘",
@@ -4043,7 +4043,7 @@
     "team_id": "T491",
     "unofficial": 1
   },
-  "T492": {
+  {
     "coach": "郭嵩山",
     "members": [
       "傅畅",
@@ -4055,7 +4055,7 @@
     "organization": "中山大学",
     "team_id": "T492"
   },
-  "T494": {
+  {
     "coach": "闻育",
     "members": [
       "刘长奥",
@@ -4067,7 +4067,7 @@
     "organization": "中国计量大学",
     "team_id": "T494"
   },
-  "T497": {
+  {
     "coach": "刘卫平",
     "members": [
       "万祚全",
@@ -4079,7 +4079,7 @@
     "organization": "中南民族大学",
     "team_id": "T497"
   },
-  "T498": {
+  {
     "coach": "李佳",
     "members": [
       "何翔",
@@ -4091,7 +4091,7 @@
     "organization": "重庆大学",
     "team_id": "T498"
   },
-  "T499": {
+  {
     "coach": "兰鑫",
     "members": [
       "华振洋",
@@ -4103,7 +4103,7 @@
     "organization": "重庆大学",
     "team_id": "T499"
   },
-  "T500": {
+  {
     "coach": "兰鑫",
     "members": [
       "余锦天",
@@ -4115,7 +4115,7 @@
     "organization": "重庆大学",
     "team_id": "T500"
   },
-  "T501": {
+  {
     "coach": "甘玲",
     "members": [
       "严齐平",
@@ -4127,7 +4127,7 @@
     "organization": "重庆邮电大学",
     "team_id": "T501"
   },
-  "T502": {
+  {
     "coach": "甘玲",
     "members": [
       "何杨",
@@ -4139,7 +4139,7 @@
     "team_id": "T502",
     "unofficial": 1
   },
-  "T503": {
+  {
     "coach": "甘玲",
     "members": [
       "娄奚文炀",
@@ -4151,4 +4151,4 @@
     "team_id": "T503",
     "unofficial": 1
   }
-}
+]

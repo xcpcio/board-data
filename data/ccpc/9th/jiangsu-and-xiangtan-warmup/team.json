@@ -1,5 +1,5 @@
-{
-  "jiangsu16": {
+[
+  {
     "team_id": "jiangsu16",
     "name": "水仙花队",
     "organization": "南京大学",
@@ -8,7 +8,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu17": {
+  {
     "team_id": "jiangsu17",
     "name": "瓜皮老亚索",
     "organization": "南京邮电大学",
@@ -17,7 +17,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu18": {
+  {
     "team_id": "jiangsu18",
     "name": "我知道你很急但你先别急",
     "organization": "河海大学",
@@ -26,7 +26,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu19": {
+  {
     "team_id": "jiangsu19",
     "name": "答得都队",
     "organization": "南京传媒学院",
@@ -35,7 +35,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu20": {
+  {
     "team_id": "jiangsu20",
     "name": "杭电20队",
     "organization": "杭州电子科技大学",
@@ -44,7 +44,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu21": {
+  {
     "team_id": "jiangsu21",
     "name": "SEI3",
     "organization": "华东师范大学",
@@ -53,7 +53,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu22": {
+  {
     "team_id": "jiangsu22",
     "name": "反正在榜底就不取名字了",
     "organization": "常熟理工学院",
@@ -62,7 +62,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu23": {
+  {
     "team_id": "jiangsu23",
     "name": "别人铁牌我塑料牌",
     "organization": "南京工业大学",
@@ -71,7 +71,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu24": {
+  {
     "team_id": "jiangsu24",
     "name": "生瓜蛋子",
     "organization": "南京大学",
@@ -80,7 +80,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu25": {
+  {
     "team_id": "jiangsu25",
     "name": "打ACM打的↑",
     "organization": "东南大学",
@@ -89,7 +89,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu26": {
+  {
     "team_id": "jiangsu26",
     "name": "ojousama",
     "organization": "南京理工大学",
@@ -98,7 +98,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu27": {
+  {
     "team_id": "jiangsu27",
     "name": "虚空艾优",
     "organization": "南京邮电大学",
@@ -107,7 +107,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu28": {
+  {
     "team_id": "jiangsu28",
     "name": "静水流深",
     "organization": "南京农业大学",
@@ -116,7 +116,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu29": {
+  {
     "team_id": "jiangsu29",
     "name": "治伤魔法石",
     "organization": "同济大学",
@@ -125,7 +125,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu30": {
+  {
     "team_id": "jiangsu30",
     "name": "酒店住什么？打完吃什么？",
     "organization": "无锡学院",
@@ -134,7 +134,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu31": {
+  {
     "team_id": "jiangsu31",
     "name": "未来之星",
     "organization": "盐城工学院",
@@ -143,7 +143,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu32": {
+  {
     "team_id": "jiangsu32",
     "name": "不卡壳的旋转卡壳",
     "organization": "南京大学",
@@ -152,7 +152,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu33": {
+  {
     "team_id": "jiangsu33",
     "name": "通达初号机",
     "organization": "南京邮电大学通达学院",
@@ -161,7 +161,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu34": {
+  {
     "team_id": "jiangsu34",
     "name": "盐师乙组",
     "organization": "盐城师范学院",
@@ -170,7 +170,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu35": {
+  {
     "team_id": "jiangsu35",
     "name": "小试牛刀",
     "organization": "中国人民解放军陆军工程大学",
@@ -179,7 +179,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu36": {
+  {
     "team_id": "jiangsu36",
     "name": "二龙山灵动派",
     "organization": "中国矿业大学徐海学院",
@@ -188,7 +188,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu37": {
+  {
     "team_id": "jiangsu37",
     "name": "25时，在夜之代码",
     "organization": "河海大学",
@@ -197,7 +197,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu38": {
+  {
     "team_id": "jiangsu38",
     "name": "最喜欢的一集",
     "organization": "南京邮电大学",
@@ -206,7 +206,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu39": {
+  {
     "team_id": "jiangsu39",
     "name": "荆棘黄昏",
     "organization": "南京大学",
@@ -215,7 +215,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu40": {
+  {
     "team_id": "jiangsu40",
     "name": "杭电19队",
     "organization": "杭州电子科技大学",
@@ -224,7 +224,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu41": {
+  {
     "team_id": "jiangsu41",
     "name": "三妖精 SAY WA",
     "organization": "南京大学",
@@ -233,7 +233,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu42": {
+  {
     "team_id": "jiangsu42",
     "name": "朝闻道",
     "organization": "南京邮电大学",
@@ -242,7 +242,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu43": {
+  {
     "team_id": "jiangsu43",
     "name": "无敌暴零战士",
     "organization": "东南大学",
@@ -251,7 +251,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu44": {
+  {
     "team_id": "jiangsu44",
     "name": "总座高见",
     "organization": "河海大学",
@@ -260,7 +260,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu45": {
+  {
     "team_id": "jiangsu45",
     "name": "杭电16队",
     "organization": "杭州电子科技大学",
@@ -269,7 +269,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu46": {
+  {
     "team_id": "jiangsu46",
     "name": "SEI4",
     "organization": "华东师范大学",
@@ -278,7 +278,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu47": {
+  {
     "team_id": "jiangsu47",
     "name": "厚积薄发",
     "organization": "金陵科技学院",
@@ -287,7 +287,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu48": {
+  {
     "team_id": "jiangsu48",
     "name": "老默，我想吃坤了",
     "organization": "常熟理工学院",
@@ -296,7 +296,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu49": {
+  {
     "team_id": "jiangsu49",
     "name": "南小鸟",
     "organization": "南京大学",
@@ -305,7 +305,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu50": {
+  {
     "team_id": "jiangsu50",
     "name": "TS.逐字符AC",
     "organization": "常州大学",
@@ -314,7 +314,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu51": {
+  {
     "team_id": "jiangsu51",
     "name": "别人金牌我铁牌",
     "organization": "南京工业大学",
@@ -323,7 +323,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu52": {
+  {
     "team_id": "jiangsu52",
     "name": "你别急，我先看看榜",
     "organization": "南京邮电大学",
@@ -332,7 +332,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu53": {
+  {
     "team_id": "jiangsu53",
     "name": "nlight",
     "organization": "南京理工大学",
@@ -341,7 +341,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu54": {
+  {
     "team_id": "jiangsu54",
     "name": "代码匠人",
     "organization": "南京农业大学",
@@ -350,7 +350,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu55": {
+  {
     "team_id": "jiangsu55",
     "name": "睡好玩好争取签到",
     "organization": "南京特殊教育师范学院",
@@ -359,7 +359,7 @@
     "girl": 1,
     "jiangsu": 1
   },
-  "jiangsu56": {
+  {
     "team_id": "jiangsu56",
     "name": "拼搏5天之我想去南京",
     "organization": "同济大学",
@@ -368,7 +368,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu57": {
+  {
     "team_id": "jiangsu57",
     "name": "乱敲键盘",
     "organization": "南京大学",
@@ -377,7 +377,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu58": {
+  {
     "team_id": "jiangsu58",
     "name": "签到万岁",
     "organization": "南京邮电大学通达学院",
@@ -386,7 +386,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu59": {
+  {
     "team_id": "jiangsu59",
     "name": "复读机的最后一年",
     "organization": "无锡学院",
@@ -395,7 +395,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu60": {
+  {
     "team_id": "jiangsu60",
     "name": "我是卖鱼的",
     "organization": "宿迁学院",
@@ -404,7 +404,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu61": {
+  {
     "team_id": "jiangsu61",
     "name": "北巷清风",
     "organization": "盐城工学院",
@@ -413,7 +413,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu62": {
+  {
     "team_id": "jiangsu62",
     "name": "盐师甲组",
     "organization": "盐城师范学院",
@@ -422,7 +422,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu63": {
+  {
     "team_id": "jiangsu63",
     "name": "浪遏飞舟",
     "organization": "中国人民解放军陆军工程大学",
@@ -431,7 +431,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu64": {
+  {
     "team_id": "jiangsu64",
     "name": "风起邮专",
     "organization": "南京邮电大学",
@@ -440,7 +440,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu65": {
+  {
     "team_id": "jiangsu65",
     "name": "明明是我先来的",
     "organization": "南京大学",
@@ -449,7 +449,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu66": {
+  {
     "team_id": "jiangsu66",
     "name": "啊对对队",
     "organization": "常州大学",
@@ -458,7 +458,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu67": {
+  {
     "team_id": "jiangsu67",
     "name": "南京wa掘机",
     "organization": "东南大学",
@@ -467,7 +467,7 @@
     "girl": 1,
     "jiangsu": 1
   },
-  "jiangsu68": {
+  {
     "team_id": "jiangsu68",
     "name": "蒜法攻城狮",
     "organization": "河海大学常州校区",
@@ -476,7 +476,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu69": {
+  {
     "team_id": "jiangsu69",
     "name": "3.1415926535",
     "organization": "南京航空航天大学",
@@ -485,7 +485,7 @@
     "girl": 1,
     "jiangsu": 1
   },
-  "jiangsu70": {
+  {
     "team_id": "jiangsu70",
     "name": "想去深海大饭店吃饭",
     "organization": "南京理工大学",
@@ -494,7 +494,7 @@
     "girl": 1,
     "jiangsu": 1
   },
-  "jiangsu71": {
+  {
     "team_id": "jiangsu71",
     "name": "三色绘恋",
     "organization": "南京师范大学",
@@ -503,7 +503,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu72": {
+  {
     "team_id": "jiangsu72",
     "name": "我在南京玩泥巴",
     "organization": "南京信息工程大学",
@@ -512,7 +512,7 @@
     "girl": 1,
     "jiangsu": 1
   },
-  "jiangsu73": {
+  {
     "team_id": "jiangsu73",
     "name": "西西弗斯重返南京",
     "organization": "南京邮电大学通达学院",
@@ -521,7 +521,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu74": {
+  {
     "team_id": "jiangsu74",
     "name": "想喝玫瑰清露",
     "organization": "苏州大学",
@@ -530,7 +530,7 @@
     "girl": 1,
     "jiangsu": 1
   },
-  "jiangsu75": {
+  {
     "team_id": "jiangsu75",
     "name": "进击的女战士",
     "organization": "徐州工程学院",
@@ -539,7 +539,7 @@
     "girl": 1,
     "jiangsu": 1
   },
-  "jiangsu76": {
+  {
     "team_id": "jiangsu76",
     "name": "翻斗花园孩子王",
     "organization": "常熟理工学院",
@@ -548,7 +548,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu77": {
+  {
     "team_id": "jiangsu77",
     "name": "MSC小分队",
     "organization": "东南大学",
@@ -557,7 +557,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu78": {
+  {
     "team_id": "jiangsu78",
     "name": "家人们谁懂啊",
     "organization": "河海大学",
@@ -566,7 +566,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu79": {
+  {
     "team_id": "jiangsu79",
     "name": "这是队名字",
     "organization": "江南大学",
@@ -575,7 +575,7 @@
     "girl": 1,
     "jiangsu": 1
   },
-  "jiangsu80": {
+  {
     "team_id": "jiangsu80",
     "name": "混一分也是混",
     "organization": "江苏大学",
@@ -584,7 +584,7 @@
     "girl": 1,
     "jiangsu": 1
   },
-  "jiangsu81": {
+  {
     "team_id": "jiangsu81",
     "name": "没有想法",
     "organization": "江苏科技大学",
@@ -593,7 +593,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu82": {
+  {
     "team_id": "jiangsu82",
     "name": "不在服务区...",
     "organization": "江苏理工学院",
@@ -602,7 +602,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu83": {
+  {
     "team_id": "jiangsu83",
     "name": "reji3tr",
     "organization": "南京林业大学",
@@ -611,7 +611,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu84": {
+  {
     "team_id": "jiangsu84",
     "name": "Codeplay",
     "organization": "南京师范大学",
@@ -620,7 +620,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu85": {
+  {
     "team_id": "jiangsu85",
     "name": "不吃饭，不睡觉，打起精神去签到",
     "organization": "南京特殊教育师范学院",
@@ -629,7 +629,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu86": {
+  {
     "team_id": "jiangsu86",
     "name": "竞赛时长两年半",
     "organization": "徐州工程学院",
@@ -638,7 +638,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu87": {
+  {
     "team_id": "jiangsu87",
     "name": "重生之我是炸洋芋",
     "organization": "苏州大学",
@@ -647,7 +647,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu88": {
+  {
     "team_id": "jiangsu88",
     "name": "大菜猫",
     "organization": "南京邮电大学",
@@ -656,7 +656,7 @@
     "girl": 1,
     "jiangsu": 1
   },
-  "jiangsu89": {
+  {
     "team_id": "jiangsu89",
     "name": "砌砖嘴犟",
     "organization": "南京信息工程大学",
@@ -665,7 +665,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu90": {
+  {
     "team_id": "jiangsu90",
     "name": "在CCPC中寻求WA并没有搞错什么",
     "organization": "南京航空航天大学",
@@ -674,7 +674,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu91": {
+  {
     "team_id": "jiangsu91",
     "name": "菜茎合作社",
     "organization": "南京大学",
@@ -683,7 +683,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu92": {
+  {
     "team_id": "jiangsu92",
     "name": "奇思妙想",
     "organization": "金陵科技学院",
@@ -692,7 +692,7 @@
     "girl": 1,
     "jiangsu": 1
   },
-  "jiangsu93": {
+  {
     "team_id": "jiangsu93",
     "name": "阡陌队",
     "organization": "南京工业大学",
@@ -701,7 +701,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu94": {
+  {
     "team_id": "jiangsu94",
     "name": "战犯猫猫",
     "organization": "南京理工大学",
@@ -710,7 +710,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu95": {
+  {
     "team_id": "jiangsu95",
     "name": "全员饿人",
     "organization": "南京晓庄学院",
@@ -719,7 +719,7 @@
     "girl": 1,
     "jiangsu": 1
   },
-  "jiangsu96": {
+  {
     "team_id": "jiangsu96",
     "name": "面对题解编程",
     "organization": "南通大学",
@@ -728,7 +728,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu97": {
+  {
     "team_id": "jiangsu97",
     "name": "ACylinder",
     "organization": "扬州大学",
@@ -737,7 +737,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu98": {
+  {
     "team_id": "jiangsu98",
     "name": "流星一条",
     "organization": "中国矿业大学",
@@ -746,7 +746,7 @@
     "girl": 1,
     "jiangsu": 1
   },
-  "jiangsu99": {
+  {
     "team_id": "jiangsu99",
     "name": "蔡徐坤",
     "organization": "苏州科技大学",
@@ -755,7 +755,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu100": {
+  {
     "team_id": "jiangsu100",
     "name": "好深沉队",
     "organization": "常熟理工学院",
@@ -764,7 +764,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu101": {
+  {
     "team_id": "jiangsu101",
     "name": "原味鸡好吃",
     "organization": "东南大学",
@@ -773,7 +773,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu102": {
+  {
     "team_id": "jiangsu102",
     "name": "江苏省赛为什么要在江苏办",
     "organization": "河海大学",
@@ -782,7 +782,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu103": {
+  {
     "team_id": "jiangsu103",
     "name": "签到，梦游和机器人",
     "organization": "江南大学",
@@ -791,7 +791,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu104": {
+  {
     "team_id": "jiangsu104",
     "name": "队友真润了怎么办",
     "organization": "江苏大学",
@@ -800,7 +800,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu105": {
+  {
     "team_id": "jiangsu105",
     "name": "四二、四三、四四先生",
     "organization": "江苏科技大学",
@@ -809,7 +809,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu106": {
+  {
     "team_id": "jiangsu106",
     "name": "碳烤可达鸭",
     "organization": "江苏理工学院",
@@ -818,7 +818,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu107": {
+  {
     "team_id": "jiangsu107",
     "name": "希儿世界第一可爱",
     "organization": "南京林业大学",
@@ -827,7 +827,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu108": {
+  {
     "team_id": "jiangsu108",
     "name": "暗部组织",
     "organization": "南京师范大学",
@@ -836,7 +836,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu109": {
+  {
     "team_id": "jiangsu109",
     "name": "别再送了",
     "organization": "南京邮电大学",
@@ -845,7 +845,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu110": {
+  {
     "team_id": "jiangsu110",
     "name": "小砌砖大震撼",
     "organization": "南京信息工程大学",
@@ -854,7 +854,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu111": {
+  {
     "team_id": "jiangsu111",
     "name": "林克时间",
     "organization": "南京航空航天大学",
@@ -863,7 +863,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu112": {
+  {
     "team_id": "jiangsu112",
     "name": "林间雨月",
     "organization": "南京大学",
@@ -872,7 +872,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu113": {
+  {
     "team_id": "jiangsu113",
     "name": "关于三个研0选手回来打JSCPC这件事",
     "organization": "金陵科技学院",
@@ -881,7 +881,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu114": {
+  {
     "team_id": "jiangsu114",
     "name": "像我们一样爆零就泰裤辣",
     "organization": "南京工业大学",
@@ -890,7 +890,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu115": {
+  {
     "team_id": "jiangsu115",
     "name": "小丁说的都队",
     "organization": "南京理工大学",
@@ -899,7 +899,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu116": {
+  {
     "team_id": "jiangsu116",
     "name": "漆黑的鼹鼠党",
     "organization": "南京晓庄学院",
@@ -908,7 +908,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu117": {
+  {
     "team_id": "jiangsu117",
     "name": "做个老实的分母队",
     "organization": "南通大学",
@@ -917,7 +917,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu118": {
+  {
     "team_id": "jiangsu118",
     "name": "Blowback",
     "organization": "苏州大学",
@@ -926,7 +926,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu119": {
+  {
     "team_id": "jiangsu119",
     "name": "遇事不决暴力破解",
     "organization": "徐州工程学院",
@@ -935,7 +935,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu120": {
+  {
     "team_id": "jiangsu120",
     "name": "村口型男不秃头",
     "organization": "中国矿业大学",
@@ -944,7 +944,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu121": {
+  {
     "team_id": "jiangsu121",
     "name": "我们见过凌晨四点的洛杉矶和苏科大",
     "organization": "苏州科技大学",
@@ -953,7 +953,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu122": {
+  {
     "team_id": "jiangsu122",
     "name": "喝菜",
     "organization": "常熟理工学院",
@@ -962,7 +962,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu123": {
+  {
     "team_id": "jiangsu123",
     "name": "石骨泉心",
     "organization": "东南大学",
@@ -971,7 +971,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu124": {
+  {
     "team_id": "jiangsu124",
     "name": "带铁好狼一口一只",
     "organization": "河海大学",
@@ -980,7 +980,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu125": {
+  {
     "team_id": "jiangsu125",
     "name": "无牌转生~到了省赛就拿出真本事~",
     "organization": "江南大学",
@@ -989,7 +989,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu126": {
+  {
     "team_id": "jiangsu126",
     "name": "逾越丁真鉴定为忘开LL",
     "organization": "江苏大学",
@@ -998,7 +998,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu127": {
+  {
     "team_id": "jiangsu127",
     "name": "我有个想法？",
     "organization": "江苏理工学院",
@@ -1007,7 +1007,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu128": {
+  {
     "team_id": "jiangsu128",
     "name": "啊对对队",
     "organization": "南京林业大学",
@@ -1016,7 +1016,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu129": {
+  {
     "team_id": "jiangsu129",
     "name": "擅长AC的高木同学",
     "organization": "南京师范大学",
@@ -1025,7 +1025,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu130": {
+  {
     "team_id": "jiangsu130",
     "name": "驯服流星",
     "organization": "苏州大学",
@@ -1034,7 +1034,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu131": {
+  {
     "team_id": "jiangsu131",
     "name": "格兰芬多",
     "organization": "南京邮电大学",
@@ -1043,7 +1043,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu132": {
+  {
     "team_id": "jiangsu132",
     "name": "队长被拐走啦",
     "organization": "南京信息工程大学",
@@ -1052,7 +1052,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu133": {
+  {
     "team_id": "jiangsu133",
     "name": "航专没有开封菜队",
     "organization": "南京航空航天大学",
@@ -1061,7 +1061,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu134": {
+  {
     "team_id": "jiangsu134",
     "name": "admax",
     "organization": "南京大学",
@@ -1070,7 +1070,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu135": {
+  {
     "team_id": "jiangsu135",
     "name": "QAQ",
     "organization": "金陵科技学院",
@@ -1079,7 +1079,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu136": {
+  {
     "team_id": "jiangsu136",
     "name": "假装摆烂堆",
     "organization": "南京工业大学",
@@ -1088,7 +1088,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu137": {
+  {
     "team_id": "jiangsu137",
     "name": "过载猫猫头",
     "organization": "南京理工大学",
@@ -1097,7 +1097,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu138": {
+  {
     "team_id": "jiangsu138",
     "name": "wrong answer on pretest 2",
     "organization": "南京晓庄学院",
@@ -1106,7 +1106,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu139": {
+  {
     "team_id": "jiangsu139",
     "name": "我只想打工",
     "organization": "南通大学",
@@ -1115,7 +1115,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu140": {
+  {
     "team_id": "jiangsu140",
     "name": "我想吃鱼了",
     "organization": "徐州工程学院",
@@ -1124,7 +1124,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu141": {
+  {
     "team_id": "jiangsu141",
     "name": "LGD",
     "organization": "中国人民解放军陆军工程大学",
@@ -1133,7 +1133,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu142": {
+  {
     "team_id": "jiangsu142",
     "name": "玩厵玩的",
     "organization": "中国矿业大学",
@@ -1142,7 +1142,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu143": {
+  {
     "team_id": "jiangsu143",
     "name": "月男战斧请出列",
     "organization": "苏州科技大学",
@@ -1151,7 +1151,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu144": {
+  {
     "team_id": "jiangsu144",
     "name": "寂静之声",
     "organization": "常熟理工学院",
@@ -1160,7 +1160,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu145": {
+  {
     "team_id": "jiangsu145",
     "name": "我口胡超强",
     "organization": "东南大学",
@@ -1169,7 +1169,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu146": {
+  {
     "team_id": "jiangsu146",
     "name": "我的ACM铁牌物语果然有问题",
     "organization": "河海大学",
@@ -1178,7 +1178,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu147": {
+  {
     "team_id": "jiangsu147",
     "name": "对不起，我水人太菜了",
     "organization": "江南大学",
@@ -1187,7 +1187,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu148": {
+  {
     "team_id": "jiangsu148",
     "name": "没法混分编不下去了",
     "organization": "江苏大学",
@@ -1196,7 +1196,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu149": {
+  {
     "team_id": "jiangsu149",
     "name": "悬空指针",
     "organization": "江苏海洋大学",
@@ -1205,7 +1205,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu150": {
+  {
     "team_id": "jiangsu150",
     "name": "还是没有代码，怎么搞的",
     "organization": "江苏科技大学",
@@ -1214,7 +1214,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu151": {
+  {
     "team_id": "jiangsu151",
     "name": "所以爱会消失对不队？",
     "organization": "江苏理工学院",
@@ -1223,7 +1223,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu152": {
+  {
     "team_id": "jiangsu152",
     "name": "原？农？GO？码！",
     "organization": "南京林业大学",
@@ -1232,7 +1232,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu153": {
+  {
     "team_id": "jiangsu153",
     "name": "鸽不该鸽的没鸽该鸽的",
     "organization": "南京师范大学",
@@ -1241,7 +1241,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu154": {
+  {
     "team_id": "jiangsu154",
     "name": "让胜利的胜利",
     "organization": "南京特殊教育师范学院",
@@ -1250,7 +1250,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu155": {
+  {
     "team_id": "jiangsu155",
     "name": "Lumos",
     "organization": "南通大学",
@@ -1259,7 +1259,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu156": {
+  {
     "team_id": "jiangsu156",
     "name": "ACube",
     "organization": "扬州大学",
@@ -1268,7 +1268,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu157": {
+  {
     "team_id": "jiangsu157",
     "name": "爱丽丝和鲍勃",
     "organization": "徐州工程学院",
@@ -1277,7 +1277,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu158": {
+  {
     "team_id": "jiangsu158",
     "name": "金闪闪",
     "organization": "苏州大学",
@@ -1286,7 +1286,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu159": {
+  {
     "team_id": "jiangsu159",
     "name": "冬季市场",
     "organization": "南京邮电大学",
@@ -1295,7 +1295,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu160": {
+  {
     "team_id": "jiangsu160",
     "name": "蒟蒻果冻",
     "organization": "南京信息工程大学",
@@ -1304,7 +1304,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu161": {
+  {
     "team_id": "jiangsu161",
     "name": "江州三蟹",
     "organization": "南京航空航天大学",
@@ -1313,7 +1313,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu162": {
+  {
     "team_id": "jiangsu162",
     "name": "钟山风雨",
     "organization": "南京大学",
@@ -1322,7 +1322,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu163": {
+  {
     "team_id": "jiangsu163",
     "name": "我思故我在",
     "organization": "金陵科技学院",
@@ -1331,7 +1331,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu164": {
+  {
     "team_id": "jiangsu164",
     "name": "石上三年",
     "organization": "南京工业大学",
@@ -1340,7 +1340,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu165": {
+  {
     "team_id": "jiangsu165",
     "name": "猫猫头没有头",
     "organization": "南京理工大学",
@@ -1349,7 +1349,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu166": {
+  {
     "team_id": "jiangsu166",
     "name": "山猪的拉拉队",
     "organization": "南京晓庄学院",
@@ -1358,7 +1358,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu167": {
+  {
     "team_id": "jiangsu167",
     "name": "xcpc铁牌腐乳出列",
     "organization": "中国矿业大学",
@@ -1367,7 +1367,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu168": {
+  {
     "team_id": "jiangsu168",
     "name": "再来一次",
     "organization": "苏州科技大学",
@@ -1376,7 +1376,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu169": {
+  {
     "team_id": "jiangsu169",
     "name": "你只管睡觉，剩下的交给天意",
     "organization": "南京邮电大学通达学院",
@@ -1385,7 +1385,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu170": {
+  {
     "team_id": "jiangsu170",
     "name": "WA你走开 我怕AC误会",
     "organization": "常州大学",
@@ -1394,7 +1394,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu171": {
+  {
     "team_id": "jiangsu171",
     "name": "已溢dz，鉴定为：递归写不队",
     "organization": "河海大学常州校区",
@@ -1403,7 +1403,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu172": {
+  {
     "team_id": "jiangsu172",
     "name": "去年经费还没报",
     "organization": "南京林业大学",
@@ -1412,7 +1412,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu173": {
+  {
     "team_id": "jiangsu173",
     "name": "三条菜狗",
     "organization": "中国矿业大学",
@@ -1421,7 +1421,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu174": {
+  {
     "team_id": "jiangsu174",
     "name": "555我的炸鸡",
     "organization": "苏州大学",
@@ -1430,7 +1430,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu175": {
+  {
     "team_id": "jiangsu175",
     "name": "温存队",
     "organization": "南京晓庄学院",
@@ -1439,7 +1439,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu176": {
+  {
     "team_id": "jiangsu176",
     "name": "牧濑红莉栖",
     "organization": "南京信息工程大学",
@@ -1448,7 +1448,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu177": {
+  {
     "team_id": "jiangsu177",
     "name": "二带一",
     "organization": "金陵科技学院",
@@ -1457,7 +1457,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu178": {
+  {
     "team_id": "jiangsu178",
     "name": "去金陵整点袋鼠",
     "organization": "南京邮电大学",
@@ -1466,7 +1466,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu179": {
+  {
     "team_id": "jiangsu179",
     "name": "一带二",
     "organization": "苏州科技大学",
@@ -1475,7 +1475,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu180": {
+  {
     "team_id": "jiangsu180",
     "name": "神 奇 海 螺",
     "organization": "东南大学",
@@ -1484,7 +1484,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu181": {
+  {
     "team_id": "jiangsu181",
     "name": "咱就是说一整个无语住了",
     "organization": "河海大学",
@@ -1493,7 +1493,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu182": {
+  {
     "team_id": "jiangsu182",
     "name": "不打原神导致的",
     "organization": "南京师范大学",
@@ -1502,7 +1502,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu183": {
+  {
     "team_id": "jiangsu183",
     "name": "璃月编程工作室",
     "organization": "南京晓庄学院",
@@ -1511,7 +1511,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu184": {
+  {
     "team_id": "jiangsu184",
     "name": "矿远无畏",
     "organization": "中国矿业大学",
@@ -1520,7 +1520,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu185": {
+  {
     "team_id": "jiangsu185",
     "name": "我狸木已成舟12发wa轻取签到",
     "organization": "徐州工程学院",
@@ -1529,7 +1529,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu186": {
+  {
     "team_id": "jiangsu186",
     "name": "收收心找个电子厂上班了",
     "organization": "南京邮电大学",
@@ -1538,7 +1538,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu187": {
+  {
     "team_id": "jiangsu187",
     "name": "青春WA少年不会梦到天目湖航专",
     "organization": "南京航空航天大学",
@@ -1547,7 +1547,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu188": {
+  {
     "team_id": "jiangsu188",
     "name": "白驹过隙",
     "organization": "南京大学",
@@ -1556,7 +1556,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu189": {
+  {
     "team_id": "jiangsu189",
     "name": "将故事写成我们",
     "organization": "金陵科技学院",
@@ -1565,7 +1565,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu190": {
+  {
     "team_id": "jiangsu190",
     "name": "简单易码",
     "organization": "南京工业大学",
@@ -1574,7 +1574,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu191": {
+  {
     "team_id": "jiangsu191",
     "name": "平和猫猫头",
     "organization": "南京理工大学",
@@ -1583,7 +1583,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu192": {
+  {
     "team_id": "jiangsu192",
     "name": "你怎么知道我们五一放九天",
     "organization": "常熟理工学院",
@@ -1592,7 +1592,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu193": {
+  {
     "team_id": "jiangsu193",
     "name": "占位符",
     "organization": "东南大学",
@@ -1601,7 +1601,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu194": {
+  {
     "team_id": "jiangsu194",
     "name": "Akers",
     "organization": "河海大学",
@@ -1610,7 +1610,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu195": {
+  {
     "team_id": "jiangsu195",
     "name": "远坂凛粉丝队",
     "organization": "江南大学",
@@ -1619,7 +1619,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu196": {
+  {
     "team_id": "jiangsu196",
     "name": "闪耀之所在",
     "organization": "江苏大学",
@@ -1628,7 +1628,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu197": {
+  {
     "team_id": "jiangsu197",
     "name": "深藏blue",
     "organization": "江苏海洋大学",
@@ -1637,7 +1637,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu198": {
+  {
     "team_id": "jiangsu198",
     "name": "没办法",
     "organization": "江苏科技大学",
@@ -1646,7 +1646,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu199": {
+  {
     "team_id": "jiangsu199",
     "name": "正在加载中...",
     "organization": "江苏理工学院",
@@ -1655,7 +1655,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu200": {
+  {
     "team_id": "jiangsu200",
     "name": "林带观光团",
     "organization": "南京林业大学",
@@ -1664,7 +1664,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu201": {
+  {
     "team_id": "jiangsu201",
     "name": "巅峰计划",
     "organization": "南京农业大学",
@@ -1673,7 +1673,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu202": {
+  {
     "team_id": "jiangsu202",
     "name": "什么题还要姐亲自做",
     "organization": "南京师范大学",
@@ -1682,7 +1682,7 @@
     "girl": 1,
     "jiangsu": 1
   },
-  "jiangsu203": {
+  {
     "team_id": "jiangsu203",
     "name": "吃好喝好拿下签到",
     "organization": "南京特殊教育师范学院",
@@ -1691,7 +1691,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu204": {
+  {
     "team_id": "jiangsu204",
     "name": "集思广益一波",
     "organization": "南通大学",
@@ -1700,7 +1700,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu205": {
+  {
     "team_id": "jiangsu205",
     "name": "神里绫华嫁给我",
     "organization": "徐州工程学院",
@@ -1709,7 +1709,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu206": {
+  {
     "team_id": "jiangsu206",
     "name": "韩氏空指针上可持久化雨自动机",
     "organization": "苏州大学",
@@ -1718,7 +1718,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu207": {
+  {
     "team_id": "jiangsu207",
     "name": "七叶寂照秘密主",
     "organization": "南京邮电大学",
@@ -1727,7 +1727,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu208": {
+  {
     "team_id": "jiangsu208",
     "name": "跟不上榜",
     "organization": "南京信息工程大学",
@@ -1736,7 +1736,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu209": {
+  {
     "team_id": "jiangsu209",
     "name": "NUAA05",
     "organization": "南京航空航天大学",
@@ -1745,7 +1745,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu210": {
+  {
     "team_id": "jiangsu210",
     "name": "超现实黄昏",
     "organization": "南京大学",
@@ -1754,7 +1754,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu211": {
+  {
     "team_id": "jiangsu211",
     "name": "雨中纸盒",
     "organization": "金陵科技学院",
@@ -1763,7 +1763,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu212": {
+  {
     "team_id": "jiangsu212",
     "name": "赢麻了",
     "organization": "南京工业大学",
@@ -1772,7 +1772,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu213": {
+  {
     "team_id": "jiangsu213",
     "name": "Lost Christmas",
     "organization": "南京理工大学",
@@ -1781,7 +1781,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu214": {
+  {
     "team_id": "jiangsu214",
     "name": "神秘刀光男",
     "organization": "南京晓庄学院",
@@ -1790,7 +1790,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu215": {
+  {
     "team_id": "jiangsu215",
     "name": "矿野之息",
     "organization": "中国矿业大学",
@@ -1799,7 +1799,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu216": {
+  {
     "team_id": "jiangsu216",
     "name": "ACone",
     "organization": "扬州大学",
@@ -1808,7 +1808,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu217": {
+  {
     "team_id": "jiangsu217",
     "name": "雨霖铃",
     "organization": "苏州科技大学",
@@ -1817,7 +1817,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu218": {
+  {
     "team_id": "jiangsu218",
     "name": "南工程-致远队",
     "organization": "南京工程学院",
@@ -1826,7 +1826,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "jiangsu219": {
+  {
     "team_id": "jiangsu219",
     "name": "Jury",
     "organization": null,
@@ -1835,7 +1835,7 @@
     "girl": false,
     "jiangsu": 1
   },
-  "xiangtan23001": {
+  {
     "team_id": "xiangtan23001",
     "name": "口嗨战神",
     "organization": "北京航空航天大学",
@@ -1849,7 +1849,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23002": {
+  {
     "team_id": "xiangtan23002",
     "name": "绫波丽请你喝东北好果汁",
     "organization": "北京理工大学",
@@ -1863,7 +1863,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23003": {
+  {
     "team_id": "xiangtan23003",
     "name": "别在我旁边吃饭，我是航古瑞",
     "organization": "常熟理工学院",
@@ -1877,7 +1877,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23004": {
+  {
     "team_id": "xiangtan23004",
     "name": "打题五小时，罚时一整天",
     "organization": "成都信息工程大学",
@@ -1891,7 +1891,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23005": {
+  {
     "team_id": "xiangtan23005",
     "name": "二叉队",
     "organization": "东北农业大学",
@@ -1905,7 +1905,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23006": {
+  {
     "team_id": "xiangtan23006",
     "name": "看我做的对不队",
     "organization": "广东东软学院",
@@ -1919,7 +1919,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23007": {
+  {
     "team_id": "xiangtan23007",
     "name": "我们已经很努力想队名了",
     "organization": "广东工业大学",
@@ -1933,7 +1933,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23008": {
+  {
     "team_id": "xiangtan23008",
     "name": "三核低效率解题机",
     "organization": "合肥学院",
@@ -1947,7 +1947,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23009": {
+  {
     "team_id": "xiangtan23009",
     "name": "九天揽月",
     "organization": "河北师范大学",
@@ -1961,7 +1961,7 @@
     "girl": 1,
     "xiangtan": 1
   },
-  "xiangtan23010": {
+  {
     "team_id": "xiangtan23010",
     "name": "一眼丁真，鉴定为敲不出来",
     "organization": "湖南大学",
@@ -1975,7 +1975,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23011": {
+  {
     "team_id": "xiangtan23011",
     "name": "AC完回家",
     "organization": "湖南工程学院",
@@ -1989,7 +1989,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23012": {
+  {
     "team_id": "xiangtan23012",
     "name": "罚时两年半",
     "organization": "湖南工学院",
@@ -2003,7 +2003,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23013": {
+  {
     "team_id": "xiangtan23013",
     "name": "从零开始的ACMer生活",
     "organization": "华中科技大学",
@@ -2017,7 +2017,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23014": {
+  {
     "team_id": "xiangtan23014",
     "name": "最后的防线",
     "organization": "吉首大学",
@@ -2031,7 +2031,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23015": {
+  {
     "team_id": "xiangtan23015",
     "name": "求求队长别打王者",
     "organization": "江西财经大学",
@@ -2045,7 +2045,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23016": {
+  {
     "team_id": "xiangtan23016",
     "name": "我的AC代码果然有问题",
     "organization": "江西理工大学南昌校区",
@@ -2059,7 +2059,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23017": {
+  {
     "team_id": "xiangtan23017",
     "name": "随便起个名字吧",
     "organization": "山东师范大学",
@@ -2073,7 +2073,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23018": {
+  {
     "team_id": "xiangtan23018",
     "name": "树上莫队",
     "organization": "四川大学",
@@ -2087,7 +2087,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23019": {
+  {
     "team_id": "xiangtan23019",
     "name": "白色相簿",
     "organization": "西北大学",
@@ -2101,7 +2101,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23020": {
+  {
     "team_id": "xiangtan23020",
     "name": "生如夏花",
     "organization": "西南科技大学",
@@ -2115,7 +2115,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23021": {
+  {
     "team_id": "xiangtan23021",
     "name": "幻想a一题",
     "organization": "湘潭大学",
@@ -2129,7 +2129,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23022": {
+  {
     "team_id": "xiangtan23022",
     "name": "神里大小姐の狗-宵宫の狗-可爱的会长殿下",
     "organization": "长沙理工大学",
@@ -2143,7 +2143,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23023": {
+  {
     "team_id": "xiangtan23023",
     "name": "这个队",
     "organization": "浙大宁波理工学院",
@@ -2157,7 +2157,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23024": {
+  {
     "team_id": "xiangtan23024",
     "name": "猫猫把妖怪抓走了",
     "organization": "浙江师范大学",
@@ -2171,7 +2171,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23025": {
+  {
     "team_id": "xiangtan23025",
     "name": "育英九队",
     "organization": "浙江育英职业技术学院",
@@ -2185,7 +2185,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23026": {
+  {
     "team_id": "xiangtan23026",
     "name": "什么都队",
     "organization": "中国传媒大学",
@@ -2199,7 +2199,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23027": {
+  {
     "team_id": "xiangtan23027",
     "name": "前面的题目以后再来探索吧？",
     "organization": "重庆邮电大学",
@@ -2213,7 +2213,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23028": {
+  {
     "team_id": "xiangtan23028",
     "name": "题题不歪真君",
     "organization": "安徽农业大学",
@@ -2227,7 +2227,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23029": {
+  {
     "team_id": "xiangtan23029",
     "name": "亻尔女子",
     "organization": "北京理工大学",
@@ -2241,7 +2241,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23030": {
+  {
     "team_id": "xiangtan23030",
     "name": "凤木兮队",
     "organization": "成都东软学院",
@@ -2255,7 +2255,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23031": {
+  {
     "team_id": "xiangtan23031",
     "name": "Ctrl",
     "organization": "成都信息工程大学",
@@ -2269,7 +2269,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23032": {
+  {
     "team_id": "xiangtan23032",
     "name": "太阳最红",
     "organization": "福州大学",
@@ -2283,7 +2283,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23033": {
+  {
     "team_id": "xiangtan23033",
     "name": "为白雪染色",
     "organization": "广东东软学院",
@@ -2297,7 +2297,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23034": {
+  {
     "team_id": "xiangtan23034",
     "name": "队长高数2.5",
     "organization": "广东工业大学",
@@ -2311,7 +2311,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23035": {
+  {
     "team_id": "xiangtan23035",
     "name": "与移风易俗者同行",
     "organization": "合肥工业大学宣城校区",
@@ -2325,7 +2325,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23036": {
+  {
     "team_id": "xiangtan23036",
     "name": "想要变成猫猫虫",
     "organization": "合肥学院",
@@ -2339,7 +2339,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23037": {
+  {
     "team_id": "xiangtan23037",
     "name": "物竞选手再化竞",
     "organization": "湖南大学",
@@ -2353,7 +2353,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23038": {
+  {
     "team_id": "xiangtan23038",
     "name": "潇湘学院一队",
     "organization": "湖南科技大学",
@@ -2367,7 +2367,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23039": {
+  {
     "team_id": "xiangtan23039",
     "name": "三重异或和",
     "organization": "湖南理工学院",
@@ -2381,7 +2381,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23040": {
+  {
     "team_id": "xiangtan23040",
     "name": "做的都对",
     "organization": "湖南中医药大学",
@@ -2395,7 +2395,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23041": {
+  {
     "team_id": "xiangtan23041",
     "name": "三菜一汤",
     "organization": "华中科技大学",
@@ -2409,7 +2409,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23042": {
+  {
     "team_id": "xiangtan23042",
     "name": "You-done,we-dine",
     "organization": "华中师范大学",
@@ -2423,7 +2423,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23043": {
+  {
     "team_id": "xiangtan23043",
     "name": "逐梦",
     "organization": "江西财经大学",
@@ -2437,7 +2437,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23044": {
+  {
     "team_id": "xiangtan23044",
     "name": "魔法少女",
     "organization": "江西理工大学南昌校区",
@@ -2451,7 +2451,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23045": {
+  {
     "team_id": "xiangtan23045",
     "name": "练习时长两年半",
     "organization": "山东师范大学",
@@ -2465,7 +2465,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23046": {
+  {
     "team_id": "xiangtan23046",
     "name": "打铁转生，在邀请赛要拿出真本事",
     "organization": "西北大学",
@@ -2479,7 +2479,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23047": {
+  {
     "team_id": "xiangtan23047",
     "name": "挂件*3",
     "organization": "西南科技大学",
@@ -2493,7 +2493,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23048": {
+  {
     "team_id": "xiangtan23048",
     "name": "我将终究顺流入大海",
     "organization": "西南民族大学",
@@ -2507,7 +2507,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23049": {
+  {
     "team_id": "xiangtan23049",
     "name": "orz",
     "organization": "湘潭大学",
@@ -2521,7 +2521,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23050": {
+  {
     "team_id": "xiangtan23050",
     "name": "我心中只有欧阳姐姐一个太阳",
     "organization": "湘潭大学",
@@ -2535,7 +2535,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23051": {
+  {
     "team_id": "xiangtan23051",
     "name": "顾不上队名队",
     "organization": "长沙师范学院",
@@ -2549,7 +2549,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23052": {
+  {
     "team_id": "xiangtan23052",
     "name": "大红大紫",
     "organization": "浙江工商大学",
@@ -2563,7 +2563,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23053": {
+  {
     "team_id": "xiangtan23053",
     "name": "我真6，嘻嘻",
     "organization": "浙江师范大学",
@@ -2577,7 +2577,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23054": {
+  {
     "team_id": "xiangtan23054",
     "name": "育英二队",
     "organization": "浙江育英职业技术学院",
@@ -2591,7 +2591,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23055": {
+  {
     "team_id": "xiangtan23055",
     "name": "酬勤拿牌队",
     "organization": "中国传媒大学",
@@ -2605,7 +2605,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23056": {
+  {
     "team_id": "xiangtan23056",
     "name": "想想",
     "organization": "中南民族大学",
@@ -2619,7 +2619,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23057": {
+  {
     "team_id": "xiangtan23057",
     "name": "希望不要当小丑",
     "organization": "重庆邮电大学",
@@ -2633,7 +2633,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23058": {
+  {
     "team_id": "xiangtan23058",
     "name": "中国·5g·原神·吴京·爱国",
     "organization": "安徽农业大学",
@@ -2647,7 +2647,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23059": {
+  {
     "team_id": "xiangtan23059",
     "name": "会挽雕弓如满月",
     "organization": "北京航空航天大学",
@@ -2661,7 +2661,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23060": {
+  {
     "team_id": "xiangtan23060",
     "name": "秋秋粉丝团",
     "organization": "北京理工大学",
@@ -2675,7 +2675,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23061": {
+  {
     "team_id": "xiangtan23061",
     "name": "CNU白花",
     "organization": "成都东软学院",
@@ -2689,7 +2689,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23062": {
+  {
     "team_id": "xiangtan23062",
     "name": "小信今年能冲上博士点吗",
     "organization": "成都信息工程大学",
@@ -2703,7 +2703,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23063": {
+  {
     "team_id": "xiangtan23063",
     "name": "鹏鹏今天吃什么",
     "organization": "大连理工大学",
@@ -2717,7 +2717,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23064": {
+  {
     "team_id": "xiangtan23064",
     "name": "澄净闪耀",
     "organization": "电子科技大学中山学院",
@@ -2731,7 +2731,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23065": {
+  {
     "team_id": "xiangtan23065",
     "name": "三进制赛博动物园",
     "organization": "福建师范大学",
@@ -2745,7 +2745,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23066": {
+  {
     "team_id": "xiangtan23066",
     "name": "湘潭之旅",
     "organization": "广东东软学院",
@@ -2759,7 +2759,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23067": {
+  {
     "team_id": "xiangtan23067",
     "name": "杭电15队",
     "organization": "杭州电子科技大学",
@@ -2773,7 +2773,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23068": {
+  {
     "team_id": "xiangtan23068",
     "name": "吃饱饱",
     "organization": "合肥工业大学宣城校区",
@@ -2787,7 +2787,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23069": {
+  {
     "team_id": "xiangtan23069",
     "name": "湘潭建筑有限公司",
     "organization": "河北师范大学",
@@ -2801,7 +2801,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23070": {
+  {
     "team_id": "xiangtan23070",
     "name": "承自「往昔」跨越「现在」直至「未来」",
     "organization": "黑龙江大学",
@@ -2815,7 +2815,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23071": {
+  {
     "team_id": "xiangtan23071",
     "name": "学土木的炼金程序员",
     "organization": "湖南大学",
@@ -2829,7 +2829,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23072": {
+  {
     "team_id": "xiangtan23072",
     "name": "湖南科大六队",
     "organization": "湖南科技大学",
@@ -2843,7 +2843,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23073": {
+  {
     "team_id": "xiangtan23073",
     "name": "流泪猫猫头",
     "organization": "湖南理工学院",
@@ -2857,7 +2857,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23074": {
+  {
     "team_id": "xiangtan23074",
     "name": "师大之鯹",
     "organization": "湖南师范大学",
@@ -2871,7 +2871,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23075": {
+  {
     "team_id": "xiangtan23075",
     "name": "触底反弹",
     "organization": "湖南中医药大学",
@@ -2885,7 +2885,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23076": {
+  {
     "team_id": "xiangtan23076",
     "name": "猪猪队",
     "organization": "吉首大学",
@@ -2899,7 +2899,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23077": {
+  {
     "team_id": "xiangtan23077",
     "name": "大家觉得我说的对不队",
     "organization": "江西财经大学",
@@ -2913,7 +2913,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23078": {
+  {
     "team_id": "xiangtan23078",
     "name": "在ACM里寻求AC是否搞错了什么",
     "organization": "江西理工大学南昌校区",
@@ -2927,7 +2927,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23079": {
+  {
     "team_id": "xiangtan23079",
     "name": "广告位招租",
     "organization": "南昌理工学院",
@@ -2941,7 +2941,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23080": {
+  {
     "team_id": "xiangtan23080",
     "name": "失踪的天鹅之考研怎么你了",
     "organization": "曲阜师范大学",
@@ -2955,7 +2955,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23081": {
+  {
     "team_id": "xiangtan23081",
     "name": "队长没过四级",
     "organization": "山东师范大学",
@@ -2969,7 +2969,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23082": {
+  {
     "team_id": "xiangtan23082",
     "name": "随便搞搞都对",
     "organization": "韶关学院",
@@ -2983,7 +2983,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23083": {
+  {
     "team_id": "xiangtan23083",
     "name": "放学后茶会",
     "organization": "武汉大学",
@@ -2997,7 +2997,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23084": {
+  {
     "team_id": "xiangtan23084",
     "name": "摸鱼读假题写bug演队友",
     "organization": "西北大学",
@@ -3011,7 +3011,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23085": {
+  {
     "team_id": "xiangtan23085",
     "name": "admin'-or-1=1#",
     "organization": "西南石油大学",
@@ -3025,7 +3025,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23086": {
+  {
     "team_id": "xiangtan23086",
     "name": "好困啊可以睡觉吗",
     "organization": "湘潭大学",
@@ -3039,7 +3039,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23087": {
+  {
     "team_id": "xiangtan23087",
     "name": "谢堡王",
     "organization": "湘潭大学",
@@ -3053,7 +3053,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23088": {
+  {
     "team_id": "xiangtan23088",
     "name": "豪强之枫",
     "organization": "长沙师范学院",
@@ -3067,7 +3067,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23089": {
+  {
     "team_id": "xiangtan23089",
     "name": "胖头切丁味道更佳",
     "organization": "浙江中医药大学",
@@ -3081,7 +3081,7 @@
     "girl": 1,
     "xiangtan": 1
   },
-  "xiangtan23090": {
+  {
     "team_id": "xiangtan23090",
     "name": "550CUC",
     "organization": "中国传媒大学",
@@ -3095,7 +3095,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23091": {
+  {
     "team_id": "xiangtan23091",
     "name": "跃鳞",
     "organization": "中南民族大学",
@@ -3109,7 +3109,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23092": {
+  {
     "team_id": "xiangtan23092",
     "name": "xyz",
     "organization": "中原工学院",
@@ -3123,7 +3123,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23093": {
+  {
     "team_id": "xiangtan23093",
     "name": "转生成为华为手机并拍出金牌",
     "organization": "重庆邮电大学",
@@ -3137,7 +3137,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23094": {
+  {
     "team_id": "xiangtan23094",
     "name": "欺负獭没有数理基础？",
     "organization": "北京航空航天大学",
@@ -3151,7 +3151,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23095": {
+  {
     "team_id": "xiangtan23095",
     "name": "猫猫狗狗",
     "organization": "北京理工大学珠海学院",
@@ -3165,7 +3165,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23096": {
+  {
     "team_id": "xiangtan23096",
     "name": "三人一狗豪劫西西米托",
     "organization": "成都东软学院",
@@ -3179,7 +3179,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23097": {
+  {
     "team_id": "xiangtan23097",
     "name": "倚楼听雨",
     "organization": "电子科技大学中山学院",
@@ -3193,7 +3193,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23098": {
+  {
     "team_id": "xiangtan23098",
     "name": "杰尼龟快使用火箭头槌",
     "organization": "福建师范大学",
@@ -3207,7 +3207,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23099": {
+  {
     "team_id": "xiangtan23099",
     "name": "这不是BUG，是特性",
     "organization": "广东工业大学",
@@ -3221,7 +3221,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23100": {
+  {
     "team_id": "xiangtan23100",
     "name": "湘潭一日游",
     "organization": "广西大学",
@@ -3235,7 +3235,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23101": {
+  {
     "team_id": "xiangtan23101",
     "name": "宝宝巴士",
     "organization": "广西科技大学",
@@ -3249,7 +3249,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23102": {
+  {
     "team_id": "xiangtan23102",
     "name": "转生成为邦德公主当阿尼亚小姐的狗",
     "organization": "河北师范大学",
@@ -3263,7 +3263,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23103": {
+  {
     "team_id": "xiangtan23103",
     "name": "均高一米八",
     "organization": "黑龙江大学",
@@ -3277,7 +3277,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23104": {
+  {
     "team_id": "xiangtan23104",
     "name": "与夜色共眠",
     "organization": "衡阳师范学院",
@@ -3291,7 +3291,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23105": {
+  {
     "team_id": "xiangtan23105",
     "name": "湖南科大五队",
     "organization": "湖南科技大学",
@@ -3305,7 +3305,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23106": {
+  {
     "team_id": "xiangtan23106",
     "name": "师大之腥",
     "organization": "湖南师范大学",
@@ -3319,7 +3319,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23107": {
+  {
     "team_id": "xiangtan23107",
     "name": "苦练两个月",
     "organization": "湖南应用技术学院",
@@ -3333,7 +3333,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23108": {
+  {
     "team_id": "xiangtan23108",
     "name": "星光爆裂",
     "organization": "华北理工大学",
@@ -3347,7 +3347,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23109": {
+  {
     "team_id": "xiangtan23109",
     "name": "我不吃饭我要吃麦当劳",
     "organization": "吉首大学",
@@ -3361,7 +3361,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23110": {
+  {
     "team_id": "xiangtan23110",
     "name": "青春打铁少年不会梦见ac学姐",
     "organization": "江西理工大学南昌校区",
@@ -3375,7 +3375,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23111": {
+  {
     "team_id": "xiangtan23111",
     "name": "SZU_Nash",
     "organization": "深圳大学",
@@ -3389,7 +3389,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23112": {
+  {
     "team_id": "xiangtan23112",
     "name": "镜花水月",
     "organization": "沈阳航空航天大学",
@@ -3403,7 +3403,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23113": {
+  {
     "team_id": "xiangtan23113",
     "name": "就柿火红猕猴果队",
     "organization": "同济大学",
@@ -3417,7 +3417,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23114": {
+  {
     "team_id": "xiangtan23114",
     "name": "翘训练队",
     "organization": "湘潭大学",
@@ -3431,7 +3431,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23115": {
+  {
     "team_id": "xiangtan23115",
     "name": "是真的不会起队名",
     "organization": "湘潭大学",
@@ -3445,7 +3445,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23116": {
+  {
     "team_id": "xiangtan23116",
     "name": "特立笃行队",
     "organization": "长沙师范学院",
@@ -3459,7 +3459,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23117": {
+  {
     "team_id": "xiangtan23117",
     "name": "鹅队",
     "organization": "浙江财经大学",
@@ -3473,7 +3473,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23118": {
+  {
     "team_id": "xiangtan23118",
     "name": "学林街保安队",
     "organization": "浙江理工大学",
@@ -3487,7 +3487,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23119": {
+  {
     "team_id": "xiangtan23119",
     "name": "三号楼说猫德是伪科学",
     "organization": "浙江师范大学",
@@ -3501,7 +3501,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23120": {
+  {
     "team_id": "xiangtan23120",
     "name": "三只小白杨",
     "organization": "中国传媒大学",
@@ -3515,7 +3515,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23121": {
+  {
     "team_id": "xiangtan23121",
     "name": "后会有期",
     "organization": "安阳工学院",
@@ -3529,7 +3529,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23122": {
+  {
     "team_id": "xiangtan23122",
     "name": "翻译鬼才",
     "organization": "北京理工大学珠海学院",
@@ -3543,7 +3543,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23123": {
+  {
     "team_id": "xiangtan23123",
     "name": "我们都有光明的未来对不队",
     "organization": "福建师范大学",
@@ -3557,7 +3557,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23124": {
+  {
     "team_id": "xiangtan23124",
     "name": "队名太长以至于TLE",
     "organization": "广西大学",
@@ -3571,7 +3571,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23125": {
+  {
     "team_id": "xiangtan23125",
     "name": "深藏bule队",
     "organization": "贵州民族大学",
@@ -3585,7 +3585,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23126": {
+  {
     "team_id": "xiangtan23126",
     "name": "NUDT_4队",
     "organization": "国防科技大学",
@@ -3599,7 +3599,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23127": {
+  {
     "team_id": "xiangtan23127",
     "name": "黎明之光",
     "organization": "河北师范大学",
@@ -3613,7 +3613,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23128": {
+  {
     "team_id": "xiangtan23128",
     "name": "拭暗晨曦",
     "organization": "黑龙江大学",
@@ -3627,7 +3627,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23129": {
+  {
     "team_id": "xiangtan23129",
     "name": "初生的意志",
     "organization": "湖南第一师范学院",
@@ -3641,7 +3641,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23130": {
+  {
     "team_id": "xiangtan23130",
     "name": "湖南科大四队",
     "organization": "湖南科技大学",
@@ -3655,7 +3655,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23131": {
+  {
     "team_id": "xiangtan23131",
     "name": "交之前再看一眼题",
     "organization": "湖南农业大学",
@@ -3669,7 +3669,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23132": {
+  {
     "team_id": "xiangtan23132",
     "name": "奇迹的平A",
     "organization": "湖南涉外经济学院",
@@ -3683,7 +3683,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23133": {
+  {
     "team_id": "xiangtan23133",
     "name": "师大之觲",
     "organization": "湖南师范大学",
@@ -3697,7 +3697,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23134": {
+  {
     "team_id": "xiangtan23134",
     "name": "狂点技能树",
     "organization": "湖南文理学院",
@@ -3711,7 +3711,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23135": {
+  {
     "team_id": "xiangtan23135",
     "name": "~~回来吧~~-刺激线下赛",
     "organization": "华南师范大学",
@@ -3725,7 +3725,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23136": {
+  {
     "team_id": "xiangtan23136",
     "name": "怀化学院3队",
     "organization": "怀化学院",
@@ -3739,7 +3739,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23137": {
+  {
     "team_id": "xiangtan23137",
     "name": "a-code-with-meaningless",
     "organization": "集美大学",
@@ -3753,7 +3753,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23138": {
+  {
     "team_id": "xiangtan23138",
     "name": "届不到waku的kaka",
     "organization": "闽南师范大学",
@@ -3767,7 +3767,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23139": {
+  {
     "team_id": "xiangtan23139",
     "name": "其实我是起名废物",
     "organization": "天津工业大学",
@@ -3781,7 +3781,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23140": {
+  {
     "team_id": "xiangtan23140",
     "name": "无火的余灰",
     "organization": "武汉大学",
@@ -3795,7 +3795,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23141": {
+  {
     "team_id": "xiangtan23141",
     "name": "有福同享有难退队二周目",
     "organization": "武汉理工大学",
@@ -3809,7 +3809,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23142": {
+  {
     "team_id": "xiangtan23142",
     "name": "躺平咸鱼队",
     "organization": "湘潭大学",
@@ -3823,7 +3823,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23143": {
+  {
     "team_id": "xiangtan23143",
     "name": "油条我只吃老油条",
     "organization": "湘潭大学",
@@ -3837,7 +3837,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23144": {
+  {
     "team_id": "xiangtan23144",
     "name": "寒星孤月",
     "organization": "浙江财经大学",
@@ -3851,7 +3851,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23145": {
+  {
     "team_id": "xiangtan23145",
     "name": "ZJUT11",
     "organization": "浙江工业大学",
@@ -3865,7 +3865,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23146": {
+  {
     "team_id": "xiangtan23146",
     "name": "日不落的夏天",
     "organization": "浙江理工大学",
@@ -3879,7 +3879,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23147": {
+  {
     "team_id": "xiangtan23147",
     "name": "这个彬彬交题超勇的",
     "organization": "浙江农林大学",
@@ -3893,7 +3893,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23148": {
+  {
     "team_id": "xiangtan23148",
     "name": "永昼",
     "organization": "浙江农林大学暨阳学院",
@@ -3907,7 +3907,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23149": {
+  {
     "team_id": "xiangtan23149",
     "name": "弈？悟！",
     "organization": "浙江育英职业技术学院",
@@ -3921,7 +3921,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23150": {
+  {
     "team_id": "xiangtan23150",
     "name": "等我想一下",
     "organization": "中南民族大学",
@@ -3935,7 +3935,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23151": {
+  {
     "team_id": "xiangtan23151",
     "name": "快乐",
     "organization": "安徽工业大学",
@@ -3949,7 +3949,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23152": {
+  {
     "team_id": "xiangtan23152",
     "name": "星火燎原",
     "organization": "北京理工大学珠海学院",
@@ -3963,7 +3963,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23153": {
+  {
     "team_id": "xiangtan23153",
     "name": "九转雪豹",
     "organization": "成都东软学院",
@@ -3977,7 +3977,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23154": {
+  {
     "team_id": "xiangtan23154",
     "name": "夜幕降临",
     "organization": "福建师范大学",
@@ -3991,7 +3991,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23155": {
+  {
     "team_id": "xiangtan23155",
     "name": "那叫一个地地地地地道道",
     "organization": "广西大学",
@@ -4005,7 +4005,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23156": {
+  {
     "team_id": "xiangtan23156",
     "name": "甩尾叮叮车",
     "organization": "广西科技大学",
@@ -4019,7 +4019,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23157": {
+  {
     "team_id": "xiangtan23157",
     "name": "模仿游戏",
     "organization": "贵州民族大学",
@@ -4033,7 +4033,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23158": {
+  {
     "team_id": "xiangtan23158",
     "name": "NUDT_3队",
     "organization": "国防科技大学",
@@ -4047,7 +4047,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23159": {
+  {
     "team_id": "xiangtan23159",
     "name": "与亲爱的你直至世界尽头",
     "organization": "黑龙江大学",
@@ -4061,7 +4061,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23160": {
+  {
     "team_id": "xiangtan23160",
     "name": "加油",
     "organization": "湖南第一师范学院",
@@ -4075,7 +4075,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23161": {
+  {
     "team_id": "xiangtan23161",
     "name": "不拿奖不改名",
     "organization": "湖南工业大学",
@@ -4089,7 +4089,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23162": {
+  {
     "team_id": "xiangtan23162",
     "name": "湖南科大三队",
     "organization": "湖南科技大学",
@@ -4103,7 +4103,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23163": {
+  {
     "team_id": "xiangtan23163",
     "name": "一天睡十二个小时",
     "organization": "湖南农业大学",
@@ -4117,7 +4117,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23164": {
+  {
     "team_id": "xiangtan23164",
     "name": "那年我双手插兜",
     "organization": "湖南涉外经济学院",
@@ -4131,7 +4131,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23165": {
+  {
     "team_id": "xiangtan23165",
     "name": "罚时战神",
     "organization": "湖南文理学院",
@@ -4145,7 +4145,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23166": {
+  {
     "team_id": "xiangtan23166",
     "name": "虾虎遨游直至AC",
     "organization": "华南师范大学",
@@ -4159,7 +4159,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23167": {
+  {
     "team_id": "xiangtan23167",
     "name": "不说再见",
     "organization": "华中科技大学",
@@ -4173,7 +4173,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23168": {
+  {
     "team_id": "xiangtan23168",
     "name": "怀化学院2队",
     "organization": "怀化学院",
@@ -4187,7 +4187,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23169": {
+  {
     "team_id": "xiangtan23169",
     "name": "for++",
     "organization": "集美大学",
@@ -4201,7 +4201,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23170": {
+  {
     "team_id": "xiangtan23170",
     "name": "黎明前线",
     "organization": "上海交通大学",
@@ -4215,7 +4215,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23171": {
+  {
     "team_id": "xiangtan23171",
     "name": "SZU-Tarjan",
     "organization": "深圳大学",
@@ -4229,7 +4229,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23172": {
+  {
     "team_id": "xiangtan23172",
     "name": "---基本无敌",
     "organization": "四川大学",
@@ -4243,7 +4243,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23173": {
+  {
     "team_id": "xiangtan23173",
     "name": "队友乱杀我嘎嘎",
     "organization": "天津工业大学",
@@ -4257,7 +4257,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23174": {
+  {
     "team_id": "xiangtan23174",
     "name": "小楼昨夜又东风",
     "organization": "武汉大学",
@@ -4271,7 +4271,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23175": {
+  {
     "team_id": "xiangtan23175",
     "name": "三鲜面",
     "organization": "武汉理工大学",
@@ -4285,7 +4285,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23176": {
+  {
     "team_id": "xiangtan23176",
     "name": "湘南学院队",
     "organization": "湘南学院",
@@ -4299,7 +4299,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23177": {
+  {
     "team_id": "xiangtan23177",
     "name": "翻斗花园501号",
     "organization": "湘潭大学",
@@ -4313,7 +4313,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23178": {
+  {
     "team_id": "xiangtan23178",
     "name": "XuT",
     "organization": "湘潭大学",
@@ -4327,7 +4327,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23179": {
+  {
     "team_id": "xiangtan23179",
     "name": "天佑狙神，常胜利，沐荣光",
     "organization": "长安大学",
@@ -4341,7 +4341,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23180": {
+  {
     "team_id": "xiangtan23180",
     "name": "要把题写对",
     "organization": "长春工业大学",
@@ -4355,7 +4355,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23181": {
+  {
     "team_id": "xiangtan23181",
     "name": "请刘神再压力我一次",
     "organization": "长沙理工大学",
@@ -4369,7 +4369,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23182": {
+  {
     "team_id": "xiangtan23182",
     "name": "bug找不队",
     "organization": "长沙师范学院",
@@ -4383,7 +4383,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23183": {
+  {
     "team_id": "xiangtan23183",
     "name": "爱喝牛奶的猫猫酱",
     "organization": "浙江工业大学",
@@ -4397,7 +4397,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23184": {
+  {
     "team_id": "xiangtan23184",
     "name": "走，我们去吃西蜀毛哥",
     "organization": "浙江理工大学",
@@ -4411,7 +4411,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23185": {
+  {
     "team_id": "xiangtan23185",
     "name": "现在是AC时间",
     "organization": "浙江农林大学暨阳学院",
@@ -4425,7 +4425,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23186": {
+  {
     "team_id": "xiangtan23186",
     "name": "我们终将重逢",
     "organization": "中南民族大学",
@@ -4439,7 +4439,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23187": {
+  {
     "team_id": "xiangtan23187",
     "name": "重生",
     "organization": "安徽工业大学",
@@ -4453,7 +4453,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23188": {
+  {
     "team_id": "xiangtan23188",
     "name": "福理重磅出击队",
     "organization": "福建工程学院",
@@ -4467,7 +4467,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23189": {
+  {
     "team_id": "xiangtan23189",
     "name": "代码敲不队",
     "organization": "广东工业大学",
@@ -4481,7 +4481,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23190": {
+  {
     "team_id": "xiangtan23190",
     "name": "慢慢变强",
     "organization": "广西大学",
@@ -4495,7 +4495,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23191": {
+  {
     "team_id": "xiangtan23191",
     "name": "NUDT_2队",
     "organization": "国防科技大学",
@@ -4509,7 +4509,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23192": {
+  {
     "team_id": "xiangtan23192",
     "name": "他出了一把名刀司命",
     "organization": "湖南城市学院",
@@ -4523,7 +4523,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23193": {
+  {
     "team_id": "xiangtan23193",
     "name": "不要指望我们队",
     "organization": "湖南工程学院",
@@ -4537,7 +4537,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23194": {
+  {
     "team_id": "xiangtan23194",
     "name": "hut打铁组",
     "organization": "湖南工业大学",
@@ -4551,7 +4551,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23195": {
+  {
     "team_id": "xiangtan23195",
     "name": "湖南科大二队",
     "organization": "湖南科技大学",
@@ -4565,7 +4565,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23196": {
+  {
     "team_id": "xiangtan23196",
     "name": "fufu-能有什么坏心眼呢",
     "organization": "华中科技大学",
@@ -4579,7 +4579,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23197": {
+  {
     "team_id": "xiangtan23197",
     "name": "无人怜爱的少女",
     "organization": "华中师范大学",
@@ -4593,7 +4593,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23198": {
+  {
     "team_id": "xiangtan23198",
     "name": "很菜但超级想拿个铜",
     "organization": "吉首大学",
@@ -4607,7 +4607,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23199": {
+  {
     "team_id": "xiangtan23199",
     "name": "抱歉，这没有集美",
     "organization": "集美大学",
@@ -4621,7 +4621,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23200": {
+  {
     "team_id": "xiangtan23200",
     "name": "神之一手",
     "organization": "江西财经大学",
@@ -4635,7 +4635,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23201": {
+  {
     "team_id": "xiangtan23201",
     "name": "can-can-need!!!",
     "organization": "南阳理工学院",
@@ -4649,7 +4649,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23202": {
+  {
     "team_id": "xiangtan23202",
     "name": "HunEWSi",
     "organization": "厦门大学嘉庚学院",
@@ -4663,7 +4663,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23203": {
+  {
     "team_id": "xiangtan23203",
     "name": "三只小陈·CF-1200·赌D签到·大物实验",
     "organization": "深圳大学",
@@ -4677,7 +4677,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23204": {
+  {
     "team_id": "xiangtan23204",
     "name": "丁真",
     "organization": "沈阳理工大学",
@@ -4691,7 +4691,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23205": {
+  {
     "team_id": "xiangtan23205",
     "name": "铁匠",
     "organization": "天津工业大学",
@@ -4705,7 +4705,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23206": {
+  {
     "team_id": "xiangtan23206",
     "name": "三个傻瓜",
     "organization": "武汉大学",
@@ -4719,7 +4719,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23207": {
+  {
     "team_id": "xiangtan23207",
     "name": "再睡五分钟",
     "organization": "武汉理工大学",
@@ -4733,7 +4733,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23208": {
+  {
     "team_id": "xiangtan23208",
     "name": "三只小猪",
     "organization": "湘潭大学",
@@ -4747,7 +4747,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23209": {
+  {
     "team_id": "xiangtan23209",
     "name": "临江仙",
     "organization": "长春工业大学",
@@ -4761,7 +4761,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23210": {
+  {
     "team_id": "xiangtan23210",
     "name": "最后一舞",
     "organization": "长沙学院",
@@ -4775,7 +4775,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23211": {
+  {
     "team_id": "xiangtan23211",
     "name": "这次打完真戒网瘾了",
     "organization": "浙江财经大学",
@@ -4789,7 +4789,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23212": {
+  {
     "team_id": "xiangtan23212",
     "name": "青春期chatATP不会梦到赛时AC",
     "organization": "浙江工商大学",
@@ -4803,7 +4803,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23213": {
+  {
     "team_id": "xiangtan23213",
     "name": "Never-just-talk",
     "organization": "重庆科技学院",
@@ -4817,7 +4817,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23214": {
+  {
     "team_id": "xiangtan23214",
     "name": "刘华强买瓜",
     "organization": "安徽工程大学",
@@ -4831,7 +4831,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23215": {
+  {
     "team_id": "xiangtan23215",
     "name": "想抱住前面学长的大腿",
     "organization": "北京航空航天大学",
@@ -4845,7 +4845,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23216": {
+  {
     "team_id": "xiangtan23216",
     "name": "红绿色盲会不会读红鲤鱼与绿鲤鱼与驴?",
     "organization": "常熟理工学院",
@@ -4859,7 +4859,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23217": {
+  {
     "team_id": "xiangtan23217",
     "name": "落日沉溺于橘色的海，晚风沦o陷于赤诚的爱",
     "organization": "福建工程学院",
@@ -4873,7 +4873,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23218": {
+  {
     "team_id": "xiangtan23218",
     "name": "菜鸟分割线",
     "organization": "广东工业大学",
@@ -4887,7 +4887,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23219": {
+  {
     "team_id": "xiangtan23219",
     "name": "青铜时代号",
     "organization": "国防科技大学",
@@ -4901,7 +4901,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23220": {
+  {
     "team_id": "xiangtan23220",
     "name": "玫瑰常开警告常在",
     "organization": "韩山师范学院",
@@ -4915,7 +4915,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23221": {
+  {
     "team_id": "xiangtan23221",
     "name": "杭电7队",
     "organization": "杭州电子科技大学",
@@ -4929,7 +4929,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23222": {
+  {
     "team_id": "xiangtan23222",
     "name": "随便玩玩",
     "organization": "合肥工业大学宣城校区",
@@ -4943,7 +4943,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23223": {
+  {
     "team_id": "xiangtan23223",
     "name": "GPT无法生成队名",
     "organization": "合肥学院",
@@ -4957,7 +4957,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23224": {
+  {
     "team_id": "xiangtan23224",
     "name": "相信珂学",
     "organization": "湖南大学",
@@ -4971,7 +4971,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23225": {
+  {
     "team_id": "xiangtan23225",
     "name": "深藏blue队",
     "organization": "湖南工程学院",
@@ -4985,7 +4985,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23226": {
+  {
     "team_id": "xiangtan23226",
     "name": "虚无之色",
     "organization": "湖南工业大学",
@@ -4999,7 +4999,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23227": {
+  {
     "team_id": "xiangtan23227",
     "name": "湖南科大一队",
     "organization": "湖南科技大学",
@@ -5013,7 +5013,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23228": {
+  {
     "team_id": "xiangtan23228",
     "name": "怀化学院1队",
     "organization": "怀化学院",
@@ -5027,7 +5027,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23229": {
+  {
     "team_id": "xiangtan23229",
     "name": "大国铁匠",
     "organization": "井冈山大学",
@@ -5041,7 +5041,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23230": {
+  {
     "team_id": "xiangtan23230",
     "name": "濠子是这样的",
     "organization": "南昌大学",
@@ -5055,7 +5055,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23231": {
+  {
     "team_id": "xiangtan23231",
     "name": "事到如今，先吃饭吧",
     "organization": "南阳理工学院",
@@ -5069,7 +5069,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23232": {
+  {
     "team_id": "xiangtan23232",
     "name": "都几把哥们儿",
     "organization": "厦门大学",
@@ -5083,7 +5083,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23233": {
+  {
     "team_id": "xiangtan23233",
     "name": "小油菜啊对对队",
     "organization": "厦门大学嘉庚学院",
@@ -5097,7 +5097,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23234": {
+  {
     "team_id": "xiangtan23234",
     "name": "二原组",
     "organization": "山东师范大学",
@@ -5111,7 +5111,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23235": {
+  {
     "team_id": "xiangtan23235",
     "name": "放课后Acm时间",
     "organization": "山西大学",
@@ -5125,7 +5125,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23236": {
+  {
     "team_id": "xiangtan23236",
     "name": "梦想天生",
     "organization": "上海交通大学",
@@ -5139,7 +5139,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23237": {
+  {
     "team_id": "xiangtan23237",
     "name": "wawa队",
     "organization": "天津工业大学",
@@ -5153,7 +5153,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23238": {
+  {
     "team_id": "xiangtan23238",
     "name": "你敢跟他作队",
     "organization": "武汉理工大学",
@@ -5167,7 +5167,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23239": {
+  {
     "team_id": "xiangtan23239",
     "name": "三个兔子找不到布朗尼",
     "organization": "西南科技大学",
@@ -5181,7 +5181,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23240": {
+  {
     "team_id": "xiangtan23240",
     "name": "我的膜法会把你撕成抱歉",
     "organization": "西南石油大学",
@@ -5195,7 +5195,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23241": {
+  {
     "team_id": "xiangtan23241",
     "name": "可喵喵化猫猫自动机",
     "organization": "湘潭大学",
@@ -5209,7 +5209,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23243": {
+  {
     "team_id": "xiangtan23243",
     "name": "干饭第一名",
     "organization": "长沙理工大学",
@@ -5223,7 +5223,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23244": {
+  {
     "team_id": "xiangtan23244",
     "name": "AC是你的谎言",
     "organization": "长沙学院",
@@ -5237,7 +5237,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23245": {
+  {
     "team_id": "xiangtan23245",
     "name": "洛杉矶圣徒",
     "organization": "浙大宁波理工学院",
@@ -5251,7 +5251,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23246": {
+  {
     "team_id": "xiangtan23246",
     "name": "苹果蕉",
     "organization": "浙江工商大学",
@@ -5265,7 +5265,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23247": {
+  {
     "team_id": "xiangtan23247",
     "name": "育英三队",
     "organization": "浙江育英职业技术学院",
@@ -5279,7 +5279,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23248": {
+  {
     "team_id": "xiangtan23248",
     "name": "ZCMU-今天喝黄桃果霸",
     "organization": "浙江中医药大学",
@@ -5293,7 +5293,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23249": {
+  {
     "team_id": "xiangtan23249",
     "name": "邮鱼二番队",
     "organization": "重庆邮电大学",
@@ -5307,7 +5307,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23250": {
+  {
     "team_id": "xiangtan23250",
     "name": "阿夸滑滑蛋喝冰红茶",
     "organization": "北京理工大学",
@@ -5321,7 +5321,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23251": {
+  {
     "team_id": "xiangtan23251",
     "name": "王国之泪真是太好玩了",
     "organization": "常熟理工学院",
@@ -5335,7 +5335,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23252": {
+  {
     "team_id": "xiangtan23252",
     "name": "请把你的呼吸调成手动挡",
     "organization": "东北农业大学",
@@ -5349,7 +5349,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23253": {
+  {
     "team_id": "xiangtan23253",
     "name": "天狼星",
     "organization": "广东东软学院",
@@ -5363,7 +5363,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23254": {
+  {
     "team_id": "xiangtan23254",
     "name": "旅行者",
     "organization": "广东工业大学",
@@ -5377,7 +5377,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23255": {
+  {
     "team_id": "xiangtan23255",
     "name": "庆哥带头冲锋!",
     "organization": "合肥学院",
@@ -5391,7 +5391,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23256": {
+  {
     "team_id": "xiangtan23256",
     "name": "玩家就是玩",
     "organization": "河南科技大学",
@@ -5405,7 +5405,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23257": {
+  {
     "team_id": "xiangtan23257",
     "name": "拜克候姆",
     "organization": "河南师范大学",
@@ -5419,7 +5419,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23258": {
+  {
     "team_id": "xiangtan23258",
     "name": "无留意",
     "organization": "衡阳师范学院",
@@ -5433,7 +5433,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23259": {
+  {
     "team_id": "xiangtan23259",
     "name": "放学后写代码",
     "organization": "湖南工程学院",
@@ -5447,7 +5447,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23260": {
+  {
     "team_id": "xiangtan23260",
     "name": "被队长抛弃的孩子们",
     "organization": "湖南工学院",
@@ -5461,7 +5461,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23261": {
+  {
     "team_id": "xiangtan23261",
     "name": "我有一个小秘密",
     "organization": "湖南工业大学",
@@ -5475,7 +5475,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23262": {
+  {
     "team_id": "xiangtan23262",
     "name": "怀化学院4队",
     "organization": "怀化学院",
@@ -5489,7 +5489,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23263": {
+  {
     "team_id": "xiangtan23263",
     "name": "桃李不言",
     "organization": "南昌理工学院",
@@ -5503,7 +5503,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23264": {
+  {
     "team_id": "xiangtan23264",
     "name": "点分治分点",
     "organization": "厦门大学",
@@ -5517,7 +5517,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23265": {
+  {
     "team_id": "xiangtan23265",
     "name": "登神长阶",
     "organization": "同济大学",
@@ -5531,7 +5531,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23266": {
+  {
     "team_id": "xiangtan23266",
     "name": "劲脆铁牌堡",
     "organization": "西南科技大学",
@@ -5545,7 +5545,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23267": {
+  {
     "team_id": "xiangtan23267",
     "name": "逆战",
     "organization": "湘潭大学",
@@ -5559,7 +5559,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23268": {
+  {
     "team_id": "xiangtan23268",
     "name": "勇夺优胜奖",
     "organization": "长沙理工大学",
@@ -5573,7 +5573,7 @@
     "girl": 0,
     "xiangtan": 1
   },
-  "xiangtan23269": {
+  {
     "team_id": "xiangtan23269",
     "name": "芳芳没对象这样真的不队",
     "organization": "中南民族大学",
@@ -5587,4 +5587,4 @@
     "girl": 0,
     "xiangtan": 1
   }
-}
+]

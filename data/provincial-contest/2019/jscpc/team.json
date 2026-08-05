@@ -1,5 +1,6 @@
-{
-  "team:132": {
+[
+  {
+    "team_id": "team:132",
     "unofficial": 1,
     "organization": "南京大学",
     "badge": {
@@ -7,7 +8,8 @@
     },
     "name": "Legilimens天下第一!"
   },
-  "team:108": {
+  {
+    "team_id": "team:108",
     "official": 1,
     "organization": "东南大学",
     "badge": {
@@ -15,7 +17,8 @@
     },
     "name": "艾斯易悠-都行"
   },
-  "team:6": {
+  {
+    "team_id": "team:6",
     "unofficial": 1,
     "organization": "浙江工业大学",
     "badge": {
@@ -23,7 +26,8 @@
     },
     "name": "眼大鸟"
   },
-  "team:133": {
+  {
+    "team_id": "team:133",
     "unofficial": 1,
     "organization": "南京大学",
     "badge": {
@@ -31,7 +35,8 @@
     },
     "name": "StayReal"
   },
-  "team:96": {
+  {
+    "team_id": "team:96",
     "official": 1,
     "organization": "南京大学",
     "badge": {
@@ -39,7 +44,8 @@
     },
     "name": "Calabash!"
   },
-  "team:13": {
+  {
+    "team_id": "team:13",
     "official": 1,
     "organization": "中国矿业大学",
     "badge": {
@@ -47,7 +53,8 @@
     },
     "name": "黄金矿工"
   },
-  "team:57": {
+  {
+    "team_id": "team:57",
     "official": 1,
     "organization": "南京航空航天大学",
     "badge": {
@@ -55,7 +62,8 @@
     },
     "name": "我们是没有感情的ICPC杀手"
   },
-  "team:109": {
+  {
+    "team_id": "team:109",
     "official": 1,
     "organization": "苏州大学",
     "badge": {
@@ -63,7 +71,8 @@
     },
     "name": "wa的人的微博找到了"
   },
-  "team:111": {
+  {
+    "team_id": "team:111",
     "official": 1,
     "organization": "南京邮电大学",
     "badge": {
@@ -71,7 +80,8 @@
     },
     "name": "从零开始"
   },
-  "team:124": {
+  {
+    "team_id": "team:124",
     "official": 1,
     "organization": "南京大学",
     "badge": {
@@ -79,7 +89,8 @@
     },
     "name": "鸽了比赛去考试"
   },
-  "team:134": {
+  {
+    "team_id": "team:134",
     "official": 1,
     "organization": "南京理工大学",
     "badge": {
@@ -87,7 +98,8 @@
     },
     "name": "跃迁引擎"
   },
-  "team:141": {
+  {
+    "team_id": "team:141",
     "official": 1,
     "organization": "南京理工大学",
     "badge": {
@@ -95,7 +107,8 @@
     },
     "name": "这题不过吃键盘"
   },
-  "team:98": {
+  {
+    "team_id": "team:98",
     "official": 1,
     "organization": "南京大学",
     "badge": {
@@ -103,7 +116,8 @@
     },
     "name": "啦啦啦"
   },
-  "team:55": {
+  {
+    "team_id": "team:55",
     "official": 1,
     "organization": "南京航空航天大学",
     "badge": {
@@ -111,7 +125,8 @@
     },
     "name": "起风了"
   },
-  "team:125": {
+  {
+    "team_id": "team:125",
     "official": 1,
     "organization": "南京大学",
     "badge": {
@@ -119,7 +134,8 @@
     },
     "name": "我是火车王"
   },
-  "team:47": {
+  {
+    "team_id": "team:47",
     "official": 1,
     "organization": "河海大学",
     "badge": {
@@ -127,7 +143,8 @@
     },
     "name": "我永远喜欢由比滨结衣"
   },
-  "team:106": {
+  {
+    "team_id": "team:106",
     "official": 1,
     "organization": "东南大学",
     "badge": {
@@ -135,7 +152,8 @@
     },
     "name": "喜欢唱，跳，rap，写代码"
   },
-  "team:152": {
+  {
+    "team_id": "team:152",
     "unofficial": 1,
     "organization": "南京邮电大学",
     "badge": {
@@ -143,7 +161,8 @@
     },
     "name": "拿铁侠"
   },
-  "team:28": {
+  {
+    "team_id": "team:28",
     "official": 1,
     "organization": "南京林业大学",
     "badge": {
@@ -151,7 +170,8 @@
     },
     "name": "求工作+934591874"
   },
-  "team:103": {
+  {
+    "team_id": "team:103",
     "official": 1,
     "organization": "苏州大学",
     "badge": {
@@ -159,7 +179,8 @@
     },
     "name": "键盘冒奶"
   },
-  "team:58": {
+  {
+    "team_id": "team:58",
     "official": 1,
     "organization": "南京航空航天大学",
     "badge": {
@@ -167,7 +188,8 @@
     },
     "name": "网络连接中断"
   },
-  "team:51": {
+  {
+    "team_id": "team:51",
     "official": 1,
     "organization": "南通大学",
     "badge": {
@@ -175,7 +197,8 @@
     },
     "name": "我觉得我写的每一行代码都是诗"
   },
-  "team:87": {
+  {
+    "team_id": "team:87",
     "official": 1,
     "organization": "南京邮电大学",
     "badge": {
@@ -183,7 +206,8 @@
     },
     "name": "拯救世界"
   },
-  "team:34": {
+  {
+    "team_id": "team:34",
     "official": 1,
     "organization": "南京信息工程大学",
     "badge": {
@@ -191,7 +215,8 @@
     },
     "name": "时光蒸汽喵"
   },
-  "team:21": {
+  {
+    "team_id": "team:21",
     "official": 1,
     "organization": "南京师范大学",
     "badge": {
@@ -199,7 +224,8 @@
     },
     "name": "队长是猜拳猜出来的"
   },
-  "team:48": {
+  {
+    "team_id": "team:48",
     "official": 1,
     "organization": "河海大学",
     "badge": {
@@ -207,7 +233,8 @@
     },
     "name": "想要AC"
   },
-  "team:131": {
+  {
+    "team_id": "team:131",
     "official": 1,
     "organization": "南京大学",
     "badge": {
@@ -215,7 +242,8 @@
     },
     "name": "烈士暮年"
   },
-  "team:46": {
+  {
+    "team_id": "team:46",
     "official": 1,
     "organization": "河海大学",
     "badge": {
@@ -223,7 +251,8 @@
     },
     "name": "几丁质"
   },
-  "team:66": {
+  {
+    "team_id": "team:66",
     "official": 1,
     "organization": "常州大学",
     "badge": {
@@ -231,7 +260,8 @@
     },
     "name": "叶落满庭"
   },
-  "team:88": {
+  {
+    "team_id": "team:88",
     "official": 1,
     "organization": "南京中医药大学",
     "badge": {
@@ -239,7 +269,8 @@
     },
     "name": "葡萄树上黄鹂鸟"
   },
-  "team:105": {
+  {
+    "team_id": "team:105",
     "official": 1,
     "organization": "东南大学",
     "badge": {
@@ -247,7 +278,8 @@
     },
     "name": "进击的巨噬细胞"
   },
-  "team:107": {
+  {
+    "team_id": "team:107",
     "official": 1,
     "organization": "东南大学",
     "badge": {
@@ -255,7 +287,8 @@
     },
     "name": "调试中..."
   },
-  "team:110": {
+  {
+    "team_id": "team:110",
     "official": 1,
     "organization": "南京理工大学",
     "badge": {
@@ -263,7 +296,8 @@
     },
     "name": "这碗真大"
   },
-  "team:25": {
+  {
+    "team_id": "team:25",
     "official": 1,
     "organization": "南京林业大学",
     "badge": {
@@ -271,7 +305,8 @@
     },
     "name": "斐波那契的兔子"
   },
-  "team:95": {
+  {
+    "team_id": "team:95",
     "official": 1,
     "organization": "南京邮电大学",
     "badge": {
@@ -279,7 +314,8 @@
     },
     "name": "暴力就完事了"
   },
-  "team:104": {
+  {
+    "team_id": "team:104",
     "official": 1,
     "organization": "东南大学",
     "badge": {
@@ -287,7 +323,8 @@
     },
     "name": "改革春风吹满地"
   },
-  "team:114": {
+  {
+    "team_id": "team:114",
     "unofficial": 1,
     "organization": "南京邮电大学",
     "badge": {
@@ -295,7 +332,8 @@
     },
     "name": "珂教兴国"
   },
-  "team:101": {
+  {
+    "team_id": "team:101",
     "official": 1,
     "organization": "南京理工大学",
     "badge": {
@@ -303,7 +341,8 @@
     },
     "name": "三个麻瓜"
   },
-  "team:15": {
+  {
+    "team_id": "team:15",
     "official": 1,
     "organization": "中国矿业大学",
     "badge": {
@@ -311,7 +350,8 @@
     },
     "name": "自古英雄秃少年"
   },
-  "team:117": {
+  {
+    "team_id": "team:117",
     "official": 1,
     "organization": "常州大学",
     "badge": {
@@ -319,7 +359,8 @@
     },
     "name": "教练去哪儿"
   },
-  "team:91": {
+  {
+    "team_id": "team:91",
     "official": 1,
     "organization": "江苏科技大学(张家港)",
     "badge": {
@@ -327,7 +368,8 @@
     },
     "name": "胜利"
   },
-  "team:3": {
+  {
+    "team_id": "team:3",
     "official": 1,
     "organization": "江南大学",
     "badge": {
@@ -335,7 +377,8 @@
     },
     "name": "只会断幺九不会取名"
   },
-  "team:94": {
+  {
+    "team_id": "team:94",
     "official": 1,
     "organization": "南京邮电大学",
     "badge": {
@@ -343,7 +386,8 @@
     },
     "name": "柠檬超人"
   },
-  "team:123": {
+  {
+    "team_id": "team:123",
     "official": 1,
     "organization": "苏州大学",
     "badge": {
@@ -351,7 +395,8 @@
     },
     "name": "塑料牌子真好看"
   },
-  "team:89": {
+  {
+    "team_id": "team:89",
     "official": 1,
     "organization": "南京航空航天大学",
     "badge": {
@@ -359,7 +404,8 @@
     },
     "name": "教练我想穿裙子"
   },
-  "team:38": {
+  {
+    "team_id": "team:38",
     "official": 1,
     "organization": "南京邮电大学通达学院",
     "badge": {
@@ -367,7 +413,8 @@
     },
     "name": "星色男孩坠落"
   },
-  "team:130": {
+  {
+    "team_id": "team:130",
     "official": 1,
     "organization": "苏州大学",
     "badge": {
@@ -375,7 +422,8 @@
     },
     "name": "听取wa声一片"
   },
-  "team:146": {
+  {
+    "team_id": "team:146",
     "official": 1,
     "organization": "南京晓庄学院",
     "badge": {
@@ -383,7 +431,8 @@
     },
     "name": "白给"
   },
-  "team:115": {
+  {
+    "team_id": "team:115",
     "unofficial": 1,
     "organization": "南京邮电大学",
     "badge": {
@@ -391,7 +440,8 @@
     },
     "name": "这可太难了"
   },
-  "team:16": {
+  {
+    "team_id": "team:16",
     "official": 1,
     "organization": "中国矿业大学",
     "badge": {
@@ -399,7 +449,8 @@
     },
     "name": "我们没有品如的衣服"
   },
-  "team:70": {
+  {
+    "team_id": "team:70",
     "official": 1,
     "organization": "南京工业大学",
     "badge": {
@@ -407,7 +458,8 @@
     },
     "name": "复联四真好看"
   },
-  "team:118": {
+  {
+    "team_id": "team:118",
     "official": 1,
     "organization": "南京理工大学",
     "badge": {
@@ -415,7 +467,8 @@
     },
     "name": "码到成功"
   },
-  "team:63": {
+  {
+    "team_id": "team:63",
     "official": 1,
     "organization": "金陵科技学院",
     "badge": {
@@ -423,7 +476,8 @@
     },
     "name": "祥瑞御免"
   },
-  "team:113": {
+  {
+    "team_id": "team:113",
     "unofficial": 1,
     "organization": "南京邮电大学",
     "badge": {
@@ -431,7 +485,8 @@
     },
     "name": "断幺九，1000点!"
   },
-  "team:8": {
+  {
+    "team_id": "team:8",
     "official": 1,
     "organization": "江南大学",
     "badge": {
@@ -439,7 +494,8 @@
     },
     "name": "ak就女装队"
   },
-  "team:127": {
+  {
+    "team_id": "team:127",
     "official": 1,
     "organization": "中国矿业大学徐海学院",
     "badge": {
@@ -447,7 +503,8 @@
     },
     "name": "猛男"
   },
-  "team:65": {
+  {
+    "team_id": "team:65",
     "official": 1,
     "organization": "常州大学",
     "badge": {
@@ -455,7 +512,8 @@
     },
     "name": "不打铁就行了"
   },
-  "team:9": {
+  {
+    "team_id": "team:9",
     "official": 1,
     "organization": "江南大学",
     "badge": {
@@ -463,7 +521,8 @@
     },
     "name": "the wind rises"
   },
-  "team:4": {
+  {
+    "team_id": "team:4",
     "official": 1,
     "organization": "江南大学",
     "badge": {
@@ -471,7 +530,8 @@
     },
     "name": "起名杀我"
   },
-  "team:17": {
+  {
+    "team_id": "team:17",
     "official": 1,
     "organization": "中国矿业大学",
     "badge": {
@@ -479,7 +539,8 @@
     },
     "name": "码农五月哭"
   },
-  "team:14": {
+  {
+    "team_id": "team:14",
     "official": 1,
     "organization": "中国矿业大学",
     "badge": {
@@ -487,7 +548,8 @@
     },
     "name": "二营长的意大利炮"
   },
-  "team:73": {
+  {
+    "team_id": "team:73",
     "official": 1,
     "organization": "徐州工程学院",
     "badge": {
@@ -495,7 +557,8 @@
     },
     "name": "面具人"
   },
-  "team:67": {
+  {
+    "team_id": "team:67",
     "official": 1,
     "organization": "常州大学",
     "badge": {
@@ -503,7 +566,8 @@
     },
     "name": "感觉人生已经达到了高潮"
   },
-  "team:10": {
+  {
+    "team_id": "team:10",
     "unofficial": 1,
     "organization": "浙江中医药大学",
     "badge": {
@@ -511,7 +575,8 @@
     },
     "name": "ZCMU-为什么不去问问神奇的海螺呢"
   },
-  "team:100": {
+  {
+    "team_id": "team:100",
     "official": 1,
     "organization": "南京理工大学",
     "badge": {
@@ -519,7 +584,8 @@
     },
     "name": "三根麻花"
   },
-  "team:78": {
+  {
+    "team_id": "team:78",
     "unofficial": 1,
     "organization": "南京信息工程大学",
     "badge": {
@@ -527,7 +593,8 @@
     },
     "name": "谈笑风生"
   },
-  "team:144": {
+  {
+    "team_id": "team:144",
     "official": 1,
     "organization": "南京晓庄学院",
     "badge": {
@@ -535,7 +602,8 @@
     },
     "name": "全体起立"
   },
-  "team:50": {
+  {
+    "team_id": "team:50",
     "official": 1,
     "organization": "河海大学",
     "badge": {
@@ -543,7 +611,8 @@
     },
     "name": "WA自动机fail树上乱序维护B树"
   },
-  "team:33": {
+  {
+    "team_id": "team:33",
     "official": 1,
     "organization": "南京信息工程大学",
     "badge": {
@@ -551,7 +620,8 @@
     },
     "name": "咕咕咕"
   },
-  "team:18": {
+  {
+    "team_id": "team:18",
     "official": 1,
     "organization": "中国矿业大学",
     "badge": {
@@ -559,7 +629,8 @@
     },
     "name": "我都可"
   },
-  "team:29": {
+  {
+    "team_id": "team:29",
     "official": 1,
     "organization": "南京林业大学",
     "badge": {
@@ -567,7 +638,8 @@
     },
     "name": "杜甫吴道子颜真卿"
   },
-  "team:35": {
+  {
+    "team_id": "team:35",
     "official": 1,
     "organization": "南京信息工程大学",
     "badge": {
@@ -575,7 +647,8 @@
     },
     "name": "魔术眼镜盒"
   },
-  "team:99": {
+  {
+    "team_id": "team:99",
     "official": 1,
     "organization": "苏州大学",
     "badge": {
@@ -583,7 +656,8 @@
     },
     "name": "咸鱼联萌"
   },
-  "team:97": {
+  {
+    "team_id": "team:97",
     "official": 1,
     "organization": "南京大学",
     "badge": {
@@ -591,7 +665,8 @@
     },
     "name": "听说名字长长的软壳才能涨的筛凝艾慕"
   },
-  "team:116": {
+  {
+    "team_id": "team:116",
     "unofficial": 1,
     "organization": "南京邮电大学",
     "badge": {
@@ -599,7 +674,8 @@
     },
     "name": "你丑你先睡，我美我学习"
   },
-  "team:44": {
+  {
+    "team_id": "team:44",
     "official": 1,
     "organization": "常熟理工学院",
     "badge": {
@@ -607,7 +683,8 @@
     },
     "name": "众生平等"
   },
-  "team:7": {
+  {
+    "team_id": "team:7",
     "official": 1,
     "organization": "江南大学",
     "badge": {
@@ -615,7 +692,8 @@
     },
     "name": "鎏金哇开呀库裂"
   },
-  "team:52": {
+  {
+    "team_id": "team:52",
     "official": 1,
     "organization": "南通大学",
     "badge": {
@@ -623,7 +701,8 @@
     },
     "name": "你写题像cxk"
   },
-  "team:129": {
+  {
+    "team_id": "team:129",
     "official": 1,
     "organization": "苏州大学",
     "badge": {
@@ -631,7 +710,8 @@
     },
     "name": "我拒绝"
   },
-  "team:149": {
+  {
+    "team_id": "team:149",
     "official": 1,
     "organization": "南京晓庄学院",
     "badge": {
@@ -639,7 +719,8 @@
     },
     "name": "你代码码的像cxk"
   },
-  "team:36": {
+  {
+    "team_id": "team:36",
     "official": 1,
     "organization": "南京信息工程大学",
     "badge": {
@@ -647,7 +728,8 @@
     },
     "name": "守护全宇宙最可爱的晗晗"
   },
-  "team:92": {
+  {
+    "team_id": "team:92",
     "unofficial": 1,
     "organization": "河海大学",
     "badge": {
@@ -655,7 +737,8 @@
     },
     "name": "河海大学附属幼儿园队"
   },
-  "team:138": {
+  {
+    "team_id": "team:138",
     "official": 1,
     "organization": "江苏大学",
     "badge": {
@@ -663,7 +746,8 @@
     },
     "name": "五棵松"
   },
-  "team:37": {
+  {
+    "team_id": "team:37",
     "official": 1,
     "organization": "南京信息工程大学",
     "badge": {
@@ -671,7 +755,8 @@
     },
     "name": "后勤部长队"
   },
-  "team:31": {
+  {
+    "team_id": "team:31",
     "official": 1,
     "organization": "常熟理工学院",
     "badge": {
@@ -679,7 +764,8 @@
     },
     "name": "炸鸡柳"
   },
-  "team:135": {
+  {
+    "team_id": "team:135",
     "official": 1,
     "organization": "河海大学常州校区",
     "badge": {
@@ -687,7 +773,8 @@
     },
     "name": "双黄蛋胡了"
   },
-  "team:49": {
+  {
+    "team_id": "team:49",
     "official": 1,
     "organization": "河海大学",
     "badge": {
@@ -695,7 +782,8 @@
     },
     "name": "我今天也想好好加油"
   },
-  "team:137": {
+  {
+    "team_id": "team:137",
     "official": 1,
     "organization": "河海大学常州校区",
     "badge": {
@@ -703,7 +791,8 @@
     },
     "name": "酯化反应副产物"
   },
-  "team:32": {
+  {
+    "team_id": "team:32",
     "official": 1,
     "organization": "南京信息工程大学",
     "badge": {
@@ -711,7 +800,8 @@
     },
     "name": "我不反队"
   },
-  "team:40": {
+  {
+    "team_id": "team:40",
     "official": 1,
     "organization": "南京邮电大学通达学院",
     "badge": {
@@ -719,7 +809,8 @@
     },
     "name": "地狱求生"
   },
-  "team:59": {
+  {
+    "team_id": "team:59",
     "official": 1,
     "organization": "金陵科技学院",
     "badge": {
@@ -727,7 +818,8 @@
     },
     "name": "雪风会保护大家的"
   },
-  "team:56": {
+  {
+    "team_id": "team:56",
     "official": 1,
     "organization": "南京航空航天大学",
     "badge": {
@@ -735,7 +827,8 @@
     },
     "name": "咕^6"
   },
-  "team:12": {
+  {
+    "team_id": "team:12",
     "official": 1,
     "organization": "江苏科技大学",
     "badge": {
@@ -743,7 +836,8 @@
     },
     "name": "会长请客吃饭"
   },
-  "team:24": {
+  {
+    "team_id": "team:24",
     "official": 1,
     "organization": "南京师范大学",
     "badge": {
@@ -751,7 +845,8 @@
     },
     "name": "DFY"
   },
-  "team:69": {
+  {
+    "team_id": "team:69",
     "official": 1,
     "organization": "南京工业大学",
     "badge": {
@@ -759,7 +854,8 @@
     },
     "name": "南工喷壶"
   },
-  "team:84": {
+  {
+    "team_id": "team:84",
     "unofficial": 1,
     "organization": "南京信息工程大学",
     "badge": {
@@ -767,7 +863,8 @@
     },
     "name": "星之守护者"
   },
-  "team:2": {
+  {
+    "team_id": "team:2",
     "official": 1,
     "organization": "江南大学",
     "badge": {
@@ -775,7 +872,8 @@
     },
     "name": "三只咸鱼"
   },
-  "team:62": {
+  {
+    "team_id": "team:62",
     "official": 1,
     "organization": "金陵科技学院",
     "badge": {
@@ -783,7 +881,8 @@
     },
     "name": "老人无海"
   },
-  "team:19": {
+  {
+    "team_id": "team:19",
     "official": 1,
     "organization": "南京师范大学",
     "badge": {
@@ -791,7 +890,8 @@
     },
     "name": "复联4为什么这么贵"
   },
-  "team:39": {
+  {
+    "team_id": "team:39",
     "official": 1,
     "organization": "南京邮电大学通达学院",
     "badge": {
@@ -799,7 +899,8 @@
     },
     "name": "WA掘机"
   },
-  "team:23": {
+  {
+    "team_id": "team:23",
     "official": 1,
     "organization": "南京师范大学",
     "badge": {
@@ -807,7 +908,8 @@
     },
     "name": "WA自动机"
   },
-  "team:128": {
+  {
+    "team_id": "team:128",
     "official": 1,
     "organization": "中国矿业大学徐海学院",
     "badge": {
@@ -815,7 +917,8 @@
     },
     "name": "硬汉"
   },
-  "team:93": {
+  {
+    "team_id": "team:93",
     "official": 1,
     "organization": "南京邮电大学",
     "badge": {
@@ -823,7 +926,8 @@
     },
     "name": "美少女壮士"
   },
-  "team:147": {
+  {
+    "team_id": "team:147",
     "official": 1,
     "organization": "南京晓庄学院",
     "badge": {
@@ -831,7 +935,8 @@
     },
     "name": "树上的鸟儿成三队"
   },
-  "team:142": {
+  {
+    "team_id": "team:142",
     "official": 1,
     "organization": "南京工业大学",
     "badge": {
@@ -839,7 +944,8 @@
     },
     "name": "工大划水队"
   },
-  "team:77": {
+  {
+    "team_id": "team:77",
     "official": 1,
     "organization": "江苏师范大学",
     "badge": {
@@ -847,7 +953,8 @@
     },
     "name": "给我们整个气球"
   },
-  "team:112": {
+  {
+    "team_id": "team:112",
     "official": 1,
     "organization": "南京邮电大学",
     "badge": {
@@ -855,7 +962,8 @@
     },
     "name": "沉迷打铁不能自拔"
   },
-  "team:74": {
+  {
+    "team_id": "team:74",
     "official": 1,
     "organization": "徐州工程学院",
     "badge": {
@@ -863,7 +971,8 @@
     },
     "name": "气球全往这边插"
   },
-  "team:11": {
+  {
+    "team_id": "team:11",
     "official": 1,
     "organization": "江苏科技大学",
     "badge": {
@@ -871,7 +980,8 @@
     },
     "name": "还好没考后缀自动机"
   },
-  "team:121": {
+  {
+    "team_id": "team:121",
     "unofficial": 1,
     "organization": "河海大学",
     "badge": {
@@ -879,7 +989,8 @@
     },
     "name": "ACM菜鸡组"
   },
-  "team:22": {
+  {
+    "team_id": "team:22",
     "official": 1,
     "organization": "南京师范大学",
     "badge": {
@@ -887,7 +998,8 @@
     },
     "name": "专业水题20年"
   },
-  "team:53": {
+  {
+    "team_id": "team:53",
     "official": 1,
     "organization": "南通大学",
     "badge": {
@@ -895,7 +1007,8 @@
     },
     "name": "秃头呱"
   },
-  "team:139": {
+  {
+    "team_id": "team:139",
     "official": 1,
     "organization": "江苏大学",
     "badge": {
@@ -903,7 +1016,8 @@
     },
     "name": "三山"
   },
-  "team:85": {
+  {
+    "team_id": "team:85",
     "official": 1,
     "organization": "南京信息职业技术学院",
     "badge": {
@@ -911,7 +1025,8 @@
     },
     "name": "菜鸟小分队"
   },
-  "team:76": {
+  {
+    "team_id": "team:76",
     "official": 1,
     "organization": "徐州工程学院",
     "badge": {
@@ -919,7 +1034,8 @@
     },
     "name": "以神遇"
   },
-  "team:71": {
+  {
+    "team_id": "team:71",
     "official": 1,
     "organization": "南京工业大学",
     "badge": {
@@ -927,7 +1043,8 @@
     },
     "name": "全对"
   },
-  "team:60": {
+  {
+    "team_id": "team:60",
     "official": 1,
     "organization": "金陵科技学院",
     "badge": {
@@ -935,7 +1052,8 @@
     },
     "name": "咸鱼"
   },
-  "team:140": {
+  {
+    "team_id": "team:140",
     "official": 1,
     "organization": "江苏大学",
     "badge": {
@@ -943,7 +1061,8 @@
     },
     "name": "三江岸"
   },
-  "team:81": {
+  {
+    "team_id": "team:81",
     "official": 1,
     "organization": "中国人民解放军陆军工程大学",
     "badge": {
@@ -951,7 +1070,8 @@
     },
     "name": "强军"
   },
-  "team:26": {
+  {
+    "team_id": "team:26",
     "official": 1,
     "organization": "三江学院",
     "badge": {
@@ -959,7 +1079,8 @@
     },
     "name": "打完这把就回老家结婚"
   },
-  "team:5": {
+  {
+    "team_id": "team:5",
     "official": 1,
     "organization": "常熟理工学院",
     "badge": {
@@ -967,7 +1088,8 @@
     },
     "name": "做的都队"
   },
-  "team:30": {
+  {
+    "team_id": "team:30",
     "official": 1,
     "organization": "三江学院",
     "badge": {
@@ -975,7 +1097,8 @@
     },
     "name": "超越"
   },
-  "team:75": {
+  {
+    "team_id": "team:75",
     "official": 1,
     "organization": "河海大学",
     "badge": {
@@ -983,7 +1106,8 @@
     },
     "name": "欢天喜地三仙女"
   },
-  "team:90": {
+  {
+    "team_id": "team:90",
     "official": 1,
     "organization": "江苏师范大学",
     "badge": {
@@ -991,7 +1115,8 @@
     },
     "name": "给我们AC钙奶"
   },
-  "team:64": {
+  {
+    "team_id": "team:64",
     "official": 1,
     "organization": "扬州大学",
     "badge": {
@@ -999,7 +1124,8 @@
     },
     "name": "螺旋笔锋"
   },
-  "team:136": {
+  {
+    "team_id": "team:136",
     "official": 1,
     "organization": "河海大学常州校区",
     "badge": {
@@ -1007,7 +1133,8 @@
     },
     "name": "Wrong Answer只要哇一声"
   },
-  "team:1": {
+  {
+    "team_id": "team:1",
     "official": 1,
     "organization": "南京工业大学",
     "badge": {
@@ -1015,7 +1142,8 @@
     },
     "name": "怎么都队"
   },
-  "team:102": {
+  {
+    "team_id": "team:102",
     "official": 1,
     "organization": "东南大学",
     "badge": {
@@ -1023,7 +1151,8 @@
     },
     "name": "奶茶不加糖"
   },
-  "team:20": {
+  {
+    "team_id": "team:20",
     "official": 1,
     "organization": "南京师范大学",
     "badge": {
@@ -1031,7 +1160,8 @@
     },
     "name": "敏行队"
   },
-  "team:61": {
+  {
+    "team_id": "team:61",
     "official": 1,
     "organization": "金陵科技学院",
     "badge": {
@@ -1039,7 +1169,8 @@
     },
     "name": "隐藏着星星力量的钥匙"
   },
-  "team:27": {
+  {
+    "team_id": "team:27",
     "official": 1,
     "organization": "三江学院",
     "badge": {
@@ -1047,7 +1178,8 @@
     },
     "name": "三玖天下第一"
   },
-  "team:145": {
+  {
+    "team_id": "team:145",
     "official": 1,
     "organization": "南京晓庄学院",
     "badge": {
@@ -1055,7 +1187,8 @@
     },
     "name": "软柿子"
   },
-  "team:150": {
+  {
+    "team_id": "team:150",
     "official": 1,
     "organization": "常州工学院",
     "badge": {
@@ -1063,7 +1196,8 @@
     },
     "name": "czu_dream"
   },
-  "team:68": {
+  {
+    "team_id": "team:68",
     "official": 1,
     "organization": "常州大学",
     "badge": {
@@ -1071,7 +1205,8 @@
     },
     "name": "origin"
   },
-  "team:143": {
+  {
+    "team_id": "team:143",
     "official": 1,
     "organization": "南京工业大学",
     "badge": {
@@ -1079,7 +1214,8 @@
     },
     "name": "这也太imba了"
   },
-  "team:83": {
+  {
+    "team_id": "team:83",
     "official": 1,
     "organization": "中国人民解放军陆军工程大学",
     "badge": {
@@ -1087,7 +1223,8 @@
     },
     "name": "使命"
   },
-  "team:54": {
+  {
+    "team_id": "team:54",
     "official": 1,
     "organization": "南京大学金陵学院",
     "badge": {
@@ -1095,7 +1232,8 @@
     },
     "name": "琪露诺是最强的"
   },
-  "team:72": {
+  {
+    "team_id": "team:72",
     "official": 1,
     "organization": "徐州工程学院",
     "badge": {
@@ -1103,7 +1241,8 @@
     },
     "name": "爆0队"
   },
-  "team:86": {
+  {
+    "team_id": "team:86",
     "official": 1,
     "organization": "南京信息职业技术学院",
     "badge": {
@@ -1111,7 +1250,8 @@
     },
     "name": "出来吧 杰尼龟"
   },
-  "team:42": {
+  {
+    "team_id": "team:42",
     "official": 1,
     "organization": "常熟理工学院",
     "badge": {
@@ -1119,7 +1259,8 @@
     },
     "name": "编译五月哭"
   },
-  "team:43": {
+  {
+    "team_id": "team:43",
     "official": 1,
     "organization": "三江学院",
     "badge": {
@@ -1127,7 +1268,8 @@
     },
     "name": "hrz"
   },
-  "team:148": {
+  {
+    "team_id": "team:148",
     "official": 1,
     "organization": "南京晓庄学院",
     "badge": {
@@ -1135,7 +1277,8 @@
     },
     "name": "听取蛙声一片"
   },
-  "team:41": {
+  {
+    "team_id": "team:41",
     "official": 1,
     "organization": "南京邮电大学通达学院",
     "badge": {
@@ -1143,7 +1286,8 @@
     },
     "name": "金刚三角"
   },
-  "team:122": {
+  {
+    "team_id": "team:122",
     "official": 1,
     "organization": "苏州科技大学",
     "badge": {
@@ -1151,7 +1295,8 @@
     },
     "name": "寒山钟声(2)"
   },
-  "team:45": {
+  {
+    "team_id": "team:45",
     "official": 1,
     "organization": "三江学院",
     "badge": {
@@ -1159,7 +1304,8 @@
     },
     "name": "地平线"
   },
-  "team:80": {
+  {
+    "team_id": "team:80",
     "official": 1,
     "organization": "中国人民解放军陆军工程大学",
     "badge": {
@@ -1167,7 +1313,8 @@
     },
     "name": "精武"
   },
-  "team:79": {
+  {
+    "team_id": "team:79",
     "official": 1,
     "organization": "中国人民解放军陆军工程大学",
     "badge": {
@@ -1175,7 +1322,8 @@
     },
     "name": "厚德"
   },
-  "team:120": {
+  {
+    "team_id": "team:120",
     "official": 1,
     "organization": "苏州科技大学",
     "badge": {
@@ -1183,7 +1331,8 @@
     },
     "name": "寒山钟声"
   },
-  "team:82": {
+  {
+    "team_id": "team:82",
     "official": 1,
     "organization": "中国人民解放军陆军工程大学",
     "badge": {
@@ -1191,7 +1340,8 @@
     },
     "name": "召唤"
   },
-  "team:151": {
+  {
+    "team_id": "team:151",
     "official": 1,
     "organization": "南京工业职业技术学院",
     "badge": {
@@ -1199,7 +1349,8 @@
     },
     "name": "开心就好"
   },
-  "team:119": {
+  {
+    "team_id": "team:119",
     "official": 1,
     "organization": "苏州科技大学",
     "badge": {
@@ -1207,7 +1358,8 @@
     },
     "name": "江枫渔火"
   },
-  "team:126": {
+  {
+    "team_id": "team:126",
     "official": 1,
     "organization": "江苏建筑职业技术学院",
     "badge": {
@@ -1215,4 +1367,4 @@
     },
     "name": "苏建院top"
   }
-}
+]
