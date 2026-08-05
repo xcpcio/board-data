@@ -5,20 +5,111 @@
   "frozen_time": 3600,
   "penalty": 1200,
   "problem_quantity": 13,
-  "problem_id": [
-    "A",
-    "B",
-    "C",
-    "D",
-    "E",
-    "F",
-    "G",
-    "H",
-    "I",
-    "J",
-    "K",
-    "L",
-    "M"
+  "problems": [
+    {
+      "id": "0",
+      "label": "A",
+      "balloon_color": {
+        "color": "#000",
+        "background_color": "#fff0f5"
+      }
+    },
+    {
+      "id": "1",
+      "label": "B",
+      "balloon_color": {
+        "color": "#000",
+        "background_color": "#ffc0cb"
+      }
+    },
+    {
+      "id": "2",
+      "label": "C",
+      "balloon_color": {
+        "color": "#000",
+        "background_color": "#add8e6"
+      }
+    },
+    {
+      "id": "3",
+      "label": "D",
+      "balloon_color": {
+        "color": "#000",
+        "background_color": "#4d3900"
+      }
+    },
+    {
+      "id": "4",
+      "label": "E",
+      "balloon_color": {
+        "color": "#000",
+        "background_color": "#f4c875"
+      }
+    },
+    {
+      "id": "5",
+      "label": "F",
+      "balloon_color": {
+        "color": "#000",
+        "background_color": "#3b643e"
+      }
+    },
+    {
+      "id": "6",
+      "label": "G",
+      "balloon_color": {
+        "color": "#000",
+        "background_color": "#ffff00"
+      }
+    },
+    {
+      "id": "7",
+      "label": "H",
+      "balloon_color": {
+        "color": "#000",
+        "background_color": "#ff7f50"
+      }
+    },
+    {
+      "id": "8",
+      "label": "I",
+      "balloon_color": {
+        "color": "#000",
+        "background_color": "#ff007f"
+      }
+    },
+    {
+      "id": "9",
+      "label": "J",
+      "balloon_color": {
+        "color": "#000",
+        "background_color": "#ff0000"
+      }
+    },
+    {
+      "id": "10",
+      "label": "K",
+      "balloon_color": {
+        "color": "#000",
+        "background_color": "#000000"
+      }
+    },
+    {
+      "id": "11",
+      "label": "L",
+      "balloon_color": {
+        "color": "#000",
+        "background_color": "#ffa500"
+      }
+    },
+    {
+      "id": "12",
+      "label": "M",
+      "balloon_color": {
+        "color": "#000",
+        "background_color": "#99ffcc"
+      }
+    }
   ],
   "group": {
     "official": "正式队伍",
@@ -36,60 +127,6 @@
       "bronze": 94
     }
   },
-  "balloon_color": [
-    {
-      "color": "#000",
-      "background_color": "#fff0f5"
-    },
-    {
-      "color": "#000",
-      "background_color": "#ffc0cb"
-    },
-    {
-      "color": "#000",
-      "background_color": "#add8e6"
-    },
-    {
-      "color": "#000",
-      "background_color": "#4d3900"
-    },
-    {
-      "color": "#000",
-      "background_color": "#f4c875"
-    },
-    {
-      "color": "#000",
-      "background_color": "#3b643e"
-    },
-    {
-      "color": "#000",
-      "background_color": "#ffff00"
-    },
-    {
-      "color": "#000",
-      "background_color": "#ff7f50"
-    },
-    {
-      "color": "#000",
-      "background_color": "#ff007f"
-    },
-    {
-      "color": "#000",
-      "background_color": "#ff0000"
-    },
-    {
-      "color": "#000",
-      "background_color": "#000000"
-    },
-    {
-      "color": "#000",
-      "background_color": "#ffa500"
-    },
-    {
-      "color": "#000",
-      "background_color": "#99ffcc"
-    }
-  ],
   "logo": {
     "preset": "ICPC"
   },

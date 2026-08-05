@@ -5,19 +5,103 @@
   "frozen_time": 3600,
   "penalty": 1200,
   "problem_quantity": 12,
-  "problem_id": [
-    "A",
-    "B",
-    "C",
-    "D",
-    "E",
-    "F",
-    "G",
-    "H",
-    "I",
-    "J",
-    "K",
-    "L"
+  "problems": [
+    {
+      "id": "0",
+      "label": "A",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#ffffff"
+      }
+    },
+    {
+      "id": "1",
+      "label": "B",
+      "balloon_color": {
+        "color": "#ffffff",
+        "background_color": "#000000"
+      }
+    },
+    {
+      "id": "2",
+      "label": "C",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#afeeee"
+      }
+    },
+    {
+      "id": "3",
+      "label": "D",
+      "balloon_color": {
+        "color": "#ffffff",
+        "background_color": "#7cfc00"
+      }
+    },
+    {
+      "id": "4",
+      "label": "E",
+      "balloon_color": {
+        "color": "#ffffff",
+        "background_color": "#0000ff"
+      }
+    },
+    {
+      "id": "5",
+      "label": "F",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#ffff00"
+      }
+    },
+    {
+      "id": "6",
+      "label": "G",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#c0c0c0"
+      }
+    },
+    {
+      "id": "7",
+      "label": "H",
+      "balloon_color": {
+        "color": "#ffffff",
+        "background_color": "#dc143c"
+      }
+    },
+    {
+      "id": "8",
+      "label": "I",
+      "balloon_color": {
+        "color": "#ffffff",
+        "background_color": "#ffa500"
+      }
+    },
+    {
+      "id": "9",
+      "label": "J",
+      "balloon_color": {
+        "color": "#ffffff",
+        "background_color": "#808000"
+      }
+    },
+    {
+      "id": "10",
+      "label": "K",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#ff00ff"
+      }
+    },
+    {
+      "id": "11",
+      "label": "L",
+      "balloon_color": {
+        "color": "#ffffff",
+        "background_color": "#b88608"
+      }
+    }
   ],
   "group": {
     "21496": "Europe",
@@ -41,56 +125,6 @@
       "bronze": 4
     }
   },
-  "balloon_color": [
-    {
-      "color": "#000000",
-      "background_color": "#ffffff"
-    },
-    {
-      "color": "#ffffff",
-      "background_color": "#000000"
-    },
-    {
-      "color": "#000000",
-      "background_color": "#afeeee"
-    },
-    {
-      "color": "#ffffff",
-      "background_color": "#7cfc00"
-    },
-    {
-      "color": "#ffffff",
-      "background_color": "#0000ff"
-    },
-    {
-      "color": "#000000",
-      "background_color": "#ffff00"
-    },
-    {
-      "color": "#000000",
-      "background_color": "#c0c0c0"
-    },
-    {
-      "color": "#ffffff",
-      "background_color": "#dc143c"
-    },
-    {
-      "color": "#ffffff",
-      "background_color": "#ffa500"
-    },
-    {
-      "color": "#ffffff",
-      "background_color": "#808000"
-    },
-    {
-      "color": "#000000",
-      "background_color": "#ff00ff"
-    },
-    {
-      "color": "#ffffff",
-      "background_color": "#b88608"
-    }
-  ],
   "logo": {
     "preset": "ICPC"
   },
