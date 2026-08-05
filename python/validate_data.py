@@ -2,7 +2,9 @@
 """Validate board data JSON files against xcpcio pydantic models."""
 
 import json
+import re
 import sys
+from bisect import bisect_right
 from pathlib import Path
 from typing import Iterable
 
@@ -12,6 +14,7 @@ from utils import json_input
 from xcpcio.types import Contest, Organizations, SeatMap, Submissions, Teams
 
 Model = type[BaseModel]
+Location = tuple[int | str, ...]
 
 TARGETS: dict[str, Model] = {
     "config.json": Contest,
@@ -28,7 +31,7 @@ def iter_target_files(data_dir: Path) -> Iterable[tuple[Path, Model]]:
             yield path, model
 
 
-def format_location(location: tuple[int | str, ...]) -> str:
+def format_location(location: Location) -> str:
     if not location:
         return "<root>"
 
@@ -44,6 +47,109 @@ def format_location(location: tuple[int | str, ...]) -> str:
     return "".join(parts)
 
 
+class JSONPathLineMapper:
+    def __init__(self, text: str):
+        self.text = text
+        self.pos = 0
+        self.line_starts = [0]
+        self.path_lines: dict[Location, int] = {}
+
+        for match in re.finditer("\n", text):
+            self.line_starts.append(match.end())
+
+    def line_for(self, pos: int) -> int:
+        return bisect_right(self.line_starts, pos)
+
+    def skip_whitespace(self) -> None:
+        while self.pos < len(self.text) and self.text[self.pos] in " \t\r\n":
+            self.pos += 1
+
+    def parse(self) -> dict[Location, int]:
+        self.skip_whitespace()
+        self.parse_value(())
+        return self.path_lines
+
+    def parse_value(self, location: Location) -> None:
+        self.skip_whitespace()
+        self.path_lines[location] = self.line_for(self.pos)
+
+        char = self.text[self.pos]
+        if char == "{":
+            self.parse_object(location)
+        elif char == "[":
+            self.parse_array(location)
+        elif char == '"':
+            self.parse_string()
+        elif char in "-0123456789":
+            self.parse_number()
+        else:
+            self.parse_literal()
+
+    def parse_object(self, location: Location) -> None:
+        self.pos += 1
+        self.skip_whitespace()
+        if self.text[self.pos] == "}":
+            self.pos += 1
+            return
+
+        while True:
+            self.skip_whitespace()
+            key = self.parse_string()
+            self.skip_whitespace()
+            self.pos += 1
+            self.parse_value((*location, key))
+            self.skip_whitespace()
+
+            if self.text[self.pos] == "}":
+                self.pos += 1
+                return
+
+            self.pos += 1
+
+    def parse_array(self, location: Location) -> None:
+        self.pos += 1
+        self.skip_whitespace()
+        if self.text[self.pos] == "]":
+            self.pos += 1
+            return
+
+        index = 0
+        while True:
+            self.parse_value((*location, index))
+            self.skip_whitespace()
+
+            if self.text[self.pos] == "]":
+                self.pos += 1
+                return
+
+            self.pos += 1
+            index += 1
+
+    def parse_string(self) -> str:
+        value, end = json.decoder.scanstring(self.text, self.pos + 1)
+        self.pos = end
+        return value
+
+    def parse_number(self) -> None:
+        match = re.match(r"-?(?:0|[1-9]\d*)(?:\.\d+)?(?:[eE][+-]?\d+)?", self.text[self.pos :])
+        if match is None:
+            return
+        self.pos += len(match.group(0))
+
+    def parse_literal(self) -> None:
+        for literal in ("true", "false", "null"):
+            if self.text.startswith(literal, self.pos):
+                self.pos += len(literal)
+                return
+
+
+def get_error_line(location: Location, path_lines: dict[Location, int]) -> int | None:
+    for length in range(len(location), -1, -1):
+        if location[:length] in path_lines:
+            return path_lines[location[:length]]
+    return None
+
+
 def validate_file(path: Path, model: Model, max_errors_per_file: int | None) -> int:
     try:
         model.model_validate(json_input(str(path)))
@@ -55,10 +161,13 @@ def validate_file(path: Path, model: Model, max_errors_per_file: int | None) -> 
         shown_errors = validation_errors[:max_errors_per_file]
 
         click.secho(f"{path}: validation failed ({len(validation_errors)} error(s))", fg="red", err=True)
+        path_lines = JSONPathLineMapper(path.read_text()).parse() if shown_errors else {}
         for error in shown_errors:
             location = format_location(error["loc"])
+            line = get_error_line(error["loc"], path_lines)
             message = error["msg"]
-            click.echo(f"  - {location}: {message}", err=True)
+            line_prefix = f"line {line}: " if line is not None else ""
+            click.echo(f"  - {line_prefix}{location}: {message}", err=True)
 
         hidden_errors = len(validation_errors) - len(shown_errors)
         if hidden_errors > 0:
