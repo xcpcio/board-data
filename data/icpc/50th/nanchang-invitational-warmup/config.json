@@ -5,10 +5,31 @@
   "frozen_time": 900,
   "penalty": 1200,
   "problem_quantity": 3,
-  "problem_id": [
-    "A",
-    "B",
-    "C"
+  "problems": [
+    {
+      "id": "0",
+      "label": "A",
+      "balloon_color": {
+        "color": "#000",
+        "background_color": "#b22120"
+      }
+    },
+    {
+      "id": "1",
+      "label": "B",
+      "balloon_color": {
+        "color": "#000",
+        "background_color": "#9664eb"
+      }
+    },
+    {
+      "id": "2",
+      "label": "C",
+      "balloon_color": {
+        "color": "#000",
+        "background_color": "#ffffff"
+      }
+    }
   ],
   "group": {
     "icpc": "ICPC",
@@ -28,20 +49,6 @@
       "bronze": 118
     }
   },
-  "balloon_color": [
-    {
-      "color": "#000",
-      "background_color": "#b22120"
-    },
-    {
-      "color": "#000",
-      "background_color": "#9664eb"
-    },
-    {
-      "color": "#000",
-      "background_color": "#ffffff"
-    }
-  ],
   "logo": {
     "preset": "ICPC"
   },

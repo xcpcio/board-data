@@ -5,11 +5,39 @@
   "frozen_time": 1800,
   "penalty": 1200,
   "problem_quantity": 4,
-  "problem_id": [
-    "A",
-    "B",
-    "C",
-    "D"
+  "problems": [
+    {
+      "id": "0",
+      "label": "A",
+      "balloon_color": {
+        "color": "#000",
+        "background_color": "#8962d9"
+      }
+    },
+    {
+      "id": "1",
+      "label": "B",
+      "balloon_color": {
+        "color": "#000",
+        "background_color": "#ffb6c1"
+      }
+    },
+    {
+      "id": "2",
+      "label": "C",
+      "balloon_color": {
+        "color": "#000",
+        "background_color": "#173db4"
+      }
+    },
+    {
+      "id": "3",
+      "label": "D",
+      "balloon_color": {
+        "color": "#000",
+        "background_color": "#ffffe0"
+      }
+    }
   ],
   "group": {
     "official": "正式队伍",
@@ -27,24 +55,6 @@
       "bronze": 102
     }
   },
-  "balloon_color": [
-    {
-      "color": "#000",
-      "background_color": "#8962d9"
-    },
-    {
-      "color": "#000",
-      "background_color": "#ffb6c1"
-    },
-    {
-      "color": "#000",
-      "background_color": "#173db4"
-    },
-    {
-      "color": "#000",
-      "background_color": "#ffffe0"
-    }
-  ],
   "logo": {
     "preset": "ICPC"
   },

@@ -4,33 +4,46 @@
   "end_time": 1763802000000,
   "penalty": 1200,
   "frozen_time": 1800,
-  "problem_id": [
-    "A",
-    "B",
-    "C",
-    "D",
-    "E"
-  ],
-  "balloon_color": [
+  "problems": [
     {
-      "color": "#000",
-      "background_color": "#ff0000"
+      "id": "0",
+      "label": "A",
+      "balloon_color": {
+        "color": "#000",
+        "background_color": "#ff0000"
+      }
     },
     {
-      "color": "#000",
-      "background_color": "#ffff00"
+      "id": "1",
+      "label": "B",
+      "balloon_color": {
+        "color": "#000",
+        "background_color": "#ffff00"
+      }
     },
     {
-      "color": "#000",
-      "background_color": "#0000ff"
+      "id": "2",
+      "label": "C",
+      "balloon_color": {
+        "color": "#000",
+        "background_color": "#0000ff"
+      }
     },
     {
-      "color": "#000",
-      "background_color": "#00ff00"
+      "id": "3",
+      "label": "D",
+      "balloon_color": {
+        "color": "#000",
+        "background_color": "#00ff00"
+      }
     },
     {
-      "color": "#000",
-      "background_color": "#f95ba0"
+      "id": "4",
+      "label": "E",
+      "balloon_color": {
+        "color": "#000",
+        "background_color": "#f95ba0"
+      }
     }
   ],
   "status_time_display": {

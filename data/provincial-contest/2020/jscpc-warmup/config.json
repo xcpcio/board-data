@@ -3,12 +3,27 @@
   "start_time": 1605337200,
   "end_time": 1605348000,
   "frozen_time": 3600,
-  "problem_id": [
-    "A",
-    "B",
-    "C",
-    "D",
-    "E"
+  "problems": [
+    {
+      "id": "0",
+      "label": "A"
+    },
+    {
+      "id": "1",
+      "label": "B"
+    },
+    {
+      "id": "2",
+      "label": "C"
+    },
+    {
+      "id": "3",
+      "label": "D"
+    },
+    {
+      "id": "4",
+      "label": "E"
+    }
   ],
   "group": {},
   "status_time_display": {

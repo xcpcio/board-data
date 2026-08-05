@@ -5,13 +5,55 @@
   "frozen_time": 3600,
   "penalty": 1200,
   "problem_quantity": 6,
-  "problem_id": [
-    "A",
-    "B",
-    "C",
-    "D",
-    "E",
-    "F"
+  "problems": [
+    {
+      "id": "0",
+      "label": "A",
+      "balloon_color": {
+        "color": "#000",
+        "background_color": "#f20606"
+      }
+    },
+    {
+      "id": "1",
+      "label": "B",
+      "balloon_color": {
+        "color": "#000",
+        "background_color": "#0ddb3a"
+      }
+    },
+    {
+      "id": "2",
+      "label": "C",
+      "balloon_color": {
+        "color": "#000",
+        "background_color": "#08e1e8"
+      }
+    },
+    {
+      "id": "3",
+      "label": "D",
+      "balloon_color": {
+        "color": "#000",
+        "background_color": "#c4e609"
+      }
+    },
+    {
+      "id": "4",
+      "label": "E",
+      "balloon_color": {
+        "color": "#000",
+        "background_color": "#0707eb"
+      }
+    },
+    {
+      "id": "5",
+      "label": "F",
+      "balloon_color": {
+        "color": "#000",
+        "background_color": "#d904e0"
+      }
+    }
   ],
   "group": {
     "official": "正式队伍",
@@ -25,32 +67,6 @@
     "pending": true
   },
   "medal": {},
-  "balloon_color": [
-    {
-      "color": "#000",
-      "background_color": "#f20606"
-    },
-    {
-      "color": "#000",
-      "background_color": "#0ddb3a"
-    },
-    {
-      "color": "#000",
-      "background_color": "#08e1e8"
-    },
-    {
-      "color": "#000",
-      "background_color": "#c4e609"
-    },
-    {
-      "color": "#000",
-      "background_color": "#0707eb"
-    },
-    {
-      "color": "#000",
-      "background_color": "#d904e0"
-    }
-  ],
   "options": {
     "submission_timestamp_unit": "millisecond",
     "enable_organization": true

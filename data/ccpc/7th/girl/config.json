@@ -3,18 +3,95 @@
   "start_time": 1635642000,
   "end_time": 1635660000,
   "frozen_time": 3600,
-  "problem_id": [
-    "A",
-    "B",
-    "C",
-    "D",
-    "E",
-    "F",
-    "G",
-    "H",
-    "I",
-    "J",
-    "K"
+  "problems": [
+    {
+      "id": "0",
+      "label": "A",
+      "balloon_color": {
+        "background_color": "#d71345",
+        "color": "#fff"
+      }
+    },
+    {
+      "id": "1",
+      "label": "B",
+      "balloon_color": {
+        "background_color": "#f1b8e4",
+        "color": "#000"
+      }
+    },
+    {
+      "id": "2",
+      "label": "C",
+      "balloon_color": {
+        "background_color": "#f391a9",
+        "color": "#000"
+      }
+    },
+    {
+      "id": "3",
+      "label": "D",
+      "balloon_color": {
+        "background_color": "#7d5886",
+        "color": "#fff"
+      }
+    },
+    {
+      "id": "4",
+      "label": "E",
+      "balloon_color": {
+        "background_color": "#c37e00",
+        "color": "#fff"
+      }
+    },
+    {
+      "id": "5",
+      "label": "F",
+      "balloon_color": {
+        "background_color": "#411445",
+        "color": "#fff"
+      }
+    },
+    {
+      "id": "6",
+      "label": "G",
+      "balloon_color": {
+        "background_color": "#005831",
+        "color": "#fff"
+      }
+    },
+    {
+      "id": "7",
+      "label": "H",
+      "balloon_color": {
+        "background_color": "#fffffb",
+        "color": "#000"
+      }
+    },
+    {
+      "id": "8",
+      "label": "I",
+      "balloon_color": {
+        "background_color": "#ffd400",
+        "color": "#000"
+      }
+    },
+    {
+      "id": "9",
+      "label": "J",
+      "balloon_color": {
+        "background_color": "#a1a3a6",
+        "color": "#fff"
+      }
+    },
+    {
+      "id": "10",
+      "label": "K",
+      "balloon_color": {
+        "background_color": "#004080",
+        "color": "#fff"
+      }
+    }
   ],
   "group": {},
   "status_time_display": {
@@ -30,52 +107,6 @@
       "bronze": 78
     }
   },
-  "balloon_color": [
-    {
-      "background_color": "#d71345",
-      "color": "#fff"
-    },
-    {
-      "background_color": "#f1b8e4",
-      "color": "#000"
-    },
-    {
-      "background_color": "#f391a9",
-      "color": "#000"
-    },
-    {
-      "background_color": "#7d5886",
-      "color": "#fff"
-    },
-    {
-      "background_color": "#c37e00",
-      "color": "#fff"
-    },
-    {
-      "background_color": "#411445",
-      "color": "#fff"
-    },
-    {
-      "background_color": "#005831",
-      "color": "#fff"
-    },
-    {
-      "background_color": "#fffffb",
-      "color": "#000"
-    },
-    {
-      "background_color": "#ffd400",
-      "color": "#000"
-    },
-    {
-      "background_color": "#a1a3a6",
-      "color": "#fff"
-    },
-    {
-      "background_color": "#004080",
-      "color": "#fff"
-    }
-  ],
   "logo": {
     "preset": "CCPC"
   },

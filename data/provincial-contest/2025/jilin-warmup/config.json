@@ -5,11 +5,39 @@
   "frozen_time": 1800,
   "penalty": 1200,
   "problem_quantity": 4,
-  "problem_id": [
-    "A",
-    "B",
-    "C",
-    "D"
+  "problems": [
+    {
+      "id": "0",
+      "label": "A",
+      "balloon_color": {
+        "color": "#000",
+        "background_color": "#e83535"
+      }
+    },
+    {
+      "id": "1",
+      "label": "B",
+      "balloon_color": {
+        "color": "#000",
+        "background_color": "#e4ed61"
+      }
+    },
+    {
+      "id": "2",
+      "label": "C",
+      "balloon_color": {
+        "color": "#000",
+        "background_color": "#3eb2f0"
+      }
+    },
+    {
+      "id": "3",
+      "label": "D",
+      "balloon_color": {
+        "color": "#000",
+        "background_color": "#29b54c"
+      }
+    }
   ],
   "group": {
     "A": "普通高校",
@@ -24,24 +52,6 @@
     "pending": true
   },
   "medal": {},
-  "balloon_color": [
-    {
-      "color": "#000",
-      "background_color": "#e83535"
-    },
-    {
-      "color": "#000",
-      "background_color": "#e4ed61"
-    },
-    {
-      "color": "#000",
-      "background_color": "#3eb2f0"
-    },
-    {
-      "color": "#000",
-      "background_color": "#29b54c"
-    }
-  ],
   "options": {
     "submission_timestamp_unit": "millisecond",
     "enable_organization": true

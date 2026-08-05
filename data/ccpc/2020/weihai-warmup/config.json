@@ -3,11 +3,23 @@
   "start_time": 1603522800,
   "end_time": 1603533600,
   "frozen_time": 0,
-  "problem_id": [
-    "A",
-    "B",
-    "C",
-    "D"
+  "problems": [
+    {
+      "id": "0",
+      "label": "A"
+    },
+    {
+      "id": "1",
+      "label": "B"
+    },
+    {
+      "id": "2",
+      "label": "C"
+    },
+    {
+      "id": "3",
+      "label": "D"
+    }
   ],
   "group": {
     "official": "正式队伍",

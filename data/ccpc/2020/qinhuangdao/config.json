@@ -14,19 +14,55 @@
     }
   },
   "penalty": 1200,
-  "problem_id": [
-    "A",
-    "B",
-    "C",
-    "D",
-    "E",
-    "F",
-    "G",
-    "H",
-    "I",
-    "J",
-    "K",
-    "L"
+  "problems": [
+    {
+      "id": "0",
+      "label": "A"
+    },
+    {
+      "id": "1",
+      "label": "B"
+    },
+    {
+      "id": "2",
+      "label": "C"
+    },
+    {
+      "id": "3",
+      "label": "D"
+    },
+    {
+      "id": "4",
+      "label": "E"
+    },
+    {
+      "id": "5",
+      "label": "F"
+    },
+    {
+      "id": "6",
+      "label": "G"
+    },
+    {
+      "id": "7",
+      "label": "H"
+    },
+    {
+      "id": "8",
+      "label": "I"
+    },
+    {
+      "id": "9",
+      "label": "J"
+    },
+    {
+      "id": "10",
+      "label": "K"
+    },
+    {
+      "id": "11",
+      "label": "L"
+    }
   ],
   "start_time": 1602982800,
   "status_time_display": {

@@ -3,20 +3,59 @@
   "start_time": 1556769600,
   "end_time": 1556787600,
   "frozen_time": 3600,
-  "problem_id": [
-    "A",
-    "B",
-    "C",
-    "D",
-    "E",
-    "F",
-    "G",
-    "H",
-    "I",
-    "J",
-    "K",
-    "L",
-    "M"
+  "problems": [
+    {
+      "id": "0",
+      "label": "A"
+    },
+    {
+      "id": "1",
+      "label": "B"
+    },
+    {
+      "id": "2",
+      "label": "C"
+    },
+    {
+      "id": "3",
+      "label": "D"
+    },
+    {
+      "id": "4",
+      "label": "E"
+    },
+    {
+      "id": "5",
+      "label": "F"
+    },
+    {
+      "id": "6",
+      "label": "G"
+    },
+    {
+      "id": "7",
+      "label": "H"
+    },
+    {
+      "id": "8",
+      "label": "I"
+    },
+    {
+      "id": "9",
+      "label": "J"
+    },
+    {
+      "id": "10",
+      "label": "K"
+    },
+    {
+      "id": "11",
+      "label": "L"
+    },
+    {
+      "id": "12",
+      "label": "M"
+    }
   ],
   "group": {
     "official": "正式队伍",

@@ -4,73 +4,110 @@
   "end_time": 1779602400000,
   "penalty": 1200,
   "frozen_time": 3600,
-  "problem_id": [
-    "A",
-    "B",
-    "C",
-    "D",
-    "E",
-    "F",
-    "G",
-    "H",
-    "I",
-    "J",
-    "K",
-    "L",
-    "M"
-  ],
-  "balloon_color": [
+  "problems": [
     {
-      "color": "#000000",
-      "background_color": "#f05a91"
+      "id": "0",
+      "label": "A",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#f05a91"
+      }
     },
     {
-      "color": "#000000",
-      "background_color": "#fadc2d"
+      "id": "1",
+      "label": "B",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#fadc2d"
+      }
     },
     {
-      "color": "#000000",
-      "background_color": "#9BE13C"
+      "id": "2",
+      "label": "C",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#9BE13C"
+      }
     },
     {
-      "color": "#000000",
-      "background_color": "#f57d32"
+      "id": "3",
+      "label": "D",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#f57d32"
+      }
     },
     {
-      "color": "#000000",
-      "background_color": "#23af5f"
+      "id": "4",
+      "label": "E",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#23af5f"
+      }
     },
     {
-      "color": "#000000",
-      "background_color": "#d72828"
+      "id": "5",
+      "label": "F",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#d72828"
+      }
     },
     {
-      "color": "#000000",
-      "background_color": "#0f3caf"
+      "id": "6",
+      "label": "G",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#0f3caf"
+      }
     },
     {
-      "color": "#000000",
-      "background_color": "#96236e"
+      "id": "7",
+      "label": "H",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#96236e"
+      }
     },
     {
-      "color": "#000000",
-      "background_color": "#f5f5fa"
+      "id": "8",
+      "label": "I",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#f5f5fa"
+      }
     },
     {
-      "color": "#000000",
-      "background_color": "#46d2e6"
+      "id": "9",
+      "label": "J",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#46d2e6"
+      }
     },
     {
-      "color": "#000000",
-      "background_color": "#372dbe"
+      "id": "10",
+      "label": "K",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#372dbe"
+      }
     },
     {
-      "color": "#000000",
-      "background_color": "#191919"
+      "id": "11",
+      "label": "L",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#191919"
+      }
     },
     {
-      "color": "#000000",
-      "background_color": "#5f1914"
+      "id": "12",
+      "label": "M",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#5f1914"
+      }
     }
   ],
   "status_time_display": {

@@ -3,17 +3,47 @@
   "start_time": 1604124000,
   "end_time": 1604134800,
   "frozen_time": 0,
-  "problem_id": [
-    "A",
-    "B",
-    "C",
-    "D",
-    "E",
-    "F",
-    "G",
-    "H",
-    "I",
-    "J"
+  "problems": [
+    {
+      "id": "0",
+      "label": "A"
+    },
+    {
+      "id": "1",
+      "label": "B"
+    },
+    {
+      "id": "2",
+      "label": "C"
+    },
+    {
+      "id": "3",
+      "label": "D"
+    },
+    {
+      "id": "4",
+      "label": "E"
+    },
+    {
+      "id": "5",
+      "label": "F"
+    },
+    {
+      "id": "6",
+      "label": "G"
+    },
+    {
+      "id": "7",
+      "label": "H"
+    },
+    {
+      "id": "8",
+      "label": "I"
+    },
+    {
+      "id": "9",
+      "label": "J"
+    }
   ],
   "group": {},
   "status_time_display": {
