@@ -69,7 +69,7 @@
     "timestamp": 8955000,
     "language": "C++",
     "submission_id": "1794307231566516224",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921601",
@@ -109,7 +109,7 @@
     "timestamp": 8922000,
     "language": "C++",
     "submission_id": "1794307090310737920",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921583",
@@ -157,7 +157,7 @@
     "timestamp": 8896000,
     "language": "C++",
     "submission_id": "1794306981720211456",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921555",
@@ -261,7 +261,7 @@
     "timestamp": 8838000,
     "language": "C++",
     "submission_id": "1794306740572893184",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921579",
@@ -293,7 +293,7 @@
     "timestamp": 8807000,
     "language": "C++",
     "submission_id": "1794306611069562880",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921624",
@@ -349,7 +349,7 @@
     "timestamp": 8779000,
     "language": "C++",
     "submission_id": "1794306490340720640",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921540",
@@ -365,7 +365,7 @@
     "timestamp": 8771000,
     "language": "Java",
     "submission_id": "1794306459420315648",
-    "status": "NON_ZERO_EXIT_CODE"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921675",
@@ -421,7 +421,7 @@
     "timestamp": 8748000,
     "language": "C++",
     "submission_id": "1794306363978919936",
-    "status": "SEGMENTATION_FAULT"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921673",
@@ -429,7 +429,7 @@
     "timestamp": 8748000,
     "language": "C++",
     "submission_id": "1794306360933855232",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921579",
@@ -477,7 +477,7 @@
     "timestamp": 8738000,
     "language": "C++",
     "submission_id": "1794306321356414976",
-    "status": "SEGMENTATION_FAULT"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921727",
@@ -517,7 +517,7 @@
     "timestamp": 8728000,
     "language": "C++",
     "submission_id": "1794306279044276224",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921699",
@@ -557,7 +557,7 @@
     "timestamp": 8722000,
     "language": "C++",
     "submission_id": "1794306253207363584",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921617",
@@ -573,7 +573,7 @@
     "timestamp": 8712000,
     "language": "C++",
     "submission_id": "1794306209439789056",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921542",
@@ -581,7 +581,7 @@
     "timestamp": 8707000,
     "language": "Java",
     "submission_id": "1794306188547973120",
-    "status": "NON_ZERO_EXIT_CODE"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921731",
@@ -597,7 +597,7 @@
     "timestamp": 8703000,
     "language": "Java",
     "submission_id": "1794306175486906368",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921643",
@@ -613,7 +613,7 @@
     "timestamp": 8694000,
     "language": "C++",
     "submission_id": "1794306135888486400",
-    "status": "SEGMENTATION_FAULT"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921727",
@@ -637,7 +637,7 @@
     "timestamp": 8676000,
     "language": "C++",
     "submission_id": "1794306059489226752",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921579",
@@ -701,7 +701,7 @@
     "timestamp": 8657000,
     "language": "Java",
     "submission_id": "1794305980908953600",
-    "status": "NON_ZERO_EXIT_CODE"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921554",
@@ -733,7 +733,7 @@
     "timestamp": 8632000,
     "language": "Java",
     "submission_id": "1794305876625965056",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921579",
@@ -773,7 +773,7 @@
     "timestamp": 8614000,
     "language": "Java",
     "submission_id": "1794305800675516416",
-    "status": "NON_ZERO_EXIT_CODE"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921540",
@@ -861,7 +861,7 @@
     "timestamp": 8556000,
     "language": "Java",
     "submission_id": "1794305556734791680",
-    "status": "NON_ZERO_EXIT_CODE"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921704",
@@ -877,7 +877,7 @@
     "timestamp": 8553000,
     "language": "C++",
     "submission_id": "1794305546156761088",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921553",
@@ -917,7 +917,7 @@
     "timestamp": 8545000,
     "language": "C++",
     "submission_id": "1794305508999417856",
-    "status": "SEGMENTATION_FAULT"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921592",
@@ -941,7 +941,7 @@
     "timestamp": 8540000,
     "language": "Java",
     "submission_id": "1794305485721030656",
-    "status": "NON_ZERO_EXIT_CODE"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921704",
@@ -989,7 +989,7 @@
     "timestamp": 8514000,
     "language": "Java",
     "submission_id": "1794305381094117376",
-    "status": "NON_ZERO_EXIT_CODE"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921548",
@@ -1109,7 +1109,7 @@
     "timestamp": 8375000,
     "language": "C++",
     "submission_id": "1794304796986953728",
-    "status": "NON_ZERO_EXIT_CODE"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921661",
@@ -1117,7 +1117,7 @@
     "timestamp": 8372000,
     "language": "Java",
     "submission_id": "1794304785024802816",
-    "status": "NON_ZERO_EXIT_CODE"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921551",
@@ -1141,7 +1141,7 @@
     "timestamp": 8345000,
     "language": "C++",
     "submission_id": "1794304671262683136",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921592",
@@ -1173,7 +1173,7 @@
     "timestamp": 8315000,
     "language": "C++",
     "submission_id": "1794304544972193792",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921587",
@@ -1253,7 +1253,7 @@
     "timestamp": 8235000,
     "language": "C++",
     "submission_id": "1794304210870722560",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921622",
@@ -1269,7 +1269,7 @@
     "timestamp": 8224000,
     "language": "Python",
     "submission_id": "1794304163546386432",
-    "status": "NON_ZERO_EXIT_CODE"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921624",
@@ -1381,7 +1381,7 @@
     "timestamp": 8145000,
     "language": "C++",
     "submission_id": "1794303833119109120",
-    "status": "SEGMENTATION_FAULT"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921581",
@@ -1461,7 +1461,7 @@
     "timestamp": 8067000,
     "language": "Java",
     "submission_id": "1794303505351028736",
-    "status": "NON_ZERO_EXIT_CODE"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921619",
@@ -1485,7 +1485,7 @@
     "timestamp": 8061000,
     "language": "Java",
     "submission_id": "1794303479883223040",
-    "status": "NON_ZERO_EXIT_CODE"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921556",
@@ -1605,7 +1605,7 @@
     "timestamp": 7973000,
     "language": "C++",
     "submission_id": "1794303113242324992",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921699",
@@ -1621,7 +1621,7 @@
     "timestamp": 7948000,
     "language": "Java",
     "submission_id": "1794303007571030016",
-    "status": "NON_ZERO_EXIT_CODE"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921685",
@@ -1757,7 +1757,7 @@
     "timestamp": 7843000,
     "language": "Java",
     "submission_id": "1794302564270845952",
-    "status": "NON_ZERO_EXIT_CODE"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921611",
@@ -1813,7 +1813,7 @@
     "timestamp": 7828000,
     "language": "C++",
     "submission_id": "1794302502128037888",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921661",
@@ -1821,7 +1821,7 @@
     "timestamp": 7827000,
     "language": "Java",
     "submission_id": "1794302497501728768",
-    "status": "NON_ZERO_EXIT_CODE"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921619",
@@ -1845,7 +1845,7 @@
     "timestamp": 7803000,
     "language": "Java",
     "submission_id": "1794302398394515456",
-    "status": "NON_ZERO_EXIT_CODE"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921544",
@@ -1885,7 +1885,7 @@
     "timestamp": 7786000,
     "language": "C++",
     "submission_id": "1794302325724000256",
-    "status": "SEGMENTATION_FAULT"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921648",
@@ -1901,7 +1901,7 @@
     "timestamp": 7767000,
     "language": "C++",
     "submission_id": "1794302248209072128",
-    "status": "SEGMENTATION_FAULT"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921571",
@@ -2037,7 +2037,7 @@
     "timestamp": 7634000,
     "language": "Java",
     "submission_id": "1794301689322262528",
-    "status": "NON_ZERO_EXIT_CODE"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921702",
@@ -2053,7 +2053,7 @@
     "timestamp": 7621000,
     "language": "Java",
     "submission_id": "1794301637124153344",
-    "status": "NON_ZERO_EXIT_CODE"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921565",
@@ -2165,7 +2165,7 @@
     "timestamp": 7585000,
     "language": "Java",
     "submission_id": "1794301484053028864",
-    "status": "NON_ZERO_EXIT_CODE"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921563",
@@ -2301,7 +2301,7 @@
     "timestamp": 7517000,
     "language": "C++",
     "submission_id": "1794301200044109824",
-    "status": "SEGMENTATION_FAULT"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921582",
@@ -2317,7 +2317,7 @@
     "timestamp": 7500000,
     "language": "C++",
     "submission_id": "1794301127994359808",
-    "status": "SEGMENTATION_FAULT"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921656",
@@ -2501,7 +2501,7 @@
     "timestamp": 7387000,
     "language": "C++",
     "submission_id": "1794300653777969152",
-    "status": "SEGMENTATION_FAULT"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921556",
@@ -2621,7 +2621,7 @@
     "timestamp": 7301000,
     "language": "C",
     "submission_id": "1794300293575327744",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921659",
@@ -2637,7 +2637,7 @@
     "timestamp": 7283000,
     "language": "C++",
     "submission_id": "1794300216538546176",
-    "status": "SEGMENTATION_FAULT"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921672",
@@ -2717,7 +2717,7 @@
     "timestamp": 7231000,
     "language": "C",
     "submission_id": "1794299998367633408",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921703",
@@ -2853,7 +2853,7 @@
     "timestamp": 7078000,
     "language": "Python",
     "submission_id": "1794299356748177408",
-    "status": "NON_ZERO_EXIT_CODE"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921675",
@@ -2885,7 +2885,7 @@
     "timestamp": 7059000,
     "language": "C++",
     "submission_id": "1794299277765234688",
-    "status": "SEGMENTATION_FAULT"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921562",
@@ -2949,7 +2949,7 @@
     "timestamp": 7028000,
     "language": "C++",
     "submission_id": "1794299147800526848",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921617",
@@ -3045,7 +3045,7 @@
     "timestamp": 6963000,
     "language": "Java",
     "submission_id": "1794298874428375040",
-    "status": "NON_ZERO_EXIT_CODE"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921583",
@@ -3173,7 +3173,7 @@
     "timestamp": 6890000,
     "language": "C++",
     "submission_id": "1794298569032716288",
-    "status": "SEGMENTATION_FAULT"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921629",
@@ -3237,7 +3237,7 @@
     "timestamp": 6824000,
     "language": "Python",
     "submission_id": "1794298292837789696",
-    "status": "NON_ZERO_EXIT_CODE"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921742",
@@ -3261,7 +3261,7 @@
     "timestamp": 6814000,
     "language": "Java",
     "submission_id": "1794298249644859392",
-    "status": "NON_ZERO_EXIT_CODE"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921626",
@@ -3293,7 +3293,7 @@
     "timestamp": 6775000,
     "language": "C++",
     "submission_id": "1794298086465454080",
-    "status": "SEGMENTATION_FAULT"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921541",
@@ -3397,7 +3397,7 @@
     "timestamp": 6715000,
     "language": "C++",
     "submission_id": "1794297835184705536",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921579",
@@ -3429,7 +3429,7 @@
     "timestamp": 6699000,
     "language": "Python",
     "submission_id": "1794297766402310144",
-    "status": "NON_ZERO_EXIT_CODE"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921638",
@@ -3477,7 +3477,7 @@
     "timestamp": 6660000,
     "language": "Java",
     "submission_id": "1794297606179905536",
-    "status": "NON_ZERO_EXIT_CODE"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921570",
@@ -3525,7 +3525,7 @@
     "timestamp": 6616000,
     "language": "Java",
     "submission_id": "1794297418488995840",
-    "status": "NON_ZERO_EXIT_CODE"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921585",
@@ -3541,7 +3541,7 @@
     "timestamp": 6606000,
     "language": "C++",
     "submission_id": "1794297377082826752",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921696",
@@ -3557,7 +3557,7 @@
     "timestamp": 6600000,
     "language": "Java",
     "submission_id": "1794297354383245312",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921709",
@@ -3701,7 +3701,7 @@
     "timestamp": 6526000,
     "language": "Java",
     "submission_id": "1794297042364776448",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921742",
@@ -3733,7 +3733,7 @@
     "timestamp": 6502000,
     "language": "Java",
     "submission_id": "1794296941605015552",
-    "status": "NON_ZERO_EXIT_CODE"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921585",
@@ -3821,7 +3821,7 @@
     "timestamp": 6461000,
     "language": "Java",
     "submission_id": "1794296762462093312",
-    "status": "NON_ZERO_EXIT_CODE"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921661",
@@ -3829,7 +3829,7 @@
     "timestamp": 6459000,
     "language": "Java",
     "submission_id": "1794296749799489536",
-    "status": "NON_ZERO_EXIT_CODE"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921661",
@@ -3837,7 +3837,7 @@
     "timestamp": 6448000,
     "language": "Java",
     "submission_id": "1794296701564993536",
-    "status": "NON_ZERO_EXIT_CODE"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921623",
@@ -3893,7 +3893,7 @@
     "timestamp": 6402000,
     "language": "Java",
     "submission_id": "1794296523760066560",
-    "status": "NON_ZERO_EXIT_CODE"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921648",
@@ -3949,7 +3949,7 @@
     "timestamp": 6353000,
     "language": "C++",
     "submission_id": "1794296317249302528",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921682",
@@ -4005,7 +4005,7 @@
     "timestamp": 6305000,
     "language": "C++",
     "submission_id": "1794296111610966016",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921623",
@@ -4045,7 +4045,7 @@
     "timestamp": 6283000,
     "language": "Java",
     "submission_id": "1794295991758737408",
-    "status": "NON_ZERO_EXIT_CODE"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921585",
@@ -4181,7 +4181,7 @@
     "timestamp": 6163000,
     "language": "Java",
     "submission_id": "1794295505869586432",
-    "status": "NON_ZERO_EXIT_CODE"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921713",
@@ -4317,7 +4317,7 @@
     "timestamp": 6012000,
     "language": "Java",
     "submission_id": "1794294887687905280",
-    "status": "NON_ZERO_EXIT_CODE"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921579",
@@ -4365,7 +4365,7 @@
     "timestamp": 5921000,
     "language": "C++",
     "submission_id": "1794294504362061824",
-    "status": "SEGMENTATION_FAULT"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921715",
@@ -4429,7 +4429,7 @@
     "timestamp": 5874000,
     "language": "Java",
     "submission_id": "1794294306437054464",
-    "status": "NON_ZERO_EXIT_CODE"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921641",
@@ -4517,7 +4517,7 @@
     "timestamp": 5787000,
     "language": "C++",
     "submission_id": "1794293942451154944",
-    "status": "SEGMENTATION_FAULT"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921548",
@@ -4853,7 +4853,7 @@
     "timestamp": 5423000,
     "language": "C++",
     "submission_id": "1794292417674850304",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921702",
@@ -4893,7 +4893,7 @@
     "timestamp": 5403000,
     "language": "Java",
     "submission_id": "1794292332467568640",
-    "status": "NON_ZERO_EXIT_CODE"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921640",
@@ -4941,7 +4941,7 @@
     "timestamp": 5355000,
     "language": "Python",
     "submission_id": "1794292132223107072",
-    "status": "NON_ZERO_EXIT_CODE"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921608",
@@ -4997,7 +4997,7 @@
     "timestamp": 5323000,
     "language": "Java",
     "submission_id": "1794291998164766720",
-    "status": "NON_ZERO_EXIT_CODE"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921599",
@@ -5061,7 +5061,7 @@
     "timestamp": 5272000,
     "language": "Python",
     "submission_id": "1794291783756132352",
-    "status": "NON_ZERO_EXIT_CODE"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921585",
@@ -5101,7 +5101,7 @@
     "timestamp": 5255000,
     "language": "C++",
     "submission_id": "1794291713350545408",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921703",
@@ -5277,7 +5277,7 @@
     "timestamp": 5110000,
     "language": "Python",
     "submission_id": "1794291103364530176",
-    "status": "NON_ZERO_EXIT_CODE"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921640",
@@ -5493,7 +5493,7 @@
     "timestamp": 4953000,
     "language": "Python",
     "submission_id": "1794290446133870592",
-    "status": "NON_ZERO_EXIT_CODE"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921720",
@@ -5549,7 +5549,7 @@
     "timestamp": 4897000,
     "language": "C++",
     "submission_id": "1794290207838687232",
-    "status": "SEGMENTATION_FAULT"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921662",
@@ -5621,7 +5621,7 @@
     "timestamp": 4843000,
     "language": "Java",
     "submission_id": "1794289982097043456",
-    "status": "NON_ZERO_EXIT_CODE"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921662",
@@ -5853,7 +5853,7 @@
     "timestamp": 4593000,
     "language": "C++",
     "submission_id": "1794288933307133952",
-    "status": "SEGMENTATION_FAULT"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921724",
@@ -5949,7 +5949,7 @@
     "timestamp": 4519000,
     "language": "Java",
     "submission_id": "1794288625122258944",
-    "status": "NON_ZERO_EXIT_CODE"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921654",
@@ -6197,7 +6197,7 @@
     "timestamp": 4275000,
     "language": "Java",
     "submission_id": "1794287602546753536",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921585",
@@ -6245,7 +6245,7 @@
     "timestamp": 4209000,
     "language": "Python",
     "submission_id": "1794287322581155840",
-    "status": "NON_ZERO_EXIT_CODE"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921617",
@@ -6253,7 +6253,7 @@
     "timestamp": 4200000,
     "language": "Java",
     "submission_id": "1794287283947417600",
-    "status": "NON_ZERO_EXIT_CODE"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921696",
@@ -6541,7 +6541,7 @@
     "timestamp": 4016000,
     "language": "Java",
     "submission_id": "1794286513902567424",
-    "status": "NON_ZERO_EXIT_CODE"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921721",
@@ -6701,7 +6701,7 @@
     "timestamp": 3903000,
     "language": "C",
     "submission_id": "1794286039132524544",
-    "status": "SEGMENTATION_FAULT"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921711",
@@ -6885,7 +6885,7 @@
     "timestamp": 3711000,
     "language": "C",
     "submission_id": "1794285234010701824",
-    "status": "SEGMENTATION_FAULT"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921541",
@@ -6949,7 +6949,7 @@
     "timestamp": 3673000,
     "language": "C++",
     "submission_id": "1794285075033997312",
-    "status": "SEGMENTATION_FAULT"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921654",
@@ -7029,7 +7029,7 @@
     "timestamp": 3621000,
     "language": "C++",
     "submission_id": "1794284852584890368",
-    "status": "SEGMENTATION_FAULT"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921690",
@@ -7045,7 +7045,7 @@
     "timestamp": 3613000,
     "language": "Java",
     "submission_id": "1794284826458570752",
-    "status": "NON_ZERO_EXIT_CODE"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921570",
@@ -7109,7 +7109,7 @@
     "timestamp": 3565000,
     "language": "C",
     "submission_id": "1794284621139001344",
-    "status": "SEGMENTATION_FAULT"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921614",
@@ -7141,7 +7141,7 @@
     "timestamp": 3531000,
     "language": "C++",
     "submission_id": "1794284481812611072",
-    "status": "SEGMENTATION_FAULT"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921690",
@@ -7165,7 +7165,7 @@
     "timestamp": 3519000,
     "language": "C++",
     "submission_id": "1794284430705012736",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921543",
@@ -7197,7 +7197,7 @@
     "timestamp": 3498000,
     "language": "C++",
     "submission_id": "1794284342440083456",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921623",
@@ -7229,7 +7229,7 @@
     "timestamp": 3486000,
     "language": "Java",
     "submission_id": "1794284292704022528",
-    "status": "NON_ZERO_EXIT_CODE"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921640",
@@ -7549,7 +7549,7 @@
     "timestamp": 3256000,
     "language": "Java",
     "submission_id": "1794283328324485120",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921543",
@@ -7973,7 +7973,7 @@
     "timestamp": 3025000,
     "language": "C",
     "submission_id": "1794282357477326848",
-    "status": "SEGMENTATION_FAULT"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921551",
@@ -8325,7 +8325,7 @@
     "timestamp": 2789000,
     "language": "Java",
     "submission_id": "1794281368791797760",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921717",
@@ -8389,7 +8389,7 @@
     "timestamp": 2762000,
     "language": "Java",
     "submission_id": "1794281254962581504",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921572",
@@ -8397,7 +8397,7 @@
     "timestamp": 2749000,
     "language": "Java",
     "submission_id": "1794281199002181632",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921607",
@@ -8685,7 +8685,7 @@
     "timestamp": 2473000,
     "language": "Java",
     "submission_id": "1794280043190407168",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921648",
@@ -8749,7 +8749,7 @@
     "timestamp": 2418000,
     "language": "C++",
     "submission_id": "1794279814080737280",
-    "status": "SEGMENTATION_FAULT"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921683",
@@ -8853,7 +8853,7 @@
     "timestamp": 2317000,
     "language": "Java",
     "submission_id": "1794279387738132480",
-    "status": "NON_ZERO_EXIT_CODE"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921657",
@@ -8957,7 +8957,7 @@
     "timestamp": 2250000,
     "language": "Java",
     "submission_id": "1794279106300325888",
-    "status": "NON_ZERO_EXIT_CODE"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921706",
@@ -9445,7 +9445,7 @@
     "timestamp": 1829000,
     "language": "C++",
     "submission_id": "1794277343543406592",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921592",
@@ -9485,7 +9485,7 @@
     "timestamp": 1817000,
     "language": "Java",
     "submission_id": "1794277291815067648",
-    "status": "NON_ZERO_EXIT_CODE"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921603",
@@ -9517,7 +9517,7 @@
     "timestamp": 1803000,
     "language": "Java",
     "submission_id": "1794277233275158528",
-    "status": "NON_ZERO_EXIT_CODE"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921638",
@@ -9605,7 +9605,7 @@
     "timestamp": 1729000,
     "language": "Java",
     "submission_id": "1794276921764208640",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921618",
@@ -9837,7 +9837,7 @@
     "timestamp": 1536000,
     "language": "C++",
     "submission_id": "1794276114339717120",
-    "status": "SEGMENTATION_FAULT"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921669",
@@ -9893,7 +9893,7 @@
     "timestamp": 1472000,
     "language": "C++",
     "submission_id": "1794275843404451840",
-    "status": "SEGMENTATION_FAULT"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921554",
@@ -9901,7 +9901,7 @@
     "timestamp": 1447000,
     "language": "C++",
     "submission_id": "1794275738379083776",
-    "status": "SEGMENTATION_FAULT"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921542",
@@ -9925,7 +9925,7 @@
     "timestamp": 1426000,
     "language": "C",
     "submission_id": "1794275652240662528",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921541",
@@ -10101,7 +10101,7 @@
     "timestamp": 1324000,
     "language": "C++",
     "submission_id": "1794275223796703232",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921723",
@@ -10149,7 +10149,7 @@
     "timestamp": 1300000,
     "language": "C++",
     "submission_id": "1794275124731437056",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921638",
@@ -10157,7 +10157,7 @@
     "timestamp": 1297000,
     "language": "C",
     "submission_id": "1794275108835020800",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921696",
@@ -10229,7 +10229,7 @@
     "timestamp": 1228000,
     "language": "C++",
     "submission_id": "1794274812402581504",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921646",
@@ -10237,7 +10237,7 @@
     "timestamp": 1225000,
     "language": "C++",
     "submission_id": "1794274796069961728",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921720",
@@ -10253,7 +10253,7 @@
     "timestamp": 1213000,
     "language": "C++",
     "submission_id": "1794274750305914880",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921619",
@@ -10413,7 +10413,7 @@
     "timestamp": 1059000,
     "language": "C++",
     "submission_id": "1794274113421824000",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921718",
@@ -10501,7 +10501,7 @@
     "timestamp": 1000000,
     "language": "C",
     "submission_id": "1794273864787668992",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921567",
@@ -10517,7 +10517,7 @@
     "timestamp": 996000,
     "language": "C++",
     "submission_id": "1794273845665849344",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921715",
@@ -10741,7 +10741,7 @@
     "timestamp": 828000,
     "language": "C++",
     "submission_id": "1794273137138847744",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921654",
@@ -10789,7 +10789,7 @@
     "timestamp": 806000,
     "language": "C++",
     "submission_id": "1794273047187795968",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921552",
@@ -10877,7 +10877,7 @@
     "timestamp": 789000,
     "language": "C",
     "submission_id": "1794272981026844672",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921539",
@@ -10885,7 +10885,7 @@
     "timestamp": 784000,
     "language": "C++",
     "submission_id": "1794272956465012736",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921670",
@@ -10893,7 +10893,7 @@
     "timestamp": 777000,
     "language": "C",
     "submission_id": "1794272925909504000",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921725",
@@ -11045,7 +11045,7 @@
     "timestamp": 656000,
     "language": "C++",
     "submission_id": "1794272423675150336",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921675",
@@ -11093,7 +11093,7 @@
     "timestamp": 628000,
     "language": "C",
     "submission_id": "1794272302929530880",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921660",
@@ -11109,7 +11109,7 @@
     "timestamp": 626000,
     "language": "C",
     "submission_id": "1794272296365436928",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921620",
@@ -11381,7 +11381,7 @@
     "timestamp": 454000,
     "language": "C",
     "submission_id": "1794271574764793856",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921555",
@@ -11389,7 +11389,7 @@
     "timestamp": 452000,
     "language": "C",
     "submission_id": "1794271565067567104",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921673",
@@ -11477,7 +11477,7 @@
     "timestamp": 412000,
     "language": "C",
     "submission_id": "1794271398021017600",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921582",
@@ -11637,7 +11637,7 @@
     "timestamp": 325000,
     "language": "C",
     "submission_id": "1794271030717431808",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921580",
@@ -11677,7 +11677,7 @@
     "timestamp": 311000,
     "language": "C++",
     "submission_id": "1794270966943035392",
-    "status": "SEGMENTATION_FAULT"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921590",
@@ -11749,7 +11749,7 @@
     "timestamp": 289000,
     "language": "C++",
     "submission_id": "1794270880888508416",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921687",
@@ -11789,7 +11789,7 @@
     "timestamp": 276000,
     "language": "C",
     "submission_id": "1794270828614889472",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921681",
@@ -11853,7 +11853,7 @@
     "timestamp": 255000,
     "language": "C",
     "submission_id": "1794270739725008896",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921715",
@@ -11933,7 +11933,7 @@
     "timestamp": 220000,
     "language": "C++",
     "submission_id": "1794270592244887552",
-    "status": "SEGMENTATION_FAULT"
+    "status": "RUNTIME_ERROR"
   },
   {
     "team_id": "1793645055033921680",
@@ -12005,7 +12005,7 @@
     "timestamp": 197000,
     "language": "C",
     "submission_id": "1794270497004826624",
-    "status": "COMPILE_ERROR"
+    "status": "COMPILATION_ERROR"
   },
   {
     "team_id": "1793645055033921566",
