@@ -1,24 +1,35 @@
 {
   "editor.tabSize": 2,
   "editor.insertSpaces": true,
+  "editor.formatOnSave": false,
   "files.trimTrailingWhitespace": true,
   "files.insertFinalNewline": true,
   "files.trimFinalNewlines": true,
 
-  // Disable the default formatter
-  "prettier.enable": false,
-  "editor.formatOnSave": false,
+  "[json]": {
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "editor.formatOnSave": true,
+    "files.insertFinalNewline": false,
+  },
 
   "[shellscript]": {
+    "editor.tabSize": 2,
+    "editor.formatOnSave": true,
+    "editor.insertSpaces": true,
     "editor.defaultFormatter": "mkhl.shfmt",
-    "editor.formatOnSave": true
   },
+  "shfmt.executableArgs": [
+    "-i",
+    "2"
+  ],
 
   "python.defaultInterpreterPath": "${workspaceFolder}/.venv/bin/python",
   "ruff.interpreter": [
     "${workspaceFolder}/.venv/bin/python"
   ],
   "[python]": {
+    "editor.tabSize": 4,
     "editor.formatOnSave": true,
     "editor.codeActionsOnSave": {
       "source.fixAll": "explicit",
@@ -32,26 +43,6 @@
     "notebook.source.fixAll": "explicit",
     "notebook.source.organizeImports": "explicit"
   },
-
-  // Auto fix
-  "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": "explicit",
-    "source.organizeImports": "never"
-  },
-
-  "eslint.validate": [
-    "javascript",
-    "javascriptreact",
-    "typescript",
-    "typescriptreact",
-    "vue",
-    "html",
-    "markdown",
-    "json",
-    "jsonc",
-    "yaml",
-    "toml"
-  ],
 
   "cSpell.words": [
     "aliyuncs",
