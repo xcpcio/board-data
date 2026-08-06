@@ -14,6 +14,12 @@ uv run ./python/gen_contest_list.py
 # generate site
 uv run ./python/create_site.py
 
+# format data
+uv run ./python/format_data.py ./data
+
+# validate data
+uv run ./python/validate_data.py ./data
+
 # start a http server
 ./start.sh
 ```
