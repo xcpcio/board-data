@@ -82,10 +82,46 @@ def delete_previous_comments(owner: str, repo: str, pr_number: int) -> None:
         run_gh(["api", "-X", "DELETE", f"repos/{owner}/{repo}/pulls/comments/{comment['id']}"])
 
 
-def build_comment_body(issue: dict[str, Any]) -> str:
-    location = issue.get("location") or "<root>"
-    message = issue.get("message") or "validation failed"
-    return f"{MARKER}\n**validate-data**: `{location}` — {message}"
+def issue_fingerprint(issue: dict[str, Any]) -> tuple[str, str]:
+    return (issue.get("location") or "<root>", issue.get("message") or "validation failed")
+
+
+def group_issues_by_line(issues: list[dict[str, Any]]) -> list[tuple[str, int | None, list[dict[str, Any]]]]:
+    """Group issues by (path, line), preserving first-seen order and deduping identical messages."""
+    grouped: dict[tuple[str, int | None], list[dict[str, Any]]] = {}
+    order: list[tuple[str, int | None]] = []
+    seen: set[tuple[str, int | None, str, str]] = set()
+
+    for issue in issues:
+        path = issue["path"]
+        line = issue.get("line")
+        location, message = issue_fingerprint(issue)
+        key = (path, line, location, message)
+        if key in seen:
+            continue
+        seen.add(key)
+
+        group_key = (path, line if isinstance(line, int) else None)
+        if group_key not in grouped:
+            grouped[group_key] = []
+            order.append(group_key)
+        grouped[group_key].append(issue)
+
+    return [(path, line, grouped[(path, line)]) for path, line in order]
+
+
+def build_comment_body(issues: list[dict[str, Any]]) -> str:
+    lines = [MARKER, f"**validate-data**: {len(issues)} issue(s)"]
+    for issue in issues:
+        location, message = issue_fingerprint(issue)
+        lines.append(f"- `{location}` — {message}")
+    return "\n".join(lines)
+
+
+def format_unmatched_group(path: str, line: int | None, issues: list[dict[str, Any]]) -> str:
+    line_text = f":{line}" if line is not None else ""
+    details = "; ".join(f"`{loc}` — {msg}" for loc, msg in (issue_fingerprint(i) for i in issues))
+    return f"- `{path}{line_text}`: {details}"
 
 
 @click.command()
@@ -136,17 +172,11 @@ def post_validate_pr_comments(
         commentable[file_info["filename"]] = parse_commentable_lines(file_info.get("patch"))
 
     review_comments: list[dict[str, Any]] = []
-    unmatched: list[dict[str, Any]] = []
-    seen: set[tuple[str, int | None, str]] = set()
+    unmatched_groups: list[tuple[str, int | None, list[dict[str, Any]]]] = []
+    issue_count = 0
 
-    for issue in issues:
-        path = issue["path"]
-        line = issue.get("line")
-        key = (path, line, issue.get("message") or "")
-        if key in seen:
-            continue
-        seen.add(key)
-
+    for path, line, group in group_issues_by_line(issues):
+        issue_count += len(group)
         if (
             isinstance(line, int)
             and line in commentable.get(path, set())
@@ -157,27 +187,24 @@ def post_validate_pr_comments(
                     "path": path,
                     "line": line,
                     "side": "RIGHT",
-                    "body": build_comment_body(issue),
+                    "body": build_comment_body(group),
                 }
             )
         else:
-            unmatched.append(issue)
+            unmatched_groups.append((path, line, group))
 
     body_lines = [
         MARKER,
         "## validate-data",
         "",
-        f"Found **{len(issues)}** validation issue(s).",
+        f"Found **{issue_count}** validation issue(s) across **{len(review_comments) + len(unmatched_groups)}** location(s).",
     ]
-    if unmatched:
+    if unmatched_groups:
         body_lines.extend(["", "Issues outside the PR diff (see workflow annotations):", ""])
-        for issue in unmatched[:50]:
-            loc = issue.get("location") or "<root>"
-            line = issue.get("line")
-            line_text = f":{line}" if line is not None else ""
-            body_lines.append(f"- `{issue['path']}{line_text}` `{loc}` — {issue.get('message')}")
-        if len(unmatched) > 50:
-            body_lines.append(f"- ... and {len(unmatched) - 50} more")
+        for path, line, group in unmatched_groups[:50]:
+            body_lines.append(format_unmatched_group(path, line, group))
+        if len(unmatched_groups) > 50:
+            body_lines.append(f"- ... and {len(unmatched_groups) - 50} more location(s)")
 
     payload: dict[str, Any] = {
         "commit_id": commit_id,
@@ -192,7 +219,7 @@ def post_validate_pr_comments(
     )
     click.echo(
         f"Posted review on PR #{pr_number}: {len(review_comments)} inline comment(s), "
-        f"{len(unmatched)} summarized outside diff."
+        f"{len(unmatched_groups)} summarized outside diff."
     )
 
 
