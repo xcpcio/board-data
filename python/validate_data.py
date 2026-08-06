@@ -1,10 +1,14 @@
 #!/usr/bin/env python3
 """Validate board data JSON files against xcpcio pydantic models."""
 
+from __future__ import annotations
+
 import json
+import os
 import re
 import sys
 from bisect import bisect_right
+from dataclasses import asdict, dataclass
 from pathlib import Path
 from typing import Iterable
 
@@ -23,6 +27,14 @@ TARGETS: dict[str, Model] = {
     "seat_map.json": SeatMap,
     "organizations.json": Organizations,
 }
+
+
+@dataclass(frozen=True)
+class ValidationIssue:
+    path: str
+    message: str
+    line: int | None = None
+    location: str | None = None
 
 
 def iter_target_files(data_dir: Path) -> Iterable[tuple[Path, Model]]:
@@ -150,36 +162,84 @@ def get_error_line(location: Location, path_lines: dict[Location, int]) -> int |
     return None
 
 
-def validate_file(path: Path, model: Model, max_errors_per_file: int | None) -> int:
+def escape_github_annotation(value: str) -> str:
+    return value.replace("%", "%25").replace("\r", "%0D").replace("\n", "%0A")
+
+
+def emit_github_annotation(issue: ValidationIssue) -> None:
+    params = [f"file={escape_github_annotation(issue.path)}"]
+    if issue.line is not None:
+        params.append(f"line={issue.line}")
+    title = issue.location or "validation"
+    params.append(f"title={escape_github_annotation(title)}")
+    message = escape_github_annotation(issue.message)
+    click.echo(f"::error {','.join(params)}::{message}", err=True)
+
+
+def collect_file_issues(path: Path, model: Model, max_errors_per_file: int | None) -> list[ValidationIssue]:
+    rel_path = path.as_posix()
     try:
         model.model_validate(json_input(str(path)))
     except json.JSONDecodeError as e:
-        click.secho(f"{path}: invalid JSON: {e}", fg="red", err=True)
-        return 1
+        return [
+            ValidationIssue(
+                path=rel_path,
+                line=e.lineno,
+                location="<json>",
+                message=f"invalid JSON: {e.msg}",
+            )
+        ]
     except ValidationError as e:
         validation_errors = e.errors()
         shown_errors = validation_errors[:max_errors_per_file]
-
-        click.secho(f"{path}: validation failed ({len(validation_errors)} error(s))", fg="red", err=True)
         path_lines = JSONPathLineMapper(path.read_text()).parse() if shown_errors else {}
-        for error in shown_errors:
-            location = format_location(error["loc"])
-            line = get_error_line(error["loc"], path_lines)
-            message = error["msg"]
-            line_prefix = f"line {line}: " if line is not None else ""
-            click.echo(f"  - {line_prefix}{location}: {message}", err=True)
-
+        issues = [
+            ValidationIssue(
+                path=rel_path,
+                line=get_error_line(error["loc"], path_lines),
+                location=format_location(error["loc"]),
+                message=error["msg"],
+            )
+            for error in shown_errors
+        ]
         hidden_errors = len(validation_errors) - len(shown_errors)
         if hidden_errors > 0:
-            click.echo(f"  ... {hidden_errors} more error(s) hidden; use --all-errors to show all", err=True)
-        return 1
+            issues.append(
+                ValidationIssue(
+                    path=rel_path,
+                    location="<summary>",
+                    message=f"{hidden_errors} more error(s) hidden; use --all-errors to show all",
+                )
+            )
+        return issues
 
-    return 0
+    return []
+
+
+def report_issues(issues: list[ValidationIssue], *, github_annotations: bool) -> None:
+    grouped: dict[str, list[ValidationIssue]] = {}
+    for issue in issues:
+        grouped.setdefault(issue.path, []).append(issue)
+
+    for path, path_issues in grouped.items():
+        real_issues = [issue for issue in path_issues if issue.location != "<summary>"]
+        click.secho(f"{path}: validation failed ({len(real_issues)} error(s))", fg="red", err=True)
+        for issue in path_issues:
+            if issue.location == "<summary>":
+                click.echo(f"  ... {issue.message}", err=True)
+                continue
+            line_prefix = f"line {issue.line}: " if issue.line is not None else ""
+            location = issue.location or "<root>"
+            click.echo(f"  - {line_prefix}{location}: {issue.message}", err=True)
+            if github_annotations:
+                emit_github_annotation(issue)
 
 
 @click.command()
 @click.argument(
-    "data_dir", default="data", type=click.Path(exists=True, file_okay=False, dir_okay=True, path_type=Path)
+    "data_dirs",
+    nargs=-1,
+    type=click.Path(exists=True, file_okay=False, dir_okay=True, path_type=Path),
 )
 @click.option(
     "--max-errors-per-file",
@@ -189,18 +249,59 @@ def validate_file(path: Path, model: Model, max_errors_per_file: int | None) -> 
     help="Maximum validation errors to display for each invalid file.",
 )
 @click.option("--all-errors", is_flag=True, help="Display all validation errors for each invalid file.")
-def validate_data(data_dir: Path, max_errors_per_file: int, all_errors: bool):
-    """Validate config.json, run.json, and team.json files under DATA_DIR."""
+@click.option(
+    "--report-json",
+    type=click.Path(dir_okay=False, writable=True, path_type=Path),
+    help="Write machine-readable validation issues to this JSON file.",
+)
+@click.option(
+    "--github-annotations/--no-github-annotations",
+    default=None,
+    help="Emit GitHub Actions error annotations. Defaults to on when GITHUB_ACTIONS=true.",
+)
+def validate_data(
+    data_dirs: tuple[Path, ...],
+    max_errors_per_file: int,
+    all_errors: bool,
+    report_json: Path | None,
+    github_annotations: bool | None,
+):
+    """Validate config.json, run.json, and team.json files under DATA_DIRS.
+
+    If no DATA_DIRS are given, validates the default ./data directory.
+    """
+    dirs = data_dirs or (Path("data"),)
     checked = 0
-    errors = 0
+    invalid_files = 0
+    issues: list[ValidationIssue] = []
     output_limit = None if all_errors else max_errors_per_file
+    use_annotations = (
+        bool(os.environ.get("GITHUB_ACTIONS")) if github_annotations is None else github_annotations
+    )
 
-    for path, model in iter_target_files(data_dir):
-        checked += 1
-        errors += validate_file(path, model, output_limit)
+    for data_dir in dirs:
+        for path, model in iter_target_files(data_dir):
+            checked += 1
+            file_issues = collect_file_issues(path, model, output_limit)
+            if file_issues:
+                invalid_files += 1
+                issues.extend(file_issues)
 
-    if errors:
-        click.secho(f"\nChecked {checked} file(s), found {errors} invalid file(s).", fg="red", err=True)
+    if report_json is not None:
+        report_json.parent.mkdir(parents=True, exist_ok=True)
+        report_json.write_text(json.dumps([asdict(issue) for issue in issues], indent=2) + "\n")
+
+    if checked == 0:
+        click.secho("No target files found.", fg="yellow")
+        return
+
+    if issues:
+        report_issues(issues, github_annotations=use_annotations)
+        click.secho(
+            f"\nChecked {checked} file(s), found {invalid_files} invalid file(s).",
+            fg="red",
+            err=True,
+        )
         sys.exit(1)
 
     click.secho(f"Checked {checked} file(s), all valid.", fg="green")

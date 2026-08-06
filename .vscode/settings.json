@@ -5,13 +5,20 @@
   "files.insertFinalNewline": true,
   "files.trimFinalNewlines": true,
 
+  // Disable the default formatter
+  "prettier.enable": false,
+  "editor.formatOnSave": false,
+
   "[shellscript]": {
     "editor.defaultFormatter": "mkhl.shfmt",
     "editor.formatOnSave": true
   },
 
+  "python.defaultInterpreterPath": "${workspaceFolder}/.venv/bin/python",
+  "ruff.interpreter": [
+    "${workspaceFolder}/.venv/bin/python"
+  ],
   "[python]": {
-    "editor.tabSize": 4,
     "editor.formatOnSave": true,
     "editor.codeActionsOnSave": {
       "source.fixAll": "explicit",
@@ -20,14 +27,11 @@
     "editor.defaultFormatter": "charliermarsh.ruff"
   },
   "notebook.formatOnSave.enabled": true,
+  "notebook.defaultFormatter": "charliermarsh.ruff",
   "notebook.codeActionsOnSave": {
     "notebook.source.fixAll": "explicit",
     "notebook.source.organizeImports": "explicit"
   },
-
-  // Disable the default formatter
-  "prettier.enable": false,
-  "editor.formatOnSave": false,
 
   // Auto fix
   "editor.codeActionsOnSave": {

@@ -35,3 +35,33 @@ jobs:
           uv run ./python/gen_contest_list.py
           uv run ./python/create_site.py
           cat ./data/index/contest_list.json | jq
+
+  validate-data:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+
+      - uses: astral-sh/setup-uv@v7
+        with:
+          enable-cache: true
+
+      - name: Install
+        run: uv sync --dev
+
+      - name: Validate changed data
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            BASE="${{ github.event.pull_request.base.sha }}"
+            HEAD_SHA="${{ github.event.pull_request.head.sha }}"
+          else
+            BASE="${{ github.event.before }}"
+            HEAD_SHA="${{ github.sha }}"
+          fi
+          ./scripts/validate-changed-data.sh "${BASE}" "${HEAD_SHA}"
