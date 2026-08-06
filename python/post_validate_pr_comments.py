@@ -14,6 +14,7 @@ from typing import Any
 import click
 
 MARKER = "<!-- board-data-validate -->"
+SUMMARY_MARKER = "<!-- board-data-validate-summary -->"
 HUNK_HEADER_RE = re.compile(r"^@@ -\d+(?:,\d+)? \+(\d+)(?:,(\d+))? @@")
 MAX_INLINE_COMMENTS = 30
 
@@ -29,6 +30,15 @@ def run_gh(args: list[str], *, input_text: str | None = None) -> str:
     if result.returncode != 0:
         raise RuntimeError(result.stderr.strip() or result.stdout.strip() or f"gh {' '.join(args)} failed")
     return result.stdout
+
+
+def parse_json_list(output: str) -> list[dict[str, Any]]:
+    if not output.strip():
+        return []
+    data = json.loads(output)
+    if isinstance(data, list):
+        return data
+    raise RuntimeError("expected a JSON array from gh api")
 
 
 def parse_commentable_lines(patch: str | None) -> set[int]:
@@ -64,7 +74,7 @@ def load_issues(report_path: Path) -> list[dict[str, Any]]:
     return [issue for issue in data if issue.get("location") != "<summary>"]
 
 
-def delete_previous_comments(owner: str, repo: str, pr_number: int) -> None:
+def delete_previous_inline_comments(owner: str, repo: str, pr_number: int) -> None:
     output = run_gh(
         [
             "api",
@@ -72,14 +82,51 @@ def delete_previous_comments(owner: str, repo: str, pr_number: int) -> None:
             f"repos/{owner}/{repo}/pulls/{pr_number}/comments",
         ]
     )
-    if not output.strip():
-        return
-
-    for comment in json.loads(output):
+    for comment in parse_json_list(output):
         body = comment.get("body") or ""
         if MARKER not in body:
             continue
         run_gh(["api", "-X", "DELETE", f"repos/{owner}/{repo}/pulls/comments/{comment['id']}"])
+
+
+def find_summary_comment_id(owner: str, repo: str, pr_number: int) -> int | None:
+    output = run_gh(
+        [
+            "api",
+            "--paginate",
+            f"repos/{owner}/{repo}/issues/{pr_number}/comments",
+        ]
+    )
+    for comment in parse_json_list(output):
+        body = comment.get("body") or ""
+        if SUMMARY_MARKER in body or (MARKER in body and "## validate-data" in body and "issue(s)" in body):
+            return int(comment["id"])
+    return None
+
+
+def upsert_summary_comment(owner: str, repo: str, pr_number: int, body: str | None) -> str:
+    """Create or update the sticky PR conversation summary. Delete when body is None."""
+    comment_id = find_summary_comment_id(owner, repo, pr_number)
+
+    if body is None:
+        if comment_id is not None:
+            run_gh(["api", "-X", "DELETE", f"repos/{owner}/{repo}/issues/comments/{comment_id}"])
+            return "deleted"
+        return "absent"
+
+    payload = json.dumps({"body": body})
+    if comment_id is not None:
+        run_gh(
+            ["api", "--method", "PATCH", f"repos/{owner}/{repo}/issues/comments/{comment_id}", "--input", "-"],
+            input_text=payload,
+        )
+        return "updated"
+
+    run_gh(
+        ["api", "--method", "POST", f"repos/{owner}/{repo}/issues/{pr_number}/comments", "--input", "-"],
+        input_text=payload,
+    )
+    return "created"
 
 
 def issue_fingerprint(issue: dict[str, Any]) -> tuple[str, str]:
@@ -110,7 +157,7 @@ def group_issues_by_line(issues: list[dict[str, Any]]) -> list[tuple[str, int | 
     return [(path, line, grouped[(path, line)]) for path, line in order]
 
 
-def build_comment_body(issues: list[dict[str, Any]]) -> str:
+def build_inline_comment_body(issues: list[dict[str, Any]]) -> str:
     lines = [MARKER, f"**validate-data**: {len(issues)} issue(s)"]
     for issue in issues:
         location, message = issue_fingerprint(issue)
@@ -122,6 +169,26 @@ def format_unmatched_group(path: str, line: int | None, issues: list[dict[str, A
     line_text = f":{line}" if line is not None else ""
     details = "; ".join(f"`{loc}` — {msg}" for loc, msg in (issue_fingerprint(i) for i in issues))
     return f"- `{path}{line_text}`: {details}"
+
+
+def build_summary_body(
+    issue_count: int,
+    location_count: int,
+    unmatched_groups: list[tuple[str, int | None, list[dict[str, Any]]]],
+) -> str:
+    body_lines = [
+        SUMMARY_MARKER,
+        "## validate-data",
+        "",
+        f"Found **{issue_count}** validation issue(s) across **{location_count}** location(s).",
+    ]
+    if unmatched_groups:
+        body_lines.extend(["", "Issues outside the PR diff (see workflow annotations):", ""])
+        for path, line, group in unmatched_groups[:50]:
+            body_lines.append(format_unmatched_group(path, line, group))
+        if len(unmatched_groups) > 50:
+            body_lines.append(f"- ... and {len(unmatched_groups) - 50} more location(s)")
+    return "\n".join(body_lines)
 
 
 @click.command()
@@ -160,15 +227,16 @@ def post_validate_pr_comments(
         raise click.ClickException("Set --commit or GITHUB_SHA")
 
     issues = load_issues(report_json)
-    delete_previous_comments(owner, repo, pr_number)
+    delete_previous_inline_comments(owner, repo, pr_number)
 
     if not issues:
-        click.echo("No issues to comment on; cleared previous validate comments.")
+        action = upsert_summary_comment(owner, repo, pr_number, None)
+        click.echo(f"No issues to comment on; summary comment {action}, cleared inline comments.")
         return
 
     files_json = run_gh(["api", "--paginate", f"repos/{owner}/{repo}/pulls/{pr_number}/files"])
     commentable: dict[str, set[int]] = {}
-    for file_info in json.loads(files_json):
+    for file_info in parse_json_list(files_json):
         commentable[file_info["filename"]] = parse_commentable_lines(file_info.get("patch"))
 
     review_comments: list[dict[str, Any]] = []
@@ -187,38 +255,32 @@ def post_validate_pr_comments(
                     "path": path,
                     "line": line,
                     "side": "RIGHT",
-                    "body": build_comment_body(group),
+                    "body": build_inline_comment_body(group),
                 }
             )
         else:
             unmatched_groups.append((path, line, group))
 
-    body_lines = [
-        MARKER,
-        "## validate-data",
-        "",
-        f"Found **{issue_count}** validation issue(s) across **{len(review_comments) + len(unmatched_groups)}** location(s).",
-    ]
-    if unmatched_groups:
-        body_lines.extend(["", "Issues outside the PR diff (see workflow annotations):", ""])
-        for path, line, group in unmatched_groups[:50]:
-            body_lines.append(format_unmatched_group(path, line, group))
-        if len(unmatched_groups) > 50:
-            body_lines.append(f"- ... and {len(unmatched_groups) - 50} more location(s)")
+    location_count = len(review_comments) + len(unmatched_groups)
+    summary_body = build_summary_body(issue_count, location_count, unmatched_groups)
+    summary_action = upsert_summary_comment(owner, repo, pr_number, summary_body)
 
-    payload: dict[str, Any] = {
-        "commit_id": commit_id,
-        "body": "\n".join(body_lines),
-        "event": "COMMENT",
-        "comments": review_comments,
-    }
+    for comment in review_comments:
+        payload = {
+            "commit_id": commit_id,
+            "path": comment["path"],
+            "line": comment["line"],
+            "side": comment["side"],
+            "body": comment["body"],
+        }
+        run_gh(
+            ["api", "--method", "POST", f"repos/{owner}/{repo}/pulls/{pr_number}/comments", "--input", "-"],
+            input_text=json.dumps(payload),
+        )
 
-    run_gh(
-        ["api", "--method", "POST", f"repos/{owner}/{repo}/pulls/{pr_number}/reviews", "--input", "-"],
-        input_text=json.dumps(payload),
-    )
     click.echo(
-        f"Posted review on PR #{pr_number}: {len(review_comments)} inline comment(s), "
+        f"PR #{pr_number}: summary {summary_action}, "
+        f"{len(review_comments)} inline comment(s), "
         f"{len(unmatched_groups)} summarized outside diff."
     )
 
