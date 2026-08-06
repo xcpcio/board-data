@@ -36,7 +36,22 @@ jobs:
           uv run ./python/create_site.py
           cat ./data/index/contest_list.json | jq
 
+  format-data:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: astral-sh/setup-uv@v7
+        with:
+          enable-cache: true
+
+      - name: Install
+        run: uv sync --dev
+
+      - name: Format data
+        run: uv run ./python/format_data.py --check ./data
+
   validate-data:
+    needs: format-data
     runs-on: ubuntu-latest
     permissions:
       contents: read
