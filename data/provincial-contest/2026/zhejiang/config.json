@@ -115,7 +115,18 @@
     "incorrect": true,
     "pending": true
   },
-  "medal": {},
+  "medal": {
+    "undergraduate": {
+      "gold": 28,
+      "silver": 41,
+      "bronze": 70
+    },
+    "vocational": {
+      "gold": 14,
+      "silver": 22,
+      "bronze": 36
+    }
+  },
   "group": {
     "undergraduate": "本科组",
     "vocational": "专科组",
