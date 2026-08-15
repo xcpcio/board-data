@@ -1,0 +1,1722 @@
+[
+  {
+    "id": "org-001",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Shanghai Jiao Tong University",
+        "zh-CN": "上海交通大学"
+      }
+    }
+  },
+  {
+    "id": "org-002",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Shanghai University",
+        "zh-CN": "上海大学"
+      }
+    }
+  },
+  {
+    "id": "org-003",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Shanghai Jianqiao University",
+        "zh-CN": "上海建桥学院"
+      }
+    }
+  },
+  {
+    "id": "org-004",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Northeastern University (China)",
+        "zh-CN": "东北大学"
+      }
+    }
+  },
+  {
+    "id": "org-005",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "East China University of Technology",
+        "zh-CN": "东华理工大学"
+      }
+    }
+  },
+  {
+    "id": "org-006",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "North University of China",
+        "zh-CN": "中北大学"
+      }
+    }
+  },
+  {
+    "id": "org-007",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Central South University",
+        "zh-CN": "中南大学"
+      }
+    }
+  },
+  {
+    "id": "org-008",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "South-Central Minzu University",
+        "zh-CN": "中南民族大学"
+      }
+    }
+  },
+  {
+    "id": "org-009",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Zhongyuan University of Technology",
+        "zh-CN": "中原工学院"
+      }
+    }
+  },
+  {
+    "id": "org-010",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Information Engineering University of the People's Liberation Army",
+        "zh-CN": "中国人民解放军战略支援部队信息工程大学"
+      }
+    }
+  },
+  {
+    "id": "org-011",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Communication University of China",
+        "zh-CN": "中国传媒大学"
+      }
+    }
+  },
+  {
+    "id": "org-012",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "China University of Geosciences, Beijing",
+        "zh-CN": "中国地质大学（北京）"
+      }
+    }
+  },
+  {
+    "id": "org-013",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Ocean University of China",
+        "zh-CN": "中国海洋大学"
+      }
+    }
+  },
+  {
+    "id": "org-014",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Xuhai College, China University of Mining and Technology",
+        "zh-CN": "中国矿业大学徐海学院"
+      }
+    }
+  },
+  {
+    "id": "org-015",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "China University of Mining and Technology, Beijing",
+        "zh-CN": "中国矿业大学（北京）"
+      }
+    }
+  },
+  {
+    "id": "org-016",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "University of Science and Technology of China",
+        "zh-CN": "中国科学技术大学"
+      }
+    }
+  },
+  {
+    "id": "org-017",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "China Jiliang University College of Modern Science and Technology",
+        "zh-CN": "中国计量大学现代科技学院"
+      }
+    }
+  },
+  {
+    "id": "org-018",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Linyi University",
+        "zh-CN": "临沂大学"
+      }
+    }
+  },
+  {
+    "id": "org-019",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "leshan normal university",
+        "zh-CN": "乐山师范学院"
+      }
+    }
+  },
+  {
+    "id": "org-020",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Yunnan University",
+        "zh-CN": "云南大学"
+      }
+    }
+  },
+  {
+    "id": "org-021",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Lanzhou Jiaotong University",
+        "zh-CN": "兰州交通大学"
+      }
+    }
+  },
+  {
+    "id": "org-022",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Lanzhou University of Technology",
+        "zh-CN": "兰州理工大学"
+      }
+    }
+  },
+  {
+    "id": "org-023",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Beijing Information Science and Technology University",
+        "zh-CN": "北京信息科技大学"
+      }
+    }
+  },
+  {
+    "id": "org-024",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Beijing University of Chemical Technology",
+        "zh-CN": "北京化工大学"
+      }
+    }
+  },
+  {
+    "id": "org-025",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Beijing Institute of Technology",
+        "zh-CN": "北京理工大学"
+      }
+    }
+  },
+  {
+    "id": "org-026",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Beijing Electronic Science and Technology Institute",
+        "zh-CN": "北京电子科技学院"
+      }
+    }
+  },
+  {
+    "id": "org-027",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "University of Science and Technology Beijing",
+        "zh-CN": "北京科技大学"
+      }
+    }
+  },
+  {
+    "id": "org-028",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Beihang University",
+        "zh-CN": "北京航空航天大学"
+      }
+    }
+  },
+  {
+    "id": "org-029",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "East China Jiaotong University",
+        "zh-CN": "华东交通大学"
+      }
+    }
+  },
+  {
+    "id": "org-030",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "East China Normal University",
+        "zh-CN": "华东师范大学"
+      }
+    }
+  },
+  {
+    "id": "org-031",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Huazhong Agricultural University",
+        "zh-CN": "华中农业大学"
+      }
+    }
+  },
+  {
+    "id": "org-032",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Central China Normal University",
+        "zh-CN": "华中师范大学"
+      }
+    }
+  },
+  {
+    "id": "org-033",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Huazhong University of Science and Technology",
+        "zh-CN": "华中科技大学"
+      }
+    }
+  },
+  {
+    "id": "org-034",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Nanjing University of Information Science & Technology",
+        "zh-CN": "南京信息工程大学"
+      }
+    }
+  },
+  {
+    "id": "org-035",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Nanjing University",
+        "zh-CN": "南京大学"
+      }
+    }
+  },
+  {
+    "id": "org-036",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Nanjing Tech University",
+        "zh-CN": "南京工业大学"
+      }
+    }
+  },
+  {
+    "id": "org-037",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Nanjing Xiaozhuang University",
+        "zh-CN": "南京晓庄学院"
+      }
+    }
+  },
+  {
+    "id": "org-038",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Nanjing University of Aeronautics and Astronautics",
+        "zh-CN": "南京航空航天大学"
+      }
+    }
+  },
+  {
+    "id": "org-039",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Nanjing University of Posts and Telecommunications",
+        "zh-CN": "南京邮电大学"
+      }
+    }
+  },
+  {
+    "id": "org-040",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Nankai University",
+        "zh-CN": "南开大学"
+      }
+    }
+  },
+  {
+    "id": "org-041",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Nanchang University",
+        "zh-CN": "南昌大学"
+      }
+    }
+  },
+  {
+    "id": "org-042",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Nanchang Institute of Technology",
+        "zh-CN": "南昌理工学院"
+      }
+    }
+  },
+  {
+    "id": "org-043",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Nanchang Vocational University",
+        "zh-CN": "南昌职业大学"
+      }
+    }
+  },
+  {
+    "id": "org-044",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Nanchang Hangkong University",
+        "zh-CN": "南昌航空大学"
+      }
+    }
+  },
+  {
+    "id": "org-045",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Nantong University",
+        "zh-CN": "南通大学"
+      }
+    }
+  },
+  {
+    "id": "org-046",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Nanyang Normal University",
+        "zh-CN": "南阳师范学院"
+      }
+    }
+  },
+  {
+    "id": "org-047",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Nanyang Institute of Technology",
+        "zh-CN": "南阳理工学院"
+      }
+    }
+  },
+  {
+    "id": "org-048",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Xiamen University",
+        "zh-CN": "厦门大学"
+      }
+    }
+  },
+  {
+    "id": "org-049",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Xiamen University Tan Kah Kee College",
+        "zh-CN": "厦门大学嘉庚学院"
+      }
+    }
+  },
+  {
+    "id": "org-050",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Hefei university",
+        "zh-CN": "合肥学院"
+      }
+    }
+  },
+  {
+    "id": "org-051",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Hefei University of Technology at Xuancheng",
+        "zh-CN": "合肥工业大学宣城校区"
+      }
+    }
+  },
+  {
+    "id": "org-052",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Jishou University",
+        "zh-CN": "吉首大学"
+      }
+    }
+  },
+  {
+    "id": "org-053",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Tongji University",
+        "zh-CN": "同济大学"
+      }
+    }
+  },
+  {
+    "id": "org-054",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Harbin Institute of Technology, Shenzhen",
+        "zh-CN": "哈尔滨工业大学（深圳）"
+      }
+    }
+  },
+  {
+    "id": "org-055",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Sichuan University",
+        "zh-CN": "四川大学"
+      }
+    }
+  },
+  {
+    "id": "org-056",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Sichuan Normal University",
+        "zh-CN": "四川师范大学"
+      }
+    }
+  },
+  {
+    "id": "org-057",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "University of International Relations",
+        "zh-CN": "国际关系学院"
+      }
+    }
+  },
+  {
+    "id": "org-058",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Dalian Maritime University",
+        "zh-CN": "大连海事大学"
+      }
+    }
+  },
+  {
+    "id": "org-059",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Dalian University of Technology",
+        "zh-CN": "大连理工大学"
+      }
+    }
+  },
+  {
+    "id": "org-060",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Tianjin Polytechnic University",
+        "zh-CN": "天津工业大学"
+      }
+    }
+  },
+  {
+    "id": "org-061",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Taiyuan University of Technology",
+        "zh-CN": "太原理工大学"
+      }
+    }
+  },
+  {
+    "id": "org-062",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Ningxia University",
+        "zh-CN": "宁夏大学"
+      }
+    }
+  },
+  {
+    "id": "org-063",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Ningbo University of Technology",
+        "zh-CN": "宁波工程学院"
+      }
+    }
+  },
+  {
+    "id": "org-064",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Anhui University",
+        "zh-CN": "安徽大学"
+      }
+    }
+  },
+  {
+    "id": "org-065",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Anhui University of Technology",
+        "zh-CN": "安徽工业大学"
+      }
+    }
+  },
+  {
+    "id": "org-066",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Anyang Institute of Technology",
+        "zh-CN": "安阳工学院"
+      }
+    }
+  },
+  {
+    "id": "org-067",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Shandong University",
+        "zh-CN": "山东大学"
+      }
+    }
+  },
+  {
+    "id": "org-068",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Shandong Technology and Business University",
+        "zh-CN": "山东工商学院"
+      }
+    }
+  },
+  {
+    "id": "org-069",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Shandong Normal University",
+        "zh-CN": "山东师范大学"
+      }
+    }
+  },
+  {
+    "id": "org-070",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Shandong University of Technology",
+        "zh-CN": "山东理工大学"
+      }
+    }
+  },
+  {
+    "id": "org-071",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Shandong University of Science and Technology",
+        "zh-CN": "山东科技大学"
+      }
+    }
+  },
+  {
+    "id": "org-072",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Shanxi University",
+        "zh-CN": "山西大学"
+      }
+    }
+  },
+  {
+    "id": "org-073",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Changshu Institute of Technology",
+        "zh-CN": "常熟理工学院"
+      }
+    }
+  },
+  {
+    "id": "org-074",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Neusoft Institute Guangdong",
+        "zh-CN": "广东东软学院"
+      }
+    }
+  },
+  {
+    "id": "org-075",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Guangdong University of Technology",
+        "zh-CN": "广东工业大学"
+      }
+    }
+  },
+  {
+    "id": "org-076",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Guangdong University of Finance",
+        "zh-CN": "广东金融学院"
+      }
+    }
+  },
+  {
+    "id": "org-077",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Xi‘an Innovation College of Yanan University",
+        "zh-CN": "延安大学西安创新学院"
+      }
+    }
+  },
+  {
+    "id": "org-078",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Xuzhou University of Technology",
+        "zh-CN": "徐州工程学院"
+      }
+    }
+  },
+  {
+    "id": "org-079",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Huaihua University",
+        "zh-CN": "怀化学院"
+      }
+    }
+  },
+  {
+    "id": "org-080",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "ChengDu Neusoft University",
+        "zh-CN": "成都东软学院"
+      }
+    }
+  },
+  {
+    "id": "org-081",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Chengdu University of Information Technology",
+        "zh-CN": "成都信息工程大学"
+      }
+    }
+  },
+  {
+    "id": "org-082",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Chengdu University",
+        "zh-CN": "成都大学"
+      }
+    }
+  },
+  {
+    "id": "org-083",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Chengdu University of Technology",
+        "zh-CN": "成都理工大学"
+      }
+    }
+  },
+  {
+    "id": "org-084",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Chengdu Jincheng College",
+        "zh-CN": "成都锦城学院"
+      }
+    }
+  },
+  {
+    "id": "org-085",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Xinjiang University",
+        "zh-CN": "新疆大学"
+      }
+    }
+  },
+  {
+    "id": "org-086",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Qufu Normal University",
+        "zh-CN": "曲阜师范大学"
+      }
+    }
+  },
+  {
+    "id": "org-087",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Wuchang Shouyi University",
+        "zh-CN": "武昌首义学院"
+      }
+    }
+  },
+  {
+    "id": "org-088",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Wuhan Business University",
+        "zh-CN": "武汉商学院"
+      }
+    }
+  },
+  {
+    "id": "org-089",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "WuHan University",
+        "zh-CN": "武汉大学"
+      }
+    }
+  },
+  {
+    "id": "org-090",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Wuhan University",
+        "zh-CN": "武汉学院"
+      }
+    }
+  },
+  {
+    "id": "org-091",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Wuhan University of Technology",
+        "zh-CN": "武汉理工大学"
+      }
+    }
+  },
+  {
+    "id": "org-092",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Jiangnan University",
+        "zh-CN": "江南大学"
+      }
+    }
+  },
+  {
+    "id": "org-093",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Jiangxi Normal University",
+        "zh-CN": "江西师范大学"
+      }
+    }
+  },
+  {
+    "id": "org-094",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Jiangxi University of Science and Technology",
+        "zh-CN": "江西理工大学"
+      }
+    }
+  },
+  {
+    "id": "org-095",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Jiangxi University of Science and Technology Nanchang",
+        "zh-CN": "江西理工大学南昌校区"
+      }
+    }
+  },
+  {
+    "id": "org-096",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Jiangxi University of Finance and Economics",
+        "zh-CN": "江西财经大学"
+      }
+    }
+  },
+  {
+    "id": "org-097",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Shenyang Ligong University",
+        "zh-CN": "沈阳理工大学"
+      }
+    }
+  },
+  {
+    "id": "org-098",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Shenyang Aerospace University",
+        "zh-CN": "沈阳航空航天大学"
+      }
+    }
+  },
+  {
+    "id": "org-099",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Hebei University",
+        "zh-CN": "河北大学"
+      }
+    }
+  },
+  {
+    "id": "org-100",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Hebei Normal University",
+        "zh-CN": "河北师范大学"
+      }
+    }
+  },
+  {
+    "id": "org-101",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Henan University",
+        "zh-CN": "河南大学"
+      }
+    }
+  },
+  {
+    "id": "org-102",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Henan University of Science and Technology",
+        "zh-CN": "河南科技大学"
+      }
+    }
+  },
+  {
+    "id": "org-103",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Henan Finance University",
+        "zh-CN": "河南财政金融学院"
+      }
+    }
+  },
+  {
+    "id": "org-104",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Hohai University",
+        "zh-CN": "河海大学"
+      }
+    }
+  },
+  {
+    "id": "org-105",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Quanzhou Normal University",
+        "zh-CN": "泉州师范学院"
+      }
+    }
+  },
+  {
+    "id": "org-106",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Zhejiang University City College",
+        "zh-CN": "浙大城市学院"
+      }
+    }
+  },
+  {
+    "id": "org-107",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "NingboTech University",
+        "zh-CN": "浙大宁波理工学院"
+      }
+    }
+  },
+  {
+    "id": "org-108",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "zhejiang wanli university",
+        "zh-CN": "浙江万里学院"
+      }
+    }
+  },
+  {
+    "id": "org-109",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Zhejiang Chinese Medical University",
+        "zh-CN": "浙江中医药大学"
+      }
+    }
+  },
+  {
+    "id": "org-110",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Zhejiang JiYang College",
+        "zh-CN": "浙江农林大学暨阳学院"
+      }
+    }
+  },
+  {
+    "id": "org-111",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Zhejiang University of Technology",
+        "zh-CN": "浙江工业大学"
+      }
+    }
+  },
+  {
+    "id": "org-112",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Zhejiang Gongshang University",
+        "zh-CN": "浙江工商大学"
+      }
+    }
+  },
+  {
+    "id": "org-113",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Zhejiang Normal University",
+        "zh-CN": "浙江师范大学"
+      }
+    }
+  },
+  {
+    "id": "org-114",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Zhejiang SCI-TECH University",
+        "zh-CN": "浙江理工大学"
+      }
+    }
+  },
+  {
+    "id": "org-115",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Zhejiang University of Science & Technology",
+        "zh-CN": "浙江科技学院"
+      }
+    }
+  },
+  {
+    "id": "org-116",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Zhejiang Yuying College of Vocational Technology",
+        "zh-CN": "浙江育英职业技术学院"
+      }
+    }
+  },
+  {
+    "id": "org-117",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Zhejiang University of Finance & Economics",
+        "zh-CN": "浙江财经大学"
+      }
+    }
+  },
+  {
+    "id": "org-118",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Shenzhen University",
+        "zh-CN": "深圳大学"
+      }
+    }
+  },
+  {
+    "id": "org-119",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Shenzhen Technology University",
+        "zh-CN": "深圳技术大学"
+      }
+    }
+  },
+  {
+    "id": "org-120",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Wenzhou University",
+        "zh-CN": "温州大学"
+      }
+    }
+  },
+  {
+    "id": "org-121",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Hubei University of Technology",
+        "zh-CN": "湖北工业大学"
+      }
+    }
+  },
+  {
+    "id": "org-122",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Hunan Agricultural University",
+        "zh-CN": "湖南农业大学"
+      }
+    }
+  },
+  {
+    "id": "org-123",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Hunan Institute of Technology",
+        "zh-CN": "湖南工学院"
+      }
+    }
+  },
+  {
+    "id": "org-124",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Hunan Normal University",
+        "zh-CN": "湖南师范大学"
+      }
+    }
+  },
+  {
+    "id": "org-125",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Hunan Institute of Science and Technology",
+        "zh-CN": "湖南理工学院"
+      }
+    }
+  },
+  {
+    "id": "org-126",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Weifang University",
+        "zh-CN": "潍坊学院"
+      }
+    }
+  },
+  {
+    "id": "org-127",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "University of Electronic Science and Technology of China，Zhongshan Institute",
+        "zh-CN": "电子科技大学中山学院"
+      }
+    }
+  },
+  {
+    "id": "org-128",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "RB Technology",
+        "zh-CN": "睿钯科技"
+      }
+    }
+  },
+  {
+    "id": "org-129",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Shijiazhuang Tiedao University",
+        "zh-CN": "石家庄铁道大学"
+      }
+    }
+  },
+  {
+    "id": "org-130",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Shihezi University",
+        "zh-CN": "石河子大学"
+      }
+    }
+  },
+  {
+    "id": "org-131",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Fujian University of Technology",
+        "zh-CN": "福建工程学院"
+      }
+    }
+  },
+  {
+    "id": "org-132",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Fujian Normal University",
+        "zh-CN": "福建师范大学"
+      }
+    }
+  },
+  {
+    "id": "org-133",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Northwest A&F University",
+        "zh-CN": "西北农林科技大学"
+      }
+    }
+  },
+  {
+    "id": "org-134",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Northwestern University",
+        "zh-CN": "西北大学"
+      }
+    }
+  },
+  {
+    "id": "org-135",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Northwestern Polytechnical University",
+        "zh-CN": "西北工业大学"
+      }
+    }
+  },
+  {
+    "id": "org-136",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Northwest Normal University",
+        "zh-CN": "西北师范大学"
+      }
+    }
+  },
+  {
+    "id": "org-137",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Xihua University",
+        "zh-CN": "西华大学"
+      }
+    }
+  },
+  {
+    "id": "org-138",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "SouthWest Minzu University",
+        "zh-CN": "西南民族大学"
+      }
+    }
+  },
+  {
+    "id": "org-139",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Southwest Petroleum University",
+        "zh-CN": "西南石油大学"
+      }
+    }
+  },
+  {
+    "id": "org-140",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Southwest University of Science and Technology",
+        "zh-CN": "西南科技大学"
+      }
+    }
+  },
+  {
+    "id": "org-141",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Southwest University of Finance and Economics",
+        "zh-CN": "西南财经大学"
+      }
+    }
+  },
+  {
+    "id": "org-142",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Xi'an Jiaotong University",
+        "zh-CN": "西安交通大学"
+      }
+    }
+  },
+  {
+    "id": "org-143",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "XJ FuZhong",
+        "zh-CN": "西安交通大学附属中学"
+      }
+    }
+  },
+  {
+    "id": "org-144",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Xi'an Tie Yizhong",
+        "zh-CN": "西安市铁一中学"
+      }
+    }
+  },
+  {
+    "id": "org-145",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Xi'an Mingde Institute of Technology",
+        "zh-CN": "西安明德理工学院"
+      }
+    }
+  },
+  {
+    "id": "org-146",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "xi'an eurasia university",
+        "zh-CN": "西安欧亚学院"
+      }
+    }
+  },
+  {
+    "id": "org-147",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Xi'an University of Technology",
+        "zh-CN": "西安理工大学"
+      }
+    }
+  },
+  {
+    "id": "org-148",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Xidian University",
+        "zh-CN": "西安电子科技大学"
+      }
+    }
+  },
+  {
+    "id": "org-149",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Xi'an Shiyou University",
+        "zh-CN": "西安石油大学"
+      }
+    }
+  },
+  {
+    "id": "org-150",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Xi'an University of Posts and Telecommunications",
+        "zh-CN": "西安邮电大学"
+      }
+    }
+  },
+  {
+    "id": "org-151",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "NPU Fuzhong",
+        "zh-CN": "西工大附中"
+      }
+    }
+  },
+  {
+    "id": "org-152",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Guizhou University",
+        "zh-CN": "贵州大学"
+      }
+    }
+  },
+  {
+    "id": "org-153",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Guizhou Minzu University",
+        "zh-CN": "贵州民族大学"
+      }
+    }
+  },
+  {
+    "id": "org-154",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Liaoning University",
+        "zh-CN": "辽宁大学"
+      }
+    }
+  },
+  {
+    "id": "org-155",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Chongqing Jiaotong University",
+        "zh-CN": "重庆交通大学"
+      }
+    }
+  },
+  {
+    "id": "org-156",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Chongqing University",
+        "zh-CN": "重庆大学"
+      }
+    }
+  },
+  {
+    "id": "org-157",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Chongqing College of Mobile Communication",
+        "zh-CN": "重庆移通学院"
+      }
+    }
+  },
+  {
+    "id": "org-158",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Chongqing University of Posts and Telecommunications",
+        "zh-CN": "重庆邮电大学"
+      }
+    }
+  },
+  {
+    "id": "org-159",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Jinling Institute of Technology",
+        "zh-CN": "金陵科技学院"
+      }
+    }
+  },
+  {
+    "id": "org-160",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Chang'an University",
+        "zh-CN": "长安大学"
+      }
+    }
+  },
+  {
+    "id": "org-161",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Changchun University of Science and Technology",
+        "zh-CN": "长春理工大学"
+      }
+    }
+  },
+  {
+    "id": "org-162",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Changsha university",
+        "zh-CN": "长沙学院"
+      }
+    }
+  },
+  {
+    "id": "org-163",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Changsha University of Science and Technology",
+        "zh-CN": "长沙理工大学"
+      }
+    }
+  },
+  {
+    "id": "org-164",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Fuyang Normal University",
+        "zh-CN": "阜阳师范大学"
+      }
+    }
+  },
+  {
+    "id": "org-165",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Aba Teachers College",
+        "zh-CN": "阿坝师范学院"
+      }
+    }
+  },
+  {
+    "id": "org-166",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Shaanxi University of Technology",
+        "zh-CN": "陕西理工大学"
+      }
+    }
+  },
+  {
+    "id": "org-167",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Shaanxi University of Science and Technology",
+        "zh-CN": "陕西科技大学"
+      }
+    }
+  },
+  {
+    "id": "org-168",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Jimei University",
+        "zh-CN": "集美大学"
+      }
+    }
+  },
+  {
+    "id": "org-169",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Qingdao Agricultural University",
+        "zh-CN": "青岛农业大学"
+      }
+    }
+  },
+  {
+    "id": "org-170",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Qingdao University",
+        "zh-CN": "青岛大学"
+      }
+    }
+  },
+  {
+    "id": "org-171",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Huanggang Normal University",
+        "zh-CN": "黄冈师范学院"
+      }
+    }
+  },
+  {
+    "id": "org-172",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Qilu University of Technology",
+        "zh-CN": "齐鲁工业大学"
+      }
+    }
+  }
+]

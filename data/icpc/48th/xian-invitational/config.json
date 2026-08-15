@@ -111,5 +111,8 @@
   },
   "options": {
     "enable_organization": true
+  },
+  "organizations": {
+    "url": "organizations.json"
   }
 }
