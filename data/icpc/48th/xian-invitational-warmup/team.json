@@ -1,2888 +1,5054 @@
 [
   {
     "team_id": "179",
-    "name": "ero automaton(JXNU_1)",
-    "organization": "江西师范大学(Jiangxi Normal University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "JXNU_1",
+        "zh-CN": "ero automaton"
+      }
+    },
+    "organization_id": "org-093",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "38",
-    "name": "东北大学_哇哦(NEU_WAer)",
-    "organization": "东北大学(Northeastern University (China))",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "NEU_WAer",
+        "zh-CN": "东北大学_哇哦"
+      }
+    },
+    "organization_id": "org-004",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "39",
-    "name": "哈工生产大队(Harbin Production Brigade)",
-    "organization": "哈尔滨工业大学（深圳）(Harbin Institute of Technology, Shenzhen)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Harbin Production Brigade",
+        "zh-CN": "哈工生产大队"
+      }
+    },
+    "organization_id": "org-054",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "47",
-    "name": "零异事件(The event of zero and one)",
-    "organization": "河南大学(Henan University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "The event of zero and one",
+        "zh-CN": "零异事件"
+      }
+    },
+    "organization_id": "org-101",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "155",
-    "name": "航专没有开封菜队(Crazy Thursday V50)",
-    "organization": "南京航空航天大学(Nanjing University of Aeronautics and Astronautics)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Crazy Thursday V50",
+        "zh-CN": "航专没有开封菜队"
+      }
+    },
+    "organization_id": "org-038",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "318",
-    "name": "优雅(Elegance)",
-    "organization": "山东工商学院(Shandong Technology and Business University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Elegance",
+        "zh-CN": "优雅"
+      }
+    },
+    "organization_id": "org-068",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "124",
-    "name": "夜幕降临(Oneirodynia)",
-    "organization": "福建师范大学(Fujian Normal University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Oneirodynia",
+        "zh-CN": "夜幕降临"
+      }
+    },
+    "organization_id": "org-132",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "288",
-    "name": "恋剖分剖恋(Love Cut List Cut Love)",
-    "organization": "厦门大学(Xiamen University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Love Cut List Cut Love",
+        "zh-CN": "恋剖分剖恋"
+      }
+    },
+    "organization_id": "org-048",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "189",
-    "name": "風(Kaze)",
-    "organization": "上海交通大学(Shanghai Jiao Tong University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Kaze",
+        "zh-CN": "風"
+      }
+    },
+    "organization_id": "org-001",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "308",
-    "name": "希望代码一次敲队(XWDMYCQD)",
-    "organization": "浙江工商大学(Zhejiang Gongshang University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "XWDMYCQD",
+        "zh-CN": "希望代码一次敲队"
+      }
+    },
+    "organization_id": "org-112",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "49",
-    "name": "旅游队(Travel Team)",
-    "organization": "华东交通大学(East China Jiaotong University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Travel Team",
+        "zh-CN": "旅游队"
+      }
+    },
+    "organization_id": "org-029",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "83",
-    "name": "东北大学_赢(NEU_win)",
-    "organization": "东北大学(Northeastern University (China))",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "NEU_win",
+        "zh-CN": "东北大学_赢"
+      }
+    },
+    "organization_id": "org-004",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "286",
-    "name": "黎明前线(DAYBREAK FRONTLINE)",
-    "organization": "上海交通大学(Shanghai Jiao Tong University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "DAYBREAK FRONTLINE",
+        "zh-CN": "黎明前线"
+      }
+    },
+    "organization_id": "org-001",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "34",
-    "name": "wa了,但没有完全wa(wa, but not completely wa)",
-    "organization": "中原工学院(Zhongyuan University of Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "wa, but not completely wa",
+        "zh-CN": "wa了,但没有完全wa"
+      }
+    },
+    "organization_id": "org-009",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "77",
-    "name": "不会吧这都能过？(why this AC？)",
-    "organization": "华中科技大学(Huazhong University of Science and Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "why this AC？",
+        "zh-CN": "不会吧这都能过？"
+      }
+    },
+    "organization_id": "org-033",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "132",
-    "name": "仲夏夜之银牌(midsummerag)",
-    "organization": "北京理工大学(Beijing Institute of Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "midsummerag",
+        "zh-CN": "仲夏夜之银牌"
+      }
+    },
+    "organization_id": "org-025",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "332",
-    "name": "白兰咖啡厅(Bailan Café)",
-    "organization": "浙江理工大学(Zhejiang SCI-TECH University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Bailan Café",
+        "zh-CN": "白兰咖啡厅"
+      }
+    },
+    "organization_id": "org-114",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "104",
-    "name": "三地鼠(GDUT_Dugtrio)",
-    "organization": "广东工业大学(Guangdong University of Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "GDUT_Dugtrio",
+        "zh-CN": "三地鼠"
+      }
+    },
+    "organization_id": "org-075",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "344",
-    "name": "你就是歌姬(you are a singer)",
-    "organization": "徐州工程学院(Xuzhou University of Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "you are a singer",
+        "zh-CN": "你就是歌姬"
+      }
+    },
+    "organization_id": "org-078",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "284",
-    "name": "今日份的农活还没干完(nwafu-team1)",
-    "organization": "西北农林科技大学(Northwest A&F University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "nwafu-team1",
+        "zh-CN": "今日份的农活还没干完"
+      }
+    },
+    "organization_id": "org-133",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "214",
-    "name": "再睡五分钟(Snooze 5 minutes)",
-    "organization": "武汉理工大学(Wuhan University of Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Snooze 5 minutes",
+        "zh-CN": "再睡五分钟"
+      }
+    },
+    "organization_id": "org-091",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "119",
-    "name": "芜锁煨(Wuhu Simmering)",
-    "organization": "浙大宁波理工学院(NingboTech University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Wuhu Simmering",
+        "zh-CN": "芜锁煨"
+      }
+    },
+    "organization_id": "org-107",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "78",
-    "name": "草帽帮(JXNU_2)",
-    "organization": "江西师范大学(Jiangxi Normal University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "JXNU_2",
+        "zh-CN": "草帽帮"
+      }
+    },
+    "organization_id": "org-093",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "123",
-    "name": "写都写了，交一发吧(WA on test 1)",
-    "organization": "西安交通大学(Xi'an Jiaotong University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "WA on test 1",
+        "zh-CN": "写都写了，交一发吧"
+      }
+    },
+    "organization_id": "org-142",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "101",
-    "name": "拿到银牌就cos刻晴(if（Ag）cos（Keqin）;)",
-    "organization": "哈尔滨工业大学（深圳）(Harbin Institute of Technology, Shenzhen)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "if(Ag)cos(Keqin);",
+        "zh-CN": "拿到银牌就cos刻晴"
+      }
+    },
+    "organization_id": "org-054",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "206",
-    "name": "水晶换一塔(Turret for Crystal)",
-    "organization": "西安邮电大学(Xi'an University of Posts and Telecommunications)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Turret for Crystal",
+        "zh-CN": "水晶换一塔"
+      }
+    },
+    "organization_id": "org-150",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "127",
-    "name": "游客(visitors)",
-    "organization": "浙大城市学院(Zhejiang University City College)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "visitors",
+        "zh-CN": "游客"
+      }
+    },
+    "organization_id": "org-106",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "345",
-    "name": "偏爱(Favour)",
-    "organization": "西北工业大学(Northwestern Polytechnical University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Favour",
+        "zh-CN": "偏爱"
+      }
+    },
+    "organization_id": "org-135",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "201",
-    "name": "你说的不队(You Are't Right)",
-    "organization": "武昌首义学院(Wuchang Shouyi University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "You Are't Right",
+        "zh-CN": "你说的不队"
+      }
+    },
+    "organization_id": "org-087",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "158",
-    "name": "流泪猫猫头(Crying Kyaru)",
-    "organization": "湖南理工学院(Hunan Institute of Science and Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Crying Kyaru",
+        "zh-CN": "流泪猫猫头"
+      }
+    },
+    "organization_id": "org-125",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "71",
-    "name": "WPS(WPS)",
-    "organization": "西南民族大学(SouthWest Minzu University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "WPS",
+        "zh-CN": "WPS"
+      }
+    },
+    "organization_id": "org-138",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "165",
-    "name": "师大之煋(Shida Star)",
-    "organization": "湖南师范大学(Hunan Normal University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Shida Star",
+        "zh-CN": "师大之煋"
+      }
+    },
+    "organization_id": "org-124",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "57",
-    "name": "想要变成猫猫虫(want to be the Bugcat Capoo)",
-    "organization": "合肥学院(Hefei university)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "want to be the Bugcat Capoo",
+        "zh-CN": "想要变成猫猫虫"
+      }
+    },
+    "organization_id": "org-050",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "133",
-    "name": "重生之非常2+1(ZZZ)",
-    "organization": "吉首大学(Jishou University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "ZZZ",
+        "zh-CN": "重生之非常2+1"
+      }
+    },
+    "organization_id": "org-052",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "102",
-    "name": "你们AC我们野炊(You done,we dine)",
-    "organization": "华中师范大学(Central China Normal University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "You done,we dine",
+        "zh-CN": "你们AC我们野炊"
+      }
+    },
+    "organization_id": "org-032",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "43",
-    "name": "狠狠打铁(kuang kuang kuang)",
-    "organization": "福建师范大学(Fujian Normal University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "kuang kuang kuang",
+        "zh-CN": "狠狠打铁"
+      }
+    },
+    "organization_id": "org-132",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "7",
-    "name": "福理重磅出击队(fjut heavy strike)",
-    "organization": "福建工程学院(Fujian University of Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "fjut heavy strike",
+        "zh-CN": "福理重磅出击队"
+      }
+    },
+    "organization_id": "org-131",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "275",
-    "name": "丁真(Ding Zhen)",
-    "organization": "沈阳理工大学(Shenyang Ligong University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Ding Zhen",
+        "zh-CN": "丁真"
+      }
+    },
+    "organization_id": "org-097",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "186",
-    "name": "到底叫啥2.0(What Is The Name Ver2.0)",
-    "organization": "南昌航空大学(Nanchang Hangkong University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "What Is The Name Ver2.0",
+        "zh-CN": "到底叫啥2.0"
+      }
+    },
+    "organization_id": "org-044",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "330",
-    "name": "ZJUT4(ZJUT4)",
-    "organization": "浙江工业大学(Zhejiang University of Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "ZJUT4",
+        "zh-CN": "ZJUT4"
+      }
+    },
+    "organization_id": "org-111",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "27",
-    "name": "再多WA一发就会爆炸(Go For A Trip)",
-    "organization": "成都锦城学院(Chengdu Jincheng College)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Go For A Trip",
+        "zh-CN": "再多WA一发就会爆炸"
+      }
+    },
+    "organization_id": "org-084",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "171",
-    "name": "虚空艾优(Au in void)",
-    "organization": "南京邮电大学(Nanjing University of Posts and Telecommunications)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Au in void",
+        "zh-CN": "虚空艾优"
+      }
+    },
+    "organization_id": "org-039",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "136",
-    "name": "Juruo(Juruo)",
-    "organization": "西北师范大学(Northwest Normal University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Juruo",
+        "zh-CN": "Juruo"
+      }
+    },
+    "organization_id": "org-136",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "1",
-    "name": "爱冒险的朵拉(Dora the Explorer)",
-    "organization": "重庆交通大学(Chongqing Jiaotong University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Dora the Explorer",
+        "zh-CN": "爱冒险的朵拉"
+      }
+    },
+    "organization_id": "org-155",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "244",
-    "name": "皇家挖煤人(Mighty Miner)",
-    "organization": "中国矿业大学（北京）(China University of Mining and Technology, Beijing)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Mighty Miner",
+        "zh-CN": "皇家挖煤人"
+      }
+    },
+    "organization_id": "org-015",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "302",
-    "name": "铁匠(blacksmith)",
-    "organization": "天津工业大学(Tianjin Polytechnic University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "blacksmith",
+        "zh-CN": "铁匠"
+      }
+    },
+    "organization_id": "org-060",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "262",
-    "name": "走到湖边就会哈啦一下买一杯美式(Hala_get)",
-    "organization": "北京信息科技大学(Beijing Information Science and Technology University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Hala_get",
+        "zh-CN": "走到湖边就会哈啦一下买一杯美式"
+      }
+    },
+    "organization_id": "org-023",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "46",
-    "name": "九转雪豹(Nine-turn snow leopard)",
-    "organization": "成都东软学院(ChengDu Neusoft University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Nine-turn snow leopard",
+        "zh-CN": "九转雪豹"
+      }
+    },
+    "organization_id": "org-080",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "90",
-    "name": "虎哥哥虎(tiger brother brother tiger)",
-    "organization": "长春理工大学(Changchun University of Science and Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "tiger brother brother tiger",
+        "zh-CN": "虎哥哥虎"
+      }
+    },
+    "organization_id": "org-161",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "335",
-    "name": "二百五十磅(250 pounds)",
-    "organization": "浙江工商大学(Zhejiang Gongshang University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "250 pounds",
+        "zh-CN": "二百五十磅"
+      }
+    },
+    "organization_id": "org-112",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "297",
-    "name": "女装俊霖，在线ak(Junlin dressed as beauty, online AK)",
-    "organization": "四川师范大学(Sichuan Normal University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Junlin dressed as beauty, online AK",
+        "zh-CN": "女装俊霖，在线ak"
+      }
+    },
+    "organization_id": "org-056",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "289",
-    "name": "路易十四(Louis XIV)",
-    "organization": "山东理工大学(Shandong University of Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Louis XIV",
+        "zh-CN": "路易十四"
+      }
+    },
+    "organization_id": "org-070",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "208",
-    "name": "温大一队(WZU Team No.1)",
-    "organization": "温州大学(Wenzhou University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "WZU Team No.1",
+        "zh-CN": "温大一队"
+      }
+    },
+    "organization_id": "org-120",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "246",
-    "name": "神秘的力量(Mysterious Power)",
-    "organization": "西安理工大学(Xi'an University of Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Mysterious Power",
+        "zh-CN": "神秘的力量"
+      }
+    },
+    "organization_id": "org-147",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "23",
-    "name": "我已在3G，你还在2G(3G plus 3G equals 6G)",
-    "organization": "重庆邮电大学(Chongqing University of Posts and Telecommunications)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "3G plus 3G equals 6G",
+        "zh-CN": "我已在3G，你还在2G"
+      }
+    },
+    "organization_id": "org-158",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "19",
-    "name": "数组越界(Beyond list)",
-    "organization": "山东师范大学(Shandong Normal University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Beyond list",
+        "zh-CN": "数组越界"
+      }
+    },
+    "organization_id": "org-069",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "73",
-    "name": "ZJUT6(ZJUT6)",
-    "organization": "浙江工业大学(Zhejiang University of Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "ZJUT6",
+        "zh-CN": "ZJUT6"
+      }
+    },
+    "organization_id": "org-111",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "343",
-    "name": "乱拳打死老师傅(Punch the old master)",
-    "organization": "浙大城市学院(Zhejiang University City College)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Punch the old master",
+        "zh-CN": "乱拳打死老师傅"
+      }
+    },
+    "organization_id": "org-106",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "361",
-    "name": "最后一舞(Last Dance)",
-    "organization": "长沙学院(Changsha university)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Last Dance",
+        "zh-CN": "最后一舞"
+      }
+    },
+    "organization_id": "org-162",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "95",
-    "name": "局外人(outside)",
-    "organization": "浙江科技学院(Zhejiang University of Science & Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "outside",
+        "zh-CN": "局外人"
+      }
+    },
+    "organization_id": "org-115",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "304",
-    "name": "无火的余灰(Ashen One)",
-    "organization": "武汉大学(WuHan University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Ashen One",
+        "zh-CN": "无火的余灰"
+      }
+    },
+    "organization_id": "org-089",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "270",
-    "name": "SZU_Planck(SZU_Planck)",
-    "organization": "深圳大学(Shenzhen University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "SZU_Planck",
+        "zh-CN": "SZU_Planck"
+      }
+    },
+    "organization_id": "org-118",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "24",
-    "name": "五个灰名(Chinese team)",
-    "organization": "成都理工大学(Chengdu University of Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Chinese team",
+        "zh-CN": "五个灰名"
+      }
+    },
+    "organization_id": "org-083",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "296",
-    "name": "你有没有听见孩子们的悲鸣(empyrean)",
-    "organization": "西南科技大学(Southwest University of Science and Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "empyrean",
+        "zh-CN": "你有没有听见孩子们的悲鸣"
+      }
+    },
+    "organization_id": "org-140",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "265",
-    "name": "BLQ 梦之队(BLQ dream win)",
-    "organization": "南阳师范学院(Nanyang Normal University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "BLQ dream win",
+        "zh-CN": "BLQ 梦之队"
+      }
+    },
+    "organization_id": "org-046",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "266",
-    "name": "DDL战神(God of DDL)",
-    "organization": "石河子大学(Shihezi University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "God of DDL",
+        "zh-CN": "DDL战神"
+      }
+    },
+    "organization_id": "org-130",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "184",
-    "name": "抱歉，这没有集美(Sorry, Here are no sisters)",
-    "organization": "集美大学(Jimei University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Sorry, Here are no sisters",
+        "zh-CN": "抱歉，这没有集美"
+      }
+    },
+    "organization_id": "org-168",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "88",
-    "name": "贡嘎雪山(Minya Konka)",
-    "organization": "西南科技大学(Southwest University of Science and Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Minya Konka",
+        "zh-CN": "贡嘎雪山"
+      }
+    },
+    "organization_id": "org-140",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "14",
-    "name": "口嗨战神(3 handicapped coders)",
-    "organization": "北京航空航天大学(Beihang University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "3 handicapped coders",
+        "zh-CN": "口嗨战神"
+      }
+    },
+    "organization_id": "org-028",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "166",
-    "name": "松果糖豆闪电五连鞭(NNN)",
-    "organization": "河南财政金融学院(Henan Finance University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "NNN",
+        "zh-CN": "松果糖豆闪电五连鞭"
+      }
+    },
+    "organization_id": "org-103",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "355",
-    "name": "永昼(Polar Night)",
-    "organization": "浙江农林大学暨阳学院(Zhejiang JiYang College)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Polar Night",
+        "zh-CN": "永昼"
+      }
+    },
+    "organization_id": "org-110",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "230",
-    "name": "队名太长不给过队长速速让想个队名(xsyu_team1)",
-    "organization": "西安石油大学(Xi'an Shiyou University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "xsyu_team1",
+        "zh-CN": "队名太长不给过队长速速让想个队名"
+      }
+    },
+    "organization_id": "org-149",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "232",
-    "name": "河北大学云帆一队(It Takes Three)",
-    "organization": "河北大学(Hebei University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "It Takes Three",
+        "zh-CN": "河北大学云帆一队"
+      }
+    },
+    "organization_id": "org-099",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "61",
-    "name": "有序退场(Orderly exit)",
-    "organization": "安阳工学院(Anyang Institute of Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Orderly exit",
+        "zh-CN": "有序退场"
+      }
+    },
+    "organization_id": "org-066",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "30",
-    "name": "重生之因为读不懂题目再次重生(Reborn because can not read the question reborn again)",
-    "organization": "重庆移通学院(Chongqing College of Mobile Communication)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Reborn because can not read the question reborn again",
+        "zh-CN": "重生之因为读不懂题目再次重生"
+      }
+    },
+    "organization_id": "org-157",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "167",
-    "name": "宋朝第一学府(Song First University)",
-    "organization": "河南大学(Henan University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Song First University",
+        "zh-CN": "宋朝第一学府"
+      }
+    },
+    "organization_id": "org-101",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "326",
-    "name": "AC的生命只有一秒钟，我要给它完整的一生(550CUC)",
-    "organization": "中国传媒大学(Communication University of China)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "550CUC",
+        "zh-CN": "AC的生命只有一秒钟，我要给它完整的一生"
+      }
+    },
+    "organization_id": "org-011",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "54",
-    "name": "三重异或和(Triple Xor Sum)",
-    "organization": "湖南理工学院(Hunan Institute of Science and Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Triple Xor Sum",
+        "zh-CN": "三重异或和"
+      }
+    },
+    "organization_id": "org-125",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "282",
-    "name": "魂之挽歌(requiem of souls)",
-    "organization": "上海大学(Shanghai University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "requiem of souls",
+        "zh-CN": "魂之挽歌"
+      }
+    },
+    "organization_id": "org-002",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "72",
-    "name": "xju01(xju01)",
-    "organization": "新疆大学(Xinjiang University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "xju01",
+        "zh-CN": "xju01"
+      }
+    },
+    "organization_id": "org-085",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "342",
-    "name": "懒得起队名(13333)",
-    "organization": "中北大学(North University of China)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "13333",
+        "zh-CN": "懒得起队名"
+      }
+    },
+    "organization_id": "org-006",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "249",
-    "name": "众梦之聚(All for dream)",
-    "organization": "安徽大学(Anhui University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "All for dream",
+        "zh-CN": "众梦之聚"
+      }
+    },
+    "organization_id": "org-064",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "62",
-    "name": "赵总诚信批发豆盼酱(dp is useless)",
-    "organization": "河北师范大学(Hebei Normal University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "dp is useless",
+        "zh-CN": "赵总诚信批发豆盼酱"
+      }
+    },
+    "organization_id": "org-100",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "188",
-    "name": "奋进号(NCC1895 Endeavour)",
-    "organization": "山东科技大学(Shandong University of Science and Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "NCC1895 Endeavour",
+        "zh-CN": "奋进号"
+      }
+    },
+    "organization_id": "org-071",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "182",
-    "name": "Winnie Baby NO.1(Winnie Baby NO.1)",
-    "organization": "深圳大学(Shenzhen University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Winnie Baby NO.1",
+        "zh-CN": "Winnie Baby NO.1"
+      }
+    },
+    "organization_id": "org-118",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "207",
-    "name": "天狼星的心脏(The Heart of Sirius)",
-    "organization": "西安交通大学(Xi'an Jiaotong University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "The Heart of Sirius",
+        "zh-CN": "天狼星的心脏"
+      }
+    },
+    "organization_id": "org-142",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "220",
-    "name": "最后一次不摆了(The last one‘s off the table)",
-    "organization": "南昌理工学院(Nanchang Institute of Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "The last one‘s off the table",
+        "zh-CN": "最后一次不摆了"
+      }
+    },
+    "organization_id": "org-042",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "219",
-    "name": "最后的战役(the final battle)",
-    "organization": "南昌大学(Nanchang University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "the final battle",
+        "zh-CN": "最后的战役"
+      }
+    },
+    "organization_id": "org-041",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "240",
-    "name": "练习时长两年半(play basketball for one kun year)",
-    "organization": "山东师范大学(Shandong Normal University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "play basketball for one kun year",
+        "zh-CN": "练习时长两年半"
+      }
+    },
+    "organization_id": "org-069",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "134",
-    "name": "重生之我还是小镇做题家(NOT_CET_4)",
-    "organization": "山东师范大学(Shandong Normal University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "NOT_CET_4",
+        "zh-CN": "重生之我还是小镇做题家"
+      }
+    },
+    "organization_id": "org-069",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "325",
-    "name": "acmorzorz(acmorzorz)",
-    "organization": "新疆大学(Xinjiang University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "acmorzorz",
+        "zh-CN": "acmorzorz"
+      }
+    },
+    "organization_id": "org-085",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "263",
-    "name": "ACM铁匠铺(ACM Smithy)",
-    "organization": "山东大学(Shandong University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "ACM Smithy",
+        "zh-CN": "ACM铁匠铺"
+      }
+    },
+    "organization_id": "org-067",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "311",
-    "name": "妖精并没有读出出题人思想(Fairy cannot understand the mind of the questioner)",
-    "organization": "武汉商学院(Wuhan Business University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Fairy cannot understand the mind of the questioner",
+        "zh-CN": "妖精并没有读出出题人思想"
+      }
+    },
+    "organization_id": "org-088",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "356",
-    "name": "育英3队(YYteam3)",
-    "organization": "浙江育英职业技术学院(Zhejiang Yuying College of Vocational Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "YYteam3",
+        "zh-CN": "育英3队"
+      }
+    },
+    "organization_id": "org-116",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "233",
-    "name": "黑夜犬人ProMaxPlusUltra(Nightmare Doggie*)",
-    "organization": "中国海洋大学(Ocean University of China)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Nightmare Doggie*",
+        "zh-CN": "黑夜犬人ProMaxPlusUltra"
+      }
+    },
+    "organization_id": "org-013",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "285",
-    "name": "镜花水月(Mirage)",
-    "organization": "沈阳航空航天大学(Shenyang Aerospace University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Mirage",
+        "zh-CN": "镜花水月"
+      }
+    },
+    "organization_id": "org-098",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "277",
-    "name": "二原组(Tople)",
-    "organization": "山东师范大学(Shandong Normal University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Tople",
+        "zh-CN": "二原组"
+      }
+    },
+    "organization_id": "org-069",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "269",
-    "name": "no pains no prize(no pains no prize)",
-    "organization": "云南大学(Yunnan University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "no pains no prize",
+        "zh-CN": "no pains no prize"
+      }
+    },
+    "organization_id": "org-020",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "51",
-    "name": "牛牛可乐(Niuniu Cola)",
-    "organization": "成都大学(Chengdu University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Niuniu Cola",
+        "zh-CN": "牛牛可乐"
+      }
+    },
+    "organization_id": "org-082",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "261",
-    "name": "转生成为华为手机并拍出金牌(Use Huawei can gold)",
-    "organization": "重庆邮电大学(Chongqing University of Posts and Telecommunications)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Use Huawei can gold",
+        "zh-CN": "转生成为华为手机并拍出金牌"
+      }
+    },
+    "organization_id": "org-158",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "144",
-    "name": "int mian(int mian)",
-    "organization": "南昌大学(Nanchang University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "int mian",
+        "zh-CN": "int mian"
+      }
+    },
+    "organization_id": "org-041",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "181",
-    "name": "qfz(qfz)",
-    "organization": "江西理工大学(Jiangxi University of Science and Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "qfz",
+        "zh-CN": "qfz"
+      }
+    },
+    "organization_id": "org-094",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "115",
-    "name": "为嘛黄瓜绿(Why yellow melon green)",
-    "organization": "太原理工大学(Taiyuan University of Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Why yellow melon green",
+        "zh-CN": "为嘛黄瓜绿"
+      }
+    },
+    "organization_id": "org-061",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "65",
-    "name": "fugev50(fugevfifty)",
-    "organization": "长安大学(Chang'an University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "fugevfifty",
+        "zh-CN": "fugev50"
+      }
+    },
+    "organization_id": "org-160",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "245",
-    "name": "三核低效率解题机(Three Cores Inefficient Solver)",
-    "organization": "合肥学院(Hefei university)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Three Cores Inefficient Solver",
+        "zh-CN": "三核低效率解题机"
+      }
+    },
+    "organization_id": "org-050",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "225",
-    "name": "CodeGPT(CodeGPT)",
-    "organization": "浙江师范大学(Zhejiang Normal University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "CodeGPT",
+        "zh-CN": "CodeGPT"
+      }
+    },
+    "organization_id": "org-113",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "279",
-    "name": "放课后Acm时间(Ho-kago acm time)",
-    "organization": "山西大学(Shanxi University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Ho-kago acm time",
+        "zh-CN": "放课后Acm时间"
+      }
+    },
+    "organization_id": "org-072",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "159",
-    "name": "流泪毛毛虫(Happy Cappo)",
-    "organization": "华中科技大学(Huazhong University of Science and Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Happy Cappo",
+        "zh-CN": "流泪毛毛虫"
+      }
+    },
+    "organization_id": "org-033",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "147",
-    "name": "RE 是评测姬的谎言(RE is the lie of the tester girl)",
-    "organization": "华中师范大学(Central China Normal University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "RE is the lie of the tester girl",
+        "zh-CN": "RE 是评测姬的谎言"
+      }
+    },
+    "organization_id": "org-032",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "89",
-    "name": "孤独拿铁(take iron alone)",
-    "organization": "武汉大学(WuHan University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "take iron alone",
+        "zh-CN": "孤独拿铁"
+      }
+    },
+    "organization_id": "org-089",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "125",
-    "name": "以上队伍成绩无效(nwafu-team2)",
-    "organization": "西北农林科技大学(Northwest A&F University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "nwafu-team2",
+        "zh-CN": "以上队伍成绩无效"
+      }
+    },
+    "organization_id": "org-133",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "114",
-    "name": "往日不再(Days Gone)",
-    "organization": "成都信息工程大学(Chengdu University of Information Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Days Gone",
+        "zh-CN": "往日不再"
+      }
+    },
+    "organization_id": "org-081",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "15",
-    "name": "苦瓜大王队(bitter-NPU-lord)",
-    "organization": "西北工业大学(Northwestern Polytechnical University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "bitter-NPU-lord",
+        "zh-CN": "苦瓜大王队"
+      }
+    },
+    "organization_id": "org-135",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "13",
-    "name": "杰宝宝(Baby Jay)",
-    "organization": "电子科技大学中山学院(University of Electronic Science and Technology of China，Zhongshan Institute)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Baby Jay",
+        "zh-CN": "杰宝宝"
+      }
+    },
+    "organization_id": "org-127",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "352",
-    "name": "一期一会(Cherish every moment)",
-    "organization": "长春理工大学(Changchun University of Science and Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Cherish every moment",
+        "zh-CN": "一期一会"
+      }
+    },
+    "organization_id": "org-161",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "290",
-    "name": "猫猫烧烤师粉丝后援团(cat barbecue)",
-    "organization": "青岛大学(Qingdao University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "cat barbecue",
+        "zh-CN": "猫猫烧烤师粉丝后援团"
+      }
+    },
+    "organization_id": "org-170",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "170",
-    "name": "宵待雨月(Night Rain)",
-    "organization": "辽宁大学(Liaoning University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Night Rain",
+        "zh-CN": "宵待雨月"
+      }
+    },
+    "organization_id": "org-154",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "113",
-    "name": "娃娃菜(WAWACAI)",
-    "organization": "浙江财经大学(Zhejiang University of Finance & Economics)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "WAWACAI",
+        "zh-CN": "娃娃菜"
+      }
+    },
+    "organization_id": "org-117",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "48",
-    "name": "落日沉溺于橘色的海，晚风沦陷于赤诚的爱(The sunset sinks into the orange sea, and the evening breeze falls into sincere love)",
-    "organization": "福建工程学院(Fujian University of Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "The sunset sinks into the orange sea, and the evening breeze falls into sincere love",
+        "zh-CN": "落日沉溺于橘色的海，晚风沦陷于赤诚的爱"
+      }
+    },
+    "organization_id": "org-131",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "283",
-    "name": "解开一切(undo)",
-    "organization": "西北工业大学(Northwestern Polytechnical University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "undo",
+        "zh-CN": "解开一切"
+      }
+    },
+    "organization_id": "org-135",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "9",
-    "name": "韩服王者(Hanbok)",
-    "organization": "国际关系学院(University of International Relations)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Hanbok",
+        "zh-CN": "韩服王者"
+      }
+    },
+    "organization_id": "org-057",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "6",
-    "name": "东北大学_三人成行(NEU_False)",
-    "organization": "东北大学(Northeastern University (China))",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "NEU_False",
+        "zh-CN": "东北大学_三人成行"
+      }
+    },
+    "organization_id": "org-004",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "60",
-    "name": "倚楼听雨(CDZSC002)",
-    "organization": "电子科技大学中山学院(University of Electronic Science and Technology of China，Zhongshan Institute)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "CDZSC002",
+        "zh-CN": "倚楼听雨"
+      }
+    },
+    "organization_id": "org-127",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "258",
-    "name": "怎么一打比赛就饿了呀(Why hungry as soon as start programming)",
-    "organization": "哈尔滨工业大学（深圳）(Harbin Institute of Technology, Shenzhen)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Why hungry as soon as start programming",
+        "zh-CN": "怎么一打比赛就饿了呀"
+      }
+    },
+    "organization_id": "org-054",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "242",
-    "name": "24科软点击就送(AE86)",
-    "organization": "中国科学技术大学(University of Science and Technology of China)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "AE86",
+        "zh-CN": "24科软点击就送"
+      }
+    },
+    "organization_id": "org-016",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "63",
-    "name": "只要长得可爱，即使是 ACMer 你也喜欢吗？(Are You Willing to Fall in Love with a ACMer, as Long as They's a Cutie?)",
-    "organization": "安徽大学(Anhui University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Are You Willing to Fall in Love with a ACMer, as Long as They's a Cutie?",
+        "zh-CN": "只要长得可爱，即使是 ACMer 你也喜欢吗？"
+      }
+    },
+    "organization_id": "org-064",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "212",
-    "name": "小楼昨夜又东风(Silver Medal Once More)",
-    "organization": "武汉大学(WuHan University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Silver Medal Once More",
+        "zh-CN": "小楼昨夜又东风"
+      }
+    },
+    "organization_id": "org-089",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "33",
-    "name": "Bia(Bia)",
-    "organization": "成都信息工程大学(Chengdu University of Information Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Bia",
+        "zh-CN": "Bia"
+      }
+    },
+    "organization_id": "org-081",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "333",
-    "name": "队长想个队名(think a team name)",
-    "organization": "西安理工大学(Xi'an University of Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "think a team name",
+        "zh-CN": "队长想个队名"
+      }
+    },
+    "organization_id": "org-147",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "224",
-    "name": "asdadasd(asdadasd)",
-    "organization": "厦门大学嘉庚学院(Xiamen University Tan Kah Kee College)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "asdadasd",
+        "zh-CN": "asdadasd"
+      }
+    },
+    "organization_id": "org-049",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "324",
-    "name": "【B限】昆明速度([Bilibili Limit] Speed of Kunming)",
-    "organization": "云南大学(Yunnan University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "[Bilibili Limit] Speed of Kunming",
+        "zh-CN": "【B限】昆明速度"
+      }
+    },
+    "organization_id": "org-020",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "323",
-    "name": "*1?(*1?)",
-    "organization": "浙大宁波理工学院(NingboTech University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "*1?",
+        "zh-CN": "*1?"
+      }
+    },
+    "organization_id": "org-107",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "223",
-    "name": "Abtu01(Abtu01)",
-    "organization": "阿坝师范学院(Aba Teachers College)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Abtu01",
+        "zh-CN": "Abtu01"
+      }
+    },
+    "organization_id": "org-165",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "264",
-    "name": "ACM也就一乐(ACM just a fun)",
-    "organization": "西安欧亚学院(xi'an eurasia university)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "ACM just a fun",
+        "zh-CN": "ACM也就一乐"
+      }
+    },
+    "organization_id": "org-146",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "137",
-    "name": "AFO dreaming(AFO dreaming)",
-    "organization": "华中农业大学(Huazhong Agricultural University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "AFO dreaming",
+        "zh-CN": "AFO dreaming"
+      }
+    },
+    "organization_id": "org-031",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "138",
-    "name": "Akers(Akers)",
-    "organization": "河海大学(Hohai University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Akers",
+        "zh-CN": "Akers"
+      }
+    },
+    "organization_id": "org-104",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "327",
-    "name": "AK是你的谎言(AK is you lie)",
-    "organization": "中南大学(Central South University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "AK is you lie",
+        "zh-CN": "AK是你的谎言"
+      }
+    },
+    "organization_id": "org-007",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "328",
-    "name": "A在西元前(Accepted B.C.)",
-    "organization": "中国计量大学现代科技学院(China Jiliang University College of Modern Science and Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Accepted B.C.",
+        "zh-CN": "A在西元前"
+      }
+    },
+    "organization_id": "org-017",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "139",
-    "name": "call of accept(call of accept)",
-    "organization": "江西师范大学(Jiangxi Normal University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "call of accept",
+        "zh-CN": "call of accept"
+      }
+    },
+    "organization_id": "org-093",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "322",
-    "name": "Cominghome(Cominghome)",
-    "organization": "西北师范大学(Northwest Normal University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Cominghome",
+        "zh-CN": "Cominghome"
+      }
+    },
+    "organization_id": "org-136",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "140",
-    "name": "Debug都队(Debug Are Team)",
-    "organization": "南昌航空大学(Nanchang Hangkong University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Debug Are Team",
+        "zh-CN": "Debug都队"
+      }
+    },
+    "organization_id": "org-044",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "141",
-    "name": "degeya(degeya)",
-    "organization": "南通大学(Nantong University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "degeya",
+        "zh-CN": "degeya"
+      }
+    },
+    "organization_id": "org-045",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "142",
-    "name": "For++(For++)",
-    "organization": "集美大学(Jimei University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "For++",
+        "zh-CN": "For++"
+      }
+    },
+    "organization_id": "org-168",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "143",
-    "name": "From MAMA(From MAMA)",
-    "organization": "湖南农业大学(Hunan Agricultural University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "From MAMA",
+        "zh-CN": "From MAMA"
+      }
+    },
+    "organization_id": "org-122",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "66",
-    "name": "HRK(HRK)",
-    "organization": "中南大学(Central South University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "HRK",
+        "zh-CN": "HRK"
+      }
+    },
+    "organization_id": "org-007",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "145",
-    "name": "JJJ(JJJ)",
-    "organization": "吉首大学(Jishou University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "JJJ",
+        "zh-CN": "JJJ"
+      }
+    },
+    "organization_id": "org-052",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "146",
-    "name": "jww(jww)",
-    "organization": "河南科技大学(Henan University of Science and Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "jww",
+        "zh-CN": "jww"
+      }
+    },
+    "organization_id": "org-102",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "267",
-    "name": "kkkkk(kkkkk)",
-    "organization": "贵州大学(Guizhou University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "kkkkk",
+        "zh-CN": "kkkkk"
+      }
+    },
+    "organization_id": "org-152",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "268",
-    "name": "LR文法活前缀(LR-Viable Prefixes)",
-    "organization": "石家庄铁道大学(Shijiazhuang Tiedao University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "LR-Viable Prefixes",
+        "zh-CN": "LR文法活前缀"
+      }
+    },
+    "organization_id": "org-129",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "180",
-    "name": "PDA掌上自动ac机(PDA handheld automatic ac machine)",
-    "organization": "石家庄铁道大学(Shijiazhuang Tiedao University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "PDA handheld automatic ac machine",
+        "zh-CN": "PDA掌上自动ac机"
+      }
+    },
+    "organization_id": "org-129",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "148",
-    "name": "SEI2(SEI2)",
-    "organization": "华东师范大学(East China Normal University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "SEI2",
+        "zh-CN": "SEI2"
+      }
+    },
+    "organization_id": "org-030",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "67",
-    "name": "TANKING FOR WA(TANKING FOR WA)",
-    "organization": "兰州理工大学(Lanzhou University of Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "TANKING FOR WA",
+        "zh-CN": "TANKING FOR WA"
+      }
+    },
+    "organization_id": "org-022",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "68",
-    "name": "Truth Testing(xsyu_team3)",
-    "organization": "西安石油大学(Xi'an Shiyou University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "xsyu_team3",
+        "zh-CN": "Truth Testing"
+      }
+    },
+    "organization_id": "org-149",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "69",
-    "name": "wawa队(woc,Wrong answer at test 1!)",
-    "organization": "天津工业大学(Tianjin Polytechnic University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "woc,Wrong answer at test 1!",
+        "zh-CN": "wawa队"
+      }
+    },
+    "organization_id": "org-060",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "70",
-    "name": "WA哈哈(WAhahahh)",
-    "organization": "山东理工大学(Shandong University of Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "WAhahahh",
+        "zh-CN": "WA哈哈"
+      }
+    },
+    "organization_id": "org-070",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "271",
-    "name": "WA自动机(WA AutoMaton)",
-    "organization": "中国矿业大学（北京）(China University of Mining and Technology, Beijing)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "WA AutoMaton",
+        "zh-CN": "WA自动机"
+      }
+    },
+    "organization_id": "org-015",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "254",
-    "name": "WHCC(WHCC)",
-    "organization": "武汉学院(Wuhan University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "WHCC",
+        "zh-CN": "WHCC"
+      }
+    },
+    "organization_id": "org-090",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "329",
-    "name": "ZCMU-Binwen Road(ZCMU-Binwen Road)",
-    "organization": "浙江中医药大学(Zhejiang Chinese Medical University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "ZCMU-Binwen Road",
+        "zh-CN": "ZCMU-Binwen Road"
+      }
+    },
+    "organization_id": "org-109",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "313",
-    "name": "一拳打爆地球(acboom)",
-    "organization": "南阳理工学院(Nanyang Institute of Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "acboom",
+        "zh-CN": "一拳打爆地球"
+      }
+    },
+    "organization_id": "org-047",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "314",
-    "name": "一日看尽长安花(All the flowers in Xian have witnessed my success)",
-    "organization": "太原理工大学(Taiyuan University of Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "All the flowers in Xian have witnessed my success",
+        "zh-CN": "一日看尽长安花"
+      }
+    },
+    "organization_id": "org-061",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "351",
-    "name": "一次也没旅游过(BeBetter)",
-    "organization": "延安大学西安创新学院(Xi‘an Innovation College of Yanan University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "BeBetter",
+        "zh-CN": "一次也没旅游过"
+      }
+    },
+    "organization_id": "org-077",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "26",
-    "name": "一闪一闪亮星星(Twinkle a twinkle of stars)",
-    "organization": "贵州民族大学(Guizhou Minzu University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Twinkle a twinkle of stars",
+        "zh-CN": "一闪一闪亮星星"
+      }
+    },
+    "organization_id": "org-153",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "59",
-    "name": "一闪一闪亮晶晶(Twinkle, twinkle, twinkle)",
-    "organization": "贵州民族大学(Guizhou Minzu University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Twinkle, twinkle, twinkle",
+        "zh-CN": "一闪一闪亮晶晶"
+      }
+    },
+    "organization_id": "org-153",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "164",
-    "name": "三个臭铁匠(Three Stinky Blacksmiths)",
-    "organization": "南昌职业大学(Nanchang Vocational University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Three Stinky Blacksmiths",
+        "zh-CN": "三个臭铁匠"
+      }
+    },
+    "organization_id": "org-043",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "106",
-    "name": "三人成行(For three persons)",
-    "organization": "华中农业大学(Huazhong Agricultural University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "For three persons",
+        "zh-CN": "三人成行"
+      }
+    },
+    "organization_id": "org-031",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "107",
-    "name": "三只小猪(Three piggies)",
-    "organization": "江西财经大学(Jiangxi University of Finance and Economics)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Three piggies",
+        "zh-CN": "三只小猪"
+      }
+    },
+    "organization_id": "org-096",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "300",
-    "name": "三只菜汪队(Three cabbage dogs)",
-    "organization": "中国传媒大学(Communication University of China)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Three cabbage dogs",
+        "zh-CN": "三只菜汪队"
+      }
+    },
+    "organization_id": "org-011",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "347",
-    "name": "三小只打铁怪(W.S.L.)",
-    "organization": "中国人民解放军战略支援部队信息工程大学(Information Engineering University of the People's Liberation Army)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "W.S.L.",
+        "zh-CN": "三小只打铁怪"
+      }
+    },
+    "organization_id": "org-010",
     "official": 1,
     "unofficial": false,
     "girl": 1
   },
   {
     "team_id": "105",
-    "name": "三根火焰(Three Flames)",
-    "organization": "安徽大学(Anhui University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Three Flames",
+        "zh-CN": "三根火焰"
+      }
+    },
+    "organization_id": "org-064",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "299",
-    "name": "三鲜面(Sanxian Noodles)",
-    "organization": "武汉理工大学(Wuhan University of Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Sanxian Noodles",
+        "zh-CN": "三鲜面"
+      }
+    },
+    "organization_id": "org-091",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "120",
-    "name": "下北泽会员制队伍(Shimokitazawa VIP team)",
-    "organization": "湖北工业大学(Hubei University of Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Shimokitazawa VIP team",
+        "zh-CN": "下北泽会员制队伍"
+      }
+    },
+    "organization_id": "org-121",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "76",
-    "name": "不摆烂就(BBLJ)",
-    "organization": "中国传媒大学(Communication University of China)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "BBLJ",
+        "zh-CN": "不摆烂就"
+      }
+    },
+    "organization_id": "org-011",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "84",
-    "name": "二保一(Two accompany one)",
-    "organization": "大连理工大学(Dalian University of Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Two accompany one",
+        "zh-CN": "二保一"
+      }
+    },
+    "organization_id": "org-059",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "152",
-    "name": "二带一(lazybones)",
-    "organization": "金陵科技学院(Jinling Institute of Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "lazybones",
+        "zh-CN": "二带一"
+      }
+    },
+    "organization_id": "org-159",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "276",
-    "name": "二进制文豪(Binary master)",
-    "organization": "西安理工大学(Xi'an University of Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Binary master",
+        "zh-CN": "二进制文豪"
+      }
+    },
+    "organization_id": "org-147",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "86",
-    "name": "二选一(Two choose one)",
-    "organization": "成都大学(Chengdu University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Two choose one",
+        "zh-CN": "二选一"
+      }
+    },
+    "organization_id": "org-082",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "85",
-    "name": "二龙山灵动派(Erlongshan:AgileDove)",
-    "organization": "中国矿业大学徐海学院(Xuhai College, China University of Mining and Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Erlongshan:AgileDove",
+        "zh-CN": "二龙山灵动派"
+      }
+    },
+    "organization_id": "org-014",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "357",
-    "name": "云梦泽(CloudyDreamers)",
-    "organization": "重庆大学(Chongqing University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "CloudyDreamers",
+        "zh-CN": "云梦泽"
+      }
+    },
+    "organization_id": "org-156",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "36",
-    "name": "代码敲不队(GDUT_Code Code WA)",
-    "organization": "广东工业大学(Guangdong University of Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "GDUT_Code Code WA",
+        "zh-CN": "代码敲不队"
+      }
+    },
+    "organization_id": "org-075",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "319",
-    "name": "仲夏夜之梦(Midsummer Night's Dream)",
-    "organization": "中国人民解放军战略支援部队信息工程大学(Information Engineering University of the People's Liberation Army)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Midsummer Night's Dream",
+        "zh-CN": "仲夏夜之梦"
+      }
+    },
+    "organization_id": "org-010",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "337",
-    "name": "仿生可达鸭会梦见仲夏夜之银梦吗(psyduckEatEverything)",
-    "organization": "长安大学(Chang'an University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "psyduckEatEverything",
+        "zh-CN": "仿生可达鸭会梦见仲夏夜之银梦吗"
+      }
+    },
+    "organization_id": "org-160",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "5",
-    "name": "传说天启启元星迹梦之队(Legend of the Heavenly Apocalypse and the Dream Team of the Yuan Star Trail)",
-    "organization": "重庆大学(Chongqing University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Legend of the Heavenly Apocalypse and the Dream Team of the Yuan Star Trail",
+        "zh-CN": "传说天启启元星迹梦之队"
+      }
+    },
+    "organization_id": "org-156",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "200",
-    "name": "你别急，我先看看榜(Can Can Need Rank)",
-    "organization": "南京邮电大学(Nanjing University of Posts and Telecommunications)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Can Can Need Rank",
+        "zh-CN": "你别急，我先看看榜"
+      }
+    },
+    "organization_id": "org-039",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "294",
-    "name": "你好哇(You good)",
-    "organization": "徐州工程学院(Xuzhou University of Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "You good",
+        "zh-CN": "你好哇"
+      }
+    },
+    "organization_id": "org-078",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "50",
-    "name": "你怎么知道我们五一放九天(and we don't have a day off yet)",
-    "organization": "常熟理工学院(Changshu Institute of Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "and we don't have a day off yet",
+        "zh-CN": "你怎么知道我们五一放九天"
+      }
+    },
+    "organization_id": "org-073",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "295",
-    "name": "你说的队(You Are Right)",
-    "organization": "武昌首义学院(Wuchang Shouyi University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "You Are Right",
+        "zh-CN": "你说的队"
+      }
+    },
+    "organization_id": "org-087",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "53",
-    "name": "偏远小渔村传统弱校(Unknow School from Fishing Village)",
-    "organization": "华中科技大学(Huazhong University of Science and Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Unknow School from Fishing Village",
+        "zh-CN": "偏远小渔村传统弱校"
+      }
+    },
+    "organization_id": "org-033",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "281",
-    "name": "关于我用初始头骨无伤通关魔镜10的那件事(Passed magic mirror 10 harmlessly)",
-    "organization": "宁波工程学院(Ningbo University of Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Passed magic mirror 10 harmlessly",
+        "zh-CN": "关于我用初始头骨无伤通关魔镜10的那件事"
+      }
+    },
+    "organization_id": "org-063",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "293",
-    "name": "内存怪兽(SZTU_MemoryMonster)",
-    "organization": "深圳技术大学(Shenzhen Technology University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "SZTU_MemoryMonster",
+        "zh-CN": "内存怪兽"
+      }
+    },
+    "organization_id": "org-119",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "176",
-    "name": "再多A一题就会爆炸(We can sing, dance, rap, play basketball, music！)",
-    "organization": "湖南工学院(Hunan Institute of Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "We can sing, dance, rap, play basketball, music！",
+        "zh-CN": "再多A一题就会爆炸"
+      }
+    },
+    "organization_id": "org-123",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "32",
-    "name": "最后(last)",
-    "organization": "阜阳师范大学(Fuyang Normal University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "last",
+        "zh-CN": "最后"
+      }
+    },
+    "organization_id": "org-164",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "321",
-    "name": "最后一舞(Diana)",
-    "organization": "潍坊学院(Weifang University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Diana",
+        "zh-CN": "最后一舞"
+      }
+    },
+    "organization_id": "org-126",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "64",
-    "name": "最后的希望(The last hope)",
-    "organization": "吉首大学(Jishou University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "The last hope",
+        "zh-CN": "最后的希望"
+      }
+    },
+    "organization_id": "org-052",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "185",
-    "name": "别只因(Bie ji)",
-    "organization": "宁夏大学(Ningxia University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Bie ji",
+        "zh-CN": "别只因"
+      }
+    },
+    "organization_id": "org-062",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "37",
-    "name": "到此一游(LvYouDui2)",
-    "organization": "北京化工大学(Beijing University of Chemical Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "LvYouDui2",
+        "zh-CN": "到此一游"
+      }
+    },
+    "organization_id": "org-024",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "156",
-    "name": "加油华为(HUAWEI COME ON)",
-    "organization": "重庆邮电大学(Chongqing University of Posts and Telecommunications)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "HUAWEI COME ON",
+        "zh-CN": "加油华为"
+      }
+    },
+    "organization_id": "org-158",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "204",
-    "name": "十罐碧雪(Teen Spirit)",
-    "organization": "太原理工大学(Taiyuan University of Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Teen Spirit",
+        "zh-CN": "十罐碧雪"
+      }
+    },
+    "organization_id": "org-061",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "205",
-    "name": "十行代码九行报错八门选课七门飘过(Ten lines of code, nine lines of error reporting, eight courses selected, and seven courses passed by)",
-    "organization": "陕西理工大学(Shaanxi University of Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Ten lines of code, nine lines of error reporting, eight courses selected, and seven courses passed by",
+        "zh-CN": "十行代码九行报错八门选课七门飘过"
+      }
+    },
+    "organization_id": "org-166",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "243",
-    "name": "千帆星河(Cascades of Sailing Stars)",
-    "organization": "中南大学(Central South University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Cascades of Sailing Stars",
+        "zh-CN": "千帆星河"
+      }
+    },
+    "organization_id": "org-007",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "177",
-    "name": "只吃麦当劳(No Kfc)",
-    "organization": "南开大学(Nankai University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "No Kfc",
+        "zh-CN": "只吃麦当劳"
+      }
+    },
+    "organization_id": "org-040",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "97",
-    "name": "可莉不知道哦(Klee don't know)",
-    "organization": "宁夏大学(Ningxia University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Klee don't know",
+        "zh-CN": "可莉不知道哦"
+      }
+    },
+    "organization_id": "org-062",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "118",
-    "name": "呜呜呜菜死了(cai cai dai dai)",
-    "organization": "浙江理工大学(Zhejiang SCI-TECH University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "cai cai dai dai",
+        "zh-CN": "呜呜呜菜死了"
+      }
+    },
+    "organization_id": "org-114",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "40",
-    "name": "哈哈哈(HaHaHa)",
-    "organization": "湖北工业大学(Hubei University of Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "HaHaHa",
+        "zh-CN": "哈哈哈"
+      }
+    },
+    "organization_id": "org-121",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "154",
-    "name": "哈哈汪(HAHAone)",
-    "organization": "怀化学院(Huaihua University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "HAHAone",
+        "zh-CN": "哈哈汪"
+      }
+    },
+    "organization_id": "org-079",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "41",
-    "name": "哈哈突(HAHAtwo)",
-    "organization": "怀化学院(Huaihua University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "HAHAtwo",
+        "zh-CN": "哈哈突"
+      }
+    },
+    "organization_id": "org-079",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "183",
-    "name": "啊？队(waht?)",
-    "organization": "上海大学(Shanghai University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "waht?",
+        "zh-CN": "啊？队"
+      }
+    },
+    "organization_id": "org-002",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "56",
-    "name": "嘻哈树哈希(FREEDOM DiVE)",
-    "organization": "北京航空航天大学(Beihang University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "FREEDOM DiVE",
+        "zh-CN": "嘻哈树哈希"
+      }
+    },
+    "organization_id": "org-028",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "195",
-    "name": "坤坤暴打篮球(Chicken fiercely playing basketball)",
-    "organization": "南阳理工学院(Nanyang Institute of Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Chicken fiercely playing basketball",
+        "zh-CN": "坤坤暴打篮球"
+      }
+    },
+    "organization_id": "org-047",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "74",
-    "name": "埃克塞特号(NCC26531 Exeter)",
-    "organization": "山东科技大学(Shandong University of Science and Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "NCC26531 Exeter",
+        "zh-CN": "埃克塞特号"
+      }
+    },
+    "organization_id": "org-071",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "109",
-    "name": "声声乌龙(Voice Oolong)",
-    "organization": "湖南农业大学(Hunan Agricultural University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Voice Oolong",
+        "zh-CN": "声声乌龙"
+      }
+    },
+    "organization_id": "org-122",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "81",
-    "name": "大吉大利，今晚吃 mian（）;(It's now or never)",
-    "organization": "北京航空航天大学(Beihang University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "It's now or never",
+        "zh-CN": "大吉大利，今晚吃 mian();"
+      }
+    },
+    "organization_id": "org-028",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "150",
-    "name": "大漠苍狼1号战队(GreyWolfofDesert01)",
-    "organization": "兰州交通大学(Lanzhou Jiaotong University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "GreyWolfofDesert01",
+        "zh-CN": "大漠苍狼1号战队"
+      }
+    },
+    "organization_id": "org-021",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "20",
-    "name": "天星交错(Celestial Intersection)",
-    "organization": "福建师范大学(Fujian Normal University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Celestial Intersection",
+        "zh-CN": "天星交错"
+      }
+    },
+    "organization_id": "org-132",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "112",
-    "name": "太空汪汪队(puppy in space)",
-    "organization": "云南大学(Yunnan University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "puppy in space",
+        "zh-CN": "太空汪汪队"
+      }
+    },
+    "organization_id": "org-020",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "301",
-    "name": "失踪的天鹅之考研怎么你了(Swan went to graduate school)",
-    "organization": "曲阜师范大学(Qufu Normal University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Swan went to graduate school",
+        "zh-CN": "失踪的天鹅之考研怎么你了"
+      }
+    },
+    "organization_id": "org-086",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "21",
-    "name": "头部选手、腰部选手和裆部选手(Top、Middle and Bottom player)",
-    "organization": "合肥工业大学宣城校区(Hefei University of Technology at Xuancheng)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Top、Middle and Bottom player",
+        "zh-CN": "头部选手、腰部选手和裆部选手"
+      }
+    },
+    "organization_id": "org-051",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "331",
-    "name": "奥特之父波比大爷携带首冲小能手超人强与篮球教父坤坤爆莅临他忠实的西安(Select & Buying Club)",
-    "organization": "长沙理工大学(Changsha University of Science and Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Select & Buying Club",
+        "zh-CN": "奥特之父波比大爷携带首冲小能手超人强与篮球教父坤坤爆莅临他忠实的西安"
+      }
+    },
+    "organization_id": "org-163",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "172",
-    "name": "学习新思想(Learning new ideas)",
-    "organization": "临沂大学(Linyi University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Learning new ideas",
+        "zh-CN": "学习新思想"
+      }
+    },
+    "organization_id": "org-018",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "310",
-    "name": "学长骗我这是互联网加(NINE PERCENT)",
-    "organization": "陕西理工大学(Shaanxi University of Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "NINE PERCENT",
+        "zh-CN": "学长骗我这是互联网加"
+      }
+    },
+    "organization_id": "org-166",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "92",
-    "name": "寂静之声(The Sound of Silence)",
-    "organization": "常熟理工学院(Changshu Institute of Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "The Sound of Silence",
+        "zh-CN": "寂静之声"
+      }
+    },
+    "organization_id": "org-073",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "193",
-    "name": "寄你太美(Ji Ni Tai Mei)",
-    "organization": "江南大学(Jiangnan University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Ji Ni Tai Mei",
+        "zh-CN": "寄你太美"
+      }
+    },
+    "organization_id": "org-092",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "309",
-    "name": "小人物(small potato)",
-    "organization": "浙江科技学院(Zhejiang University of Science & Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "small potato",
+        "zh-CN": "小人物"
+      }
+    },
+    "organization_id": "org-115",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "122",
-    "name": "小油菜啊对对队(AC relies entirely on guessing)",
-    "organization": "厦门大学嘉庚学院(Xiamen University Tan Kah Kee College)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "AC relies entirely on guessing",
+        "zh-CN": "小油菜啊对对队"
+      }
+    },
+    "organization_id": "org-049",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "94",
-    "name": "就在今天(Just for today)",
-    "organization": "西北工业大学(Northwestern Polytechnical University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Just for today",
+        "zh-CN": "就在今天"
+      }
+    },
+    "organization_id": "org-135",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "340",
-    "name": "幻想家在幻想时间幻想ac(The fantasist fantasizes ac in Fantastical time)",
-    "organization": "浙江财经大学(Zhejiang University of Finance & Economics)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "The fantasist fantasizes ac in Fantastical time",
+        "zh-CN": "幻想家在幻想时间幻想ac"
+      }
+    },
+    "organization_id": "org-117",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "153",
-    "name": "广告位招商(Advertising space for rent)",
-    "organization": "南昌理工学院(Nanchang Institute of Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Advertising space for rent",
+        "zh-CN": "广告位招商"
+      }
+    },
+    "organization_id": "org-042",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "238",
-    "name": "康康你的队名(can can need team name)",
-    "organization": "重庆大学(Chongqing University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "can can need team name",
+        "zh-CN": "康康你的队名"
+      }
+    },
+    "organization_id": "org-156",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "236",
-    "name": "建队太难了(build team is difficult)",
-    "organization": "西安邮电大学(Xi'an University of Posts and Telecommunications)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "build team is difficult",
+        "zh-CN": "建队太难了"
+      }
+    },
+    "organization_id": "org-150",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "126",
-    "name": "弈！   悟！(Take me to church)",
-    "organization": "青岛大学(Qingdao University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Take me to church",
+        "zh-CN": "弈！ 悟！"
+      }
+    },
+    "organization_id": "org-170",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "216",
-    "name": "张权车行(ZhangquanCar)",
-    "organization": "南京晓庄学院(Nanjing Xiaozhuang University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "ZhangquanCar",
+        "zh-CN": "张权车行"
+      }
+    },
+    "organization_id": "org-037",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "272",
-    "name": "彩虹岛之戮(Killing of Rainbow Island)",
-    "organization": "长安大学(Chang'an University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Killing of Rainbow Island",
+        "zh-CN": "彩虹岛之戮"
+      }
+    },
+    "organization_id": "org-160",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "82",
-    "name": "德玛西亚(DEMAXIYA)",
-    "organization": "南阳理工学院(Nanyang Institute of Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "DEMAXIYA",
+        "zh-CN": "德玛西亚"
+      }
+    },
+    "organization_id": "org-047",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "131",
-    "name": "怎么会是(23333)",
-    "organization": "中北大学(North University of China)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "23333",
+        "zh-CN": "怎么会是"
+      }
+    },
+    "organization_id": "org-006",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "215",
-    "name": "怎么每次线下都在西安(indifferent)",
-    "organization": "青岛大学(Qingdao University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "indifferent",
+        "zh-CN": "怎么每次线下都在西安"
+      }
+    },
+    "organization_id": "org-170",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "130",
-    "name": "怎么还不队(NEWBEE)",
-    "organization": "江西理工大学南昌校区(Jiangxi University of Science and Technology Nanchang)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "NEWBEE",
+        "zh-CN": "怎么还不队"
+      }
+    },
+    "organization_id": "org-095",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "12",
-    "name": "急切想要答案(Eager for answers)",
-    "organization": "安阳工学院(Anyang Institute of Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Eager for answers",
+        "zh-CN": "急切想要答案"
+      }
+    },
+    "organization_id": "org-066",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "255",
-    "name": "想要妹妹(wanna sister)",
-    "organization": "中国地质大学（北京）(China University of Geosciences, Beijing)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "wanna sister",
+        "zh-CN": "想要妹妹"
+      }
+    },
+    "organization_id": "org-012",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "129",
-    "name": "愚人众第十二席(The twelfth table for Fatui)",
-    "organization": "南京航空航天大学(Nanjing University of Aeronautics and Astronautics)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "The twelfth table for Fatui",
+        "zh-CN": "愚人众第十二席"
+      }
+    },
+    "organization_id": "org-038",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "174",
-    "name": "愚人竞技场(Arena of Fools)",
-    "organization": "华东交通大学(East China Jiaotong University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Arena of Fools",
+        "zh-CN": "愚人竞技场"
+      }
+    },
+    "organization_id": "org-029",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "190",
-    "name": "感受一下比赛氛围(Feel the atmosphere of the game)",
-    "organization": "西安理工大学(Xi'an University of Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Feel the atmosphere of the game",
+        "zh-CN": "感受一下比赛氛围"
+      }
+    },
+    "organization_id": "org-147",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "116",
-    "name": "我不行了(I'm done)",
-    "organization": "北京科技大学(University of Science and Technology Beijing)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "I'm done",
+        "zh-CN": "我不行了"
+      }
+    },
+    "organization_id": "org-027",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "251",
-    "name": "我们仨指定嘎嘎乱杀(Three guys AK ICPC)",
-    "organization": "浙江万里学院(zhejiang wanli university)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Three guys AK ICPC",
+        "zh-CN": "我们仨指定嘎嘎乱杀"
+      }
+    },
+    "organization_id": "org-108",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "168",
-    "name": "我们毕业了(we graduated)",
-    "organization": "南京晓庄学院(Nanjing Xiaozhuang University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "we graduated",
+        "zh-CN": "我们毕业了"
+      }
+    },
+    "organization_id": "org-037",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "117",
-    "name": "我们都有美好的未来(We all have a beautiful future)",
-    "organization": "南昌大学(Nanchang University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "We all have a beautiful future",
+        "zh-CN": "我们都有美好的未来"
+      }
+    },
+    "organization_id": "org-041",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "250",
-    "name": "我们队长四级考了三次还能打ICPC吗(Our captain has taken part in CET-4 for three times, can we take part in ICPC?)",
-    "organization": "重庆交通大学(Chongqing Jiaotong University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Our captain has taken part in CET-4 for three times, can we take part in ICPC?",
+        "zh-CN": "我们队长四级考了三次还能打ICPC吗"
+      }
+    },
+    "organization_id": "org-155",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "55",
-    "name": "我再试试(I'll try)",
-    "organization": "北京科技大学(University of Science and Technology Beijing)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "I'll try",
+        "zh-CN": "我再试试"
+      }
+    },
+    "organization_id": "org-027",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "211",
-    "name": "我只想打工(I wanna work)",
-    "organization": "南通大学(Nantong University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "I wanna work",
+        "zh-CN": "我只想打工"
+      }
+    },
+    "organization_id": "org-045",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "350",
-    "name": "我将终究顺流入大海(Finally I flowed into the sea)",
-    "organization": "西南民族大学(SouthWest Minzu University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Finally I flowed into the sea",
+        "zh-CN": "我将终究顺流入大海"
+      }
+    },
+    "organization_id": "org-138",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "209",
-    "name": "我的acm之旅没有牌(Pekoe)",
-    "organization": "南开大学(Nankai University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Pekoe",
+        "zh-CN": "我的acm之旅没有牌"
+      }
+    },
+    "organization_id": "org-040",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "210",
-    "name": "我的罚时在你之上(Less penalty is more)",
-    "organization": "乐山师范学院(leshan normal university)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Less penalty is more",
+        "zh-CN": "我的罚时在你之上"
+      }
+    },
+    "organization_id": "org-019",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "22",
-    "name": "我还可以(I can do)",
-    "organization": "北京科技大学(University of Science and Technology Beijing)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "I can do",
+        "zh-CN": "我还可以"
+      }
+    },
+    "organization_id": "org-027",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "247",
-    "name": "所以爱会消失对不队(So love will disappear)",
-    "organization": "西安明德理工学院(Xi'an Mingde Institute of Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "So love will disappear",
+        "zh-CN": "所以爱会消失对不队"
+      }
+    },
+    "organization_id": "org-145",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "79",
-    "name": "打完赶快开派队(Send a team as soon as you are done)",
-    "organization": "西安邮电大学(Xi'an University of Posts and Telecommunications)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Send a team as soon as you are done",
+        "zh-CN": "打完赶快开派队"
+      }
+    },
+    "organization_id": "org-150",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "80",
-    "name": "打小就叛逆(rebellious since childhood)",
-    "organization": "西安欧亚学院(xi'an eurasia university)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "rebellious since childhood",
+        "zh-CN": "打小就叛逆"
+      }
+    },
+    "organization_id": "org-146",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "229",
-    "name": "打铁转生，在邀请赛要拿出真本事(Strike iron rebirth, in the invitational tournament to show real skills)",
-    "organization": "西北大学(Northwestern University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Strike iron rebirth, in the invitational tournament to show real skills",
+        "zh-CN": "打铁转生，在邀请赛要拿出真本事"
+      }
+    },
+    "organization_id": "org-134",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "221",
-    "name": "摸鱼但不摆烂(loaf but no rotten)",
-    "organization": "南阳理工学院(Nanyang Institute of Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "loaf but no rotten",
+        "zh-CN": "摸鱼但不摆烂"
+      }
+    },
+    "organization_id": "org-047",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "110",
-    "name": "收收心找个电子厂上班了(Why all electronic factories don't accept me?)",
-    "organization": "南京邮电大学(Nanjing University of Posts and Telecommunications)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Why all electronic factories don't accept me?",
+        "zh-CN": "收收心找个电子厂上班了"
+      }
+    },
+    "organization_id": "org-039",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "192",
-    "name": "攻城狮(Siege Lion)",
-    "organization": "厦门大学(Xiamen University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Siege Lion",
+        "zh-CN": "攻城狮"
+      }
+    },
+    "organization_id": "org-048",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "160",
-    "name": "旅游队(AC.empty（）==true)",
-    "organization": "兰州理工大学(Lanzhou University of Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "AC.empty()==true",
+        "zh-CN": "旅游队"
+      }
+    },
+    "organization_id": "org-022",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "169",
-    "name": "无所谓九转大肠会出手(deliberate)",
-    "organization": "江西财经大学(Jiangxi University of Finance and Economics)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "deliberate",
+        "zh-CN": "无所谓九转大肠会出手"
+      }
+    },
+    "organization_id": "org-096",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "305",
-    "name": "无畏号(NCC1631 Intrepid)",
-    "organization": "山东科技大学(Shandong University of Science and Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "NCC1631 Intrepid",
+        "zh-CN": "无畏号"
+      }
+    },
+    "organization_id": "org-071",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "298",
-    "name": "日落(Sunset)",
-    "organization": "泉州师范学院(Quanzhou Normal University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Sunset",
+        "zh-CN": "日落"
+      }
+    },
+    "organization_id": "org-105",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "162",
-    "name": "明明是我先来的(First Come I)",
-    "organization": "南京大学(Nanjing University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "First Come I",
+        "zh-CN": "明明是我先来的"
+      }
+    },
+    "organization_id": "org-035",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "44",
-    "name": "昏睡红茶打铁队(Sleepy balck tea)",
-    "organization": "东华理工大学(East China University of Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Sleepy balck tea",
+        "zh-CN": "昏睡红茶打铁队"
+      }
+    },
+    "organization_id": "org-005",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "25",
-    "name": "星穹铁牌(2.3.1e10)",
-    "organization": "成都信息工程大学(Chengdu University of Information Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "2.3.1e10",
+        "zh-CN": "星穹铁牌"
+      }
+    },
+    "organization_id": "org-081",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "35",
-    "name": "春眠不觉晓(Sleeping in spring)",
-    "organization": "湖南农业大学(Hunan Agricultural University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Sleeping in spring",
+        "zh-CN": "春眠不觉晓"
+      }
+    },
+    "organization_id": "org-122",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "303",
-    "name": "晚十208(Good Night 208)",
-    "organization": "四川大学(Sichuan University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Good Night 208",
+        "zh-CN": "晚十208"
+      }
+    },
+    "organization_id": "org-055",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "2",
-    "name": "曾馍，你不福气?(a blessing)",
-    "organization": "常熟理工学院(Changshu Institute of Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "a blessing",
+        "zh-CN": "曾馍，你不福气?"
+      }
+    },
+    "organization_id": "org-073",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "128",
-    "name": "有请下一队(There is a next team please)",
-    "organization": "西北大学(Northwestern University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "There is a next team please",
+        "zh-CN": "有请下一队"
+      }
+    },
+    "organization_id": "org-134",
     "official": 1,
     "unofficial": false,
     "girl": 1
   },
   {
     "team_id": "291",
-    "name": "木毛馆(Homokan)",
-    "organization": "上海建桥学院(Shanghai Jianqiao University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Homokan",
+        "zh-CN": "木毛馆"
+      }
+    },
+    "organization_id": "org-003",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "199",
-    "name": "林克时间(jail time)",
-    "organization": "南京航空航天大学(Nanjing University of Aeronautics and Astronautics)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "jail time",
+        "zh-CN": "林克时间"
+      }
+    },
+    "organization_id": "org-038",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "98",
-    "name": "林间雨月(Forest's tear and sight)",
-    "organization": "南京大学(Nanjing University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Forest's tear and sight",
+        "zh-CN": "林间雨月"
+      }
+    },
+    "organization_id": "org-035",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "161",
-    "name": "梦的光点(Dream Light)",
-    "organization": "湖北工业大学(Hubei University of Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Dream Light",
+        "zh-CN": "梦的光点"
+      }
+    },
+    "organization_id": "org-121",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "196",
-    "name": "梨花香(escaping acmer)",
-    "organization": "山东师范大学(Shandong Normal University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "escaping acmer",
+        "zh-CN": "梨花香"
+      }
+    },
+    "organization_id": "org-069",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "103",
-    "name": "气氛组(Atmosphere Group)",
-    "organization": "西华大学(Xihua University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Atmosphere Group",
+        "zh-CN": "气氛组"
+      }
+    },
+    "organization_id": "org-137",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "203",
-    "name": "氵呙车仑土曾甲鸟(Turbocharging)",
-    "organization": "山东理工大学(Shandong University of Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Turbocharging",
+        "zh-CN": "氵呙车仑土曾甲鸟"
+      }
+    },
+    "organization_id": "org-070",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "108",
-    "name": "沙耶之歌(song of saya)",
-    "organization": "乐山师范学院(leshan normal university)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "song of saya",
+        "zh-CN": "沙耶之歌"
+      }
+    },
+    "organization_id": "org-019",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "341",
-    "name": "混吃等死(istcstbdt)",
-    "organization": "厦门大学嘉庚学院(Xiamen University Tan Kah Kee College)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "istcstbdt",
+        "zh-CN": "混吃等死"
+      }
+    },
+    "organization_id": "org-049",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "349",
-    "name": "温柔换不来温柔(tender unexchange tender)",
-    "organization": "中南民族大学(South-Central Minzu University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "tender unexchange tender",
+        "zh-CN": "温柔换不来温柔"
+      }
+    },
+    "organization_id": "org-008",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "213",
-    "name": "游同学带头冲锋(Ring led the charge)",
-    "organization": "四川师范大学(Sichuan Normal University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Ring led the charge",
+        "zh-CN": "游同学带头冲锋"
+      }
+    },
+    "organization_id": "org-056",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "75",
-    "name": "爱丽丝和鲍勃(Alice And Bob)",
-    "organization": "徐州工程学院(Xuzhou University of Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Alice And Bob",
+        "zh-CN": "爱丽丝和鲍勃"
+      }
+    },
+    "organization_id": "org-078",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "173",
-    "name": "爷就喜欢现场赛(Top dogs like real party)",
-    "organization": "南京信息工程大学(Nanjing University of Information Science & Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Top dogs like real party",
+        "zh-CN": "爷就喜欢现场赛"
+      }
+    },
+    "organization_id": "org-034",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "100",
-    "name": "牧马人(Wrangler)",
-    "organization": "武汉理工大学(Wuhan University of Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Wrangler",
+        "zh-CN": "牧马人"
+      }
+    },
+    "organization_id": "org-091",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "135",
-    "name": "猪猪猪(pigpigpig)",
-    "organization": "浙江工商大学(Zhejiang Gongshang University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "pigpigpig",
+        "zh-CN": "猪猪猪"
+      }
+    },
+    "organization_id": "org-112",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "287",
-    "name": "理塘最強伝說と絕兇の猛虎純真丁一郎(Dingzhen Zhenzhu)",
-    "organization": "同济大学(Tongji University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Dingzhen Zhenzhu",
+        "zh-CN": "理塘最強伝說と絕兇の猛虎純真丁一郎"
+      }
+    },
+    "organization_id": "org-053",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "87",
-    "name": "疯狂周二(Crazy Tuesday)",
-    "organization": "西南财经大学(Southwest University of Finance and Economics)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Crazy Tuesday",
+        "zh-CN": "疯狂周二"
+      }
+    },
+    "organization_id": "org-141",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "280",
-    "name": "疯狂被振刀队(baby plant)",
-    "organization": "宁夏大学(Ningxia University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "baby plant",
+        "zh-CN": "疯狂被振刀队"
+      }
+    },
+    "organization_id": "org-062",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "227",
-    "name": "白驹过隙(fleeting show)",
-    "organization": "南京大学(Nanjing University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "fleeting show",
+        "zh-CN": "白驹过隙"
+      }
+    },
+    "organization_id": "org-035",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "359",
-    "name": "真地爱坤坤(Reallyikun)",
-    "organization": "西南财经大学(Southwest University of Finance and Economics)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Reallyikun",
+        "zh-CN": "真地爱坤坤"
+      }
+    },
+    "organization_id": "org-141",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "31",
-    "name": "祝你好运玩的开心(GLHF)",
-    "organization": "北京化工大学(Beijing University of Chemical Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "GLHF",
+        "zh-CN": "祝你好运玩的开心"
+      }
+    },
+    "organization_id": "org-024",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "235",
-    "name": "积极向上，到处睡觉(Stay positive and sleep everywhere)",
-    "organization": "安徽工业大学(Anhui University of Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Stay positive and sleep everywhere",
+        "zh-CN": "积极向上，到处睡觉"
+      }
+    },
+    "organization_id": "org-065",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "157",
-    "name": "简单易码(WMM)",
-    "organization": "南京工业大学(Nanjing Tech University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "WMM",
+        "zh-CN": "简单易码"
+      }
+    },
+    "organization_id": "org-036",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "228",
-    "name": "纯娱乐选手(NEWBEE2)",
-    "organization": "江西理工大学南昌校区(Jiangxi University of Science and Technology Nanchang)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "NEWBEE2",
+        "zh-CN": "纯娱乐选手"
+      }
+    },
+    "organization_id": "org-095",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "16",
-    "name": "练习时长五小时(Duration of practice five hours)",
-    "organization": "成都东软学院(ChengDu Neusoft University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Duration of practice five hours",
+        "zh-CN": "练习时长五小时"
+      }
+    },
+    "organization_id": "org-080",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "194",
-    "name": "经验加三谢谢喵(Experience plus three，thanks meow)",
-    "organization": "西北大学(Northwestern University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Experience plus three，thanks meow",
+        "zh-CN": "经验加三谢谢喵"
+      }
+    },
+    "organization_id": "org-134",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "8",
-    "name": "给个AC吧！(Give me a AC please！)",
-    "organization": "大连理工大学(Dalian University of Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Give me a AC please！",
+        "zh-CN": "给个AC吧！"
+      }
+    },
+    "organization_id": "org-059",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "191",
-    "name": "给大哥端茶倒水的小弟(Little Brother Serving Boss)",
-    "organization": "山东大学(Shandong University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Little Brother Serving Boss",
+        "zh-CN": "给大哥端茶倒水的小弟"
+      }
+    },
+    "organization_id": "org-067",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "336",
-    "name": "翻斗花园(Tipping Garden)",
-    "organization": "西安邮电大学(Xi'an University of Posts and Telecommunications)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Tipping Garden",
+        "zh-CN": "翻斗花园"
+      }
+    },
+    "organization_id": "org-150",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "231",
-    "name": "翻斗花园爆A小分队(A in Fandou Garden)",
-    "organization": "中国计量大学现代科技学院(China Jiliang University College of Modern Science and Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "A in Fandou Garden",
+        "zh-CN": "翻斗花园爆A小分队"
+      }
+    },
+    "organization_id": "org-017",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "278",
-    "name": "翻斗花园突破手(Fandou Garden Rifleman)",
-    "organization": "青岛农业大学(Qingdao Agricultural University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Fandou Garden Rifleman",
+        "zh-CN": "翻斗花园突破手"
+      }
+    },
+    "organization_id": "org-169",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "239",
-    "name": "老村长(LCZ)",
-    "organization": "中国人民解放军战略支援部队信息工程大学(Information Engineering University of the People's Liberation Army)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "LCZ",
+        "zh-CN": "老村长"
+      }
+    },
+    "organization_id": "org-010",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "292",
-    "name": "脑袋空空(Null)",
-    "organization": "中国计量大学现代科技学院(China Jiliang University College of Modern Science and Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Null",
+        "zh-CN": "脑袋空空"
+      }
+    },
+    "organization_id": "org-017",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "198",
-    "name": "良夜清风月满湖(Take a trip in junior year)",
-    "organization": "潍坊学院(Weifang University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Take a trip in junior year",
+        "zh-CN": "良夜清风月满湖"
+      }
+    },
+    "organization_id": "org-126",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "217",
-    "name": "芝士海报(TakeYourHeart)",
-    "organization": "湖北工业大学(Hubei University of Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "TakeYourHeart",
+        "zh-CN": "芝士海报"
+      }
+    },
+    "organization_id": "org-121",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "10",
-    "name": "花之群英队(bara)",
-    "organization": "广东金融学院(Guangdong University of Finance)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "bara",
+        "zh-CN": "花之群英队"
+      }
+    },
+    "organization_id": "org-076",
     "official": 1,
     "unofficial": false,
     "girl": 1
   },
   {
     "team_id": "354",
-    "name": "荧光闪烁(Lumos Maxima)",
-    "organization": "西南科技大学(Southwest University of Science and Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Lumos Maxima",
+        "zh-CN": "荧光闪烁"
+      }
+    },
+    "organization_id": "org-140",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "96",
-    "name": "蒟蒻果冻不蒟蒻(The schoolboy died)",
-    "organization": "成都东软学院(ChengDu Neusoft University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "The schoolboy died",
+        "zh-CN": "蒟蒻果冻不蒟蒻"
+      }
+    },
+    "organization_id": "org-080",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "346",
-    "name": "蕊蕊和郑老师一样可爱(ruirui as lovely as hierophant)",
-    "organization": "西南石油大学(Southwest Petroleum University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "ruirui as lovely as hierophant",
+        "zh-CN": "蕊蕊和郑老师一样可爱"
+      }
+    },
+    "organization_id": "org-139",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "306",
-    "name": "西安之旅(Xi'an three-person tour)",
-    "organization": "长沙理工大学(Changsha University of Science and Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Xi'an three-person tour",
+        "zh-CN": "西安之旅"
+      }
+    },
+    "organization_id": "org-163",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "253",
-    "name": "西安之旅(XianTour)",
-    "organization": "广东东软学院(Neusoft Institute Guangdong)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "XianTour",
+        "zh-CN": "西安之旅"
+      }
+    },
+    "organization_id": "org-074",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "307",
-    "name": "西财汪汪队(SWUFE IDOGTEAM)",
-    "organization": "西南财经大学(Southwest University of Finance and Economics)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "SWUFE IDOGTEAM",
+        "zh-CN": "西财汪汪队"
+      }
+    },
+    "organization_id": "org-141",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "312",
-    "name": "要我告儿你多少遍?(How many times I say?)",
-    "organization": "温州大学(Wenzhou University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "How many times I say?",
+        "zh-CN": "要我告儿你多少遍?"
+      }
+    },
+    "organization_id": "org-120",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "202",
-    "name": "认真专注沉着冷静(genshinAC)",
-    "organization": "兰州理工大学(Lanzhou University of Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "genshinAC",
+        "zh-CN": "认真专注沉着冷静"
+      }
+    },
+    "organization_id": "org-022",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "353",
-    "name": "译验丁真(compileMan)",
-    "organization": "西华大学(Xihua University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "compileMan",
+        "zh-CN": "译验丁真"
+      }
+    },
+    "organization_id": "org-137",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "163",
-    "name": "起名真费劲(get name really expend a lot of energy)",
-    "organization": "江西理工大学(Jiangxi University of Science and Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "get name really expend a lot of energy",
+        "zh-CN": "起名真费劲"
+      }
+    },
+    "organization_id": "org-094",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "4",
-    "name": "趁热打铁(besti123)",
-    "organization": "北京电子科技学院(Beijing Electronic Science and Technology Institute)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "besti123",
+        "zh-CN": "趁热打铁"
+      }
+    },
+    "organization_id": "org-026",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "274",
-    "name": "超新星(supernova)",
-    "organization": "陕西科技大学(Shaanxi University of Science and Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "supernova",
+        "zh-CN": "超新星"
+      }
+    },
+    "organization_id": "org-167",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "149",
-    "name": "超时重连(I am Giant Buddha)",
-    "organization": "乐山师范学院(leshan normal university)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "I am Giant Buddha",
+        "zh-CN": "超时重连"
+      }
+    },
+    "organization_id": "org-019",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "3",
-    "name": "超级无敌宇宙暴龙兽(Super Invincible Space Tyrannosaurus Rex)",
-    "organization": "西安明德理工学院(Xi'an Mingde Institute of Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Super Invincible Space Tyrannosaurus Rex",
+        "zh-CN": "超级无敌宇宙暴龙兽"
+      }
+    },
+    "organization_id": "org-145",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "273",
-    "name": "超额剩余价值(Excess Surplus Value)",
-    "organization": "西安电子科技大学(Xidian University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Excess Surplus Value",
+        "zh-CN": "超额剩余价值"
+      }
+    },
+    "organization_id": "org-148",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "257",
-    "name": "跃鳞(Rise)",
-    "organization": "中南民族大学(South-Central Minzu University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Rise",
+        "zh-CN": "跃鳞"
+      }
+    },
+    "organization_id": "org-008",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "218",
-    "name": "转生到异世界然后一秒AK(vivo50)",
-    "organization": "天津工业大学(Tianjin Polytechnic University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "vivo50",
+        "zh-CN": "转生到异世界然后一秒AK"
+      }
+    },
+    "organization_id": "org-060",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "178",
-    "name": "转生成为邦德公主当阿尼亚小姐的狗(Anya and Wang)",
-    "organization": "河北师范大学(Hebei Normal University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Anya and Wang",
+        "zh-CN": "转生成为邦德公主当阿尼亚小姐的狗"
+      }
+    },
+    "organization_id": "org-100",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "42",
-    "name": "还在整薯条的摸鱼队(Pigeon Soup with Mild Fire)",
-    "organization": "成都理工大学(Chengdu University of Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Pigeon Soup with Mild Fire",
+        "zh-CN": "还在整薯条的摸鱼队"
+      }
+    },
+    "organization_id": "org-083",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "28",
-    "name": "这不是BUG，是特性(GDUT_#define Bug Feature)",
-    "organization": "广东工业大学(Guangdong University of Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "GDUT_#define Bug Feature",
+        "zh-CN": "这不是BUG，是特性"
+      }
+    },
+    "organization_id": "org-075",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "358",
-    "name": "这么WA真是抱歉(nwafu-team3)",
-    "organization": "西北农林科技大学(Northwest A&F University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "nwafu-team3",
+        "zh-CN": "这么WA真是抱歉"
+      }
+    },
+    "organization_id": "org-133",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "175",
-    "name": "远坂凛粉丝队(Fate Stay Night)",
-    "organization": "江南大学(Jiangnan University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Fate Stay Night",
+        "zh-CN": "远坂凛粉丝队"
+      }
+    },
+    "organization_id": "org-092",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "241",
-    "name": "迷路帖(URARA)",
-    "organization": "华中师范大学(Central China Normal University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "URARA",
+        "zh-CN": "迷路帖"
+      }
+    },
+    "organization_id": "org-032",
     "official": 1,
     "unofficial": false,
     "girl": 1
   },
   {
     "team_id": "111",
-    "name": "送钱三人组·不如原神(Xi'an Tour Group)",
-    "organization": "合肥学院(Hefei university)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Xi'an Tour Group",
+        "zh-CN": "送钱三人组·不如原神"
+      }
+    },
+    "organization_id": "org-050",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "151",
-    "name": "递交偏执狂(Submission Paranoia)",
-    "organization": "黄冈师范学院(Huanggang Normal University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Submission Paranoia",
+        "zh-CN": "递交偏执狂"
+      }
+    },
+    "organization_id": "org-171",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "315",
-    "name": "逸一时，误一世！(114514)",
-    "organization": "齐鲁工业大学(Qilu University of Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "114514",
+        "zh-CN": "逸一时，误一世！"
+      }
+    },
+    "organization_id": "org-172",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "316",
-    "name": "逸一时误一世(33333)",
-    "organization": "中北大学(North University of China)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "33333",
+        "zh-CN": "逸一时误一世"
+      }
+    },
+    "organization_id": "org-006",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "360",
-    "name": "重庆鸡公煲(Chicken Pot)",
-    "organization": "浙江科技学院(Zhejiang University of Science & Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Chicken Pot",
+        "zh-CN": "重庆鸡公煲"
+      }
+    },
+    "organization_id": "org-115",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "320",
-    "name": "重生(rebirth)",
-    "organization": "安徽工业大学(Anhui University of Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "rebirth",
+        "zh-CN": "重生"
+      }
+    },
+    "organization_id": "org-065",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "260",
-    "name": "重生之夺取西部枢纽拿金牌(Winter is comming)",
-    "organization": "重庆移通学院(Chongqing College of Mobile Communication)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Winter is comming",
+        "zh-CN": "重生之夺取西部枢纽拿金牌"
+      }
+    },
+    "organization_id": "org-157",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "237",
-    "name": "金色子弹(Golden Bullets)",
-    "organization": "大连海事大学(Dalian Maritime University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Golden Bullets",
+        "zh-CN": "金色子弹"
+      }
+    },
+    "organization_id": "org-058",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "45",
-    "name": "金银铜(AuAgCu)",
-    "organization": "华中农业大学(Huazhong Agricultural University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "AuAgCu",
+        "zh-CN": "金银铜"
+      }
+    },
+    "organization_id": "org-031",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "29",
-    "name": "钟山风雨(Violet Tempest)",
-    "organization": "南京大学(Nanjing University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Violet Tempest",
+        "zh-CN": "钟山风雨"
+      }
+    },
+    "organization_id": "org-035",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "18",
-    "name": "锐刻六代(6th RELX)",
-    "organization": "北京理工大学(Beijing Institute of Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "6th RELX",
+        "zh-CN": "锐刻六代"
+      }
+    },
+    "organization_id": "org-025",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "93",
-    "name": "键上翻花(Flower Dance on the Keyboard)",
-    "organization": "河北师范大学(Hebei Normal University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Flower Dance on the Keyboard",
+        "zh-CN": "键上翻花"
+      }
+    },
+    "organization_id": "org-100",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "334",
-    "name": "队长一人顶仨队(The captain ran away)",
-    "organization": "中国矿业大学（北京）(China University of Mining and Technology, Beijing)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "The captain ran away",
+        "zh-CN": "队长一人顶仨队"
+      }
+    },
+    "organization_id": "org-015",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "187",
-    "name": "队长别玩王者荣耀了(Dont play wzry)",
-    "organization": "江西财经大学(Jiangxi University of Finance and Economics)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Dont play wzry",
+        "zh-CN": "队长别玩王者荣耀了"
+      }
+    },
+    "organization_id": "org-096",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "348",
-    "name": "随便起个名字吧(Random（name）)",
-    "organization": "山东师范大学(Shandong Normal University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Random(name)",
+        "zh-CN": "随便起个名字吧"
+      }
+    },
+    "organization_id": "org-069",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "91",
-    "name": "集思广益一波(Put Heads Together)",
-    "organization": "南通大学(Nantong University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Put Heads Together",
+        "zh-CN": "集思广益一波"
+      }
+    },
+    "organization_id": "org-045",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "58",
-    "name": "雪崩团灭清一色(Avalanche comes and everything in pale)",
-    "organization": "北京理工大学(Beijing Institute of Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Avalanche comes and everything in pale",
+        "zh-CN": "雪崩团灭清一色"
+      }
+    },
+    "organization_id": "org-025",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "17",
-    "name": "青铜小分队(QT-team)",
-    "organization": "东华理工大学(East China University of Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "QT-team",
+        "zh-CN": "青铜小分队"
+      }
+    },
+    "organization_id": "org-005",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "317",
-    "name": "音速青年(SonicYouth)",
-    "organization": "西安交通大学(Xi'an Jiaotong University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "SonicYouth",
+        "zh-CN": "音速青年"
+      }
+    },
+    "organization_id": "org-142",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "338",
-    "name": "风灵月影(FengLing)",
-    "organization": "浙江万里学院(zhejiang wanli university)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "FengLing",
+        "zh-CN": "风灵月影"
+      }
+    },
+    "organization_id": "org-108",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "121",
-    "name": "香菜拌皮蛋(Coriander with preserved eggs)",
-    "organization": "中南民族大学(South-Central Minzu University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Coriander with preserved eggs",
+        "zh-CN": "香菜拌皮蛋"
+      }
+    },
+    "organization_id": "org-008",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "52",
-    "name": "鹏鹏今天吃什么(PengPeng today eat what)",
-    "organization": "大连理工大学(Dalian University of Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "PengPeng today eat what",
+        "zh-CN": "鹏鹏今天吃什么"
+      }
+    },
+    "organization_id": "org-059",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "339",
-    "name": "鹳狸猿(Strok Utricularia Ape)",
-    "organization": "西北大学(Northwestern University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Strok Utricularia Ape",
+        "zh-CN": "鹳狸猿"
+      }
+    },
+    "organization_id": "org-134",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "11",
-    "name": "黄金箭毒蛙(Golden Frog)",
-    "organization": "成都大学(Chengdu University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Golden Frog",
+        "zh-CN": "黄金箭毒蛙"
+      }
+    },
+    "organization_id": "org-082",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "197",
-    "name": "黎明之光(the Light of Dawn)",
-    "organization": "河北师范大学(Hebei Normal University)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "the Light of Dawn",
+        "zh-CN": "黎明之光"
+      }
+    },
+    "organization_id": "org-100",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "99",
-    "name": "默认词典(random)",
-    "organization": "成都理工大学(Chengdu University of Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "random",
+        "zh-CN": "默认词典"
+      }
+    },
+    "organization_id": "org-083",
     "official": 1,
     "unofficial": false,
     "girl": false
   },
   {
     "team_id": "248",
-    "name": "亡口月贝凡(losing team)",
-    "organization": "西安市铁一中学(Xi'an Tie Yizhong)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "losing team",
+        "zh-CN": "亡口月贝凡"
+      }
+    },
+    "organization_id": "org-144",
     "official": 0,
     "unofficial": 1,
     "girl": false
   },
   {
     "team_id": "222",
-    "name": "起义军(Fatty)",
-    "organization": "西安市铁一中学(Xi'an Tie Yizhong)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Fatty",
+        "zh-CN": "起义军"
+      }
+    },
+    "organization_id": "org-144",
     "official": 0,
     "unofficial": 1,
     "girl": false
   },
   {
     "team_id": "252",
-    "name": "我命由我不由qmr(I rule my future,qmr rules at oi)",
-    "organization": "西安市铁一中学(Xi'an Tie Yizhong)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "I rule my future,qmr rules at oi",
+        "zh-CN": "我命由我不由qmr"
+      }
+    },
+    "organization_id": "org-144",
     "official": 0,
     "unofficial": 1,
     "girl": false
   },
   {
     "team_id": "259",
-    "name": "我爱水分莫队(addd)",
-    "organization": "西安交通大学附属中学(XJ FuZhong)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "addd",
+        "zh-CN": "我爱水分莫队"
+      }
+    },
+    "organization_id": "org-143",
     "official": 0,
     "unofficial": 1,
     "girl": false
   },
   {
     "team_id": "234",
-    "name": "睿爸附小大战ICPC(Ruiba team1)",
-    "organization": "睿钯科技(RB Technology)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "Ruiba team1",
+        "zh-CN": "睿爸附小大战ICPC"
+      }
+    },
+    "organization_id": "org-128",
     "official": 0,
     "unofficial": 1,
     "girl": false
   },
   {
     "team_id": "256",
-    "name": "肖宇晨说的都队(XYC Said OK)",
-    "organization": "西安交通大学附属中学(XJ FuZhong)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "XYC Said OK",
+        "zh-CN": "肖宇晨说的都队"
+      }
+    },
+    "organization_id": "org-143",
     "official": 0,
     "unofficial": 1,
     "girl": false
   },
   {
     "team_id": "226",
-    "name": "西工大附中(XGDFZ)",
-    "organization": "西工大附中(NPU Fuzhong)",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "en": "XGDFZ",
+        "zh-CN": "西工大附中"
+      }
+    },
+    "organization_id": "org-151",
     "official": 0,
     "unofficial": 1,
     "girl": false
