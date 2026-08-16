@@ -1,0 +1,77 @@
+{
+  "contest_name": "2026 CCPC 全国邀请赛（秦皇岛）暨第十届河北省大学生程序设计竞赛 - 热身赛",
+  "start_time": 1779519600000,
+  "end_time": 1779528600000,
+  "penalty": 1200,
+  "frozen_time": 1800,
+  "problems": [
+    {
+      "id": "1004",
+      "label": "A",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "red"
+      }
+    },
+    {
+      "id": "1002",
+      "label": "B",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "yellow"
+      }
+    },
+    {
+      "id": "1001",
+      "label": "C",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "blue"
+      }
+    },
+    {
+      "id": "1003",
+      "label": "D",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "silver"
+      }
+    },
+    {
+      "id": "1000",
+      "label": "E",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "green"
+      }
+    },
+    {
+      "id": "1005",
+      "label": "F",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "purple"
+      }
+    }
+  ],
+  "status_time_display": {
+    "correct": true,
+    "incorrect": true,
+    "pending": true
+  },
+  "medal": "ccpc",
+  "group": {
+    "participant": "邀请赛队伍",
+    "province": "省赛队伍",
+    "unofficial": "打星队伍",
+    "girl": "女队"
+  },
+  "logo": {
+    "preset": "CCPC"
+  },
+  "options": {
+    "enable_organization": true,
+    "calculation_of_penalty": "accumulate_in_seconds_and_finally_to_the_minute",
+    "submission_timestamp_unit": "millisecond"
+  }
+}

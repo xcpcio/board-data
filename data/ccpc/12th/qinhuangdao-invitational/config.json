@@ -1,0 +1,144 @@
+{
+  "contest_name": "2026 CCPC 全国邀请赛（秦皇岛）暨第十届河北省大学生程序设计竞赛 - 正式赛",
+  "start_time": 1779582600000,
+  "end_time": 1779600600000,
+  "penalty": 1200,
+  "frozen_time": 3600,
+  "problems": [
+    {
+      "id": "100576",
+      "label": "A",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "lime"
+      }
+    },
+    {
+      "id": "100577",
+      "label": "B",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "purple"
+      }
+    },
+    {
+      "id": "100578",
+      "label": "C",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#808080"
+      }
+    },
+    {
+      "id": "100579",
+      "label": "D",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#FFCBA4"
+      }
+    },
+    {
+      "id": "100580",
+      "label": "E",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "orange"
+      }
+    },
+    {
+      "id": "100581",
+      "label": "F",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "pink"
+      }
+    },
+    {
+      "id": "100555",
+      "label": "G",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "white"
+      }
+    },
+    {
+      "id": "100559",
+      "label": "H",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "green"
+      }
+    },
+    {
+      "id": "100582",
+      "label": "I",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "cyan"
+      }
+    },
+    {
+      "id": "100583",
+      "label": "J",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "red"
+      }
+    },
+    {
+      "id": "100584",
+      "label": "K",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "silver"
+      }
+    },
+    {
+      "id": "100560",
+      "label": "L",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "yellow"
+      }
+    },
+    {
+      "id": "100585",
+      "label": "M",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "gold"
+      }
+    }
+  ],
+  "status_time_display": {
+    "correct": true,
+    "incorrect": true,
+    "pending": true
+  },
+  "medal": {
+    "participant": {
+      "gold": 18,
+      "silver": 36,
+      "bronze": 54
+    },
+    "province": {
+      "gold": 18,
+      "silver": 36,
+      "bronze": 54
+    }
+  },
+  "group": {
+    "participant": "邀请赛队伍",
+    "province": "省赛队伍",
+    "unofficial": "打星队伍",
+    "girl": "女队"
+  },
+  "logo": {
+    "preset": "CCPC"
+  },
+  "options": {
+    "enable_organization": true,
+    "calculation_of_penalty": "accumulate_in_seconds_and_finally_to_the_minute",
+    "submission_timestamp_unit": "millisecond"
+  }
+}
