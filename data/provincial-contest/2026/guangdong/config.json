@@ -1,0 +1,131 @@
+{
+  "contest_name": "第二十三届广东省大学生程序设计竞赛 - 正式赛",
+  "start_time": 1778985600000,
+  "end_time": 1779003600000,
+  "penalty": 1200,
+  "frozen_time": 3600,
+  "problems": [
+    {
+      "id": "1005",
+      "label": "A",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#B794E6"
+      }
+    },
+    {
+      "id": "1006",
+      "label": "B",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#324FE9"
+      }
+    },
+    {
+      "id": "1007",
+      "label": "C",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#E82B27"
+      }
+    },
+    {
+      "id": "1008",
+      "label": "D",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#EB73BB"
+      }
+    },
+    {
+      "id": "1009",
+      "label": "E",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#C2D821"
+      }
+    },
+    {
+      "id": "1010",
+      "label": "F",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#F3EB1C"
+      }
+    },
+    {
+      "id": "1011",
+      "label": "G",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#F1DACA"
+      }
+    },
+    {
+      "id": "1012",
+      "label": "H",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#1ABA3E"
+      }
+    },
+    {
+      "id": "1013",
+      "label": "I",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#E1DBCB"
+      }
+    },
+    {
+      "id": "1014",
+      "label": "J",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#D2B0EC"
+      }
+    },
+    {
+      "id": "1015",
+      "label": "K",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#56D7DC"
+      }
+    },
+    {
+      "id": "1016",
+      "label": "L",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#C93728"
+      }
+    }
+  ],
+  "status_time_display": {
+    "correct": true,
+    "incorrect": true,
+    "pending": true
+  },
+  "medal": "ccpc",
+  "group": {
+    "official": "正式队伍",
+    "unofficial": "打星队伍",
+    "girl": "女队",
+    "ai": "AI赛道"
+  },
+  "logo": {
+    "preset": "CCPC"
+  },
+  "banner": {
+    "url": "provincial-contest/2026/guangdong-assets/banner.png",
+    "mime": "image/png",
+    "width": 3840,
+    "height": 662
+  },
+  "options": {
+    "enable_organization": true,
+    "calculation_of_penalty": "accumulate_in_seconds_and_finally_to_the_minute",
+    "submission_timestamp_unit": "millisecond"
+  }
+}
