@@ -1,0 +1,107 @@
+[
+  {
+    "id": "cityu",
+    "name": {
+      "fallback_lang": "en",
+      "texts": {
+        "zh-CN": "香港城市大学",
+        "en": "City University of Hong Kong"
+      }
+    }
+  },
+  {
+    "id": "cityu-dongguan",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "香港城市大学（东莞）",
+        "en": "City University of Hong Kong (Dongguan)"
+      }
+    }
+  },
+  {
+    "id": "dgss",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "东莞中学"
+      }
+    }
+  },
+  {
+    "id": "dgss-sslh",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "东莞中学（松山湖）"
+      }
+    }
+  },
+  {
+    "id": "donghua",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "东华高级中学"
+      }
+    }
+  },
+  {
+    "id": "donghua-dongcheng",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "东华高级中学(东城)"
+      }
+    }
+  },
+  {
+    "id": "guangzhou-university",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "广州大学",
+        "en": "Guangzhou University"
+      }
+    }
+  },
+  {
+    "id": "hkust",
+    "name": {
+      "fallback_lang": "en",
+      "texts": {
+        "zh-CN": "香港科技大学",
+        "en": "The Hong Kong University of Science and Technology"
+      }
+    }
+  },
+  {
+    "id": "jinguiyuan",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "塘厦镇金桂园学校"
+      }
+    }
+  },
+  {
+    "id": "polyu",
+    "name": {
+      "fallback_lang": "en",
+      "texts": {
+        "zh-CN": "香港理工大学",
+        "en": "The Hong Kong Polytechnic University"
+      }
+    }
+  },
+  {
+    "id": "tsinghua",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "清华大学",
+        "en": "Tsinghua University"
+      }
+    }
+  }
+]
