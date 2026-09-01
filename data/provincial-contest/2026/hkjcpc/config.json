@@ -1,0 +1,215 @@
+{
+  "contest_name": "Hong Kong Joint Collegiate Programming Contest 2026",
+  "start_time": 1788066000000,
+  "end_time": 1788080400000,
+  "penalty": 1200,
+  "frozen_time": 3600,
+  "problems": [
+    {
+      "id": "0",
+      "label": "A",
+      "name": {
+        "fallback_lang": "en",
+        "texts": {
+          "en": "Assigning Distinct Integers",
+          "zh-CN": "互异整数分配"
+        }
+      },
+      "balloon_color": {
+        "color": "#fff",
+        "background_color": "rgba(189, 14, 14, 0.7)"
+      }
+    },
+    {
+      "id": "1",
+      "label": "B",
+      "name": {
+        "fallback_lang": "en",
+        "texts": {
+          "en": "Box Projections",
+          "zh-CN": "长方体投影"
+        }
+      },
+      "balloon_color": {
+        "color": "#fff",
+        "background_color": "rgba(149, 31, 217, 0.7)"
+      }
+    },
+    {
+      "id": "2",
+      "label": "C",
+      "name": {
+        "fallback_lang": "en",
+        "texts": {
+          "en": "Constructing Box Projections",
+          "zh-CN": "构造长方体投影"
+        }
+      },
+      "balloon_color": {
+        "color": "#fff",
+        "background_color": "rgba(16, 32, 96, 0.7)"
+      }
+    },
+    {
+      "id": "3",
+      "label": "D",
+      "name": {
+        "fallback_lang": "en",
+        "texts": {
+          "en": "Dynamic Connectivity Across Graphs",
+          "zh-CN": "多图动态连通性"
+        }
+      },
+      "balloon_color": {
+        "color": "#000",
+        "background_color": "rgba(38, 185, 60, 0.7)"
+      }
+    },
+    {
+      "id": "4",
+      "label": "E",
+      "name": {
+        "fallback_lang": "en",
+        "texts": {
+          "en": "Encoded Shortest Paths",
+          "zh-CN": "编码最短路"
+        }
+      },
+      "balloon_color": {
+        "color": "#000",
+        "background_color": "rgba(239, 217, 9, 0.7)"
+      }
+    },
+    {
+      "id": "5",
+      "label": "F",
+      "name": {
+        "fallback_lang": "en",
+        "texts": {
+          "en": "First and Second Minimum",
+          "zh-CN": "最小值与次小值"
+        }
+      },
+      "balloon_color": {
+        "color": "#fff",
+        "background_color": "rgba(243, 88, 20, 0.7)"
+      }
+    },
+    {
+      "id": "6",
+      "label": "G",
+      "name": {
+        "fallback_lang": "en",
+        "texts": {
+          "en": "Game of Passing Cards",
+          "zh-CN": "传牌游戏"
+        }
+      },
+      "balloon_color": {
+        "color": "#fff",
+        "background_color": "rgba(12, 76, 138, 0.7)"
+      }
+    },
+    {
+      "id": "7",
+      "label": "H",
+      "name": {
+        "fallback_lang": "en",
+        "texts": {
+          "en": "Human-Readable Number",
+          "zh-CN": "易读数字"
+        }
+      },
+      "balloon_color": {
+        "color": "#000",
+        "background_color": "rgba(156, 155, 155, 0.7)"
+      }
+    },
+    {
+      "id": "8",
+      "label": "I",
+      "name": {
+        "fallback_lang": "en",
+        "texts": {
+          "en": "Interprocess Sum and Scatter",
+          "zh-CN": "进程间求和与分发"
+        }
+      },
+      "balloon_color": {
+        "color": "#000",
+        "background_color": "rgba(4, 154, 115, 0.7)"
+      }
+    },
+    {
+      "id": "9",
+      "label": "J",
+      "name": {
+        "fallback_lang": "en",
+        "texts": {
+          "en": "Jumbled Block Hierarchy",
+          "zh-CN": "乱序区间层级"
+        }
+      },
+      "balloon_color": {
+        "color": "#fff",
+        "background_color": "rgba(159, 19, 236, 0.7)"
+      }
+    },
+    {
+      "id": "10",
+      "label": "K",
+      "name": {
+        "fallback_lang": "en",
+        "texts": {
+          "en": "Keep the Fairness",
+          "zh-CN": "保持公平"
+        }
+      },
+      "balloon_color": {
+        "color": "#000",
+        "background_color": "rgba(42, 197, 202, 0.7)"
+      }
+    },
+    {
+      "id": "11",
+      "label": "L",
+      "name": {
+        "fallback_lang": "en",
+        "texts": {
+          "en": "Let's Go Yum Cha",
+          "zh-CN": "一起去饮茶"
+        }
+      },
+      "balloon_color": {
+        "color": "#fff",
+        "background_color": "rgba(142, 56, 54, 0.7)"
+      }
+    }
+  ],
+  "status_time_display": {
+    "correct": true,
+    "incorrect": true,
+    "pending": true
+  },
+  "medal": "icpc",
+  "group": {
+    "official": "正式队伍",
+    "unofficial": "打星队伍"
+  },
+  "logo": {
+    "preset": "ICPC"
+  },
+  "banner": {
+    "url": "provincial-contest/2026/hkjcpc-assets/banner.png",
+    "mime": "image/png",
+    "width": 2067,
+    "height": 124
+  },
+  "options": {
+    "enable_organization": true,
+    "submission_timestamp_unit": "millisecond"
+  },
+  "organizations": {
+    "url": "organizations.json"
+  }
+}

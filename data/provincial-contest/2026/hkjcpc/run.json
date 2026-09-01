@@ -1,0 +1,9739 @@
+[
+  {
+    "id": "1",
+    "team_id": "33",
+    "problem_id": "7",
+    "timestamp": 80000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "2",
+    "team_id": "27",
+    "problem_id": "7",
+    "timestamp": 119000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "3",
+    "team_id": "29",
+    "problem_id": "7",
+    "timestamp": 173000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "4",
+    "team_id": "34",
+    "problem_id": "8",
+    "timestamp": 180000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "5",
+    "team_id": "77",
+    "problem_id": "7",
+    "timestamp": 195000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "6",
+    "team_id": "7",
+    "problem_id": "7",
+    "timestamp": 211000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "7",
+    "team_id": "73",
+    "problem_id": "0",
+    "timestamp": 211000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "8",
+    "team_id": "77",
+    "problem_id": "7",
+    "timestamp": 247000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "9",
+    "team_id": "26",
+    "problem_id": "7",
+    "timestamp": 250000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "10",
+    "team_id": "48",
+    "problem_id": "7",
+    "timestamp": 270000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "11",
+    "team_id": "29",
+    "problem_id": "7",
+    "timestamp": 279000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "12",
+    "team_id": "59",
+    "problem_id": "0",
+    "timestamp": 281000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "13",
+    "team_id": "22",
+    "problem_id": "7",
+    "timestamp": 297000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "14",
+    "team_id": "96",
+    "problem_id": "7",
+    "timestamp": 300000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "15",
+    "team_id": "73",
+    "problem_id": "1",
+    "timestamp": 319000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "16",
+    "team_id": "34",
+    "problem_id": "7",
+    "timestamp": 322000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "17",
+    "team_id": "23",
+    "problem_id": "7",
+    "timestamp": 323000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "18",
+    "team_id": "33",
+    "problem_id": "1",
+    "timestamp": 362000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "19",
+    "team_id": "56",
+    "problem_id": "0",
+    "timestamp": 363000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "20",
+    "team_id": "97",
+    "problem_id": "7",
+    "timestamp": 371000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "21",
+    "team_id": "20",
+    "problem_id": "7",
+    "timestamp": 374000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "22",
+    "team_id": "31",
+    "problem_id": "7",
+    "timestamp": 375000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "23",
+    "team_id": "55",
+    "problem_id": "8",
+    "timestamp": 381000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "24",
+    "team_id": "22",
+    "problem_id": "7",
+    "timestamp": 397000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "25",
+    "team_id": "65",
+    "problem_id": "0",
+    "timestamp": 398000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "26",
+    "team_id": "98",
+    "problem_id": "7",
+    "timestamp": 402000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "27",
+    "team_id": "8",
+    "problem_id": "0",
+    "timestamp": 408000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "28",
+    "team_id": "94",
+    "problem_id": "0",
+    "timestamp": 427000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "29",
+    "team_id": "6",
+    "problem_id": "7",
+    "timestamp": 428000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "30",
+    "team_id": "17",
+    "problem_id": "7",
+    "timestamp": 428000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "31",
+    "team_id": "73",
+    "problem_id": "7",
+    "timestamp": 458000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "32",
+    "team_id": "59",
+    "problem_id": "7",
+    "timestamp": 473000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "33",
+    "team_id": "75",
+    "problem_id": "7",
+    "timestamp": 481000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "34",
+    "team_id": "18",
+    "problem_id": "7",
+    "timestamp": 485000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "35",
+    "team_id": "7",
+    "problem_id": "8",
+    "timestamp": 493000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "36",
+    "team_id": "11",
+    "problem_id": "7",
+    "timestamp": 506000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "37",
+    "team_id": "27",
+    "problem_id": "8",
+    "timestamp": 538000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "38",
+    "team_id": "12",
+    "problem_id": "0",
+    "timestamp": 542000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "39",
+    "team_id": "78",
+    "problem_id": "7",
+    "timestamp": 560000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "40",
+    "team_id": "62",
+    "problem_id": "1",
+    "timestamp": 561000,
+    "status": "COMPILATION_ERROR"
+  },
+  {
+    "id": "41",
+    "team_id": "88",
+    "problem_id": "0",
+    "timestamp": 561000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "42",
+    "team_id": "48",
+    "problem_id": "7",
+    "timestamp": 569000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "43",
+    "team_id": "51",
+    "problem_id": "1",
+    "timestamp": 571000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "44",
+    "team_id": "62",
+    "problem_id": "1",
+    "timestamp": 571000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "45",
+    "team_id": "33",
+    "problem_id": "2",
+    "timestamp": 572000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "46",
+    "team_id": "26",
+    "problem_id": "8",
+    "timestamp": 598000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "47",
+    "team_id": "81",
+    "problem_id": "7",
+    "timestamp": 598000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "48",
+    "team_id": "20",
+    "problem_id": "7",
+    "timestamp": 605000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "49",
+    "team_id": "26",
+    "problem_id": "8",
+    "timestamp": 607000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "50",
+    "team_id": "48",
+    "problem_id": "7",
+    "timestamp": 608000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "51",
+    "team_id": "68",
+    "problem_id": "0",
+    "timestamp": 608000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "52",
+    "team_id": "75",
+    "problem_id": "7",
+    "timestamp": 616000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "53",
+    "team_id": "26",
+    "problem_id": "8",
+    "timestamp": 617000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "54",
+    "team_id": "73",
+    "problem_id": "8",
+    "timestamp": 622000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "55",
+    "team_id": "73",
+    "problem_id": "8",
+    "timestamp": 652000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "56",
+    "team_id": "56",
+    "problem_id": "0",
+    "timestamp": 654000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "57",
+    "team_id": "25",
+    "problem_id": "0",
+    "timestamp": 658000,
+    "status": "REJECTED"
+  },
+  {
+    "id": "58",
+    "team_id": "29",
+    "problem_id": "8",
+    "timestamp": 669000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "59",
+    "team_id": "43",
+    "problem_id": "11",
+    "timestamp": 672000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "60",
+    "team_id": "59",
+    "problem_id": "8",
+    "timestamp": 687000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "61",
+    "team_id": "86",
+    "problem_id": "7",
+    "timestamp": 692000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "62",
+    "team_id": "35",
+    "problem_id": "7",
+    "timestamp": 693000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "63",
+    "team_id": "97",
+    "problem_id": "7",
+    "timestamp": 694000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "64",
+    "team_id": "53",
+    "problem_id": "7",
+    "timestamp": 697000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "65",
+    "team_id": "26",
+    "problem_id": "8",
+    "timestamp": 703000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "66",
+    "team_id": "61",
+    "problem_id": "7",
+    "timestamp": 703000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "67",
+    "team_id": "23",
+    "problem_id": "8",
+    "timestamp": 704000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "68",
+    "team_id": "29",
+    "problem_id": "8",
+    "timestamp": 705000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "69",
+    "team_id": "12",
+    "problem_id": "7",
+    "timestamp": 709000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "70",
+    "team_id": "32",
+    "problem_id": "10",
+    "timestamp": 709000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "71",
+    "team_id": "8",
+    "problem_id": "7",
+    "timestamp": 713000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "72",
+    "team_id": "61",
+    "problem_id": "7",
+    "timestamp": 731000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "73",
+    "team_id": "94",
+    "problem_id": "7",
+    "timestamp": 736000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "74",
+    "team_id": "12",
+    "problem_id": "7",
+    "timestamp": 740000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "75",
+    "team_id": "49",
+    "problem_id": "0",
+    "timestamp": 745000,
+    "status": "COMPILATION_ERROR"
+  },
+  {
+    "id": "76",
+    "team_id": "48",
+    "problem_id": "7",
+    "timestamp": 752000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "77",
+    "team_id": "72",
+    "problem_id": "0",
+    "timestamp": 752000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "78",
+    "team_id": "76",
+    "problem_id": "7",
+    "timestamp": 752000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "79",
+    "team_id": "6",
+    "problem_id": "7",
+    "timestamp": 761000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "80",
+    "team_id": "9",
+    "problem_id": "7",
+    "timestamp": 778000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "81",
+    "team_id": "3",
+    "problem_id": "7",
+    "timestamp": 789000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "82",
+    "team_id": "50",
+    "problem_id": "7",
+    "timestamp": 816000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "83",
+    "team_id": "18",
+    "problem_id": "7",
+    "timestamp": 824000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "84",
+    "team_id": "2",
+    "problem_id": "8",
+    "timestamp": 827000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "85",
+    "team_id": "68",
+    "problem_id": "0",
+    "timestamp": 835000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "86",
+    "team_id": "25",
+    "problem_id": "0",
+    "timestamp": 841000,
+    "status": "REJECTED"
+  },
+  {
+    "id": "87",
+    "team_id": "88",
+    "problem_id": "0",
+    "timestamp": 847000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "88",
+    "team_id": "55",
+    "problem_id": "0",
+    "timestamp": 862000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "89",
+    "team_id": "50",
+    "problem_id": "7",
+    "timestamp": 874000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "90",
+    "team_id": "48",
+    "problem_id": "7",
+    "timestamp": 888000,
+    "status": "COMPILATION_ERROR"
+  },
+  {
+    "id": "91",
+    "team_id": "65",
+    "problem_id": "7",
+    "timestamp": 892000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "92",
+    "team_id": "56",
+    "problem_id": "1",
+    "timestamp": 901000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "93",
+    "team_id": "48",
+    "problem_id": "7",
+    "timestamp": 917000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "94",
+    "team_id": "50",
+    "problem_id": "7",
+    "timestamp": 927000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "95",
+    "team_id": "2",
+    "problem_id": "8",
+    "timestamp": 928000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "96",
+    "team_id": "32",
+    "problem_id": "7",
+    "timestamp": 934000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "97",
+    "team_id": "12",
+    "problem_id": "8",
+    "timestamp": 938000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "98",
+    "team_id": "34",
+    "problem_id": "1",
+    "timestamp": 949000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "99",
+    "team_id": "22",
+    "problem_id": "8",
+    "timestamp": 957000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "100",
+    "team_id": "33",
+    "problem_id": "8",
+    "timestamp": 968000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "101",
+    "team_id": "31",
+    "problem_id": "11",
+    "timestamp": 976000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "102",
+    "team_id": "13",
+    "problem_id": "0",
+    "timestamp": 983000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "103",
+    "team_id": "27",
+    "problem_id": "0",
+    "timestamp": 985000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "104",
+    "team_id": "95",
+    "problem_id": "0",
+    "timestamp": 987000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "105",
+    "team_id": "30",
+    "problem_id": "0",
+    "timestamp": 989000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "106",
+    "team_id": "72",
+    "problem_id": "7",
+    "timestamp": 996000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "107",
+    "team_id": "69",
+    "problem_id": "7",
+    "timestamp": 997000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "108",
+    "team_id": "65",
+    "problem_id": "7",
+    "timestamp": 1008000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "109",
+    "team_id": "23",
+    "problem_id": "1",
+    "timestamp": 1012000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "110",
+    "team_id": "28",
+    "problem_id": "7",
+    "timestamp": 1016000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "111",
+    "team_id": "58",
+    "problem_id": "0",
+    "timestamp": 1021000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "112",
+    "team_id": "73",
+    "problem_id": "2",
+    "timestamp": 1025000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "113",
+    "team_id": "7",
+    "problem_id": "0",
+    "timestamp": 1043000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "114",
+    "team_id": "17",
+    "problem_id": "8",
+    "timestamp": 1045000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "115",
+    "team_id": "55",
+    "problem_id": "1",
+    "timestamp": 1063000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "116",
+    "team_id": "55",
+    "problem_id": "7",
+    "timestamp": 1076000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "117",
+    "team_id": "9",
+    "problem_id": "0",
+    "timestamp": 1080000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "118",
+    "team_id": "52",
+    "problem_id": "0",
+    "timestamp": 1105000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "119",
+    "team_id": "76",
+    "problem_id": "8",
+    "timestamp": 1110000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "120",
+    "team_id": "68",
+    "problem_id": "7",
+    "timestamp": 1112000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "121",
+    "team_id": "30",
+    "problem_id": "7",
+    "timestamp": 1119000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "122",
+    "team_id": "11",
+    "problem_id": "11",
+    "timestamp": 1122000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "123",
+    "team_id": "60",
+    "problem_id": "0",
+    "timestamp": 1122000,
+    "status": "COMPILATION_ERROR"
+  },
+  {
+    "id": "124",
+    "team_id": "8",
+    "problem_id": "8",
+    "timestamp": 1131000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "125",
+    "team_id": "95",
+    "problem_id": "7",
+    "timestamp": 1140000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "126",
+    "team_id": "60",
+    "problem_id": "0",
+    "timestamp": 1142000,
+    "status": "COMPILATION_ERROR"
+  },
+  {
+    "id": "127",
+    "team_id": "85",
+    "problem_id": "0",
+    "timestamp": 1150000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "128",
+    "team_id": "83",
+    "problem_id": "7",
+    "timestamp": 1166000,
+    "status": "COMPILATION_ERROR"
+  },
+  {
+    "id": "129",
+    "team_id": "32",
+    "problem_id": "8",
+    "timestamp": 1171000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "130",
+    "team_id": "60",
+    "problem_id": "0",
+    "timestamp": 1172000,
+    "status": "COMPILATION_ERROR"
+  },
+  {
+    "id": "131",
+    "team_id": "88",
+    "problem_id": "0",
+    "timestamp": 1174000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "132",
+    "team_id": "52",
+    "problem_id": "1",
+    "timestamp": 1175000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "133",
+    "team_id": "75",
+    "problem_id": "8",
+    "timestamp": 1177000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "134",
+    "team_id": "45",
+    "problem_id": "7",
+    "timestamp": 1184000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "135",
+    "team_id": "60",
+    "problem_id": "0",
+    "timestamp": 1199000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "136",
+    "team_id": "27",
+    "problem_id": "1",
+    "timestamp": 1207000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "137",
+    "team_id": "83",
+    "problem_id": "7",
+    "timestamp": 1208000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "138",
+    "team_id": "52",
+    "problem_id": "1",
+    "timestamp": 1215000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "139",
+    "team_id": "35",
+    "problem_id": "8",
+    "timestamp": 1219000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "140",
+    "team_id": "11",
+    "problem_id": "11",
+    "timestamp": 1232000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "141",
+    "team_id": "22",
+    "problem_id": "0",
+    "timestamp": 1236000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "142",
+    "team_id": "68",
+    "problem_id": "7",
+    "timestamp": 1257000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "143",
+    "team_id": "31",
+    "problem_id": "8",
+    "timestamp": 1282000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "144",
+    "team_id": "2",
+    "problem_id": "8",
+    "timestamp": 1288000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "145",
+    "team_id": "60",
+    "problem_id": "0",
+    "timestamp": 1288000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "146",
+    "team_id": "71",
+    "problem_id": "0",
+    "timestamp": 1293000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "147",
+    "team_id": "82",
+    "problem_id": "0",
+    "timestamp": 1298000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "148",
+    "team_id": "20",
+    "problem_id": "8",
+    "timestamp": 1316000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "149",
+    "team_id": "50",
+    "problem_id": "7",
+    "timestamp": 1321000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "150",
+    "team_id": "39",
+    "problem_id": "7",
+    "timestamp": 1325000,
+    "status": "COMPILATION_ERROR"
+  },
+  {
+    "id": "151",
+    "team_id": "13",
+    "problem_id": "7",
+    "timestamp": 1328000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "152",
+    "team_id": "79",
+    "problem_id": "0",
+    "timestamp": 1330000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "153",
+    "team_id": "83",
+    "problem_id": "7",
+    "timestamp": 1335000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "154",
+    "team_id": "24",
+    "problem_id": "7",
+    "timestamp": 1341000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "155",
+    "team_id": "30",
+    "problem_id": "8",
+    "timestamp": 1363000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "156",
+    "team_id": "12",
+    "problem_id": "1",
+    "timestamp": 1366000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "157",
+    "team_id": "26",
+    "problem_id": "1",
+    "timestamp": 1372000,
+    "status": "COMPILATION_ERROR"
+  },
+  {
+    "id": "158",
+    "team_id": "55",
+    "problem_id": "7",
+    "timestamp": 1372000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "159",
+    "team_id": "11",
+    "problem_id": "11",
+    "timestamp": 1377000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "160",
+    "team_id": "40",
+    "problem_id": "1",
+    "timestamp": 1386000,
+    "status": "COMPILATION_ERROR"
+  },
+  {
+    "id": "161",
+    "team_id": "30",
+    "problem_id": "8",
+    "timestamp": 1388000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "162",
+    "team_id": "69",
+    "problem_id": "8",
+    "timestamp": 1390000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "163",
+    "team_id": "32",
+    "problem_id": "1",
+    "timestamp": 1393000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "164",
+    "team_id": "31",
+    "problem_id": "8",
+    "timestamp": 1397000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "165",
+    "team_id": "7",
+    "problem_id": "0",
+    "timestamp": 1409000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "166",
+    "team_id": "10",
+    "problem_id": "7",
+    "timestamp": 1411000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "167",
+    "team_id": "26",
+    "problem_id": "1",
+    "timestamp": 1414000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "168",
+    "team_id": "60",
+    "problem_id": "0",
+    "timestamp": 1421000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "169",
+    "team_id": "43",
+    "problem_id": "0",
+    "timestamp": 1422000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "170",
+    "team_id": "72",
+    "problem_id": "8",
+    "timestamp": 1423000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "171",
+    "team_id": "24",
+    "problem_id": "1",
+    "timestamp": 1449000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "172",
+    "team_id": "83",
+    "problem_id": "7",
+    "timestamp": 1450000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "173",
+    "team_id": "20",
+    "problem_id": "8",
+    "timestamp": 1453000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "174",
+    "team_id": "73",
+    "problem_id": "5",
+    "timestamp": 1457000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "175",
+    "team_id": "31",
+    "problem_id": "8",
+    "timestamp": 1458000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "176",
+    "team_id": "6",
+    "problem_id": "8",
+    "timestamp": 1469000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "177",
+    "team_id": "33",
+    "problem_id": "0",
+    "timestamp": 1483000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "178",
+    "team_id": "79",
+    "problem_id": "0",
+    "timestamp": 1484000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "179",
+    "team_id": "8",
+    "problem_id": "1",
+    "timestamp": 1490000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "180",
+    "team_id": "9",
+    "problem_id": "0",
+    "timestamp": 1502000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "181",
+    "team_id": "60",
+    "problem_id": "0",
+    "timestamp": 1504000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "182",
+    "team_id": "18",
+    "problem_id": "8",
+    "timestamp": 1522000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "183",
+    "team_id": "43",
+    "problem_id": "0",
+    "timestamp": 1522000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "184",
+    "team_id": "31",
+    "problem_id": "8",
+    "timestamp": 1535000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "185",
+    "team_id": "2",
+    "problem_id": "8",
+    "timestamp": 1536000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "186",
+    "team_id": "13",
+    "problem_id": "8",
+    "timestamp": 1544000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "187",
+    "team_id": "25",
+    "problem_id": "0",
+    "timestamp": 1545000,
+    "status": "REJECTED"
+  },
+  {
+    "id": "188",
+    "team_id": "1",
+    "problem_id": "7",
+    "timestamp": 1551000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "189",
+    "team_id": "29",
+    "problem_id": "1",
+    "timestamp": 1569000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "190",
+    "team_id": "95",
+    "problem_id": "8",
+    "timestamp": 1571000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "191",
+    "team_id": "28",
+    "problem_id": "8",
+    "timestamp": 1575000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "192",
+    "team_id": "2",
+    "problem_id": "8",
+    "timestamp": 1581000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "193",
+    "team_id": "68",
+    "problem_id": "0",
+    "timestamp": 1610000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "194",
+    "team_id": "22",
+    "problem_id": "1",
+    "timestamp": 1613000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "195",
+    "team_id": "7",
+    "problem_id": "1",
+    "timestamp": 1618000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "196",
+    "team_id": "83",
+    "problem_id": "7",
+    "timestamp": 1626000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "197",
+    "team_id": "60",
+    "problem_id": "0",
+    "timestamp": 1634000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "198",
+    "team_id": "55",
+    "problem_id": "1",
+    "timestamp": 1639000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "199",
+    "team_id": "86",
+    "problem_id": "0",
+    "timestamp": 1641000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "200",
+    "team_id": "80",
+    "problem_id": "7",
+    "timestamp": 1643000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "201",
+    "team_id": "88",
+    "problem_id": "0",
+    "timestamp": 1643000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "202",
+    "team_id": "2",
+    "problem_id": "8",
+    "timestamp": 1648000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "203",
+    "team_id": "42",
+    "problem_id": "0",
+    "timestamp": 1665000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "204",
+    "team_id": "36",
+    "problem_id": "0",
+    "timestamp": 1666000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "205",
+    "team_id": "98",
+    "problem_id": "0",
+    "timestamp": 1669000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "206",
+    "team_id": "62",
+    "problem_id": "0",
+    "timestamp": 1680000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "207",
+    "team_id": "11",
+    "problem_id": "8",
+    "timestamp": 1681000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "208",
+    "team_id": "63",
+    "problem_id": "7",
+    "timestamp": 1684000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "209",
+    "team_id": "75",
+    "problem_id": "8",
+    "timestamp": 1685000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "210",
+    "team_id": "31",
+    "problem_id": "1",
+    "timestamp": 1691000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "211",
+    "team_id": "9",
+    "problem_id": "1",
+    "timestamp": 1703000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "212",
+    "team_id": "65",
+    "problem_id": "8",
+    "timestamp": 1706000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "213",
+    "team_id": "60",
+    "problem_id": "0",
+    "timestamp": 1714000,
+    "status": "COMPILATION_ERROR"
+  },
+  {
+    "id": "214",
+    "team_id": "43",
+    "problem_id": "0",
+    "timestamp": 1719000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "215",
+    "team_id": "60",
+    "problem_id": "0",
+    "timestamp": 1724000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "216",
+    "team_id": "75",
+    "problem_id": "8",
+    "timestamp": 1730000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "217",
+    "team_id": "63",
+    "problem_id": "7",
+    "timestamp": 1733000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "218",
+    "team_id": "90",
+    "problem_id": "7",
+    "timestamp": 1738000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "219",
+    "team_id": "81",
+    "problem_id": "11",
+    "timestamp": 1744000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "220",
+    "team_id": "62",
+    "problem_id": "0",
+    "timestamp": 1761000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "221",
+    "team_id": "28",
+    "problem_id": "8",
+    "timestamp": 1762000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "222",
+    "team_id": "32",
+    "problem_id": "0",
+    "timestamp": 1776000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "223",
+    "team_id": "38",
+    "problem_id": "7",
+    "timestamp": 1778000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "224",
+    "team_id": "67",
+    "problem_id": "0",
+    "timestamp": 1779000,
+    "status": "COMPILATION_ERROR"
+  },
+  {
+    "id": "225",
+    "team_id": "67",
+    "problem_id": "0",
+    "timestamp": 1790000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "226",
+    "team_id": "19",
+    "problem_id": "7",
+    "timestamp": 1792000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "227",
+    "team_id": "2",
+    "problem_id": "8",
+    "timestamp": 1798000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "228",
+    "team_id": "18",
+    "problem_id": "8",
+    "timestamp": 1798000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "229",
+    "team_id": "68",
+    "problem_id": "0",
+    "timestamp": 1807000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "230",
+    "team_id": "3",
+    "problem_id": "8",
+    "timestamp": 1818000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "231",
+    "team_id": "86",
+    "problem_id": "0",
+    "timestamp": 1821000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "232",
+    "team_id": "83",
+    "problem_id": "7",
+    "timestamp": 1824000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "233",
+    "team_id": "60",
+    "problem_id": "0",
+    "timestamp": 1842000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "234",
+    "team_id": "3",
+    "problem_id": "8",
+    "timestamp": 1847000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "235",
+    "team_id": "20",
+    "problem_id": "1",
+    "timestamp": 1852000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "236",
+    "team_id": "72",
+    "problem_id": "1",
+    "timestamp": 1855000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "237",
+    "team_id": "3",
+    "problem_id": "8",
+    "timestamp": 1860000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "238",
+    "team_id": "63",
+    "problem_id": "7",
+    "timestamp": 1866000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "239",
+    "team_id": "35",
+    "problem_id": "0",
+    "timestamp": 1872000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "240",
+    "team_id": "2",
+    "problem_id": "8",
+    "timestamp": 1876000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "241",
+    "team_id": "93",
+    "problem_id": "1",
+    "timestamp": 1885000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "242",
+    "team_id": "69",
+    "problem_id": "1",
+    "timestamp": 1896000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "243",
+    "team_id": "13",
+    "problem_id": "1",
+    "timestamp": 1899000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "244",
+    "team_id": "83",
+    "problem_id": "7",
+    "timestamp": 1902000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "245",
+    "team_id": "71",
+    "problem_id": "7",
+    "timestamp": 1903000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "246",
+    "team_id": "47",
+    "problem_id": "0",
+    "timestamp": 1913000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "247",
+    "team_id": "22",
+    "problem_id": "0",
+    "timestamp": 1917000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "248",
+    "team_id": "95",
+    "problem_id": "1",
+    "timestamp": 1923000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "249",
+    "team_id": "43",
+    "problem_id": "7",
+    "timestamp": 1927000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "250",
+    "team_id": "67",
+    "problem_id": "0",
+    "timestamp": 1927000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "251",
+    "team_id": "3",
+    "problem_id": "8",
+    "timestamp": 1928000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "252",
+    "team_id": "90",
+    "problem_id": "7",
+    "timestamp": 1943000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "253",
+    "team_id": "77",
+    "problem_id": "11",
+    "timestamp": 1947000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "254",
+    "team_id": "60",
+    "problem_id": "0",
+    "timestamp": 1951000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "255",
+    "team_id": "33",
+    "problem_id": "10",
+    "timestamp": 1962000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "256",
+    "team_id": "83",
+    "problem_id": "7",
+    "timestamp": 1972000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "257",
+    "team_id": "19",
+    "problem_id": "7",
+    "timestamp": 1976000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "258",
+    "team_id": "36",
+    "problem_id": "0",
+    "timestamp": 1976000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "259",
+    "team_id": "68",
+    "problem_id": "0",
+    "timestamp": 1989000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "260",
+    "team_id": "76",
+    "problem_id": "0",
+    "timestamp": 1993000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "261",
+    "team_id": "11",
+    "problem_id": "1",
+    "timestamp": 2029000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "262",
+    "team_id": "45",
+    "problem_id": "0",
+    "timestamp": 2051000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "263",
+    "team_id": "59",
+    "problem_id": "5",
+    "timestamp": 2058000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "264",
+    "team_id": "2",
+    "problem_id": "8",
+    "timestamp": 2074000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "265",
+    "team_id": "73",
+    "problem_id": "10",
+    "timestamp": 2088000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "266",
+    "team_id": "60",
+    "problem_id": "0",
+    "timestamp": 2098000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "267",
+    "team_id": "42",
+    "problem_id": "0",
+    "timestamp": 2110000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "268",
+    "team_id": "95",
+    "problem_id": "1",
+    "timestamp": 2117000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "269",
+    "team_id": "20",
+    "problem_id": "0",
+    "timestamp": 2126000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "270",
+    "team_id": "22",
+    "problem_id": "0",
+    "timestamp": 2149000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "271",
+    "team_id": "45",
+    "problem_id": "0",
+    "timestamp": 2151000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "272",
+    "team_id": "30",
+    "problem_id": "5",
+    "timestamp": 2168000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "273",
+    "team_id": "60",
+    "problem_id": "0",
+    "timestamp": 2189000,
+    "status": "COMPILATION_ERROR"
+  },
+  {
+    "id": "274",
+    "team_id": "15",
+    "problem_id": "5",
+    "timestamp": 2190000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "275",
+    "team_id": "27",
+    "problem_id": "2",
+    "timestamp": 2190000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "276",
+    "team_id": "43",
+    "problem_id": "8",
+    "timestamp": 2194000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "277",
+    "team_id": "17",
+    "problem_id": "11",
+    "timestamp": 2202000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "278",
+    "team_id": "60",
+    "problem_id": "0",
+    "timestamp": 2211000,
+    "status": "COMPILATION_ERROR"
+  },
+  {
+    "id": "279",
+    "team_id": "56",
+    "problem_id": "3",
+    "timestamp": 2223000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "280",
+    "team_id": "60",
+    "problem_id": "0",
+    "timestamp": 2238000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "281",
+    "team_id": "31",
+    "problem_id": "0",
+    "timestamp": 2242000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "282",
+    "team_id": "79",
+    "problem_id": "7",
+    "timestamp": 2251000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "283",
+    "team_id": "52",
+    "problem_id": "1",
+    "timestamp": 2261000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "284",
+    "team_id": "21",
+    "problem_id": "7",
+    "timestamp": 2267000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "285",
+    "team_id": "35",
+    "problem_id": "1",
+    "timestamp": 2270000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "286",
+    "team_id": "59",
+    "problem_id": "1",
+    "timestamp": 2277000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "287",
+    "team_id": "25",
+    "problem_id": "7",
+    "timestamp": 2284000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "288",
+    "team_id": "98",
+    "problem_id": "0",
+    "timestamp": 2284000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "289",
+    "team_id": "13",
+    "problem_id": "10",
+    "timestamp": 2290000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "290",
+    "team_id": "21",
+    "problem_id": "7",
+    "timestamp": 2308000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "291",
+    "team_id": "14",
+    "problem_id": "0",
+    "timestamp": 2338000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "292",
+    "team_id": "62",
+    "problem_id": "0",
+    "timestamp": 2344000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "293",
+    "team_id": "28",
+    "problem_id": "1",
+    "timestamp": 2346000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "294",
+    "team_id": "82",
+    "problem_id": "7",
+    "timestamp": 2351000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "295",
+    "team_id": "89",
+    "problem_id": "7",
+    "timestamp": 2362000,
+    "status": "COMPILATION_ERROR"
+  },
+  {
+    "id": "296",
+    "team_id": "16",
+    "problem_id": "7",
+    "timestamp": 2388000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "297",
+    "team_id": "33",
+    "problem_id": "11",
+    "timestamp": 2391000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "298",
+    "team_id": "15",
+    "problem_id": "8",
+    "timestamp": 2396000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "299",
+    "team_id": "6",
+    "problem_id": "1",
+    "timestamp": 2400000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "300",
+    "team_id": "8",
+    "problem_id": "2",
+    "timestamp": 2402000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "301",
+    "team_id": "45",
+    "problem_id": "0",
+    "timestamp": 2424000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "302",
+    "team_id": "43",
+    "problem_id": "1",
+    "timestamp": 2426000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "303",
+    "team_id": "87",
+    "problem_id": "1",
+    "timestamp": 2426000,
+    "status": "COMPILATION_ERROR"
+  },
+  {
+    "id": "304",
+    "team_id": "47",
+    "problem_id": "7",
+    "timestamp": 2434000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "305",
+    "team_id": "66",
+    "problem_id": "7",
+    "timestamp": 2454000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "306",
+    "team_id": "58",
+    "problem_id": "7",
+    "timestamp": 2469000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "307",
+    "team_id": "97",
+    "problem_id": "8",
+    "timestamp": 2469000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "308",
+    "team_id": "55",
+    "problem_id": "2",
+    "timestamp": 2475000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "309",
+    "team_id": "56",
+    "problem_id": "3",
+    "timestamp": 2476000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "310",
+    "team_id": "37",
+    "problem_id": "0",
+    "timestamp": 2479000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "311",
+    "team_id": "94",
+    "problem_id": "8",
+    "timestamp": 2484000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "312",
+    "team_id": "90",
+    "problem_id": "7",
+    "timestamp": 2487000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "313",
+    "team_id": "21",
+    "problem_id": "7",
+    "timestamp": 2494000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "314",
+    "team_id": "72",
+    "problem_id": "11",
+    "timestamp": 2498000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "315",
+    "team_id": "77",
+    "problem_id": "8",
+    "timestamp": 2520000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "316",
+    "team_id": "32",
+    "problem_id": "2",
+    "timestamp": 2523000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "317",
+    "team_id": "15",
+    "problem_id": "7",
+    "timestamp": 2533000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "318",
+    "team_id": "56",
+    "problem_id": "3",
+    "timestamp": 2535000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "319",
+    "team_id": "7",
+    "problem_id": "2",
+    "timestamp": 2538000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "320",
+    "team_id": "60",
+    "problem_id": "0",
+    "timestamp": 2572000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "321",
+    "team_id": "90",
+    "problem_id": "7",
+    "timestamp": 2580000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "322",
+    "team_id": "87",
+    "problem_id": "1",
+    "timestamp": 2586000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "323",
+    "team_id": "71",
+    "problem_id": "8",
+    "timestamp": 2604000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "324",
+    "team_id": "87",
+    "problem_id": "1",
+    "timestamp": 2614000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "325",
+    "team_id": "66",
+    "problem_id": "7",
+    "timestamp": 2615000,
+    "status": "COMPILATION_ERROR"
+  },
+  {
+    "id": "326",
+    "team_id": "68",
+    "problem_id": "8",
+    "timestamp": 2621000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "327",
+    "team_id": "26",
+    "problem_id": "10",
+    "timestamp": 2624000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "328",
+    "team_id": "33",
+    "problem_id": "0",
+    "timestamp": 2628000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "329",
+    "team_id": "2",
+    "problem_id": "7",
+    "timestamp": 2633000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "330",
+    "team_id": "32",
+    "problem_id": "2",
+    "timestamp": 2648000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "331",
+    "team_id": "66",
+    "problem_id": "7",
+    "timestamp": 2654000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "332",
+    "team_id": "18",
+    "problem_id": "1",
+    "timestamp": 2656000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "333",
+    "team_id": "80",
+    "problem_id": "8",
+    "timestamp": 2666000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "334",
+    "team_id": "82",
+    "problem_id": "7",
+    "timestamp": 2670000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "335",
+    "team_id": "57",
+    "problem_id": "0",
+    "timestamp": 2675000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "336",
+    "team_id": "67",
+    "problem_id": "0",
+    "timestamp": 2685000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "337",
+    "team_id": "83",
+    "problem_id": "7",
+    "timestamp": 2685000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "338",
+    "team_id": "80",
+    "problem_id": "8",
+    "timestamp": 2716000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "339",
+    "team_id": "14",
+    "problem_id": "0",
+    "timestamp": 2723000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "340",
+    "team_id": "86",
+    "problem_id": "8",
+    "timestamp": 2738000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "341",
+    "team_id": "7",
+    "problem_id": "2",
+    "timestamp": 2742000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "342",
+    "team_id": "17",
+    "problem_id": "1",
+    "timestamp": 2749000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "343",
+    "team_id": "22",
+    "problem_id": "2",
+    "timestamp": 2750000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "344",
+    "team_id": "71",
+    "problem_id": "8",
+    "timestamp": 2787000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "345",
+    "team_id": "31",
+    "problem_id": "2",
+    "timestamp": 2790000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "346",
+    "team_id": "86",
+    "problem_id": "8",
+    "timestamp": 2797000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "347",
+    "team_id": "43",
+    "problem_id": "2",
+    "timestamp": 2804000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "348",
+    "team_id": "67",
+    "problem_id": "0",
+    "timestamp": 2817000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "349",
+    "team_id": "58",
+    "problem_id": "7",
+    "timestamp": 2827000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "350",
+    "team_id": "23",
+    "problem_id": "0",
+    "timestamp": 2831000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "351",
+    "team_id": "94",
+    "problem_id": "1",
+    "timestamp": 2835000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "352",
+    "team_id": "98",
+    "problem_id": "8",
+    "timestamp": 2854000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "353",
+    "team_id": "40",
+    "problem_id": "7",
+    "timestamp": 2872000,
+    "status": "COMPILATION_ERROR"
+  },
+  {
+    "id": "354",
+    "team_id": "83",
+    "problem_id": "7",
+    "timestamp": 2874000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "355",
+    "team_id": "75",
+    "problem_id": "0",
+    "timestamp": 2878000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "356",
+    "team_id": "43",
+    "problem_id": "2",
+    "timestamp": 2893000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "357",
+    "team_id": "71",
+    "problem_id": "8",
+    "timestamp": 2899000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "358",
+    "team_id": "98",
+    "problem_id": "8",
+    "timestamp": 2908000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "359",
+    "team_id": "96",
+    "problem_id": "8",
+    "timestamp": 2910000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "360",
+    "team_id": "38",
+    "problem_id": "8",
+    "timestamp": 2938000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "361",
+    "team_id": "68",
+    "problem_id": "1",
+    "timestamp": 2942000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "362",
+    "team_id": "83",
+    "problem_id": "7",
+    "timestamp": 2950000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "363",
+    "team_id": "3",
+    "problem_id": "1",
+    "timestamp": 2960000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "364",
+    "team_id": "11",
+    "problem_id": "0",
+    "timestamp": 2960000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "365",
+    "team_id": "77",
+    "problem_id": "8",
+    "timestamp": 2964000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "366",
+    "team_id": "83",
+    "problem_id": "7",
+    "timestamp": 2965000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "367",
+    "team_id": "45",
+    "problem_id": "8",
+    "timestamp": 2970000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "368",
+    "team_id": "44",
+    "problem_id": "0",
+    "timestamp": 2983000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "369",
+    "team_id": "61",
+    "problem_id": "0",
+    "timestamp": 2983000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "370",
+    "team_id": "56",
+    "problem_id": "3",
+    "timestamp": 2989000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "371",
+    "team_id": "44",
+    "problem_id": "0",
+    "timestamp": 3006000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "372",
+    "team_id": "73",
+    "problem_id": "4",
+    "timestamp": 3007000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "373",
+    "team_id": "12",
+    "problem_id": "2",
+    "timestamp": 3015000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "374",
+    "team_id": "11",
+    "problem_id": "0",
+    "timestamp": 3022000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "375",
+    "team_id": "92",
+    "problem_id": "7",
+    "timestamp": 3033000,
+    "status": "COMPILATION_ERROR"
+  },
+  {
+    "id": "376",
+    "team_id": "45",
+    "problem_id": "0",
+    "timestamp": 3041000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "377",
+    "team_id": "80",
+    "problem_id": "8",
+    "timestamp": 3047000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "378",
+    "team_id": "55",
+    "problem_id": "5",
+    "timestamp": 3050000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "379",
+    "team_id": "73",
+    "problem_id": "4",
+    "timestamp": 3055000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "380",
+    "team_id": "82",
+    "problem_id": "7",
+    "timestamp": 3070000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "381",
+    "team_id": "34",
+    "problem_id": "6",
+    "timestamp": 3083000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "382",
+    "team_id": "29",
+    "problem_id": "0",
+    "timestamp": 3092000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "383",
+    "team_id": "83",
+    "problem_id": "7",
+    "timestamp": 3110000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "384",
+    "team_id": "44",
+    "problem_id": "0",
+    "timestamp": 3112000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "385",
+    "team_id": "71",
+    "problem_id": "1",
+    "timestamp": 3123000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "386",
+    "team_id": "75",
+    "problem_id": "0",
+    "timestamp": 3140000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "387",
+    "team_id": "34",
+    "problem_id": "6",
+    "timestamp": 3165000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "388",
+    "team_id": "70",
+    "problem_id": "0",
+    "timestamp": 3176000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "389",
+    "team_id": "25",
+    "problem_id": "8",
+    "timestamp": 3185000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "390",
+    "team_id": "92",
+    "problem_id": "7",
+    "timestamp": 3186000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "391",
+    "team_id": "95",
+    "problem_id": "11",
+    "timestamp": 3196000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "392",
+    "team_id": "7",
+    "problem_id": "2",
+    "timestamp": 3231000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "393",
+    "team_id": "28",
+    "problem_id": "11",
+    "timestamp": 3238000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "394",
+    "team_id": "78",
+    "problem_id": "8",
+    "timestamp": 3256000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "395",
+    "team_id": "12",
+    "problem_id": "10",
+    "timestamp": 3285000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "396",
+    "team_id": "9",
+    "problem_id": "11",
+    "timestamp": 3287000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "397",
+    "team_id": "8",
+    "problem_id": "10",
+    "timestamp": 3302000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "398",
+    "team_id": "30",
+    "problem_id": "5",
+    "timestamp": 3307000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "399",
+    "team_id": "32",
+    "problem_id": "11",
+    "timestamp": 3308000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "400",
+    "team_id": "11",
+    "problem_id": "0",
+    "timestamp": 3311000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "401",
+    "team_id": "44",
+    "problem_id": "0",
+    "timestamp": 3311000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "402",
+    "team_id": "50",
+    "problem_id": "11",
+    "timestamp": 3313000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "403",
+    "team_id": "43",
+    "problem_id": "2",
+    "timestamp": 3327000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "404",
+    "team_id": "31",
+    "problem_id": "11",
+    "timestamp": 3329000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "405",
+    "team_id": "96",
+    "problem_id": "0",
+    "timestamp": 3334000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "406",
+    "team_id": "30",
+    "problem_id": "5",
+    "timestamp": 3345000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "407",
+    "team_id": "44",
+    "problem_id": "0",
+    "timestamp": 3347000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "408",
+    "team_id": "66",
+    "problem_id": "7",
+    "timestamp": 3367000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "409",
+    "team_id": "27",
+    "problem_id": "10",
+    "timestamp": 3386000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "410",
+    "team_id": "47",
+    "problem_id": "8",
+    "timestamp": 3389000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "411",
+    "team_id": "81",
+    "problem_id": "8",
+    "timestamp": 3399000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "412",
+    "team_id": "96",
+    "problem_id": "0",
+    "timestamp": 3404000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "413",
+    "team_id": "19",
+    "problem_id": "8",
+    "timestamp": 3429000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "414",
+    "team_id": "47",
+    "problem_id": "8",
+    "timestamp": 3433000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "415",
+    "team_id": "13",
+    "problem_id": "2",
+    "timestamp": 3445000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "416",
+    "team_id": "20",
+    "problem_id": "0",
+    "timestamp": 3446000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "417",
+    "team_id": "25",
+    "problem_id": "8",
+    "timestamp": 3454000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "418",
+    "team_id": "50",
+    "problem_id": "11",
+    "timestamp": 3454000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "419",
+    "team_id": "62",
+    "problem_id": "7",
+    "timestamp": 3460000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "420",
+    "team_id": "23",
+    "problem_id": "10",
+    "timestamp": 3471000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "421",
+    "team_id": "16",
+    "problem_id": "10",
+    "timestamp": 3473000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "422",
+    "team_id": "14",
+    "problem_id": "1",
+    "timestamp": 3483000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "423",
+    "team_id": "65",
+    "problem_id": "11",
+    "timestamp": 3483000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "424",
+    "team_id": "92",
+    "problem_id": "7",
+    "timestamp": 3488000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "425",
+    "team_id": "66",
+    "problem_id": "7",
+    "timestamp": 3498000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "426",
+    "team_id": "38",
+    "problem_id": "1",
+    "timestamp": 3522000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "427",
+    "team_id": "84",
+    "problem_id": "7",
+    "timestamp": 3559000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "428",
+    "team_id": "30",
+    "problem_id": "5",
+    "timestamp": 3568000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "429",
+    "team_id": "26",
+    "problem_id": "11",
+    "timestamp": 3579000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "430",
+    "team_id": "84",
+    "problem_id": "7",
+    "timestamp": 3588000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "431",
+    "team_id": "61",
+    "problem_id": "0",
+    "timestamp": 3598000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "432",
+    "team_id": "42",
+    "problem_id": "0",
+    "timestamp": 3599000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "433",
+    "team_id": "78",
+    "problem_id": "1",
+    "timestamp": 3607000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "434",
+    "team_id": "53",
+    "problem_id": "11",
+    "timestamp": 3616000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "435",
+    "team_id": "65",
+    "problem_id": "11",
+    "timestamp": 3624000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "436",
+    "team_id": "31",
+    "problem_id": "10",
+    "timestamp": 3629000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "437",
+    "team_id": "38",
+    "problem_id": "1",
+    "timestamp": 3630000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "438",
+    "team_id": "76",
+    "problem_id": "0",
+    "timestamp": 3630000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "439",
+    "team_id": "28",
+    "problem_id": "11",
+    "timestamp": 3644000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "440",
+    "team_id": "75",
+    "problem_id": "0",
+    "timestamp": 3651000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "441",
+    "team_id": "4",
+    "problem_id": "0",
+    "timestamp": 3663000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "442",
+    "team_id": "25",
+    "problem_id": "8",
+    "timestamp": 3692000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "443",
+    "team_id": "58",
+    "problem_id": "0",
+    "timestamp": 3700000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "444",
+    "team_id": "98",
+    "problem_id": "11",
+    "timestamp": 3700000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "445",
+    "team_id": "19",
+    "problem_id": "7",
+    "timestamp": 3721000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "446",
+    "team_id": "26",
+    "problem_id": "11",
+    "timestamp": 3726000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "447",
+    "team_id": "81",
+    "problem_id": "0",
+    "timestamp": 3742000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "448",
+    "team_id": "7",
+    "problem_id": "10",
+    "timestamp": 3743000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "449",
+    "team_id": "53",
+    "problem_id": "11",
+    "timestamp": 3766000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "450",
+    "team_id": "55",
+    "problem_id": "11",
+    "timestamp": 3774000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "451",
+    "team_id": "87",
+    "problem_id": "1",
+    "timestamp": 3779000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "452",
+    "team_id": "83",
+    "problem_id": "7",
+    "timestamp": 3782000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "453",
+    "team_id": "64",
+    "problem_id": "7",
+    "timestamp": 3786000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "454",
+    "team_id": "2",
+    "problem_id": "1",
+    "timestamp": 3792000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "455",
+    "team_id": "9",
+    "problem_id": "11",
+    "timestamp": 3795000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "456",
+    "team_id": "62",
+    "problem_id": "7",
+    "timestamp": 3797000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "457",
+    "team_id": "31",
+    "problem_id": "10",
+    "timestamp": 3807000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "458",
+    "team_id": "23",
+    "problem_id": "10",
+    "timestamp": 3810000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "459",
+    "team_id": "84",
+    "problem_id": "7",
+    "timestamp": 3815000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "460",
+    "team_id": "34",
+    "problem_id": "6",
+    "timestamp": 3872000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "461",
+    "team_id": "27",
+    "problem_id": "11",
+    "timestamp": 3876000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "462",
+    "team_id": "8",
+    "problem_id": "11",
+    "timestamp": 3919000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "463",
+    "team_id": "57",
+    "problem_id": "1",
+    "timestamp": 3933000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "464",
+    "team_id": "67",
+    "problem_id": "1",
+    "timestamp": 3936000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "465",
+    "team_id": "69",
+    "problem_id": "11",
+    "timestamp": 3943000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "466",
+    "team_id": "23",
+    "problem_id": "10",
+    "timestamp": 3947000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "467",
+    "team_id": "26",
+    "problem_id": "11",
+    "timestamp": 3956000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "468",
+    "team_id": "55",
+    "problem_id": "11",
+    "timestamp": 3958000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "469",
+    "team_id": "68",
+    "problem_id": "2",
+    "timestamp": 3962000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "470",
+    "team_id": "53",
+    "problem_id": "11",
+    "timestamp": 3970000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "471",
+    "team_id": "78",
+    "problem_id": "0",
+    "timestamp": 4016000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "472",
+    "team_id": "26",
+    "problem_id": "11",
+    "timestamp": 4022000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "473",
+    "team_id": "76",
+    "problem_id": "1",
+    "timestamp": 4034000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "474",
+    "team_id": "12",
+    "problem_id": "11",
+    "timestamp": 4037000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "475",
+    "team_id": "13",
+    "problem_id": "2",
+    "timestamp": 4044000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "476",
+    "team_id": "61",
+    "problem_id": "0",
+    "timestamp": 4052000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "477",
+    "team_id": "65",
+    "problem_id": "1",
+    "timestamp": 4056000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "478",
+    "team_id": "98",
+    "problem_id": "0",
+    "timestamp": 4070000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "479",
+    "team_id": "75",
+    "problem_id": "0",
+    "timestamp": 4106000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "480",
+    "team_id": "16",
+    "problem_id": "10",
+    "timestamp": 4130000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "481",
+    "team_id": "73",
+    "problem_id": "4",
+    "timestamp": 4136000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "482",
+    "team_id": "5",
+    "problem_id": "7",
+    "timestamp": 4163000,
+    "status": "COMPILATION_ERROR"
+  },
+  {
+    "id": "483",
+    "team_id": "85",
+    "problem_id": "5",
+    "timestamp": 4169000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "484",
+    "team_id": "26",
+    "problem_id": "11",
+    "timestamp": 4182000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "485",
+    "team_id": "43",
+    "problem_id": "5",
+    "timestamp": 4206000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "486",
+    "team_id": "5",
+    "problem_id": "7",
+    "timestamp": 4230000,
+    "status": "COMPILATION_ERROR"
+  },
+  {
+    "id": "487",
+    "team_id": "95",
+    "problem_id": "5",
+    "timestamp": 4243000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "488",
+    "team_id": "1",
+    "problem_id": "7",
+    "timestamp": 4245000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "489",
+    "team_id": "61",
+    "problem_id": "0",
+    "timestamp": 4262000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "490",
+    "team_id": "88",
+    "problem_id": "7",
+    "timestamp": 4268000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "491",
+    "team_id": "41",
+    "problem_id": "7",
+    "timestamp": 4285000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "492",
+    "team_id": "74",
+    "problem_id": "7",
+    "timestamp": 4294000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "493",
+    "team_id": "10",
+    "problem_id": "5",
+    "timestamp": 4299000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "494",
+    "team_id": "26",
+    "problem_id": "11",
+    "timestamp": 4314000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "495",
+    "team_id": "75",
+    "problem_id": "0",
+    "timestamp": 4320000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "496",
+    "team_id": "4",
+    "problem_id": "0",
+    "timestamp": 4339000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "497",
+    "team_id": "19",
+    "problem_id": "1",
+    "timestamp": 4339000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "498",
+    "team_id": "11",
+    "problem_id": "2",
+    "timestamp": 4357000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "499",
+    "team_id": "56",
+    "problem_id": "4",
+    "timestamp": 4360000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "500",
+    "team_id": "46",
+    "problem_id": "7",
+    "timestamp": 4362000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "501",
+    "team_id": "78",
+    "problem_id": "0",
+    "timestamp": 4363000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "502",
+    "team_id": "33",
+    "problem_id": "6",
+    "timestamp": 4375000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "503",
+    "team_id": "69",
+    "problem_id": "11",
+    "timestamp": 4379000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "504",
+    "team_id": "82",
+    "problem_id": "8",
+    "timestamp": 4387000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "505",
+    "team_id": "71",
+    "problem_id": "2",
+    "timestamp": 4389000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "506",
+    "team_id": "9",
+    "problem_id": "10",
+    "timestamp": 4404000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "507",
+    "team_id": "87",
+    "problem_id": "1",
+    "timestamp": 4413000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "508",
+    "team_id": "75",
+    "problem_id": "0",
+    "timestamp": 4415000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "509",
+    "team_id": "13",
+    "problem_id": "2",
+    "timestamp": 4418000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "510",
+    "team_id": "9",
+    "problem_id": "10",
+    "timestamp": 4425000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "511",
+    "team_id": "9",
+    "problem_id": "10",
+    "timestamp": 4442000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "512",
+    "team_id": "44",
+    "problem_id": "7",
+    "timestamp": 4443000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "513",
+    "team_id": "7",
+    "problem_id": "11",
+    "timestamp": 4455000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "514",
+    "team_id": "80",
+    "problem_id": "11",
+    "timestamp": 4465000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "515",
+    "team_id": "44",
+    "problem_id": "7",
+    "timestamp": 4467000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "516",
+    "team_id": "9",
+    "problem_id": "10",
+    "timestamp": 4476000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "517",
+    "team_id": "55",
+    "problem_id": "10",
+    "timestamp": 4479000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "518",
+    "team_id": "5",
+    "problem_id": "7",
+    "timestamp": 4486000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "519",
+    "team_id": "45",
+    "problem_id": "11",
+    "timestamp": 4505000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "520",
+    "team_id": "75",
+    "problem_id": "0",
+    "timestamp": 4518000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "521",
+    "team_id": "19",
+    "problem_id": "7",
+    "timestamp": 4526000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "522",
+    "team_id": "46",
+    "problem_id": "7",
+    "timestamp": 4527000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "523",
+    "team_id": "82",
+    "problem_id": "0",
+    "timestamp": 4547000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "524",
+    "team_id": "58",
+    "problem_id": "0",
+    "timestamp": 4565000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "525",
+    "team_id": "44",
+    "problem_id": "7",
+    "timestamp": 4569000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "526",
+    "team_id": "81",
+    "problem_id": "0",
+    "timestamp": 4576000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "527",
+    "team_id": "5",
+    "problem_id": "7",
+    "timestamp": 4595000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "528",
+    "team_id": "68",
+    "problem_id": "2",
+    "timestamp": 4610000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "529",
+    "team_id": "79",
+    "problem_id": "8",
+    "timestamp": 4611000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "530",
+    "team_id": "74",
+    "problem_id": "7",
+    "timestamp": 4612000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "531",
+    "team_id": "25",
+    "problem_id": "1",
+    "timestamp": 4618000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "532",
+    "team_id": "88",
+    "problem_id": "7",
+    "timestamp": 4624000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "533",
+    "team_id": "63",
+    "problem_id": "7",
+    "timestamp": 4682000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "534",
+    "team_id": "58",
+    "problem_id": "0",
+    "timestamp": 4749000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "535",
+    "team_id": "23",
+    "problem_id": "11",
+    "timestamp": 4757000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "536",
+    "team_id": "62",
+    "problem_id": "8",
+    "timestamp": 4757000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "537",
+    "team_id": "29",
+    "problem_id": "11",
+    "timestamp": 4772000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "538",
+    "team_id": "5",
+    "problem_id": "7",
+    "timestamp": 4776000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "539",
+    "team_id": "81",
+    "problem_id": "1",
+    "timestamp": 4781000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "540",
+    "team_id": "28",
+    "problem_id": "10",
+    "timestamp": 4807000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "541",
+    "team_id": "13",
+    "problem_id": "2",
+    "timestamp": 4845000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "542",
+    "team_id": "10",
+    "problem_id": "1",
+    "timestamp": 4853000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "543",
+    "team_id": "35",
+    "problem_id": "2",
+    "timestamp": 4856000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "544",
+    "team_id": "76",
+    "problem_id": "11",
+    "timestamp": 4857000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "545",
+    "team_id": "73",
+    "problem_id": "11",
+    "timestamp": 4871000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "546",
+    "team_id": "43",
+    "problem_id": "10",
+    "timestamp": 4887000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "547",
+    "team_id": "10",
+    "problem_id": "5",
+    "timestamp": 4898000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "548",
+    "team_id": "9",
+    "problem_id": "10",
+    "timestamp": 4899000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "549",
+    "team_id": "61",
+    "problem_id": "8",
+    "timestamp": 4908000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "550",
+    "team_id": "45",
+    "problem_id": "11",
+    "timestamp": 4932000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "551",
+    "team_id": "30",
+    "problem_id": "1",
+    "timestamp": 4959000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "552",
+    "team_id": "67",
+    "problem_id": "7",
+    "timestamp": 4976000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "553",
+    "team_id": "48",
+    "problem_id": "11",
+    "timestamp": 4983000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "554",
+    "team_id": "57",
+    "problem_id": "2",
+    "timestamp": 4986000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "555",
+    "team_id": "69",
+    "problem_id": "0",
+    "timestamp": 4992000,
+    "status": "COMPILATION_ERROR"
+  },
+  {
+    "id": "556",
+    "team_id": "63",
+    "problem_id": "7",
+    "timestamp": 5009000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "557",
+    "team_id": "69",
+    "problem_id": "0",
+    "timestamp": 5017000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "558",
+    "team_id": "9",
+    "problem_id": "10",
+    "timestamp": 5024000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "559",
+    "team_id": "72",
+    "problem_id": "5",
+    "timestamp": 5044000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "560",
+    "team_id": "63",
+    "problem_id": "7",
+    "timestamp": 5079000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "561",
+    "team_id": "18",
+    "problem_id": "10",
+    "timestamp": 5100000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "562",
+    "team_id": "38",
+    "problem_id": "11",
+    "timestamp": 5105000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "563",
+    "team_id": "68",
+    "problem_id": "2",
+    "timestamp": 5105000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "564",
+    "team_id": "5",
+    "problem_id": "7",
+    "timestamp": 5115000,
+    "status": "COMPILATION_ERROR"
+  },
+  {
+    "id": "565",
+    "team_id": "62",
+    "problem_id": "8",
+    "timestamp": 5116000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "566",
+    "team_id": "48",
+    "problem_id": "11",
+    "timestamp": 5121000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "567",
+    "team_id": "32",
+    "problem_id": "5",
+    "timestamp": 5150000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "568",
+    "team_id": "17",
+    "problem_id": "11",
+    "timestamp": 5166000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "569",
+    "team_id": "28",
+    "problem_id": "8",
+    "timestamp": 5166000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "570",
+    "team_id": "19",
+    "problem_id": "7",
+    "timestamp": 5169000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "571",
+    "team_id": "98",
+    "problem_id": "1",
+    "timestamp": 5193000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "572",
+    "team_id": "70",
+    "problem_id": "7",
+    "timestamp": 5194000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "573",
+    "team_id": "5",
+    "problem_id": "7",
+    "timestamp": 5195000,
+    "status": "COMPILATION_ERROR"
+  },
+  {
+    "id": "574",
+    "team_id": "5",
+    "problem_id": "7",
+    "timestamp": 5207000,
+    "status": "COMPILATION_ERROR"
+  },
+  {
+    "id": "575",
+    "team_id": "63",
+    "problem_id": "7",
+    "timestamp": 5208000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "576",
+    "team_id": "88",
+    "problem_id": "8",
+    "timestamp": 5214000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "577",
+    "team_id": "47",
+    "problem_id": "11",
+    "timestamp": 5219000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "578",
+    "team_id": "28",
+    "problem_id": "8",
+    "timestamp": 5222000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "579",
+    "team_id": "62",
+    "problem_id": "8",
+    "timestamp": 5226000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "580",
+    "team_id": "5",
+    "problem_id": "7",
+    "timestamp": 5228000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "581",
+    "team_id": "80",
+    "problem_id": "11",
+    "timestamp": 5241000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "582",
+    "team_id": "94",
+    "problem_id": "11",
+    "timestamp": 5243000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "583",
+    "team_id": "47",
+    "problem_id": "11",
+    "timestamp": 5283000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "584",
+    "team_id": "20",
+    "problem_id": "11",
+    "timestamp": 5289000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "585",
+    "team_id": "1",
+    "problem_id": "7",
+    "timestamp": 5301000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "586",
+    "team_id": "61",
+    "problem_id": "1",
+    "timestamp": 5305000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "587",
+    "team_id": "24",
+    "problem_id": "2",
+    "timestamp": 5343000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "588",
+    "team_id": "48",
+    "problem_id": "11",
+    "timestamp": 5345000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "589",
+    "team_id": "80",
+    "problem_id": "11",
+    "timestamp": 5365000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "590",
+    "team_id": "10",
+    "problem_id": "1",
+    "timestamp": 5373000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "591",
+    "team_id": "38",
+    "problem_id": "11",
+    "timestamp": 5376000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "592",
+    "team_id": "17",
+    "problem_id": "1",
+    "timestamp": 5377000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "593",
+    "team_id": "88",
+    "problem_id": "8",
+    "timestamp": 5392000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "594",
+    "team_id": "53",
+    "problem_id": "8",
+    "timestamp": 5410000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "595",
+    "team_id": "44",
+    "problem_id": "0",
+    "timestamp": 5420000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "596",
+    "team_id": "57",
+    "problem_id": "2",
+    "timestamp": 5421000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "597",
+    "team_id": "96",
+    "problem_id": "0",
+    "timestamp": 5443000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "598",
+    "team_id": "44",
+    "problem_id": "0",
+    "timestamp": 5444000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "599",
+    "team_id": "47",
+    "problem_id": "11",
+    "timestamp": 5478000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "600",
+    "team_id": "85",
+    "problem_id": "7",
+    "timestamp": 5487000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "601",
+    "team_id": "19",
+    "problem_id": "8",
+    "timestamp": 5498000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "602",
+    "team_id": "11",
+    "problem_id": "10",
+    "timestamp": 5509000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "603",
+    "team_id": "50",
+    "problem_id": "6",
+    "timestamp": 5525000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "604",
+    "team_id": "56",
+    "problem_id": "3",
+    "timestamp": 5529000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "605",
+    "team_id": "62",
+    "problem_id": "0",
+    "timestamp": 5547000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "606",
+    "team_id": "59",
+    "problem_id": "2",
+    "timestamp": 5549000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "607",
+    "team_id": "72",
+    "problem_id": "10",
+    "timestamp": 5567000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "608",
+    "team_id": "75",
+    "problem_id": "1",
+    "timestamp": 5577000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "609",
+    "team_id": "37",
+    "problem_id": "7",
+    "timestamp": 5582000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "610",
+    "team_id": "93",
+    "problem_id": "1",
+    "timestamp": 5590000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "611",
+    "team_id": "50",
+    "problem_id": "6",
+    "timestamp": 5615000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "612",
+    "team_id": "80",
+    "problem_id": "11",
+    "timestamp": 5616000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "613",
+    "team_id": "37",
+    "problem_id": "7",
+    "timestamp": 5619000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "614",
+    "team_id": "96",
+    "problem_id": "0",
+    "timestamp": 5628000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "615",
+    "team_id": "9",
+    "problem_id": "8",
+    "timestamp": 5666000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "616",
+    "team_id": "47",
+    "problem_id": "11",
+    "timestamp": 5684000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "617",
+    "team_id": "1",
+    "problem_id": "7",
+    "timestamp": 5687000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "618",
+    "team_id": "4",
+    "problem_id": "1",
+    "timestamp": 5688000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "619",
+    "team_id": "22",
+    "problem_id": "11",
+    "timestamp": 5691000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "620",
+    "team_id": "86",
+    "problem_id": "11",
+    "timestamp": 5702000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "621",
+    "team_id": "30",
+    "problem_id": "2",
+    "timestamp": 5704000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "622",
+    "team_id": "84",
+    "problem_id": "8",
+    "timestamp": 5711000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "623",
+    "team_id": "17",
+    "problem_id": "1",
+    "timestamp": 5726000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "624",
+    "team_id": "70",
+    "problem_id": "7",
+    "timestamp": 5727000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "625",
+    "team_id": "56",
+    "problem_id": "3",
+    "timestamp": 5767000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "626",
+    "team_id": "24",
+    "problem_id": "2",
+    "timestamp": 5810000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "627",
+    "team_id": "50",
+    "problem_id": "6",
+    "timestamp": 5819000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "628",
+    "team_id": "26",
+    "problem_id": "2",
+    "timestamp": 5855000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "629",
+    "team_id": "57",
+    "problem_id": "2",
+    "timestamp": 5858000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "630",
+    "team_id": "56",
+    "problem_id": "2",
+    "timestamp": 5897000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "631",
+    "team_id": "13",
+    "problem_id": "11",
+    "timestamp": 5901000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "632",
+    "team_id": "52",
+    "problem_id": "7",
+    "timestamp": 5933000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "633",
+    "team_id": "34",
+    "problem_id": "0",
+    "timestamp": 5975000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "634",
+    "team_id": "44",
+    "problem_id": "0",
+    "timestamp": 5977000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "635",
+    "team_id": "27",
+    "problem_id": "4",
+    "timestamp": 5986000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "636",
+    "team_id": "78",
+    "problem_id": "11",
+    "timestamp": 5987000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "637",
+    "team_id": "3",
+    "problem_id": "0",
+    "timestamp": 6018000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "638",
+    "team_id": "55",
+    "problem_id": "4",
+    "timestamp": 6030000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "639",
+    "team_id": "50",
+    "problem_id": "6",
+    "timestamp": 6031000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "640",
+    "team_id": "95",
+    "problem_id": "5",
+    "timestamp": 6088000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "641",
+    "team_id": "86",
+    "problem_id": "11",
+    "timestamp": 6090000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "642",
+    "team_id": "86",
+    "problem_id": "11",
+    "timestamp": 6114000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "643",
+    "team_id": "70",
+    "problem_id": "7",
+    "timestamp": 6117000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "644",
+    "team_id": "36",
+    "problem_id": "5",
+    "timestamp": 6133000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "645",
+    "team_id": "16",
+    "problem_id": "0",
+    "timestamp": 6134000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "646",
+    "team_id": "56",
+    "problem_id": "2",
+    "timestamp": 6147000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "647",
+    "team_id": "70",
+    "problem_id": "7",
+    "timestamp": 6154000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "648",
+    "team_id": "36",
+    "problem_id": "0",
+    "timestamp": 6177000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "649",
+    "team_id": "81",
+    "problem_id": "2",
+    "timestamp": 6178000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "650",
+    "team_id": "85",
+    "problem_id": "8",
+    "timestamp": 6186000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "651",
+    "team_id": "68",
+    "problem_id": "11",
+    "timestamp": 6195000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "652",
+    "team_id": "84",
+    "problem_id": "8",
+    "timestamp": 6257000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "653",
+    "team_id": "34",
+    "problem_id": "10",
+    "timestamp": 6267000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "654",
+    "team_id": "3",
+    "problem_id": "0",
+    "timestamp": 6274000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "655",
+    "team_id": "97",
+    "problem_id": "0",
+    "timestamp": 6277000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "656",
+    "team_id": "35",
+    "problem_id": "10",
+    "timestamp": 6281000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "657",
+    "team_id": "98",
+    "problem_id": "2",
+    "timestamp": 6305000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "658",
+    "team_id": "36",
+    "problem_id": "8",
+    "timestamp": 6306000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "659",
+    "team_id": "46",
+    "problem_id": "7",
+    "timestamp": 6307000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "660",
+    "team_id": "94",
+    "problem_id": "0",
+    "timestamp": 6313000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "661",
+    "team_id": "58",
+    "problem_id": "5",
+    "timestamp": 6324000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "662",
+    "team_id": "44",
+    "problem_id": "0",
+    "timestamp": 6342000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "663",
+    "team_id": "72",
+    "problem_id": "2",
+    "timestamp": 6360000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "664",
+    "team_id": "86",
+    "problem_id": "11",
+    "timestamp": 6373000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "665",
+    "team_id": "71",
+    "problem_id": "2",
+    "timestamp": 6375000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "666",
+    "team_id": "77",
+    "problem_id": "1",
+    "timestamp": 6375000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "667",
+    "team_id": "95",
+    "problem_id": "5",
+    "timestamp": 6406000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "668",
+    "team_id": "30",
+    "problem_id": "2",
+    "timestamp": 6434000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "669",
+    "team_id": "17",
+    "problem_id": "11",
+    "timestamp": 6449000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "670",
+    "team_id": "97",
+    "problem_id": "0",
+    "timestamp": 6476000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "671",
+    "team_id": "84",
+    "problem_id": "8",
+    "timestamp": 6484000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "672",
+    "team_id": "36",
+    "problem_id": "10",
+    "timestamp": 6489000,
+    "status": "COMPILATION_ERROR"
+  },
+  {
+    "id": "673",
+    "team_id": "65",
+    "problem_id": "2",
+    "timestamp": 6491000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "674",
+    "team_id": "56",
+    "problem_id": "3",
+    "timestamp": 6493000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "675",
+    "team_id": "1",
+    "problem_id": "7",
+    "timestamp": 6513000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "676",
+    "team_id": "36",
+    "problem_id": "10",
+    "timestamp": 6525000,
+    "status": "COMPILATION_ERROR"
+  },
+  {
+    "id": "677",
+    "team_id": "98",
+    "problem_id": "2",
+    "timestamp": 6526000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "678",
+    "team_id": "55",
+    "problem_id": "4",
+    "timestamp": 6549000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "679",
+    "team_id": "16",
+    "problem_id": "0",
+    "timestamp": 6569000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "680",
+    "team_id": "73",
+    "problem_id": "3",
+    "timestamp": 6576000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "681",
+    "team_id": "57",
+    "problem_id": "2",
+    "timestamp": 6592000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "682",
+    "team_id": "67",
+    "problem_id": "8",
+    "timestamp": 6619000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "683",
+    "team_id": "23",
+    "problem_id": "2",
+    "timestamp": 6621000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "684",
+    "team_id": "59",
+    "problem_id": "11",
+    "timestamp": 6633000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "685",
+    "team_id": "3",
+    "problem_id": "0",
+    "timestamp": 6641000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "686",
+    "team_id": "77",
+    "problem_id": "1",
+    "timestamp": 6673000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "687",
+    "team_id": "45",
+    "problem_id": "1",
+    "timestamp": 6705000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "688",
+    "team_id": "29",
+    "problem_id": "10",
+    "timestamp": 6716000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "689",
+    "team_id": "23",
+    "problem_id": "2",
+    "timestamp": 6727000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "690",
+    "team_id": "5",
+    "problem_id": "7",
+    "timestamp": 6750000,
+    "status": "COMPILATION_ERROR"
+  },
+  {
+    "id": "691",
+    "team_id": "70",
+    "problem_id": "7",
+    "timestamp": 6773000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "692",
+    "team_id": "98",
+    "problem_id": "2",
+    "timestamp": 6778000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "693",
+    "team_id": "5",
+    "problem_id": "7",
+    "timestamp": 6787000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "694",
+    "team_id": "56",
+    "problem_id": "3",
+    "timestamp": 6803000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "695",
+    "team_id": "56",
+    "problem_id": "3",
+    "timestamp": 6840000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "696",
+    "team_id": "61",
+    "problem_id": "11",
+    "timestamp": 6842000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "697",
+    "team_id": "1",
+    "problem_id": "7",
+    "timestamp": 6870000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "698",
+    "team_id": "20",
+    "problem_id": "10",
+    "timestamp": 6891000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "699",
+    "team_id": "97",
+    "problem_id": "1",
+    "timestamp": 6895000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "700",
+    "team_id": "7",
+    "problem_id": "6",
+    "timestamp": 6896000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "701",
+    "team_id": "17",
+    "problem_id": "11",
+    "timestamp": 6897000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "702",
+    "team_id": "53",
+    "problem_id": "0",
+    "timestamp": 6899000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "703",
+    "team_id": "44",
+    "problem_id": "7",
+    "timestamp": 6914000,
+    "status": "COMPILATION_ERROR"
+  },
+  {
+    "id": "704",
+    "team_id": "96",
+    "problem_id": "11",
+    "timestamp": 6924000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "705",
+    "team_id": "49",
+    "problem_id": "6",
+    "timestamp": 6930000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "706",
+    "team_id": "44",
+    "problem_id": "7",
+    "timestamp": 6942000,
+    "status": "COMPILATION_ERROR"
+  },
+  {
+    "id": "707",
+    "team_id": "34",
+    "problem_id": "11",
+    "timestamp": 6944000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "708",
+    "team_id": "23",
+    "problem_id": "2",
+    "timestamp": 6954000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "709",
+    "team_id": "44",
+    "problem_id": "7",
+    "timestamp": 6960000,
+    "status": "COMPILATION_ERROR"
+  },
+  {
+    "id": "710",
+    "team_id": "43",
+    "problem_id": "4",
+    "timestamp": 6962000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "711",
+    "team_id": "17",
+    "problem_id": "11",
+    "timestamp": 6997000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "712",
+    "team_id": "18",
+    "problem_id": "11",
+    "timestamp": 7000000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "713",
+    "team_id": "62",
+    "problem_id": "5",
+    "timestamp": 7007000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "714",
+    "team_id": "89",
+    "problem_id": "7",
+    "timestamp": 7030000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "715",
+    "team_id": "89",
+    "problem_id": "7",
+    "timestamp": 7058000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "716",
+    "team_id": "1",
+    "problem_id": "7",
+    "timestamp": 7085000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "717",
+    "team_id": "2",
+    "problem_id": "11",
+    "timestamp": 7092000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "718",
+    "team_id": "75",
+    "problem_id": "11",
+    "timestamp": 7119000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "719",
+    "team_id": "22",
+    "problem_id": "10",
+    "timestamp": 7125000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "720",
+    "team_id": "89",
+    "problem_id": "7",
+    "timestamp": 7128000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "721",
+    "team_id": "53",
+    "problem_id": "0",
+    "timestamp": 7135000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "722",
+    "team_id": "76",
+    "problem_id": "5",
+    "timestamp": 7170000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "723",
+    "team_id": "62",
+    "problem_id": "5",
+    "timestamp": 7177000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "724",
+    "team_id": "7",
+    "problem_id": "6",
+    "timestamp": 7179000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "725",
+    "team_id": "84",
+    "problem_id": "8",
+    "timestamp": 7184000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "726",
+    "team_id": "84",
+    "problem_id": "8",
+    "timestamp": 7209000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "727",
+    "team_id": "69",
+    "problem_id": "2",
+    "timestamp": 7214000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "728",
+    "team_id": "57",
+    "problem_id": "7",
+    "timestamp": 7245000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "729",
+    "team_id": "7",
+    "problem_id": "6",
+    "timestamp": 7253000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "730",
+    "team_id": "96",
+    "problem_id": "11",
+    "timestamp": 7275000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "731",
+    "team_id": "28",
+    "problem_id": "1",
+    "timestamp": 7293000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "732",
+    "team_id": "56",
+    "problem_id": "5",
+    "timestamp": 7301000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "733",
+    "team_id": "28",
+    "problem_id": "2",
+    "timestamp": 7311000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "734",
+    "team_id": "65",
+    "problem_id": "0",
+    "timestamp": 7314000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "735",
+    "team_id": "62",
+    "problem_id": "5",
+    "timestamp": 7320000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "736",
+    "team_id": "45",
+    "problem_id": "2",
+    "timestamp": 7322000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "737",
+    "team_id": "76",
+    "problem_id": "5",
+    "timestamp": 7346000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "738",
+    "team_id": "69",
+    "problem_id": "2",
+    "timestamp": 7356000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "739",
+    "team_id": "88",
+    "problem_id": "11",
+    "timestamp": 7376000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "740",
+    "team_id": "22",
+    "problem_id": "10",
+    "timestamp": 7380000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "741",
+    "team_id": "85",
+    "problem_id": "6",
+    "timestamp": 7385000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "742",
+    "team_id": "61",
+    "problem_id": "11",
+    "timestamp": 7398000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "743",
+    "team_id": "37",
+    "problem_id": "7",
+    "timestamp": 7415000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "744",
+    "team_id": "56",
+    "problem_id": "5",
+    "timestamp": 7416000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "745",
+    "team_id": "5",
+    "problem_id": "7",
+    "timestamp": 7438000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "746",
+    "team_id": "89",
+    "problem_id": "7",
+    "timestamp": 7446000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "747",
+    "team_id": "6",
+    "problem_id": "0",
+    "timestamp": 7452000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "748",
+    "team_id": "76",
+    "problem_id": "5",
+    "timestamp": 7466000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "749",
+    "team_id": "25",
+    "problem_id": "11",
+    "timestamp": 7469000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "750",
+    "team_id": "75",
+    "problem_id": "11",
+    "timestamp": 7479000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "751",
+    "team_id": "89",
+    "problem_id": "7",
+    "timestamp": 7483000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "752",
+    "team_id": "38",
+    "problem_id": "2",
+    "timestamp": 7485000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "753",
+    "team_id": "17",
+    "problem_id": "11",
+    "timestamp": 7493000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "754",
+    "team_id": "82",
+    "problem_id": "1",
+    "timestamp": 7495000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "755",
+    "team_id": "79",
+    "problem_id": "0",
+    "timestamp": 7497000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "756",
+    "team_id": "60",
+    "problem_id": "1",
+    "timestamp": 7509000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "757",
+    "team_id": "77",
+    "problem_id": "0",
+    "timestamp": 7528000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "758",
+    "team_id": "84",
+    "problem_id": "8",
+    "timestamp": 7549000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "759",
+    "team_id": "5",
+    "problem_id": "7",
+    "timestamp": 7570000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "760",
+    "team_id": "21",
+    "problem_id": "1",
+    "timestamp": 7578000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "761",
+    "team_id": "84",
+    "problem_id": "8",
+    "timestamp": 7594000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "762",
+    "team_id": "50",
+    "problem_id": "8",
+    "timestamp": 7596000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "763",
+    "team_id": "89",
+    "problem_id": "7",
+    "timestamp": 7605000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "764",
+    "team_id": "21",
+    "problem_id": "1",
+    "timestamp": 7607000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "765",
+    "team_id": "85",
+    "problem_id": "6",
+    "timestamp": 7625000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "766",
+    "team_id": "74",
+    "problem_id": "8",
+    "timestamp": 7636000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "767",
+    "team_id": "45",
+    "problem_id": "2",
+    "timestamp": 7649000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "768",
+    "team_id": "27",
+    "problem_id": "5",
+    "timestamp": 7657000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "769",
+    "team_id": "8",
+    "problem_id": "6",
+    "timestamp": 7659000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "770",
+    "team_id": "21",
+    "problem_id": "1",
+    "timestamp": 7699000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "771",
+    "team_id": "89",
+    "problem_id": "7",
+    "timestamp": 7703000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "772",
+    "team_id": "48",
+    "problem_id": "8",
+    "timestamp": 7708000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "773",
+    "team_id": "78",
+    "problem_id": "2",
+    "timestamp": 7709000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "774",
+    "team_id": "8",
+    "problem_id": "6",
+    "timestamp": 7714000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "775",
+    "team_id": "63",
+    "problem_id": "5",
+    "timestamp": 7716000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "776",
+    "team_id": "30",
+    "problem_id": "11",
+    "timestamp": 7726000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "777",
+    "team_id": "11",
+    "problem_id": "3",
+    "timestamp": 7727000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "778",
+    "team_id": "47",
+    "problem_id": "11",
+    "timestamp": 7733000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "779",
+    "team_id": "56",
+    "problem_id": "3",
+    "timestamp": 7738000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "780",
+    "team_id": "24",
+    "problem_id": "8",
+    "timestamp": 7739000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "781",
+    "team_id": "95",
+    "problem_id": "2",
+    "timestamp": 7741000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "782",
+    "team_id": "8",
+    "problem_id": "6",
+    "timestamp": 7743000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "783",
+    "team_id": "78",
+    "problem_id": "2",
+    "timestamp": 7749000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "784",
+    "team_id": "24",
+    "problem_id": "8",
+    "timestamp": 7757000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "785",
+    "team_id": "63",
+    "problem_id": "5",
+    "timestamp": 7761000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "786",
+    "team_id": "96",
+    "problem_id": "1",
+    "timestamp": 7781000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "787",
+    "team_id": "45",
+    "problem_id": "2",
+    "timestamp": 7801000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "788",
+    "team_id": "53",
+    "problem_id": "0",
+    "timestamp": 7823000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "789",
+    "team_id": "63",
+    "problem_id": "5",
+    "timestamp": 7829000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "790",
+    "team_id": "20",
+    "problem_id": "10",
+    "timestamp": 7844000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "791",
+    "team_id": "73",
+    "problem_id": "3",
+    "timestamp": 7860000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "792",
+    "team_id": "74",
+    "problem_id": "8",
+    "timestamp": 7867000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "793",
+    "team_id": "57",
+    "problem_id": "8",
+    "timestamp": 7869000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "794",
+    "team_id": "95",
+    "problem_id": "5",
+    "timestamp": 7892000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "795",
+    "team_id": "80",
+    "problem_id": "1",
+    "timestamp": 7943000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "796",
+    "team_id": "89",
+    "problem_id": "7",
+    "timestamp": 7943000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "797",
+    "team_id": "47",
+    "problem_id": "1",
+    "timestamp": 7955000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "798",
+    "team_id": "84",
+    "problem_id": "8",
+    "timestamp": 7966000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "799",
+    "team_id": "48",
+    "problem_id": "8",
+    "timestamp": 7976000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "800",
+    "team_id": "87",
+    "problem_id": "1",
+    "timestamp": 7977000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "801",
+    "team_id": "22",
+    "problem_id": "0",
+    "timestamp": 8037000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "802",
+    "team_id": "71",
+    "problem_id": "11",
+    "timestamp": 8038000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "803",
+    "team_id": "24",
+    "problem_id": "8",
+    "timestamp": 8041000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "804",
+    "team_id": "75",
+    "problem_id": "2",
+    "timestamp": 8046000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "805",
+    "team_id": "8",
+    "problem_id": "6",
+    "timestamp": 8064000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "806",
+    "team_id": "24",
+    "problem_id": "8",
+    "timestamp": 8092000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "807",
+    "team_id": "74",
+    "problem_id": "8",
+    "timestamp": 8093000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "808",
+    "team_id": "37",
+    "problem_id": "7",
+    "timestamp": 8109000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "809",
+    "team_id": "8",
+    "problem_id": "6",
+    "timestamp": 8111000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "810",
+    "team_id": "9",
+    "problem_id": "2",
+    "timestamp": 8112000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "811",
+    "team_id": "96",
+    "problem_id": "11",
+    "timestamp": 8118000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "812",
+    "team_id": "75",
+    "problem_id": "2",
+    "timestamp": 8131000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "813",
+    "team_id": "13",
+    "problem_id": "4",
+    "timestamp": 8159000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "814",
+    "team_id": "5",
+    "problem_id": "7",
+    "timestamp": 8189000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "815",
+    "team_id": "30",
+    "problem_id": "5",
+    "timestamp": 8195000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "816",
+    "team_id": "14",
+    "problem_id": "7",
+    "timestamp": 8204000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "817",
+    "team_id": "11",
+    "problem_id": "3",
+    "timestamp": 8214000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "818",
+    "team_id": "75",
+    "problem_id": "2",
+    "timestamp": 8225000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "819",
+    "team_id": "14",
+    "problem_id": "7",
+    "timestamp": 8230000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "820",
+    "team_id": "78",
+    "problem_id": "2",
+    "timestamp": 8233000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "821",
+    "team_id": "47",
+    "problem_id": "2",
+    "timestamp": 8263000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "822",
+    "team_id": "69",
+    "problem_id": "2",
+    "timestamp": 8263000,
+    "status": "COMPILATION_ERROR"
+  },
+  {
+    "id": "823",
+    "team_id": "22",
+    "problem_id": "0",
+    "timestamp": 8274000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "824",
+    "team_id": "75",
+    "problem_id": "2",
+    "timestamp": 8280000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "825",
+    "team_id": "69",
+    "problem_id": "2",
+    "timestamp": 8299000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "826",
+    "team_id": "47",
+    "problem_id": "2",
+    "timestamp": 8304000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "827",
+    "team_id": "38",
+    "problem_id": "10",
+    "timestamp": 8308000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "828",
+    "team_id": "50",
+    "problem_id": "1",
+    "timestamp": 8341000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "829",
+    "team_id": "70",
+    "problem_id": "1",
+    "timestamp": 8364000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "830",
+    "team_id": "65",
+    "problem_id": "2",
+    "timestamp": 8373000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "831",
+    "team_id": "21",
+    "problem_id": "7",
+    "timestamp": 8391000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "832",
+    "team_id": "37",
+    "problem_id": "7",
+    "timestamp": 8405000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "833",
+    "team_id": "78",
+    "problem_id": "2",
+    "timestamp": 8432000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "834",
+    "team_id": "7",
+    "problem_id": "6",
+    "timestamp": 8433000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "835",
+    "team_id": "59",
+    "problem_id": "4",
+    "timestamp": 8436000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "836",
+    "team_id": "76",
+    "problem_id": "2",
+    "timestamp": 8447000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "837",
+    "team_id": "8",
+    "problem_id": "6",
+    "timestamp": 8455000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "838",
+    "team_id": "35",
+    "problem_id": "11",
+    "timestamp": 8468000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "839",
+    "team_id": "82",
+    "problem_id": "2",
+    "timestamp": 8469000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "840",
+    "team_id": "89",
+    "problem_id": "7",
+    "timestamp": 8469000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "841",
+    "team_id": "72",
+    "problem_id": "4",
+    "timestamp": 8478000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "842",
+    "team_id": "43",
+    "problem_id": "4",
+    "timestamp": 8530000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "843",
+    "team_id": "12",
+    "problem_id": "4",
+    "timestamp": 8535000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "844",
+    "team_id": "25",
+    "problem_id": "0",
+    "timestamp": 8550000,
+    "status": "REJECTED"
+  },
+  {
+    "id": "845",
+    "team_id": "77",
+    "problem_id": "0",
+    "timestamp": 8556000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "846",
+    "team_id": "76",
+    "problem_id": "2",
+    "timestamp": 8569000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "847",
+    "team_id": "12",
+    "problem_id": "4",
+    "timestamp": 8576000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "848",
+    "team_id": "13",
+    "problem_id": "4",
+    "timestamp": 8583000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "849",
+    "team_id": "26",
+    "problem_id": "0",
+    "timestamp": 8602000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "850",
+    "team_id": "61",
+    "problem_id": "11",
+    "timestamp": 8613000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "851",
+    "team_id": "26",
+    "problem_id": "0",
+    "timestamp": 8619000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "852",
+    "team_id": "82",
+    "problem_id": "2",
+    "timestamp": 8647000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "853",
+    "team_id": "78",
+    "problem_id": "2",
+    "timestamp": 8654000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "854",
+    "team_id": "8",
+    "problem_id": "6",
+    "timestamp": 8659000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "855",
+    "team_id": "32",
+    "problem_id": "6",
+    "timestamp": 8666000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "856",
+    "team_id": "4",
+    "problem_id": "8",
+    "timestamp": 8673000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "857",
+    "team_id": "26",
+    "problem_id": "0",
+    "timestamp": 8677000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "858",
+    "team_id": "95",
+    "problem_id": "10",
+    "timestamp": 8719000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "859",
+    "team_id": "2",
+    "problem_id": "2",
+    "timestamp": 8722000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "860",
+    "team_id": "43",
+    "problem_id": "4",
+    "timestamp": 8728000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "861",
+    "team_id": "8",
+    "problem_id": "6",
+    "timestamp": 8729000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "862",
+    "team_id": "75",
+    "problem_id": "2",
+    "timestamp": 8737000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "863",
+    "team_id": "61",
+    "problem_id": "11",
+    "timestamp": 8741000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "864",
+    "team_id": "6",
+    "problem_id": "0",
+    "timestamp": 8766000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "865",
+    "team_id": "75",
+    "problem_id": "2",
+    "timestamp": 8829000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "866",
+    "team_id": "56",
+    "problem_id": "6",
+    "timestamp": 8855000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "867",
+    "team_id": "2",
+    "problem_id": "2",
+    "timestamp": 8876000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "868",
+    "team_id": "35",
+    "problem_id": "11",
+    "timestamp": 8878000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "869",
+    "team_id": "98",
+    "problem_id": "0",
+    "timestamp": 8895000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "870",
+    "team_id": "11",
+    "problem_id": "3",
+    "timestamp": 8897000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "871",
+    "team_id": "57",
+    "problem_id": "11",
+    "timestamp": 8923000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "872",
+    "team_id": "66",
+    "problem_id": "8",
+    "timestamp": 8927000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "873",
+    "team_id": "10",
+    "problem_id": "11",
+    "timestamp": 8944000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "874",
+    "team_id": "26",
+    "problem_id": "0",
+    "timestamp": 9014000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "875",
+    "team_id": "82",
+    "problem_id": "2",
+    "timestamp": 9016000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "876",
+    "team_id": "30",
+    "problem_id": "10",
+    "timestamp": 9027000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "877",
+    "team_id": "67",
+    "problem_id": "11",
+    "timestamp": 9037000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "878",
+    "team_id": "12",
+    "problem_id": "4",
+    "timestamp": 9040000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "879",
+    "team_id": "12",
+    "problem_id": "4",
+    "timestamp": 9076000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "880",
+    "team_id": "5",
+    "problem_id": "7",
+    "timestamp": 9085000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "881",
+    "team_id": "82",
+    "problem_id": "2",
+    "timestamp": 9090000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "882",
+    "team_id": "68",
+    "problem_id": "10",
+    "timestamp": 9117000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "883",
+    "team_id": "19",
+    "problem_id": "11",
+    "timestamp": 9141000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "884",
+    "team_id": "45",
+    "problem_id": "2",
+    "timestamp": 9159000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "885",
+    "team_id": "72",
+    "problem_id": "4",
+    "timestamp": 9164000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "886",
+    "team_id": "4",
+    "problem_id": "8",
+    "timestamp": 9169000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "887",
+    "team_id": "12",
+    "problem_id": "4",
+    "timestamp": 9198000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "888",
+    "team_id": "5",
+    "problem_id": "7",
+    "timestamp": 9230000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "889",
+    "team_id": "85",
+    "problem_id": "11",
+    "timestamp": 9240000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "890",
+    "team_id": "44",
+    "problem_id": "11",
+    "timestamp": 9241000,
+    "status": "COMPILATION_ERROR"
+  },
+  {
+    "id": "891",
+    "team_id": "75",
+    "problem_id": "2",
+    "timestamp": 9253000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "892",
+    "team_id": "65",
+    "problem_id": "2",
+    "timestamp": 9255000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "893",
+    "team_id": "17",
+    "problem_id": "1",
+    "timestamp": 9257000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "894",
+    "team_id": "64",
+    "problem_id": "11",
+    "timestamp": 9258000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "895",
+    "team_id": "4",
+    "problem_id": "8",
+    "timestamp": 9272000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "896",
+    "team_id": "59",
+    "problem_id": "4",
+    "timestamp": 9274000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "897",
+    "team_id": "60",
+    "problem_id": "0",
+    "timestamp": 9275000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "898",
+    "team_id": "41",
+    "problem_id": "5",
+    "timestamp": 9282000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "899",
+    "team_id": "35",
+    "problem_id": "10",
+    "timestamp": 9291000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "900",
+    "team_id": "79",
+    "problem_id": "11",
+    "timestamp": 9294000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "901",
+    "team_id": "72",
+    "problem_id": "4",
+    "timestamp": 9297000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "902",
+    "team_id": "36",
+    "problem_id": "5",
+    "timestamp": 9311000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "903",
+    "team_id": "78",
+    "problem_id": "2",
+    "timestamp": 9339000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "904",
+    "team_id": "16",
+    "problem_id": "11",
+    "timestamp": 9343000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "905",
+    "team_id": "12",
+    "problem_id": "4",
+    "timestamp": 9363000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "906",
+    "team_id": "32",
+    "problem_id": "6",
+    "timestamp": 9394000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "907",
+    "team_id": "28",
+    "problem_id": "2",
+    "timestamp": 9397000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "908",
+    "team_id": "76",
+    "problem_id": "2",
+    "timestamp": 9418000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "909",
+    "team_id": "25",
+    "problem_id": "0",
+    "timestamp": 9437000,
+    "status": "REJECTED"
+  },
+  {
+    "id": "910",
+    "team_id": "12",
+    "problem_id": "4",
+    "timestamp": 9438000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "911",
+    "team_id": "45",
+    "problem_id": "2",
+    "timestamp": 9440000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "912",
+    "team_id": "3",
+    "problem_id": "11",
+    "timestamp": 9444000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "913",
+    "team_id": "80",
+    "problem_id": "0",
+    "timestamp": 9448000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "914",
+    "team_id": "10",
+    "problem_id": "11",
+    "timestamp": 9460000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "915",
+    "team_id": "56",
+    "problem_id": "6",
+    "timestamp": 9511000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "916",
+    "team_id": "75",
+    "problem_id": "2",
+    "timestamp": 9522000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "917",
+    "team_id": "85",
+    "problem_id": "11",
+    "timestamp": 9522000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "918",
+    "team_id": "65",
+    "problem_id": "2",
+    "timestamp": 9523000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "919",
+    "team_id": "75",
+    "problem_id": "2",
+    "timestamp": 9537000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "920",
+    "team_id": "79",
+    "problem_id": "11",
+    "timestamp": 9545000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "921",
+    "team_id": "2",
+    "problem_id": "2",
+    "timestamp": 9563000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "922",
+    "team_id": "32",
+    "problem_id": "6",
+    "timestamp": 9564000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "923",
+    "team_id": "3",
+    "problem_id": "11",
+    "timestamp": 9597000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "924",
+    "team_id": "56",
+    "problem_id": "7",
+    "timestamp": 9603000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "925",
+    "team_id": "82",
+    "problem_id": "2",
+    "timestamp": 9620000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "926",
+    "team_id": "94",
+    "problem_id": "2",
+    "timestamp": 9625000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "927",
+    "team_id": "28",
+    "problem_id": "8",
+    "timestamp": 9635000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "928",
+    "team_id": "18",
+    "problem_id": "2",
+    "timestamp": 9639000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "929",
+    "team_id": "94",
+    "problem_id": "2",
+    "timestamp": 9646000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "930",
+    "team_id": "37",
+    "problem_id": "8",
+    "timestamp": 9649000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "931",
+    "team_id": "62",
+    "problem_id": "11",
+    "timestamp": 9650000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "932",
+    "team_id": "81",
+    "problem_id": "5",
+    "timestamp": 9661000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "933",
+    "team_id": "32",
+    "problem_id": "6",
+    "timestamp": 9662000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "934",
+    "team_id": "33",
+    "problem_id": "9",
+    "timestamp": 9674000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "935",
+    "team_id": "71",
+    "problem_id": "0",
+    "timestamp": 9697000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "936",
+    "team_id": "75",
+    "problem_id": "2",
+    "timestamp": 9702000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "937",
+    "team_id": "53",
+    "problem_id": "0",
+    "timestamp": 9712000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "938",
+    "team_id": "94",
+    "problem_id": "2",
+    "timestamp": 9723000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "939",
+    "team_id": "62",
+    "problem_id": "11",
+    "timestamp": 9725000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "940",
+    "team_id": "94",
+    "problem_id": "2",
+    "timestamp": 9755000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "941",
+    "team_id": "76",
+    "problem_id": "2",
+    "timestamp": 9757000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "942",
+    "team_id": "78",
+    "problem_id": "2",
+    "timestamp": 9761000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "943",
+    "team_id": "2",
+    "problem_id": "2",
+    "timestamp": 9780000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "944",
+    "team_id": "56",
+    "problem_id": "8",
+    "timestamp": 9791000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "945",
+    "team_id": "7",
+    "problem_id": "5",
+    "timestamp": 9803000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "946",
+    "team_id": "73",
+    "problem_id": "6",
+    "timestamp": 9815000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "947",
+    "team_id": "94",
+    "problem_id": "2",
+    "timestamp": 9818000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "948",
+    "team_id": "78",
+    "problem_id": "2",
+    "timestamp": 9832000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "949",
+    "team_id": "47",
+    "problem_id": "0",
+    "timestamp": 9845000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "950",
+    "team_id": "79",
+    "problem_id": "11",
+    "timestamp": 9865000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "951",
+    "team_id": "66",
+    "problem_id": "1",
+    "timestamp": 9877000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "952",
+    "team_id": "33",
+    "problem_id": "9",
+    "timestamp": 9880000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "953",
+    "team_id": "79",
+    "problem_id": "11",
+    "timestamp": 9884000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "954",
+    "team_id": "61",
+    "problem_id": "2",
+    "timestamp": 9890000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "955",
+    "team_id": "77",
+    "problem_id": "2",
+    "timestamp": 9909000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "956",
+    "team_id": "58",
+    "problem_id": "6",
+    "timestamp": 9914000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "957",
+    "team_id": "76",
+    "problem_id": "5",
+    "timestamp": 9926000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "958",
+    "team_id": "12",
+    "problem_id": "4",
+    "timestamp": 9931000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "959",
+    "team_id": "62",
+    "problem_id": "11",
+    "timestamp": 9948000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "960",
+    "team_id": "27",
+    "problem_id": "6",
+    "timestamp": 9983000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "961",
+    "team_id": "1",
+    "problem_id": "8",
+    "timestamp": 10001000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "962",
+    "team_id": "2",
+    "problem_id": "2",
+    "timestamp": 10006000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "963",
+    "team_id": "79",
+    "problem_id": "11",
+    "timestamp": 10022000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "964",
+    "team_id": "2",
+    "problem_id": "2",
+    "timestamp": 10068000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "965",
+    "team_id": "5",
+    "problem_id": "8",
+    "timestamp": 10074000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "966",
+    "team_id": "33",
+    "problem_id": "9",
+    "timestamp": 10079000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "967",
+    "team_id": "61",
+    "problem_id": "2",
+    "timestamp": 10097000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "968",
+    "team_id": "27",
+    "problem_id": "6",
+    "timestamp": 10100000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "969",
+    "team_id": "85",
+    "problem_id": "11",
+    "timestamp": 10116000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "970",
+    "team_id": "66",
+    "problem_id": "1",
+    "timestamp": 10119000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "971",
+    "team_id": "43",
+    "problem_id": "3",
+    "timestamp": 10134000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "972",
+    "team_id": "56",
+    "problem_id": "10",
+    "timestamp": 10151000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "973",
+    "team_id": "13",
+    "problem_id": "4",
+    "timestamp": 10154000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "974",
+    "team_id": "9",
+    "problem_id": "4",
+    "timestamp": 10167000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "975",
+    "team_id": "30",
+    "problem_id": "2",
+    "timestamp": 10189000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "976",
+    "team_id": "30",
+    "problem_id": "2",
+    "timestamp": 10201000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "977",
+    "team_id": "59",
+    "problem_id": "10",
+    "timestamp": 10221000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "978",
+    "team_id": "67",
+    "problem_id": "2",
+    "timestamp": 10236000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "979",
+    "team_id": "13",
+    "problem_id": "4",
+    "timestamp": 10238000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "980",
+    "team_id": "70",
+    "problem_id": "1",
+    "timestamp": 10279000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "981",
+    "team_id": "17",
+    "problem_id": "10",
+    "timestamp": 10297000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "982",
+    "team_id": "22",
+    "problem_id": "2",
+    "timestamp": 10309000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "983",
+    "team_id": "20",
+    "problem_id": "2",
+    "timestamp": 10346000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "984",
+    "team_id": "2",
+    "problem_id": "2",
+    "timestamp": 10366000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "985",
+    "team_id": "16",
+    "problem_id": "1",
+    "timestamp": 10373000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "986",
+    "team_id": "79",
+    "problem_id": "8",
+    "timestamp": 10383000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "987",
+    "team_id": "67",
+    "problem_id": "2",
+    "timestamp": 10390000,
+    "status": "COMPILATION_ERROR"
+  },
+  {
+    "id": "988",
+    "team_id": "76",
+    "problem_id": "10",
+    "timestamp": 10392000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "989",
+    "team_id": "13",
+    "problem_id": "4",
+    "timestamp": 10411000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "990",
+    "team_id": "60",
+    "problem_id": "7",
+    "timestamp": 10447000,
+    "status": "COMPILATION_ERROR"
+  },
+  {
+    "id": "991",
+    "team_id": "43",
+    "problem_id": "3",
+    "timestamp": 10450000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "992",
+    "team_id": "67",
+    "problem_id": "2",
+    "timestamp": 10453000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "993",
+    "team_id": "35",
+    "problem_id": "0",
+    "timestamp": 10479000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "994",
+    "team_id": "69",
+    "problem_id": "0",
+    "timestamp": 10509000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "995",
+    "team_id": "38",
+    "problem_id": "0",
+    "timestamp": 10510000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "996",
+    "team_id": "51",
+    "problem_id": "7",
+    "timestamp": 10511000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "997",
+    "team_id": "4",
+    "problem_id": "7",
+    "timestamp": 10516000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "998",
+    "team_id": "48",
+    "problem_id": "4",
+    "timestamp": 10523000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "999",
+    "team_id": "14",
+    "problem_id": "8",
+    "timestamp": 10530000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1000",
+    "team_id": "82",
+    "problem_id": "2",
+    "timestamp": 10552000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "1001",
+    "team_id": "74",
+    "problem_id": "11",
+    "timestamp": 10572000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1002",
+    "team_id": "51",
+    "problem_id": "7",
+    "timestamp": 10573000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "1003",
+    "team_id": "67",
+    "problem_id": "2",
+    "timestamp": 10575000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "1004",
+    "team_id": "14",
+    "problem_id": "8",
+    "timestamp": 10599000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1005",
+    "team_id": "78",
+    "problem_id": "2",
+    "timestamp": 10608000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1006",
+    "team_id": "37",
+    "problem_id": "8",
+    "timestamp": 10619000,
+    "status": "COMPILATION_ERROR"
+  },
+  {
+    "id": "1007",
+    "team_id": "71",
+    "problem_id": "0",
+    "timestamp": 10622000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1008",
+    "team_id": "79",
+    "problem_id": "8",
+    "timestamp": 10625000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "1009",
+    "team_id": "56",
+    "problem_id": "11",
+    "timestamp": 10629000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "1010",
+    "team_id": "37",
+    "problem_id": "8",
+    "timestamp": 10633000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1011",
+    "team_id": "97",
+    "problem_id": "11",
+    "timestamp": 10639000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "1012",
+    "team_id": "5",
+    "problem_id": "8",
+    "timestamp": 10655000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1013",
+    "team_id": "2",
+    "problem_id": "2",
+    "timestamp": 10662000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1014",
+    "team_id": "48",
+    "problem_id": "4",
+    "timestamp": 10666000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1015",
+    "team_id": "78",
+    "problem_id": "2",
+    "timestamp": 10667000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1016",
+    "team_id": "79",
+    "problem_id": "8",
+    "timestamp": 10692000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1017",
+    "team_id": "18",
+    "problem_id": "2",
+    "timestamp": 10697000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1018",
+    "team_id": "87",
+    "problem_id": "1",
+    "timestamp": 10700000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1019",
+    "team_id": "78",
+    "problem_id": "2",
+    "timestamp": 10709000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1020",
+    "team_id": "79",
+    "problem_id": "8",
+    "timestamp": 10711000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1021",
+    "team_id": "4",
+    "problem_id": "7",
+    "timestamp": 10712000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1022",
+    "team_id": "43",
+    "problem_id": "3",
+    "timestamp": 10712000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1023",
+    "team_id": "5",
+    "problem_id": "8",
+    "timestamp": 10714000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "1024",
+    "team_id": "13",
+    "problem_id": "4",
+    "timestamp": 10727000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "1025",
+    "team_id": "7",
+    "problem_id": "4",
+    "timestamp": 10739000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1026",
+    "team_id": "74",
+    "problem_id": "11",
+    "timestamp": 10759000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1027",
+    "team_id": "78",
+    "problem_id": "2",
+    "timestamp": 10763000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1028",
+    "team_id": "4",
+    "problem_id": "7",
+    "timestamp": 10770000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1029",
+    "team_id": "48",
+    "problem_id": "4",
+    "timestamp": 10808000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1030",
+    "team_id": "71",
+    "problem_id": "0",
+    "timestamp": 10818000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1031",
+    "team_id": "50",
+    "problem_id": "0",
+    "timestamp": 10861000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1032",
+    "team_id": "5",
+    "problem_id": "7",
+    "timestamp": 10875000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1033",
+    "team_id": "56",
+    "problem_id": "9",
+    "timestamp": 10893000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1034",
+    "team_id": "60",
+    "problem_id": "7",
+    "timestamp": 10940000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1035",
+    "team_id": "74",
+    "problem_id": "11",
+    "timestamp": 10959000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "1036",
+    "team_id": "98",
+    "problem_id": "10",
+    "timestamp": 11010000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1037",
+    "team_id": "42",
+    "problem_id": "0",
+    "timestamp": 11017000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1038",
+    "team_id": "70",
+    "problem_id": "2",
+    "timestamp": 11034000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1039",
+    "team_id": "34",
+    "problem_id": "4",
+    "timestamp": 11038000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1040",
+    "team_id": "4",
+    "problem_id": "7",
+    "timestamp": 11047000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1041",
+    "team_id": "60",
+    "problem_id": "7",
+    "timestamp": 11048000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1042",
+    "team_id": "47",
+    "problem_id": "0",
+    "timestamp": 11055000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1043",
+    "team_id": "4",
+    "problem_id": "7",
+    "timestamp": 11093000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1044",
+    "team_id": "81",
+    "problem_id": "5",
+    "timestamp": 11093000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "1045",
+    "team_id": "42",
+    "problem_id": "0",
+    "timestamp": 11104000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1046",
+    "team_id": "68",
+    "problem_id": "4",
+    "timestamp": 11128000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1047",
+    "team_id": "98",
+    "problem_id": "10",
+    "timestamp": 11135000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "1048",
+    "team_id": "73",
+    "problem_id": "6",
+    "timestamp": 11159000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1049",
+    "team_id": "37",
+    "problem_id": "8",
+    "timestamp": 11160000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1050",
+    "team_id": "35",
+    "problem_id": "0",
+    "timestamp": 11199000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1051",
+    "team_id": "48",
+    "problem_id": "4",
+    "timestamp": 11202000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1052",
+    "team_id": "78",
+    "problem_id": "2",
+    "timestamp": 11227000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1053",
+    "team_id": "29",
+    "problem_id": "0",
+    "timestamp": 11248000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1054",
+    "team_id": "47",
+    "problem_id": "0",
+    "timestamp": 11253000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1055",
+    "team_id": "4",
+    "problem_id": "7",
+    "timestamp": 11274000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1056",
+    "team_id": "70",
+    "problem_id": "2",
+    "timestamp": 11288000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1057",
+    "team_id": "8",
+    "problem_id": "5",
+    "timestamp": 11324000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1058",
+    "team_id": "95",
+    "problem_id": "4",
+    "timestamp": 11325000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1059",
+    "team_id": "21",
+    "problem_id": "11",
+    "timestamp": 11348000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1060",
+    "team_id": "50",
+    "problem_id": "0",
+    "timestamp": 11353000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1061",
+    "team_id": "80",
+    "problem_id": "6",
+    "timestamp": 11365000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1062",
+    "team_id": "4",
+    "problem_id": "7",
+    "timestamp": 11400000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1063",
+    "team_id": "76",
+    "problem_id": "5",
+    "timestamp": 11411000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1064",
+    "team_id": "21",
+    "problem_id": "1",
+    "timestamp": 11421000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1065",
+    "team_id": "68",
+    "problem_id": "4",
+    "timestamp": 11427000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1066",
+    "team_id": "32",
+    "problem_id": "4",
+    "timestamp": 11434000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1067",
+    "team_id": "64",
+    "problem_id": "8",
+    "timestamp": 11476000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1068",
+    "team_id": "25",
+    "problem_id": "10",
+    "timestamp": 11477000,
+    "status": "REJECTED"
+  },
+  {
+    "id": "1069",
+    "team_id": "6",
+    "problem_id": "11",
+    "timestamp": 11478000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1070",
+    "team_id": "37",
+    "problem_id": "8",
+    "timestamp": 11478000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1071",
+    "team_id": "22",
+    "problem_id": "2",
+    "timestamp": 11491000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "1072",
+    "team_id": "28",
+    "problem_id": "4",
+    "timestamp": 11534000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1073",
+    "team_id": "35",
+    "problem_id": "0",
+    "timestamp": 11539000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1074",
+    "team_id": "29",
+    "problem_id": "2",
+    "timestamp": 11551000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "1075",
+    "team_id": "63",
+    "problem_id": "11",
+    "timestamp": 11553000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1076",
+    "team_id": "95",
+    "problem_id": "4",
+    "timestamp": 11572000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1077",
+    "team_id": "26",
+    "problem_id": "0",
+    "timestamp": 11590000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "1078",
+    "team_id": "14",
+    "problem_id": "8",
+    "timestamp": 11594000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1079",
+    "team_id": "18",
+    "problem_id": "2",
+    "timestamp": 11599000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1080",
+    "team_id": "70",
+    "problem_id": "2",
+    "timestamp": 11599000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1081",
+    "team_id": "63",
+    "problem_id": "11",
+    "timestamp": 11613000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1082",
+    "team_id": "5",
+    "problem_id": "7",
+    "timestamp": 11619000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "1083",
+    "team_id": "61",
+    "problem_id": "2",
+    "timestamp": 11621000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "1084",
+    "team_id": "8",
+    "problem_id": "5",
+    "timestamp": 11635000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1085",
+    "team_id": "37",
+    "problem_id": "8",
+    "timestamp": 11636000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1086",
+    "team_id": "13",
+    "problem_id": "2",
+    "timestamp": 11658000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1087",
+    "team_id": "63",
+    "problem_id": "11",
+    "timestamp": 11659000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1088",
+    "team_id": "78",
+    "problem_id": "2",
+    "timestamp": 11662000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1089",
+    "team_id": "43",
+    "problem_id": "3",
+    "timestamp": 11691000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1090",
+    "team_id": "64",
+    "problem_id": "8",
+    "timestamp": 11700000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "1091",
+    "team_id": "70",
+    "problem_id": "2",
+    "timestamp": 11706000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1092",
+    "team_id": "28",
+    "problem_id": "4",
+    "timestamp": 11714000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1093",
+    "team_id": "2",
+    "problem_id": "2",
+    "timestamp": 11723000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1094",
+    "team_id": "48",
+    "problem_id": "1",
+    "timestamp": 11729000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "1095",
+    "team_id": "95",
+    "problem_id": "4",
+    "timestamp": 11765000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1096",
+    "team_id": "95",
+    "problem_id": "4",
+    "timestamp": 11782000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "1097",
+    "team_id": "8",
+    "problem_id": "5",
+    "timestamp": 11787000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1098",
+    "team_id": "70",
+    "problem_id": "2",
+    "timestamp": 11790000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1099",
+    "team_id": "85",
+    "problem_id": "6",
+    "timestamp": 11792000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1100",
+    "team_id": "7",
+    "problem_id": "4",
+    "timestamp": 11798000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1101",
+    "team_id": "80",
+    "problem_id": "6",
+    "timestamp": 11798000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1102",
+    "team_id": "19",
+    "problem_id": "10",
+    "timestamp": 11813000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1103",
+    "team_id": "13",
+    "problem_id": "2",
+    "timestamp": 11831000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "1104",
+    "team_id": "66",
+    "problem_id": "0",
+    "timestamp": 11838000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "1105",
+    "team_id": "43",
+    "problem_id": "3",
+    "timestamp": 11839000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1106",
+    "team_id": "8",
+    "problem_id": "5",
+    "timestamp": 11877000,
+    "status": "COMPILATION_ERROR"
+  },
+  {
+    "id": "1107",
+    "team_id": "74",
+    "problem_id": "0",
+    "timestamp": 11915000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1108",
+    "team_id": "59",
+    "problem_id": "9",
+    "timestamp": 11929000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1109",
+    "team_id": "69",
+    "problem_id": "10",
+    "timestamp": 11957000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "1110",
+    "team_id": "42",
+    "problem_id": "0",
+    "timestamp": 11958000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1111",
+    "team_id": "9",
+    "problem_id": "4",
+    "timestamp": 11992000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1112",
+    "team_id": "70",
+    "problem_id": "2",
+    "timestamp": 11995000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1113",
+    "team_id": "97",
+    "problem_id": "2",
+    "timestamp": 12003000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1114",
+    "team_id": "10",
+    "problem_id": "8",
+    "timestamp": 12013000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1115",
+    "team_id": "25",
+    "problem_id": "10",
+    "timestamp": 12018000,
+    "status": "REJECTED"
+  },
+  {
+    "id": "1116",
+    "team_id": "73",
+    "problem_id": "6",
+    "timestamp": 12019000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "1117",
+    "team_id": "73",
+    "problem_id": "6",
+    "timestamp": 12051000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "1118",
+    "team_id": "8",
+    "problem_id": "5",
+    "timestamp": 12059000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1119",
+    "team_id": "81",
+    "problem_id": "10",
+    "timestamp": 12061000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "1120",
+    "team_id": "44",
+    "problem_id": "7",
+    "timestamp": 12074000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1121",
+    "team_id": "42",
+    "problem_id": "0",
+    "timestamp": 12087000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1122",
+    "team_id": "82",
+    "problem_id": "11",
+    "timestamp": 12116000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1123",
+    "team_id": "34",
+    "problem_id": "4",
+    "timestamp": 12134000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1124",
+    "team_id": "17",
+    "problem_id": "2",
+    "timestamp": 12139000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1125",
+    "team_id": "32",
+    "problem_id": "4",
+    "timestamp": 12152000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1126",
+    "team_id": "21",
+    "problem_id": "11",
+    "timestamp": 12177000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1127",
+    "team_id": "25",
+    "problem_id": "10",
+    "timestamp": 12178000,
+    "status": "REJECTED"
+  },
+  {
+    "id": "1128",
+    "team_id": "85",
+    "problem_id": "6",
+    "timestamp": 12185000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1129",
+    "team_id": "74",
+    "problem_id": "0",
+    "timestamp": 12186000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1130",
+    "team_id": "6",
+    "problem_id": "1",
+    "timestamp": 12210000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "1131",
+    "team_id": "34",
+    "problem_id": "4",
+    "timestamp": 12217000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1132",
+    "team_id": "7",
+    "problem_id": "4",
+    "timestamp": 12228000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1133",
+    "team_id": "98",
+    "problem_id": "0",
+    "timestamp": 12236000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1134",
+    "team_id": "76",
+    "problem_id": "5",
+    "timestamp": 12243000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1135",
+    "team_id": "7",
+    "problem_id": "4",
+    "timestamp": 12244000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1136",
+    "team_id": "8",
+    "problem_id": "5",
+    "timestamp": 12245000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1137",
+    "team_id": "19",
+    "problem_id": "10",
+    "timestamp": 12248000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1138",
+    "team_id": "85",
+    "problem_id": "6",
+    "timestamp": 12255000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1139",
+    "team_id": "43",
+    "problem_id": "3",
+    "timestamp": 12265000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1140",
+    "team_id": "68",
+    "problem_id": "4",
+    "timestamp": 12265000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1141",
+    "team_id": "85",
+    "problem_id": "6",
+    "timestamp": 12277000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1142",
+    "team_id": "33",
+    "problem_id": "4",
+    "timestamp": 12296000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1143",
+    "team_id": "57",
+    "problem_id": "10",
+    "timestamp": 12314000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "1144",
+    "team_id": "6",
+    "problem_id": "11",
+    "timestamp": 12326000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "1145",
+    "team_id": "8",
+    "problem_id": "5",
+    "timestamp": 12329000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1146",
+    "team_id": "8",
+    "problem_id": "5",
+    "timestamp": 12341000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1147",
+    "team_id": "63",
+    "problem_id": "10",
+    "timestamp": 12342000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1148",
+    "team_id": "51",
+    "problem_id": "11",
+    "timestamp": 12351000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "1149",
+    "team_id": "55",
+    "problem_id": "6",
+    "timestamp": 12357000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "1150",
+    "team_id": "25",
+    "problem_id": "10",
+    "timestamp": 12364000,
+    "status": "REJECTED"
+  },
+  {
+    "id": "1151",
+    "team_id": "47",
+    "problem_id": "2",
+    "timestamp": 12378000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1152",
+    "team_id": "68",
+    "problem_id": "4",
+    "timestamp": 12387000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1153",
+    "team_id": "24",
+    "problem_id": "11",
+    "timestamp": 12391000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "1154",
+    "team_id": "63",
+    "problem_id": "10",
+    "timestamp": 12397000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1155",
+    "team_id": "8",
+    "problem_id": "5",
+    "timestamp": 12399000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1156",
+    "team_id": "71",
+    "problem_id": "0",
+    "timestamp": 12401000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1157",
+    "team_id": "80",
+    "problem_id": "6",
+    "timestamp": 12414000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "1158",
+    "team_id": "82",
+    "problem_id": "11",
+    "timestamp": 12423000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "1159",
+    "team_id": "8",
+    "problem_id": "5",
+    "timestamp": 12425000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1160",
+    "team_id": "60",
+    "problem_id": "7",
+    "timestamp": 12438000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1161",
+    "team_id": "71",
+    "problem_id": "0",
+    "timestamp": 12455000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1162",
+    "team_id": "50",
+    "problem_id": "0",
+    "timestamp": 12460000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1163",
+    "team_id": "8",
+    "problem_id": "5",
+    "timestamp": 12463000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1164",
+    "team_id": "35",
+    "problem_id": "0",
+    "timestamp": 12475000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1165",
+    "team_id": "58",
+    "problem_id": "6",
+    "timestamp": 12481000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1166",
+    "team_id": "42",
+    "problem_id": "0",
+    "timestamp": 12486000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1167",
+    "team_id": "17",
+    "problem_id": "2",
+    "timestamp": 12498000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1168",
+    "team_id": "97",
+    "problem_id": "2",
+    "timestamp": 12503000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1169",
+    "team_id": "8",
+    "problem_id": "5",
+    "timestamp": 12548000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1170",
+    "team_id": "20",
+    "problem_id": "6",
+    "timestamp": 12562000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1171",
+    "team_id": "21",
+    "problem_id": "11",
+    "timestamp": 12569000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1172",
+    "team_id": "71",
+    "problem_id": "0",
+    "timestamp": 12578000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1173",
+    "team_id": "97",
+    "problem_id": "2",
+    "timestamp": 12597000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1174",
+    "team_id": "94",
+    "problem_id": "2",
+    "timestamp": 12601000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1175",
+    "team_id": "94",
+    "problem_id": "2",
+    "timestamp": 12617000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1176",
+    "team_id": "43",
+    "problem_id": "3",
+    "timestamp": 12648000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1177",
+    "team_id": "9",
+    "problem_id": "4",
+    "timestamp": 12655000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1178",
+    "team_id": "76",
+    "problem_id": "5",
+    "timestamp": 12675000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1179",
+    "team_id": "21",
+    "problem_id": "11",
+    "timestamp": 12706000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1180",
+    "team_id": "26",
+    "problem_id": "4",
+    "timestamp": 12719000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1181",
+    "team_id": "42",
+    "problem_id": "0",
+    "timestamp": 12733000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1182",
+    "team_id": "6",
+    "problem_id": "2",
+    "timestamp": 12735000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1183",
+    "team_id": "33",
+    "problem_id": "4",
+    "timestamp": 12735000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1184",
+    "team_id": "74",
+    "problem_id": "0",
+    "timestamp": 12758000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1185",
+    "team_id": "68",
+    "problem_id": "4",
+    "timestamp": 12773000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1186",
+    "team_id": "42",
+    "problem_id": "0",
+    "timestamp": 12778000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1187",
+    "team_id": "61",
+    "problem_id": "10",
+    "timestamp": 12779000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "1188",
+    "team_id": "8",
+    "problem_id": "5",
+    "timestamp": 12780000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1189",
+    "team_id": "33",
+    "problem_id": "4",
+    "timestamp": 12785000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1190",
+    "team_id": "94",
+    "problem_id": "2",
+    "timestamp": 12806000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1191",
+    "team_id": "75",
+    "problem_id": "2",
+    "timestamp": 12808000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1192",
+    "team_id": "60",
+    "problem_id": "7",
+    "timestamp": 12819000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1193",
+    "team_id": "28",
+    "problem_id": "4",
+    "timestamp": 12820000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1194",
+    "team_id": "53",
+    "problem_id": "6",
+    "timestamp": 12860000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1195",
+    "team_id": "47",
+    "problem_id": "2",
+    "timestamp": 12864000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1196",
+    "team_id": "7",
+    "problem_id": "4",
+    "timestamp": 12891000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1197",
+    "team_id": "60",
+    "problem_id": "7",
+    "timestamp": 12911000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1198",
+    "team_id": "64",
+    "problem_id": "1",
+    "timestamp": 12926000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1199",
+    "team_id": "60",
+    "problem_id": "7",
+    "timestamp": 12930000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1200",
+    "team_id": "58",
+    "problem_id": "6",
+    "timestamp": 12948000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1201",
+    "team_id": "32",
+    "problem_id": "4",
+    "timestamp": 12951000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1202",
+    "team_id": "42",
+    "problem_id": "0",
+    "timestamp": 12956000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1203",
+    "team_id": "8",
+    "problem_id": "5",
+    "timestamp": 12958000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1204",
+    "team_id": "32",
+    "problem_id": "4",
+    "timestamp": 12982000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1205",
+    "team_id": "8",
+    "problem_id": "5",
+    "timestamp": 12991000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1206",
+    "team_id": "8",
+    "problem_id": "5",
+    "timestamp": 13026000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1207",
+    "team_id": "32",
+    "problem_id": "4",
+    "timestamp": 13026000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "1208",
+    "team_id": "34",
+    "problem_id": "4",
+    "timestamp": 13059000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1209",
+    "team_id": "54",
+    "problem_id": "5",
+    "timestamp": 13065000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1210",
+    "team_id": "7",
+    "problem_id": "4",
+    "timestamp": 13068000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1211",
+    "team_id": "11",
+    "problem_id": "5",
+    "timestamp": 13068000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1212",
+    "team_id": "67",
+    "problem_id": "10",
+    "timestamp": 13096000,
+    "status": "REJECTED"
+  },
+  {
+    "id": "1213",
+    "team_id": "8",
+    "problem_id": "5",
+    "timestamp": 13102000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1214",
+    "team_id": "30",
+    "problem_id": "4",
+    "timestamp": 13114000,
+    "status": "COMPILATION_ERROR"
+  },
+  {
+    "id": "1215",
+    "team_id": "18",
+    "problem_id": "2",
+    "timestamp": 13120000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1216",
+    "team_id": "30",
+    "problem_id": "4",
+    "timestamp": 13139000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1217",
+    "team_id": "56",
+    "problem_id": "9",
+    "timestamp": 13148000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1218",
+    "team_id": "9",
+    "problem_id": "4",
+    "timestamp": 13152000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1219",
+    "team_id": "30",
+    "problem_id": "4",
+    "timestamp": 13158000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1220",
+    "team_id": "43",
+    "problem_id": "3",
+    "timestamp": 13159000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1221",
+    "team_id": "3",
+    "problem_id": "10",
+    "timestamp": 13183000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1222",
+    "team_id": "8",
+    "problem_id": "5",
+    "timestamp": 13194000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1223",
+    "team_id": "9",
+    "problem_id": "4",
+    "timestamp": 13200000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1224",
+    "team_id": "97",
+    "problem_id": "2",
+    "timestamp": 13204000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1225",
+    "team_id": "26",
+    "problem_id": "4",
+    "timestamp": 13246000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1226",
+    "team_id": "85",
+    "problem_id": "6",
+    "timestamp": 13260000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1227",
+    "team_id": "26",
+    "problem_id": "4",
+    "timestamp": 13282000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1228",
+    "team_id": "4",
+    "problem_id": "7",
+    "timestamp": 13288000,
+    "status": "COMPILATION_ERROR"
+  },
+  {
+    "id": "1229",
+    "team_id": "72",
+    "problem_id": "3",
+    "timestamp": 13311000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1230",
+    "team_id": "3",
+    "problem_id": "10",
+    "timestamp": 13328000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1231",
+    "team_id": "20",
+    "problem_id": "6",
+    "timestamp": 13336000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1232",
+    "team_id": "19",
+    "problem_id": "10",
+    "timestamp": 13373000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1233",
+    "team_id": "67",
+    "problem_id": "10",
+    "timestamp": 13388000,
+    "status": "REJECTED"
+  },
+  {
+    "id": "1234",
+    "team_id": "29",
+    "problem_id": "0",
+    "timestamp": 13392000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "1235",
+    "team_id": "20",
+    "problem_id": "6",
+    "timestamp": 13397000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1236",
+    "team_id": "97",
+    "problem_id": "0",
+    "timestamp": 13407000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1237",
+    "team_id": "67",
+    "problem_id": "10",
+    "timestamp": 13422000,
+    "status": "REJECTED"
+  },
+  {
+    "id": "1238",
+    "team_id": "33",
+    "problem_id": "4",
+    "timestamp": 13424000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1239",
+    "team_id": "16",
+    "problem_id": "7",
+    "timestamp": 13447000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "1240",
+    "team_id": "11",
+    "problem_id": "5",
+    "timestamp": 13456000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1241",
+    "team_id": "35",
+    "problem_id": "0",
+    "timestamp": 13467000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1242",
+    "team_id": "82",
+    "problem_id": "0",
+    "timestamp": 13468000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1243",
+    "team_id": "26",
+    "problem_id": "4",
+    "timestamp": 13483000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1244",
+    "team_id": "79",
+    "problem_id": "5",
+    "timestamp": 13489000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1245",
+    "team_id": "28",
+    "problem_id": "4",
+    "timestamp": 13493000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1246",
+    "team_id": "33",
+    "problem_id": "4",
+    "timestamp": 13503000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1247",
+    "team_id": "73",
+    "problem_id": "9",
+    "timestamp": 13522000,
+    "status": "COMPILATION_ERROR"
+  },
+  {
+    "id": "1248",
+    "team_id": "79",
+    "problem_id": "5",
+    "timestamp": 13527000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1249",
+    "team_id": "67",
+    "problem_id": "10",
+    "timestamp": 13531000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "1250",
+    "team_id": "82",
+    "problem_id": "0",
+    "timestamp": 13534000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1251",
+    "team_id": "54",
+    "problem_id": "5",
+    "timestamp": 13536000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1252",
+    "team_id": "43",
+    "problem_id": "3",
+    "timestamp": 13547000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1253",
+    "team_id": "28",
+    "problem_id": "4",
+    "timestamp": 13557000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1254",
+    "team_id": "97",
+    "problem_id": "0",
+    "timestamp": 13588000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1255",
+    "team_id": "77",
+    "problem_id": "10",
+    "timestamp": 13599000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1256",
+    "team_id": "73",
+    "problem_id": "9",
+    "timestamp": 13605000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1257",
+    "team_id": "25",
+    "problem_id": "10",
+    "timestamp": 13649000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1258",
+    "team_id": "79",
+    "problem_id": "5",
+    "timestamp": 13649000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1259",
+    "team_id": "4",
+    "problem_id": "7",
+    "timestamp": 13662000,
+    "status": "COMPILATION_ERROR"
+  },
+  {
+    "id": "1260",
+    "team_id": "9",
+    "problem_id": "4",
+    "timestamp": 13672000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "1261",
+    "team_id": "62",
+    "problem_id": "4",
+    "timestamp": 13672000,
+    "status": "REJECTED"
+  },
+  {
+    "id": "1262",
+    "team_id": "18",
+    "problem_id": "2",
+    "timestamp": 13675000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1263",
+    "team_id": "72",
+    "problem_id": "3",
+    "timestamp": 13679000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1264",
+    "team_id": "18",
+    "problem_id": "2",
+    "timestamp": 13694000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1265",
+    "team_id": "43",
+    "problem_id": "3",
+    "timestamp": 13699000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1266",
+    "team_id": "97",
+    "problem_id": "0",
+    "timestamp": 13705000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1267",
+    "team_id": "30",
+    "problem_id": "4",
+    "timestamp": 13706000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1268",
+    "team_id": "33",
+    "problem_id": "4",
+    "timestamp": 13709000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1269",
+    "team_id": "17",
+    "problem_id": "2",
+    "timestamp": 13718000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1270",
+    "team_id": "77",
+    "problem_id": "10",
+    "timestamp": 13727000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1271",
+    "team_id": "55",
+    "problem_id": "3",
+    "timestamp": 13728000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1272",
+    "team_id": "25",
+    "problem_id": "10",
+    "timestamp": 13731000,
+    "status": "REJECTED"
+  },
+  {
+    "id": "1273",
+    "team_id": "44",
+    "problem_id": "0",
+    "timestamp": 13742000,
+    "status": "COMPILATION_ERROR"
+  },
+  {
+    "id": "1274",
+    "team_id": "78",
+    "problem_id": "2",
+    "timestamp": 13775000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1275",
+    "team_id": "62",
+    "problem_id": "4",
+    "timestamp": 13780000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1276",
+    "team_id": "63",
+    "problem_id": "11",
+    "timestamp": 13780000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1277",
+    "team_id": "19",
+    "problem_id": "10",
+    "timestamp": 13787000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1278",
+    "team_id": "44",
+    "problem_id": "0",
+    "timestamp": 13806000,
+    "status": "COMPILATION_ERROR"
+  },
+  {
+    "id": "1279",
+    "team_id": "65",
+    "problem_id": "10",
+    "timestamp": 13825000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1280",
+    "team_id": "80",
+    "problem_id": "2",
+    "timestamp": 13826000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1281",
+    "team_id": "78",
+    "problem_id": "2",
+    "timestamp": 13830000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1282",
+    "team_id": "4",
+    "problem_id": "7",
+    "timestamp": 13834000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1283",
+    "team_id": "25",
+    "problem_id": "10",
+    "timestamp": 13835000,
+    "status": "REJECTED"
+  },
+  {
+    "id": "1284",
+    "team_id": "12",
+    "problem_id": "5",
+    "timestamp": 13837000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "1285",
+    "team_id": "33",
+    "problem_id": "4",
+    "timestamp": 13857000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1286",
+    "team_id": "43",
+    "problem_id": "3",
+    "timestamp": 13865000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1287",
+    "team_id": "32",
+    "problem_id": "5",
+    "timestamp": 13877000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1288",
+    "team_id": "45",
+    "problem_id": "5",
+    "timestamp": 13887000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1289",
+    "team_id": "55",
+    "problem_id": "3",
+    "timestamp": 13891000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1290",
+    "team_id": "80",
+    "problem_id": "2",
+    "timestamp": 13892000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1291",
+    "team_id": "79",
+    "problem_id": "5",
+    "timestamp": 13906000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1292",
+    "team_id": "72",
+    "problem_id": "3",
+    "timestamp": 13910000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1293",
+    "team_id": "62",
+    "problem_id": "4",
+    "timestamp": 13915000,
+    "status": "REJECTED"
+  },
+  {
+    "id": "1294",
+    "team_id": "45",
+    "problem_id": "5",
+    "timestamp": 13919000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1295",
+    "team_id": "71",
+    "problem_id": "11",
+    "timestamp": 13922000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "1296",
+    "team_id": "17",
+    "problem_id": "2",
+    "timestamp": 13927000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1297",
+    "team_id": "76",
+    "problem_id": "5",
+    "timestamp": 13938000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1298",
+    "team_id": "94",
+    "problem_id": "0",
+    "timestamp": 13940000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1299",
+    "team_id": "30",
+    "problem_id": "4",
+    "timestamp": 13946000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "1300",
+    "team_id": "19",
+    "problem_id": "10",
+    "timestamp": 13949000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1301",
+    "team_id": "21",
+    "problem_id": "11",
+    "timestamp": 13952000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1302",
+    "team_id": "11",
+    "problem_id": "5",
+    "timestamp": 13981000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1303",
+    "team_id": "45",
+    "problem_id": "5",
+    "timestamp": 13986000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1304",
+    "team_id": "32",
+    "problem_id": "5",
+    "timestamp": 13989000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1305",
+    "team_id": "94",
+    "problem_id": "0",
+    "timestamp": 13994000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1306",
+    "team_id": "80",
+    "problem_id": "2",
+    "timestamp": 14003000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1307",
+    "team_id": "42",
+    "problem_id": "0",
+    "timestamp": 14009000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1308",
+    "team_id": "54",
+    "problem_id": "5",
+    "timestamp": 14011000,
+    "status": "COMPILATION_ERROR"
+  },
+  {
+    "id": "1309",
+    "team_id": "32",
+    "problem_id": "5",
+    "timestamp": 14018000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1310",
+    "team_id": "25",
+    "problem_id": "10",
+    "timestamp": 14031000,
+    "status": "REJECTED"
+  },
+  {
+    "id": "1311",
+    "team_id": "19",
+    "problem_id": "10",
+    "timestamp": 14036000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1312",
+    "team_id": "28",
+    "problem_id": "4",
+    "timestamp": 14037000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1313",
+    "team_id": "94",
+    "problem_id": "0",
+    "timestamp": 14044000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1314",
+    "team_id": "82",
+    "problem_id": "0",
+    "timestamp": 14047000,
+    "status": "COMPILATION_ERROR"
+  },
+  {
+    "id": "1315",
+    "team_id": "43",
+    "problem_id": "3",
+    "timestamp": 14048000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1316",
+    "team_id": "32",
+    "problem_id": "5",
+    "timestamp": 14077000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1317",
+    "team_id": "80",
+    "problem_id": "2",
+    "timestamp": 14080000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1318",
+    "team_id": "94",
+    "problem_id": "0",
+    "timestamp": 14098000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1319",
+    "team_id": "82",
+    "problem_id": "0",
+    "timestamp": 14108000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1320",
+    "team_id": "65",
+    "problem_id": "10",
+    "timestamp": 14114000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "1321",
+    "team_id": "41",
+    "problem_id": "8",
+    "timestamp": 14117000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1322",
+    "team_id": "38",
+    "problem_id": "0",
+    "timestamp": 14122000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1323",
+    "team_id": "30",
+    "problem_id": "5",
+    "timestamp": 14128000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1324",
+    "team_id": "62",
+    "problem_id": "4",
+    "timestamp": 14130000,
+    "status": "REJECTED"
+  },
+  {
+    "id": "1325",
+    "team_id": "11",
+    "problem_id": "5",
+    "timestamp": 14131000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1326",
+    "team_id": "17",
+    "problem_id": "2",
+    "timestamp": 14139000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1327",
+    "team_id": "36",
+    "problem_id": "1",
+    "timestamp": 14139000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1328",
+    "team_id": "20",
+    "problem_id": "6",
+    "timestamp": 14167000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1329",
+    "team_id": "13",
+    "problem_id": "4",
+    "timestamp": 14168000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1330",
+    "team_id": "4",
+    "problem_id": "7",
+    "timestamp": 14173000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1331",
+    "team_id": "13",
+    "problem_id": "4",
+    "timestamp": 14181000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1332",
+    "team_id": "47",
+    "problem_id": "2",
+    "timestamp": 14185000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1333",
+    "team_id": "7",
+    "problem_id": "4",
+    "timestamp": 14192000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1334",
+    "team_id": "55",
+    "problem_id": "9",
+    "timestamp": 14193000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1335",
+    "team_id": "32",
+    "problem_id": "5",
+    "timestamp": 14206000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1336",
+    "team_id": "11",
+    "problem_id": "5",
+    "timestamp": 14213000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1337",
+    "team_id": "45",
+    "problem_id": "5",
+    "timestamp": 14213000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "1338",
+    "team_id": "12",
+    "problem_id": "5",
+    "timestamp": 14214000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "1339",
+    "team_id": "33",
+    "problem_id": "4",
+    "timestamp": 14217000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1340",
+    "team_id": "3",
+    "problem_id": "10",
+    "timestamp": 14227000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1341",
+    "team_id": "77",
+    "problem_id": "10",
+    "timestamp": 14244000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "1342",
+    "team_id": "23",
+    "problem_id": "6",
+    "timestamp": 14245000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1343",
+    "team_id": "27",
+    "problem_id": "3",
+    "timestamp": 14248000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1344",
+    "team_id": "28",
+    "problem_id": "4",
+    "timestamp": 14256000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1345",
+    "team_id": "25",
+    "problem_id": "0",
+    "timestamp": 14257000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1346",
+    "team_id": "13",
+    "problem_id": "4",
+    "timestamp": 14260000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1347",
+    "team_id": "79",
+    "problem_id": "11",
+    "timestamp": 14262000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1348",
+    "team_id": "11",
+    "problem_id": "5",
+    "timestamp": 14265000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1349",
+    "team_id": "79",
+    "problem_id": "11",
+    "timestamp": 14276000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1350",
+    "team_id": "13",
+    "problem_id": "4",
+    "timestamp": 14280000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1351",
+    "team_id": "70",
+    "problem_id": "2",
+    "timestamp": 14280000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1352",
+    "team_id": "18",
+    "problem_id": "2",
+    "timestamp": 14286000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1353",
+    "team_id": "95",
+    "problem_id": "3",
+    "timestamp": 14287000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1354",
+    "team_id": "72",
+    "problem_id": "3",
+    "timestamp": 14294000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1355",
+    "team_id": "73",
+    "problem_id": "9",
+    "timestamp": 14298000,
+    "status": "COMPILATION_ERROR"
+  },
+  {
+    "id": "1356",
+    "team_id": "11",
+    "problem_id": "5",
+    "timestamp": 14299000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1357",
+    "team_id": "43",
+    "problem_id": "3",
+    "timestamp": 14304000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1358",
+    "team_id": "27",
+    "problem_id": "3",
+    "timestamp": 14305000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1359",
+    "team_id": "34",
+    "problem_id": "4",
+    "timestamp": 14307000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1360",
+    "team_id": "41",
+    "problem_id": "8",
+    "timestamp": 14310000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1361",
+    "team_id": "4",
+    "problem_id": "7",
+    "timestamp": 14317000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1362",
+    "team_id": "28",
+    "problem_id": "4",
+    "timestamp": 14322000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1363",
+    "team_id": "26",
+    "problem_id": "4",
+    "timestamp": 14325000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1364",
+    "team_id": "33",
+    "problem_id": "4",
+    "timestamp": 14333000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1365",
+    "team_id": "80",
+    "problem_id": "2",
+    "timestamp": 14333000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1366",
+    "team_id": "11",
+    "problem_id": "6",
+    "timestamp": 14334000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1367",
+    "team_id": "28",
+    "problem_id": "4",
+    "timestamp": 14341000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1368",
+    "team_id": "3",
+    "problem_id": "10",
+    "timestamp": 14342000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1369",
+    "team_id": "22",
+    "problem_id": "2",
+    "timestamp": 14345000,
+    "status": "ACCEPTED"
+  },
+  {
+    "id": "1370",
+    "team_id": "43",
+    "problem_id": "3",
+    "timestamp": 14348000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1371",
+    "team_id": "79",
+    "problem_id": "11",
+    "timestamp": 14348000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1372",
+    "team_id": "23",
+    "problem_id": "6",
+    "timestamp": 14350000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1373",
+    "team_id": "18",
+    "problem_id": "2",
+    "timestamp": 14355000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1374",
+    "team_id": "79",
+    "problem_id": "11",
+    "timestamp": 14356000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1375",
+    "team_id": "11",
+    "problem_id": "9",
+    "timestamp": 14359000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1376",
+    "team_id": "30",
+    "problem_id": "5",
+    "timestamp": 14360000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1377",
+    "team_id": "47",
+    "problem_id": "0",
+    "timestamp": 14361000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1378",
+    "team_id": "13",
+    "problem_id": "4",
+    "timestamp": 14362000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1379",
+    "team_id": "16",
+    "problem_id": "8",
+    "timestamp": 14370000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1380",
+    "team_id": "70",
+    "problem_id": "2",
+    "timestamp": 14372000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1381",
+    "team_id": "78",
+    "problem_id": "2",
+    "timestamp": 14377000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1382",
+    "team_id": "27",
+    "problem_id": "9",
+    "timestamp": 14378000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1383",
+    "team_id": "79",
+    "problem_id": "11",
+    "timestamp": 14379000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1384",
+    "team_id": "1",
+    "problem_id": "11",
+    "timestamp": 14380000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1385",
+    "team_id": "54",
+    "problem_id": "5",
+    "timestamp": 14381000,
+    "status": "COMPILATION_ERROR"
+  },
+  {
+    "id": "1386",
+    "team_id": "25",
+    "problem_id": "0",
+    "timestamp": 14385000,
+    "status": "REJECTED"
+  },
+  {
+    "id": "1387",
+    "team_id": "72",
+    "problem_id": "3",
+    "timestamp": 14393000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1388",
+    "team_id": "80",
+    "problem_id": "2",
+    "timestamp": 14394000,
+    "status": "TIME_LIMIT_EXCEEDED"
+  },
+  {
+    "id": "1389",
+    "team_id": "57",
+    "problem_id": "2",
+    "timestamp": 14395000,
+    "status": "WRONG_ANSWER"
+  },
+  {
+    "id": "1390",
+    "team_id": "41",
+    "problem_id": "11",
+    "timestamp": 14396000,
+    "status": "RUNTIME_ERROR"
+  },
+  {
+    "id": "1391",
+    "team_id": "11",
+    "problem_id": "9",
+    "timestamp": 14397000,
+    "status": "RUNTIME_ERROR"
+  }
+]
