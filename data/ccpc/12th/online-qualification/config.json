@@ -1,0 +1,238 @@
+{
+  "contest_name": "第 12 届 CCPC 中国大学生程序设计竞赛网络预选赛",
+  "start_time": 1789794000000,
+  "end_time": 1789812000000,
+  "penalty": 1200,
+  "frozen_time": 3600,
+  "problems": [
+    {
+      "id": "0",
+      "label": "A",
+      "name": {
+        "fallback_lang": "zh-CN",
+        "texts": {
+          "en": "All the Trades are the Best",
+          "zh-CN": "最优交易"
+        }
+      },
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#ff3b30"
+      }
+    },
+    {
+      "id": "1",
+      "label": "B",
+      "name": {
+        "fallback_lang": "zh-CN",
+        "texts": {
+          "en": "Better Die",
+          "zh-CN": "更好的骰子"
+        }
+      },
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#ee7528"
+      }
+    },
+    {
+      "id": "2",
+      "label": "C",
+      "name": {
+        "fallback_lang": "zh-CN",
+        "texts": {
+          "en": "Cross the Road",
+          "zh-CN": "过马路"
+        }
+      },
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#fde047"
+      }
+    },
+    {
+      "id": "3",
+      "label": "D",
+      "name": {
+        "fallback_lang": "zh-CN",
+        "texts": {
+          "en": "Dodge the Car",
+          "zh-CN": "依旧过马路"
+        }
+      },
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#00aa00"
+      }
+    },
+    {
+      "id": "4",
+      "label": "E",
+      "name": {
+        "fallback_lang": "en",
+        "texts": {
+          "en": "EPS.AC"
+        }
+      },
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#5eead4"
+      }
+    },
+    {
+      "id": "5",
+      "label": "F",
+      "name": {
+        "fallback_lang": "zh-CN",
+        "texts": {
+          "en": "Flight of the Night Butterfly",
+          "zh-CN": "夜蝶飞行"
+        }
+      },
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#06b6d4"
+      }
+    },
+    {
+      "id": "6",
+      "label": "G",
+      "name": {
+        "fallback_lang": "zh-CN",
+        "texts": {
+          "en": "Growing Prefix Span",
+          "zh-CN": "前缀扩张"
+        }
+      },
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#1b75dc"
+      }
+    },
+    {
+      "id": "7",
+      "label": "H",
+      "name": {
+        "fallback_lang": "zh-CN",
+        "texts": {
+          "en": "Hidden Permutation",
+          "zh-CN": "隐藏的排列"
+        }
+      },
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#a855f7"
+      }
+    },
+    {
+      "id": "8",
+      "label": "I",
+      "name": {
+        "fallback_lang": "zh-CN",
+        "texts": {
+          "en": "Integer Triple",
+          "zh-CN": "整数三元组"
+        }
+      },
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#d946ef"
+      }
+    },
+    {
+      "id": "9",
+      "label": "J",
+      "name": {
+        "fallback_lang": "zh-CN",
+        "texts": {
+          "en": "Jobs through Pipelines",
+          "zh-CN": "流水线作业"
+        }
+      },
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#f472b6"
+      }
+    },
+    {
+      "id": "10",
+      "label": "K",
+      "name": {
+        "fallback_lang": "zh-CN",
+        "texts": {
+          "en": "Keep on the Right Track",
+          "zh-CN": "走上正轨"
+        }
+      },
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#A52A2A"
+      }
+    },
+    {
+      "id": "11",
+      "label": "L",
+      "name": {
+        "fallback_lang": "zh-CN",
+        "texts": {
+          "en": "Logging Compression",
+          "zh-CN": "压缩日志"
+        }
+      },
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#000080"
+      }
+    },
+    {
+      "id": "12",
+      "label": "M",
+      "name": {
+        "fallback_lang": "zh-CN",
+        "texts": {
+          "en": "Median Equals X",
+          "zh-CN": "中位数为 X"
+        }
+      },
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#737373"
+      }
+    },
+    {
+      "id": "13",
+      "label": "N",
+      "name": {
+        "fallback_lang": "zh-CN",
+        "texts": {
+          "en": "New CCPC Rule CCPC",
+          "zh-CN": "新赛制"
+        }
+      },
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#f5f5f0"
+      }
+    }
+  ],
+  "status_time_display": {
+    "correct": true,
+    "incorrect": true,
+    "pending": true
+  },
+  "group": {
+    "official": "正式队伍",
+    "unofficial": "打星队伍",
+    "girl": "女队"
+  },
+  "logo": {
+    "preset": "CCPC"
+  },
+  "options": {
+    "enable_organization": true,
+    "submission_timestamp_unit": "millisecond"
+  },
+  "organizations": {
+    "url": "organizations.json"
+  }
+}
