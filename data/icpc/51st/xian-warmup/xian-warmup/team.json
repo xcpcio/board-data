@@ -1,0 +1,6277 @@
+[
+  {
+    "id": "Team001",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "距离27考研还有65天",
+        "en": "65 days to the 2027 postgraduate exam"
+      }
+    },
+    "organization_id": "INST-037",
+    "group": [
+      "official"
+    ],
+    "location": "A01"
+  },
+  {
+    "id": "Team002",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "一场3AC，智宇AK套路深",
+        "en": "A 3AC match, Zhiyu AK has deep tricks"
+      }
+    },
+    "organization_id": "INST-151",
+    "group": [
+      "official"
+    ],
+    "location": "A02"
+  },
+  {
+    "id": "Team003",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "no,commander",
+        "en": "no,commander"
+      }
+    },
+    "organization_id": "INST-074",
+    "group": [
+      "official"
+    ],
+    "location": "A03"
+  },
+  {
+    "id": "Team004",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "我vibe队友coding",
+        "en": "I vibe teammates coding"
+      }
+    },
+    "organization_id": "INST-011",
+    "group": [
+      "official"
+    ],
+    "location": "A04"
+  },
+  {
+    "id": "Team005",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Code Ascending Unlimited",
+        "en": "Code Ascending Unlimited"
+      }
+    },
+    "organization_id": "INST-023",
+    "group": [
+      "official"
+    ],
+    "location": "A05"
+  },
+  {
+    "id": "Team006",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "中山大学-什么",
+        "en": "SYSU_what"
+      }
+    },
+    "organization_id": "INST-031",
+    "group": [
+      "official"
+    ],
+    "location": "A07"
+  },
+  {
+    "id": "Team007",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "来只奶龙",
+        "en": "need a milk dragon"
+      }
+    },
+    "organization_id": "INST-029",
+    "group": [
+      "official"
+    ],
+    "location": "A08"
+  },
+  {
+    "id": "Team008",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "奶龙 998244343 丽",
+        "en": "nailong 998244353 li"
+      }
+    },
+    "organization_id": "INST-009",
+    "group": [
+      "official"
+    ],
+    "location": "A09"
+  },
+  {
+    "id": "Team009",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "哇塞竟然是区域赛",
+        "en": "Parallelism Limit Exceeded"
+      }
+    },
+    "organization_id": "INST-211",
+    "group": [
+      "official"
+    ],
+    "location": "A10"
+  },
+  {
+    "id": "Team010",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "云雾夜",
+        "en": "yokiCloud"
+      }
+    },
+    "organization_id": "INST-007",
+    "group": [
+      "official"
+    ],
+    "location": "A11"
+  },
+  {
+    "id": "Team011",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Hacking to the Gate",
+        "en": "Hacking to the Gate"
+      }
+    },
+    "organization_id": "INST-118",
+    "group": [
+      "official"
+    ],
+    "location": "A12"
+  },
+  {
+    "id": "Team012",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "文本",
+        "en": "Text"
+      }
+    },
+    "organization_id": "INST-038",
+    "group": [
+      "official"
+    ],
+    "location": "A13"
+  },
+  {
+    "id": "Team013",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Sample Passed = Accepted",
+        "en": "Sample Passed = Accepted"
+      }
+    },
+    "organization_id": "INST-071",
+    "group": [
+      "official"
+    ],
+    "location": "A14"
+  },
+  {
+    "id": "Team014",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "又是迷人的一天",
+        "en": "Another Charming Day"
+      }
+    },
+    "organization_id": "INST-039",
+    "group": [
+      "official"
+    ],
+    "location": "A15"
+  },
+  {
+    "id": "Team015",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Follow Taffy Meow follow Taffy, thanks meow",
+        "en": "Follow Taffy Meow follow Taffy, thanks meow"
+      }
+    },
+    "organization_id": "INST-157",
+    "group": [
+      "official"
+    ],
+    "location": "A16"
+  },
+  {
+    "id": "Team016",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "薇欧拉是好女孩",
+        "en": "Good Girl Viola"
+      }
+    },
+    "organization_id": "INST-166",
+    "group": [
+      "official"
+    ],
+    "location": "A17"
+  },
+  {
+    "id": "Team017",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "不要辜负自己那颗不服输的心啊！",
+        "en": "Reborn for Xi'an Regional"
+      }
+    },
+    "organization_id": "INST-120",
+    "group": [
+      "official"
+    ],
+    "location": "A18"
+  },
+  {
+    "id": "Team018",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "我沒意見",
+        "en": "No Problem"
+      }
+    },
+    "organization_id": "INST-127",
+    "group": [
+      "official"
+    ],
+    "location": "A19"
+  },
+  {
+    "id": "Team019",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Hegemon",
+        "en": "Hegemon"
+      }
+    },
+    "organization_id": "INST-218",
+    "group": [
+      "official"
+    ],
+    "location": "A20"
+  },
+  {
+    "id": "Team020",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Any team name suggestions",
+        "en": "Any team name suggestions"
+      }
+    },
+    "organization_id": "INST-085",
+    "group": [
+      "official"
+    ],
+    "location": "A21"
+  },
+  {
+    "id": "Team021",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "拉文克劳之鹰",
+        "en": "Hawks from Ravenclaw"
+      }
+    },
+    "organization_id": "INST-179",
+    "group": [
+      "official"
+    ],
+    "location": "A22"
+  },
+  {
+    "id": "Team022",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "mjmj",
+        "en": "mjmj"
+      }
+    },
+    "organization_id": "INST-177",
+    "group": [
+      "official"
+    ],
+    "location": "A23"
+  },
+  {
+    "id": "Team023",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "KFC大队",
+        "en": "KFC Team"
+      }
+    },
+    "organization_id": "INST-092",
+    "group": [
+      "official"
+    ],
+    "location": "A24"
+  },
+  {
+    "id": "Team024",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "慶曆四年春",
+        "en": "DeluluMaxxing"
+      }
+    },
+    "organization_id": "INST-234",
+    "group": [
+      "official"
+    ],
+    "location": "A25"
+  },
+  {
+    "id": "Team025",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "X?L",
+        "en": "X?L"
+      }
+    },
+    "organization_id": "INST-067",
+    "group": [
+      "official"
+    ],
+    "location": "A26"
+  },
+  {
+    "id": "Team026",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "CF拒绝评分",
+        "en": "CF reject rating"
+      }
+    },
+    "organization_id": "INST-061",
+    "group": [
+      "official"
+    ],
+    "location": "A27"
+  },
+  {
+    "id": "Team027",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Mute On Hard",
+        "en": "Mute On Hard"
+      }
+    },
+    "organization_id": "INST-190",
+    "group": [
+      "official"
+    ],
+    "location": "A28"
+  },
+  {
+    "id": "Team028",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "鹰号",
+        "en": "SKD 956"
+      }
+    },
+    "organization_id": "INST-104",
+    "group": [
+      "official"
+    ],
+    "location": "A29"
+  },
+  {
+    "id": "Team029",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "劳大我发现网络流是O1的",
+        "en": "Mamba O(1) Flow"
+      }
+    },
+    "organization_id": "INST-082",
+    "group": [
+      "official"
+    ],
+    "location": "A30"
+  },
+  {
+    "id": "Team030",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "耳畔虹蓝梦",
+        "en": "Earcsapphire Dreamtide"
+      }
+    },
+    "organization_id": "INST-041",
+    "group": [
+      "official"
+    ],
+    "location": "A31"
+  },
+  {
+    "id": "Team031",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "水族馆章鱼堆叠，花园飞燕草丛生",
+        "en": "delta ten, delta ten"
+      }
+    },
+    "organization_id": "INST-049",
+    "group": [
+      "official"
+    ],
+    "location": "A32"
+  },
+  {
+    "id": "Team032",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "朋友的队伍",
+        "en": "friend's ac"
+      }
+    },
+    "organization_id": "INST-076",
+    "group": [
+      "official"
+    ],
+    "location": "A33"
+  },
+  {
+    "id": "Team033",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "mingchaonb",
+        "en": "mingchaonb"
+      }
+    },
+    "organization_id": "INST-148",
+    "group": [
+      "official"
+    ],
+    "location": "A34"
+  },
+  {
+    "id": "Team034",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "青大梦之队",
+        "en": "QHU Dream Team"
+      }
+    },
+    "organization_id": "INST-231",
+    "group": [
+      "official"
+    ],
+    "location": "A35"
+  },
+  {
+    "id": "Team035",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "热干面拌牛肉肉夹馍",
+        "en": "Hot Dry Noodles with Beef & Roujiamo"
+      }
+    },
+    "organization_id": "INST-221",
+    "group": [
+      "official"
+    ],
+    "location": "A36"
+  },
+  {
+    "id": "Team036",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "UESTC_我的思路无懈可击",
+        "en": "UESTC_shuki"
+      }
+    },
+    "organization_id": "INST-180",
+    "group": [
+      "official"
+    ],
+    "location": "A37"
+  },
+  {
+    "id": "Team037",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "一马当先",
+        "en": "NULL"
+      }
+    },
+    "organization_id": "INST-087",
+    "group": [
+      "official"
+    ],
+    "location": "A38"
+  },
+  {
+    "id": "Team038",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "我的青春算竞物语果然有问题",
+        "en": "My Teen Algorithm Comp SNAFU"
+      }
+    },
+    "organization_id": "INST-050",
+    "group": [
+      "official"
+    ],
+    "location": "A39"
+  },
+  {
+    "id": "Team039",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "醉星河",
+        "en": "Drunken Starlight"
+      }
+    },
+    "organization_id": "INST-078",
+    "group": [
+      "official"
+    ],
+    "location": "A40"
+  },
+  {
+    "id": "Team040",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "richdown.oi",
+        "en": "richdown.oi"
+      }
+    },
+    "organization_id": "INST-026",
+    "group": [
+      "official"
+    ],
+    "location": "A41"
+  },
+  {
+    "id": "Team041",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "good team name,plz",
+        "en": "good team name,plz"
+      }
+    },
+    "organization_id": "INST-066",
+    "group": [
+      "official"
+    ],
+    "location": "A42"
+  },
+  {
+    "id": "Team042",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "津辉恋曲三重奏",
+        "en": "TJU Loveriche"
+      }
+    },
+    "organization_id": "INST-092",
+    "group": [
+      "official"
+    ],
+    "location": "B01"
+  },
+  {
+    "id": "Team043",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "What do you do when an ACMer who got a big fat zero can only meow?",
+        "en": "What do you do when an ACMer who got a big fat zero can only meow?"
+      }
+    },
+    "organization_id": "INST-133",
+    "group": [
+      "official"
+    ],
+    "location": "B02"
+  },
+  {
+    "id": "Team044",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Should I Play Too",
+        "en": "Should I Play Too"
+      }
+    },
+    "organization_id": "INST-141",
+    "group": [
+      "official"
+    ],
+    "location": "B03"
+  },
+  {
+    "id": "Team045",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "奇特山羊",
+        "en": "G.O.A.T."
+      }
+    },
+    "organization_id": "INST-075",
+    "group": [
+      "official"
+    ],
+    "location": "B04"
+  },
+  {
+    "id": "Team046",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "前湖曼巴",
+        "en": "Mambas in Qianhu"
+      }
+    },
+    "organization_id": "INST-070",
+    "group": [
+      "official"
+    ],
+    "location": "B05"
+  },
+  {
+    "id": "Team047",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "AC不要停",
+        "en": "while(true){AC++}"
+      }
+    },
+    "organization_id": "INST-016",
+    "group": [
+      "official"
+    ],
+    "location": "B06"
+  },
+  {
+    "id": "Team048",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "***",
+        "en": "***"
+      }
+    },
+    "organization_id": "INST-198",
+    "group": [
+      "official"
+    ],
+    "location": "B07"
+  },
+  {
+    "id": "Team049",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "miao~",
+        "en": "miao~"
+      }
+    },
+    "organization_id": "INST-160",
+    "group": [
+      "official"
+    ],
+    "location": "B08"
+  },
+  {
+    "id": "Team050",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "这题不会，d一下",
+        "en": "BrainEmpty"
+      }
+    },
+    "organization_id": "INST-033",
+    "group": [
+      "official"
+    ],
+    "location": "B09"
+  },
+  {
+    "id": "Team051",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "UPC2025",
+        "en": "UPC2025"
+      }
+    },
+    "organization_id": "INST-025",
+    "group": [
+      "official"
+    ],
+    "location": "B10"
+  },
+  {
+    "id": "Team052",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "auto ac  ^_^",
+        "en": "auto ac  ^_^"
+      }
+    },
+    "organization_id": "INST-097",
+    "group": [
+      "official"
+    ],
+    "location": "B11"
+  },
+  {
+    "id": "Team053",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Guillemet",
+        "en": "Guillemet"
+      }
+    },
+    "organization_id": "INST-069",
+    "group": [
+      "official"
+    ],
+    "location": "B12"
+  },
+  {
+    "id": "Team054",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "一个名额三年功，ACM一场空！",
+        "en": "Jia Hao"
+      }
+    },
+    "organization_id": "INST-147",
+    "group": [
+      "official"
+    ],
+    "location": "B13"
+  },
+  {
+    "id": "Team055",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "君不见高堂评测悲全WA",
+        "en": "The review was all AC"
+      }
+    },
+    "organization_id": "INST-176",
+    "group": [
+      "official"
+    ],
+    "location": "B14"
+  },
+  {
+    "id": "Team056",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "树下奶龙",
+        "en": "Nailong Under The Tree"
+      }
+    },
+    "organization_id": "INST-129",
+    "group": [
+      "official"
+    ],
+    "location": "B15"
+  },
+  {
+    "id": "Team057",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "When Ruina Rmake Release?",
+        "en": "When Ruina Rmake Release?"
+      }
+    },
+    "organization_id": "INST-126",
+    "group": [
+      "official"
+    ],
+    "location": "B16"
+  },
+  {
+    "id": "Team058",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Meet Chance Gain Glory",
+        "en": "Meet Chance Gain Glory"
+      }
+    },
+    "organization_id": "INST-118",
+    "group": [
+      "official"
+    ],
+    "location": "B17"
+  },
+  {
+    "id": "Team059",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "百事狗",
+        "en": "Pepsi_Dog"
+      }
+    },
+    "organization_id": "INST-043",
+    "group": [
+      "official"
+    ],
+    "location": "B18"
+  },
+  {
+    "id": "Team060",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Only Red",
+        "en": "Only Red"
+      }
+    },
+    "organization_id": "INST-149",
+    "group": [
+      "official"
+    ],
+    "location": "B19"
+  },
+  {
+    "id": "Team061",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "obliviate",
+        "en": "obliviate"
+      }
+    },
+    "organization_id": "INST-067",
+    "group": [
+      "official"
+    ],
+    "location": "B20"
+  },
+  {
+    "id": "Team062",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "WA自动机",
+        "en": "Wrong-Answer automation"
+      }
+    },
+    "organization_id": "INST-093",
+    "group": [
+      "official"
+    ],
+    "location": "B21"
+  },
+  {
+    "id": "Team063",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Agate",
+        "en": "Agate"
+      }
+    },
+    "organization_id": "INST-170",
+    "group": [
+      "official"
+    ],
+    "location": "B22"
+  },
+  {
+    "id": "Team064",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "西湖long警",
+        "en": "Longlong Warning"
+      }
+    },
+    "organization_id": "INST-214",
+    "group": [
+      "official"
+    ],
+    "location": "B23"
+  },
+  {
+    "id": "Team065",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "朱東後援會",
+        "en": "Pig East Fan Club"
+      }
+    },
+    "organization_id": "INST-234",
+    "group": [
+      "official"
+    ],
+    "location": "B24"
+  },
+  {
+    "id": "Team066",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Barbarian Invasion",
+        "en": "Barbarian Invasion"
+      }
+    },
+    "organization_id": "INST-225",
+    "group": [
+      "official"
+    ],
+    "location": "B25"
+  },
+  {
+    "id": "Team067",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "SWU-PC",
+        "en": "SWU-PC"
+      }
+    },
+    "organization_id": "INST-195",
+    "group": [
+      "official"
+    ],
+    "location": "B26"
+  },
+  {
+    "id": "Team068",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "魔仙堡",
+        "en": "byte witch"
+      }
+    },
+    "organization_id": "INST-228",
+    "group": [
+      "official"
+    ],
+    "location": "B27"
+  },
+  {
+    "id": "Team069",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Rocket Undefeated",
+        "en": "Rocket Undefeated"
+      }
+    },
+    "organization_id": "INST-144",
+    "group": [
+      "official"
+    ],
+    "location": "B28"
+  },
+  {
+    "id": "Team070",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "仍存一线生机于是发动最後攻勢",
+        "en": "Use That Passion For Our Final Assault"
+      }
+    },
+    "organization_id": "INST-080",
+    "group": [
+      "official"
+    ],
+    "location": "B29"
+  },
+  {
+    "id": "Team071",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "晚安玛卡巴卡",
+        "en": "Night, Makka Pakka"
+      }
+    },
+    "organization_id": "INST-028",
+    "group": [
+      "official"
+    ],
+    "location": "B30"
+  },
+  {
+    "id": "Team072",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "福音摇滚",
+        "en": "Gospel_rock"
+      }
+    },
+    "organization_id": "INST-014",
+    "group": [
+      "official"
+    ],
+    "location": "B31"
+  },
+  {
+    "id": "Team073",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "冰冷鼠鼠",
+        "en": "Coldy Mouse"
+      }
+    },
+    "organization_id": "INST-117",
+    "group": [
+      "official"
+    ],
+    "location": "B32"
+  },
+  {
+    "id": "Team074",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "不对也队",
+        "en": "WA XOR WC = AC"
+      }
+    },
+    "organization_id": "INST-022",
+    "group": [
+      "official"
+    ],
+    "location": "B33"
+  },
+  {
+    "id": "Team075",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "哦齁齁齁",
+        "en": "Ohhh"
+      }
+    },
+    "organization_id": "INST-159",
+    "group": [
+      "official"
+    ],
+    "location": "B34"
+  },
+  {
+    "id": "Team076",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "(un)retired",
+        "en": "(un)retired"
+      }
+    },
+    "organization_id": "INST-235",
+    "group": [
+      "official"
+    ],
+    "location": "B35"
+  },
+  {
+    "id": "Team077",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "My Computer",
+        "en": "My Computer"
+      }
+    },
+    "organization_id": "INST-099",
+    "group": [
+      "official"
+    ],
+    "location": "B36"
+  },
+  {
+    "id": "Team078",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Healthy Organic Veggies Hold W for Creative AC",
+        "en": "Healthy Organic Veggies Hold W for Creative AC"
+      }
+    },
+    "organization_id": "INST-095",
+    "group": [
+      "official"
+    ],
+    "location": "B37"
+  },
+  {
+    "id": "Team079",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Xaleid scopiX RE:MASTER 理論值",
+        "en": "Xaleid scopiX RE:MASTER 101.0000%"
+      }
+    },
+    "organization_id": "INST-211",
+    "group": [
+      "official"
+    ],
+    "location": "B38"
+  },
+  {
+    "id": "Team080",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "峰城大学算法竞赛同好会",
+        "en": "Hojo University Programming Contest Club"
+      }
+    },
+    "organization_id": "INST-162",
+    "group": [
+      "official"
+    ],
+    "location": "B39"
+  },
+  {
+    "id": "Team081",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Mon3tr",
+        "en": "Mon3tr"
+      }
+    },
+    "organization_id": "INST-128",
+    "group": [
+      "official"
+    ],
+    "location": "B40"
+  },
+  {
+    "id": "Team082",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Three Wrong Answerers Hiding in the Lab",
+        "en": "Three Wrong Answerers Hiding in the Lab"
+      }
+    },
+    "organization_id": "INST-150",
+    "group": [
+      "official"
+    ],
+    "location": "B41"
+  },
+  {
+    "id": "Team083",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "惊觉往事历历历历已经年",
+        "en": "Ephemeral Eternity: Fleeting"
+      }
+    },
+    "organization_id": "INST-167",
+    "group": [
+      "official"
+    ],
+    "location": "B42"
+  },
+  {
+    "id": "Team084",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "想想双一流该怎么做",
+        "en": "Think about how Double First-Class universities would respond"
+      }
+    },
+    "organization_id": "INST-155",
+    "group": [
+      "official"
+    ],
+    "location": "B43"
+  },
+  {
+    "id": "Team085",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "今年秋招怎么这么难",
+        "en": "ACM is a scam"
+      }
+    },
+    "organization_id": "INST-187",
+    "group": [
+      "official"
+    ],
+    "location": "B44"
+  },
+  {
+    "id": "Team086",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "DAYDAYhappy",
+        "en": "DAYDAYhappy"
+      }
+    },
+    "organization_id": "INST-003",
+    "group": [
+      "official"
+    ],
+    "location": "B45"
+  },
+  {
+    "id": "Team087",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "摇椅和棉花娃娃",
+        "en": "Homura with Madoka"
+      }
+    },
+    "organization_id": "INST-088",
+    "group": [
+      "official"
+    ],
+    "location": "B46"
+  },
+  {
+    "id": "Team088",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "秘术「快速傅里叶变换」",
+        "en": "Secret Art 「FFT」"
+      }
+    },
+    "organization_id": "INST-081",
+    "group": [
+      "official"
+    ],
+    "location": "B47"
+  },
+  {
+    "id": "Team089",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "中山大学-[二阶堂希罗-又UB了]",
+        "en": "SYSU_No More UB"
+      }
+    },
+    "organization_id": "INST-031",
+    "group": [
+      "official"
+    ],
+    "location": "B48"
+  },
+  {
+    "id": "Team090",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "家园火锅点特辣",
+        "en": "hotpot.chili++"
+      }
+    },
+    "organization_id": "INST-041",
+    "group": [
+      "official"
+    ],
+    "location": "C01"
+  },
+  {
+    "id": "Team091",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "东北大学_到达胜利前无法回头",
+        "en": "NEU_while(!AC)"
+      }
+    },
+    "organization_id": "INST-001",
+    "group": [
+      "official"
+    ],
+    "location": "C02"
+  },
+  {
+    "id": "Team092",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "清华北大钢老三",
+        "en": "THUPKUSTB"
+      }
+    },
+    "organization_id": "INST-048",
+    "group": [
+      "official"
+    ],
+    "location": "C03"
+  },
+  {
+    "id": "Team093",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "别催了在调了",
+        "en": "theUnsolved"
+      }
+    },
+    "organization_id": "INST-042",
+    "group": [
+      "official"
+    ],
+    "location": "C04"
+  },
+  {
+    "id": "Team094",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "bloom into you",
+        "en": "bloom into you"
+      }
+    },
+    "organization_id": "INST-068",
+    "group": [
+      "official"
+    ],
+    "location": "C05"
+  },
+  {
+    "id": "Team095",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "终将成为你",
+        "en": "Bloom Into You"
+      }
+    },
+    "organization_id": "INST-152",
+    "group": [
+      "official"
+    ],
+    "location": "C06"
+  },
+  {
+    "id": "Team096",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "我把整个IOI都删掉了",
+        "en": "I AK IOI"
+      }
+    },
+    "organization_id": "INST-154",
+    "group": [
+      "official"
+    ],
+    "location": "C07"
+  },
+  {
+    "id": "Team097",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "任什么时候来",
+        "en": "When Ren Here"
+      }
+    },
+    "organization_id": "INST-088",
+    "group": [
+      "official"
+    ],
+    "location": "C08"
+  },
+  {
+    "id": "Team098",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "黎卡今天吃什么",
+        "en": "What will Whalica eat today"
+      }
+    },
+    "organization_id": "INST-019",
+    "group": [
+      "official"
+    ],
+    "location": "C09"
+  },
+  {
+    "id": "Team099",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "猫猫虫小队",
+        "en": "Team Capoo"
+      }
+    },
+    "organization_id": "INST-090",
+    "group": [
+      "official"
+    ],
+    "location": "C10"
+  },
+  {
+    "id": "Team100",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "QwQ-orz",
+        "en": "QwQ-orz"
+      }
+    },
+    "organization_id": "INST-040",
+    "group": [
+      "official"
+    ],
+    "location": "C11"
+  },
+  {
+    "id": "Team101",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "菲比啾比",
+        "en": "Feiba Choubi"
+      }
+    },
+    "organization_id": "INST-011",
+    "group": [
+      "official"
+    ],
+    "location": "C12"
+  },
+  {
+    "id": "Team102",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "锦筝叹",
+        "en": "Zither Chant"
+      }
+    },
+    "organization_id": "INST-201",
+    "group": [
+      "official"
+    ],
+    "location": "C13"
+  },
+  {
+    "id": "Team103",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "落花辞树",
+        "en": "Let it go"
+      }
+    },
+    "organization_id": "INST-056",
+    "group": [
+      "official"
+    ],
+    "location": "C14"
+  },
+  {
+    "id": "Team104",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "ournote",
+        "en": "ournote"
+      }
+    },
+    "organization_id": "INST-148",
+    "group": [
+      "official"
+    ],
+    "location": "C15"
+  },
+  {
+    "id": "Team105",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "教练我想拿牌子",
+        "en": "Coach, I want to win a medal"
+      }
+    },
+    "organization_id": "INST-004",
+    "group": [
+      "official"
+    ],
+    "location": "C16"
+  },
+  {
+    "id": "Team106",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "飞鸿踏雪",
+        "en": "To be or not to be"
+      }
+    },
+    "organization_id": "INST-078",
+    "group": [
+      "official"
+    ],
+    "location": "C17"
+  },
+  {
+    "id": "Team107",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "沉默懦弱错过成长生命幸福无垠无尽无央",
+        "en": "A loser with infinite happiness"
+      }
+    },
+    "organization_id": "INST-059",
+    "group": [
+      "official"
+    ],
+    "location": "C18"
+  },
+  {
+    "id": "Team108",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "阿卡纳伊甸",
+        "en": "Arcana Eden"
+      }
+    },
+    "organization_id": "INST-028",
+    "group": [
+      "official"
+    ],
+    "location": "C19"
+  },
+  {
+    "id": "Team109",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "你们都调不队",
+        "en": "make zzu great again"
+      }
+    },
+    "organization_id": "INST-216",
+    "group": [
+      "official"
+    ],
+    "location": "C20"
+  },
+  {
+    "id": "Team110",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "ZJUT4",
+        "en": "ZJUT4"
+      }
+    },
+    "organization_id": "INST-155",
+    "group": [
+      "official"
+    ],
+    "location": "C21"
+  },
+  {
+    "id": "Team111",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "凌空摘星",
+        "en": "Reach for the Stars"
+      }
+    },
+    "organization_id": "INST-173",
+    "group": [
+      "official"
+    ],
+    "location": "C22"
+  },
+  {
+    "id": "Team112",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "The strongest born AC",
+        "en": "The strongest born AC"
+      }
+    },
+    "organization_id": "INST-003",
+    "group": [
+      "official"
+    ],
+    "location": "C23"
+  },
+  {
+    "id": "Team113",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Hard Bronze Team Loves Silver and Gold",
+        "en": "Hard Bronze Team Loves Silver and Gold"
+      }
+    },
+    "organization_id": "INST-073",
+    "group": [
+      "official"
+    ],
+    "location": "C24"
+  },
+  {
+    "id": "Team114",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "时光时光曼些巴",
+        "en": "Time Limit Mamba"
+      }
+    },
+    "organization_id": "INST-083",
+    "group": [
+      "official"
+    ],
+    "location": "C25"
+  },
+  {
+    "id": "Team115",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "这是一个很重要的问题",
+        "en": "Very Important Problem"
+      }
+    },
+    "organization_id": "INST-127",
+    "group": [
+      "official"
+    ],
+    "location": "C26"
+  },
+  {
+    "id": "Team116",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "WA的一声哭出来",
+        "en": "WA Weeps"
+      }
+    },
+    "organization_id": "INST-153",
+    "group": [
+      "official"
+    ],
+    "location": "C27"
+  },
+  {
+    "id": "Team117",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "爱抖露码斯塔",
+        "en": "idol code master"
+      }
+    },
+    "organization_id": "INST-129",
+    "group": [
+      "official"
+    ],
+    "location": "C28"
+  },
+  {
+    "id": "Team118",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "走地鸡的幻想乡",
+        "en": "SCUTChickenGensokyo"
+      }
+    },
+    "organization_id": "INST-060",
+    "group": [
+      "official"
+    ],
+    "location": "C29"
+  },
+  {
+    "id": "Team119",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "再AC14题就好",
+        "en": "AC AC big shout"
+      }
+    },
+    "organization_id": "INST-024",
+    "group": [
+      "official"
+    ],
+    "location": "C30"
+  },
+  {
+    "id": "Team120",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "罗德岛驻基沃托斯冒险家协会",
+        "en": "RhodesIslandAdventurers'GuildInKivotos"
+      }
+    },
+    "organization_id": "INST-049",
+    "group": [
+      "official"
+    ],
+    "location": "C31"
+  },
+  {
+    "id": "Team121",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "AC自动机不会自动AC",
+        "en": "AC Automaton won't auto‑AC"
+      }
+    },
+    "organization_id": "INST-018",
+    "group": [
+      "official"
+    ],
+    "location": "C32"
+  },
+  {
+    "id": "Team122",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Older Ginger Is Spicier",
+        "en": "Older Ginger Is Spicier"
+      }
+    },
+    "organization_id": "INST-157",
+    "group": [
+      "official"
+    ],
+    "location": "C33"
+  },
+  {
+    "id": "Team123",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "做AK梦",
+        "en": "AK dreams"
+      }
+    },
+    "organization_id": "INST-064",
+    "group": [
+      "official"
+    ],
+    "location": "C34"
+  },
+  {
+    "id": "Team124",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "凭什么遗憾留给我",
+        "en": "Echoes of Unjust Regrets"
+      }
+    },
+    "organization_id": "INST-055",
+    "group": [
+      "official"
+    ],
+    "location": "C35"
+  },
+  {
+    "id": "Team125",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "如果转身后退就能回到那个夏天",
+        "en": "Summer Is Just Behind"
+      }
+    },
+    "organization_id": "INST-091",
+    "group": [
+      "official"
+    ],
+    "location": "C36"
+  },
+  {
+    "id": "Team126",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "木叶三忍",
+        "en": "nnninja"
+      }
+    },
+    "organization_id": "INST-046",
+    "group": [
+      "official"
+    ],
+    "location": "C37"
+  },
+  {
+    "id": "Team127",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "巴巴博弈论",
+        "en": "BBBoy theory"
+      }
+    },
+    "organization_id": "INST-123",
+    "group": [
+      "official"
+    ],
+    "location": "C38"
+  },
+  {
+    "id": "Team128",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "因为教练催队名导致全员困难选择症",
+        "en": "The Coach-Rushed Name"
+      }
+    },
+    "organization_id": "INST-124",
+    "group": [
+      "official"
+    ],
+    "location": "C39"
+  },
+  {
+    "id": "Team129",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "来自瓦纳海姆",
+        "en": "From Vanaheim"
+      }
+    },
+    "organization_id": "INST-047",
+    "group": [
+      "official"
+    ],
+    "location": "C40"
+  },
+  {
+    "id": "Team130",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "四氧化三铁",
+        "en": "Fe3O4"
+      }
+    },
+    "organization_id": "INST-139",
+    "group": [
+      "official"
+    ],
+    "location": "C41"
+  },
+  {
+    "id": "Team131",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Still Fighting",
+        "en": "Still Fighting"
+      }
+    },
+    "organization_id": "INST-136",
+    "group": [
+      "official"
+    ],
+    "location": "C42"
+  },
+  {
+    "id": "Team132",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "world.execute(me);",
+        "en": "world.execute(me);"
+      }
+    },
+    "organization_id": "INST-214",
+    "group": [
+      "official"
+    ],
+    "location": "C43"
+  },
+  {
+    "id": "Team133",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "挂科梭哈学长和旮旯高手加上原神手子将会摧毁算法竞赛",
+        "en": "Fail & All-in Genshin Galagame Ruin"
+      }
+    },
+    "organization_id": "INST-162",
+    "group": [
+      "official"
+    ],
+    "location": "C44"
+  },
+  {
+    "id": "Team134",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Aim Climb",
+        "en": "Aim Climb"
+      }
+    },
+    "organization_id": "INST-209",
+    "group": [
+      "official"
+    ],
+    "location": "C45"
+  },
+  {
+    "id": "Team135",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "旮旯给木领域大蛇",
+        "en": "God of Galgame"
+      }
+    },
+    "organization_id": "INST-137",
+    "group": [
+      "official"
+    ],
+    "location": "C46"
+  },
+  {
+    "id": "Team136",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "老师我送的是挂历",
+        "en": "Teacher, I gave you a wall calendar."
+      }
+    },
+    "organization_id": "INST-131",
+    "group": [
+      "official"
+    ],
+    "location": "C47"
+  },
+  {
+    "id": "Team137",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "夜航星",
+        "en": "YEHANGXING"
+      }
+    },
+    "organization_id": "INST-102",
+    "group": [
+      "official"
+    ],
+    "location": "C48"
+  },
+  {
+    "id": "Team138",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "2026杭电7队",
+        "en": "2026HDU-T07"
+      }
+    },
+    "organization_id": "INST-125",
+    "group": [
+      "official"
+    ],
+    "location": "C49"
+  },
+  {
+    "id": "Team139",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "triple pigs",
+        "en": "triple pigs"
+      }
+    },
+    "organization_id": "INST-063",
+    "group": [
+      "official"
+    ],
+    "location": "C50"
+  },
+  {
+    "id": "Team140",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "cat wants cat get",
+        "en": "cat wants cat get"
+      }
+    },
+    "organization_id": "INST-094",
+    "group": [
+      "official",
+      "girl"
+    ],
+    "location": "C51"
+  },
+  {
+    "id": "Team141",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "同余方程组",
+        "en": "GDUT_CRT Crew"
+      }
+    },
+    "organization_id": "INST-108",
+    "group": [
+      "official"
+    ],
+    "location": "C52"
+  },
+  {
+    "id": "Team142",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "CSM",
+        "en": "CSM"
+      }
+    },
+    "organization_id": "INST-012",
+    "group": [
+      "official"
+    ],
+    "location": "C53"
+  },
+  {
+    "id": "Team143",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "拿到属于我们的一切",
+        "en": "Get everything that belongs to us"
+      }
+    },
+    "organization_id": "INST-106",
+    "group": [
+      "official"
+    ],
+    "location": "C54"
+  },
+  {
+    "id": "Team144",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "击中月亮",
+        "en": "hit the moon"
+      }
+    },
+    "organization_id": "INST-167",
+    "group": [
+      "official"
+    ],
+    "location": "C55"
+  },
+  {
+    "id": "Team145",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "渡鸦号",
+        "en": "SKD 32450"
+      }
+    },
+    "organization_id": "INST-104",
+    "group": [
+      "official"
+    ],
+    "location": "C56"
+  },
+  {
+    "id": "Team146",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "啊对对队",
+        "en": "aVVV"
+      }
+    },
+    "organization_id": "INST-029",
+    "group": [
+      "official"
+    ],
+    "location": "C57"
+  },
+  {
+    "id": "Team147",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Why Am I Sitting Here",
+        "en": "Why Am I Sitting Here"
+      }
+    },
+    "organization_id": "INST-051",
+    "group": [
+      "official"
+    ],
+    "location": "C58"
+  },
+  {
+    "id": "Team148",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "西安邀请铁能否在区域赛找回一切",
+        "en": "Can the Xi’an Invitational iron be redeemed at regionals"
+      }
+    },
+    "organization_id": "INST-107",
+    "group": [
+      "official"
+    ],
+    "location": "C59"
+  },
+  {
+    "id": "Team149",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Eternal stars of day and night rest at every window, forever and always",
+        "en": "Eternal stars of day and night rest at every window, forever and always"
+      }
+    },
+    "organization_id": "INST-226",
+    "group": [
+      "official",
+      "girl"
+    ],
+    "location": "C60"
+  },
+  {
+    "id": "Team150",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "AAA罚时批发",
+        "en": "AAAPenalitySupply"
+      }
+    },
+    "organization_id": "INST-011",
+    "group": [
+      "official"
+    ],
+    "location": "D01"
+  },
+  {
+    "id": "Team151",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "CQU Flames",
+        "en": "CQU Flames"
+      }
+    },
+    "organization_id": "INST-218",
+    "group": [
+      "official"
+    ],
+    "location": "D02"
+  },
+  {
+    "id": "Team152",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Wheat Waits For Me",
+        "en": "Wheat Waits For Me"
+      }
+    },
+    "organization_id": "INST-143",
+    "group": [
+      "official"
+    ],
+    "location": "D03"
+  },
+  {
+    "id": "Team153",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "猫没有通过图灵测试",
+        "en": "Cat cannot pass turing test"
+      }
+    },
+    "organization_id": "INST-154",
+    "group": [
+      "official"
+    ],
+    "location": "D04"
+  },
+  {
+    "id": "Team154",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "hfutxc001",
+        "en": "hfutxc001"
+      }
+    },
+    "organization_id": "INST-077",
+    "group": [
+      "official"
+    ],
+    "location": "D05"
+  },
+  {
+    "id": "Team155",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "很弱的低手",
+        "en": "Legendary Grand Newbie"
+      }
+    },
+    "organization_id": "INST-127",
+    "group": [
+      "official"
+    ],
+    "location": "D06"
+  },
+  {
+    "id": "Team156",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "以后",
+        "en": "After Us"
+      }
+    },
+    "organization_id": "INST-068",
+    "group": [
+      "official"
+    ],
+    "location": "D07"
+  },
+  {
+    "id": "Team157",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "HanokoQWQ",
+        "en": "HanokoQWQ"
+      }
+    },
+    "organization_id": "INST-040",
+    "group": [
+      "official"
+    ],
+    "location": "D08"
+  },
+  {
+    "id": "Team158",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "派蒙",
+        "en": "Paimon"
+      }
+    },
+    "organization_id": "INST-053",
+    "group": [
+      "official"
+    ],
+    "location": "D09"
+  },
+  {
+    "id": "Team159",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "just mine",
+        "en": "just mine"
+      }
+    },
+    "organization_id": "INST-026",
+    "group": [
+      "official"
+    ],
+    "location": "D10"
+  },
+  {
+    "id": "Team160",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "中山大学-奶人捧腹大校新生一队",
+        "en": "SYSU_NaiLongHaHaHa"
+      }
+    },
+    "organization_id": "INST-031",
+    "group": [
+      "official"
+    ],
+    "location": "D11"
+  },
+  {
+    "id": "Team161",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Rebirth in 32 when friends forever 16",
+        "en": "Rebirth in 32 when friends forever 16"
+      }
+    },
+    "organization_id": "INST-056",
+    "group": [
+      "official"
+    ],
+    "location": "D12"
+  },
+  {
+    "id": "Team162",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "在子渊桥邂逅麻衣学姐是否搞错了什么",
+        "en": "Did I get something wrong about meeting Senior Ma Yi at Ziyuan Bridge?"
+      }
+    },
+    "organization_id": "INST-124",
+    "group": [
+      "official"
+    ],
+    "location": "D13"
+  },
+  {
+    "id": "Team163",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "SDCQ",
+        "en": "SDCQ"
+      }
+    },
+    "organization_id": "INST-005",
+    "group": [
+      "official"
+    ],
+    "location": "D14"
+  },
+  {
+    "id": "Team164",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "旮旯小屋",
+        "en": "Galhome"
+      }
+    },
+    "organization_id": "INST-052",
+    "group": [
+      "official"
+    ],
+    "location": "D15"
+  },
+  {
+    "id": "Team165",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "wsz",
+        "en": "wsz"
+      }
+    },
+    "organization_id": "INST-130",
+    "group": [
+      "official"
+    ],
+    "location": "D16"
+  },
+  {
+    "id": "Team166",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "WHiZard",
+        "en": "WHiZard"
+      }
+    },
+    "organization_id": "INST-067",
+    "group": [
+      "official"
+    ],
+    "location": "D17"
+  },
+  {
+    "id": "Team167",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "遥不可及",
+        "en": "Distant Dream"
+      }
+    },
+    "organization_id": "INST-167",
+    "group": [
+      "official"
+    ],
+    "location": "D18"
+  },
+  {
+    "id": "Team168",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "哥布林之家",
+        "en": "goblin house"
+      }
+    },
+    "organization_id": "INST-110",
+    "group": [
+      "official"
+    ],
+    "location": "D19"
+  },
+  {
+    "id": "Team169",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "无限喵喵",
+        "en": "Infinite Meows"
+      }
+    },
+    "organization_id": "INST-119",
+    "group": [
+      "official"
+    ],
+    "location": "D20"
+  },
+  {
+    "id": "Team170",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "窝这一生如绿豆冰",
+        "en": "Kono Subarashii Green Bean Ice ni Shukufuku o!"
+      }
+    },
+    "organization_id": "INST-156",
+    "group": [
+      "official"
+    ],
+    "location": "D21"
+  },
+  {
+    "id": "Team171",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Defy doom while alive",
+        "en": "Defy doom while alive"
+      }
+    },
+    "organization_id": "INST-157",
+    "group": [
+      "official"
+    ],
+    "location": "D22"
+  },
+  {
+    "id": "Team172",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "打铁很爽",
+        "en": "Like Fe"
+      }
+    },
+    "organization_id": "INST-037",
+    "group": [
+      "official"
+    ],
+    "location": "D23"
+  },
+  {
+    "id": "Team173",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "UESTC_且到夜之城",
+        "en": "UESTC_To_The_Night_City"
+      }
+    },
+    "organization_id": "INST-180",
+    "group": [
+      "official"
+    ],
+    "location": "D24"
+  },
+  {
+    "id": "Team174",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "EDG",
+        "en": "EDG"
+      }
+    },
+    "organization_id": "INST-223",
+    "group": [
+      "official"
+    ],
+    "location": "D25"
+  },
+  {
+    "id": "Team175",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "［中國翻譯］（C2026）超時喵限",
+        "en": "Meow Limit Exceed"
+      }
+    },
+    "organization_id": "INST-089",
+    "group": [
+      "official"
+    ],
+    "location": "D26"
+  },
+  {
+    "id": "Team176",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "想做奶龙不容易",
+        "en": "Tough being Nai-Long"
+      }
+    },
+    "organization_id": "INST-062",
+    "group": [
+      "official"
+    ],
+    "location": "D27"
+  },
+  {
+    "id": "Team177",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "我有罪",
+        "en": "forgive me"
+      }
+    },
+    "organization_id": "INST-197",
+    "group": [
+      "official"
+    ],
+    "location": "D28"
+  },
+  {
+    "id": "Team178",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "zipmo",
+        "en": "zipmo"
+      }
+    },
+    "organization_id": "INST-161",
+    "group": [
+      "official"
+    ],
+    "location": "D29"
+  },
+  {
+    "id": "Team179",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "千鳥",
+        "en": "Chidori"
+      }
+    },
+    "organization_id": "INST-183",
+    "group": [
+      "official"
+    ],
+    "location": "D30"
+  },
+  {
+    "id": "Team180",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "又去打ICPC了，但她还会回来吗？",
+        "en": "ICPC·Awaiting Her"
+      }
+    },
+    "organization_id": "INST-145",
+    "group": [
+      "official"
+    ],
+    "location": "D31"
+  },
+  {
+    "id": "Team181",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "某科学的ACM掌握",
+        "en": "Algorithm Out"
+      }
+    },
+    "organization_id": "INST-028",
+    "group": [
+      "official"
+    ],
+    "location": "D32"
+  },
+  {
+    "id": "Team182",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "过往的画面全都是我不对",
+        "en": "The penalties were all on me"
+      }
+    },
+    "organization_id": "INST-201",
+    "group": [
+      "official"
+    ],
+    "location": "D33"
+  },
+  {
+    "id": "Team183",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "循序渐进",
+        "en": "GDUT_BitByBit"
+      }
+    },
+    "organization_id": "INST-108",
+    "group": [
+      "official"
+    ],
+    "location": "D34"
+  },
+  {
+    "id": "Team184",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Super laker king",
+        "en": "Super laker king"
+      }
+    },
+    "organization_id": "INST-003",
+    "group": [
+      "official"
+    ],
+    "location": "D35"
+  },
+  {
+    "id": "Team185",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "纪中坑u分部",
+        "en": "sysmss_hku"
+      }
+    },
+    "organization_id": "INST-235",
+    "group": [
+      "official"
+    ],
+    "location": "D36"
+  },
+  {
+    "id": "Team186",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "世中逢尔 雨中逢花",
+        "en": "blooms in rain"
+      }
+    },
+    "organization_id": "INST-220",
+    "group": [
+      "official"
+    ],
+    "location": "D37"
+  },
+  {
+    "id": "Team187",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "tmp",
+        "en": "tmp"
+      }
+    },
+    "organization_id": "INST-191",
+    "group": [
+      "official"
+    ],
+    "location": "D38"
+  },
+  {
+    "id": "Team188",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "我现在要做的事有三件：1喵2喵喵3喵喵喵",
+        "en": "meow meow meow"
+      }
+    },
+    "organization_id": "INST-006",
+    "group": [
+      "official"
+    ],
+    "location": "D39"
+  },
+  {
+    "id": "Team189",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "我当时睡得可香了",
+        "en": "0d000721"
+      }
+    },
+    "organization_id": "INST-096",
+    "group": [
+      "official"
+    ],
+    "location": "D40"
+  },
+  {
+    "id": "Team190",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "会赢的",
+        "en": "we will win"
+      }
+    },
+    "organization_id": "INST-172",
+    "group": [
+      "official"
+    ],
+    "location": "D41"
+  },
+  {
+    "id": "Team191",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "上面金牌号丢了换这个号",
+        "en": "Same for silver."
+      }
+    },
+    "organization_id": "INST-035",
+    "group": [
+      "official"
+    ],
+    "location": "D42"
+  },
+  {
+    "id": "Team192",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Flame Thieves",
+        "en": "Flame Thieves"
+      }
+    },
+    "organization_id": "INST-027",
+    "group": [
+      "official"
+    ],
+    "location": "D43"
+  },
+  {
+    "id": "Team193",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "迎风向前",
+        "en": "against the wind"
+      }
+    },
+    "organization_id": "INST-072",
+    "group": [
+      "official"
+    ],
+    "location": "D44"
+  },
+  {
+    "id": "Team194",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "gRey2b1Ack",
+        "en": "gRey2b1Ack"
+      }
+    },
+    "organization_id": "INST-150",
+    "group": [
+      "official"
+    ],
+    "location": "D45"
+  },
+  {
+    "id": "Team195",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "飘向北方",
+        "en": "Sailing North"
+      }
+    },
+    "organization_id": "INST-102",
+    "group": [
+      "official"
+    ],
+    "location": "D46"
+  },
+  {
+    "id": "Team196",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "是啊吃什么",
+        "en": "What to eat tonight"
+      }
+    },
+    "organization_id": "INST-088",
+    "group": [
+      "official"
+    ],
+    "location": "D47"
+  },
+  {
+    "id": "Team197",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Set & Tree",
+        "en": "Set & Tree"
+      }
+    },
+    "organization_id": "INST-237",
+    "group": [
+      "official"
+    ],
+    "location": "D48"
+  },
+  {
+    "id": "Team198",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "AC Maker",
+        "en": "AC Maker"
+      }
+    },
+    "organization_id": "INST-105",
+    "group": [
+      "official"
+    ],
+    "location": "D49"
+  },
+  {
+    "id": "Team199",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "The Adventures of Gugu Gaga",
+        "en": "The Adventures of Gugu Gaga"
+      }
+    },
+    "organization_id": "INST-115",
+    "group": [
+      "official"
+    ],
+    "location": "D50"
+  },
+  {
+    "id": "Team200",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "#include \"maimai.dx\"",
+        "en": "#include \"maimai.dx\""
+      }
+    },
+    "organization_id": "INST-165",
+    "group": [
+      "official"
+    ],
+    "location": "D51"
+  },
+  {
+    "id": "Team201",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Greedy Cat Head",
+        "en": "Greedy Cat Head"
+      }
+    },
+    "organization_id": "INST-066",
+    "group": [
+      "official"
+    ],
+    "location": "D52"
+  },
+  {
+    "id": "Team202",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "最后一发",
+        "en": "Last Submission"
+      }
+    },
+    "organization_id": "INST-090",
+    "group": [
+      "official"
+    ],
+    "location": "D53"
+  },
+  {
+    "id": "Team203",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Alba",
+        "en": "Alba"
+      }
+    },
+    "organization_id": "INST-002",
+    "group": [
+      "official"
+    ],
+    "location": "D54"
+  },
+  {
+    "id": "Team204",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "职业炼铜术士",
+        "en": "professional copper‑smelting warlock"
+      }
+    },
+    "organization_id": "INST-202",
+    "group": [
+      "official"
+    ],
+    "location": "D55"
+  },
+  {
+    "id": "Team205",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "这是一个正经的队名",
+        "en": "heiheihei"
+      }
+    },
+    "organization_id": "INST-147",
+    "group": [
+      "official"
+    ],
+    "location": "D56"
+  },
+  {
+    "id": "Team206",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "三核单线程",
+        "en": "3 Cores 1 Thread"
+      }
+    },
+    "organization_id": "INST-155",
+    "group": [
+      "official"
+    ],
+    "location": "D57"
+  },
+  {
+    "id": "Team207",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "2026杭电4队",
+        "en": "2026HDU-T04"
+      }
+    },
+    "organization_id": "INST-125",
+    "group": [
+      "official"
+    ],
+    "location": "D58"
+  },
+  {
+    "id": "Team208",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "路边大狗疯狂撕咬",
+        "en": "Wild Dog ferociously bite and tear"
+      }
+    },
+    "organization_id": "INST-083",
+    "group": [
+      "official"
+    ],
+    "location": "D59"
+  },
+  {
+    "id": "Team209",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "东北大学_花吹雪",
+        "en": "NEU_HanaFubuki"
+      }
+    },
+    "organization_id": "INST-001",
+    "group": [
+      "official"
+    ],
+    "location": "D60"
+  },
+  {
+    "id": "Team210",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "一只猪",
+        "en": "A pig"
+      }
+    },
+    "organization_id": "INST-041",
+    "group": [
+      "official"
+    ],
+    "location": "E01"
+  },
+  {
+    "id": "Team211",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "杨桃星球 V",
+        "en": "Starfruit Supernova V"
+      }
+    },
+    "organization_id": "INST-154",
+    "group": [
+      "official"
+    ],
+    "location": "E02"
+  },
+  {
+    "id": "Team212",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "三只企鹅",
+        "en": "GuGuGaGa"
+      }
+    },
+    "organization_id": "INST-050",
+    "group": [
+      "official"
+    ],
+    "location": "E03"
+  },
+  {
+    "id": "Team213",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "邪恶柚子鸡",
+        "en": "English name"
+      }
+    },
+    "organization_id": "INST-058",
+    "group": [
+      "official"
+    ],
+    "location": "E04"
+  },
+  {
+    "id": "Team214",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "共享大脑未连接",
+        "en": "SharedBrainOffline"
+      }
+    },
+    "organization_id": "INST-103",
+    "group": [
+      "official"
+    ],
+    "location": "E05"
+  },
+  {
+    "id": "Team215",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "最后一舞",
+        "en": "Burn Myself"
+      }
+    },
+    "organization_id": "INST-098",
+    "group": [
+      "official"
+    ],
+    "location": "E06"
+  },
+  {
+    "id": "Team216",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "不为人知的XCPC童谣",
+        "en": "Unknown XCPC"
+      }
+    },
+    "organization_id": "INST-201",
+    "group": [
+      "official"
+    ],
+    "location": "E07"
+  },
+  {
+    "id": "Team217",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "枫落潮声起",
+        "en": "Maples fall with the tide awakes"
+      }
+    },
+    "organization_id": "INST-022",
+    "group": [
+      "official"
+    ],
+    "location": "E08"
+  },
+  {
+    "id": "Team219",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Sylvan",
+        "en": "Sylvan"
+      }
+    },
+    "organization_id": "INST-013",
+    "group": [
+      "official"
+    ],
+    "location": "E10"
+  },
+  {
+    "id": "Team220",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "WA加CE等于AC",
+        "en": "WA plus CE equals AC"
+      }
+    },
+    "organization_id": "INST-068",
+    "group": [
+      "official"
+    ],
+    "location": "E11"
+  },
+  {
+    "id": "Team221",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "日上三竿，鱼水之欢，终获满滩，见着皆酸",
+        "en": "more eku"
+      }
+    },
+    "organization_id": "INST-132",
+    "group": [
+      "official"
+    ],
+    "location": "E12"
+  },
+  {
+    "id": "Team222",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "转人机",
+        "en": "non-human"
+      }
+    },
+    "organization_id": "INST-049",
+    "group": [
+      "official"
+    ],
+    "location": "E13"
+  },
+  {
+    "id": "Team223",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "UPC1145",
+        "en": "UPC1145"
+      }
+    },
+    "organization_id": "INST-025",
+    "group": [
+      "official"
+    ],
+    "location": "E14"
+  },
+  {
+    "id": "Team224",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Fractured Iridescence",
+        "en": "Fractured Iridescence"
+      }
+    },
+    "organization_id": "INST-220",
+    "group": [
+      "official"
+    ],
+    "location": "E15"
+  },
+  {
+    "id": "Team225",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "神秘",
+        "en": "Mystery"
+      }
+    },
+    "organization_id": "INST-146",
+    "group": [
+      "official"
+    ],
+    "location": "E16"
+  },
+  {
+    "id": "Team226",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "无足鸟",
+        "en": "martlet"
+      }
+    },
+    "organization_id": "INST-114",
+    "group": [
+      "official"
+    ],
+    "location": "E17"
+  },
+  {
+    "id": "Team227",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "happy ending",
+        "en": "happy ending"
+      }
+    },
+    "organization_id": "INST-144",
+    "group": [
+      "official"
+    ],
+    "location": "E18"
+  },
+  {
+    "id": "Team228",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "218105633,HEX",
+        "en": "218105633,HEX"
+      }
+    },
+    "organization_id": "INST-063",
+    "group": [
+      "official"
+    ],
+    "location": "E19"
+  },
+  {
+    "id": "Team229",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "可乐狗",
+        "en": "Cola_Dog"
+      }
+    },
+    "organization_id": "INST-043",
+    "group": [
+      "official"
+    ],
+    "location": "E20"
+  },
+  {
+    "id": "Team230",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "砂糖橘看日出",
+        "en": "Citrus Greeting the Dawn"
+      }
+    },
+    "organization_id": "INST-137",
+    "group": [
+      "official"
+    ],
+    "location": "E21"
+  },
+  {
+    "id": "Team231",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "今天必须取个队名",
+        "en": "Team name ddl today"
+      }
+    },
+    "organization_id": "INST-235",
+    "group": [
+      "official"
+    ],
+    "location": "E22"
+  },
+  {
+    "id": "Team233",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "东北大学_钻石百合",
+        "en": "NEU_diamond lily"
+      }
+    },
+    "organization_id": "INST-001",
+    "group": [
+      "official"
+    ],
+    "location": "E24"
+  },
+  {
+    "id": "Team234",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "一发就队",
+        "en": "Hit With Precision"
+      }
+    },
+    "organization_id": "INST-178",
+    "group": [
+      "official"
+    ],
+    "location": "E25"
+  },
+  {
+    "id": "Team235",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "赛时总有神秘优化",
+        "en": "sixsixsix!?ac?!"
+      }
+    },
+    "organization_id": "INST-181",
+    "group": [
+      "official"
+    ],
+    "location": "E26"
+  },
+  {
+    "id": "Team236",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "中山大学-真的菜队",
+        "en": "SYSU_Really vegetable"
+      }
+    },
+    "organization_id": "INST-031",
+    "group": [
+      "official"
+    ],
+    "location": "E27"
+  },
+  {
+    "id": "Team237",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "AAA土豆批发钢壳厂",
+        "en": "Useless System and Tech (GZ)"
+      }
+    },
+    "organization_id": "INST-238",
+    "group": [
+      "official"
+    ],
+    "location": "E28"
+  },
+  {
+    "id": "Team238",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "算法小区",
+        "en": "Algo Complexe"
+      }
+    },
+    "organization_id": "INST-219",
+    "group": [
+      "official"
+    ],
+    "location": "E29"
+  },
+  {
+    "id": "Team239",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "卧室奶龙",
+        "en": "WashRooM Nailoong"
+      }
+    },
+    "organization_id": "INST-171",
+    "group": [
+      "official"
+    ],
+    "location": "E30"
+  },
+  {
+    "id": "Team240",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "喝杯咖啡猪",
+        "en": "He Brew Coffee Pig"
+      }
+    },
+    "organization_id": "INST-020",
+    "group": [
+      "official"
+    ],
+    "location": "E31"
+  },
+  {
+    "id": "Team241",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Easy sleep",
+        "en": "Easy sleep"
+      }
+    },
+    "organization_id": "INST-217",
+    "group": [
+      "official"
+    ],
+    "location": "E32"
+  },
+  {
+    "id": "Team242",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "define int long long",
+        "en": "define int long long"
+      }
+    },
+    "organization_id": "INST-191",
+    "group": [
+      "official"
+    ],
+    "location": "E33"
+  },
+  {
+    "id": "Team243",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "UESTC_凹歪西_饭克拉布",
+        "en": "UESTC_lyc_fans_club"
+      }
+    },
+    "organization_id": "INST-180",
+    "group": [
+      "official"
+    ],
+    "location": "E34"
+  },
+  {
+    "id": "Team244",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Flawed_Jade",
+        "en": "Flawed_Jade"
+      }
+    },
+    "organization_id": "INST-138",
+    "group": [
+      "official"
+    ],
+    "location": "E35"
+  },
+  {
+    "id": "Team245",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "swollen kskbl",
+        "en": "swollen kskbl"
+      }
+    },
+    "organization_id": "INST-199",
+    "group": [
+      "official"
+    ],
+    "location": "E36"
+  },
+  {
+    "id": "Team246",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "AC or Delta Force",
+        "en": "AC or Delta Force"
+      }
+    },
+    "organization_id": "INST-100",
+    "group": [
+      "official"
+    ],
+    "location": "E37"
+  },
+  {
+    "id": "Team247",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "WE MADE IT",
+        "en": "WE MADE IT"
+      }
+    },
+    "organization_id": "INST-086",
+    "group": [
+      "official"
+    ],
+    "location": "E38"
+  },
+  {
+    "id": "Team248",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "不可视境界线",
+        "en": "Invisible Boundary"
+      }
+    },
+    "organization_id": "INST-014",
+    "group": [
+      "official"
+    ],
+    "location": "E39"
+  },
+  {
+    "id": "Team249",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "漆黑的噬龙者",
+        "en": "Black Dragon Eater"
+      }
+    },
+    "organization_id": "INST-196",
+    "group": [
+      "official"
+    ],
+    "location": "E40"
+  },
+  {
+    "id": "Team250",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Fashi-nashi AC-ari",
+        "en": "Fashi-nashi AC-ari"
+      }
+    },
+    "organization_id": "INST-054",
+    "group": [
+      "official"
+    ],
+    "location": "E41"
+  },
+  {
+    "id": "Team251",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "中国人能飞",
+        "en": "Chinese can fly (CCF)"
+      }
+    },
+    "organization_id": "INST-042",
+    "group": [
+      "official"
+    ],
+    "location": "F01"
+  },
+  {
+    "id": "Team252",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "师承Aori师姐",
+        "en": "Mentored by Senior Aori."
+      }
+    },
+    "organization_id": "INST-057",
+    "group": [
+      "official"
+    ],
+    "location": "F02"
+  },
+  {
+    "id": "Team253",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "暮云书简",
+        "en": "Duskcloud Scroll"
+      }
+    },
+    "organization_id": "INST-097",
+    "group": [
+      "official"
+    ],
+    "location": "F03"
+  },
+  {
+    "id": "Team254",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "全村最强的mt19937能AC吗",
+        "en": "mt19937"
+      }
+    },
+    "organization_id": "INST-174",
+    "group": [
+      "official"
+    ],
+    "location": "F04"
+  },
+  {
+    "id": "Team255",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "队名长度对21（一个合数）取模",
+        "en": "Output the length modulo 41 (a prime)"
+      }
+    },
+    "organization_id": "INST-049",
+    "group": [
+      "official"
+    ],
+    "location": "F05"
+  },
+  {
+    "id": "Team256",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "螺旋飞升",
+        "en": "GDUT_LuoxuanSOAR"
+      }
+    },
+    "organization_id": "INST-108",
+    "group": [
+      "official"
+    ],
+    "location": "F06"
+  },
+  {
+    "id": "Team257",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "复制粘贴",
+        "en": "Ctrl_C+Ctrl_V"
+      }
+    },
+    "organization_id": "INST-116",
+    "group": [
+      "official"
+    ],
+    "location": "F07"
+  },
+  {
+    "id": "Team258",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "HIEU ZhaoLiuYu Restaurant",
+        "en": "HIEU ZhaoLiuYu Restaurant"
+      }
+    },
+    "organization_id": "INST-175",
+    "group": [
+      "official"
+    ],
+    "location": "F08"
+  },
+  {
+    "id": "Team259",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "紧闭的恋之瞳",
+        "en": "Perfect Mind Control"
+      }
+    },
+    "organization_id": "INST-207",
+    "group": [
+      "official"
+    ],
+    "location": "F09"
+  },
+  {
+    "id": "Team260",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "我累铜泥丸",
+        "en": "woleitongniwan"
+      }
+    },
+    "organization_id": "INST-171",
+    "group": [
+      "official"
+    ],
+    "location": "F10"
+  },
+  {
+    "id": "Team261",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "不许欺负小奶蛙",
+        "en": "Don’t Bully The Little Milky Frog"
+      }
+    },
+    "organization_id": "INST-034",
+    "group": [
+      "official"
+    ],
+    "location": "F11"
+  },
+  {
+    "id": "Team262",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "UTG",
+        "en": "UTG"
+      }
+    },
+    "organization_id": "INST-041",
+    "group": [
+      "official"
+    ],
+    "location": "F12"
+  },
+  {
+    "id": "Team263",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "回实验室的诱惑",
+        "en": "Temptation To Lab Team"
+      }
+    },
+    "organization_id": "INST-153",
+    "group": [
+      "official"
+    ],
+    "location": "F13"
+  },
+  {
+    "id": "Team264",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "终帆",
+        "en": "The Last Voyage"
+      }
+    },
+    "organization_id": "INST-056",
+    "group": [
+      "official"
+    ],
+    "location": "F14"
+  },
+  {
+    "id": "Team266",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "新王朝",
+        "en": "Untitled"
+      }
+    },
+    "organization_id": "INST-196",
+    "group": [
+      "official"
+    ],
+    "location": "F16"
+  },
+  {
+    "id": "Team267",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "鸡鸡鸡鸡鸡鸡鸡",
+        "en": "JJJJJJJJJJJJJJ"
+      }
+    },
+    "organization_id": "INST-210",
+    "group": [
+      "official"
+    ],
+    "location": "F17"
+  },
+  {
+    "id": "Team268",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "十余年玩游戏创未来",
+        "en": "synwyxcwl"
+      }
+    },
+    "organization_id": "INST-163",
+    "group": [
+      "official"
+    ],
+    "location": "F18"
+  },
+  {
+    "id": "Team269",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "魔法少女猛男",
+        "en": "Magical Girl Mengnan"
+      }
+    },
+    "organization_id": "INST-109",
+    "group": [
+      "official"
+    ],
+    "location": "F19"
+  },
+  {
+    "id": "Team270",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "SZTU_我不是蔡神",
+        "en": "SZTU_IAmNotCaiShen"
+      }
+    },
+    "organization_id": "INST-164",
+    "group": [
+      "official"
+    ],
+    "location": "F20"
+  },
+  {
+    "id": "Team271",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "重生之厂里打A",
+        "en": "Rebirth: ACM at CSUST"
+      }
+    },
+    "organization_id": "INST-224",
+    "group": [
+      "official"
+    ],
+    "location": "F21"
+  },
+  {
+    "id": "Team272",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "豆包，你累铜题丸",
+        "en": "PlayWithT"
+      }
+    },
+    "organization_id": "INST-009",
+    "group": [
+      "official"
+    ],
+    "location": "F22"
+  },
+  {
+    "id": "Team273",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "奶long long",
+        "en": "Milk i64"
+      }
+    },
+    "organization_id": "INST-093",
+    "group": [
+      "official"
+    ],
+    "location": "F23"
+  },
+  {
+    "id": "Team274",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "哈德曼的妖怪少女",
+        "en": "Harutoman no Youkai Shoujo"
+      }
+    },
+    "organization_id": "INST-081",
+    "group": [
+      "official"
+    ],
+    "location": "F24"
+  },
+  {
+    "id": "Team275",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Last_dance",
+        "en": "Last_dance"
+      }
+    },
+    "organization_id": "INST-030",
+    "group": [
+      "official"
+    ],
+    "location": "F25"
+  },
+  {
+    "id": "Team276",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "渡川",
+        "en": "Cross the river"
+      }
+    },
+    "organization_id": "INST-085",
+    "group": [
+      "official"
+    ],
+    "location": "F26"
+  },
+  {
+    "id": "Team277",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Rolling Girl",
+        "en": "Rolling Girl"
+      }
+    },
+    "organization_id": "INST-099",
+    "group": [
+      "official"
+    ],
+    "location": "F27"
+  },
+  {
+    "id": "Team278",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "2026杭电11队",
+        "en": "2026HDU-T11"
+      }
+    },
+    "organization_id": "INST-125",
+    "group": [
+      "official"
+    ],
+    "location": "F28"
+  },
+  {
+    "id": "Team279",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "飞出迷楼",
+        "en": "Out of the Labyrinth"
+      }
+    },
+    "organization_id": "INST-122",
+    "group": [
+      "official"
+    ],
+    "location": "F29"
+  },
+  {
+    "id": "Team280",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "银河星峰",
+        "en": "Galactic Star Peak"
+      }
+    },
+    "organization_id": "INST-087",
+    "group": [
+      "official"
+    ],
+    "location": "F30"
+  },
+  {
+    "id": "Team281",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "M&M&M",
+        "en": "M&M&M"
+      }
+    },
+    "organization_id": "INST-236",
+    "group": [
+      "official"
+    ],
+    "location": "F31"
+  },
+  {
+    "id": "Team282",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "涅槃涅槃涅槃",
+        "en": "Ph0en1x"
+      }
+    },
+    "organization_id": "INST-074",
+    "group": [
+      "official"
+    ],
+    "location": "F32"
+  },
+  {
+    "id": "Team283",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "I have no idea.",
+        "en": "I have no idea."
+      }
+    },
+    "organization_id": "INST-138",
+    "group": [
+      "official"
+    ],
+    "location": "F33"
+  },
+  {
+    "id": "Team284",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "词元跳动",
+        "en": "TokenDance"
+      }
+    },
+    "organization_id": "INST-080",
+    "group": [
+      "official"
+    ],
+    "location": "F34"
+  },
+  {
+    "id": "Team285",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "查无此径",
+        "en": "No Such Path"
+      }
+    },
+    "organization_id": "INST-237",
+    "group": [
+      "official"
+    ],
+    "location": "F35"
+  },
+  {
+    "id": "Team286",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "疑似mygo",
+        "en": "It's mygo"
+      }
+    },
+    "organization_id": "INST-050",
+    "group": [
+      "official"
+    ],
+    "location": "F36"
+  },
+  {
+    "id": "Team287",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "队名WA2了",
+        "en": "Team Name Wa 2"
+      }
+    },
+    "organization_id": "INST-113",
+    "group": [
+      "official"
+    ],
+    "location": "F37"
+  },
+  {
+    "id": "Team288",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Penalty Enjoyers",
+        "en": "Penalty Enjoyers"
+      }
+    },
+    "organization_id": "INST-158",
+    "group": [
+      "official"
+    ],
+    "location": "F38"
+  },
+  {
+    "id": "Team289",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "AAA Xi'an bu da tie",
+        "en": "AAA Xi'an bu da tie"
+      }
+    },
+    "organization_id": "INST-190",
+    "group": [
+      "official"
+    ],
+    "location": "F39"
+  },
+  {
+    "id": "Team290",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "四重奏",
+        "en": "Team Of Four"
+      }
+    },
+    "organization_id": "INST-121",
+    "group": [
+      "official"
+    ],
+    "location": "F40"
+  },
+  {
+    "id": "Team291",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "可是雾月真的好可爱",
+        "en": "Bully a Cat?"
+      }
+    },
+    "organization_id": "INST-233",
+    "group": [
+      "official"
+    ],
+    "location": "F41"
+  },
+  {
+    "id": "Team292",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "东北大学_甲乙丙丁戊己庚辛壬癸",
+        "en": "NEU_0123456789"
+      }
+    },
+    "organization_id": "INST-001",
+    "group": [
+      "official"
+    ],
+    "location": "F42"
+  },
+  {
+    "id": "Team293",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "公费进西工大？真的假的 ？",
+        "en": "NPU for free？really？"
+      }
+    },
+    "organization_id": "INST-134",
+    "group": [
+      "official"
+    ],
+    "location": "F43"
+  },
+  {
+    "id": "Team294",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "可燃冰红茶",
+        "en": "combustible ice black tea"
+      }
+    },
+    "organization_id": "INST-142",
+    "group": [
+      "official"
+    ],
+    "location": "F44"
+  },
+  {
+    "id": "Team295",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "WeShowSpeed",
+        "en": "WeShowSpeed"
+      }
+    },
+    "organization_id": "INST-235",
+    "group": [
+      "official"
+    ],
+    "location": "F45"
+  },
+  {
+    "id": "Team296",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "375points",
+        "en": "375points"
+      }
+    },
+    "organization_id": "INST-110",
+    "group": [
+      "official"
+    ],
+    "location": "F46"
+  },
+  {
+    "id": "Team297",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "悲怆",
+        "en": "Pathetique"
+      }
+    },
+    "organization_id": "INST-078",
+    "group": [
+      "official"
+    ],
+    "location": "F47"
+  },
+  {
+    "id": "Team298",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "不需要 ap 和 aj，需要 ac",
+        "en": "Dont'need ap and aj, need ac."
+      }
+    },
+    "organization_id": "INST-140",
+    "group": [
+      "official"
+    ],
+    "location": "F48"
+  },
+  {
+    "id": "Team299",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "大明湖水怪",
+        "en": "The Monster in Daming Lake"
+      }
+    },
+    "organization_id": "INST-101",
+    "group": [
+      "official"
+    ],
+    "location": "G01"
+  },
+  {
+    "id": "Team300",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "ACM里的不油腻大学生",
+        "en": "Nongrease"
+      }
+    },
+    "organization_id": "INST-080",
+    "group": [
+      "official"
+    ],
+    "location": "G02"
+  },
+  {
+    "id": "Team301",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "南山猪咪队",
+        "en": "NS PIGS"
+      }
+    },
+    "organization_id": "INST-219",
+    "group": [
+      "official"
+    ],
+    "location": "G03"
+  },
+  {
+    "id": "Team302",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "魔丸S暴力炸",
+        "en": "Magic Pill S Violent Explosion"
+      }
+    },
+    "organization_id": "INST-079",
+    "group": [
+      "official"
+    ],
+    "location": "G04"
+  },
+  {
+    "id": "Team303",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "iPlayGenshin",
+        "en": "iPlayGenshin"
+      }
+    },
+    "organization_id": "INST-067",
+    "group": [
+      "official"
+    ],
+    "location": "G05"
+  },
+  {
+    "id": "Team304",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Inline Qpow",
+        "en": "Inline Qpow"
+      }
+    },
+    "organization_id": "INST-085",
+    "group": [
+      "official"
+    ],
+    "location": "G06"
+  },
+  {
+    "id": "Team305",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "? ! ! qvvp! ! ?",
+        "en": "? ! ! qvvp! ! ?"
+      }
+    },
+    "organization_id": "INST-218",
+    "group": [
+      "official"
+    ],
+    "location": "G07"
+  },
+  {
+    "id": "Team306",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "前湖奶龙",
+        "en": "Nailoong in Qianhu"
+      }
+    },
+    "organization_id": "INST-070",
+    "group": [
+      "official"
+    ],
+    "location": "G08"
+  },
+  {
+    "id": "Team307",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "关于我们本来以为读研就能戒掉网瘾这件事",
+        "en": "Be addiction to"
+      }
+    },
+    "organization_id": "INST-053",
+    "group": [
+      "official"
+    ],
+    "location": "G09"
+  },
+  {
+    "id": "Team308",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "你是我的梦幻之AC",
+        "en": "You are my dream AC."
+      }
+    },
+    "organization_id": "INST-113",
+    "group": [
+      "official"
+    ],
+    "location": "G10"
+  },
+  {
+    "id": "Team309",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "我WA故我在",
+        "en": "iWAthereforeIam"
+      }
+    },
+    "organization_id": "INST-060",
+    "group": [
+      "official"
+    ],
+    "location": "G100"
+  },
+  {
+    "id": "Team310",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "重生之我在信大",
+        "en": "Reborn: My Life in IEU"
+      }
+    },
+    "organization_id": "INST-021",
+    "group": [
+      "official"
+    ],
+    "location": "G101"
+  },
+  {
+    "id": "Team311",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "这一发AC",
+        "en": "Accepted, this one!"
+      }
+    },
+    "organization_id": "INST-215",
+    "group": [
+      "official"
+    ],
+    "location": "G102"
+  },
+  {
+    "id": "Team312",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Creative AC",
+        "en": "Creative AC"
+      }
+    },
+    "organization_id": "INST-003",
+    "group": [
+      "official"
+    ],
+    "location": "G103"
+  },
+  {
+    "id": "Team313",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "求你们了快选一个",
+        "en": "No more dilly"
+      }
+    },
+    "organization_id": "INST-211",
+    "group": [
+      "official"
+    ],
+    "location": "G104"
+  },
+  {
+    "id": "Team314",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "nwafu1",
+        "en": "nwafu1"
+      }
+    },
+    "organization_id": "INST-189",
+    "group": [
+      "official"
+    ],
+    "location": "G105"
+  },
+  {
+    "id": "Team319",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "主人的命令罢了",
+        "en": "master's command"
+      }
+    },
+    "organization_id": "INST-123",
+    "group": [
+      "official"
+    ],
+    "location": "G11"
+  },
+  {
+    "id": "Team330",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "拿杯好戏2",
+        "en": "hold a cup2"
+      }
+    },
+    "organization_id": "INST-156",
+    "group": [
+      "official"
+    ],
+    "location": "G12"
+  },
+  {
+    "id": "Team332",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "I went from college to university.",
+        "en": "I went from college to university."
+      }
+    },
+    "organization_id": "INST-143",
+    "group": [
+      "official"
+    ],
+    "location": "G13"
+  },
+  {
+    "id": "Team333",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "1mp20v3 my531f",
+        "en": "1mp20v3 my531f"
+      }
+    },
+    "organization_id": "INST-069",
+    "group": [
+      "official"
+    ],
+    "location": "G14"
+  },
+  {
+    "id": "Team334",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "ZZZ",
+        "en": "ZZZ"
+      }
+    },
+    "organization_id": "INST-102",
+    "group": [
+      "official"
+    ],
+    "location": "G15"
+  },
+  {
+    "id": "Team335",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "200g 金牌和铁牌哪个更重",
+        "en": "Which heavier, the 200g gold or the 200g iron medal?"
+      }
+    },
+    "organization_id": "INST-139",
+    "group": [
+      "official"
+    ],
+    "location": "G16"
+  },
+  {
+    "id": "Team336",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "队名难起？！？起难名队",
+        "en": "!?Hard nameman draH?!"
+      }
+    },
+    "organization_id": "INST-060",
+    "group": [
+      "official"
+    ],
+    "location": "G17"
+  },
+  {
+    "id": "Team337",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "跃迁",
+        "en": "LeapGrad"
+      }
+    },
+    "organization_id": "INST-184",
+    "group": [
+      "official"
+    ],
+    "location": "G18"
+  },
+  {
+    "id": "Team338",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "我的刀盾",
+        "en": "What the dog doing?"
+      }
+    },
+    "organization_id": "INST-036",
+    "group": [
+      "official"
+    ],
+    "location": "G19"
+  },
+  {
+    "id": "Team339",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Y.Y.Y",
+        "en": "Y.Y.Y"
+      }
+    },
+    "organization_id": "INST-217",
+    "group": [
+      "official"
+    ],
+    "location": "G20"
+  },
+  {
+    "id": "Team340",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "三航",
+        "en": "aaa"
+      }
+    },
+    "organization_id": "INST-191",
+    "group": [
+      "official"
+    ],
+    "location": "G21"
+  },
+  {
+    "id": "Team341",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Lucky",
+        "en": "Lucky"
+      }
+    },
+    "organization_id": "INST-209",
+    "group": [
+      "official"
+    ],
+    "location": "G22"
+  },
+  {
+    "id": "Team342",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Whatever",
+        "en": "Whatever"
+      }
+    },
+    "organization_id": "INST-032",
+    "group": [
+      "official"
+    ],
+    "location": "G23"
+  },
+  {
+    "id": "Team343",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "我在ACM圈就像Deepseek直接干掉Chatgpt",
+        "en": "ACM lanlao"
+      }
+    },
+    "organization_id": "INST-099",
+    "group": [
+      "official"
+    ],
+    "location": "G24"
+  },
+  {
+    "id": "Team344",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "十二奇策",
+        "en": "Tweleve Stratagems"
+      }
+    },
+    "organization_id": "INST-037",
+    "group": [
+      "official"
+    ],
+    "location": "G25"
+  },
+  {
+    "id": "Team345",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "区区区",
+        "en": "QUQUQUQ"
+      }
+    },
+    "organization_id": "INST-189",
+    "group": [
+      "official"
+    ],
+    "location": "G26"
+  },
+  {
+    "id": "Team346",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "北极星",
+        "en": "Polaris"
+      }
+    },
+    "organization_id": "INST-090",
+    "group": [
+      "official"
+    ],
+    "location": "G27"
+  },
+  {
+    "id": "Team347",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "已婚奶龙学长在线退役",
+        "en": "Married Milk Dragon Senior Retires Online"
+      }
+    },
+    "organization_id": "INST-010",
+    "group": [
+      "official"
+    ],
+    "location": "G28"
+  },
+  {
+    "id": "Team348",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "山高狐狸野",
+        "en": "High Peak Wild Foxes"
+      }
+    },
+    "organization_id": "INST-127",
+    "group": [
+      "official"
+    ],
+    "location": "G29"
+  },
+  {
+    "id": "Team349",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "已被标记为牛弊",
+        "en": "SZU_O∧O"
+      }
+    },
+    "organization_id": "INST-163",
+    "group": [
+      "official"
+    ],
+    "location": "G30"
+  },
+  {
+    "id": "Team350",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Ironman",
+        "en": "Ironman"
+      }
+    },
+    "organization_id": "INST-112",
+    "group": [
+      "official"
+    ],
+    "location": "G31"
+  },
+  {
+    "id": "Team351",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "诺格号",
+        "en": "SKD 32507"
+      }
+    },
+    "organization_id": "INST-104",
+    "group": [
+      "official"
+    ],
+    "location": "G32"
+  },
+  {
+    "id": "Team352",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "gugugaga",
+        "en": "gugugaga"
+      }
+    },
+    "organization_id": "INST-182",
+    "group": [
+      "official"
+    ],
+    "location": "G33"
+  },
+  {
+    "id": "Team353",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "心如止水",
+        "en": "Be Water My Friend"
+      }
+    },
+    "organization_id": "INST-078",
+    "group": [
+      "official"
+    ],
+    "location": "G34"
+  },
+  {
+    "id": "Team354",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "没绷住",
+        "en": "Beng"
+      }
+    },
+    "organization_id": "INST-186",
+    "group": [
+      "official"
+    ],
+    "location": "G35"
+  },
+  {
+    "id": "Team355",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "在梯度为 upstream filled 的地方",
+        "en": "where gradient was in Account Suspended"
+      }
+    },
+    "organization_id": "INST-008",
+    "group": [
+      "official"
+    ],
+    "location": "G36"
+  },
+  {
+    "id": "Team356",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "WA学弟",
+        "en": "OvO"
+      }
+    },
+    "organization_id": "INST-044",
+    "group": [
+      "official"
+    ],
+    "location": "G37"
+  },
+  {
+    "id": "Team357",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "贷款也要打XCPC",
+        "en": "Loaning for XCPC"
+      }
+    },
+    "organization_id": "INST-046",
+    "group": [
+      "official"
+    ],
+    "location": "G38"
+  },
+  {
+    "id": "Team358",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "总湿摇篮",
+        "en": "No Water and Power Unity"
+      }
+    },
+    "organization_id": "INST-191",
+    "group": [
+      "official"
+    ],
+    "location": "G39"
+  },
+  {
+    "id": "Team359",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "H God Sauce Flavor Big Chicken",
+        "en": "H God Sauce Flavor Big Chicken"
+      }
+    },
+    "organization_id": "INST-073",
+    "group": [
+      "official"
+    ],
+    "location": "G40"
+  },
+  {
+    "id": "Team360",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "这队名真难取",
+        "en": "404NOTFOUND"
+      }
+    },
+    "organization_id": "INST-020",
+    "group": [
+      "official"
+    ],
+    "location": "G41"
+  },
+  {
+    "id": "Team361",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Aurora Ember · Everpeace",
+        "en": "Aurora Ember · Everpeace"
+      }
+    },
+    "organization_id": "INST-229",
+    "group": [
+      "official"
+    ],
+    "location": "G42"
+  },
+  {
+    "id": "Team362",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Still Southwind",
+        "en": "Still Southwind"
+      }
+    },
+    "organization_id": "INST-193",
+    "group": [
+      "official"
+    ],
+    "location": "G43"
+  },
+  {
+    "id": "Team363",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "God rewards the diligent",
+        "en": "God rewards the diligent"
+      }
+    },
+    "organization_id": "INST-222",
+    "group": [
+      "official"
+    ],
+    "location": "G44"
+  },
+  {
+    "id": "Team364",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "天津ag超狼队",
+        "en": "Tianjin aowuaowu"
+      }
+    },
+    "organization_id": "INST-092",
+    "group": [
+      "official"
+    ],
+    "location": "G45"
+  },
+  {
+    "id": "Team365",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "DeepSleep",
+        "en": "DeepSleep"
+      }
+    },
+    "organization_id": "INST-150",
+    "group": [
+      "official"
+    ],
+    "location": "G46"
+  },
+  {
+    "id": "Team366",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Fragrant Dreams and Flourishing Flowers",
+        "en": "Fragrant Dreams and Flourishing Flowers"
+      }
+    },
+    "organization_id": "INST-177",
+    "group": [
+      "official"
+    ],
+    "location": "G47"
+  },
+  {
+    "id": "Team367",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "温大一队",
+        "en": "WZU Team 1"
+      }
+    },
+    "organization_id": "INST-169",
+    "group": [
+      "official"
+    ],
+    "location": "G48"
+  },
+  {
+    "id": "Team368",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "五虎仅剩一人，谁可担北伐先锋",
+        "en": "Five tiger only one, who can do"
+      }
+    },
+    "organization_id": "INST-065",
+    "group": [
+      "official"
+    ],
+    "location": "G49"
+  },
+  {
+    "id": "Team369",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "The Heart of Genshin",
+        "en": "The Heart of Genshin"
+      }
+    },
+    "organization_id": "INST-201",
+    "group": [
+      "official"
+    ],
+    "location": "G50"
+  },
+  {
+    "id": "Team370",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "NBU ZOO",
+        "en": "NBU ZOO"
+      }
+    },
+    "organization_id": "INST-095",
+    "group": [
+      "official"
+    ],
+    "location": "G51"
+  },
+  {
+    "id": "Team371",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "The best algorithms under 1000 lines of code",
+        "en": "The best algorithms under 1000 lines of code"
+      }
+    },
+    "organization_id": "INST-188",
+    "group": [
+      "official"
+    ],
+    "location": "G52"
+  },
+  {
+    "id": "Team372",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "天糖制造",
+        "en": "Made in Sugar"
+      }
+    },
+    "organization_id": "INST-055",
+    "group": [
+      "official"
+    ],
+    "location": "G53"
+  },
+  {
+    "id": "Team373",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "玫瑰常开警告常在",
+        "en": "Rose"
+      }
+    },
+    "organization_id": "INST-232",
+    "group": [
+      "official"
+    ],
+    "location": "G54"
+  },
+  {
+    "id": "Team374",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "三英荟寝室",
+        "en": "The Three Elites"
+      }
+    },
+    "organization_id": "INST-016",
+    "group": [
+      "official"
+    ],
+    "location": "G55"
+  },
+  {
+    "id": "Team375",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "呼神护卫",
+        "en": "Expecto Patronum"
+      }
+    },
+    "organization_id": "INST-191",
+    "group": [
+      "official"
+    ],
+    "location": "G56"
+  },
+  {
+    "id": "Team376",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "夜半钟声到客船",
+        "en": "QUT Freshman Team 3"
+      }
+    },
+    "organization_id": "INST-230",
+    "group": [
+      "official"
+    ],
+    "location": "G57"
+  },
+  {
+    "id": "Team377",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "蕾缪乐不洗脚让我口腔溃疡",
+        "en": "Remyure's Unwashed Feet Gave Me Mouth Ulcers"
+      }
+    },
+    "organization_id": "INST-198",
+    "group": [
+      "official"
+    ],
+    "location": "G58"
+  },
+  {
+    "id": "Team378",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Orz",
+        "en": "Orz"
+      }
+    },
+    "organization_id": "INST-158",
+    "group": [
+      "official"
+    ],
+    "location": "G59"
+  },
+  {
+    "id": "Team379",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "东北大学_女生-1队",
+        "en": "NEU_girl-1team"
+      }
+    },
+    "organization_id": "INST-001",
+    "group": [
+      "official"
+    ],
+    "location": "G60"
+  },
+  {
+    "id": "Team380",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "临兵斗者皆阵列在前",
+        "en": "Confront the soldiers Battle the warriors"
+      }
+    },
+    "organization_id": "INST-129",
+    "group": [
+      "official"
+    ],
+    "location": "G61"
+  },
+  {
+    "id": "Team381",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "帝企鹅",
+        "en": "Emperor Penguins"
+      }
+    },
+    "organization_id": "INST-117",
+    "group": [
+      "official"
+    ],
+    "location": "G62"
+  },
+  {
+    "id": "Team382",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "逆转未来",
+        "en": "GDUT El K4r0v"
+      }
+    },
+    "organization_id": "INST-108",
+    "group": [
+      "official"
+    ],
+    "location": "G63"
+  },
+  {
+    "id": "Team383",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "奶龙们的第一次ICPC",
+        "en": "The Milkdragons' First ICPC"
+      }
+    },
+    "organization_id": "INST-194",
+    "group": [
+      "official"
+    ],
+    "location": "G64"
+  },
+  {
+    "id": "Team384",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Let's Go, Hutai No.8",
+        "en": "Let's Go, Hutai No.8"
+      }
+    },
+    "organization_id": "INST-084",
+    "group": [
+      "official"
+    ],
+    "location": "G65"
+  },
+  {
+    "id": "Team385",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "终不似，ACMer游",
+        "en": "As when we roamed as ACMers, young and few"
+      }
+    },
+    "organization_id": "INST-224",
+    "group": [
+      "official"
+    ],
+    "location": "G66"
+  },
+  {
+    "id": "Team386",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "世界翻转",
+        "en": "Flip the World"
+      }
+    },
+    "organization_id": "INST-183",
+    "group": [
+      "official"
+    ],
+    "location": "G67"
+  },
+  {
+    "id": "Team387",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "做就队",
+        "en": "AC"
+      }
+    },
+    "organization_id": "INST-135",
+    "group": [
+      "official"
+    ],
+    "location": "G68"
+  },
+  {
+    "id": "Team388",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "灌注塔菲喵",
+        "en": "Follow Ace Taffy, meow~"
+      }
+    },
+    "organization_id": "INST-015",
+    "group": [
+      "official"
+    ],
+    "location": "G69"
+  },
+  {
+    "id": "Team389",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "2026杭电2队",
+        "en": "2026HDU-T02"
+      }
+    },
+    "organization_id": "INST-125",
+    "group": [
+      "official"
+    ],
+    "location": "G70"
+  },
+  {
+    "id": "Team390",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "红石蔷薇",
+        "en": "Ruby Rose"
+      }
+    },
+    "organization_id": "INST-059",
+    "group": [
+      "official"
+    ],
+    "location": "G71"
+  },
+  {
+    "id": "Team391",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "请问您今天要来点牌子吗？？",
+        "en": "Is the Order a Medal??"
+      }
+    },
+    "organization_id": "INST-185",
+    "group": [
+      "official"
+    ],
+    "location": "G72"
+  },
+  {
+    "id": "Team392",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "取名真是麻烦",
+        "en": "Naming is a hassle"
+      }
+    },
+    "organization_id": "INST-210",
+    "group": [
+      "official"
+    ],
+    "location": "G73"
+  },
+  {
+    "id": "Team393",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "SZTU_躲在超市后门玩原神的三人",
+        "en": "SZTU_Night Genshin Impact"
+      }
+    },
+    "organization_id": "INST-164",
+    "group": [
+      "official"
+    ],
+    "location": "G74"
+  },
+  {
+    "id": "Team394",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "10101100",
+        "en": "10101100"
+      }
+    },
+    "organization_id": "INST-028",
+    "group": [
+      "official"
+    ],
+    "location": "G75"
+  },
+  {
+    "id": "Team395",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "machizo",
+        "en": "machizo"
+      }
+    },
+    "organization_id": "INST-199",
+    "group": [
+      "official"
+    ],
+    "location": "G76"
+  },
+  {
+    "id": "Team396",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Electronic Ptilopsis",
+        "en": "Electronic Ptilopsis"
+      }
+    },
+    "organization_id": "INST-056",
+    "group": [
+      "official"
+    ],
+    "location": "G77"
+  },
+  {
+    "id": "Team397",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Not Another Team Name of Void",
+        "en": "Not Another Team Name of Void"
+      }
+    },
+    "organization_id": "INST-051",
+    "group": [
+      "official"
+    ],
+    "location": "G78"
+  },
+  {
+    "id": "Team398",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "线下面麻3q1来就打",
+        "en": "4m game waiting 1"
+      }
+    },
+    "organization_id": "INST-074",
+    "group": [
+      "official"
+    ],
+    "location": "G79"
+  },
+  {
+    "id": "Team399",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "就叫这个吧",
+        "en": "Call it that"
+      }
+    },
+    "organization_id": "INST-238",
+    "group": [
+      "official"
+    ],
+    "location": "G80"
+  },
+  {
+    "id": "Team400",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "无条件相信峰神",
+        "en": "Let the Wind Tell You"
+      }
+    },
+    "organization_id": "INST-111",
+    "group": [
+      "official"
+    ],
+    "location": "G81"
+  },
+  {
+    "id": "Team401",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Sleeping on the WA tree",
+        "en": "Sleeping on the WA tree"
+      }
+    },
+    "organization_id": "INST-206",
+    "group": [
+      "official"
+    ],
+    "location": "G82"
+  },
+  {
+    "id": "Team402",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "11408",
+        "en": "11408"
+      }
+    },
+    "organization_id": "INST-040",
+    "group": [
+      "official"
+    ],
+    "location": "G83"
+  },
+  {
+    "id": "Team403",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "黎明曦光",
+        "en": "Dawnbreak Glow"
+      }
+    },
+    "organization_id": "INST-142",
+    "group": [
+      "official"
+    ],
+    "location": "G84"
+  },
+  {
+    "id": "Team404",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "HORTUS DE ESCAPISMO",
+        "en": "HORTUS DE ESCAPISMO"
+      }
+    },
+    "organization_id": "INST-063",
+    "group": [
+      "official"
+    ],
+    "location": "G85"
+  },
+  {
+    "id": "Team405",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "见习炼金术士",
+        "en": "Apprentice Alchemist"
+      }
+    },
+    "organization_id": "INST-202",
+    "group": [
+      "official"
+    ],
+    "location": "G86"
+  },
+  {
+    "id": "Team406",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "任意门",
+        "en": "Anywhere Door"
+      }
+    },
+    "organization_id": "INST-072",
+    "group": [
+      "official"
+    ],
+    "location": "G87"
+  },
+  {
+    "id": "Team407",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "阿梓喵",
+        "en": "Azu nyan"
+      }
+    },
+    "organization_id": "INST-018",
+    "group": [
+      "official"
+    ],
+    "location": "G88"
+  },
+  {
+    "id": "Team408",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "领航者",
+        "en": "Navigator"
+      }
+    },
+    "organization_id": "INST-137",
+    "group": [
+      "official"
+    ],
+    "location": "G89"
+  },
+  {
+    "id": "Team409",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "巴普特儿童乐园",
+        "en": "Bupt playground"
+      }
+    },
+    "organization_id": "INST-050",
+    "group": [
+      "official"
+    ],
+    "location": "G90"
+  },
+  {
+    "id": "Team410",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "铜芯",
+        "en": "CuMate"
+      }
+    },
+    "organization_id": "INST-178",
+    "group": [
+      "official"
+    ],
+    "location": "G91"
+  },
+  {
+    "id": "Team411",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "先生，这得花不少token",
+        "en": "Sir,a fortune in tokens!"
+      }
+    },
+    "organization_id": "INST-082",
+    "group": [
+      "official"
+    ],
+    "location": "G92"
+  },
+  {
+    "id": "Team412",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Who has extra token",
+        "en": "Who has extra token"
+      }
+    },
+    "organization_id": "INST-138",
+    "group": [
+      "official"
+    ],
+    "location": "G93"
+  },
+  {
+    "id": "Team413",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "叽里呱啦说啥呢我是学文科的",
+        "en": "Liberal Arts Fellows"
+      }
+    },
+    "organization_id": "INST-022",
+    "group": [
+      "official"
+    ],
+    "location": "G94"
+  },
+  {
+    "id": "Team414",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "UESTC_深度睡眠",
+        "en": "UESTC_DeepSleep"
+      }
+    },
+    "organization_id": "INST-180",
+    "group": [
+      "official"
+    ],
+    "location": "G95"
+  },
+  {
+    "id": "Team415",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "别ban我豆包",
+        "en": "Don't ban Doubao"
+      }
+    },
+    "organization_id": "INST-017",
+    "group": [
+      "official"
+    ],
+    "location": "G96"
+  },
+  {
+    "id": "Team416",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "队友说拿银就cos六花",
+        "en": "My teammate would cosplay Rikka if we got silver"
+      }
+    },
+    "organization_id": "INST-058",
+    "group": [
+      "official"
+    ],
+    "location": "G97"
+  },
+  {
+    "id": "Team417",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "天山雄鹰队",
+        "en": "Tianshan Eagle"
+      }
+    },
+    "organization_id": "INST-122",
+    "group": [
+      "official"
+    ],
+    "location": "G98"
+  },
+  {
+    "id": "Team418",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "是啊，开什么？",
+        "en": "Well，which to start？"
+      }
+    },
+    "organization_id": "INST-083",
+    "group": [
+      "official"
+    ],
+    "location": "G99"
+  },
+  {
+    "id": "Team218",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "啦啦队",
+        "en": "Lalalala"
+      }
+    },
+    "organization_id": "INST-012",
+    "group": [
+      "official",
+      "girl"
+    ],
+    "location": "E09"
+  },
+  {
+    "id": "Team232",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "无球六不改名",
+        "en": "BallSix"
+      }
+    },
+    "organization_id": "INST-123",
+    "group": [
+      "official",
+      "girl"
+    ],
+    "location": "E23"
+  },
+  {
+    "id": "Team265",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "无法查找",
+        "en": "not found"
+      }
+    },
+    "organization_id": "INST-186",
+    "group": [
+      "official",
+      "girl"
+    ],
+    "location": "F15"
+  },
+  {
+    "id": "Team315",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "葫芦娃救爷爷",
+        "en": "Pixel Time"
+      }
+    },
+    "organization_id": "INST-204",
+    "group": [
+      "unofficial"
+    ],
+    "location": "G106"
+  },
+  {
+    "id": "Team316",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "注意力大赛注意力战队",
+        "en": "Attention is all you need"
+      }
+    },
+    "organization_id": "INST-192",
+    "group": [
+      "unofficial"
+    ],
+    "location": "G107"
+  },
+  {
+    "id": "Team317",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "海底小纵队",
+        "en": "The Otonauts"
+      }
+    },
+    "organization_id": "INST-227",
+    "group": [
+      "unofficial"
+    ],
+    "location": "G108"
+  },
+  {
+    "id": "Team318",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "向着星辰与深渊",
+        "en": "Genshin"
+      }
+    },
+    "organization_id": "INST-203",
+    "group": [
+      "unofficial"
+    ],
+    "location": "G109"
+  },
+  {
+    "id": "Team320",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "常常一等",
+        "en": "CC1="
+      }
+    },
+    "organization_id": "INST-168",
+    "group": [
+      "unofficial"
+    ],
+    "location": "G110"
+  },
+  {
+    "id": "Team321",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "梦熊信奥-D 类参赛",
+        "en": "MengXiong_Unofficial"
+      }
+    },
+    "organization_id": "INST-045",
+    "group": [
+      "unofficial"
+    ],
+    "location": "G111"
+  },
+  {
+    "id": "Team322",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "不知道",
+        "en": "lmx sniper"
+      }
+    },
+    "organization_id": "INST-200",
+    "group": [
+      "unofficial"
+    ],
+    "location": "G112"
+  },
+  {
+    "id": "Team323",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "照输君",
+        "en": "Lord of Losses"
+      }
+    },
+    "organization_id": "INST-208",
+    "group": [
+      "unofficial"
+    ],
+    "location": "G113"
+  },
+  {
+    "id": "Team324",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "突然的陀螺",
+        "en": "TES Band: Making New International History"
+      }
+    },
+    "organization_id": "INST-192",
+    "group": [
+      "unofficial"
+    ],
+    "location": "G114"
+  },
+  {
+    "id": "Team325",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "信竞少女の廻天",
+        "en": "return mahou_otokonoko;"
+      }
+    },
+    "organization_id": "INST-204",
+    "group": [
+      "unofficial"
+    ],
+    "location": "G115"
+  },
+  {
+    "id": "Team326",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "西河谷底的发条公主",
+        "en": "Westriver Valleybottom's Clockwork Princess"
+      }
+    },
+    "organization_id": "INST-205",
+    "group": [
+      "unofficial"
+    ],
+    "location": "G116"
+  },
+  {
+    "id": "Team327",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "动态仙人掌批发",
+        "en": "(display (not (= P NP)))"
+      }
+    },
+    "organization_id": "INST-192",
+    "group": [
+      "unofficial"
+    ],
+    "location": "G117"
+  },
+  {
+    "id": "Team328",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "2026感受内训ACM组队",
+        "en": "Everyone feels"
+      }
+    },
+    "organization_id": "INST-213",
+    "group": [
+      "unofficial"
+    ],
+    "location": "G118"
+  },
+  {
+    "id": "Team329",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "没有赵哥的日子",
+        "en": "ICPC Without Saier"
+      }
+    },
+    "organization_id": "INST-205",
+    "group": [
+      "unofficial"
+    ],
+    "location": "G119"
+  },
+  {
+    "id": "Team331",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "梦熊-PKU-1",
+        "en": "MX-PKU-1"
+      }
+    },
+    "organization_id": "INST-045",
+    "group": [
+      "unofficial"
+    ],
+    "location": "G120"
+  }
+]
