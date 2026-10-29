@@ -1,0 +1,145 @@
+{
+  "contest_name": {
+    "fallback_lang": "zh-CN",
+    "texts": {
+      "zh-CN": "「华为杯」第 51 届 ICPC 国际大学生程序设计竞赛区域赛成都站 - 正式赛",
+      "en": "The \"Huawei Cup\" 51st ICPC Asia Chengdu Regional Contest"
+    }
+  },
+  "start_time": 1792890600000,
+  "end_time": 1792908600000,
+  "penalty": 1200,
+  "frozen_time": 3600,
+  "problems": [
+    {
+      "id": "0",
+      "label": "A",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#6F4E37"
+      }
+    },
+    {
+      "id": "1",
+      "label": "B",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#0000FF"
+      }
+    },
+    {
+      "id": "2",
+      "label": "C",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#FFFF00"
+      }
+    },
+    {
+      "id": "3",
+      "label": "D",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#9B111E"
+      }
+    },
+    {
+      "id": "4",
+      "label": "E",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#90EE90"
+      }
+    },
+    {
+      "id": "5",
+      "label": "F",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#FFCCCC"
+      }
+    },
+    {
+      "id": "6",
+      "label": "G",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#4B0082"
+      }
+    },
+    {
+      "id": "7",
+      "label": "H",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#0ABAB5"
+      }
+    },
+    {
+      "id": "8",
+      "label": "I",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#000000"
+      }
+    },
+    {
+      "id": "9",
+      "label": "J",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#FF0000"
+      }
+    },
+    {
+      "id": "10",
+      "label": "K",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#1B4D3E"
+      }
+    },
+    {
+      "id": "11",
+      "label": "L",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#FFA500"
+      }
+    },
+    {
+      "id": "12",
+      "label": "M",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#D8BFD8"
+      }
+    }
+  ],
+  "status_time_display": {
+    "correct": true,
+    "incorrect": true,
+    "pending": true
+  },
+  "medal": {
+    "official": {
+      "gold": 32,
+      "silver": 64,
+      "bronze": 96
+    }
+  },
+  "group": {
+    "official": "正式队伍",
+    "unofficial": "打星队伍"
+  },
+  "logo": {
+    "preset": "ICPC"
+  },
+  "options": {
+    "enable_organization": true,
+    "submission_timestamp_unit": "millisecond"
+  },
+  "organizations": {
+    "url": "organizations.json"
+  }
+}
