@@ -1,5 +1,11 @@
 {
-  "contest_name": "2025年icpc全国邀请赛（南昌）暨2025年（icpc）江西省大学生程序设计竞赛 - 正式赛",
+  "contest_name": {
+    "fallback_lang": "zh-CN",
+    "texts": {
+      "zh-CN": "2025年icpc全国邀请赛（南昌）暨2025年（icpc）江西省大学生程序设计竞赛 - 正式赛",
+      "en": "The 2025 ICPC National Invitational Contest (Nanchang) & Jiangxi Collegiate Programming Contest"
+    }
+  },
   "start_time": 1747533600,
   "end_time": 1747551600,
   "frozen_time": 3600,

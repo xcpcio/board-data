@@ -1,5 +1,11 @@
 {
-  "contest_name": "The \"Huawei Cup\" 50th ICPC Asia East Continent Final Contest Warmup",
+  "contest_name": {
+    "fallback_lang": "zh-CN",
+    "texts": {
+      "zh-CN": "「华为杯」第 50 届 ICPC 国际大学生程序设计竞赛亚洲东亚大陆总决赛 - 热身赛",
+      "en": "The \"Huawei Cup\" 50th ICPC Asia East Continent Final Contest Warmup"
+    }
+  },
   "start_time": 1769912100000,
   "end_time": 1769917500000,
   "penalty": 1200,
