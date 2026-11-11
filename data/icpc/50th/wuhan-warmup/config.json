@@ -1,5 +1,11 @@
 {
-  "contest_name": "「华为杯」第 50 届 ICPC 国际大学生程序设计竞赛区域赛武汉站 - 热身赛",
+  "contest_name": {
+    "fallback_lang": "zh-CN",
+    "texts": {
+      "zh-CN": "「华为杯」第 50 届 ICPC 国际大学生程序设计竞赛区域赛武汉站 - 热身赛",
+      "en": "The \"Huawei Cup\" 50th ICPC Asia Wuhan Regional Contest Warmup"
+    }
+  },
   "start_time": 1761978600000,
   "end_time": 1761985800000,
   "penalty": 1200,

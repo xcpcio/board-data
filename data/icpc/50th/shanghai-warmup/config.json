@@ -1,5 +1,11 @@
 {
-  "contest_name": "「华为杯」第 50 届 ICPC 国际大学生程序设计竞赛区域赛上海站 - 热身赛",
+  "contest_name": {
+    "fallback_lang": "zh-CN",
+    "texts": {
+      "zh-CN": "「华为杯」第 50 届 ICPC 国际大学生程序设计竞赛区域赛上海站 - 热身赛",
+      "en": "The \"Huawei Cup\" 50th ICPC Asia Shanghai Regional Contest Warmup"
+    }
+  },
   "start_time": 1763793900000,
   "end_time": 1763801100000,
   "penalty": 1200,

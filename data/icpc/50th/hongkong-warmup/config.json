@@ -1,5 +1,11 @@
 {
-  "contest_name": "The 50th ICPC Asia Hong Kong Regional Contest Warmup",
+  "contest_name": {
+    "fallback_lang": "zh-CN",
+    "texts": {
+      "zh-CN": "第 50 届 ICPC 国际大学生程序设计竞赛区域赛香港站 - 热身赛",
+      "en": "The 50th ICPC Asia Hong Kong Regional Contest Warmup"
+    }
+  },
   "start_time": 1764401400000,
   "end_time": 1764410400000,
   "penalty": 1200,
