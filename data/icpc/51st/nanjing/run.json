@@ -189,7 +189,8 @@
     "problem_id": "2",
     "timestamp": 1031919,
     "status": "WRONG_ANSWER",
-    "language": "C++"
+    "language": "C++",
+    "missing_reaction": true
   },
   {
     "id": "3803",
@@ -509,7 +510,8 @@
     "problem_id": "2",
     "timestamp": 1316085,
     "status": "ACCEPTED",
-    "language": "C++"
+    "language": "C++",
+    "missing_reaction": true
   },
   {
     "id": "3843",
@@ -805,7 +807,8 @@
     "problem_id": "10",
     "timestamp": 1556010,
     "status": "RUNTIME_ERROR",
-    "language": "C++"
+    "language": "C++",
+    "missing_reaction": true
   },
   {
     "id": "3880",
@@ -877,7 +880,8 @@
     "problem_id": "10",
     "timestamp": 1588068,
     "status": "ACCEPTED",
-    "language": "C++"
+    "language": "C++",
+    "missing_reaction": true
   },
   {
     "id": "3889",
