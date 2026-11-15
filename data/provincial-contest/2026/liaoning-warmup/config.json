@@ -1,0 +1,74 @@
+{
+  "contest_name": {
+    "fallback_lang": "zh-CN",
+    "texts": {
+      "zh-CN": "2026 年辽宁省大学生程序设计竞赛暨 ICPC 国际大学生程序设计竞赛（辽宁省赛）- 热身赛"
+    }
+  },
+  "start_time": 1794564000000,
+  "end_time": 1794571200000,
+  "penalty": 1200,
+  "frozen_time": 1800,
+  "problems": [
+    {
+      "id": "0",
+      "label": "A",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#FF7F00"
+      }
+    },
+    {
+      "id": "1",
+      "label": "B",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#FFF200"
+      }
+    },
+    {
+      "id": "2",
+      "label": "C",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#9EDF79"
+      }
+    },
+    {
+      "id": "3",
+      "label": "D",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#00008B"
+      }
+    }
+  ],
+  "status_time_display": {
+    "correct": true,
+    "incorrect": true,
+    "pending": true
+  },
+  "medal": {},
+  "group": {
+    "official": "省内队伍",
+    "guest": "省外队伍",
+    "unofficial": "打星队伍"
+  },
+  "logo": {
+    "preset": "ICPC"
+  },
+  "options": {
+    "enable_organization": true,
+    "submission_timestamp_unit": "millisecond",
+    "organization_logo_template": {
+      "url": "https://r2.xcpcio.com/images/provincial-contest/2026/liaoning/organizations/${organization_id}.png",
+      "mime": "image/png"
+    }
+  },
+  "organizations": {
+    "url": "organizations.json"
+  },
+  "seat_map": {
+    "url": "seat_map.json"
+  }
+}
