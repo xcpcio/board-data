@@ -1,0 +1,165 @@
+{
+  "contest_name": {
+    "fallback_lang": "zh-CN",
+    "texts": {
+      "zh-CN": "2026 年辽宁省大学生程序设计竞赛暨 ICPC 国际大学生程序设计竞赛（辽宁省赛）- 正式赛"
+    }
+  },
+  "start_time": 1794618000000,
+  "end_time": 1794636000000,
+  "penalty": 1200,
+  "frozen_time": 3600,
+  "problems": [
+    {
+      "id": "0",
+      "label": "A",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#ff7f00"
+      }
+    },
+    {
+      "id": "1",
+      "label": "B",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#FF0000"
+      }
+    },
+    {
+      "id": "2",
+      "label": "C",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#006400"
+      }
+    },
+    {
+      "id": "3",
+      "label": "D",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#ff6b81"
+      }
+    },
+    {
+      "id": "4",
+      "label": "E",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#9a73d6"
+      }
+    },
+    {
+      "id": "5",
+      "label": "F",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#ffff00"
+      }
+    },
+    {
+      "id": "6",
+      "label": "G",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#9edf79"
+      }
+    },
+    {
+      "id": "7",
+      "label": "H",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#0f52ba"
+      }
+    },
+    {
+      "id": "8",
+      "label": "I",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#ff2a85"
+      }
+    },
+    {
+      "id": "9",
+      "label": "J",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#81d8cf"
+      }
+    },
+    {
+      "id": "10",
+      "label": "K",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#1e9e50"
+      }
+    },
+    {
+      "id": "11",
+      "label": "L",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#fba3b8"
+      }
+    },
+    {
+      "id": "12",
+      "label": "M",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#add8e6"
+      }
+    },
+    {
+      "id": "13",
+      "label": "N",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#ffd700"
+      }
+    }
+  ],
+  "status_time_display": {
+    "correct": true,
+    "incorrect": true,
+    "pending": true
+  },
+  "medal": {
+    "official": {
+      "gold": 13,
+      "silver": 27,
+      "bronze": 41
+    },
+    "guest": {
+      "gold": 7,
+      "silver": 14,
+      "bronze": 21
+    }
+  },
+  "group": {
+    "official": "省内队伍",
+    "guest": "省外队伍",
+    "unofficial": "打星队伍"
+  },
+  "logo": {
+    "preset": "ICPC"
+  },
+  "options": {
+    "enable_organization": true,
+    "submission_timestamp_unit": "millisecond",
+    "organization_logo_template": {
+      "url": "https://r2.xcpcio.com/images/provincial-contest/2026/liaoning/organizations/${organization_id}.png",
+      "mime": "image/png"
+    }
+  },
+  "organizations": {
+    "url": "organizations.json"
+  },
+  "seat_map": {
+    "url": "seat_map.json"
+  }
+}
