@@ -1,5 +1,11 @@
 {
-  "contest_name": "第 49 届 ICPC 国际大学生程序设计竞赛区域赛成都站 - 热身赛",
+  "contest_name": {
+    "fallback_lang": "zh-CN",
+    "texts": {
+      "zh-CN": "第 49 届 ICPC 国际大学生程序设计竞赛区域赛成都站 - 热身赛",
+      "en": "The 49th ICPC Asia Chengdu Regional Contest Warmup"
+    }
+  },
   "start_time": 1729923000,
   "end_time": 1729930200,
   "frozen_time": 1800,

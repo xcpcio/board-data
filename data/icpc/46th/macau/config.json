@@ -1,5 +1,11 @@
 {
-  "contest_name": "第 46 屆 ICPC 東亞洲區域賽（澳門）正式賽",
+  "contest_name": {
+    "fallback_lang": "zh-CN",
+    "texts": {
+      "zh-CN": "第 46 屆 ICPC 東亞洲區域賽（澳門）正式賽",
+      "en": "The 46th ICPC Asia Macau Regional Contest"
+    }
+  },
   "start_time": 1648954800,
   "end_time": 1648972800,
   "frozen_time": 3600,

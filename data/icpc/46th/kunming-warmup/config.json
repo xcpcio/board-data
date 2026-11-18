@@ -1,5 +1,11 @@
 {
-  "contest_name": "第 46 届 ICPC 亚洲区域赛（昆明）热身赛",
+  "contest_name": {
+    "fallback_lang": "zh-CN",
+    "texts": {
+      "zh-CN": "第 46 届 ICPC 亚洲区域赛（昆明）热身赛",
+      "en": "The 46th ICPC Asia Kunming Regional Contest Warmup"
+    }
+  },
   "start_time": 1650106800,
   "end_time": 1650112200,
   "frozen_time": 0,

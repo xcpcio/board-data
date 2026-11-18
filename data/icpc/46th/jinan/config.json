@@ -1,5 +1,11 @@
 {
-  "contest_name": "The 46th ICPC Asia Jinan Regional Contest - Contest Session",
+  "contest_name": {
+    "fallback_lang": "zh-CN",
+    "texts": {
+      "zh-CN": "第 46 届 ICPC 亚洲区域赛济南站 - 正式赛",
+      "en": "The 46th ICPC Asia Jinan Regional Contest - Contest Session"
+    }
+  },
   "start_time": 1636858800,
   "end_time": 1636876800,
   "frozen_time": 3600,

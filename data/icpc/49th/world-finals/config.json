@@ -1,5 +1,11 @@
 {
-  "contest_name": "The 49th ICPC World Finals",
+  "contest_name": {
+    "fallback_lang": "zh-CN",
+    "texts": {
+      "zh-CN": "第 49 届 ICPC 全球总决赛",
+      "en": "The 49th ICPC World Finals"
+    }
+  },
   "start_time": 1756968526,
   "end_time": 1756986526,
   "frozen_time": 3600,

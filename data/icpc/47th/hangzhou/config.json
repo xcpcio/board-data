@@ -1,5 +1,11 @@
 {
-  "contest_name": "第 47 届国际大学生程序设计竞赛亚洲区域赛杭州站（正式赛）",
+  "contest_name": {
+    "fallback_lang": "zh-CN",
+    "texts": {
+      "zh-CN": "第 47 届国际大学生程序设计竞赛亚洲区域赛杭州站（正式赛）",
+      "en": "The 47th ICPC Asia Hangzhou Regional Contest"
+    }
+  },
   "start_time": 1670126400,
   "end_time": 1670144400,
   "frozen_time": 3600,
