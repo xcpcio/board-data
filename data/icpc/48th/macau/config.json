@@ -1,5 +1,11 @@
 {
-  "contest_name": "2023 - 2024 International Collegiate Programming Contest, Macau Site",
+  "contest_name": {
+    "fallback_lang": "zh-CN",
+    "texts": {
+      "zh-CN": "第 48 届 ICPC 国际大学生程序设计竞赛区域赛澳门站",
+      "en": "2023 - 2024 International Collegiate Programming Contest, Macau Site"
+    }
+  },
   "start_time": 1700363100,
   "end_time": 1700381700,
   "frozen_time": 3600,

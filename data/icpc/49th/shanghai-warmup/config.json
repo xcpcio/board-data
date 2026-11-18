@@ -1,5 +1,11 @@
 {
-  "contest_name": "第 49 届 ICPC 国际大学生程序设计竞赛区域赛上海站 - 热身赛",
+  "contest_name": {
+    "fallback_lang": "zh-CN",
+    "texts": {
+      "zh-CN": "第 49 届 ICPC 国际大学生程序设计竞赛区域赛上海站 - 热身赛",
+      "en": "The 49th ICPC Asia Shanghai Regional Contest Warmup"
+    }
+  },
   "start_time": 1731740400,
   "end_time": 1731747600,
   "frozen_time": 1800,

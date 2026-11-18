@@ -1,5 +1,11 @@
 {
-  "contest_name": "The 49th ICPC Asia Hong Kong Regional Contest Warmup",
+  "contest_name": {
+    "fallback_lang": "zh-CN",
+    "texts": {
+      "zh-CN": "第 49 届 ICPC 国际大学生程序设计竞赛区域赛香港站 - 热身赛",
+      "en": "The 49th ICPC Asia Hong Kong Regional Contest Warmup"
+    }
+  },
   "start_time": 1734768000,
   "end_time": 1734775200,
   "frozen_time": 1800,

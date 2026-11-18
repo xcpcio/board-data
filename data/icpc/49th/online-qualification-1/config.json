@@ -1,5 +1,11 @@
 {
-  "contest_name": "The 49th ICPC Asia Regionals Online Contest (I)",
+  "contest_name": {
+    "fallback_lang": "zh-CN",
+    "texts": {
+      "zh-CN": "第 49 届 ICPC 亚洲区域赛网络赛（I）",
+      "en": "The 49th ICPC Asia Regionals Online Contest (I)"
+    }
+  },
   "start_time": 1726376400,
   "end_time": 1726395300,
   "frozen_time": 3600,

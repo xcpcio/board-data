@@ -1,5 +1,11 @@
 {
-  "contest_name": "第 46 屆 ICPC 東亞洲區域賽（澳門）熱身賽",
+  "contest_name": {
+    "fallback_lang": "zh-CN",
+    "texts": {
+      "zh-CN": "第 46 屆 ICPC 東亞洲區域賽（澳門）熱身賽",
+      "en": "The 46th ICPC Asia Macau Regional Contest Warmup"
+    }
+  },
   "start_time": 1648949400,
   "end_time": 1648953000,
   "frozen_time": 0,

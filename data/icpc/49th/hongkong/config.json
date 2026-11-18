@@ -1,5 +1,11 @@
 {
-  "contest_name": "The 49th ICPC Asia Hong Kong Regional Contest",
+  "contest_name": {
+    "fallback_lang": "zh-CN",
+    "texts": {
+      "zh-CN": "第 49 届 ICPC 国际大学生程序设计竞赛区域赛香港站",
+      "en": "The 49th ICPC Asia Hong Kong Regional Contest"
+    }
+  },
   "start_time": 1734829800,
   "end_time": 1734847800,
   "frozen_time": 3600,
