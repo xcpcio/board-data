@@ -14,6 +14,7 @@ if [[ ! -d "$SITE_DIR" ]]; then
 fi
 
 mkdir -p "$EXPORT_DATA_DIR"
+find "$EXPORT_DATA_DIR" -mindepth 1 -delete
 cp -a "$SITE_DIR/." "$EXPORT_DATA_DIR/"
 
 echo "Copied $SITE_DIR to $EXPORT_DATA_DIR"
