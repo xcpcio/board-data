@@ -1,5 +1,11 @@
 {
-  "contest_name": "The 44th ICPC Asia Yinchuan Regional Programming Contest",
+  "contest_name": {
+    "fallback_lang": "zh-CN",
+    "texts": {
+      "zh-CN": "第 44 届 ICPC 亚洲区域赛银川站",
+      "en": "The 44th ICPC Asia Yinchuan Regional Programming Contest"
+    }
+  },
   "start_time": 1571533200,
   "end_time": 1571551200,
   "frozen_time": 3600,

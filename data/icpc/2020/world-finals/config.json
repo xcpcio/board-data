@@ -1,5 +1,11 @@
 {
-  "contest_name": "The 44th ICPC World Finals",
+  "contest_name": {
+    "fallback_lang": "zh-CN",
+    "texts": {
+      "zh-CN": "第 44 届 ICPC 全球总决赛",
+      "en": "The 44th ICPC World Finals"
+    }
+  },
   "start_time": 1633414860,
   "end_time": 1633432860,
   "frozen_time": 3600,

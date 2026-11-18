@@ -1,5 +1,11 @@
 {
-  "contest_name": "ICPC fdu onsite0",
+  "contest_name": {
+    "fallback_lang": "zh-CN",
+    "texts": {
+      "zh-CN": "ICPC 上海赛区现场赛 0",
+      "en": "ICPC fdu onsite0"
+    }
+  },
   "start_time": 1314838800,
   "end_time": 1314856800,
   "frozen_time": 0,

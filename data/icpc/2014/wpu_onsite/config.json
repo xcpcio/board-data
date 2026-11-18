@@ -1,5 +1,11 @@
 {
-  "contest_name": "ICPC wpu onsite",
+  "contest_name": {
+    "fallback_lang": "zh-CN",
+    "texts": {
+      "zh-CN": "ICPC wpu 现场赛",
+      "en": "ICPC wpu onsite"
+    }
+  },
   "start_time": 1409533200,
   "end_time": 1409551200,
   "frozen_time": 0,

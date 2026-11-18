@@ -1,5 +1,11 @@
 {
-  "contest_name": "ICPC dlut onsite2",
+  "contest_name": {
+    "fallback_lang": "zh-CN",
+    "texts": {
+      "zh-CN": "ICPC 大连赛区现场赛 2",
+      "en": "ICPC dlut onsite2"
+    }
+  },
   "start_time": 1314838800,
   "end_time": 1314856800,
   "frozen_time": 0,

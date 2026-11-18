@@ -1,5 +1,11 @@
 {
-  "contest_name": "ICPC2020-第 45 届国际大学生程序设计竞赛亚洲网上区域赛模拟赛",
+  "contest_name": {
+    "fallback_lang": "zh-CN",
+    "texts": {
+      "zh-CN": "ICPC2020-第 45 届国际大学生程序设计竞赛亚洲网上区域赛模拟赛",
+      "en": "The 45th ICPC Asia Regional Online Practice Contest"
+    }
+  },
   "start_time": 1604124000,
   "end_time": 1604134800,
   "frozen_time": 0,

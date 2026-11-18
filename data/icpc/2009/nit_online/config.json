@@ -1,5 +1,11 @@
 {
-  "contest_name": "ICPC 2009 宁波赛区网络赛",
+  "contest_name": {
+    "fallback_lang": "zh-CN",
+    "texts": {
+      "zh-CN": "ICPC 2009 宁波赛区网络赛",
+      "en": "ICPC 2009 Ningbo Regional Online Contest"
+    }
+  },
   "start_time": 1252630800,
   "end_time": 1252648800,
   "frozen_time": 0,

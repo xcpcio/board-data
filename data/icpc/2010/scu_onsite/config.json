@@ -1,5 +1,11 @@
 {
-  "contest_name": "ICPC 2010 成都赛区现场赛",
+  "contest_name": {
+    "fallback_lang": "zh-CN",
+    "texts": {
+      "zh-CN": "ICPC 2010 成都赛区现场赛",
+      "en": "ICPC 2010 Chengdu Regional Onsite Contest"
+    }
+  },
   "start_time": 1289091600,
   "end_time": 1289109600,
   "frozen_time": 0,

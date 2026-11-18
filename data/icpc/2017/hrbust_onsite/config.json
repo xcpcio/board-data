@@ -1,5 +1,11 @@
 {
-  "contest_name": "ICPC hrbust onsite",
+  "contest_name": {
+    "fallback_lang": "zh-CN",
+    "texts": {
+      "zh-CN": "ICPC 哈尔滨赛区现场赛",
+      "en": "ICPC hrbust onsite"
+    }
+  },
   "start_time": 1504227600,
   "end_time": 1504245600,
   "frozen_time": 0,

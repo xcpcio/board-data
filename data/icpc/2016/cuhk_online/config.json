@@ -1,5 +1,11 @@
 {
-  "contest_name": "ICPC cuhk online",
+  "contest_name": {
+    "fallback_lang": "zh-CN",
+    "texts": {
+      "zh-CN": "ICPC 香港赛区网络赛",
+      "en": "ICPC cuhk online"
+    }
+  },
   "start_time": 1472691600,
   "end_time": 1472709600,
   "frozen_time": 0,

@@ -1,5 +1,11 @@
 {
-  "contest_name": "ICPC 2013 长春赛区网络赛",
+  "contest_name": {
+    "fallback_lang": "zh-CN",
+    "texts": {
+      "zh-CN": "ICPC 2013 长春赛区网络赛",
+      "en": "ICPC 2013 Changchun Regional Online Contest"
+    }
+  },
   "start_time": 1380330000,
   "end_time": 1380348000,
   "frozen_time": 0,

@@ -1,5 +1,11 @@
 {
-  "contest_name": "ICPC dlmu onsite2",
+  "contest_name": {
+    "fallback_lang": "zh-CN",
+    "texts": {
+      "zh-CN": "ICPC 大连赛区现场赛 2",
+      "en": "ICPC dlmu onsite2"
+    }
+  },
   "start_time": 1472691600,
   "end_time": 1472709600,
   "frozen_time": 0,

@@ -1,5 +1,11 @@
 {
-  "contest_name": "ICPC 2017 沈阳赛区现场赛",
+  "contest_name": {
+    "fallback_lang": "zh-CN",
+    "texts": {
+      "zh-CN": "ICPC 2017 沈阳赛区现场赛",
+      "en": "ICPC 2017 Shenyang Regional Onsite Contest"
+    }
+  },
   "start_time": 1508634000,
   "end_time": 1508652000,
   "frozen_time": 0,

@@ -1,5 +1,11 @@
 {
-  "contest_name": "ICPC 2014 牡丹江赛区现场赛",
+  "contest_name": {
+    "fallback_lang": "zh-CN",
+    "texts": {
+      "zh-CN": "ICPC 2014 牡丹江赛区现场赛",
+      "en": "ICPC 2014 Mudanjiang Regional Onsite Contest"
+    }
+  },
   "start_time": 1413075600,
   "end_time": 1413093600,
   "frozen_time": 0,

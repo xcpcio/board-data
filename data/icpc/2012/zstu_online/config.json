@@ -1,5 +1,11 @@
 {
-  "contest_name": "ICPC 2012 杭州赛区网络赛",
+  "contest_name": {
+    "fallback_lang": "zh-CN",
+    "texts": {
+      "zh-CN": "ICPC 2012 杭州赛区网络赛",
+      "en": "ICPC 2012 Hangzhou Regional Online Contest"
+    }
+  },
   "start_time": 1348362000,
   "end_time": 1348380000,
   "frozen_time": 0,
