@@ -1,5 +1,11 @@
 {
-  "contest_name": "The 44th ICPC International Collegiate Programming Contest Asian Regional Contest (Nanchang)",
+  "contest_name": {
+    "fallback_lang": "zh-CN",
+    "texts": {
+      "zh-CN": "第 44 届 ICPC 国际大学生程序设计竞赛亚洲区域赛（南昌）",
+      "en": "The 44th ICPC International Collegiate Programming Contest Asian Regional Contest (Nanchang)"
+    }
+  },
   "start_time": 1573434000,
   "end_time": 1573452000,
   "frozen_time": 3600,

@@ -1,5 +1,11 @@
 {
-  "contest_name": "ICPC 2015 合肥赛区现场赛",
+  "contest_name": {
+    "fallback_lang": "zh-CN",
+    "texts": {
+      "zh-CN": "ICPC 2015 合肥赛区现场赛",
+      "en": "ICPC 2015 Hefei Regional Onsite Contest"
+    }
+  },
   "start_time": 1446944400,
   "end_time": 1446962400,
   "frozen_time": 0,

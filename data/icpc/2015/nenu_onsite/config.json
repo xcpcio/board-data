@@ -1,5 +1,11 @@
 {
-  "contest_name": "ICPC 2015 长春赛区现场赛",
+  "contest_name": {
+    "fallback_lang": "zh-CN",
+    "texts": {
+      "zh-CN": "ICPC 2015 长春赛区现场赛",
+      "en": "ICPC 2015 Changchun Regional Onsite Contest"
+    }
+  },
   "start_time": 1445130000,
   "end_time": 1445148000,
   "frozen_time": 0,

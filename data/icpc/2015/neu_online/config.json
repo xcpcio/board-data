@@ -1,5 +1,11 @@
 {
-  "contest_name": "ICPC 2015 沈阳赛区网络赛",
+  "contest_name": {
+    "fallback_lang": "zh-CN",
+    "texts": {
+      "zh-CN": "ICPC 2015 沈阳赛区网络赛",
+      "en": "ICPC 2015 Shenyang Regional Online Contest"
+    }
+  },
   "start_time": 1442624400,
   "end_time": 1442642400,
   "frozen_time": 0,

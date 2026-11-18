@@ -1,5 +1,11 @@
 {
-  "contest_name": "The 44th ICPC World Finals Moscow Invitational Contest",
+  "contest_name": {
+    "fallback_lang": "zh-CN",
+    "texts": {
+      "zh-CN": "第 44 届 ICPC 全球总决赛莫斯科邀请赛",
+      "en": "The 44th ICPC World Finals Moscow Invitational Contest"
+    }
+  },
   "start_time": 1633006800,
   "end_time": 1633024800,
   "frozen_time": 3600,

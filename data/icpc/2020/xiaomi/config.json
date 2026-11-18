@@ -1,5 +1,11 @@
 {
-  "contest_name": "2020 ICPC·小米邀请赛 决赛",
+  "contest_name": {
+    "fallback_lang": "zh-CN",
+    "texts": {
+      "zh-CN": "2020 ICPC·小米邀请赛 决赛",
+      "en": "2020 ICPC Xiaomi Invitational Final"
+    }
+  },
   "start_time": 1606006800,
   "end_time": 1606024800,
   "frozen_time": 3600,

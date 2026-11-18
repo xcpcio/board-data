@@ -1,5 +1,11 @@
 {
-  "contest_name": "ICPC 2015 上海赛区现场赛",
+  "contest_name": {
+    "fallback_lang": "zh-CN",
+    "texts": {
+      "zh-CN": "ICPC 2015 上海赛区现场赛",
+      "en": "ICPC 2015 Shanghai Regional Onsite Contest"
+    }
+  },
   "start_time": 1448154000,
   "end_time": 1448172000,
   "frozen_time": 0,

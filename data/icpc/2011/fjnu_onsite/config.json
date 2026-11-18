@@ -1,5 +1,11 @@
 {
-  "contest_name": "ICPC 2011 福州赛区现场赛",
+  "contest_name": {
+    "fallback_lang": "zh-CN",
+    "texts": {
+      "zh-CN": "ICPC 2011 福州赛区现场赛",
+      "en": "ICPC 2011 Fuzhou Regional Onsite Contest"
+    }
+  },
   "start_time": 1321750800,
   "end_time": 1321768800,
   "frozen_time": 0,

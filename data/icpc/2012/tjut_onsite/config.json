@@ -1,5 +1,11 @@
 {
-  "contest_name": "ICPC 2012 天津赛区现场赛",
+  "contest_name": {
+    "fallback_lang": "zh-CN",
+    "texts": {
+      "zh-CN": "ICPC 2012 天津赛区现场赛",
+      "en": "ICPC 2012 Tianjin Regional Onsite Contest"
+    }
+  },
   "start_time": 1350781200,
   "end_time": 1350799200,
   "frozen_time": 0,

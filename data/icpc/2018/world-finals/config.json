@@ -1,5 +1,11 @@
 {
-  "contest_name": "The 42nd ICPC World Finals",
+  "contest_name": {
+    "fallback_lang": "zh-CN",
+    "texts": {
+      "zh-CN": "第 42 届 ICPC 全球总决赛",
+      "en": "The 42nd ICPC World Finals"
+    }
+  },
   "start_time": 1524099600,
   "end_time": 1524117600,
   "frozen_time": 3600,

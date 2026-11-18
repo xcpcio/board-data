@@ -1,5 +1,11 @@
 {
-  "contest_name": "ICPC 2014 西安赛区网络赛",
+  "contest_name": {
+    "fallback_lang": "zh-CN",
+    "texts": {
+      "zh-CN": "ICPC 2014 西安赛区网络赛",
+      "en": "ICPC 2014 Xi'an Regional Online Contest"
+    }
+  },
   "start_time": 1410656400,
   "end_time": 1410674400,
   "frozen_time": 0,

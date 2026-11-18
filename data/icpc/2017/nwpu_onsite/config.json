@@ -1,5 +1,11 @@
 {
-  "contest_name": "ICPC nwpu onsite",
+  "contest_name": {
+    "fallback_lang": "zh-CN",
+    "texts": {
+      "zh-CN": "ICPC 西安赛区现场赛",
+      "en": "ICPC nwpu onsite"
+    }
+  },
   "start_time": 1504227600,
   "end_time": 1504245600,
   "frozen_time": 0,

@@ -1,5 +1,11 @@
 {
-  "contest_name": "ICPC ccniit onsite000",
+  "contest_name": {
+    "fallback_lang": "zh-CN",
+    "texts": {
+      "zh-CN": "ICPC 成都赛区现场赛 000",
+      "en": "ICPC ccniit onsite000"
+    }
+  },
   "start_time": 1314838800,
   "end_time": 1314856800,
   "frozen_time": 0,

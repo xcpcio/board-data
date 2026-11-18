@@ -1,5 +1,11 @@
 {
-  "contest_name": "ICPC 2014 上海赛区网络赛",
+  "contest_name": {
+    "fallback_lang": "zh-CN",
+    "texts": {
+      "zh-CN": "ICPC 2014 上海赛区网络赛",
+      "en": "ICPC 2014 Shanghai Regional Online Contest"
+    }
+  },
   "start_time": 1411779600,
   "end_time": 1411797600,
   "frozen_time": 0,

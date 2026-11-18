@@ -1,5 +1,11 @@
 {
-  "contest_name": "ICPC 2014 广州赛区网络赛",
+  "contest_name": {
+    "fallback_lang": "zh-CN",
+    "texts": {
+      "zh-CN": "ICPC 2014 广州赛区网络赛",
+      "en": "ICPC 2014 Guangzhou Regional Online Contest"
+    }
+  },
   "start_time": 1411174800,
   "end_time": 1411192800,
   "frozen_time": 0,

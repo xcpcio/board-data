@@ -1,5 +1,11 @@
 {
-  "contest_name": "ICPC 2011 大连赛区网络赛",
+  "contest_name": {
+    "fallback_lang": "zh-CN",
+    "texts": {
+      "zh-CN": "ICPC 2011 大连赛区网络赛",
+      "en": "ICPC 2011 Dalian Regional Online Contest"
+    }
+  },
   "start_time": 1315011600,
   "end_time": 1315029600,
   "frozen_time": 0,

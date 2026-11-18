@@ -1,5 +1,11 @@
 {
-  "contest_name": "ICPC 2014 西安赛区现场赛",
+  "contest_name": {
+    "fallback_lang": "zh-CN",
+    "texts": {
+      "zh-CN": "ICPC 2014 西安赛区现场赛",
+      "en": "ICPC 2014 Xi'an Regional Onsite Contest"
+    }
+  },
   "start_time": 1414285200,
   "end_time": 1414303200,
   "frozen_time": 0,

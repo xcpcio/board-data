@@ -1,5 +1,11 @@
 {
-  "contest_name": "ICPC 2014 鞍山赛区现场赛",
+  "contest_name": {
+    "fallback_lang": "zh-CN",
+    "texts": {
+      "zh-CN": "ICPC 2014 鞍山赛区现场赛",
+      "en": "ICPC 2014 Anshan Regional Onsite Contest"
+    }
+  },
   "start_time": 1413680400,
   "end_time": 1413698400,
   "frozen_time": 0,

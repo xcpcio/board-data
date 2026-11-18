@@ -1,5 +1,11 @@
 {
-  "contest_name": "第 45 届国际大学生程序设计竞赛（ICPC）亚洲区域赛（济南）正式赛",
+  "contest_name": {
+    "fallback_lang": "zh-CN",
+    "texts": {
+      "zh-CN": "第 45 届国际大学生程序设计竞赛（ICPC）亚洲区域赛（济南）正式赛",
+      "en": "The 45th ICPC Asia Jinan Regional Contest"
+    }
+  },
   "start_time": 1609038000,
   "end_time": 1609056000,
   "problems": [
