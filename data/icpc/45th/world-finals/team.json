@@ -1,0 +1,926 @@
+[
+  {
+    "id": "1",
+    "name": "Adama Science and Technology University",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Ain Shams University - Faculty of Computer and Information Sciences",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Ain Shams University - Faculty of Engineering",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Al-Azhar University",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Al-Baath University",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Aleppo University",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Alexandru Ioan Cuza University of Iași",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "8",
+    "name": "American International University - Bangladesh",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "9",
+    "name": "American University of Beirut",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "10",
+    "name": "Arab Academy for Science and Technology - Alexandria",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "11",
+    "name": "Arab Academy for Science and Technology - Cairo",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "12",
+    "name": "Ateneo de Manila University",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "13",
+    "name": "Bangladesh University of Engineering and Technology",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "14",
+    "name": "Beijing Jiaotong University",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "15",
+    "name": "Belarusian National Technical University",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "16",
+    "name": "Belarusian State University",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "17",
+    "name": "Belarusian State University of Informatics and Radioelectronics",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "18",
+    "name": "Bina Nusantara University",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "19",
+    "name": "Birla Institute of Technology and Science, Pilani Campus",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "20",
+    "name": "Cairo University - Faculty of Computers and Artificial Intelligence",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "21",
+    "name": "Cairo University - Faculty of Engineering",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "22",
+    "name": "Carnegie Mellon University",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "23",
+    "name": "Charles University in Prague",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "24",
+    "name": "Damascus University",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "25",
+    "name": "Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "26",
+    "name": "EAFIT University",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "27",
+    "name": "East China Normal University",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "28",
+    "name": "École Normale Supérieure de Paris",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "29",
+    "name": "Ecole Polytechnique",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "30",
+    "name": "El Shorouk Academy",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "31",
+    "name": "ETH Zürich",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "33",
+    "name": "Faculty of Computer Science, Belgrade",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "34",
+    "name": "FAST Institute of Computer Science",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "35",
+    "name": "Georgia Institute of Technology",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "36",
+    "name": "German University in Cairo",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "38",
+    "name": "Hanoi University of Science and Technology",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "39",
+    "name": "Higher Institute for Applied Sciences and Technology",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "40",
+    "name": "Indian Institute of Technology - Bombay",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "41",
+    "name": "Indian Institute of Technology - Guwahati",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "42",
+    "name": "Indian Institute of Technology - Kanpur",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "43",
+    "name": "Indian Institute of Technology - Roorkee",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "44",
+    "name": "Indian Institute of Technology - Varanasi",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "45",
+    "name": "Instituto Tecnológico Autónomo de México",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "46",
+    "name": "International Institute of Information Technology - Hyderabad",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "47",
+    "name": "International IT University",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "48",
+    "name": "ITESM Campus Monterrey",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "49",
+    "name": "Izhevsk State Technical University",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "50",
+    "name": "Jagiellonian University in Krakow",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "51",
+    "name": "Jahangirnagar University",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "52",
+    "name": "KAIST",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "53",
+    "name": "Karlsruhe Institute of Technology",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "54",
+    "name": "Kazan (Volga Region) Federal University",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "55",
+    "name": "Keio University",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "56",
+    "name": "Korea University",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "57",
+    "name": "KTH - Royal Institute of Technology",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "58",
+    "name": "Kyoto University",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "59",
+    "name": "Massachusetts Institute of Technology",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "60",
+    "name": "McGill University",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "61",
+    "name": "Moscow Institute of Physics and Technology",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "62",
+    "name": "Moscow State University",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "63",
+    "name": "National Research University Higher School of Economics",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "64",
+    "name": "National Taiwan University",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "65",
+    "name": "National University of Singapore",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "66",
+    "name": "National Yang Ming Chiao Tung University",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "67",
+    "name": "Nizhny Novgorod State University",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "68",
+    "name": "North South University",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "69",
+    "name": "Northeastern University",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "70",
+    "name": "Peking University",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "71",
+    "name": "Princess Sumaya University for Technology",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "72",
+    "name": "Purdue University",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "73",
+    "name": "Rajshahi University of Engineering & Technology",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "74",
+    "name": "Saratov State University",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "75",
+    "name": "Seoul National University",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "76",
+    "name": "Shahid Beheshti University",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "77",
+    "name": "Shahjalal University of Science and Technology",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "78",
+    "name": "Shanghai Jiao Tong University",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "79",
+    "name": "Sharif University of Technology",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "80",
+    "name": "St. Petersburg Campus of Higher School of Economics",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "81",
+    "name": "St. Petersburg ITMO University",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "82",
+    "name": "St. Petersburg State University",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "83",
+    "name": "Suleyman Demirel University",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "84",
+    "name": "Swarthmore College",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "85",
+    "name": "Syrian Virtual University",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "86",
+    "name": "Technische Universität München",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "88",
+    "name": "Texas A&M University",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "89",
+    "name": "University of Asia Pacific",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "90",
+    "name": "The University of British Columbia",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "91",
+    "name": "The University of Texas at Dallas",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "92",
+    "name": "The University of Tokyo",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "93",
+    "name": "Tishreen University",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "94",
+    "name": "Tokyo Institute of Technology",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "95",
+    "name": "Universidad de Buenos Aires - FCEN",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "96",
+    "name": "Universidad de Costa Rica",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "97",
+    "name": "Universidad de Guadalajara CUCEI",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "98",
+    "name": "Universidad de La Habana",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "99",
+    "name": "Universidad de las Ciencias Informáticas",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "100",
+    "name": "Universidad Mayor de San Simón",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "101",
+    "name": "Universidad Nacional de Córdoba - FaMAF",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "102",
+    "name": "Universidad Panamericana Campus Bonaterra",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "103",
+    "name": "Universidad Simón Bolívar",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "104",
+    "name": "Universidad Tecnologica de Pereira",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "105",
+    "name": "Universidade de São Paulo",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "106",
+    "name": "Universidade de São Paulo - Campus de São Carlos",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "107",
+    "name": "Universidade Estadual de Campinas",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "108",
+    "name": "Universidade Federal da Bahia",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "109",
+    "name": "Universidade Federal de Campina Grande",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "110",
+    "name": "Universitas Indonesia",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "111",
+    "name": "University of Alberta",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "112",
+    "name": "University of Bucharest",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "113",
+    "name": "University of California Los Angeles",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "114",
+    "name": "University of Cambridge",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "115",
+    "name": "University of Central Florida",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "116",
+    "name": "University of Chinese Academy of Sciences",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "117",
+    "name": "University of Dhaka",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "118",
+    "name": "University of Engineering and Technology - VNU",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "119",
+    "name": "University of Hong Kong",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "120",
+    "name": "University of Melbourne",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "121",
+    "name": "University of Michigan at Ann Arbor",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "122",
+    "name": "University of Oxford",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "123",
+    "name": "University of Rochester",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "124",
+    "name": "University of Science, VNU-HCM",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "125",
+    "name": "University of Tehran",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "126",
+    "name": "University of Toronto",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "127",
+    "name": "University of Warsaw",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "128",
+    "name": "University of Waterloo",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "129",
+    "name": "University of Wisconsin-Madison",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "130",
+    "name": "University of Wroclaw",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "131",
+    "name": "UNSW Sydney",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "132",
+    "name": "Ural Federal University",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "133",
+    "name": "Utrecht University",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "135",
+    "name": "Xidian University",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "id": "136",
+    "name": "Yale University",
+    "group": [
+      "official"
+    ]
+  }
+]
