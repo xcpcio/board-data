@@ -122,7 +122,7 @@
   "banner": {
     "url": "icpc/49th/world-finals-assets/banner.svg"
   },
-  "banner_mode": "ONLY_BANNER",
+  "banner_mode": "ALL",
   "options": {
     "submission_timestamp_unit": "millisecond",
     "has_reaction_videos": true,
