@@ -1,0 +1,144 @@
+{
+  "contest_name": {
+    "fallback_lang": "zh-CN",
+    "texts": {
+      "zh-CN": "第 45 届 ICPC 全球总决赛",
+      "en": "The 45th ICPC World Finals"
+    }
+  },
+  "start_time": 1668056016000,
+  "end_time": 1668074016000,
+  "penalty": 1200,
+  "frozen_time": 3600,
+  "problems": [
+    {
+      "id": "0",
+      "label": "A",
+      "name": "Crystal Crosswind",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#f7c3dd"
+      }
+    },
+    {
+      "id": "1",
+      "label": "B",
+      "name": "Dungeon Crawler",
+      "balloon_color": {
+        "color": "#ffffff",
+        "background_color": "#cc1818"
+      }
+    },
+    {
+      "id": "2",
+      "label": "C",
+      "name": "Fair Division",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#54b1d6"
+      }
+    },
+    {
+      "id": "3",
+      "label": "D",
+      "name": "Guardians of the Gallery",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#eef2d3"
+      }
+    },
+    {
+      "id": "4",
+      "label": "E",
+      "name": "Hand of the Free Marked",
+      "balloon_color": {
+        "color": "#ffffff",
+        "background_color": "#0d590f"
+      }
+    },
+    {
+      "id": "5",
+      "label": "F",
+      "name": "Islands from the Sky",
+      "balloon_color": {
+        "color": "#ffffff",
+        "background_color": "#9772b5"
+      }
+    },
+    {
+      "id": "6",
+      "label": "G",
+      "name": "Mosaic Browsing",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#e7f216"
+      }
+    },
+    {
+      "id": "7",
+      "label": "H",
+      "name": "Prehistoric Programs",
+      "balloon_color": {
+        "color": "#ffffff",
+        "background_color": "#1a47cf"
+      }
+    },
+    {
+      "id": "8",
+      "label": "I",
+      "name": "Spider Walk",
+      "balloon_color": {
+        "color": "#ffffff",
+        "background_color": "#000000"
+      }
+    },
+    {
+      "id": "9",
+      "label": "J",
+      "name": "Splitstream",
+      "balloon_color": {
+        "color": "#ffffff",
+        "background_color": "#940707"
+      }
+    },
+    {
+      "id": "10",
+      "label": "K",
+      "name": "Take On Meme",
+      "balloon_color": {
+        "color": "#000000",
+        "background_color": "#5ae0c8"
+      }
+    },
+    {
+      "id": "11",
+      "label": "L",
+      "name": "Where Am I?",
+      "balloon_color": {
+        "color": "#ffffff",
+        "background_color": "#ed48e2"
+      }
+    }
+  ],
+  "status_time_display": {
+    "correct": true,
+    "incorrect": true,
+    "pending": true
+  },
+  "medal": {
+    "all": {
+      "gold": 4,
+      "silver": 4,
+      "bronze": 4
+    }
+  },
+  "group": {},
+  "logo": {
+    "preset": "ICPC"
+  },
+  "options": {
+    "submission_timestamp_unit": "millisecond",
+    "has_reaction_videos": true,
+    "reaction_video_url_template": "https://d1x79igug69x01.cloudfront.net/wf/2021/reactions/${submission_id}.mp4"
+  }
+}
