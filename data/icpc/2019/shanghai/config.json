@@ -1,0 +1,141 @@
+{
+  "contest_name": {
+    "fallback_lang": "zh-CN",
+    "texts": {
+      "zh-CN": "第 44 届 ICPC 国际大学生程序设计竞赛亚洲区域赛（上海）正式赛",
+      "en": "The 44th ICPC Asia Shanghai Regional Contest"
+    }
+  },
+  "start_time": 1574557200,
+  "end_time": 1574575200,
+  "penalty": 1200,
+  "frozen_time": 3600,
+  "problems": [
+    {
+      "id": "0",
+      "label": "A",
+      "balloon_color": {
+        "background_color": "#FFB6C1",
+        "color": "#000"
+      }
+    },
+    {
+      "id": "1",
+      "label": "B",
+      "balloon_color": {
+        "background_color": "#FF7F00",
+        "color": "#fff"
+      }
+    },
+    {
+      "id": "2",
+      "label": "C",
+      "balloon_color": {
+        "background_color": "#FF0000",
+        "color": "#fff"
+      }
+    },
+    {
+      "id": "3",
+      "label": "D",
+      "balloon_color": {
+        "background_color": "#0000FF",
+        "color": "#fff"
+      }
+    },
+    {
+      "id": "4",
+      "label": "E",
+      "balloon_color": {
+        "background_color": "#04CCCC",
+        "color": "#000"
+      }
+    },
+    {
+      "id": "5",
+      "label": "F",
+      "balloon_color": {
+        "background_color": "#660DFF",
+        "color": "#fff"
+      }
+    },
+    {
+      "id": "6",
+      "label": "G",
+      "balloon_color": {
+        "background_color": "#FF69B4",
+        "color": "#fff"
+      }
+    },
+    {
+      "id": "7",
+      "label": "H",
+      "balloon_color": {
+        "background_color": "#FFFF00",
+        "color": "#000"
+      }
+    },
+    {
+      "id": "8",
+      "label": "I",
+      "balloon_color": {
+        "background_color": "#E6E6FA",
+        "color": "#000"
+      }
+    },
+    {
+      "id": "9",
+      "label": "J",
+      "balloon_color": {
+        "background_color": "#007FFF",
+        "color": "#fff"
+      }
+    },
+    {
+      "id": "10",
+      "label": "K",
+      "balloon_color": {
+        "background_color": "#00FF00",
+        "color": "#000"
+      }
+    },
+    {
+      "id": "11",
+      "label": "L",
+      "balloon_color": {
+        "background_color": "#000000",
+        "color": "#fff"
+      }
+    },
+    {
+      "id": "12",
+      "label": "M",
+      "balloon_color": {
+        "background_color": "#006400",
+        "color": "#fff"
+      }
+    }
+  ],
+  "status_time_display": {
+    "correct": true,
+    "incorrect": false,
+    "pending": false
+  },
+  "medal": {
+    "official": {
+      "gold": 30,
+      "silver": 60,
+      "bronze": 90
+    }
+  },
+  "group": {
+    "official": "正式队伍",
+    "unofficial": "打星队伍"
+  },
+  "logo": {
+    "preset": "ICPC"
+  },
+  "options": {
+    "enable_organization": true
+  }
+}
