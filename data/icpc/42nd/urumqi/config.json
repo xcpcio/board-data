@@ -2,12 +2,12 @@
   "contest_name": {
     "fallback_lang": "zh-CN",
     "texts": {
-      "zh-CN": "ICPC 2017 沈阳赛区现场赛",
-      "en": "ICPC 2017 Shenyang Regional Onsite Contest"
+      "zh-CN": "第 42 届 ICPC 国际大学生程序设计竞赛亚洲区域赛（乌鲁木齐）正式赛",
+      "en": "The 42nd ICPC Asia Urumqi Regional Contest"
     }
   },
-  "start_time": 1508634000,
-  "end_time": 1508652000,
+  "start_time": 1504227600,
+  "end_time": 1504245600,
   "frozen_time": 0,
   "problems": [
     {
@@ -95,22 +95,6 @@
       "label": "K",
       "balloon_color": {
         "background_color": "rgba(42, 197, 202, 0.7)",
-        "color": "#fff"
-      }
-    },
-    {
-      "id": "11",
-      "label": "L",
-      "balloon_color": {
-        "background_color": "rgba(142, 56, 54, 0.7)",
-        "color": "#fff"
-      }
-    },
-    {
-      "id": "12",
-      "label": "M",
-      "balloon_color": {
-        "background_color": "rgba(0, 0, 0, 0.7)",
         "color": "#fff"
       }
     }

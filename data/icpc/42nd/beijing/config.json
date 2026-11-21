@@ -2,8 +2,8 @@
   "contest_name": {
     "fallback_lang": "zh-CN",
     "texts": {
-      "zh-CN": "ICPC 哈尔滨赛区现场赛",
-      "en": "ICPC hrbust onsite"
+      "zh-CN": "第 42 届 ICPC 国际大学生程序设计竞赛亚洲区域赛（北京）正式赛",
+      "en": "The 42nd ICPC Asia Beijing Regional Contest"
     }
   },
   "start_time": 1504227600,
@@ -87,30 +87,6 @@
       "label": "J",
       "balloon_color": {
         "background_color": "rgba(159, 19, 236, 0.7)",
-        "color": "#fff"
-      }
-    },
-    {
-      "id": "10",
-      "label": "K",
-      "balloon_color": {
-        "background_color": "rgba(42, 197, 202, 0.7)",
-        "color": "#fff"
-      }
-    },
-    {
-      "id": "11",
-      "label": "L",
-      "balloon_color": {
-        "background_color": "rgba(142, 56, 54, 0.7)",
-        "color": "#fff"
-      }
-    },
-    {
-      "id": "12",
-      "label": "M",
-      "balloon_color": {
-        "background_color": "rgba(0, 0, 0, 0.7)",
         "color": "#fff"
       }
     }
