@@ -1,3608 +1,3620 @@
 [
   {
-    "problem_id": "0",
-    "timestamp": 1740,
-    "status": "ACCEPTED",
-    "team_id": "1"
-  },
-  {
-    "problem_id": "2",
-    "timestamp": 4260,
-    "status": "ACCEPTED",
-    "team_id": "1"
-  },
-  {
-    "problem_id": "2",
-    "timestamp": 4259,
-    "status": "REJECTED",
-    "team_id": "1"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 9480,
-    "status": "ACCEPTED",
-    "team_id": "1"
-  },
-  {
-    "problem_id": "4",
-    "timestamp": 9960,
-    "status": "ACCEPTED",
-    "team_id": "1"
-  },
-  {
-    "problem_id": "4",
-    "timestamp": 9959,
-    "status": "REJECTED",
-    "team_id": "1"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 4620,
-    "status": "ACCEPTED",
-    "team_id": "1"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 4619,
-    "status": "REJECTED",
-    "team_id": "1"
-  },
-  {
-    "problem_id": "6",
-    "timestamp": 10800,
-    "status": "ACCEPTED",
-    "team_id": "1"
-  },
-  {
-    "problem_id": "6",
-    "timestamp": 10799,
-    "status": "REJECTED",
-    "team_id": "1"
-  },
-  {
-    "problem_id": "7",
-    "timestamp": 15960,
-    "status": "ACCEPTED",
-    "team_id": "1"
-  },
-  {
-    "problem_id": "7",
-    "timestamp": 15959,
-    "status": "REJECTED",
-    "team_id": "1"
-  },
-  {
-    "problem_id": "8",
-    "timestamp": 7980,
-    "status": "ACCEPTED",
-    "team_id": "1"
-  },
-  {
-    "problem_id": "8",
-    "timestamp": 7979,
-    "status": "REJECTED",
-    "team_id": "1"
-  },
-  {
-    "problem_id": "10",
-    "timestamp": 0,
-    "status": "REJECTED",
-    "team_id": "1"
-  },
-  {
-    "problem_id": "10",
-    "timestamp": 1,
-    "status": "REJECTED",
-    "team_id": "1"
-  },
-  {
-    "problem_id": "10",
-    "timestamp": 2,
-    "status": "REJECTED",
-    "team_id": "1"
-  },
-  {
-    "problem_id": "10",
-    "timestamp": 3,
-    "status": "REJECTED",
-    "team_id": "1"
-  },
-  {
-    "problem_id": "10",
-    "timestamp": 4,
-    "status": "REJECTED",
-    "team_id": "1"
-  },
-  {
-    "problem_id": "10",
-    "timestamp": 5,
-    "status": "REJECTED",
-    "team_id": "1"
-  },
-  {
-    "problem_id": "10",
-    "timestamp": 6,
-    "status": "REJECTED",
-    "team_id": "1"
-  },
-  {
-    "problem_id": "10",
-    "timestamp": 7,
-    "status": "REJECTED",
-    "team_id": "1"
-  },
-  {
-    "problem_id": "10",
-    "timestamp": 8,
-    "status": "REJECTED",
-    "team_id": "1"
-  },
-  {
-    "problem_id": "10",
-    "timestamp": 9,
-    "status": "REJECTED",
-    "team_id": "1"
-  },
-  {
-    "problem_id": "10",
-    "timestamp": 10,
-    "status": "REJECTED",
-    "team_id": "1"
-  },
-  {
-    "problem_id": "10",
-    "timestamp": 11,
-    "status": "REJECTED",
-    "team_id": "1"
-  },
-  {
-    "problem_id": "10",
-    "timestamp": 12,
-    "status": "REJECTED",
-    "team_id": "1"
-  },
-  {
-    "problem_id": "10",
-    "timestamp": 13,
-    "status": "REJECTED",
-    "team_id": "1"
-  },
-  {
-    "problem_id": "10",
-    "timestamp": 14,
-    "status": "REJECTED",
-    "team_id": "1"
-  },
-  {
-    "problem_id": "10",
-    "timestamp": 15,
-    "status": "REJECTED",
-    "team_id": "1"
-  },
-  {
-    "problem_id": "10",
-    "timestamp": 16,
-    "status": "REJECTED",
-    "team_id": "1"
-  },
-  {
-    "problem_id": "10",
-    "timestamp": 17,
-    "status": "REJECTED",
-    "team_id": "1"
-  },
-  {
-    "problem_id": "10",
-    "timestamp": 18,
-    "status": "REJECTED",
-    "team_id": "1"
-  },
-  {
-    "problem_id": "10",
-    "timestamp": 19,
-    "status": "REJECTED",
-    "team_id": "1"
-  },
-  {
-    "problem_id": "10",
-    "timestamp": 20,
-    "status": "REJECTED",
-    "team_id": "1"
-  },
-  {
-    "problem_id": "10",
-    "timestamp": 21,
-    "status": "REJECTED",
-    "team_id": "1"
-  },
-  {
-    "problem_id": "10",
-    "timestamp": 22,
-    "status": "REJECTED",
-    "team_id": "1"
-  },
-  {
-    "problem_id": "10",
-    "timestamp": 23,
-    "status": "REJECTED",
-    "team_id": "1"
-  },
-  {
-    "problem_id": "10",
-    "timestamp": 24,
-    "status": "REJECTED",
-    "team_id": "1"
-  },
-  {
-    "problem_id": "10",
-    "timestamp": 25,
-    "status": "REJECTED",
-    "team_id": "1"
-  },
-  {
-    "problem_id": "10",
-    "timestamp": 26,
-    "status": "REJECTED",
-    "team_id": "1"
-  },
-  {
-    "problem_id": "10",
-    "timestamp": 27,
-    "status": "REJECTED",
-    "team_id": "1"
-  },
-  {
-    "problem_id": "10",
-    "timestamp": 28,
-    "status": "REJECTED",
-    "team_id": "1"
-  },
-  {
-    "problem_id": "10",
-    "timestamp": 29,
-    "status": "REJECTED",
-    "team_id": "1"
-  },
-  {
-    "problem_id": "10",
-    "timestamp": 30,
-    "status": "REJECTED",
-    "team_id": "1"
-  },
-  {
-    "problem_id": "10",
-    "timestamp": 31,
-    "status": "REJECTED",
-    "team_id": "1"
-  },
-  {
-    "problem_id": "10",
-    "timestamp": 32,
-    "status": "REJECTED",
-    "team_id": "1"
-  },
-  {
-    "problem_id": "10",
-    "timestamp": 33,
-    "status": "REJECTED",
-    "team_id": "1"
-  },
-  {
-    "problem_id": "10",
-    "timestamp": 34,
-    "status": "REJECTED",
-    "team_id": "1"
-  },
-  {
-    "problem_id": "10",
-    "timestamp": 35,
-    "status": "REJECTED",
-    "team_id": "1"
-  },
-  {
-    "problem_id": "10",
-    "timestamp": 36,
-    "status": "REJECTED",
-    "team_id": "1"
-  },
-  {
-    "problem_id": "10",
-    "timestamp": 37,
-    "status": "REJECTED",
-    "team_id": "1"
-  },
-  {
-    "problem_id": "10",
-    "timestamp": 38,
-    "status": "REJECTED",
-    "team_id": "1"
-  },
-  {
-    "problem_id": "10",
-    "timestamp": 39,
-    "status": "REJECTED",
-    "team_id": "1"
-  },
-  {
-    "problem_id": "10",
-    "timestamp": 40,
-    "status": "REJECTED",
-    "team_id": "1"
-  },
-  {
-    "problem_id": "10",
-    "timestamp": 41,
-    "status": "REJECTED",
-    "team_id": "1"
-  },
-  {
-    "problem_id": "10",
-    "timestamp": 42,
-    "status": "REJECTED",
-    "team_id": "1"
-  },
-  {
-    "problem_id": "10",
-    "timestamp": 43,
-    "status": "REJECTED",
-    "team_id": "1"
-  },
-  {
+    "team_id": "1",
     "problem_id": "11",
-    "timestamp": 300,
-    "status": "ACCEPTED",
-    "team_id": "1"
+    "timestamp": 329,
+    "status": "ACCEPTED"
   },
   {
-    "problem_id": "0",
-    "timestamp": 4800,
-    "status": "ACCEPTED",
-    "team_id": "2"
+    "team_id": "6",
+    "problem_id": "11",
+    "timestamp": 374,
+    "status": "ACCEPTED"
   },
   {
-    "problem_id": "1",
-    "timestamp": 0,
-    "status": "REJECTED",
-    "team_id": "2"
+    "team_id": "12",
+    "problem_id": "11",
+    "timestamp": 604,
+    "status": "REJECTED"
   },
   {
-    "problem_id": "2",
-    "timestamp": 8580,
-    "status": "ACCEPTED",
-    "team_id": "2"
+    "team_id": "7",
+    "problem_id": "11",
+    "timestamp": 739,
+    "status": "ACCEPTED"
   },
   {
+    "team_id": "12",
+    "problem_id": "11",
+    "timestamp": 743,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "28",
+    "problem_id": "11",
+    "timestamp": 771,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "13",
+    "problem_id": "11",
+    "timestamp": 796,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "10",
+    "problem_id": "11",
+    "timestamp": 828,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "4",
+    "problem_id": "11",
+    "timestamp": 837,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "16",
+    "problem_id": "11",
+    "timestamp": 849,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "15",
+    "problem_id": "11",
+    "timestamp": 878,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "20",
+    "problem_id": "5",
+    "timestamp": 942,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "3",
+    "problem_id": "11",
+    "timestamp": 961,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "19",
+    "problem_id": "11",
+    "timestamp": 1026,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "33",
+    "problem_id": "11",
+    "timestamp": 1049,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "5",
+    "problem_id": "11",
+    "timestamp": 1129,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "14",
+    "problem_id": "11",
+    "timestamp": 1138,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "11",
+    "problem_id": "11",
+    "timestamp": 1152,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "8",
+    "problem_id": "5",
+    "timestamp": 1198,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "20",
+    "problem_id": "11",
+    "timestamp": 1358,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "20",
+    "problem_id": "11",
+    "timestamp": 1394,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "2",
     "problem_id": "3",
-    "timestamp": 1440,
-    "status": "ACCEPTED",
-    "team_id": "2"
+    "timestamp": 1452,
+    "status": "ACCEPTED"
   },
   {
-    "problem_id": "4",
-    "timestamp": 16380,
-    "status": "ACCEPTED",
-    "team_id": "2"
+    "team_id": "12",
+    "problem_id": "3",
+    "timestamp": 1472,
+    "status": "REJECTED"
   },
   {
+    "team_id": "20",
     "problem_id": "5",
-    "timestamp": 4080,
-    "status": "ACCEPTED",
-    "team_id": "2"
+    "timestamp": 1518,
+    "status": "REJECTED"
   },
   {
-    "problem_id": "5",
-    "timestamp": 4079,
-    "status": "REJECTED",
-    "team_id": "2"
+    "team_id": "2",
+    "problem_id": "11",
+    "timestamp": 1525,
+    "status": "REJECTED"
   },
   {
-    "problem_id": "5",
-    "timestamp": 4078,
-    "status": "REJECTED",
-    "team_id": "2"
+    "team_id": "8",
+    "problem_id": "11",
+    "timestamp": 1561,
+    "status": "ACCEPTED"
   },
   {
-    "problem_id": "6",
-    "timestamp": 10560,
-    "status": "ACCEPTED",
-    "team_id": "2"
+    "team_id": "17",
+    "problem_id": "11",
+    "timestamp": 1583,
+    "status": "ACCEPTED"
   },
   {
-    "problem_id": "6",
-    "timestamp": 10559,
-    "status": "REJECTED",
-    "team_id": "2"
+    "team_id": "18",
+    "problem_id": "11",
+    "timestamp": 1621,
+    "status": "REJECTED"
   },
   {
-    "problem_id": "7",
-    "timestamp": 0,
-    "status": "REJECTED",
-    "team_id": "2"
+    "team_id": "14",
+    "problem_id": "11",
+    "timestamp": 1638,
+    "status": "ACCEPTED"
   },
   {
-    "problem_id": "8",
-    "timestamp": 13020,
-    "status": "ACCEPTED",
-    "team_id": "2"
+    "team_id": "21",
+    "problem_id": "11",
+    "timestamp": 1673,
+    "status": "REJECTED"
   },
   {
-    "problem_id": "8",
-    "timestamp": 13019,
-    "status": "REJECTED",
-    "team_id": "2"
-  },
-  {
-    "problem_id": "9",
-    "timestamp": 16920,
-    "status": "ACCEPTED",
-    "team_id": "2"
-  },
-  {
-    "problem_id": "10",
-    "timestamp": 0,
-    "status": "REJECTED",
-    "team_id": "2"
-  },
-  {
+    "team_id": "2",
     "problem_id": "11",
     "timestamp": 1680,
-    "status": "ACCEPTED",
-    "team_id": "2"
+    "status": "ACCEPTED"
   },
   {
-    "problem_id": "11",
-    "timestamp": 1679,
-    "status": "REJECTED",
-    "team_id": "2"
-  },
-  {
+    "team_id": "1",
     "problem_id": "0",
-    "timestamp": 3660,
-    "status": "ACCEPTED",
-    "team_id": "3"
+    "timestamp": 1776,
+    "status": "ACCEPTED"
   },
   {
-    "problem_id": "2",
-    "timestamp": 9360,
-    "status": "ACCEPTED",
-    "team_id": "3"
-  },
-  {
-    "problem_id": "2",
-    "timestamp": 9359,
-    "status": "REJECTED",
-    "team_id": "3"
-  },
-  {
-    "problem_id": "2",
-    "timestamp": 9358,
-    "status": "REJECTED",
-    "team_id": "3"
-  },
-  {
-    "problem_id": "2",
-    "timestamp": 9357,
-    "status": "REJECTED",
-    "team_id": "3"
-  },
-  {
-    "problem_id": "2",
-    "timestamp": 9356,
-    "status": "REJECTED",
-    "team_id": "3"
-  },
-  {
-    "problem_id": "2",
-    "timestamp": 9355,
-    "status": "REJECTED",
-    "team_id": "3"
-  },
-  {
-    "problem_id": "2",
-    "timestamp": 9354,
-    "status": "REJECTED",
-    "team_id": "3"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 5520,
-    "status": "ACCEPTED",
-    "team_id": "3"
-  },
-  {
-    "problem_id": "4",
-    "timestamp": 17220,
-    "status": "ACCEPTED",
-    "team_id": "3"
-  },
-  {
-    "problem_id": "4",
-    "timestamp": 17219,
-    "status": "REJECTED",
-    "team_id": "3"
-  },
-  {
-    "problem_id": "4",
-    "timestamp": 17218,
-    "status": "REJECTED",
-    "team_id": "3"
-  },
-  {
-    "problem_id": "4",
-    "timestamp": 17217,
-    "status": "REJECTED",
-    "team_id": "3"
-  },
-  {
-    "problem_id": "4",
-    "timestamp": 17216,
-    "status": "REJECTED",
-    "team_id": "3"
-  },
-  {
-    "problem_id": "4",
-    "timestamp": 17215,
-    "status": "REJECTED",
-    "team_id": "3"
-  },
-  {
-    "problem_id": "4",
-    "timestamp": 17214,
-    "status": "REJECTED",
-    "team_id": "3"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 6540,
-    "status": "ACCEPTED",
-    "team_id": "3"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 6539,
-    "status": "REJECTED",
-    "team_id": "3"
-  },
-  {
-    "problem_id": "6",
-    "timestamp": 13800,
-    "status": "ACCEPTED",
-    "team_id": "3"
-  },
-  {
-    "problem_id": "6",
-    "timestamp": 13799,
-    "status": "REJECTED",
-    "team_id": "3"
-  },
-  {
-    "problem_id": "8",
-    "timestamp": 11340,
-    "status": "ACCEPTED",
-    "team_id": "3"
-  },
-  {
-    "problem_id": "8",
-    "timestamp": 11339,
-    "status": "REJECTED",
-    "team_id": "3"
-  },
-  {
+    "team_id": "18",
     "problem_id": "11",
-    "timestamp": 960,
-    "status": "ACCEPTED",
-    "team_id": "3"
+    "timestamp": 1837,
+    "status": "REJECTED"
   },
   {
+    "team_id": "8",
+    "problem_id": "5",
+    "timestamp": 1907,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "7",
+    "problem_id": "5",
+    "timestamp": 1972,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "18",
+    "problem_id": "11",
+    "timestamp": 1998,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "20",
+    "problem_id": "5",
+    "timestamp": 2002,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "5",
     "problem_id": "0",
-    "timestamp": 3300,
-    "status": "ACCEPTED",
-    "team_id": "4"
+    "timestamp": 2021,
+    "status": "ACCEPTED"
   },
   {
+    "team_id": "29",
+    "problem_id": "11",
+    "timestamp": 2024,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "6",
+    "problem_id": "2",
+    "timestamp": 2032,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "18",
+    "problem_id": "11",
+    "timestamp": 2036,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "23",
+    "problem_id": "11",
+    "timestamp": 2116,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "8",
+    "problem_id": "5",
+    "timestamp": 2134,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "7",
+    "problem_id": "5",
+    "timestamp": 2161,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "22",
+    "problem_id": "11",
+    "timestamp": 2275,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "21",
+    "problem_id": "11",
+    "timestamp": 2287,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "22",
+    "problem_id": "11",
+    "timestamp": 2303,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "5",
+    "problem_id": "5",
+    "timestamp": 2304,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "5",
+    "problem_id": "5",
+    "timestamp": 2389,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "26",
+    "problem_id": "11",
+    "timestamp": 2476,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "4",
     "problem_id": "0",
-    "timestamp": 3299,
-    "status": "REJECTED",
-    "team_id": "4"
+    "timestamp": 2489,
+    "status": "REJECTED"
   },
   {
-    "problem_id": "2",
-    "timestamp": 14580,
-    "status": "ACCEPTED",
-    "team_id": "4"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 4620,
-    "status": "ACCEPTED",
-    "team_id": "4"
-  },
-  {
+    "team_id": "5",
     "problem_id": "5",
-    "timestamp": 8700,
-    "status": "ACCEPTED",
-    "team_id": "4"
+    "timestamp": 2561,
+    "status": "REJECTED"
   },
   {
-    "problem_id": "6",
-    "timestamp": 10260,
-    "status": "ACCEPTED",
-    "team_id": "4"
+    "team_id": "8",
+    "problem_id": "5",
+    "timestamp": 2591,
+    "status": "REJECTED"
   },
   {
-    "problem_id": "6",
-    "timestamp": 10259,
-    "status": "REJECTED",
-    "team_id": "4"
-  },
-  {
-    "problem_id": "8",
-    "timestamp": 0,
-    "status": "REJECTED",
-    "team_id": "4"
-  },
-  {
-    "problem_id": "8",
-    "timestamp": 1,
-    "status": "REJECTED",
-    "team_id": "4"
-  },
-  {
+    "team_id": "34",
     "problem_id": "11",
-    "timestamp": 780,
-    "status": "ACCEPTED",
-    "team_id": "4"
+    "timestamp": 2643,
+    "status": "REJECTED"
   },
   {
+    "team_id": "10",
+    "problem_id": "3",
+    "timestamp": 2653,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "25",
+    "problem_id": "11",
+    "timestamp": 2694,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "24",
+    "problem_id": "3",
+    "timestamp": 2718,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "11",
     "problem_id": "0",
-    "timestamp": 1980,
-    "status": "ACCEPTED",
-    "team_id": "5"
+    "timestamp": 2729,
+    "status": "ACCEPTED"
   },
   {
-    "problem_id": "2",
-    "timestamp": 14040,
-    "status": "ACCEPTED",
-    "team_id": "5"
-  },
-  {
-    "problem_id": "2",
-    "timestamp": 14039,
-    "status": "REJECTED",
-    "team_id": "5"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 4500,
-    "status": "ACCEPTED",
-    "team_id": "5"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 10080,
-    "status": "ACCEPTED",
-    "team_id": "5"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 10079,
-    "status": "REJECTED",
-    "team_id": "5"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 10078,
-    "status": "REJECTED",
-    "team_id": "5"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 10077,
-    "status": "REJECTED",
-    "team_id": "5"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 10076,
-    "status": "REJECTED",
-    "team_id": "5"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 10075,
-    "status": "REJECTED",
-    "team_id": "5"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 10074,
-    "status": "REJECTED",
-    "team_id": "5"
-  },
-  {
-    "problem_id": "6",
-    "timestamp": 17520,
-    "status": "ACCEPTED",
-    "team_id": "5"
-  },
-  {
+    "team_id": "23",
     "problem_id": "11",
-    "timestamp": 1080,
-    "status": "ACCEPTED",
-    "team_id": "5"
+    "timestamp": 2788,
+    "status": "ACCEPTED"
   },
   {
+    "team_id": "12",
+    "problem_id": "3",
+    "timestamp": 2842,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "34",
+    "problem_id": "11",
+    "timestamp": 2897,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "27",
+    "problem_id": "11",
+    "timestamp": 2938,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "10",
+    "problem_id": "3",
+    "timestamp": 3015,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "1",
+    "problem_id": "5",
+    "timestamp": 3017,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "6",
+    "problem_id": "3",
+    "timestamp": 3075,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "19",
+    "problem_id": "3",
+    "timestamp": 3105,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "45",
+    "problem_id": "11",
+    "timestamp": 3215,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "48",
     "problem_id": "0",
-    "timestamp": 16680,
-    "status": "ACCEPTED",
-    "team_id": "6"
+    "timestamp": 3256,
+    "status": "REJECTED"
   },
   {
+    "team_id": "1",
     "problem_id": "2",
-    "timestamp": 6720,
-    "status": "ACCEPTED",
-    "team_id": "6"
+    "timestamp": 3298,
+    "status": "REJECTED"
   },
   {
-    "problem_id": "2",
-    "timestamp": 6719,
-    "status": "REJECTED",
-    "team_id": "6"
-  },
-  {
-    "problem_id": "2",
-    "timestamp": 6718,
-    "status": "REJECTED",
-    "team_id": "6"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 3060,
-    "status": "ACCEPTED",
-    "team_id": "6"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 11940,
-    "status": "ACCEPTED",
-    "team_id": "6"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 11939,
-    "status": "REJECTED",
-    "team_id": "6"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 11938,
-    "status": "REJECTED",
-    "team_id": "6"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 11937,
-    "status": "REJECTED",
-    "team_id": "6"
-  },
-  {
-    "problem_id": "6",
-    "timestamp": 14520,
-    "status": "ACCEPTED",
-    "team_id": "6"
-  },
-  {
-    "problem_id": "6",
-    "timestamp": 14519,
-    "status": "REJECTED",
-    "team_id": "6"
-  },
-  {
-    "problem_id": "6",
-    "timestamp": 14518,
-    "status": "REJECTED",
-    "team_id": "6"
-  },
-  {
-    "problem_id": "11",
-    "timestamp": 360,
-    "status": "ACCEPTED",
-    "team_id": "6"
-  },
-  {
+    "team_id": "14",
     "problem_id": "0",
-    "timestamp": 9960,
-    "status": "ACCEPTED",
-    "team_id": "7"
+    "timestamp": 3312,
+    "status": "ACCEPTED"
   },
   {
+    "team_id": "4",
     "problem_id": "0",
-    "timestamp": 9959,
-    "status": "REJECTED",
-    "team_id": "7"
+    "timestamp": 3351,
+    "status": "ACCEPTED"
   },
   {
-    "problem_id": "2",
-    "timestamp": 17280,
-    "status": "ACCEPTED",
-    "team_id": "7"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 7920,
-    "status": "ACCEPTED",
-    "team_id": "7"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 7919,
-    "status": "REJECTED",
-    "team_id": "7"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 14280,
-    "status": "ACCEPTED",
-    "team_id": "7"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 14279,
-    "status": "REJECTED",
-    "team_id": "7"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 14278,
-    "status": "REJECTED",
-    "team_id": "7"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 14277,
-    "status": "REJECTED",
-    "team_id": "7"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 14276,
-    "status": "REJECTED",
-    "team_id": "7"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 14275,
-    "status": "REJECTED",
-    "team_id": "7"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 14274,
-    "status": "REJECTED",
-    "team_id": "7"
-  },
-  {
-    "problem_id": "6",
-    "timestamp": 16140,
-    "status": "ACCEPTED",
-    "team_id": "7"
-  },
-  {
-    "problem_id": "10",
-    "timestamp": 0,
-    "status": "REJECTED",
-    "team_id": "7"
-  },
-  {
+    "team_id": "24",
     "problem_id": "11",
-    "timestamp": 720,
-    "status": "ACCEPTED",
-    "team_id": "7"
+    "timestamp": 3389,
+    "status": "ACCEPTED"
   },
   {
+    "team_id": "8",
+    "problem_id": "3",
+    "timestamp": 3433,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "8",
+    "problem_id": "3",
+    "timestamp": 3515,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "34",
+    "problem_id": "3",
+    "timestamp": 3527,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "2",
+    "problem_id": "5",
+    "timestamp": 3630,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "3",
     "problem_id": "0",
-    "timestamp": 15360,
-    "status": "ACCEPTED",
-    "team_id": "8"
+    "timestamp": 3682,
+    "status": "ACCEPTED"
   },
   {
-    "problem_id": "2",
-    "timestamp": 16740,
-    "status": "ACCEPTED",
-    "team_id": "8"
-  },
-  {
+    "team_id": "16",
     "problem_id": "3",
-    "timestamp": 3480,
-    "status": "ACCEPTED",
-    "team_id": "8"
+    "timestamp": 3692,
+    "status": "ACCEPTED"
   },
   {
+    "team_id": "15",
     "problem_id": "3",
-    "timestamp": 3479,
-    "status": "REJECTED",
-    "team_id": "8"
+    "timestamp": 3756,
+    "status": "ACCEPTED"
   },
   {
-    "problem_id": "5",
-    "timestamp": 16140,
-    "status": "ACCEPTED",
-    "team_id": "8"
+    "team_id": "33",
+    "problem_id": "3",
+    "timestamp": 3863,
+    "status": "REJECTED"
   },
   {
-    "problem_id": "5",
-    "timestamp": 16139,
-    "status": "REJECTED",
-    "team_id": "8"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 16138,
-    "status": "REJECTED",
-    "team_id": "8"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 16137,
-    "status": "REJECTED",
-    "team_id": "8"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 16136,
-    "status": "REJECTED",
-    "team_id": "8"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 16135,
-    "status": "REJECTED",
-    "team_id": "8"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 16134,
-    "status": "REJECTED",
-    "team_id": "8"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 16133,
-    "status": "REJECTED",
-    "team_id": "8"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 16132,
-    "status": "REJECTED",
-    "team_id": "8"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 16131,
-    "status": "REJECTED",
-    "team_id": "8"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 16130,
-    "status": "REJECTED",
-    "team_id": "8"
-  },
-  {
-    "problem_id": "6",
-    "timestamp": 0,
-    "status": "REJECTED",
-    "team_id": "8"
-  },
-  {
-    "problem_id": "8",
-    "timestamp": 0,
-    "status": "REJECTED",
-    "team_id": "8"
-  },
-  {
-    "problem_id": "8",
-    "timestamp": 1,
-    "status": "REJECTED",
-    "team_id": "8"
-  },
-  {
-    "problem_id": "8",
-    "timestamp": 2,
-    "status": "REJECTED",
-    "team_id": "8"
-  },
-  {
-    "problem_id": "8",
-    "timestamp": 3,
-    "status": "REJECTED",
-    "team_id": "8"
-  },
-  {
-    "problem_id": "8",
-    "timestamp": 4,
-    "status": "REJECTED",
-    "team_id": "8"
-  },
-  {
-    "problem_id": "8",
-    "timestamp": 5,
-    "status": "REJECTED",
-    "team_id": "8"
-  },
-  {
-    "problem_id": "8",
-    "timestamp": 6,
-    "status": "REJECTED",
-    "team_id": "8"
-  },
-  {
-    "problem_id": "9",
-    "timestamp": 9540,
-    "status": "ACCEPTED",
-    "team_id": "8"
-  },
-  {
-    "problem_id": "9",
-    "timestamp": 9539,
-    "status": "REJECTED",
-    "team_id": "8"
-  },
-  {
+    "team_id": "35",
     "problem_id": "11",
-    "timestamp": 1560,
-    "status": "ACCEPTED",
-    "team_id": "8"
+    "timestamp": 3879,
+    "status": "ACCEPTED"
   },
   {
-    "problem_id": "0",
-    "timestamp": 8100,
-    "status": "ACCEPTED",
-    "team_id": "9"
-  },
-  {
-    "problem_id": "2",
-    "timestamp": 16440,
-    "status": "ACCEPTED",
-    "team_id": "9"
-  },
-  {
-    "problem_id": "2",
-    "timestamp": 16439,
-    "status": "REJECTED",
-    "team_id": "9"
-  },
-  {
-    "problem_id": "2",
-    "timestamp": 16438,
-    "status": "REJECTED",
-    "team_id": "9"
-  },
-  {
-    "problem_id": "2",
-    "timestamp": 16437,
-    "status": "REJECTED",
-    "team_id": "9"
-  },
-  {
-    "problem_id": "2",
-    "timestamp": 16436,
-    "status": "REJECTED",
-    "team_id": "9"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 5280,
-    "status": "ACCEPTED",
-    "team_id": "9"
-  },
-  {
+    "team_id": "2",
     "problem_id": "5",
-    "timestamp": 12300,
-    "status": "ACCEPTED",
-    "team_id": "9"
+    "timestamp": 3893,
+    "status": "REJECTED"
   },
   {
-    "problem_id": "5",
-    "timestamp": 12299,
-    "status": "REJECTED",
-    "team_id": "9"
-  },
-  {
-    "problem_id": "6",
-    "timestamp": 16200,
-    "status": "ACCEPTED",
-    "team_id": "9"
-  },
-  {
-    "problem_id": "6",
-    "timestamp": 16199,
-    "status": "REJECTED",
-    "team_id": "9"
-  },
-  {
+    "team_id": "18",
     "problem_id": "11",
-    "timestamp": 9960,
-    "status": "ACCEPTED",
-    "team_id": "9"
+    "timestamp": 3932,
+    "status": "ACCEPTED"
   },
   {
-    "problem_id": "11",
-    "timestamp": 9959,
-    "status": "REJECTED",
-    "team_id": "9"
-  },
-  {
-    "problem_id": "11",
-    "timestamp": 9958,
-    "status": "REJECTED",
-    "team_id": "9"
-  },
-  {
-    "problem_id": "11",
-    "timestamp": 9957,
-    "status": "REJECTED",
-    "team_id": "9"
-  },
-  {
-    "problem_id": "11",
-    "timestamp": 9956,
-    "status": "REJECTED",
-    "team_id": "9"
-  },
-  {
-    "problem_id": "0",
-    "timestamp": 6960,
-    "status": "ACCEPTED",
-    "team_id": "10"
-  },
-  {
-    "problem_id": "2",
-    "timestamp": 0,
-    "status": "REJECTED",
-    "team_id": "10"
-  },
-  {
-    "problem_id": "2",
-    "timestamp": 1,
-    "status": "REJECTED",
-    "team_id": "10"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 3000,
-    "status": "ACCEPTED",
-    "team_id": "10"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 2999,
-    "status": "REJECTED",
-    "team_id": "10"
-  },
-  {
-    "problem_id": "4",
-    "timestamp": 0,
-    "status": "REJECTED",
-    "team_id": "10"
-  },
-  {
-    "problem_id": "4",
-    "timestamp": 1,
-    "status": "REJECTED",
-    "team_id": "10"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 7860,
-    "status": "ACCEPTED",
-    "team_id": "10"
-  },
-  {
-    "problem_id": "6",
-    "timestamp": 13920,
-    "status": "ACCEPTED",
-    "team_id": "10"
-  },
-  {
-    "problem_id": "11",
-    "timestamp": 780,
-    "status": "ACCEPTED",
-    "team_id": "10"
-  },
-  {
-    "problem_id": "0",
-    "timestamp": 2700,
-    "status": "ACCEPTED",
-    "team_id": "11"
-  },
-  {
-    "problem_id": "2",
-    "timestamp": 0,
-    "status": "REJECTED",
-    "team_id": "11"
-  },
-  {
-    "problem_id": "2",
-    "timestamp": 1,
-    "status": "REJECTED",
-    "team_id": "11"
-  },
-  {
-    "problem_id": "2",
-    "timestamp": 2,
-    "status": "REJECTED",
-    "team_id": "11"
-  },
-  {
-    "problem_id": "2",
-    "timestamp": 3,
-    "status": "REJECTED",
-    "team_id": "11"
-  },
-  {
-    "problem_id": "2",
-    "timestamp": 4,
-    "status": "REJECTED",
-    "team_id": "11"
-  },
-  {
-    "problem_id": "2",
-    "timestamp": 5,
-    "status": "REJECTED",
-    "team_id": "11"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 7380,
-    "status": "ACCEPTED",
-    "team_id": "11"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 7379,
-    "status": "REJECTED",
-    "team_id": "11"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 7378,
-    "status": "REJECTED",
-    "team_id": "11"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 7377,
-    "status": "REJECTED",
-    "team_id": "11"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 8040,
-    "status": "ACCEPTED",
-    "team_id": "11"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 8039,
-    "status": "REJECTED",
-    "team_id": "11"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 8038,
-    "status": "REJECTED",
-    "team_id": "11"
-  },
-  {
-    "problem_id": "6",
-    "timestamp": 11340,
-    "status": "ACCEPTED",
-    "team_id": "11"
-  },
-  {
-    "problem_id": "6",
-    "timestamp": 11339,
-    "status": "REJECTED",
-    "team_id": "11"
-  },
-  {
-    "problem_id": "11",
-    "timestamp": 1140,
-    "status": "ACCEPTED",
-    "team_id": "11"
-  },
-  {
-    "problem_id": "0",
-    "timestamp": 16680,
-    "status": "ACCEPTED",
-    "team_id": "12"
-  },
-  {
-    "problem_id": "0",
-    "timestamp": 16679,
-    "status": "REJECTED",
-    "team_id": "12"
-  },
-  {
-    "problem_id": "0",
-    "timestamp": 16678,
-    "status": "REJECTED",
-    "team_id": "12"
-  },
-  {
-    "problem_id": "0",
-    "timestamp": 16677,
-    "status": "REJECTED",
-    "team_id": "12"
-  },
-  {
-    "problem_id": "0",
-    "timestamp": 16676,
-    "status": "REJECTED",
-    "team_id": "12"
-  },
-  {
-    "problem_id": "0",
-    "timestamp": 16675,
-    "status": "REJECTED",
-    "team_id": "12"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 2820,
-    "status": "ACCEPTED",
-    "team_id": "12"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 2819,
-    "status": "REJECTED",
-    "team_id": "12"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 4440,
-    "status": "ACCEPTED",
-    "team_id": "12"
-  },
-  {
-    "problem_id": "6",
-    "timestamp": 7200,
-    "status": "ACCEPTED",
-    "team_id": "12"
-  },
-  {
-    "problem_id": "6",
-    "timestamp": 7199,
-    "status": "REJECTED",
-    "team_id": "12"
-  },
-  {
-    "problem_id": "11",
-    "timestamp": 720,
-    "status": "ACCEPTED",
-    "team_id": "12"
-  },
-  {
-    "problem_id": "11",
-    "timestamp": 719,
-    "status": "REJECTED",
-    "team_id": "12"
-  },
-  {
-    "problem_id": "0",
-    "timestamp": 4560,
-    "status": "ACCEPTED",
-    "team_id": "13"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 6060,
-    "status": "ACCEPTED",
-    "team_id": "13"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 10140,
-    "status": "ACCEPTED",
-    "team_id": "13"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 10139,
-    "status": "REJECTED",
-    "team_id": "13"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 10138,
-    "status": "REJECTED",
-    "team_id": "13"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 10137,
-    "status": "REJECTED",
-    "team_id": "13"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 10136,
-    "status": "REJECTED",
-    "team_id": "13"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 10135,
-    "status": "REJECTED",
-    "team_id": "13"
-  },
-  {
-    "problem_id": "6",
-    "timestamp": 13560,
-    "status": "ACCEPTED",
-    "team_id": "13"
-  },
-  {
-    "problem_id": "6",
-    "timestamp": 13559,
-    "status": "REJECTED",
-    "team_id": "13"
-  },
-  {
-    "problem_id": "8",
-    "timestamp": 0,
-    "status": "REJECTED",
-    "team_id": "13"
-  },
-  {
-    "problem_id": "8",
-    "timestamp": 1,
-    "status": "REJECTED",
-    "team_id": "13"
-  },
-  {
-    "problem_id": "8",
-    "timestamp": 2,
-    "status": "REJECTED",
-    "team_id": "13"
-  },
-  {
-    "problem_id": "11",
-    "timestamp": 780,
-    "status": "ACCEPTED",
-    "team_id": "13"
-  },
-  {
-    "problem_id": "0",
-    "timestamp": 3300,
-    "status": "ACCEPTED",
-    "team_id": "14"
-  },
-  {
-    "problem_id": "2",
-    "timestamp": 11640,
-    "status": "ACCEPTED",
-    "team_id": "14"
-  },
-  {
-    "problem_id": "2",
-    "timestamp": 11639,
-    "status": "REJECTED",
-    "team_id": "14"
-  },
-  {
-    "problem_id": "2",
-    "timestamp": 11638,
-    "status": "REJECTED",
-    "team_id": "14"
-  },
-  {
-    "problem_id": "2",
-    "timestamp": 11637,
-    "status": "REJECTED",
-    "team_id": "14"
-  },
-  {
-    "problem_id": "2",
-    "timestamp": 11636,
-    "status": "REJECTED",
-    "team_id": "14"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 9720,
-    "status": "ACCEPTED",
-    "team_id": "14"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 9719,
-    "status": "REJECTED",
-    "team_id": "14"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 9718,
-    "status": "REJECTED",
-    "team_id": "14"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 0,
-    "status": "REJECTED",
-    "team_id": "14"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 1,
-    "status": "REJECTED",
-    "team_id": "14"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 2,
-    "status": "REJECTED",
-    "team_id": "14"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 3,
-    "status": "REJECTED",
-    "team_id": "14"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 4,
-    "status": "REJECTED",
-    "team_id": "14"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 5,
-    "status": "REJECTED",
-    "team_id": "14"
-  },
-  {
-    "problem_id": "6",
-    "timestamp": 13200,
-    "status": "ACCEPTED",
-    "team_id": "14"
-  },
-  {
-    "problem_id": "11",
-    "timestamp": 1620,
-    "status": "ACCEPTED",
-    "team_id": "14"
-  },
-  {
-    "problem_id": "11",
-    "timestamp": 1619,
-    "status": "REJECTED",
-    "team_id": "14"
-  },
-  {
-    "problem_id": "0",
-    "timestamp": 13080,
-    "status": "ACCEPTED",
-    "team_id": "15"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 3720,
-    "status": "ACCEPTED",
-    "team_id": "15"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 16620,
-    "status": "ACCEPTED",
-    "team_id": "15"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 16619,
-    "status": "REJECTED",
-    "team_id": "15"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 16618,
-    "status": "REJECTED",
-    "team_id": "15"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 16617,
-    "status": "REJECTED",
-    "team_id": "15"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 16616,
-    "status": "REJECTED",
-    "team_id": "15"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 16615,
-    "status": "REJECTED",
-    "team_id": "15"
-  },
-  {
-    "problem_id": "6",
-    "timestamp": 7800,
-    "status": "ACCEPTED",
-    "team_id": "15"
-  },
-  {
-    "problem_id": "11",
-    "timestamp": 840,
-    "status": "ACCEPTED",
-    "team_id": "15"
-  },
-  {
-    "problem_id": "0",
-    "timestamp": 5940,
-    "status": "ACCEPTED",
-    "team_id": "16"
-  },
-  {
-    "problem_id": "0",
-    "timestamp": 5939,
-    "status": "REJECTED",
-    "team_id": "16"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 3660,
-    "status": "ACCEPTED",
-    "team_id": "16"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 0,
-    "status": "REJECTED",
-    "team_id": "16"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 1,
-    "status": "REJECTED",
-    "team_id": "16"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 2,
-    "status": "REJECTED",
-    "team_id": "16"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 3,
-    "status": "REJECTED",
-    "team_id": "16"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 4,
-    "status": "REJECTED",
-    "team_id": "16"
-  },
-  {
-    "problem_id": "6",
-    "timestamp": 13980,
-    "status": "ACCEPTED",
-    "team_id": "16"
-  },
-  {
-    "problem_id": "11",
-    "timestamp": 840,
-    "status": "ACCEPTED",
-    "team_id": "16"
-  },
-  {
-    "problem_id": "0",
-    "timestamp": 11700,
-    "status": "ACCEPTED",
-    "team_id": "17"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 5580,
-    "status": "ACCEPTED",
-    "team_id": "17"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 15660,
-    "status": "ACCEPTED",
-    "team_id": "17"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 15659,
-    "status": "REJECTED",
-    "team_id": "17"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 15658,
-    "status": "REJECTED",
-    "team_id": "17"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 15657,
-    "status": "REJECTED",
-    "team_id": "17"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 15656,
-    "status": "REJECTED",
-    "team_id": "17"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 15655,
-    "status": "REJECTED",
-    "team_id": "17"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 15654,
-    "status": "REJECTED",
-    "team_id": "17"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 15653,
-    "status": "REJECTED",
-    "team_id": "17"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 15652,
-    "status": "REJECTED",
-    "team_id": "17"
-  },
-  {
-    "problem_id": "11",
-    "timestamp": 1560,
-    "status": "ACCEPTED",
-    "team_id": "17"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 5760,
-    "status": "ACCEPTED",
-    "team_id": "18"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 17580,
-    "status": "ACCEPTED",
-    "team_id": "18"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 17579,
-    "status": "REJECTED",
-    "team_id": "18"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 17578,
-    "status": "REJECTED",
-    "team_id": "18"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 17577,
-    "status": "REJECTED",
-    "team_id": "18"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 17576,
-    "status": "REJECTED",
-    "team_id": "18"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 17575,
-    "status": "REJECTED",
-    "team_id": "18"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 17574,
-    "status": "REJECTED",
-    "team_id": "18"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 17573,
-    "status": "REJECTED",
-    "team_id": "18"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 17572,
-    "status": "REJECTED",
-    "team_id": "18"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 17571,
-    "status": "REJECTED",
-    "team_id": "18"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 17570,
-    "status": "REJECTED",
-    "team_id": "18"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 17569,
-    "status": "REJECTED",
-    "team_id": "18"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 17568,
-    "status": "REJECTED",
-    "team_id": "18"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 17567,
-    "status": "REJECTED",
-    "team_id": "18"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 17566,
-    "status": "REJECTED",
-    "team_id": "18"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 17565,
-    "status": "REJECTED",
-    "team_id": "18"
-  },
-  {
-    "problem_id": "6",
-    "timestamp": 15360,
-    "status": "ACCEPTED",
-    "team_id": "18"
-  },
-  {
-    "problem_id": "6",
-    "timestamp": 15359,
-    "status": "REJECTED",
-    "team_id": "18"
-  },
-  {
-    "problem_id": "6",
-    "timestamp": 15358,
-    "status": "REJECTED",
-    "team_id": "18"
-  },
-  {
-    "problem_id": "11",
-    "timestamp": 3900,
-    "status": "ACCEPTED",
-    "team_id": "18"
-  },
-  {
-    "problem_id": "11",
-    "timestamp": 3899,
-    "status": "REJECTED",
-    "team_id": "18"
-  },
-  {
-    "problem_id": "11",
-    "timestamp": 3898,
-    "status": "REJECTED",
-    "team_id": "18"
-  },
-  {
-    "problem_id": "11",
-    "timestamp": 3897,
-    "status": "REJECTED",
-    "team_id": "18"
-  },
-  {
-    "problem_id": "11",
-    "timestamp": 3896,
-    "status": "REJECTED",
-    "team_id": "18"
-  },
-  {
-    "problem_id": "0",
-    "timestamp": 0,
-    "status": "REJECTED",
-    "team_id": "19"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 3060,
-    "status": "ACCEPTED",
-    "team_id": "19"
-  },
-  {
-    "problem_id": "4",
-    "timestamp": 0,
-    "status": "REJECTED",
-    "team_id": "19"
-  },
-  {
-    "problem_id": "4",
-    "timestamp": 1,
-    "status": "REJECTED",
-    "team_id": "19"
-  },
-  {
-    "problem_id": "4",
-    "timestamp": 2,
-    "status": "REJECTED",
-    "team_id": "19"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 7500,
-    "status": "ACCEPTED",
-    "team_id": "19"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 7499,
-    "status": "REJECTED",
-    "team_id": "19"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 7498,
-    "status": "REJECTED",
-    "team_id": "19"
-  },
-  {
-    "problem_id": "6",
-    "timestamp": 0,
-    "status": "REJECTED",
-    "team_id": "19"
-  },
-  {
-    "problem_id": "6",
-    "timestamp": 1,
-    "status": "REJECTED",
-    "team_id": "19"
-  },
-  {
-    "problem_id": "11",
-    "timestamp": 1020,
-    "status": "ACCEPTED",
-    "team_id": "19"
-  },
-  {
-    "problem_id": "2",
-    "timestamp": 0,
-    "status": "REJECTED",
-    "team_id": "20"
-  },
-  {
-    "problem_id": "2",
-    "timestamp": 1,
-    "status": "REJECTED",
-    "team_id": "20"
-  },
-  {
-    "problem_id": "2",
-    "timestamp": 2,
-    "status": "REJECTED",
-    "team_id": "20"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 4260,
-    "status": "ACCEPTED",
-    "team_id": "20"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 4259,
-    "status": "REJECTED",
-    "team_id": "20"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 6000,
-    "status": "ACCEPTED",
-    "team_id": "20"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 5999,
-    "status": "REJECTED",
-    "team_id": "20"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 5998,
-    "status": "REJECTED",
-    "team_id": "20"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 5997,
-    "status": "REJECTED",
-    "team_id": "20"
-  },
-  {
-    "problem_id": "6",
-    "timestamp": 0,
-    "status": "REJECTED",
-    "team_id": "20"
-  },
-  {
-    "problem_id": "6",
-    "timestamp": 1,
-    "status": "REJECTED",
-    "team_id": "20"
-  },
-  {
-    "problem_id": "6",
-    "timestamp": 2,
-    "status": "REJECTED",
-    "team_id": "20"
-  },
-  {
-    "problem_id": "11",
-    "timestamp": 1380,
-    "status": "ACCEPTED",
-    "team_id": "20"
-  },
-  {
-    "problem_id": "11",
-    "timestamp": 1379,
-    "status": "REJECTED",
-    "team_id": "20"
-  },
-  {
-    "problem_id": "2",
-    "timestamp": 0,
-    "status": "REJECTED",
-    "team_id": "21"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 4920,
-    "status": "ACCEPTED",
-    "team_id": "21"
-  },
-  {
-    "problem_id": "4",
-    "timestamp": 0,
-    "status": "REJECTED",
-    "team_id": "21"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 8400,
-    "status": "ACCEPTED",
-    "team_id": "21"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 8399,
-    "status": "REJECTED",
-    "team_id": "21"
-  },
-  {
-    "problem_id": "11",
-    "timestamp": 2280,
-    "status": "ACCEPTED",
-    "team_id": "21"
-  },
-  {
-    "problem_id": "11",
-    "timestamp": 2279,
-    "status": "REJECTED",
-    "team_id": "21"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 6300,
-    "status": "ACCEPTED",
-    "team_id": "22"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 9420,
-    "status": "ACCEPTED",
-    "team_id": "22"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 9419,
-    "status": "REJECTED",
-    "team_id": "22"
-  },
-  {
-    "problem_id": "11",
-    "timestamp": 2280,
-    "status": "ACCEPTED",
-    "team_id": "22"
-  },
-  {
-    "problem_id": "11",
-    "timestamp": 2279,
-    "status": "REJECTED",
-    "team_id": "22"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 4560,
-    "status": "ACCEPTED",
-    "team_id": "23"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 4559,
-    "status": "REJECTED",
-    "team_id": "23"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 12240,
-    "status": "ACCEPTED",
-    "team_id": "23"
-  },
-  {
-    "problem_id": "6",
-    "timestamp": 0,
-    "status": "REJECTED",
-    "team_id": "23"
-  },
-  {
-    "problem_id": "6",
-    "timestamp": 1,
-    "status": "REJECTED",
-    "team_id": "23"
-  },
-  {
-    "problem_id": "6",
-    "timestamp": 2,
-    "status": "REJECTED",
-    "team_id": "23"
-  },
-  {
-    "problem_id": "11",
-    "timestamp": 2760,
-    "status": "ACCEPTED",
-    "team_id": "23"
-  },
-  {
-    "problem_id": "11",
-    "timestamp": 2759,
-    "status": "REJECTED",
-    "team_id": "23"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 2700,
-    "status": "ACCEPTED",
-    "team_id": "24"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 12900,
-    "status": "ACCEPTED",
-    "team_id": "24"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 12899,
-    "status": "REJECTED",
-    "team_id": "24"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 12898,
-    "status": "REJECTED",
-    "team_id": "24"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 12897,
-    "status": "REJECTED",
-    "team_id": "24"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 12896,
-    "status": "REJECTED",
-    "team_id": "24"
-  },
-  {
-    "problem_id": "6",
-    "timestamp": 0,
-    "status": "REJECTED",
-    "team_id": "24"
-  },
-  {
-    "problem_id": "6",
-    "timestamp": 1,
-    "status": "REJECTED",
-    "team_id": "24"
-  },
-  {
-    "problem_id": "6",
-    "timestamp": 2,
-    "status": "REJECTED",
-    "team_id": "24"
-  },
-  {
-    "problem_id": "6",
-    "timestamp": 3,
-    "status": "REJECTED",
-    "team_id": "24"
-  },
-  {
-    "problem_id": "6",
-    "timestamp": 4,
-    "status": "REJECTED",
-    "team_id": "24"
-  },
-  {
-    "problem_id": "11",
-    "timestamp": 3360,
-    "status": "ACCEPTED",
-    "team_id": "24"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 6120,
-    "status": "ACCEPTED",
-    "team_id": "25"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 6119,
-    "status": "REJECTED",
-    "team_id": "25"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 0,
-    "status": "REJECTED",
-    "team_id": "25"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 1,
-    "status": "REJECTED",
-    "team_id": "25"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 2,
-    "status": "REJECTED",
-    "team_id": "25"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 3,
-    "status": "REJECTED",
-    "team_id": "25"
-  },
-  {
-    "problem_id": "6",
-    "timestamp": 15900,
-    "status": "ACCEPTED",
-    "team_id": "25"
-  },
-  {
-    "problem_id": "6",
-    "timestamp": 15899,
-    "status": "REJECTED",
-    "team_id": "25"
-  },
-  {
-    "problem_id": "6",
-    "timestamp": 15898,
-    "status": "REJECTED",
-    "team_id": "25"
-  },
-  {
-    "problem_id": "11",
-    "timestamp": 2640,
-    "status": "ACCEPTED",
-    "team_id": "25"
-  },
-  {
-    "problem_id": "0",
-    "timestamp": 0,
-    "status": "REJECTED",
-    "team_id": "26"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 4860,
-    "status": "ACCEPTED",
-    "team_id": "26"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 4859,
-    "status": "REJECTED",
-    "team_id": "26"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 16920,
-    "status": "ACCEPTED",
-    "team_id": "26"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 16919,
-    "status": "REJECTED",
-    "team_id": "26"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 16918,
-    "status": "REJECTED",
-    "team_id": "26"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 16917,
-    "status": "REJECTED",
-    "team_id": "26"
-  },
-  {
-    "problem_id": "11",
-    "timestamp": 2460,
-    "status": "ACCEPTED",
-    "team_id": "26"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 7500,
-    "status": "ACCEPTED",
-    "team_id": "27"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 17460,
-    "status": "ACCEPTED",
-    "team_id": "27"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 17459,
-    "status": "REJECTED",
-    "team_id": "27"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 17458,
-    "status": "REJECTED",
-    "team_id": "27"
-  },
-  {
-    "problem_id": "11",
-    "timestamp": 2880,
-    "status": "ACCEPTED",
-    "team_id": "27"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 7860,
-    "status": "ACCEPTED",
-    "team_id": "28"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 7859,
-    "status": "REJECTED",
-    "team_id": "28"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 7858,
-    "status": "REJECTED",
-    "team_id": "28"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 7857,
-    "status": "REJECTED",
-    "team_id": "28"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 15180,
-    "status": "ACCEPTED",
-    "team_id": "28"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 15179,
-    "status": "REJECTED",
-    "team_id": "28"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 15178,
-    "status": "REJECTED",
-    "team_id": "28"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 15177,
-    "status": "REJECTED",
-    "team_id": "28"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 15176,
-    "status": "REJECTED",
-    "team_id": "28"
-  },
-  {
-    "problem_id": "11",
-    "timestamp": 720,
-    "status": "ACCEPTED",
-    "team_id": "28"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 16620,
-    "status": "ACCEPTED",
-    "team_id": "29"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 16619,
-    "status": "REJECTED",
-    "team_id": "29"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 16618,
-    "status": "REJECTED",
-    "team_id": "29"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 16617,
-    "status": "REJECTED",
-    "team_id": "29"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 16616,
-    "status": "REJECTED",
-    "team_id": "29"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 16615,
-    "status": "REJECTED",
-    "team_id": "29"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 16614,
-    "status": "REJECTED",
-    "team_id": "29"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 16613,
-    "status": "REJECTED",
-    "team_id": "29"
-  },
-  {
-    "problem_id": "4",
-    "timestamp": 0,
-    "status": "REJECTED",
-    "team_id": "29"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 0,
-    "status": "REJECTED",
-    "team_id": "29"
-  },
-  {
-    "problem_id": "6",
-    "timestamp": 4380,
-    "status": "ACCEPTED",
-    "team_id": "29"
-  },
-  {
-    "problem_id": "6",
-    "timestamp": 4379,
-    "status": "REJECTED",
-    "team_id": "29"
-  },
-  {
-    "problem_id": "11",
-    "timestamp": 1980,
-    "status": "ACCEPTED",
-    "team_id": "29"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 6840,
-    "status": "ACCEPTED",
-    "team_id": "30"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 17580,
-    "status": "ACCEPTED",
-    "team_id": "30"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 17579,
-    "status": "REJECTED",
-    "team_id": "30"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 17578,
-    "status": "REJECTED",
-    "team_id": "30"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 17577,
-    "status": "REJECTED",
-    "team_id": "30"
-  },
-  {
-    "problem_id": "11",
-    "timestamp": 5040,
-    "status": "ACCEPTED",
-    "team_id": "30"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 10620,
-    "status": "ACCEPTED",
-    "team_id": "31"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 10619,
-    "status": "REJECTED",
-    "team_id": "31"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 15780,
-    "status": "ACCEPTED",
-    "team_id": "31"
-  },
-  {
-    "problem_id": "11",
-    "timestamp": 7380,
-    "status": "ACCEPTED",
-    "team_id": "31"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 9960,
-    "status": "ACCEPTED",
-    "team_id": "32"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 9959,
-    "status": "REJECTED",
-    "team_id": "32"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 9958,
-    "status": "REJECTED",
-    "team_id": "32"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 9957,
-    "status": "REJECTED",
-    "team_id": "32"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 13860,
-    "status": "ACCEPTED",
-    "team_id": "32"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 13859,
-    "status": "REJECTED",
-    "team_id": "32"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 13858,
-    "status": "REJECTED",
-    "team_id": "32"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 13857,
-    "status": "REJECTED",
-    "team_id": "32"
-  },
-  {
-    "problem_id": "11",
-    "timestamp": 8700,
-    "status": "ACCEPTED",
-    "team_id": "32"
-  },
-  {
-    "problem_id": "11",
-    "timestamp": 8699,
-    "status": "REJECTED",
-    "team_id": "32"
-  },
-  {
-    "problem_id": "11",
-    "timestamp": 8698,
-    "status": "REJECTED",
-    "team_id": "32"
-  },
-  {
-    "problem_id": "11",
-    "timestamp": 8697,
-    "status": "REJECTED",
-    "team_id": "32"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 4080,
-    "status": "ACCEPTED",
-    "team_id": "33"
-  },
-  {
+    "team_id": "20",
     "problem_id": "3",
     "timestamp": 4079,
-    "status": "REJECTED",
-    "team_id": "33"
+    "status": "REJECTED"
   },
   {
+    "team_id": "33",
+    "problem_id": "3",
+    "timestamp": 4089,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "2",
     "problem_id": "5",
-    "timestamp": 0,
-    "status": "REJECTED",
-    "team_id": "33"
+    "timestamp": 4095,
+    "status": "ACCEPTED"
   },
   {
+    "team_id": "29",
+    "problem_id": "6",
+    "timestamp": 4140,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "3",
     "problem_id": "5",
-    "timestamp": 1,
-    "status": "REJECTED",
-    "team_id": "33"
+    "timestamp": 4232,
+    "status": "REJECTED"
   },
   {
-    "problem_id": "5",
-    "timestamp": 2,
-    "status": "REJECTED",
-    "team_id": "33"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 3,
-    "status": "REJECTED",
-    "team_id": "33"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 4,
-    "status": "REJECTED",
-    "team_id": "33"
-  },
-  {
-    "problem_id": "11",
-    "timestamp": 1020,
-    "status": "ACCEPTED",
-    "team_id": "33"
-  },
-  {
+    "team_id": "1",
     "problem_id": "2",
-    "timestamp": 0,
-    "status": "REJECTED",
-    "team_id": "34"
+    "timestamp": 4303,
+    "status": "ACCEPTED"
   },
   {
-    "problem_id": "2",
-    "timestamp": 1,
-    "status": "REJECTED",
-    "team_id": "34"
-  },
-  {
-    "problem_id": "2",
-    "timestamp": 2,
-    "status": "REJECTED",
-    "team_id": "34"
-  },
-  {
-    "problem_id": "2",
-    "timestamp": 3,
-    "status": "REJECTED",
-    "team_id": "34"
-  },
-  {
-    "problem_id": "2",
-    "timestamp": 4,
-    "status": "REJECTED",
-    "team_id": "34"
-  },
-  {
-    "problem_id": "2",
-    "timestamp": 5,
-    "status": "REJECTED",
-    "team_id": "34"
-  },
-  {
-    "problem_id": "2",
-    "timestamp": 6,
-    "status": "REJECTED",
-    "team_id": "34"
-  },
-  {
-    "problem_id": "2",
-    "timestamp": 7,
-    "status": "REJECTED",
-    "team_id": "34"
-  },
-  {
-    "problem_id": "2",
-    "timestamp": 8,
-    "status": "REJECTED",
-    "team_id": "34"
-  },
-  {
-    "problem_id": "2",
-    "timestamp": 9,
-    "status": "REJECTED",
-    "team_id": "34"
-  },
-  {
+    "team_id": "20",
     "problem_id": "3",
-    "timestamp": 3480,
-    "status": "ACCEPTED",
-    "team_id": "34"
+    "timestamp": 4317,
+    "status": "ACCEPTED"
   },
   {
-    "problem_id": "5",
-    "timestamp": 0,
-    "status": "REJECTED",
-    "team_id": "34"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 1,
-    "status": "REJECTED",
-    "team_id": "34"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 2,
-    "status": "REJECTED",
-    "team_id": "34"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 3,
-    "status": "REJECTED",
-    "team_id": "34"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 4,
-    "status": "REJECTED",
-    "team_id": "34"
-  },
-  {
-    "problem_id": "11",
-    "timestamp": 2880,
-    "status": "ACCEPTED",
-    "team_id": "34"
-  },
-  {
-    "problem_id": "11",
-    "timestamp": 2879,
-    "status": "REJECTED",
-    "team_id": "34"
-  },
-  {
+    "team_id": "26",
     "problem_id": "3",
-    "timestamp": 7080,
-    "status": "ACCEPTED",
-    "team_id": "35"
+    "timestamp": 4390,
+    "status": "REJECTED"
   },
   {
-    "problem_id": "3",
-    "timestamp": 7079,
-    "status": "REJECTED",
-    "team_id": "35"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 7078,
-    "status": "REJECTED",
-    "team_id": "35"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 0,
-    "status": "REJECTED",
-    "team_id": "35"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 1,
-    "status": "REJECTED",
-    "team_id": "35"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 2,
-    "status": "REJECTED",
-    "team_id": "35"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 3,
-    "status": "REJECTED",
-    "team_id": "35"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 4,
-    "status": "REJECTED",
-    "team_id": "35"
-  },
-  {
-    "problem_id": "11",
-    "timestamp": 3840,
-    "status": "ACCEPTED",
-    "team_id": "35"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 5460,
-    "status": "ACCEPTED",
-    "team_id": "36"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 0,
-    "status": "REJECTED",
-    "team_id": "36"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 1,
-    "status": "REJECTED",
-    "team_id": "36"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 2,
-    "status": "REJECTED",
-    "team_id": "36"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 3,
-    "status": "REJECTED",
-    "team_id": "36"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 4,
-    "status": "REJECTED",
-    "team_id": "36"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 5,
-    "status": "REJECTED",
-    "team_id": "36"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 6,
-    "status": "REJECTED",
-    "team_id": "36"
-  },
-  {
-    "problem_id": "11",
-    "timestamp": 8460,
-    "status": "ACCEPTED",
-    "team_id": "36"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 8040,
-    "status": "ACCEPTED",
-    "team_id": "37"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 8039,
-    "status": "REJECTED",
-    "team_id": "37"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 8038,
-    "status": "REJECTED",
-    "team_id": "37"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 8037,
-    "status": "REJECTED",
-    "team_id": "37"
-  },
-  {
+    "team_id": "29",
     "problem_id": "6",
-    "timestamp": 0,
-    "status": "REJECTED",
-    "team_id": "37"
+    "timestamp": 4405,
+    "status": "ACCEPTED"
   },
   {
-    "problem_id": "6",
-    "timestamp": 1,
-    "status": "REJECTED",
-    "team_id": "37"
-  },
-  {
-    "problem_id": "6",
-    "timestamp": 2,
-    "status": "REJECTED",
-    "team_id": "37"
-  },
-  {
-    "problem_id": "6",
-    "timestamp": 3,
-    "status": "REJECTED",
-    "team_id": "37"
-  },
-  {
-    "problem_id": "6",
-    "timestamp": 4,
-    "status": "REJECTED",
-    "team_id": "37"
-  },
-  {
-    "problem_id": "6",
-    "timestamp": 5,
-    "status": "REJECTED",
-    "team_id": "37"
-  },
-  {
-    "problem_id": "11",
-    "timestamp": 11040,
-    "status": "ACCEPTED",
-    "team_id": "37"
-  },
-  {
+    "team_id": "23",
     "problem_id": "3",
-    "timestamp": 16140,
-    "status": "ACCEPTED",
-    "team_id": "38"
+    "timestamp": 4421,
+    "status": "REJECTED"
   },
   {
+    "team_id": "12",
     "problem_id": "5",
-    "timestamp": 0,
-    "status": "REJECTED",
-    "team_id": "38"
+    "timestamp": 4468,
+    "status": "ACCEPTED"
   },
   {
-    "problem_id": "11",
-    "timestamp": 9780,
-    "status": "ACCEPTED",
-    "team_id": "38"
-  },
-  {
+    "team_id": "5",
     "problem_id": "3",
-    "timestamp": 7080,
-    "status": "ACCEPTED",
-    "team_id": "39"
+    "timestamp": 4513,
+    "status": "ACCEPTED"
   },
   {
+    "team_id": "23",
     "problem_id": "3",
-    "timestamp": 7079,
-    "status": "REJECTED",
-    "team_id": "39"
+    "timestamp": 4573,
+    "status": "ACCEPTED"
   },
   {
-    "problem_id": "5",
-    "timestamp": 0,
-    "status": "REJECTED",
-    "team_id": "39"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 1,
-    "status": "REJECTED",
-    "team_id": "39"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 2,
-    "status": "REJECTED",
-    "team_id": "39"
-  },
-  {
-    "problem_id": "5",
-    "timestamp": 3,
-    "status": "REJECTED",
-    "team_id": "39"
-  },
-  {
-    "problem_id": "11",
-    "timestamp": 17760,
-    "status": "ACCEPTED",
-    "team_id": "39"
-  },
-  {
+    "team_id": "42",
     "problem_id": "3",
-    "timestamp": 15780,
-    "status": "ACCEPTED",
-    "team_id": "40"
+    "timestamp": 4585,
+    "status": "REJECTED"
   },
   {
-    "problem_id": "3",
-    "timestamp": 15779,
-    "status": "REJECTED",
-    "team_id": "40"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 15778,
-    "status": "REJECTED",
-    "team_id": "40"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 15777,
-    "status": "REJECTED",
-    "team_id": "40"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 15776,
-    "status": "REJECTED",
-    "team_id": "40"
-  },
-  {
-    "problem_id": "11",
-    "timestamp": 17220,
-    "status": "ACCEPTED",
-    "team_id": "40"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 5580,
-    "status": "ACCEPTED",
-    "team_id": "41"
-  },
-  {
-    "problem_id": "6",
-    "timestamp": 0,
-    "status": "REJECTED",
-    "team_id": "41"
-  },
-  {
-    "problem_id": "6",
-    "timestamp": 1,
-    "status": "REJECTED",
-    "team_id": "41"
-  },
-  {
-    "problem_id": "6",
-    "timestamp": 2,
-    "status": "REJECTED",
-    "team_id": "41"
-  },
-  {
-    "problem_id": "6",
-    "timestamp": 3,
-    "status": "REJECTED",
-    "team_id": "41"
-  },
-  {
-    "problem_id": "6",
-    "timestamp": 4,
-    "status": "REJECTED",
-    "team_id": "41"
-  },
-  {
-    "problem_id": "6",
-    "timestamp": 5,
-    "status": "REJECTED",
-    "team_id": "41"
-  },
-  {
+    "team_id": "13",
     "problem_id": "0",
-    "timestamp": 0,
-    "status": "REJECTED",
-    "team_id": "42"
+    "timestamp": 4590,
+    "status": "ACCEPTED"
   },
   {
+    "team_id": "1",
+    "problem_id": "5",
+    "timestamp": 4639,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "4",
     "problem_id": "3",
-    "timestamp": 5160,
-    "status": "ACCEPTED",
-    "team_id": "42"
+    "timestamp": 4660,
+    "status": "ACCEPTED"
   },
   {
+    "team_id": "7",
+    "problem_id": "5",
+    "timestamp": 4710,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "32",
     "problem_id": "3",
-    "timestamp": 5159,
-    "status": "REJECTED",
-    "team_id": "42"
+    "timestamp": 4780,
+    "status": "REJECTED"
   },
   {
+    "team_id": "2",
+    "problem_id": "0",
+    "timestamp": 4802,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "26",
+    "problem_id": "3",
+    "timestamp": 4881,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "21",
+    "problem_id": "3",
+    "timestamp": 4934,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "32",
+    "problem_id": "3",
+    "timestamp": 4975,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "44",
+    "problem_id": "3",
+    "timestamp": 5027,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "30",
+    "problem_id": "11",
+    "timestamp": 5042,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "43",
+    "problem_id": "3",
+    "timestamp": 5077,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "42",
+    "problem_id": "3",
+    "timestamp": 5167,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "48",
+    "problem_id": "3",
+    "timestamp": 5168,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "43",
+    "problem_id": "3",
+    "timestamp": 5177,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "11",
+    "problem_id": "5",
+    "timestamp": 5181,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "6",
+    "problem_id": "2",
+    "timestamp": 5208,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "9",
+    "problem_id": "3",
+    "timestamp": 5292,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "44",
+    "problem_id": "3",
+    "timestamp": 5349,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "36",
+    "problem_id": "3",
+    "timestamp": 5479,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "32",
+    "problem_id": "3",
+    "timestamp": 5557,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "3",
+    "problem_id": "3",
+    "timestamp": 5566,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "17",
+    "problem_id": "3",
+    "timestamp": 5621,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "41",
+    "problem_id": "3",
+    "timestamp": 5622,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "16",
+    "problem_id": "0",
+    "timestamp": 5661,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "11",
+    "problem_id": "3",
+    "timestamp": 5714,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "18",
+    "problem_id": "3",
+    "timestamp": 5791,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "39",
+    "problem_id": "3",
+    "timestamp": 5830,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "16",
+    "problem_id": "0",
+    "timestamp": 5953,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "5",
+    "problem_id": "5",
+    "timestamp": 6019,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "25",
+    "problem_id": "3",
+    "timestamp": 6026,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "20",
+    "problem_id": "5",
+    "timestamp": 6038,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "44",
+    "problem_id": "3",
+    "timestamp": 6049,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "13",
+    "problem_id": "3",
+    "timestamp": 6067,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "37",
+    "problem_id": "3",
+    "timestamp": 6078,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "25",
+    "problem_id": "3",
+    "timestamp": 6140,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "15",
+    "problem_id": "5",
+    "timestamp": 6215,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "5",
+    "problem_id": "5",
+    "timestamp": 6216,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "34",
+    "problem_id": "5",
+    "timestamp": 6282,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "22",
+    "problem_id": "3",
+    "timestamp": 6304,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "11",
+    "problem_id": "3",
+    "timestamp": 6433,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "11",
+    "problem_id": "5",
+    "timestamp": 6438,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "34",
+    "problem_id": "5",
+    "timestamp": 6473,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "37",
+    "problem_id": "3",
+    "timestamp": 6483,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "14",
+    "problem_id": "3",
+    "timestamp": 6525,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "15",
+    "problem_id": "5",
+    "timestamp": 6575,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "3",
+    "problem_id": "5",
+    "timestamp": 6581,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "35",
+    "problem_id": "3",
+    "timestamp": 6623,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "24",
+    "problem_id": "5",
+    "timestamp": 6669,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "35",
+    "problem_id": "3",
+    "timestamp": 6725,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "14",
+    "problem_id": "5",
+    "timestamp": 6740,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "6",
+    "problem_id": "2",
+    "timestamp": 6775,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "19",
+    "problem_id": "5",
+    "timestamp": 6795,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "30",
+    "problem_id": "3",
+    "timestamp": 6852,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "12",
+    "problem_id": "6",
+    "timestamp": 6878,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "5",
+    "problem_id": "5",
+    "timestamp": 6902,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "8",
+    "problem_id": "5",
+    "timestamp": 6902,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "19",
+    "problem_id": "5",
+    "timestamp": 6905,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "24",
+    "problem_id": "5",
+    "timestamp": 6953,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "10",
+    "problem_id": "0",
+    "timestamp": 6964,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "28",
+    "problem_id": "3",
+    "timestamp": 7014,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "35",
+    "problem_id": "3",
+    "timestamp": 7080,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "11",
+    "problem_id": "3",
+    "timestamp": 7085,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "3",
+    "problem_id": "2",
+    "timestamp": 7099,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "39",
+    "problem_id": "3",
+    "timestamp": 7131,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "8",
+    "problem_id": "5",
+    "timestamp": 7216,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "37",
+    "problem_id": "3",
+    "timestamp": 7218,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "7",
+    "problem_id": "5",
+    "timestamp": 7253,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "12",
+    "problem_id": "6",
+    "timestamp": 7255,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "32",
+    "problem_id": "11",
+    "timestamp": 7377,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "28",
+    "problem_id": "3",
+    "timestamp": 7390,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "31",
+    "problem_id": "11",
+    "timestamp": 7401,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "11",
+    "problem_id": "3",
+    "timestamp": 7409,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "1",
+    "problem_id": "8",
+    "timestamp": 7480,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "19",
+    "problem_id": "5",
+    "timestamp": 7508,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "27",
+    "problem_id": "3",
+    "timestamp": 7526,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "7",
+    "problem_id": "3",
+    "timestamp": 7564,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "32",
+    "problem_id": "11",
+    "timestamp": 7623,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "1",
+    "problem_id": "4",
+    "timestamp": 7678,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "14",
+    "problem_id": "5",
+    "timestamp": 7687,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "3",
+    "problem_id": "2",
+    "timestamp": 7704,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "28",
+    "problem_id": "3",
+    "timestamp": 7742,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "48",
+    "problem_id": "9",
+    "timestamp": 7772,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "3",
+    "problem_id": "2",
+    "timestamp": 7832,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "15",
+    "problem_id": "6",
+    "timestamp": 7848,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "10",
+    "problem_id": "5",
+    "timestamp": 7872,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "24",
+    "problem_id": "5",
+    "timestamp": 7876,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "28",
+    "problem_id": "3",
+    "timestamp": 7878,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "3",
+    "problem_id": "2",
+    "timestamp": 7924,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "21",
+    "problem_id": "5",
+    "timestamp": 7960,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "7",
+    "problem_id": "3",
+    "timestamp": 7968,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "1",
+    "problem_id": "8",
+    "timestamp": 7999,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "11",
+    "problem_id": "5",
+    "timestamp": 8051,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "37",
+    "problem_id": "3",
+    "timestamp": 8071,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "9",
+    "problem_id": "0",
+    "timestamp": 8122,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "8",
+    "problem_id": "9",
+    "timestamp": 8218,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "3",
+    "problem_id": "2",
+    "timestamp": 8244,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "44",
+    "problem_id": "6",
+    "timestamp": 8255,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "9",
+    "problem_id": "11",
+    "timestamp": 8397,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "21",
+    "problem_id": "5",
+    "timestamp": 8446,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "15",
+    "problem_id": "5",
+    "timestamp": 8480,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "29",
+    "problem_id": "4",
+    "timestamp": 8494,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "36",
+    "problem_id": "11",
+    "timestamp": 8508,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "14",
+    "problem_id": "2",
+    "timestamp": 8548,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "3",
+    "problem_id": "2",
+    "timestamp": 8570,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "24",
+    "problem_id": "5",
+    "timestamp": 8585,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "43",
+    "problem_id": "9",
+    "timestamp": 8590,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "2",
+    "problem_id": "2",
+    "timestamp": 8634,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "32",
+    "problem_id": "11",
+    "timestamp": 8643,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "32",
+    "problem_id": "11",
+    "timestamp": 8709,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "4",
+    "problem_id": "5",
+    "timestamp": 8716,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "43",
+    "problem_id": "9",
+    "timestamp": 8745,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "14",
+    "problem_id": "3",
+    "timestamp": 8781,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "43",
+    "problem_id": "9",
+    "timestamp": 8836,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "13",
+    "problem_id": "5",
+    "timestamp": 8836,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "45",
+    "problem_id": "3",
+    "timestamp": 8845,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "9",
+    "problem_id": "11",
+    "timestamp": 8859,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "14",
+    "problem_id": "2",
+    "timestamp": 8916,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "28",
+    "problem_id": "5",
+    "timestamp": 8954,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "9",
+    "problem_id": "11",
+    "timestamp": 8966,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "7",
+    "problem_id": "5",
+    "timestamp": 9001,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "43",
     "problem_id": "1",
-    "timestamp": 0,
-    "status": "REJECTED",
-    "team_id": "43"
+    "timestamp": 9125,
+    "status": "REJECTED"
   },
   {
+    "team_id": "28",
+    "problem_id": "5",
+    "timestamp": 9169,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "22",
+    "problem_id": "5",
+    "timestamp": 9184,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "13",
+    "problem_id": "5",
+    "timestamp": 9206,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "14",
+    "problem_id": "2",
+    "timestamp": 9253,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "13",
+    "problem_id": "5",
+    "timestamp": 9358,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "43",
+    "problem_id": "9",
+    "timestamp": 9363,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "3",
+    "problem_id": "2",
+    "timestamp": 9369,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "14",
+    "problem_id": "2",
+    "timestamp": 9432,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "17",
+    "problem_id": "5",
+    "timestamp": 9433,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "31",
     "problem_id": "3",
-    "timestamp": 5160,
-    "status": "ACCEPTED",
-    "team_id": "43"
+    "timestamp": 9436,
+    "status": "REJECTED"
   },
   {
+    "team_id": "22",
+    "problem_id": "5",
+    "timestamp": 9437,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "1",
     "problem_id": "3",
-    "timestamp": 5159,
-    "status": "REJECTED",
-    "team_id": "43"
+    "timestamp": 9486,
+    "status": "ACCEPTED"
   },
   {
+    "team_id": "43",
     "problem_id": "9",
-    "timestamp": 0,
-    "status": "REJECTED",
-    "team_id": "43"
+    "timestamp": 9541,
+    "status": "REJECTED"
   },
   {
+    "team_id": "8",
     "problem_id": "9",
-    "timestamp": 1,
-    "status": "REJECTED",
-    "team_id": "43"
+    "timestamp": 9586,
+    "status": "ACCEPTED"
   },
   {
-    "problem_id": "9",
-    "timestamp": 2,
-    "status": "REJECTED",
-    "team_id": "43"
+    "team_id": "48",
+    "problem_id": "3",
+    "timestamp": 9610,
+    "status": "REJECTED"
   },
   {
-    "problem_id": "9",
-    "timestamp": 3,
-    "status": "REJECTED",
-    "team_id": "43"
+    "team_id": "13",
+    "problem_id": "5",
+    "timestamp": 9622,
+    "status": "REJECTED"
   },
   {
-    "problem_id": "9",
-    "timestamp": 4,
-    "status": "REJECTED",
-    "team_id": "43"
-  },
-  {
-    "problem_id": "9",
-    "timestamp": 5,
-    "status": "REJECTED",
-    "team_id": "43"
-  },
-  {
-    "problem_id": "9",
-    "timestamp": 6,
-    "status": "REJECTED",
-    "team_id": "43"
-  },
-  {
-    "problem_id": "9",
-    "timestamp": 7,
-    "status": "REJECTED",
-    "team_id": "43"
-  },
-  {
-    "problem_id": "9",
-    "timestamp": 8,
-    "status": "REJECTED",
-    "team_id": "43"
-  },
-  {
-    "problem_id": "9",
-    "timestamp": 9,
-    "status": "REJECTED",
-    "team_id": "43"
-  },
-  {
-    "problem_id": "9",
-    "timestamp": 10,
-    "status": "REJECTED",
-    "team_id": "43"
-  },
-  {
-    "problem_id": "9",
-    "timestamp": 11,
-    "status": "REJECTED",
-    "team_id": "43"
-  },
-  {
+    "team_id": "9",
     "problem_id": "11",
-    "timestamp": 0,
-    "status": "REJECTED",
-    "team_id": "43"
+    "timestamp": 9658,
+    "status": "REJECTED"
   },
   {
+    "team_id": "48",
+    "problem_id": "3",
+    "timestamp": 9703,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "14",
+    "problem_id": "3",
+    "timestamp": 9738,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "48",
+    "problem_id": "3",
+    "timestamp": 9765,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "7",
     "problem_id": "0",
-    "timestamp": 0,
-    "status": "REJECTED",
-    "team_id": "44"
+    "timestamp": 9769,
+    "status": "REJECTED"
   },
   {
+    "team_id": "47",
     "problem_id": "3",
-    "timestamp": 6000,
-    "status": "ACCEPTED",
-    "team_id": "44"
+    "timestamp": 9785,
+    "status": "REJECTED"
   },
   {
-    "problem_id": "3",
-    "timestamp": 5999,
-    "status": "REJECTED",
-    "team_id": "44"
+    "team_id": "13",
+    "problem_id": "5",
+    "timestamp": 9804,
+    "status": "REJECTED"
   },
   {
-    "problem_id": "3",
-    "timestamp": 5998,
-    "status": "REJECTED",
-    "team_id": "44"
-  },
-  {
-    "problem_id": "6",
-    "timestamp": 0,
-    "status": "REJECTED",
-    "team_id": "44"
-  },
-  {
-    "problem_id": "6",
-    "timestamp": 1,
-    "status": "REJECTED",
-    "team_id": "44"
-  },
-  {
-    "problem_id": "6",
-    "timestamp": 2,
-    "status": "REJECTED",
-    "team_id": "44"
-  },
-  {
-    "problem_id": "6",
-    "timestamp": 3,
-    "status": "REJECTED",
-    "team_id": "44"
-  },
-  {
-    "problem_id": "6",
-    "timestamp": 4,
-    "status": "REJECTED",
-    "team_id": "44"
-  },
-  {
-    "problem_id": "6",
-    "timestamp": 5,
-    "status": "REJECTED",
-    "team_id": "44"
-  },
-  {
-    "problem_id": "6",
-    "timestamp": 6,
-    "status": "REJECTED",
-    "team_id": "44"
-  },
-  {
-    "problem_id": "9",
-    "timestamp": 0,
-    "status": "REJECTED",
-    "team_id": "44"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 8820,
-    "status": "ACCEPTED",
-    "team_id": "45"
-  },
-  {
+    "team_id": "38",
     "problem_id": "11",
-    "timestamp": 0,
-    "status": "REJECTED",
-    "team_id": "45"
+    "timestamp": 9828,
+    "status": "ACCEPTED"
   },
   {
+    "team_id": "7",
+    "problem_id": "5",
+    "timestamp": 9865,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "48",
     "problem_id": "3",
-    "timestamp": 10740,
-    "status": "ACCEPTED",
-    "team_id": "46"
+    "timestamp": 9877,
+    "status": "ACCEPTED"
   },
   {
-    "problem_id": "3",
-    "timestamp": 10739,
-    "status": "REJECTED",
-    "team_id": "46"
-  },
-  {
-    "problem_id": "8",
-    "timestamp": 0,
-    "status": "REJECTED",
-    "team_id": "46"
-  },
-  {
-    "problem_id": "8",
-    "timestamp": 1,
-    "status": "REJECTED",
-    "team_id": "46"
-  },
-  {
-    "problem_id": "8",
-    "timestamp": 2,
-    "status": "REJECTED",
-    "team_id": "46"
-  },
-  {
-    "problem_id": "8",
-    "timestamp": 3,
-    "status": "REJECTED",
-    "team_id": "46"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 10860,
-    "status": "ACCEPTED",
-    "team_id": "47"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 10859,
-    "status": "REJECTED",
-    "team_id": "47"
-  },
-  {
+    "team_id": "41",
     "problem_id": "6",
-    "timestamp": 0,
-    "status": "REJECTED",
-    "team_id": "47"
+    "timestamp": 9890,
+    "status": "REJECTED"
   },
   {
-    "problem_id": "11",
-    "timestamp": 0,
-    "status": "REJECTED",
-    "team_id": "47"
+    "team_id": "6",
+    "problem_id": "5",
+    "timestamp": 9899,
+    "status": "REJECTED"
   },
   {
-    "problem_id": "11",
-    "timestamp": 1,
-    "status": "REJECTED",
-    "team_id": "47"
+    "team_id": "32",
+    "problem_id": "3",
+    "timestamp": 9968,
+    "status": "ACCEPTED"
   },
   {
+    "team_id": "7",
     "problem_id": "0",
-    "timestamp": 0,
-    "status": "REJECTED",
-    "team_id": "48"
+    "timestamp": 9982,
+    "status": "ACCEPTED"
   },
   {
-    "problem_id": "3",
-    "timestamp": 9840,
-    "status": "ACCEPTED",
-    "team_id": "48"
+    "team_id": "1",
+    "problem_id": "4",
+    "timestamp": 9983,
+    "status": "ACCEPTED"
   },
   {
-    "problem_id": "3",
-    "timestamp": 9839,
-    "status": "REJECTED",
-    "team_id": "48"
+    "team_id": "9",
+    "problem_id": "11",
+    "timestamp": 9986,
+    "status": "ACCEPTED"
   },
   {
-    "problem_id": "3",
-    "timestamp": 9838,
-    "status": "REJECTED",
-    "team_id": "48"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 9837,
-    "status": "REJECTED",
-    "team_id": "48"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 9836,
-    "status": "REJECTED",
-    "team_id": "48"
-  },
-  {
+    "team_id": "4",
     "problem_id": "6",
-    "timestamp": 0,
-    "status": "REJECTED",
-    "team_id": "48"
+    "timestamp": 10081,
+    "status": "REJECTED"
   },
   {
+    "team_id": "48",
+    "problem_id": "9",
+    "timestamp": 10094,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "5",
+    "problem_id": "5",
+    "timestamp": 10101,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "13",
+    "problem_id": "5",
+    "timestamp": 10194,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "48",
+    "problem_id": "9",
+    "timestamp": 10218,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "2",
     "problem_id": "6",
-    "timestamp": 1,
-    "status": "REJECTED",
-    "team_id": "48"
+    "timestamp": 10265,
+    "status": "REJECTED"
   },
   {
+    "team_id": "4",
+    "problem_id": "6",
+    "timestamp": 10273,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "28",
+    "problem_id": "5",
+    "timestamp": 10277,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "6",
+    "problem_id": "5",
+    "timestamp": 10384,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "40",
+    "problem_id": "3",
+    "timestamp": 10387,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "17",
+    "problem_id": "5",
+    "timestamp": 10402,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "48",
     "problem_id": "9",
-    "timestamp": 0,
-    "status": "REJECTED",
-    "team_id": "48"
+    "timestamp": 10442,
+    "status": "REJECTED"
   },
   {
+    "team_id": "43",
     "problem_id": "9",
-    "timestamp": 1,
-    "status": "REJECTED",
-    "team_id": "48"
+    "timestamp": 10449,
+    "status": "REJECTED"
   },
   {
+    "team_id": "43",
     "problem_id": "9",
-    "timestamp": 2,
-    "status": "REJECTED",
-    "team_id": "48"
+    "timestamp": 10462,
+    "status": "REJECTED"
   },
   {
+    "team_id": "2",
+    "problem_id": "6",
+    "timestamp": 10568,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "31",
+    "problem_id": "3",
+    "timestamp": 10647,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "11",
+    "problem_id": "6",
+    "timestamp": 10661,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "46",
+    "problem_id": "3",
+    "timestamp": 10676,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "1",
+    "problem_id": "6",
+    "timestamp": 10774,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "46",
+    "problem_id": "3",
+    "timestamp": 10786,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "1",
+    "problem_id": "6",
+    "timestamp": 10803,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "47",
+    "problem_id": "3",
+    "timestamp": 10891,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "43",
     "problem_id": "9",
-    "timestamp": 3,
-    "status": "REJECTED",
-    "team_id": "48"
+    "timestamp": 10927,
+    "status": "REJECTED"
   },
   {
+    "team_id": "14",
+    "problem_id": "5",
+    "timestamp": 10952,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "20",
+    "problem_id": "2",
+    "timestamp": 11015,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "48",
     "problem_id": "9",
-    "timestamp": 4,
-    "status": "REJECTED",
-    "team_id": "48"
+    "timestamp": 11023,
+    "status": "REJECTED"
   },
   {
-    "problem_id": "9",
-    "timestamp": 5,
-    "status": "REJECTED",
-    "team_id": "48"
-  },
-  {
-    "problem_id": "9",
-    "timestamp": 6,
-    "status": "REJECTED",
-    "team_id": "48"
-  },
-  {
+    "team_id": "37",
     "problem_id": "11",
-    "timestamp": 0,
-    "status": "REJECTED",
-    "team_id": "48"
+    "timestamp": 11080,
+    "status": "ACCEPTED"
   },
   {
-    "problem_id": "11",
-    "timestamp": 1,
-    "status": "REJECTED",
-    "team_id": "48"
+    "team_id": "6",
+    "problem_id": "5",
+    "timestamp": 11099,
+    "status": "REJECTED"
   },
   {
-    "problem_id": "11",
-    "timestamp": 2,
-    "status": "REJECTED",
-    "team_id": "48"
+    "team_id": "3",
+    "problem_id": "8",
+    "timestamp": 11262,
+    "status": "REJECTED"
   },
   {
-    "problem_id": "11",
-    "timestamp": 3,
-    "status": "REJECTED",
-    "team_id": "48"
+    "team_id": "48",
+    "problem_id": "9",
+    "timestamp": 11303,
+    "status": "REJECTED"
   },
   {
-    "problem_id": "11",
-    "timestamp": 4,
-    "status": "REJECTED",
-    "team_id": "48"
+    "team_id": "11",
+    "problem_id": "6",
+    "timestamp": 11343,
+    "status": "ACCEPTED"
   },
   {
+    "team_id": "3",
+    "problem_id": "8",
+    "timestamp": 11348,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "48",
+    "problem_id": "9",
+    "timestamp": 11431,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "41",
+    "problem_id": "6",
+    "timestamp": 11458,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "10",
+    "problem_id": "4",
+    "timestamp": 11528,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "29",
     "problem_id": "3",
-    "timestamp": 0,
-    "status": "REJECTED",
-    "team_id": "49"
+    "timestamp": 11555,
+    "status": "REJECTED"
   },
   {
-    "problem_id": "11",
-    "timestamp": 16560,
-    "status": "ACCEPTED",
-    "team_id": "49"
+    "team_id": "8",
+    "problem_id": "5",
+    "timestamp": 11555,
+    "status": "REJECTED"
   },
   {
-    "problem_id": "3",
-    "timestamp": 16560,
-    "status": "ACCEPTED",
-    "team_id": "50"
+    "team_id": "14",
+    "problem_id": "2",
+    "timestamp": 11662,
+    "status": "ACCEPTED"
   },
   {
-    "problem_id": "3",
-    "timestamp": 16559,
-    "status": "REJECTED",
-    "team_id": "50"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 16558,
-    "status": "REJECTED",
-    "team_id": "50"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 16557,
-    "status": "REJECTED",
-    "team_id": "50"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 16556,
-    "status": "REJECTED",
-    "team_id": "50"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 16555,
-    "status": "REJECTED",
-    "team_id": "50"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 16554,
-    "status": "REJECTED",
-    "team_id": "50"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 16553,
-    "status": "REJECTED",
-    "team_id": "50"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 16552,
-    "status": "REJECTED",
-    "team_id": "50"
-  },
-  {
-    "problem_id": "3",
-    "timestamp": 16551,
-    "status": "REJECTED",
-    "team_id": "50"
-  },
-  {
+    "team_id": "17",
     "problem_id": "0",
-    "timestamp": 0,
-    "status": "REJECTED",
-    "team_id": "51"
+    "timestamp": 11745,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "44",
+    "problem_id": "6",
+    "timestamp": 11748,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "41",
+    "problem_id": "6",
+    "timestamp": 11753,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "20",
+    "problem_id": "2",
+    "timestamp": 11838,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "6",
+    "problem_id": "5",
+    "timestamp": 11948,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "9",
+    "problem_id": "5",
+    "timestamp": 12042,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "29",
+    "problem_id": "3",
+    "timestamp": 12102,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "42",
+    "problem_id": "0",
+    "timestamp": 12272,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "23",
+    "problem_id": "5",
+    "timestamp": 12299,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "9",
+    "problem_id": "5",
+    "timestamp": 12316,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "25",
+    "problem_id": "6",
+    "timestamp": 12427,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "2",
+    "problem_id": "8",
+    "timestamp": 12479,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "8",
+    "problem_id": "5",
+    "timestamp": 12564,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "40",
+    "problem_id": "3",
+    "timestamp": 12603,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "48",
+    "problem_id": "11",
+    "timestamp": 12711,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "32",
+    "problem_id": "5",
+    "timestamp": 12772,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "24",
+    "problem_id": "5",
+    "timestamp": 12945,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "18",
+    "problem_id": "5",
+    "timestamp": 12969,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "38",
+    "problem_id": "5",
+    "timestamp": 12990,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "41",
+    "problem_id": "6",
+    "timestamp": 13019,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "2",
+    "problem_id": "8",
+    "timestamp": 13071,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "15",
+    "problem_id": "0",
+    "timestamp": 13082,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "48",
+    "problem_id": "11",
+    "timestamp": 13112,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "29",
+    "problem_id": "3",
+    "timestamp": 13169,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "32",
+    "problem_id": "5",
+    "timestamp": 13171,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "17",
+    "problem_id": "5",
+    "timestamp": 13189,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "14",
+    "problem_id": "6",
+    "timestamp": 13244,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "50",
+    "problem_id": "3",
+    "timestamp": 13298,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "18",
+    "problem_id": "5",
+    "timestamp": 13329,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "13",
+    "problem_id": "6",
+    "timestamp": 13339,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "50",
+    "problem_id": "3",
+    "timestamp": 13370,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "8",
+    "problem_id": "5",
+    "timestamp": 13406,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "3",
+    "problem_id": "6",
+    "timestamp": 13459,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "47",
+    "problem_id": "11",
+    "timestamp": 13463,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "32",
+    "problem_id": "5",
+    "timestamp": 13511,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "50",
+    "problem_id": "3",
+    "timestamp": 13513,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "50",
+    "problem_id": "3",
+    "timestamp": 13563,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "13",
+    "problem_id": "6",
+    "timestamp": 13586,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "36",
+    "problem_id": "5",
+    "timestamp": 13631,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "5",
+    "problem_id": "2",
+    "timestamp": 13741,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "18",
+    "problem_id": "5",
+    "timestamp": 13755,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "3",
+    "problem_id": "6",
+    "timestamp": 13808,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "18",
+    "problem_id": "5",
+    "timestamp": 13822,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "26",
+    "problem_id": "5",
+    "timestamp": 13840,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "18",
+    "problem_id": "5",
+    "timestamp": 13876,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "32",
+    "problem_id": "5",
+    "timestamp": 13915,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "10",
+    "problem_id": "6",
+    "timestamp": 13940,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "9",
+    "problem_id": "2",
+    "timestamp": 13969,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "41",
+    "problem_id": "6",
+    "timestamp": 14012,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "16",
+    "problem_id": "6",
+    "timestamp": 14038,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "6",
+    "problem_id": "6",
+    "timestamp": 14052,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "5",
+    "problem_id": "2",
+    "timestamp": 14061,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "9",
+    "problem_id": "2",
+    "timestamp": 14093,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "29",
+    "problem_id": "3",
+    "timestamp": 14093,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "26",
+    "problem_id": "5",
+    "timestamp": 14104,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "3",
+    "problem_id": "4",
+    "timestamp": 14159,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "40",
+    "problem_id": "3",
+    "timestamp": 14178,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "15",
+    "problem_id": "5",
+    "timestamp": 14184,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "19",
+    "problem_id": "4",
+    "timestamp": 14236,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "50",
+    "problem_id": "3",
+    "timestamp": 14244,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "7",
+    "problem_id": "5",
+    "timestamp": 14310,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "26",
+    "problem_id": "5",
+    "timestamp": 14313,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "50",
+    "problem_id": "3",
+    "timestamp": 14332,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "6",
+    "problem_id": "6",
+    "timestamp": 14341,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "29",
+    "problem_id": "3",
+    "timestamp": 14352,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "8",
+    "problem_id": "8",
+    "timestamp": 14366,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "50",
+    "problem_id": "3",
+    "timestamp": 14397,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "8",
+    "problem_id": "8",
+    "timestamp": 14436,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "30",
+    "problem_id": "5",
+    "timestamp": 14471,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "43",
+    "problem_id": "9",
+    "timestamp": 14513,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "17",
+    "problem_id": "5",
+    "timestamp": 14514,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "25",
+    "problem_id": "6",
+    "timestamp": 14569,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "6",
+    "problem_id": "6",
+    "timestamp": 14574,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "4",
+    "problem_id": "2",
+    "timestamp": 14636,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "19",
+    "problem_id": "4",
+    "timestamp": 14654,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "8",
+    "problem_id": "8",
+    "timestamp": 14661,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "30",
+    "problem_id": "5",
+    "timestamp": 14664,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "50",
+    "problem_id": "3",
+    "timestamp": 14693,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "40",
+    "problem_id": "3",
+    "timestamp": 14696,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "17",
+    "problem_id": "5",
+    "timestamp": 14756,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "37",
+    "problem_id": "6",
+    "timestamp": 14764,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "50",
+    "problem_id": "3",
+    "timestamp": 14822,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "44",
+    "problem_id": "6",
+    "timestamp": 14843,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "37",
+    "problem_id": "6",
+    "timestamp": 14847,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "18",
+    "problem_id": "5",
+    "timestamp": 14877,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "39",
+    "problem_id": "5",
+    "timestamp": 14913,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "14",
+    "problem_id": "5",
+    "timestamp": 14920,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "14",
+    "problem_id": "5",
+    "timestamp": 15094,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "28",
+    "problem_id": "5",
+    "timestamp": 15140,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "3",
+    "problem_id": "4",
+    "timestamp": 15143,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "17",
+    "problem_id": "5",
+    "timestamp": 15176,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "12",
+    "problem_id": "0",
+    "timestamp": 15199,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "1",
+    "problem_id": "7",
+    "timestamp": 15209,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "18",
+    "problem_id": "6",
+    "timestamp": 15216,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "28",
+    "problem_id": "5",
+    "timestamp": 15219,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "14",
+    "problem_id": "5",
+    "timestamp": 15259,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "43",
+    "problem_id": "9",
+    "timestamp": 15337,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "17",
+    "problem_id": "5",
+    "timestamp": 15341,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "18",
+    "problem_id": "6",
+    "timestamp": 15368,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "8",
+    "problem_id": "0",
+    "timestamp": 15394,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "18",
+    "problem_id": "6",
+    "timestamp": 15419,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "12",
+    "problem_id": "0",
+    "timestamp": 15441,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "9",
+    "problem_id": "6",
+    "timestamp": 15445,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "17",
+    "problem_id": "5",
+    "timestamp": 15484,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "37",
+    "problem_id": "6",
+    "timestamp": 15489,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "3",
+    "problem_id": "4",
+    "timestamp": 15510,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "29",
+    "problem_id": "3",
+    "timestamp": 15570,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "18",
+    "problem_id": "5",
+    "timestamp": 15577,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "12",
+    "problem_id": "0",
+    "timestamp": 15644,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "17",
+    "problem_id": "5",
+    "timestamp": 15692,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "44",
+    "problem_id": "6",
+    "timestamp": 15706,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "39",
+    "problem_id": "5",
+    "timestamp": 15753,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "31",
+    "problem_id": "5",
+    "timestamp": 15813,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "40",
+    "problem_id": "3",
+    "timestamp": 15834,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "9",
+    "problem_id": "2",
+    "timestamp": 15861,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "41",
+    "problem_id": "6",
+    "timestamp": 15879,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "11",
+    "problem_id": "2",
+    "timestamp": 15895,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "19",
+    "problem_id": "0",
+    "timestamp": 15915,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "9",
+    "problem_id": "2",
+    "timestamp": 15928,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "25",
+    "problem_id": "6",
+    "timestamp": 15958,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "36",
+    "problem_id": "5",
+    "timestamp": 15975,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "1",
+    "problem_id": "7",
+    "timestamp": 16003,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "8",
+    "problem_id": "8",
+    "timestamp": 16026,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "30",
+    "problem_id": "5",
+    "timestamp": 16028,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "8",
+    "problem_id": "5",
+    "timestamp": 16089,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "38",
+    "problem_id": "3",
+    "timestamp": 16181,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "8",
+    "problem_id": "5",
+    "timestamp": 16193,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "7",
+    "problem_id": "6",
+    "timestamp": 16197,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "33",
+    "problem_id": "5",
+    "timestamp": 16206,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "15",
+    "problem_id": "5",
+    "timestamp": 16221,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "9",
+    "problem_id": "6",
+    "timestamp": 16243,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "27",
+    "problem_id": "5",
+    "timestamp": 16249,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "37",
+    "problem_id": "6",
+    "timestamp": 16278,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "25",
+    "problem_id": "5",
+    "timestamp": 16315,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "34",
+    "problem_id": "2",
+    "timestamp": 16366,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "2",
+    "problem_id": "4",
+    "timestamp": 16388,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "29",
+    "problem_id": "3",
+    "timestamp": 16393,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "27",
+    "problem_id": "5",
+    "timestamp": 16401,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "47",
+    "problem_id": "6",
+    "timestamp": 16412,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "25",
+    "problem_id": "5",
+    "timestamp": 16437,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "3",
+    "problem_id": "4",
+    "timestamp": 16449,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "9",
+    "problem_id": "2",
+    "timestamp": 16486,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "12",
+    "problem_id": "0",
+    "timestamp": 16512,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "48",
+    "problem_id": "11",
+    "timestamp": 16518,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "49",
+    "problem_id": "11",
+    "timestamp": 16588,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "50",
+    "problem_id": "3",
+    "timestamp": 16590,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "8",
+    "problem_id": "8",
+    "timestamp": 16605,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "18",
+    "problem_id": "5",
+    "timestamp": 16619,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "12",
+    "problem_id": "0",
+    "timestamp": 16623,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "11",
+    "problem_id": "2",
+    "timestamp": 16630,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "3",
+    "problem_id": "4",
+    "timestamp": 16649,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "18",
+    "problem_id": "5",
+    "timestamp": 16658,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "15",
+    "problem_id": "5",
+    "timestamp": 16670,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "21",
+    "problem_id": "2",
+    "timestamp": 16676,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "29",
+    "problem_id": "3",
+    "timestamp": 16677,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "12",
+    "problem_id": "0",
+    "timestamp": 16680,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "33",
+    "problem_id": "5",
+    "timestamp": 16697,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "6",
+    "problem_id": "0",
+    "timestamp": 16733,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "8",
+    "problem_id": "2",
+    "timestamp": 16769,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "43",
+    "problem_id": "9",
+    "timestamp": 16793,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "36",
+    "problem_id": "5",
+    "timestamp": 16852,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "18",
+    "problem_id": "5",
+    "timestamp": 16854,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "18",
+    "problem_id": "5",
+    "timestamp": 16874,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "10",
+    "problem_id": "4",
+    "timestamp": 16882,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "2",
+    "problem_id": "9",
+    "timestamp": 16923,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "3",
+    "problem_id": "4",
+    "timestamp": 16930,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "26",
+    "problem_id": "5",
+    "timestamp": 16959,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "34",
+    "problem_id": "5",
+    "timestamp": 16968,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "18",
+    "problem_id": "5",
+    "timestamp": 16976,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "36",
+    "problem_id": "5",
+    "timestamp": 16981,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "24",
+    "problem_id": "6",
+    "timestamp": 16989,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "33",
+    "problem_id": "5",
+    "timestamp": 16996,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "18",
+    "problem_id": "5",
+    "timestamp": 16998,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "48",
+    "problem_id": "11",
+    "timestamp": 17014,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "11",
+    "problem_id": "2",
+    "timestamp": 17018,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "34",
+    "problem_id": "5",
+    "timestamp": 17033,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "32",
+    "problem_id": "3",
+    "timestamp": 17045,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "43",
+    "problem_id": "9",
+    "timestamp": 17047,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "24",
+    "problem_id": "6",
+    "timestamp": 17063,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "20",
+    "problem_id": "6",
+    "timestamp": 17089,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "19",
+    "problem_id": "6",
+    "timestamp": 17108,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "36",
+    "problem_id": "5",
+    "timestamp": 17138,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "39",
+    "problem_id": "5",
+    "timestamp": 17161,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "11",
+    "problem_id": "2",
+    "timestamp": 17166,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "43",
+    "problem_id": "11",
+    "timestamp": 17166,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "36",
+    "problem_id": "5",
+    "timestamp": 17181,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "35",
+    "problem_id": "5",
+    "timestamp": 17210,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "46",
+    "problem_id": "8",
+    "timestamp": 17214,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "40",
+    "problem_id": "11",
+    "timestamp": 17226,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "3",
+    "problem_id": "4",
+    "timestamp": 17240,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "39",
+    "problem_id": "5",
+    "timestamp": 17244,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "16",
+    "problem_id": "5",
+    "timestamp": 17250,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "18",
+    "problem_id": "5",
+    "timestamp": 17254,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "44",
+    "problem_id": "6",
+    "timestamp": 17274,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "34",
+    "problem_id": "5",
+    "timestamp": 17277,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "7",
+    "problem_id": "2",
+    "timestamp": 17308,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "35",
+    "problem_id": "5",
+    "timestamp": 17310,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "46",
+    "problem_id": "8",
+    "timestamp": 17315,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "34",
+    "problem_id": "2",
+    "timestamp": 17330,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "34",
+    "problem_id": "2",
+    "timestamp": 17357,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "34",
+    "problem_id": "2",
+    "timestamp": 17376,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "18",
+    "problem_id": "5",
+    "timestamp": 17394,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "24",
+    "problem_id": "6",
+    "timestamp": 17423,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "20",
+    "problem_id": "6",
+    "timestamp": 17424,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "19",
+    "problem_id": "4",
+    "timestamp": 17432,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "7",
+    "problem_id": "10",
+    "timestamp": 17438,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "10",
+    "problem_id": "2",
+    "timestamp": 17447,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "35",
+    "problem_id": "5",
+    "timestamp": 17457,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "25",
+    "problem_id": "5",
+    "timestamp": 17471,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "16",
+    "problem_id": "5",
+    "timestamp": 17477,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "1",
+    "problem_id": "10",
+    "timestamp": 17493,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "46",
+    "problem_id": "8",
+    "timestamp": 17494,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "27",
+    "problem_id": "5",
+    "timestamp": 17500,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "35",
+    "problem_id": "5",
+    "timestamp": 17512,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "36",
+    "problem_id": "5",
+    "timestamp": 17526,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "5",
+    "problem_id": "6",
+    "timestamp": 17553,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "1",
+    "problem_id": "10",
+    "timestamp": 17563,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "44",
+    "problem_id": "6",
+    "timestamp": 17580,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "1",
+    "problem_id": "10",
+    "timestamp": 17582,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "30",
+    "problem_id": "5",
+    "timestamp": 17597,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "1",
+    "problem_id": "10",
+    "timestamp": 17604,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "1",
+    "problem_id": "10",
+    "timestamp": 17614,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "1",
+    "problem_id": "10",
+    "timestamp": 17621,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "49",
+    "problem_id": "3",
+    "timestamp": 17621,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "18",
+    "problem_id": "5",
+    "timestamp": 17621,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "34",
+    "problem_id": "2",
+    "timestamp": 17625,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "1",
+    "problem_id": "10",
+    "timestamp": 17631,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "13",
+    "problem_id": "8",
+    "timestamp": 17637,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "47",
+    "problem_id": "11",
+    "timestamp": 17637,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "16",
+    "problem_id": "5",
+    "timestamp": 17639,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "24",
+    "problem_id": "6",
+    "timestamp": 17645,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "1",
+    "problem_id": "10",
+    "timestamp": 17648,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "48",
+    "problem_id": "11",
+    "timestamp": 17648,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "33",
+    "problem_id": "5",
+    "timestamp": 17652,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "1",
+    "problem_id": "10",
+    "timestamp": 17661,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "35",
+    "problem_id": "5",
+    "timestamp": 17662,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "11",
+    "problem_id": "2",
+    "timestamp": 17666,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "13",
+    "problem_id": "8",
+    "timestamp": 17667,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "34",
+    "problem_id": "2",
+    "timestamp": 17679,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "1",
+    "problem_id": "10",
+    "timestamp": 17687,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "1",
+    "problem_id": "10",
+    "timestamp": 17695,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "1",
+    "problem_id": "10",
+    "timestamp": 17701,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "18",
+    "problem_id": "5",
+    "timestamp": 17710,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "1",
+    "problem_id": "10",
+    "timestamp": 17713,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "34",
+    "problem_id": "2",
+    "timestamp": 17720,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "1",
+    "problem_id": "10",
+    "timestamp": 17721,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "18",
+    "problem_id": "5",
+    "timestamp": 17729,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "1",
+    "problem_id": "10",
+    "timestamp": 17729,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "1",
+    "problem_id": "10",
+    "timestamp": 17736,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "1",
+    "problem_id": "10",
+    "timestamp": 17746,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "8",
+    "problem_id": "8",
+    "timestamp": 17759,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "1",
+    "problem_id": "10",
+    "timestamp": 17765,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "1",
+    "problem_id": "10",
+    "timestamp": 17773,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "13",
+    "problem_id": "8",
+    "timestamp": 17777,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "19",
+    "problem_id": "6",
+    "timestamp": 17778,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "39",
+    "problem_id": "11",
+    "timestamp": 17779,
+    "status": "ACCEPTED"
+  },
+  {
+    "team_id": "21",
+    "problem_id": "4",
+    "timestamp": 17782,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "46",
+    "problem_id": "8",
+    "timestamp": 17782,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "1",
+    "problem_id": "10",
+    "timestamp": 17799,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "1",
+    "problem_id": "10",
+    "timestamp": 17804,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "20",
+    "problem_id": "6",
+    "timestamp": 17805,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "16",
+    "problem_id": "5",
+    "timestamp": 17805,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "4",
+    "problem_id": "8",
+    "timestamp": 17808,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "1",
+    "problem_id": "10",
+    "timestamp": 17811,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "1",
+    "problem_id": "10",
+    "timestamp": 17816,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "1",
+    "problem_id": "10",
+    "timestamp": 17822,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "1",
+    "problem_id": "10",
+    "timestamp": 17831,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "24",
+    "problem_id": "6",
+    "timestamp": 17835,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "1",
+    "problem_id": "10",
+    "timestamp": 17836,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "8",
+    "problem_id": "8",
+    "timestamp": 17839,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "33",
+    "problem_id": "5",
+    "timestamp": 17841,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "1",
+    "problem_id": "10",
+    "timestamp": 17842,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "1",
+    "problem_id": "10",
+    "timestamp": 17847,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "37",
+    "problem_id": "6",
+    "timestamp": 17850,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "1",
+    "problem_id": "10",
+    "timestamp": 17852,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "1",
+    "problem_id": "10",
+    "timestamp": 17858,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "44",
+    "problem_id": "0",
+    "timestamp": 17862,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "2",
+    "problem_id": "10",
+    "timestamp": 17867,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "1",
+    "problem_id": "10",
+    "timestamp": 17873,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "44",
+    "problem_id": "9",
+    "timestamp": 17874,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "1",
+    "problem_id": "10",
+    "timestamp": 17879,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "23",
+    "problem_id": "6",
+    "timestamp": 17884,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "1",
+    "problem_id": "10",
+    "timestamp": 17885,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "1",
+    "problem_id": "10",
+    "timestamp": 17892,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "44",
+    "problem_id": "6",
+    "timestamp": 17894,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "1",
+    "problem_id": "10",
+    "timestamp": 17898,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "8",
+    "problem_id": "6",
+    "timestamp": 17904,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "1",
+    "problem_id": "10",
+    "timestamp": 17904,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "34",
+    "problem_id": "2",
+    "timestamp": 17907,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "48",
+    "problem_id": "6",
+    "timestamp": 17908,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "1",
+    "problem_id": "10",
+    "timestamp": 17910,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "29",
+    "problem_id": "5",
+    "timestamp": 17913,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "1",
+    "problem_id": "10",
+    "timestamp": 17918,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "26",
+    "problem_id": "0",
+    "timestamp": 17923,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "1",
+    "problem_id": "10",
+    "timestamp": 17935,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "2",
+    "problem_id": "1",
+    "timestamp": 17936,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "34",
+    "problem_id": "2",
+    "timestamp": 17936,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "1",
+    "problem_id": "10",
+    "timestamp": 17940,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "4",
+    "problem_id": "8",
+    "timestamp": 17941,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "23",
+    "problem_id": "6",
+    "timestamp": 17941,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "2",
+    "problem_id": "7",
+    "timestamp": 17946,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "1",
+    "problem_id": "10",
+    "timestamp": 17947,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "10",
+    "problem_id": "2",
+    "timestamp": 17949,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "48",
+    "problem_id": "6",
+    "timestamp": 17952,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "20",
+    "problem_id": "2",
+    "timestamp": 17955,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "1",
+    "problem_id": "10",
+    "timestamp": 17955,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "16",
+    "problem_id": "5",
+    "timestamp": 17962,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "25",
+    "problem_id": "5",
+    "timestamp": 17965,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "1",
+    "problem_id": "10",
+    "timestamp": 17970,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "11",
+    "problem_id": "2",
+    "timestamp": 17972,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "37",
+    "problem_id": "6",
+    "timestamp": 17976,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "1",
+    "problem_id": "10",
+    "timestamp": 17976,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "23",
+    "problem_id": "6",
+    "timestamp": 17987,
+    "status": "REJECTED"
+  },
+  {
+    "team_id": "34",
+    "problem_id": "2",
+    "timestamp": 17989,
+    "status": "REJECTED"
   }
 ]
