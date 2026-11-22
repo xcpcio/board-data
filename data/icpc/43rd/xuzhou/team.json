@@ -1,0 +1,4307 @@
+[
+  {
+    "team_id": "1",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "24726",
+        "en": "24726"
+      }
+    },
+    "organization": "清华大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "381059"
+  },
+  {
+    "team_id": "2",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "冠军杜老师没跑",
+        "en": "Champion dls did not run"
+      }
+    },
+    "organization": "清华大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "381058"
+  },
+  {
+    "team_id": "3",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "恶时辰",
+        "en": "La Mala Hora"
+      }
+    },
+    "organization": "北京大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "382666"
+  },
+  {
+    "team_id": "4",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "拉格朗",
+        "en": "Lagran"
+      }
+    },
+    "organization": "上海交通大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "385438"
+  },
+  {
+    "team_id": "5",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Legilimens",
+        "en": "Legilimens"
+      }
+    },
+    "organization": "浙江大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "382563"
+  },
+  {
+    "team_id": "6",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "最小鸽",
+        "en": "the lowest Gu"
+      }
+    },
+    "organization": "东南大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "380129"
+  },
+  {
+    "team_id": "7",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "acm.ecnu.edu.cn",
+        "en": "F0RE1GNERS"
+      }
+    },
+    "organization": "华东师范大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "380681"
+  },
+  {
+    "team_id": "8",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "法老汇",
+        "en": "Faraway"
+      }
+    },
+    "organization": "北京师范大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "380903"
+  },
+  {
+    "team_id": "9",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "深蓝",
+        "en": "SYSU_DeepBlue"
+      }
+    },
+    "organization": "中山大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "376225"
+  },
+  {
+    "team_id": "10",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "河底摸鱼",
+        "en": "SCAU_Touch_Fish"
+      }
+    },
+    "organization": "华南农业大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "376039"
+  },
+  {
+    "team_id": "11",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "好丽友派",
+        "en": "ORION_PIE"
+      }
+    },
+    "organization": "北京大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "382668"
+  },
+  {
+    "team_id": "12",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "萌新",
+        "en": "newbie"
+      }
+    },
+    "organization": "福州大学",
+    "group": [
+      "unofficial"
+    ]
+  },
+  {
+    "team_id": "13",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "自由之翼",
+        "en": "Freedom"
+      }
+    },
+    "organization": "中国科学院大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "382960"
+  },
+  {
+    "team_id": "14",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "一一一丨",
+        "en": "gzotpa"
+      }
+    },
+    "organization": "北京大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "382667"
+  },
+  {
+    "team_id": "15",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "灵魂隔断",
+        "en": "Sunder"
+      }
+    },
+    "organization": "复旦大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "376731"
+  },
+  {
+    "team_id": "16",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "我们教练会写签到题",
+        "en": "XTU_Our coach can AC the signature problem"
+      }
+    },
+    "organization": "湘潭大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "379442"
+  },
+  {
+    "team_id": "17",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "塔里斯曼",
+        "en": "Talisman"
+      }
+    },
+    "organization": "上海交通大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "374849"
+  },
+  {
+    "team_id": "18",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "肥宅大哭.jpg",
+        "en": "fatty newbie"
+      }
+    },
+    "organization": "北京理工大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "382033"
+  },
+  {
+    "team_id": "19",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "ACetic_ACid",
+        "en": "ACetic_ACid"
+      }
+    },
+    "organization": "浙江大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "382564"
+  },
+  {
+    "team_id": "20",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "一个中心两个基本点",
+        "en": "One center Two bases"
+      }
+    },
+    "organization": "西南民族大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "379184"
+  },
+  {
+    "team_id": "21",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "未知数",
+        "en": "xyz"
+      }
+    },
+    "organization": "北京邮电大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "381718"
+  },
+  {
+    "team_id": "22",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "黎明预言",
+        "en": "Dawn Prophecy"
+      }
+    },
+    "organization": "武汉科技大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377447"
+  },
+  {
+    "team_id": "23",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "黑框眼镜",
+        "en": "Black-rimmed glassess"
+      }
+    },
+    "organization": "吉林大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377060"
+  },
+  {
+    "team_id": "24",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Calabash!",
+        "en": "Calabash!"
+      }
+    },
+    "organization": "南京大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "380447"
+  },
+  {
+    "team_id": "25",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "计蒜客二队",
+        "en": "Jisuanke Team2"
+      }
+    },
+    "organization": "计蒜客",
+    "group": [
+      "unofficial"
+    ]
+  },
+  {
+    "team_id": "26",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "青萍末",
+        "en": "Rain00"
+      }
+    },
+    "organization": "复旦大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "376745"
+  },
+  {
+    "team_id": "27",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "送风口严禁遮挡",
+        "en": "shenmedongxi"
+      }
+    },
+    "organization": "山东大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "380123"
+  },
+  {
+    "team_id": "28",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "除了AC",
+        "en": "Away With Correct"
+      }
+    },
+    "organization": "北京航空航天大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "381212"
+  },
+  {
+    "team_id": "29",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "矿里有家",
+        "en": "my home is in mine"
+      }
+    },
+    "organization": "中国矿业大学",
+    "group": [
+      "unofficial"
+    ]
+  },
+  {
+    "team_id": "30",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "**",
+        "en": "**"
+      }
+    },
+    "organization": "北京化工大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "385382"
+  },
+  {
+    "team_id": "31",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "嘟嘟噜",
+        "en": "Steins Gates"
+      }
+    },
+    "organization": "中国矿业大学",
+    "group": [
+      "unofficial"
+    ]
+  },
+  {
+    "team_id": "32",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "UESTC_'or 1=1#",
+        "en": "UESTC_'or 1=1#"
+      }
+    },
+    "organization": "电子科技大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "380376"
+  },
+  {
+    "team_id": "33",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "公理",
+        "en": "axiom"
+      }
+    },
+    "organization": "浙江工业大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "383403"
+  },
+  {
+    "team_id": "34",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "轻轻的一个稳",
+        "en": "Light_Kiss"
+      }
+    },
+    "organization": "哈尔滨工程大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "380842"
+  },
+  {
+    "team_id": "35",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "比宇宙更远的地方",
+        "en": "TooFarTooClose"
+      }
+    },
+    "organization": "北京航空航天大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "381211"
+  },
+  {
+    "team_id": "36",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "火星救援",
+        "en": "Mars Rescue"
+      }
+    },
+    "organization": "北京交通大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "382568"
+  },
+  {
+    "team_id": "37",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "三位一体",
+        "en": "Trinity"
+      }
+    },
+    "organization": "厦门大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "386430"
+  },
+  {
+    "team_id": "38",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "铃羽世界第一软萌",
+        "en": "Suzuha is cute！"
+      }
+    },
+    "organization": "浙江农林大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "381723"
+  },
+  {
+    "team_id": "39",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "北理六队",
+        "en": "BIT Team No.6"
+      }
+    },
+    "organization": "北京理工大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "382034"
+  },
+  {
+    "team_id": "40",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "阿尔法",
+        "en": "WZU Alpha"
+      }
+    },
+    "organization": "温州大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "379519"
+  },
+  {
+    "team_id": "41",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "实际情况表现得更优",
+        "en": "better when running"
+      }
+    },
+    "organization": "中国石油大学（华东）",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "384584"
+  },
+  {
+    "team_id": "42",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "朋友带不动",
+        "en": "U noob, I carry you"
+      }
+    },
+    "organization": "重庆大学",
+    "group": [
+      "unofficial"
+    ]
+  },
+  {
+    "team_id": "43",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "稻花香里说丰年",
+        "en": "NPU_Listen_to_WA"
+      }
+    },
+    "organization": "西北工业大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "384802"
+  },
+  {
+    "team_id": "44",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "野牛蛙",
+        "en": "GDUT_YeNoWA"
+      }
+    },
+    "organization": "广东工业大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "382506"
+  },
+  {
+    "team_id": "45",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "WACE自动机",
+        "en": "WACE"
+      }
+    },
+    "organization": "江苏省常州高级中学",
+    "group": [
+      "unofficial"
+    ]
+  },
+  {
+    "team_id": "46",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "无畏号",
+        "en": "SKD38907 Intrepid"
+      }
+    },
+    "organization": "山东科技大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "383397"
+  },
+  {
+    "team_id": "47",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "小弟弟，你怎么回事",
+        "en": "what's wrong with you,little brother"
+      }
+    },
+    "organization": "福建工程学院",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "383577"
+  },
+  {
+    "team_id": "48",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "从零开始",
+        "en": "NJUPT_Re:0"
+      }
+    },
+    "organization": "南京邮电大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "380582"
+  },
+  {
+    "team_id": "49",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "从不刷题",
+        "en": "zhen xiang"
+      }
+    },
+    "organization": "北京航空航天大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "381213"
+  },
+  {
+    "team_id": "50",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "幻影",
+        "en": "Phantom"
+      }
+    },
+    "organization": "武汉科技大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377446"
+  },
+  {
+    "team_id": "51",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "No Response",
+        "en": "No Response"
+      }
+    },
+    "organization": "南京大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "380448"
+  },
+  {
+    "team_id": "52",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "蓝气球",
+        "en": "SYSU_BlueBallon"
+      }
+    },
+    "organization": "中山大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "376150"
+  },
+  {
+    "team_id": "53",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "疯马号",
+        "en": "SKD50446 Crazyhorse"
+      }
+    },
+    "organization": "山东科技大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "383398"
+  },
+  {
+    "team_id": "54",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "黑木林木木森木木林大森林",
+        "en": "UESTC_Jungle"
+      }
+    },
+    "organization": "电子科技大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "380377"
+  },
+  {
+    "team_id": "55",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "松树上是松鼠",
+        "en": "NPU_ssssss"
+      }
+    },
+    "organization": "西北工业大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "384804"
+  },
+  {
+    "team_id": "56",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "打完铁回去补作业",
+        "en": "homework is uncountable noun"
+      }
+    },
+    "organization": "中国海洋大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "382612"
+  },
+  {
+    "team_id": "57",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "恬心",
+        "en": "Sweet Heart"
+      }
+    },
+    "organization": "东南大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "380128"
+  },
+  {
+    "team_id": "58",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "我好想吃麦当劳",
+        "en": "IWantToEatMcDonald's"
+      }
+    },
+    "organization": "广州大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "392030"
+  },
+  {
+    "team_id": "59",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "还差得远呢",
+        "en": "you still have lots to work on"
+      }
+    },
+    "organization": "南京航空航天大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "390577"
+  },
+  {
+    "team_id": "60",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "四斋蒸鹅心",
+        "en": "Otaku ha kimoi"
+      }
+    },
+    "organization": "长沙理工大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "380986"
+  },
+  {
+    "team_id": "61",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "万一A了呢",
+        "en": "pure illution"
+      }
+    },
+    "organization": "华东理工大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "383626"
+  },
+  {
+    "team_id": "62",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "万物皆虚",
+        "en": "Nothing is True"
+      }
+    },
+    "organization": "武汉大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377689"
+  },
+  {
+    "team_id": "63",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "TJU_风中的恋情",
+        "en": "TJU_Romance_in_the_wind"
+      }
+    },
+    "organization": "天津大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "384432"
+  },
+  {
+    "team_id": "64",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "QvQ",
+        "en": "QvQ"
+      }
+    },
+    "organization": "浙江师范大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "379102"
+  },
+  {
+    "team_id": "65",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "繁樱之冬",
+        "en": "The winter of sakura"
+      }
+    },
+    "organization": "中南大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "384043"
+  },
+  {
+    "team_id": "66",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "扶我起来还能A",
+        "en": "WakemeuptogetAC"
+      }
+    },
+    "organization": "大连理工大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "378448"
+  },
+  {
+    "team_id": "67",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "暮色森林",
+        "en": "The Twilight Forest"
+      }
+    },
+    "organization": "北京邮电大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "381719"
+  },
+  {
+    "team_id": "68",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "皮卡丘的弟弟",
+        "en": "Picacho's brother"
+      }
+    },
+    "organization": "天津工业大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "381166"
+  },
+  {
+    "team_id": "69",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "我们于暗影守望",
+        "en": "Watch  in the shadow"
+      }
+    },
+    "organization": "南京林业大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "380851"
+  },
+  {
+    "team_id": "70",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "YaSHa",
+        "en": "YaSHa"
+      }
+    },
+    "organization": "浙江大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "382565"
+  },
+  {
+    "team_id": "71",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "黑涩眼镜",
+        "en": "Black Glasses"
+      }
+    },
+    "organization": "湖南大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "378552"
+  },
+  {
+    "team_id": "72",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "新新月光",
+        "en": "new new moonlight"
+      }
+    },
+    "organization": "浙江财经大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "384082"
+  },
+  {
+    "team_id": "73",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "轻音什么时候出三啊",
+        "en": "Where is k-on season 3"
+      }
+    },
+    "organization": "郑州大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "385972"
+  },
+  {
+    "team_id": "74",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "三个火枪手",
+        "en": "The Three Musketeers"
+      }
+    },
+    "organization": "太原理工大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "391219"
+  },
+  {
+    "team_id": "75",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "爻不可及",
+        "en": "Back in Black"
+      }
+    },
+    "organization": "山东理工大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "383531"
+  },
+  {
+    "team_id": "76",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "中科大三十二队",
+        "en": "USTC_32"
+      }
+    },
+    "organization": "中国科学技术大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "384104"
+  },
+  {
+    "team_id": "77",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "碧蓝幻想",
+        "en": "granbluefantasy"
+      }
+    },
+    "organization": "东华大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "380100"
+  },
+  {
+    "team_id": "78",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "昌航软件梦想者2",
+        "en": "NCHUSoftware_Dreamers2"
+      }
+    },
+    "organization": "南昌航空大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "385529"
+  },
+  {
+    "team_id": "79",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "糖糖真好吃",
+        "en": "I love candy"
+      }
+    },
+    "organization": "西安邮电大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "383072"
+  },
+  {
+    "team_id": "80",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "回文串文回",
+        "en": "Palindrome"
+      }
+    },
+    "organization": "西北大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "381857"
+  },
+  {
+    "team_id": "81",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "鳝阿克",
+        "en": "SHAK"
+      }
+    },
+    "organization": "南京大学",
+    "group": [
+      "unofficial"
+    ]
+  },
+  {
+    "team_id": "82",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "为什么不问问派大星呢",
+        "en": "Why Not Ask The Patrick Star"
+      }
+    },
+    "organization": "苏州大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "381005"
+  },
+  {
+    "team_id": "83",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "霍比特币的人",
+        "en": "Hobbitcoin"
+      }
+    },
+    "organization": "哈尔滨工程大学",
+    "group": [
+      "unofficial"
+    ]
+  },
+  {
+    "team_id": "84",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "夏威夷吉他",
+        "en": "Hawaii?Guitar"
+      }
+    },
+    "organization": "吉林大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377059"
+  },
+  {
+    "team_id": "85",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "进击の巨噬Cell",
+        "en": "SSS&Macrophage"
+      }
+    },
+    "organization": "东南大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "380130"
+  },
+  {
+    "team_id": "86",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "阿蒂亚的黎曼猜想证明好像不队",
+        "en": "Atiyah's proof of riemann hypothesis isn't correct APRHC"
+      }
+    },
+    "organization": "山东财经大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "379016"
+  },
+  {
+    "team_id": "87",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "WA的世界",
+        "en": "WA's World"
+      }
+    },
+    "organization": "河南理工大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "382573"
+  },
+  {
+    "team_id": "88",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "铁牌的诱惑",
+        "en": "Iron temptation"
+      }
+    },
+    "organization": "中北大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "382488"
+  },
+  {
+    "team_id": "89",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "头号玩家",
+        "en": "Main Player"
+      }
+    },
+    "organization": "哈尔滨工业大学（威海）",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "379568"
+  },
+  {
+    "team_id": "90",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "女装写代码AC++",
+        "en": "Wear?a?dress?to?code?must?get?AC"
+      }
+    },
+    "organization": "成都东软学院",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "382436"
+  },
+  {
+    "team_id": "91",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "wawa子和tlte美的日常",
+        "en": "o ko t ta"
+      }
+    },
+    "organization": "山东大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "390996"
+  },
+  {
+    "team_id": "92",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "编码人生",
+        "en": "code life"
+      }
+    },
+    "organization": "浙江大学宁波理工学院",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "381979"
+  },
+  {
+    "team_id": "93",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "卖竹鼠三元一只十元三只",
+        "en": "buy one get two"
+      }
+    },
+    "organization": "浙江农林大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "381724"
+  },
+  {
+    "team_id": "94",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "万事皆允",
+        "en": "Everything is Permitted"
+      }
+    },
+    "organization": "武汉大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377690"
+  },
+  {
+    "team_id": "95",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "脑子是个好东西",
+        "en": "We are without brains"
+      }
+    },
+    "organization": "台州学院",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "381187"
+  },
+  {
+    "team_id": "96",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "拜拜甜甜圈珍珠奶茶方便面",
+        "en": "LLW"
+      }
+    },
+    "organization": "河南农业大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "392057"
+  },
+  {
+    "team_id": "97",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "SOS",
+        "en": "SOS"
+      }
+    },
+    "organization": "江苏科技大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "378949"
+  },
+  {
+    "team_id": "98",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "梁队",
+        "en": "Liang Dui"
+      }
+    },
+    "organization": "大连理工大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "381874"
+  },
+  {
+    "team_id": "99",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "铁人三个",
+        "en": "SongV NB"
+      }
+    },
+    "organization": "中北大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "382487"
+  },
+  {
+    "team_id": "100",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "小锅锅啊！！！",
+        "en": "Small guo guo"
+      }
+    },
+    "organization": "天津大学仁爱学院",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "381734"
+  },
+  {
+    "team_id": "101",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "一个学妹两个学长",
+        "en": "Good girl good boys"
+      }
+    },
+    "organization": "青岛大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "380881"
+  },
+  {
+    "team_id": "102",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "肥仔欢乐队",
+        "en": "Happy Feizai"
+      }
+    },
+    "organization": "华中师范大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "380848"
+  },
+  {
+    "team_id": "103",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "郑师一队",
+        "en": "zznuteam1"
+      }
+    },
+    "organization": "郑州师范学院",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "382640"
+  },
+  {
+    "team_id": "104",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "手持两把锟斤拷，口中疾呼烫烫烫",
+        "en": "RNG"
+      }
+    },
+    "organization": "河南大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "383077"
+  },
+  {
+    "team_id": "105",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "南方科技大学_剑桥",
+        "en": "SUSTech_Cambridge"
+      }
+    },
+    "organization": "南方科技大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "381125"
+  },
+  {
+    "team_id": "106",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "P90RushB",
+        "en": "P90RushB"
+      }
+    },
+    "organization": "四川大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "380896"
+  },
+  {
+    "team_id": "107",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "若风一指",
+        "en": "NPU_Lion's_F_of_RuoFeng"
+      }
+    },
+    "organization": "西北工业大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "384803"
+  },
+  {
+    "team_id": "108",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "拔丝地瓜",
+        "en": "gute nacht"
+      }
+    },
+    "organization": "东北农业大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "382560"
+  },
+  {
+    "team_id": "109",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "让我们红橙作伴，活的潇潇洒洒",
+        "en": "Five colors team"
+      }
+    },
+    "organization": "东北师范大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "378934"
+  },
+  {
+    "team_id": "110",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "稻花香里说丰年",
+        "en": "THE END"
+      }
+    },
+    "organization": "南阳师范学院",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "382631"
+  },
+  {
+    "team_id": "111",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "TJU_队伍树",
+        "en": "TJU_Team_Tree"
+      }
+    },
+    "organization": "天津大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "384431"
+  },
+  {
+    "team_id": "112",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "穿越锈匙之门",
+        "en": "SCP-004"
+      }
+    },
+    "organization": "国防科技大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "380802"
+  },
+  {
+    "team_id": "113",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "仓前皇家女子学院",
+        "en": "Royal College for Women"
+      }
+    },
+    "organization": "杭州师范大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "382024"
+  },
+  {
+    "team_id": "114",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "跪倒在吕超杰的石榴裙下",
+        "en": "Lcj is our goddess"
+      }
+    },
+    "organization": "南京航空航天大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "390579"
+  },
+  {
+    "team_id": "115",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "毕竟老夫也不是什么恶魔嘛",
+        "en": "we are not devil"
+      }
+    },
+    "organization": "浙江师范大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "379103"
+  },
+  {
+    "team_id": "116",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "番茄炒蛋",
+        "en": "Nothing Is Impossible"
+      }
+    },
+    "organization": "哈尔滨学院",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "386043"
+  },
+  {
+    "team_id": "117",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "真的想耍女朋友了",
+        "en": "Where are my girlfriends"
+      }
+    },
+    "organization": "西南石油大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "381060"
+  },
+  {
+    "team_id": "118",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "键盘冒奶",
+        "en": "I said the calculation"
+      }
+    },
+    "organization": "苏州大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "381007"
+  },
+  {
+    "team_id": "119",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "天晨破晓",
+        "en": "Daybreak"
+      }
+    },
+    "organization": "江南大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "387376"
+  },
+  {
+    "team_id": "120",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "啦啦啦",
+        "en": "laLaLA"
+      }
+    },
+    "organization": "南京大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "380449"
+  },
+  {
+    "team_id": "121",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "罩不住",
+        "en": "Can't cover"
+      }
+    },
+    "organization": "华北电力大学（北京）",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "380418"
+  },
+  {
+    "team_id": "122",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "我想到一个绝妙的队名",
+        "en": "Length Limit Exceeded"
+      }
+    },
+    "organization": "西南交通大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "378330"
+  },
+  {
+    "team_id": "123",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "真自闭",
+        "en": "True Autistic"
+      }
+    },
+    "organization": "哈尔滨理工大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "380877"
+  },
+  {
+    "team_id": "124",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "八倍月厨",
+        "en": "Dreaming Sheeps"
+      }
+    },
+    "organization": "北京邮电大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "381720"
+  },
+  {
+    "team_id": "125",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "AC是一种信仰吗",
+        "en": "Believe"
+      }
+    },
+    "organization": "大连海事大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "388022"
+  },
+  {
+    "team_id": "126",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "薛定谔那三只没死的喵",
+        "en": "Schrodinger's three cats that are not dead"
+      }
+    },
+    "organization": "福州大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "384161"
+  },
+  {
+    "team_id": "127",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "长里王1+1",
+        "en": "CSUST team Two"
+      }
+    },
+    "organization": "长沙理工大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "380987"
+  },
+  {
+    "team_id": "128",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "李先生说的",
+        "en": "Whatever Mr. Li says is"
+      }
+    },
+    "organization": "西安电子科技大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "381135"
+  },
+  {
+    "team_id": "129",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "好好学习",
+        "en": "good good study"
+      }
+    },
+    "organization": "中国石油大学（华东）",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "384586"
+  },
+  {
+    "team_id": "130",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "瓜皮王国里的三个瓜皮小战士",
+        "en": "Confucianism Wind Threesome"
+      }
+    },
+    "organization": "临沂大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "379379"
+  },
+  {
+    "team_id": "131",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "郑师二队",
+        "en": "zznuteam2"
+      }
+    },
+    "organization": "郑州师范学院",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "382641"
+  },
+  {
+    "team_id": "132",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "进击的小怪兽",
+        "en": "Attack on the little monster"
+      }
+    },
+    "organization": "山东理工大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "383532"
+  },
+  {
+    "team_id": "133",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "南京矿业大学",
+        "en": "NJUMT"
+      }
+    },
+    "organization": "中国矿业大学",
+    "group": [
+      "unofficial"
+    ]
+  },
+  {
+    "team_id": "134",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "接下来宣布获得木牌的队伍",
+        "en": "Next_announce_wooden_medals_team"
+      }
+    },
+    "organization": "南京理工大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "384702"
+  },
+  {
+    "team_id": "135",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "信任",
+        "en": "zzuli_xz_Trust"
+      }
+    },
+    "organization": "郑州轻工业学院",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "387533"
+  },
+  {
+    "team_id": "136",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "小鸭爱吃鸭锁骨",
+        "en": "DuckLikeClavicle"
+      }
+    },
+    "organization": "浙江财经大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "384083"
+  },
+  {
+    "team_id": "137",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "缘分到了自然过题",
+        "en": "AcceptedByFate"
+      }
+    },
+    "organization": "哈尔滨工业大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377032"
+  },
+  {
+    "team_id": "138",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "虽千万人吾往矣",
+        "en": "We Are"
+      }
+    },
+    "organization": "中北大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "392567"
+  },
+  {
+    "team_id": "139",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "难受的一匹",
+        "en": "GDUFS_BlueMushroom"
+      }
+    },
+    "organization": "广东外语外贸大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "382007"
+  },
+  {
+    "team_id": "140",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "出来看神仙看神仙",
+        "en": "come out to see dalao see dalao"
+      }
+    },
+    "organization": "天津工业大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "381167"
+  },
+  {
+    "team_id": "141",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "摸鱼肥宅",
+        "en": "Touch fish fat gamer"
+      }
+    },
+    "organization": "北京理工大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "382035"
+  },
+  {
+    "team_id": "142",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "维他柠檬茶",
+        "en": "Vita Lemon Tea"
+      }
+    },
+    "organization": "南京理工大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "384701"
+  },
+  {
+    "team_id": "143",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "聚聚在桂林看我A题",
+        "en": "Look At Me! Ju Ju"
+      }
+    },
+    "organization": "湖南师范大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "392848"
+  },
+  {
+    "team_id": "144",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "TJU_无人深空",
+        "en": "TJU_No_Man's_Skay"
+      }
+    },
+    "organization": "天津大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "384430"
+  },
+  {
+    "team_id": "145",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "复仇者联盟",
+        "en": "The Avengers"
+      }
+    },
+    "organization": "河南理工大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "382572"
+  },
+  {
+    "team_id": "146",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "上理菜鸟一队",
+        "en": "USSTcn1"
+      }
+    },
+    "organization": "上海理工大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "389837"
+  },
+  {
+    "team_id": "147",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "ALPC_T2",
+        "en": "ALPC_T2"
+      }
+    },
+    "organization": "国防科技大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "380801"
+  },
+  {
+    "team_id": "148",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "要我一直笑吗",
+        "en": "Do I have to laugh all the time"
+      }
+    },
+    "organization": "华中科技大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "382664"
+  },
+  {
+    "team_id": "149",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "星夜",
+        "en": "Starry Night"
+      }
+    },
+    "organization": "哈尔滨工业大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377033"
+  },
+  {
+    "team_id": "150",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "福大命大",
+        "en": "FZUlife"
+      }
+    },
+    "organization": "福州大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "384162"
+  },
+  {
+    "team_id": "151",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "头号玩家",
+        "en": "Player One"
+      }
+    },
+    "organization": "解放军信息工程大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "391731"
+  },
+  {
+    "team_id": "152",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "喋血胖头猫",
+        "en": "CodingCat"
+      }
+    },
+    "organization": "浙江工业大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "383404"
+  },
+  {
+    "team_id": "153",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "去东边",
+        "en": "East Palace"
+      }
+    },
+    "organization": "长安大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "381911"
+  },
+  {
+    "team_id": "154",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "疯狂输出",
+        "en": "77CC"
+      }
+    },
+    "organization": "湖北工业大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "378834"
+  },
+  {
+    "team_id": "155",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "WAHAHA",
+        "en": "WAHAHA"
+      }
+    },
+    "organization": "东北大学秦皇岛分校",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "384599"
+  },
+  {
+    "team_id": "156",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "AC梦工厂",
+        "en": "GDUT_AOBO"
+      }
+    },
+    "organization": "广东工业大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "382507"
+  },
+  {
+    "team_id": "157",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "TLEboys",
+        "en": "TLEboys"
+      }
+    },
+    "organization": "江西师范大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "392133"
+  },
+  {
+    "team_id": "158",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "胜利",
+        "en": "Victory"
+      }
+    },
+    "organization": "江苏科技大学（张家港）",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "380005"
+  },
+  {
+    "team_id": "159",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "奶油馒头@USC",
+        "en": "Cream Bread@USC"
+      }
+    },
+    "organization": "南华大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "401242"
+  },
+  {
+    "team_id": "160",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "我爱中华",
+        "en": "WLChina"
+      }
+    },
+    "organization": "青岛大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "380882"
+  },
+  {
+    "team_id": "161",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "赏金猎人",
+        "en": "NEU_bounty hunter"
+      }
+    },
+    "organization": "东北大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "382762"
+  },
+  {
+    "team_id": "162",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "徐州好地方",
+        "en": "Good place in Xuzhou"
+      }
+    },
+    "organization": "浙江中医药大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "386230"
+  },
+  {
+    "team_id": "163",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "油腻的小灵通PHS",
+        "en": "Greasy PHS"
+      }
+    },
+    "organization": "鲁东大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "384065"
+  },
+  {
+    "team_id": "164",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "双黄蛋胡了",
+        "en": "Double Yolk"
+      }
+    },
+    "organization": "河海大学常州校区",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "394349"
+  },
+  {
+    "team_id": "165",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "赛尔先锋小队",
+        "en": "seer vanguard"
+      }
+    },
+    "organization": "河海大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "383315"
+  },
+  {
+    "team_id": "166",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "莫的感情,是群鸽子",
+        "en": "Dove has no feelings"
+      }
+    },
+    "organization": "杭州电子科技大学信息工程学院",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "381851"
+  },
+  {
+    "team_id": "167",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "云想衣裳花想容",
+        "en": "cloud likes dress"
+      }
+    },
+    "organization": "山东大学（威海）",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "381845"
+  },
+  {
+    "team_id": "168",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "那个男人",
+        "en": "Saiki Kusuo"
+      }
+    },
+    "organization": "南京大学金陵学院",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "380982"
+  },
+  {
+    "team_id": "169",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "经过我们三个人头脑风暴苦思冥想七天之后仍然不知道这里该填什么好于是我们还是叫等一个队名",
+        "en": "We find it hard to fill this blank after 7 day brainstorming so our team's name is Still Waiting For A Name"
+      }
+    },
+    "organization": "中国人民大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "382535"
+  },
+  {
+    "team_id": "170",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "邪王真眼见崎鸣",
+        "en": "MisakiRika"
+      }
+    },
+    "organization": "天津大学仁爱学院",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "381741"
+  },
+  {
+    "team_id": "171",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "凛冬将至",
+        "en": "Winter is Coming"
+      }
+    },
+    "organization": "华南理工大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "379885"
+  },
+  {
+    "team_id": "172",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "贝斯",
+        "en": "SYSU_Bessie"
+      }
+    },
+    "organization": "中山大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "376224"
+  },
+  {
+    "team_id": "173",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "只想摸鱼",
+        "en": "ONLY WANT TO MO FISH"
+      }
+    },
+    "organization": "上海大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "393722"
+  },
+  {
+    "team_id": "174",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "CityU CS 2",
+        "en": "CityU CS 2"
+      }
+    },
+    "organization": "香港城市大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377159"
+  },
+  {
+    "team_id": "175",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "便乘队",
+        "en": "soudayou"
+      }
+    },
+    "organization": "中国矿业大学（北京）",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "379955"
+  },
+  {
+    "team_id": "176",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "抱紧阿姨大腿",
+        "en": "First handsome in the universe"
+      }
+    },
+    "organization": "华东交通大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "380107"
+  },
+  {
+    "team_id": "177",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "我的气球哪去了",
+        "en": "WhereIsMyBalloons"
+      }
+    },
+    "organization": "华南理工大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "379886"
+  },
+  {
+    "team_id": "178",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "广义无监督自学习复读机",
+        "en": "Generalized Unsupervised Self-Learning Repeater"
+      }
+    },
+    "organization": "河南理工大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "382037"
+  },
+  {
+    "team_id": "179",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "香港记者",
+        "en": "HKReporter"
+      }
+    },
+    "organization": "南京晓庄学院",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "389846"
+  },
+  {
+    "team_id": "180",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "爆零",
+        "en": "BoomZero"
+      }
+    },
+    "organization": "深圳大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "382383"
+  },
+  {
+    "team_id": "181",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "肥宅快乐wa",
+        "en": "happy cocacola"
+      }
+    },
+    "organization": "东北大学秦皇岛分校",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "394342"
+  },
+  {
+    "team_id": "182",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "名字还没想好",
+        "en": "The name is missing"
+      }
+    },
+    "organization": "哈尔滨理工大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "380878"
+  },
+  {
+    "team_id": "183",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "三线程",
+        "en": "Tri-Thread"
+      }
+    },
+    "organization": "东北师范大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "376863"
+  },
+  {
+    "team_id": "184",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "学习使我AC",
+        "en": "XTU_Learning makes me AC"
+      }
+    },
+    "organization": "湘潭大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "379443"
+  },
+  {
+    "team_id": "185",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "欧勒哇速趴贝吉塔",
+        "en": "Super_Wrzz"
+      }
+    },
+    "organization": "中国地质大学（北京）",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "383190"
+  },
+  {
+    "team_id": "186",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "心动网络-匠心队",
+        "en": "X.D.Network-Ingenuity"
+      }
+    },
+    "organization": "上海大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "382051"
+  },
+  {
+    "team_id": "187",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "想吃五饭",
+        "en": "GDUT_wfllm"
+      }
+    },
+    "organization": "广东工业大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "382508"
+  },
+  {
+    "team_id": "188",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "AC789",
+        "en": "AC789"
+      }
+    },
+    "organization": "山东农业大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "381224"
+  },
+  {
+    "team_id": "189",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "喝杯JAVA冷静下",
+        "en": "NEU_drink java"
+      }
+    },
+    "organization": "东北大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "382764"
+  },
+  {
+    "team_id": "190",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "滨文路548号",
+        "en": "548 BinWen Road"
+      }
+    },
+    "organization": "浙江中医药大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "386231"
+  },
+  {
+    "team_id": "191",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "流漏面河鹅懒石",
+        "en": "Beef noodles and pebbles"
+      }
+    },
+    "organization": "浙江理工大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "384269"
+  },
+  {
+    "team_id": "192",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "AotoriChiaki",
+        "en": "AotoriChiaki"
+      }
+    },
+    "organization": "东北林业大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "394242"
+  },
+  {
+    "team_id": "193",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "uestc_main",
+        "en": "UESTC_Main"
+      }
+    },
+    "organization": "电子科技大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "380378"
+  },
+  {
+    "team_id": "194",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "杭电七队",
+        "en": "HDU-YangChaoYue"
+      }
+    },
+    "organization": "杭州电子科技大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "378003"
+  },
+  {
+    "team_id": "195",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "嗨呀气死了",
+        "en": "I was angry！"
+      }
+    },
+    "organization": "长春理工大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "380084"
+  },
+  {
+    "team_id": "196",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "马猴烧酒02酱",
+        "en": "NJUPT_Code-for-magic"
+      }
+    },
+    "organization": "南京邮电大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "380584"
+  },
+  {
+    "team_id": "197",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "是是是",
+        "en": "yesyesyes"
+      }
+    },
+    "organization": "湖南工业大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "381895"
+  },
+  {
+    "team_id": "198",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "疯狂wa",
+        "en": "Crazy WA"
+      }
+    },
+    "organization": "桂林电子科技大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "383601"
+  },
+  {
+    "team_id": "199",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "简单人机",
+        "en": "EasyRenJi"
+      }
+    },
+    "organization": "南京工业大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "383503"
+  },
+  {
+    "team_id": "200",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "浙江工商大学",
+        "en": "ZJGSU"
+      }
+    },
+    "organization": "浙江工商大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "381681"
+  },
+  {
+    "team_id": "201",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "deblv",
+        "en": "deblv"
+      }
+    },
+    "organization": "东北大学秦皇岛分校",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "384600"
+  },
+  {
+    "team_id": "202",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "智锐人工",
+        "en": "Wisdom and Sharpness Artificial"
+      }
+    },
+    "organization": "中国矿业大学附属中学",
+    "group": [
+      "unofficial"
+    ]
+  },
+  {
+    "team_id": "203",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "漫步者",
+        "en": "Rambler"
+      }
+    },
+    "organization": "重庆大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377305"
+  },
+  {
+    "team_id": "204",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "冷面真香",
+        "en": "Cold Noodles Delicious"
+      }
+    },
+    "organization": "南通大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "379905"
+  },
+  {
+    "team_id": "205",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "等待并心怀希望",
+        "en": "Waiting in parallel with hope"
+      }
+    },
+    "organization": "杭州电子科技大学信息工程学院",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "381852"
+  },
+  {
+    "team_id": "206",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "矩阵的铁",
+        "en": "Rank of Matrix"
+      }
+    },
+    "organization": "常州大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "383075"
+  },
+  {
+    "team_id": "207",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "螺旋闪光超轮舞吼三式",
+        "en": "Spiral flash super round dance"
+      }
+    },
+    "organization": "东北师范大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "376864"
+  },
+  {
+    "team_id": "208",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "窗前明月光，做题心慌慌",
+        "en": "No Game No Life"
+      }
+    },
+    "organization": "福州大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "384166"
+  },
+  {
+    "team_id": "209",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "花汐酒屋",
+        "en": "Hana-Shio winehouse"
+      }
+    },
+    "organization": "中国地质大学（北京）",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "383189"
+  },
+  {
+    "team_id": "210",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "嘤嘤嘤 我一坨子锤你胸口可能遭不住",
+        "en": "yingyingying you can't bear with my tuozi"
+      }
+    },
+    "organization": "四川师范大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "383121"
+  },
+  {
+    "team_id": "211",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "生存时限",
+        "en": "TTL"
+      }
+    },
+    "organization": "宁波大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "382073"
+  },
+  {
+    "team_id": "212",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "我的天啊怎么可以这么强",
+        "en": "omg why it can be so powful"
+      }
+    },
+    "organization": "大连海事大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "388023"
+  },
+  {
+    "team_id": "213",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "加拉隆_最后一战",
+        "en": "Garralon_End"
+      }
+    },
+    "organization": "河海大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "383331"
+  },
+  {
+    "team_id": "214",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "第六驱逐舰",
+        "en": "together-forever"
+      }
+    },
+    "organization": "黑龙江大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "382580"
+  },
+  {
+    "team_id": "215",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "超新星燃烧",
+        "en": "Supernova Combustion"
+      }
+    },
+    "organization": "浙江万里学院",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "384245"
+  },
+  {
+    "team_id": "216",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "去xz打wwh",
+        "en": "wwh will be hit in xz"
+      }
+    },
+    "organization": "长春工业大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "382594"
+  },
+  {
+    "team_id": "217",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "试着A一发",
+        "en": "zzuli_xz_TryIt"
+      }
+    },
+    "organization": "郑州轻工业学院",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "387534"
+  },
+  {
+    "team_id": "218",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "小乔，要努力变强",
+        "en": "Joe strive to become stronger"
+      }
+    },
+    "organization": "苏州大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "381006"
+  },
+  {
+    "team_id": "219",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "未命名",
+        "en": "Unnamed"
+      }
+    },
+    "organization": "上海大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "381023"
+  },
+  {
+    "team_id": "220",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "燃烧我的卡路里",
+        "en": "Burn my calories"
+      }
+    },
+    "organization": "中国石油大学（华东）",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "384583"
+  },
+  {
+    "team_id": "221",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "nxacm007",
+        "en": "nxacm007"
+      }
+    },
+    "organization": "南京晓庄学院",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "401506"
+  },
+  {
+    "team_id": "222",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "我们都一样",
+        "en": "All men are created equal"
+      }
+    },
+    "organization": "浙江理工大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "384270"
+  },
+  {
+    "team_id": "223",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "露崎真昼想演闹钟",
+        "en": "Katou megumi daisukida"
+      }
+    },
+    "organization": "华东交通大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "380108"
+  },
+  {
+    "team_id": "224",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "杭电四队",
+        "en": "HDU-Flowers"
+      }
+    },
+    "organization": "杭州电子科技大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "378000"
+  },
+  {
+    "team_id": "225",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "模板搬运工",
+        "en": "Template Porters"
+      }
+    },
+    "organization": "中国传媒大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "380809"
+  },
+  {
+    "team_id": "226",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "爱雷姆真是太好了",
+        "en": "Rem is good"
+      }
+    },
+    "organization": "西安理工大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "388016"
+  },
+  {
+    "team_id": "227",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "从您开始",
+        "en": "You Start"
+      }
+    },
+    "organization": "南京晓庄学院",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "389847"
+  },
+  {
+    "team_id": "228",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "抱紧学弟大腿",
+        "en": "TD_XueDiSix"
+      }
+    },
+    "organization": "南京邮电大学通达学院",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377986"
+  },
+  {
+    "team_id": "229",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "昌航软件梦想者",
+        "en": "NCHUSoftDreamer"
+      }
+    },
+    "organization": "南昌航空大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "381945"
+  },
+  {
+    "team_id": "230",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "两只鸽子",
+        "en": "Two_Pigeon"
+      }
+    },
+    "organization": "上海科技大学",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "team_id": "231",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "什么都",
+        "en": "vegetable?chicken"
+      }
+    },
+    "organization": "南京理工大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "384703"
+  },
+  {
+    "team_id": "232",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "超越星辰",
+        "en": "Galaxy"
+      }
+    },
+    "organization": "湖南科技大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "384712"
+  },
+  {
+    "team_id": "233",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "1226564",
+        "en": "birthday"
+      }
+    },
+    "organization": "南阳理工学院",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "383098"
+  },
+  {
+    "team_id": "234",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "明天会更好",
+        "en": "To Be Better"
+      }
+    },
+    "organization": "常州大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "383438"
+  },
+  {
+    "team_id": "235",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "跟我走吧，我们去打ACM！",
+        "en": "amd,yes!"
+      }
+    },
+    "organization": "安徽大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "379169"
+  },
+  {
+    "team_id": "236",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "喵喵喵",
+        "en": "meow meow meow"
+      }
+    },
+    "organization": "哈尔滨工程大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "380840"
+  },
+  {
+    "team_id": "237",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "CityU CS 1",
+        "en": "CityU CS 1"
+      }
+    },
+    "organization": "香港城市大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377165"
+  },
+  {
+    "team_id": "238",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "菊次郎的夏天",
+        "en": "summer"
+      }
+    },
+    "organization": "山东大学（威海）",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "381846"
+  },
+  {
+    "team_id": "239",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "达拉崩吧",
+        "en": "Variant"
+      }
+    },
+    "organization": "西安邮电大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "392210"
+  },
+  {
+    "team_id": "240",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "不看晕针",
+        "en": "FineFineFine"
+      }
+    },
+    "organization": "浙江大学城市学院",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "382679"
+  },
+  {
+    "team_id": "241",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "我不反队",
+        "en": "I agree"
+      }
+    },
+    "organization": "南京信息工程大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "380110"
+  },
+  {
+    "team_id": "242",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "午时已到 (); DROP TABLE teams;--)"
+      }
+    },
+    "organization": "合肥工业大学宣城校区",
+    "group": [
+      "unofficial"
+    ]
+  },
+  {
+    "team_id": "243",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "巧乐兹",
+        "en": "Chocolates"
+      }
+    },
+    "organization": "北京师范大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "380904"
+  },
+  {
+    "team_id": "244",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "我们没有中暑",
+        "en": "We are not delicious"
+      }
+    },
+    "organization": "南开大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "389872"
+  },
+  {
+    "team_id": "245",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "中南林科大1队@xz",
+        "en": "CSUFT-1@xz"
+      }
+    },
+    "organization": "中南林业科技大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "392493"
+  },
+  {
+    "team_id": "246",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "蛤蝼世界",
+        "en": "Hallo world"
+      }
+    },
+    "organization": "宁波大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "382071"
+  },
+  {
+    "team_id": "247",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "HNUCM-Coder",
+        "en": "HNUCM-Coder"
+      }
+    },
+    "organization": "湖南中医药大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "393105"
+  },
+  {
+    "team_id": "248",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "鱼雷节拍",
+        "en": "Torpedo Beats"
+      }
+    },
+    "organization": "北京交通大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "382569"
+  },
+  {
+    "team_id": "249",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "新人",
+        "en": "New Fresh"
+      }
+    },
+    "organization": "南京林业大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "382576"
+  },
+  {
+    "team_id": "250",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "圆环之理",
+        "en": "Loop Again"
+      }
+    },
+    "organization": "同济大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "384347"
+  },
+  {
+    "team_id": "251",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "我要一份色图",
+        "en": "Give me a pixiv id"
+      }
+    },
+    "organization": "南开大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "389871"
+  },
+  {
+    "team_id": "252",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "伊特瑞特",
+        "en": "Iterator"
+      }
+    },
+    "organization": "西北农林科技大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "381181"
+  },
+  {
+    "team_id": "253",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "伟大航线",
+        "en": "Great Line"
+      }
+    },
+    "organization": "东华大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "392761"
+  },
+  {
+    "team_id": "254",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "寒武纪",
+        "en": "Cambrian"
+      }
+    },
+    "organization": "济南大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "384135"
+  },
+  {
+    "team_id": "255",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "顶呱呱",
+        "en": "Dingguagua"
+      }
+    },
+    "organization": "大连理工大学软件学院",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "381972"
+  },
+  {
+    "team_id": "256",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "咖喱棒",
+        "en": "Excalibur"
+      }
+    },
+    "organization": "武汉工程大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "381130"
+  },
+  {
+    "team_id": "257",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "启明星",
+        "en": "All stars"
+      }
+    },
+    "organization": "中国海洋大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "382613"
+  },
+  {
+    "team_id": "258",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "灵魂暴力",
+        "en": "soul?codenutter"
+      }
+    },
+    "organization": "安徽大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "379139"
+  },
+  {
+    "team_id": "259",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "二轮草",
+        "en": "Anemone flaccida"
+      }
+    },
+    "organization": "西南石油大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "381051"
+  },
+  {
+    "team_id": "260",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "全都是错误",
+        "en": "All is bug"
+      }
+    },
+    "organization": "华中科技大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "382663"
+  },
+  {
+    "team_id": "261",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "这只竹鼠好像中暑了，不如我们…",
+        "en": "Roast bamboo rat"
+      }
+    },
+    "organization": "福建师范大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "382087"
+  },
+  {
+    "team_id": "262",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "边界",
+        "en": "NEU_Bound"
+      }
+    },
+    "organization": "东北大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "382763"
+  },
+  {
+    "team_id": "263",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "十八禁",
+        "en": "Happy_Sugar_Life"
+      }
+    },
+    "organization": "浙江大学城市学院",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "382683"
+  },
+  {
+    "team_id": "264",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "小猪佩奇",
+        "en": "Pig Pecs"
+      }
+    },
+    "organization": "桂林电子科技大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "383600"
+  },
+  {
+    "team_id": "265",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "南方科技大学_利物浦",
+        "en": "SUSTech_Liverpool"
+      }
+    },
+    "organization": "南方科技大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "381124"
+  },
+  {
+    "team_id": "266",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "网络已断开",
+        "en": "no regret voyage"
+      }
+    },
+    "organization": "西南科技大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "379985"
+  },
+  {
+    "team_id": "267",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "上帝吃泡面",
+        "en": "God eats instant noodles"
+      }
+    },
+    "organization": "太原理工大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "380077"
+  },
+  {
+    "team_id": "268",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "烤包子",
+        "en": "kaobaozi"
+      }
+    },
+    "organization": "新疆大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "383439"
+  },
+  {
+    "team_id": "269",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "杭电十队",
+        "en": "HDU-Team10"
+      }
+    },
+    "organization": "杭州电子科技大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377994"
+  },
+  {
+    "team_id": "270",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "刘恋牛来牛恋刘",
+        "en": "BullLiuLovesEachOther"
+      }
+    },
+    "organization": "南京师范大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "380938"
+  },
+  {
+    "team_id": "271",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "码农翻身",
+        "en": "Still xianyu"
+      }
+    },
+    "organization": "河海大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "383318"
+  },
+  {
+    "team_id": "272",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "被榜淹没不知所措",
+        "en": "NJUPT_FollowU"
+      }
+    },
+    "organization": "南京邮电大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "380583"
+  },
+  {
+    "team_id": "273",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "三元线性回归",
+        "en": "Ternary linear regression"
+      }
+    },
+    "organization": "成都信息工程大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "378948"
+  },
+  {
+    "team_id": "274",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "不香不要钱",
+        "en": "no spice no money"
+      }
+    },
+    "organization": "南通大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "379906"
+  },
+  {
+    "team_id": "275",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "血小板",
+        "en": "platelet"
+      }
+    },
+    "organization": "中国矿业大学",
+    "group": [
+      "unofficial"
+    ]
+  },
+  {
+    "team_id": "276",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "大郎该吃药了",
+        "en": "yingyingying"
+      }
+    },
+    "organization": "哈尔滨工程大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "380841"
+  },
+  {
+    "team_id": "277",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "只有队名可以吗",
+        "en": "space"
+      }
+    },
+    "organization": "兰州大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "386357"
+  },
+  {
+    "team_id": "278",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "猴子派来的小小队",
+        "en": "A small team of monkeys"
+      }
+    },
+    "organization": "安阳工学院",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "393727"
+  },
+  {
+    "team_id": "279",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "代码与人生如诗",
+        "en": "EL PSY CONGROO"
+      }
+    },
+    "organization": "山东理工大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "383533"
+  },
+  {
+    "team_id": "280",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "我们是没有感情的ACM杀手",
+        "en": "ACM Killers with no mercy"
+      }
+    },
+    "organization": "南京航空航天大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "390578"
+  },
+  {
+    "team_id": "281",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "她来听我的演唱会",
+        "en": "Tornado"
+      }
+    },
+    "organization": "湖北工业大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "378833"
+  },
+  {
+    "team_id": "282",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Xiayu",
+        "en": "Xiayu"
+      }
+    },
+    "organization": "宁波大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "382072"
+  },
+  {
+    "team_id": "283",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "隔壁队伍讨论问题请大点声",
+        "en": "Speak louder, please"
+      }
+    },
+    "organization": "潍坊科技学院",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "384030"
+  },
+  {
+    "team_id": "284",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "对对队",
+        "en": "yea and right"
+      }
+    },
+    "organization": "郑州大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "392466"
+  },
+  {
+    "team_id": "285",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "浮士德",
+        "en": "Faust"
+      }
+    },
+    "organization": "徐州工程学院",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "381157"
+  },
+  {
+    "team_id": "286",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "蛋王之王",
+        "en": "Fighting"
+      }
+    },
+    "organization": "上海第二工业大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "380047"
+  },
+  {
+    "team_id": "287",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "灵动",
+        "en": "Agile1"
+      }
+    },
+    "organization": "中国矿业大学徐海学院",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "team_id": "288",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "香港记者队",
+        "en": "deep dark fantasy"
+      }
+    },
+    "organization": "重庆大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "379383"
+  }
+]
