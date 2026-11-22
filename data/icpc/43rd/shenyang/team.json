@@ -1,0 +1,2662 @@
+[
+  {
+    "team_id": "1",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "家里蹲"
+      }
+    },
+    "organization": "北京大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "381551"
+  },
+  {
+    "team_id": "2",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "中山大学_领航者"
+      }
+    },
+    "organization": "中山大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377207"
+  },
+  {
+    "team_id": "3",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "祈求者"
+      }
+    },
+    "organization": "复旦大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "376997"
+  },
+  {
+    "team_id": "4",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "咖啡鸡"
+      }
+    },
+    "organization": "南京大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377041"
+  },
+  {
+    "team_id": "5",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "不图不挂素质游戏"
+      }
+    },
+    "organization": "南京理工大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377790"
+  },
+  {
+    "team_id": "6",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "金金金金金"
+      }
+    },
+    "organization": "华南理工大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377739"
+  },
+  {
+    "team_id": "7",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "逆序欧拉回路"
+      }
+    },
+    "organization": "北京大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "381550"
+  },
+  {
+    "team_id": "8",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "acm.ecnu.edu.cn"
+      }
+    },
+    "organization": "华东师范大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "376861"
+  },
+  {
+    "team_id": "9",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "皮卡乒乒乓乓乒乓"
+      }
+    },
+    "organization": "山东大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377301"
+  },
+  {
+    "team_id": "10",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "火辣鸡不会include"
+      }
+    },
+    "organization": "西安电子科技大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377383"
+  },
+  {
+    "team_id": "11",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "EuropeSun"
+      }
+    },
+    "organization": "浙江大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377995"
+  },
+  {
+    "team_id": "12",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "小黄鸡咕咕咕"
+      }
+    },
+    "organization": "北京航空航天大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377939"
+  },
+  {
+    "team_id": "13",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "llIlIIlIll"
+      }
+    },
+    "organization": "南京大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "380348"
+  },
+  {
+    "team_id": "14",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "明明是我们先AC的"
+      }
+    },
+    "organization": "北京理工大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377440"
+  },
+  {
+    "team_id": "15",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "远见"
+      }
+    },
+    "organization": "大连理工大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "378385"
+  },
+  {
+    "team_id": "16",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "黑框眼镜"
+      }
+    },
+    "organization": "吉林大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377054"
+  },
+  {
+    "team_id": "17",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "青萍末"
+      }
+    },
+    "organization": "复旦大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "376998"
+  },
+  {
+    "team_id": "18",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "趣味时光"
+      }
+    },
+    "organization": "北京航空航天大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377938"
+  },
+  {
+    "team_id": "19",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "绯色月下"
+      }
+    },
+    "organization": "东北师范大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "376868"
+  },
+  {
+    "team_id": "20",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "混躺C"
+      }
+    },
+    "organization": "烟台大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "379093"
+  },
+  {
+    "team_id": "21",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "我有个超好的队名但忘了"
+      }
+    },
+    "organization": "西安交通大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "379728"
+  },
+  {
+    "team_id": "22",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "赫拉克勒斯"
+      }
+    },
+    "organization": "南京航空航天大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377320"
+  },
+  {
+    "team_id": "23",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "野花"
+      }
+    },
+    "organization": "四川大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "378442"
+  },
+  {
+    "team_id": "24",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "三只仓鼠"
+      }
+    },
+    "organization": "杭州电子科技大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377989"
+  },
+  {
+    "team_id": "25",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "圆环之理"
+      }
+    },
+    "organization": "北京师范大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "379903"
+  },
+  {
+    "team_id": "26",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Innocence"
+      }
+    },
+    "organization": "浙江大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377997"
+  },
+  {
+    "team_id": "27",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "UESTC_998244353"
+      }
+    },
+    "organization": "电子科技大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377453"
+  },
+  {
+    "team_id": "28",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "工程制图"
+      }
+    },
+    "organization": "哈尔滨工业大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377023"
+  },
+  {
+    "team_id": "29",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "猜歌群"
+      }
+    },
+    "organization": "北京交通大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377045"
+  },
+  {
+    "team_id": "30",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "中山大学_三磅斤"
+      }
+    },
+    "organization": "中山大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377124"
+  },
+  {
+    "team_id": "31",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "气球炸了"
+      }
+    },
+    "organization": "中山大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377158"
+  },
+  {
+    "team_id": "32",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "肥宅大哭.jpg"
+      }
+    },
+    "organization": "北京理工大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377439"
+  },
+  {
+    "team_id": "33",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "阿訇念经，嘤嘤嘤嘤"
+      }
+    },
+    "organization": "北京邮电大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "378577"
+  },
+  {
+    "team_id": "34",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "这是我们第三次来东北了"
+      }
+    },
+    "organization": "华南理工大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377430"
+  },
+  {
+    "team_id": "35",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "楼上好强啊"
+      }
+    },
+    "organization": "哈尔滨工业大学",
+    "group": [
+      "unofficial"
+    ]
+  },
+  {
+    "team_id": "36",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "老张老赵带带我"
+      }
+    },
+    "organization": "中国石油大学（华东）",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "379051"
+  },
+  {
+    "team_id": "37",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "逐风"
+      }
+    },
+    "organization": "中南大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "378398"
+  },
+  {
+    "team_id": "38",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "TJU_天之豪杰"
+      }
+    },
+    "organization": "天津大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "379206"
+  },
+  {
+    "team_id": "39",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "旅行八龟"
+      }
+    },
+    "organization": "浙江大学城市学院",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377776"
+  },
+  {
+    "team_id": "40",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "天光"
+      }
+    },
+    "organization": "浙江财经大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377954"
+  },
+  {
+    "team_id": "41",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "求你们别学了我们跟不上了"
+      }
+    },
+    "organization": "福建师范大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377217"
+  },
+  {
+    "team_id": "42",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "我想吃锅包肉朝鲜冷面人参鸡清蒸白鱼蒸饺白肉血肠雪衣豆沙"
+      }
+    },
+    "organization": "华中科技大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377219"
+  },
+  {
+    "team_id": "43",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "青歌行"
+      }
+    },
+    "organization": "大连理工大学软件学院",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377062"
+  },
+  {
+    "team_id": "44",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "已售罄"
+      }
+    },
+    "organization": "中国人民大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377590"
+  },
+  {
+    "team_id": "45",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "黄金水"
+      }
+    },
+    "organization": "香港理工大学",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "team_id": "46",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "岳麓幻想物语"
+      }
+    },
+    "organization": "湖南大学",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "team_id": "47",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "我能摸摸你的奖杯吗"
+      }
+    },
+    "organization": "武汉大学",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "team_id": "48",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "我希望这是一个幸运数字"
+      }
+    },
+    "organization": "福州大学",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "team_id": "49",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "白鸟"
+      }
+    },
+    "organization": "南京工业大学",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "team_id": "50",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "没人想队名"
+      }
+    },
+    "organization": "华南农业大学",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "team_id": "51",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "渐入佳境"
+      }
+    },
+    "organization": "北京大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "381552"
+  },
+  {
+    "team_id": "52",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "嘟嘟噜"
+      }
+    },
+    "organization": "中国矿业大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "380008"
+  },
+  {
+    "team_id": "53",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "可乐"
+      }
+    },
+    "organization": "青岛大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377402"
+  },
+  {
+    "team_id": "54",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "RPrush"
+      }
+    },
+    "organization": "福建工程学院",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "378911"
+  },
+  {
+    "team_id": "55",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "宁静致远"
+      }
+    },
+    "organization": "浙江大学宁波理工学院",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377566"
+  },
+  {
+    "team_id": "56",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "辣个蓝人"
+      }
+    },
+    "organization": "北京邮电大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "378578"
+  },
+  {
+    "team_id": "57",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "房东的狗"
+      }
+    },
+    "organization": "北京邮电大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "378576"
+  },
+  {
+    "team_id": "58",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "GM"
+      }
+    },
+    "organization": "哈尔滨工业大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377024"
+  },
+  {
+    "team_id": "59",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "神奇海螺"
+      }
+    },
+    "organization": "广东工业大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377091"
+  },
+  {
+    "team_id": "60",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "夏威夷吉他"
+      }
+    },
+    "organization": "吉林大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377056"
+  },
+  {
+    "team_id": "61",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "大佬腿好粗"
+      }
+    },
+    "organization": "郑州大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377569"
+  },
+  {
+    "team_id": "62",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "小荷队"
+      }
+    },
+    "organization": "上海大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "379164"
+  },
+  {
+    "team_id": "63",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "火箭少女707的wa掘机"
+      }
+    },
+    "organization": "东南大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "378500"
+  },
+  {
+    "team_id": "64",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "妙蛙种子"
+      }
+    },
+    "organization": "华中师范大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "378462"
+  },
+  {
+    "team_id": "65",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Trident-Z"
+      }
+    },
+    "organization": "浙江大学",
+    "group": [
+      "unofficial"
+    ]
+  },
+  {
+    "team_id": "66",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "UESTC_wow"
+      }
+    },
+    "organization": "电子科技大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377451"
+  },
+  {
+    "team_id": "67",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "为美好的世界献上祝福"
+      }
+    },
+    "organization": "中国地质大学（北京）",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "379069"
+  },
+  {
+    "team_id": "68",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "茶大师"
+      }
+    },
+    "organization": "广东工业大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377090"
+  },
+  {
+    "team_id": "69",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "平凡之路"
+      }
+    },
+    "organization": "湘潭大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "376919"
+  },
+  {
+    "team_id": "70",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "以豹制豹"
+      }
+    },
+    "organization": "南开大学",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "team_id": "71",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "荠菜"
+      }
+    },
+    "organization": "同济大学",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "team_id": "72",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "刷牙"
+      }
+    },
+    "organization": "南京航空航天大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377321"
+  },
+  {
+    "team_id": "73",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "嘤嘤嘤"
+      }
+    },
+    "organization": "中国科学院大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "379181"
+  },
+  {
+    "team_id": "74",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "TI1050"
+      }
+    },
+    "organization": "杭州师范大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377662"
+  },
+  {
+    "team_id": "75",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "刷酱饼"
+      }
+    },
+    "organization": "东北农业大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "378498"
+  },
+  {
+    "team_id": "76",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "福大命大"
+      }
+    },
+    "organization": "福州大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "378952"
+  },
+  {
+    "team_id": "77",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "听取WA声一片"
+      }
+    },
+    "organization": "南京邮电大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377459"
+  },
+  {
+    "team_id": "78",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "喵喵喵"
+      }
+    },
+    "organization": "哈尔滨工程大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377225"
+  },
+  {
+    "team_id": "79",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "仍未命名"
+      }
+    },
+    "organization": "北京交通大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "382558"
+  },
+  {
+    "team_id": "80",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "AC自动复读机"
+      }
+    },
+    "organization": "浙江师范大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "378560"
+  },
+  {
+    "team_id": "81",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "秦岭小队"
+      }
+    },
+    "organization": "西北工业大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "379243"
+  },
+  {
+    "team_id": "82",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "幻想乡乐园"
+      }
+    },
+    "organization": "长春理工大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "378352"
+  },
+  {
+    "team_id": "83",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "天降正啊!"
+      }
+    },
+    "organization": "吉林大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377055"
+  },
+  {
+    "team_id": "84",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "扶我起来还能A"
+      }
+    },
+    "organization": "大连理工大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "379137"
+  },
+  {
+    "team_id": "85",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "富贵在天"
+      }
+    },
+    "organization": "中北大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "379000"
+  },
+  {
+    "team_id": "86",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "隐隐作秀"
+      }
+    },
+    "organization": "西北大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377407"
+  },
+  {
+    "team_id": "87",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "楼上请让一让"
+      }
+    },
+    "organization": "重庆大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377304"
+  },
+  {
+    "team_id": "88",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "打铁侠"
+      }
+    },
+    "organization": "西北工业大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "379244"
+  },
+  {
+    "team_id": "89",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "海尔兄弟"
+      }
+    },
+    "organization": "西南科技大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377161"
+  },
+  {
+    "team_id": "90",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "奥利奥"
+      }
+    },
+    "organization": "长沙理工大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "379623"
+  },
+  {
+    "team_id": "91",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "幻想乡的wa之神社"
+      }
+    },
+    "organization": "西安理工大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "378919"
+  },
+  {
+    "team_id": "92",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "三个小机灵鬼儿"
+      }
+    },
+    "organization": "中国石油大学（华东）",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "379053"
+  },
+  {
+    "team_id": "93",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "WA哈哈"
+      }
+    },
+    "organization": "东北大学秦皇岛分校",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "382638"
+  },
+  {
+    "team_id": "94",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "新鲜空气"
+      }
+    },
+    "organization": "大连东软信息学院",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "team_id": "95",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "弟弟别睡了"
+      }
+    },
+    "organization": "山东大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377302"
+  },
+  {
+    "team_id": "96",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "队伍名六个字"
+      }
+    },
+    "organization": "华中科技大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377220"
+  },
+  {
+    "team_id": "97",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "哈理工9队"
+      }
+    },
+    "organization": "哈尔滨理工大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377426"
+  },
+  {
+    "team_id": "98",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "耳边"
+      }
+    },
+    "organization": "哈尔滨工业大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377025"
+  },
+  {
+    "team_id": "99",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "皮痒痒"
+      }
+    },
+    "organization": "太原理工大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "376878"
+  },
+  {
+    "team_id": "100",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "请不要随地吐痰"
+      }
+    },
+    "organization": "北京理工大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377441"
+  },
+  {
+    "team_id": "101",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "中国中央电视台楼下打铁的"
+      }
+    },
+    "organization": "河南理工大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "378539"
+  },
+  {
+    "team_id": "102",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "1977的回忆"
+      }
+    },
+    "organization": "合肥工业大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377107"
+  },
+  {
+    "team_id": "103",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "中南林科大1队"
+      }
+    },
+    "organization": "中南林业科技大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "378998"
+  },
+  {
+    "team_id": "104",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "雷神之子号"
+      }
+    },
+    "organization": "山东科技大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "378902"
+  },
+  {
+    "team_id": "105",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "坐看云起时"
+      }
+    },
+    "organization": "西安交通大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "379922"
+  },
+  {
+    "team_id": "106",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "幸运E"
+      }
+    },
+    "organization": "哈尔滨工业大学（威海）",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377085"
+  },
+  {
+    "team_id": "107",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "TJU_白银矿工"
+      }
+    },
+    "organization": "天津大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "379208"
+  },
+  {
+    "team_id": "108",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "UESTC_你们怎么都会DP"
+      }
+    },
+    "organization": "电子科技大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377452"
+  },
+  {
+    "team_id": "109",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "南科大_伯明翰队"
+      }
+    },
+    "organization": "南方科技大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "381128"
+  },
+  {
+    "team_id": "110",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "火锅猫"
+      }
+    },
+    "organization": "东北大学秦皇岛分校",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "382637"
+  },
+  {
+    "team_id": "111",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "无水硫酸铜"
+      }
+    },
+    "organization": "长沙理工大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "385376"
+  },
+  {
+    "team_id": "112",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "我要变成学习机"
+      }
+    },
+    "organization": "西南民族大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377065"
+  },
+  {
+    "team_id": "113",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "ZJUT10"
+      }
+    },
+    "organization": "浙江工业大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "378406"
+  },
+  {
+    "team_id": "114",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "眼大鸟"
+      }
+    },
+    "organization": "浙江工业大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "378404"
+  },
+  {
+    "team_id": "115",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "刷新一次加一秒"
+      }
+    },
+    "organization": "华东理工大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377416"
+  },
+  {
+    "team_id": "116",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "生死有命"
+      }
+    },
+    "organization": "中北大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "378999"
+  },
+  {
+    "team_id": "117",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "TJU_天籁之音"
+      }
+    },
+    "organization": "天津大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "379207"
+  },
+  {
+    "team_id": "118",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "西伯利亚大尾巴狼"
+      }
+    },
+    "organization": "武汉科技大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377435"
+  },
+  {
+    "team_id": "119",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "圆角少女"
+      }
+    },
+    "organization": "沈阳航空航天大学",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "team_id": "120",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "休伯利安空中劈叉清洁工队"
+      }
+    },
+    "organization": "浙江师范大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377910"
+  },
+  {
+    "team_id": "121",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "我想要小姐姐"
+      }
+    },
+    "organization": "长沙理工大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377404"
+  },
+  {
+    "team_id": "122",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "蛙丛一抹绿"
+      }
+    },
+    "organization": "青岛大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "382343"
+  },
+  {
+    "team_id": "123",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "被生活鸭垮"
+      }
+    },
+    "organization": "中国矿业大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "380007"
+  },
+  {
+    "team_id": "124",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "桃园三结义"
+      }
+    },
+    "organization": "黑龙江大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377915"
+  },
+  {
+    "team_id": "125",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "锦鲤"
+      }
+    },
+    "organization": "浙江财经大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377953"
+  },
+  {
+    "team_id": "126",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "无心插柳柳成荫"
+      }
+    },
+    "organization": "东北农业大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "378502"
+  },
+  {
+    "team_id": "127",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "只有签到题能"
+      }
+    },
+    "organization": "中国传媒大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "378342"
+  },
+  {
+    "team_id": "128",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "寒武纪"
+      }
+    },
+    "organization": "济南大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377405"
+  },
+  {
+    "team_id": "129",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "青青草原"
+      }
+    },
+    "organization": "哈尔滨工程大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377226"
+  },
+  {
+    "team_id": "130",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "三个臭皮匠"
+      }
+    },
+    "organization": "中国石油大学（华东）",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "379052"
+  },
+  {
+    "team_id": "131",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "海星"
+      }
+    },
+    "organization": "辽宁大学",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "team_id": "132",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "balloc"
+      }
+    },
+    "organization": "东华大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "378661"
+  },
+  {
+    "team_id": "133",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "泡椒竹笋鸡"
+      }
+    },
+    "organization": "北京化工大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "385369"
+  },
+  {
+    "team_id": "134",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "爱吃馍馍"
+      }
+    },
+    "organization": "浙江农林大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377067"
+  },
+  {
+    "team_id": "135",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "一发入魂"
+      }
+    },
+    "organization": "宁波大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "378984"
+  },
+  {
+    "team_id": "136",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "指北针"
+      }
+    },
+    "organization": "北京师范大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "379904"
+  },
+  {
+    "team_id": "137",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "NEU_2"
+      }
+    },
+    "organization": "东北大学",
+    "group": [
+      "unofficial"
+    ]
+  },
+  {
+    "team_id": "138",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "万物皆虚"
+      }
+    },
+    "organization": "武汉大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377719"
+  },
+  {
+    "team_id": "139",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "铁打的小分队"
+      }
+    },
+    "organization": "浙江理工大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "378880"
+  },
+  {
+    "team_id": "140",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "巨硬不微软"
+      }
+    },
+    "organization": "中国矿业大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "380006"
+  },
+  {
+    "team_id": "141",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "欧阿二"
+      }
+    },
+    "organization": "西安电子科技大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377384"
+  },
+  {
+    "team_id": "142",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "幽壑潜蛟"
+      }
+    },
+    "organization": "西南交通大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377223"
+  },
+  {
+    "team_id": "143",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "永不超时"
+      }
+    },
+    "organization": "上海大学",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "team_id": "144",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "机动特遣队"
+      }
+    },
+    "organization": "长春工业大学",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "team_id": "145",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "营养快线"
+      }
+    },
+    "organization": "东北林业大学",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "team_id": "146",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "CQUPT_欧锦神"
+      }
+    },
+    "organization": "重庆邮电大学",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "team_id": "147",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "三个美少女"
+      }
+    },
+    "organization": "北京林业大学",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "team_id": "148",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "俊纬别黑我衣服"
+      }
+    },
+    "organization": "浙江中医药大学",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "team_id": "149",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "小樱队"
+      }
+    },
+    "organization": "河海大学",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "team_id": "150",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "教我写代码"
+      }
+    },
+    "organization": "北京化工大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "385368"
+  },
+  {
+    "team_id": "151",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "ZJUT8"
+      }
+    },
+    "organization": "浙江工业大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "378405"
+  },
+  {
+    "team_id": "152",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "香港记者"
+      }
+    },
+    "organization": "南京晓庄学院",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "380943"
+  },
+  {
+    "team_id": "153",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "没有女友队"
+      }
+    },
+    "organization": "台州学院",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377099"
+  },
+  {
+    "team_id": "154",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "人类的本质是"
+      }
+    },
+    "organization": "中国人民解放军战略支援部队信息工程大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "382065"
+  },
+  {
+    "team_id": "155",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "注射用思他宁"
+      }
+    },
+    "organization": "东北林业大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "384087"
+  },
+  {
+    "team_id": "156",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "一个非常正经的队"
+      }
+    },
+    "organization": "哈尔滨工程大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377227"
+  },
+  {
+    "team_id": "157",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "半人马号"
+      }
+    },
+    "organization": "山东科技大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "378901"
+  },
+  {
+    "team_id": "158",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "哈理工7队"
+      }
+    },
+    "organization": "哈尔滨理工大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377428"
+  },
+  {
+    "team_id": "159",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "这！就是华德"
+      }
+    },
+    "organization": "哈尔滨华德学院",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "team_id": "160",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "我的ac名单上有5个名字"
+      }
+    },
+    "organization": "中国传媒大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "378343"
+  },
+  {
+    "team_id": "161",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "逸已死吾亦死"
+      }
+    },
+    "organization": "兰州大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377645"
+  },
+  {
+    "team_id": "162",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "青梅煮酒"
+      }
+    },
+    "organization": "湖南工业大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "378584"
+  },
+  {
+    "team_id": "163",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "咕军奋战"
+      }
+    },
+    "organization": "山东理工大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "379441"
+  },
+  {
+    "team_id": "164",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "NEU_1"
+      }
+    },
+    "organization": "东北大学",
+    "group": [
+      "unofficial"
+    ]
+  },
+  {
+    "team_id": "165",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "沈阳山猪"
+      }
+    },
+    "organization": "南通大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377944"
+  },
+  {
+    "team_id": "166",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "杭电十一队"
+      }
+    },
+    "organization": "杭州电子科技大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377990"
+  },
+  {
+    "team_id": "167",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "中南林科大2队"
+      }
+    },
+    "organization": "中南林业科技大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "382378"
+  },
+  {
+    "team_id": "168",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "这也太真实了"
+      }
+    },
+    "organization": "沈阳化工大学",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "team_id": "169",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "一个没有小姐姐的队"
+      }
+    },
+    "organization": "哈尔滨学院",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "386026"
+  },
+  {
+    "team_id": "170",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "混乱清理者"
+      }
+    },
+    "organization": "兰州理工大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "386031"
+  },
+  {
+    "team_id": "171",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "肖秦叶三铁匠一起来打铁"
+      }
+    },
+    "organization": "山东大学（威海）",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377810"
+  },
+  {
+    "team_id": "172",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "一天A一道"
+      }
+    },
+    "organization": "江西财经大学",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "team_id": "173",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "除学不知"
+      }
+    },
+    "organization": "大连海事大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "379233"
+  },
+  {
+    "team_id": "174",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "子言君声"
+      }
+    },
+    "organization": "江南大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377350"
+  },
+  {
+    "team_id": "175",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "沈阳一日游"
+      }
+    },
+    "organization": "北京信息科技大学",
+    "group": [
+      "official"
+    ]
+  },
+  {
+    "team_id": "176",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "猪肉炖油条"
+      }
+    },
+    "organization": "成都信息工程大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377728"
+  },
+  {
+    "team_id": "177",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Bug自动机"
+      }
+    },
+    "organization": "河南大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "378789"
+  },
+  {
+    "team_id": "178",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "线性代数半价出售"
+      }
+    },
+    "organization": "华南师范大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "378435"
+  },
+  {
+    "team_id": "179",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "稻花香里说丰年"
+      }
+    },
+    "organization": "东北师范大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "376867"
+  },
+  {
+    "team_id": "180",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "WA题自动机"
+      }
+    },
+    "organization": "桂林电子科技大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "378647"
+  },
+  {
+    "team_id": "181",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "破浪"
+      }
+    },
+    "organization": "西南石油大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "379136"
+  },
+  {
+    "team_id": "182",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "NEU_3"
+      }
+    },
+    "organization": "东北大学",
+    "group": [
+      "unofficial"
+    ]
+  },
+  {
+    "team_id": "183",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "拿牌换机票"
+      }
+    },
+    "organization": "贵州大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "378598"
+  },
+  {
+    "team_id": "184",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "我们坐着硬卧来"
+      }
+    },
+    "organization": "天津工业大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377333"
+  },
+  {
+    "team_id": "185",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "达拉崩吧"
+      }
+    },
+    "organization": "西安邮电大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "377221"
+  },
+  {
+    "team_id": "186",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "数独"
+      }
+    },
+    "organization": "成都理工大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "380359"
+  },
+  {
+    "team_id": "187",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Grassmann流形"
+      }
+    },
+    "organization": "中国科学院大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "379182"
+  },
+  {
+    "team_id": "188",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "为什么不让我用python"
+      }
+    },
+    "organization": "华中农业大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "379115"
+  },
+  {
+    "team_id": "189",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "编码吧兄弟"
+      }
+    },
+    "organization": "河北工业大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "379231"
+  },
+  {
+    "team_id": "190",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "快来补题"
+      }
+    },
+    "organization": "长安大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "378494"
+  },
+  {
+    "team_id": "191",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "随遇而安"
+      }
+    },
+    "organization": "河南理工大学",
+    "group": [
+      "official"
+    ],
+    "icpc_id": "378538"
+  },
+  {
+    "team_id": "192",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "NEU_4"
+      }
+    },
+    "organization": "东北大学",
+    "group": [
+      "unofficial"
+    ]
+  }
+]
