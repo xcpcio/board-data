@@ -38,7 +38,7 @@
     "team_id": "6",
     "name": "None (MY LLL\\'S AC)",
     "organization": "西北工业大学附属中学",
-    "official": 1
+    "unofficial": 1
   },
   {
     "team_id": "7",
@@ -51,7 +51,7 @@
     "team_id": "8",
     "name": "欢乐探险队 (Team Happies)",
     "organization": "福州大学",
-    "official": 1
+    "unofficial": 1
   },
   {
     "team_id": "9",
@@ -176,7 +176,7 @@
     "team_id": "26",
     "name": "计蒜客 (jisuanke)",
     "organization": "计蒜客",
-    "official": 1
+    "unofficial": 1
   },
   {
     "team_id": "27",
@@ -588,8 +588,8 @@
     "team_id": "85",
     "name": "好多好多栗子 (manymanyshit)",
     "organization": "西铁一中",
-    "official": 1,
-    "icpc_id": "333020"
+    "icpc_id": "333020",
+    "unofficial": 1
   },
   {
     "team_id": "86",
@@ -651,8 +651,8 @@
     "team_id": "94",
     "name": "学长说的都队 (BURNING)",
     "organization": "友情参加",
-    "official": 1,
-    "icpc_id": "343995"
+    "icpc_id": "343995",
+    "unofficial": 1
   },
   {
     "team_id": "95",
