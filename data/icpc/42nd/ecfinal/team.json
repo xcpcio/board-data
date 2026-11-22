@@ -1,0 +1,3163 @@
+[
+  {
+    "team_id": "1",
+    "name": "畏无",
+    "organization": "海女美術大学",
+    "official": false,
+    "unofficial": 1,
+    "girl": false,
+    "location": "F31"
+  },
+  {
+    "team_id": "2",
+    "name": "新日暮里",
+    "organization": "清华大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "B94"
+  },
+  {
+    "team_id": "3",
+    "name": "全给党",
+    "organization": "北京大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "E102"
+  },
+  {
+    "team_id": "4",
+    "name": "天才卡题少女",
+    "organization": "清华大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "A12"
+  },
+  {
+    "team_id": "5",
+    "name": "马上就要被楼下超过了",
+    "organization": "清华大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "D41"
+  },
+  {
+    "team_id": "6",
+    "name": "黑人问号.jpg",
+    "organization": "北京航空航天大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "E51",
+    "icpc_id": "355425"
+  },
+  {
+    "team_id": "7",
+    "name": "QQ奶糖",
+    "organization": "北京师范大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "A21",
+    "icpc_id": "355815"
+  },
+  {
+    "team_id": "8",
+    "name": "夜幕",
+    "organization": "上海交通大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "E65",
+    "icpc_id": "356097"
+  },
+  {
+    "team_id": "9",
+    "name": "星爆弃疗斩",
+    "organization": "江苏省常州高级中学",
+    "official": false,
+    "unofficial": 1,
+    "girl": false,
+    "location": "D44"
+  },
+  {
+    "team_id": "10",
+    "name": "鏼鏼发抖",
+    "organization": "清华大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "E56",
+    "icpc_id": "355489"
+  },
+  {
+    "team_id": "11",
+    "name": "誒射能特",
+    "organization": "香港中文大學",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "C56",
+    "icpc_id": "355799"
+  },
+  {
+    "team_id": "12",
+    "name": "Legilimens",
+    "organization": "浙江大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "B54",
+    "icpc_id": "355856"
+  },
+  {
+    "team_id": "13",
+    "name": "杭电老年队",
+    "organization": "杭州电子科技大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "C81",
+    "icpc_id": "355982"
+  },
+  {
+    "team_id": "14",
+    "name": "益智兄弟",
+    "organization": "Wannafly",
+    "official": false,
+    "unofficial": 1,
+    "girl": false,
+    "location": "B64"
+  },
+  {
+    "team_id": "15",
+    "name": "Reconquista",
+    "organization": "浙江大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "F13",
+    "icpc_id": "355855"
+  },
+  {
+    "team_id": "16",
+    "name": "逆序欧拉回路",
+    "organization": "浙江省杭州第二中学",
+    "official": false,
+    "unofficial": 1,
+    "girl": false,
+    "location": "B82"
+  },
+  {
+    "team_id": "17",
+    "name": "SYSU_老铁",
+    "organization": "中山大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "D14",
+    "icpc_id": "355449"
+  },
+  {
+    "team_id": "18",
+    "name": "AIIAGE寒武纪智能",
+    "organization": "深圳寒武纪智能有限公司",
+    "official": false,
+    "unofficial": 1,
+    "girl": false,
+    "location": "D21"
+  },
+  {
+    "team_id": "19",
+    "name": "帕奇利兹",
+    "organization": "福州大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "E91",
+    "icpc_id": "355797"
+  },
+  {
+    "team_id": "20",
+    "name": "Miracle",
+    "organization": "北京大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "C96",
+    "icpc_id": "356044"
+  },
+  {
+    "team_id": "21",
+    "name": "UESTC_星幻",
+    "organization": "电子科技大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "B55",
+    "icpc_id": "355729"
+  },
+  {
+    "team_id": "22",
+    "name": "魔典",
+    "organization": "上海交通大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "B84",
+    "icpc_id": "356099"
+  },
+  {
+    "team_id": "23",
+    "name": "巫师",
+    "organization": "上海交通大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "C92",
+    "icpc_id": "356098"
+  },
+  {
+    "team_id": "24",
+    "name": "SYSU_数位爱",
+    "organization": "中山大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "F23",
+    "icpc_id": "355831"
+  },
+  {
+    "team_id": "25",
+    "name": "十项全能",
+    "organization": "南京理工大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "F91",
+    "icpc_id": "355450"
+  },
+  {
+    "team_id": "26",
+    "name": "我，青玉德，吃鸡！",
+    "organization": "南京大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "B92",
+    "icpc_id": "355893"
+  },
+  {
+    "team_id": "27",
+    "name": "TJU_WannaCry",
+    "organization": "天津大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "F61",
+    "icpc_id": "355979"
+  },
+  {
+    "team_id": "28",
+    "name": "StayReal",
+    "organization": "南京大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "A65",
+    "icpc_id": "355892"
+  },
+  {
+    "team_id": "29",
+    "name": "丝滑拿铁",
+    "organization": "武汉大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "E105",
+    "icpc_id": "355747"
+  },
+  {
+    "team_id": "30",
+    "name": "杰尼龟",
+    "organization": "北京大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "B24",
+    "icpc_id": "356045"
+  },
+  {
+    "team_id": "31",
+    "name": "赛先生",
+    "organization": "复旦大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "C85"
+  },
+  {
+    "team_id": "32",
+    "name": "拯救世界",
+    "organization": "南京邮电大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "C34",
+    "icpc_id": "356115"
+  },
+  {
+    "team_id": "33",
+    "name": "穷游中国",
+    "organization": "广东工业大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "D23",
+    "icpc_id": "355821"
+  },
+  {
+    "team_id": "34",
+    "name": "一步之遥",
+    "organization": "大连理工大学软件学院",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "D22",
+    "icpc_id": "355751"
+  },
+  {
+    "team_id": "35",
+    "name": "说学逗唱",
+    "organization": "西安交通大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "F81",
+    "icpc_id": "355463"
+  },
+  {
+    "team_id": "36",
+    "name": "野草",
+    "organization": "四川大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "A51"
+  },
+  {
+    "team_id": "37",
+    "name": "四带一对",
+    "organization": "重庆大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "A43",
+    "icpc_id": "355828"
+  },
+  {
+    "team_id": "38",
+    "name": "独裁者",
+    "organization": "复旦大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "F53"
+  },
+  {
+    "team_id": "39",
+    "name": "红星1",
+    "organization": "朝鲜理科大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "F73",
+    "icpc_id": "355826"
+  },
+  {
+    "team_id": "40",
+    "name": "UESTC_ELSE",
+    "organization": "电子科技大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "D61",
+    "icpc_id": "355742"
+  },
+  {
+    "team_id": "41",
+    "name": "A*仙人掌",
+    "organization": "上海市科技艺术教育中心",
+    "official": false,
+    "unofficial": 1,
+    "girl": false,
+    "location": "B21"
+  },
+  {
+    "team_id": "42",
+    "name": "抱紧学弟大腿",
+    "organization": "南京大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "E25",
+    "icpc_id": "355894"
+  },
+  {
+    "team_id": "43",
+    "name": "水能载舟",
+    "organization": "北京航空航天大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "F72",
+    "icpc_id": "355430"
+  },
+  {
+    "team_id": "44",
+    "name": "谬误之扉",
+    "organization": "北京大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "D91",
+    "icpc_id": "356042"
+  },
+  {
+    "team_id": "45",
+    "name": "我的女朋友们",
+    "organization": "华南理工大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "C61",
+    "icpc_id": "355761"
+  },
+  {
+    "team_id": "46",
+    "name": "保持在线",
+    "organization": "南京大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "F55",
+    "icpc_id": "355895"
+  },
+  {
+    "team_id": "47",
+    "name": "贝塔猫",
+    "organization": "北京大学",
+    "official": false,
+    "unofficial": 1,
+    "girl": false,
+    "location": "D56"
+  },
+  {
+    "team_id": "48",
+    "name": "格洛瑞",
+    "organization": "西安电子科技大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "B101",
+    "icpc_id": "355794"
+  },
+  {
+    "team_id": "49",
+    "name": "美好的每一天",
+    "organization": "中国科学院大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "B72"
+  },
+  {
+    "team_id": "50",
+    "name": "猜歌群",
+    "organization": "北京交通大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "E21",
+    "icpc_id": "355745"
+  },
+  {
+    "team_id": "51",
+    "name": "TAT",
+    "organization": "北京航空航天大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "F83",
+    "icpc_id": "355427"
+  },
+  {
+    "team_id": "52",
+    "name": "嗨呀好气呀",
+    "organization": "长春理工大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "E61",
+    "icpc_id": "355770"
+  },
+  {
+    "team_id": "53",
+    "name": "花火",
+    "organization": "福州大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "F76",
+    "icpc_id": "355798"
+  },
+  {
+    "team_id": "54",
+    "name": "没睡醒",
+    "organization": "武汉大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "E32",
+    "icpc_id": "355746"
+  },
+  {
+    "team_id": "55",
+    "name": "星云",
+    "organization": "华中科技大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "F51",
+    "icpc_id": "355785"
+  },
+  {
+    "team_id": "56",
+    "name": "无尽挑战",
+    "organization": "广东工业大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "D101",
+    "icpc_id": "355822"
+  },
+  {
+    "team_id": "57",
+    "name": "Aha!",
+    "organization": "香港大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "C65",
+    "icpc_id": "355992"
+  },
+  {
+    "team_id": "58",
+    "name": "击败一全",
+    "organization": "香港科技大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "A96",
+    "icpc_id": "355612"
+  },
+  {
+    "team_id": "59",
+    "name": "挑战",
+    "organization": "北京科技大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "F52",
+    "icpc_id": "355990"
+  },
+  {
+    "team_id": "60",
+    "name": "原初之火",
+    "organization": "广州大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "C84",
+    "icpc_id": "355911"
+  },
+  {
+    "team_id": "61",
+    "name": "我永远喜欢C.C.，娜娜莉和尤菲米娅",
+    "organization": "复旦大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "A13"
+  },
+  {
+    "team_id": "62",
+    "name": "迷失星团",
+    "organization": "北京大学",
+    "official": false,
+    "unofficial": 1,
+    "girl": false,
+    "location": "A72",
+    "icpc_id": "356043"
+  },
+  {
+    "team_id": "63",
+    "name": "热核火箭",
+    "organization": "浙江师范大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "F24",
+    "icpc_id": "355867"
+  },
+  {
+    "team_id": "64",
+    "name": "玩能完",
+    "organization": "香港中文大學",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "A35",
+    "icpc_id": "355800"
+  },
+  {
+    "team_id": "65",
+    "name": "量子鸭嘴笔",
+    "organization": "华东师范大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "F35",
+    "icpc_id": "355898"
+  },
+  {
+    "team_id": "66",
+    "name": "巴哈姆特",
+    "organization": "北京理工大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "D25",
+    "icpc_id": "355834"
+  },
+  {
+    "team_id": "67",
+    "name": "UESTC_不如去上海坐磁悬浮吧",
+    "organization": "电子科技大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "D55",
+    "icpc_id": "355730"
+  },
+  {
+    "team_id": "68",
+    "name": "为什么过了样例还不对",
+    "organization": "华东师范大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "E95",
+    "icpc_id": "355808"
+  },
+  {
+    "team_id": "69",
+    "name": "请以上队伍站在原地不要走动",
+    "organization": "南京航空航天大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "C103",
+    "icpc_id": "355596"
+  },
+  {
+    "team_id": "70",
+    "name": "我的那一秒呢",
+    "organization": "华南农业大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "B75"
+  },
+  {
+    "team_id": "71",
+    "name": "开心就好",
+    "organization": "哈尔滨工业大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "B36",
+    "icpc_id": "355864"
+  },
+  {
+    "team_id": "72",
+    "name": "暴力打牌",
+    "organization": "华中师范大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "C95"
+  },
+  {
+    "team_id": "73",
+    "name": "月光",
+    "organization": "浙江财经大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "A31",
+    "icpc_id": "355453"
+  },
+  {
+    "team_id": "74",
+    "name": "砥砺前行",
+    "organization": "同济大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "A55",
+    "icpc_id": "355901"
+  },
+  {
+    "team_id": "75",
+    "name": "露染霜干片片轻",
+    "organization": "中国科学院大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "A94",
+    "icpc_id": "355858"
+  },
+  {
+    "team_id": "76",
+    "name": "理工的小铁匠",
+    "organization": "北京理工大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "B76",
+    "icpc_id": "355833"
+  },
+  {
+    "team_id": "77",
+    "name": "G3-X",
+    "organization": "杭州师范大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "D51",
+    "icpc_id": "355768"
+  },
+  {
+    "team_id": "78",
+    "name": "骑士王的荣耀",
+    "organization": "山东大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "E74"
+  },
+  {
+    "team_id": "79",
+    "name": "心里没有B树",
+    "organization": "中国人民大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "F34",
+    "icpc_id": "355852"
+  },
+  {
+    "team_id": "80",
+    "name": "相信的心就是你的算法",
+    "organization": "哈尔滨工业大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "C51",
+    "icpc_id": "355863"
+  },
+  {
+    "team_id": "81",
+    "name": "USTC_8",
+    "organization": "中国科学技术大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "A75",
+    "icpc_id": "356062"
+  },
+  {
+    "team_id": "82",
+    "name": "小鼹鼠",
+    "organization": "东北林业大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "E73",
+    "icpc_id": "355784"
+  },
+  {
+    "team_id": "83",
+    "name": "黑框眼镜",
+    "organization": "吉林大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "C76",
+    "icpc_id": "355417"
+  },
+  {
+    "team_id": "84",
+    "name": "叒上海一日游",
+    "organization": "华南农业大学",
+    "official": false,
+    "unofficial": 1,
+    "girl": false,
+    "location": "D42"
+  },
+  {
+    "team_id": "85",
+    "name": "乌龙茶",
+    "organization": "湖南大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "E103",
+    "icpc_id": "355776"
+  },
+  {
+    "team_id": "86",
+    "name": "杭电少年队",
+    "organization": "杭州电子科技大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "E64",
+    "icpc_id": "355985"
+  },
+  {
+    "team_id": "87",
+    "name": "葬爱三少",
+    "organization": "苏州大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "F75",
+    "icpc_id": "355731"
+  },
+  {
+    "team_id": "88",
+    "name": "中山大学_自动钢琴",
+    "organization": "中山大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "A76",
+    "icpc_id": "355835"
+  },
+  {
+    "team_id": "89",
+    "name": "达拉斯",
+    "organization": "南开大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "E42",
+    "icpc_id": "356057"
+  },
+  {
+    "team_id": "90",
+    "name": "比特赛特",
+    "organization": "西安交通大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "C36",
+    "icpc_id": "355462"
+  },
+  {
+    "team_id": "91",
+    "name": "BNU新生队",
+    "organization": "北京师范大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "B104",
+    "icpc_id": "355816"
+  },
+  {
+    "team_id": "92",
+    "name": "唐红的恋歌",
+    "organization": "重庆邮电大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "C93",
+    "icpc_id": "355772"
+  },
+  {
+    "team_id": "93",
+    "name": "终末神话",
+    "organization": "西南交通大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "E93"
+  },
+  {
+    "team_id": "94",
+    "name": "闪电风暴",
+    "organization": "北京邮电大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "B31",
+    "icpc_id": "355849"
+  },
+  {
+    "team_id": "95",
+    "name": "蕾远",
+    "organization": "中国科学技术大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "E41",
+    "icpc_id": "356061"
+  },
+  {
+    "team_id": "96",
+    "name": "我需要治疗",
+    "organization": "北京航空航天大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "D82",
+    "icpc_id": "355426"
+  },
+  {
+    "team_id": "97",
+    "name": "CSU_admin",
+    "organization": "中南大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "D95",
+    "icpc_id": "355807"
+  },
+  {
+    "team_id": "98",
+    "name": "SYSU_深黑幼想",
+    "organization": "中山大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "B14",
+    "icpc_id": "355741"
+  },
+  {
+    "team_id": "99",
+    "name": "吃鸡大队",
+    "organization": "中国科学技术大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "A22",
+    "icpc_id": "356063"
+  },
+  {
+    "team_id": "100",
+    "name": "码出中国梦",
+    "organization": "同济大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "B73",
+    "icpc_id": "355899"
+  },
+  {
+    "team_id": "101",
+    "name": "爆破小队",
+    "organization": "华南理工大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "F41",
+    "icpc_id": "355743"
+  },
+  {
+    "team_id": "102",
+    "name": "杭电中年队",
+    "organization": "杭州电子科技大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "E12",
+    "icpc_id": "355983"
+  },
+  {
+    "team_id": "103",
+    "name": "红队列",
+    "organization": "华南理工大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "B42",
+    "icpc_id": "355744"
+  },
+  {
+    "team_id": "104",
+    "name": "SYSU_死线之蓝",
+    "organization": "中山大学",
+    "official": false,
+    "unofficial": 1,
+    "girl": false,
+    "location": "E11",
+    "icpc_id": "355455"
+  },
+  {
+    "team_id": "105",
+    "name": "北理六队",
+    "organization": "北京理工大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "E72",
+    "icpc_id": "355734"
+  },
+  {
+    "team_id": "106",
+    "name": "代码跑的比谁都快",
+    "organization": "吉林大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "A102",
+    "icpc_id": "355418"
+  },
+  {
+    "team_id": "107",
+    "name": "膜极客",
+    "organization": "武汉大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "B45",
+    "icpc_id": "355748"
+  },
+  {
+    "team_id": "108",
+    "name": "舞动青春",
+    "organization": "浙江师范大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "F16",
+    "icpc_id": "355866"
+  },
+  {
+    "team_id": "109",
+    "name": "浅听风吟",
+    "organization": "浙江工业大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "A71",
+    "icpc_id": "355998"
+  },
+  {
+    "team_id": "110",
+    "name": "钢化膜",
+    "organization": "中国科学院大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "F25"
+  },
+  {
+    "team_id": "111",
+    "name": "挑战程序设计竞赛",
+    "organization": "华东师范大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "B95"
+  },
+  {
+    "team_id": "112",
+    "name": "飞翔的小鱼",
+    "organization": "中国传媒大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "A81",
+    "icpc_id": "355778"
+  },
+  {
+    "team_id": "113",
+    "name": "上课摸鱼",
+    "organization": "宁波大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "F54",
+    "icpc_id": "355789"
+  },
+  {
+    "team_id": "114",
+    "name": "FD_CLUB",
+    "organization": "浙江大学城市学院",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "A15",
+    "icpc_id": "355736"
+  },
+  {
+    "team_id": "115",
+    "name": "听取WA声一片",
+    "organization": "华东师范大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "A64",
+    "icpc_id": "355897"
+  },
+  {
+    "team_id": "116",
+    "name": "老顽童不退役但是要搬砖啊！",
+    "organization": "重庆大学",
+    "official": false,
+    "unofficial": 1,
+    "girl": false,
+    "location": "D12"
+  },
+  {
+    "team_id": "117",
+    "name": "世界之树的嫩枝",
+    "organization": "河南工业大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "D16",
+    "icpc_id": "355458"
+  },
+  {
+    "team_id": "118",
+    "name": "先天下之忧而忧",
+    "organization": "上海大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "D83"
+  },
+  {
+    "team_id": "119",
+    "name": "伊特瑞特",
+    "organization": "西北农林科技大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "C42",
+    "icpc_id": "355780"
+  },
+  {
+    "team_id": "120",
+    "name": "复苏",
+    "organization": "北京航空航天大学",
+    "official": false,
+    "unofficial": 1,
+    "girl": false,
+    "location": "C52",
+    "icpc_id": "355428"
+  },
+  {
+    "team_id": "121",
+    "name": "稻花香里说丰年_分享人生经验",
+    "organization": "浙江理工大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "B65"
+  },
+  {
+    "team_id": "122",
+    "name": "杭电青年队",
+    "organization": "杭州电子科技大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "C43",
+    "icpc_id": "355984"
+  },
+  {
+    "team_id": "123",
+    "name": "你心里没点B树吗",
+    "organization": "华东师范大学",
+    "official": false,
+    "unofficial": 1,
+    "girl": false,
+    "location": "A92",
+    "icpc_id": "355810"
+  },
+  {
+    "team_id": "124",
+    "name": "ACarp",
+    "organization": "浙江工业大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "E75",
+    "icpc_id": "355996"
+  },
+  {
+    "team_id": "125",
+    "name": "奉均衡之命",
+    "organization": "中南民族大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "D71"
+  },
+  {
+    "team_id": "126",
+    "name": "我是为了你的熊",
+    "organization": "哈尔滨工程大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "D102"
+  },
+  {
+    "team_id": "127",
+    "name": "东华大学",
+    "organization": "东华大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "C63",
+    "icpc_id": "355443"
+  },
+  {
+    "team_id": "128",
+    "name": "别吃了你很胖了",
+    "organization": "闽南师范大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "C53",
+    "icpc_id": "355438"
+  },
+  {
+    "team_id": "129",
+    "name": "金仓·银仓",
+    "organization": "中国人民大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "F92",
+    "icpc_id": "355851"
+  },
+  {
+    "team_id": "130",
+    "name": "东南枝",
+    "organization": "东南大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "E44"
+  },
+  {
+    "team_id": "131",
+    "name": "Ac公司",
+    "organization": "南京理工大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "D81",
+    "icpc_id": "355452"
+  },
+  {
+    "team_id": "132",
+    "name": "不凭手速",
+    "organization": "中国科学院大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "C15"
+  },
+  {
+    "team_id": "133",
+    "name": "这不太好吧",
+    "organization": "哈尔滨工业大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "F96",
+    "icpc_id": "355865"
+  },
+  {
+    "team_id": "134",
+    "name": "轻轻地一个稳",
+    "organization": "哈尔滨工程大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "C75"
+  },
+  {
+    "team_id": "135",
+    "name": "华理小男孩",
+    "organization": "华东理工大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "E16",
+    "icpc_id": "355995"
+  },
+  {
+    "team_id": "136",
+    "name": "淘汰之刃",
+    "organization": "东北大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "F33",
+    "icpc_id": "355762"
+  },
+  {
+    "team_id": "137",
+    "name": "别看了我最酷了",
+    "organization": "东北林业大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "B43",
+    "icpc_id": "355783"
+  },
+  {
+    "team_id": "138",
+    "name": "利剑在手",
+    "organization": "西南科技大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "B16",
+    "icpc_id": "356040"
+  },
+  {
+    "team_id": "139",
+    "name": "偷煤雨夜肥猫泣",
+    "organization": "南京航空航天大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "D104"
+  },
+  {
+    "team_id": "140",
+    "name": "我的表弟不会快速傅里叶变换",
+    "organization": "华南理工大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "D33",
+    "icpc_id": "355763"
+  },
+  {
+    "team_id": "141",
+    "name": "广东老乡",
+    "organization": "浙江大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "C12",
+    "icpc_id": "355857"
+  },
+  {
+    "team_id": "142",
+    "name": "华科附属幼儿园",
+    "organization": "华中科技大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "E31",
+    "icpc_id": "355786"
+  },
+  {
+    "team_id": "143",
+    "name": "ALPC_Denominator",
+    "organization": "国防科技大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "F43",
+    "icpc_id": "355818"
+  },
+  {
+    "team_id": "144",
+    "name": "厉害啊",
+    "organization": "厦门大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "F56"
+  },
+  {
+    "team_id": "145",
+    "name": "测试账号",
+    "organization": "东北大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "B62",
+    "icpc_id": "355766"
+  },
+  {
+    "team_id": "146",
+    "name": "CE使我快乐",
+    "organization": "北京航空航天大学",
+    "official": false,
+    "unofficial": 1,
+    "girl": false,
+    "location": "F22",
+    "icpc_id": "355429"
+  },
+  {
+    "team_id": "147",
+    "name": "ZJUT1",
+    "organization": "浙江工业大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "E36",
+    "icpc_id": "355997"
+  },
+  {
+    "team_id": "148",
+    "name": "新月光",
+    "organization": "浙江财经大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "C14",
+    "icpc_id": "355454"
+  },
+  {
+    "team_id": "149",
+    "name": "小红帽烤冷面",
+    "organization": "北京化工大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "F62"
+  },
+  {
+    "team_id": "150",
+    "name": "长脖子大恐龙队(女队)",
+    "organization": "湖南大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "F71",
+    "icpc_id": "355779"
+  },
+  {
+    "team_id": "151",
+    "name": "贪心的hmz",
+    "organization": "北京邮电大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "D13",
+    "icpc_id": "355848"
+  },
+  {
+    "team_id": "152",
+    "name": "手持两把锟斤拷，烫烫烫烫烫",
+    "organization": "东北大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "A44",
+    "icpc_id": "355765"
+  },
+  {
+    "team_id": "153",
+    "name": "TJU_Team09",
+    "organization": "天津大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "E52",
+    "icpc_id": "355981"
+  },
+  {
+    "team_id": "154",
+    "name": "红衣",
+    "organization": "西安电子科技大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "C62",
+    "icpc_id": "355795"
+  },
+  {
+    "team_id": "155",
+    "name": "阿比斯",
+    "organization": "南京邮电大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "B22"
+  },
+  {
+    "team_id": "156",
+    "name": "503粉丝队",
+    "organization": "华东师范大学",
+    "official": false,
+    "unofficial": 1,
+    "girl": false,
+    "location": "E15",
+    "icpc_id": "355809"
+  },
+  {
+    "team_id": "157",
+    "name": "恩赐解脱",
+    "organization": "东南大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "D54"
+  },
+  {
+    "team_id": "158",
+    "name": "拿个牌回家过年",
+    "organization": "长安大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "A103"
+  },
+  {
+    "team_id": "159",
+    "name": "打完半场我就走",
+    "organization": "中学生",
+    "official": false,
+    "unofficial": 1,
+    "girl": false,
+    "location": "F14"
+  },
+  {
+    "team_id": "160",
+    "name": "无尽的永恒",
+    "organization": "山东理工大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "D94",
+    "icpc_id": "355840"
+  },
+  {
+    "team_id": "161",
+    "name": "航天飞行器",
+    "organization": "大连理工大学软件学院",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "F21"
+  },
+  {
+    "team_id": "162",
+    "name": "椎名真白",
+    "organization": "南京理工大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "D105",
+    "icpc_id": "355475"
+  },
+  {
+    "team_id": "163",
+    "name": "从零开始",
+    "organization": "南京邮电大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "A36"
+  },
+  {
+    "team_id": "164",
+    "name": "吃饭吧",
+    "organization": "中国传媒大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "E84",
+    "icpc_id": "355777"
+  },
+  {
+    "team_id": "165",
+    "name": "正在登录",
+    "organization": "北京理工大学",
+    "official": false,
+    "unofficial": 1,
+    "girl": false,
+    "location": "C83",
+    "icpc_id": "355832"
+  },
+  {
+    "team_id": "166",
+    "name": "银翼杀手",
+    "organization": "中国人民解放军战略支援部队信息工程大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "F63"
+  },
+  {
+    "team_id": "167",
+    "name": "鹏程之南",
+    "organization": "南方科技大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "A74"
+  },
+  {
+    "team_id": "168",
+    "name": "破晓",
+    "organization": "西安邮电大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "C45"
+  },
+  {
+    "team_id": "169",
+    "name": "南天王",
+    "organization": "中国人民大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "A34",
+    "icpc_id": "355854"
+  },
+  {
+    "team_id": "170",
+    "name": "吃我咸鱼突刺",
+    "organization": "青岛大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "D84",
+    "icpc_id": "355749"
+  },
+  {
+    "team_id": "171",
+    "name": "起队名的时候不打一架是不存在的",
+    "organization": "西安交通大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "C54",
+    "icpc_id": "355464"
+  },
+  {
+    "team_id": "172",
+    "name": "学艺不精就是我",
+    "organization": "北京理工大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "B12",
+    "icpc_id": "355735"
+  },
+  {
+    "team_id": "173",
+    "name": "子非鱼",
+    "organization": "中国石油大学（华东）",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "D32",
+    "icpc_id": "355904"
+  },
+  {
+    "team_id": "174",
+    "name": "空之轨迹",
+    "organization": "山东理工大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "C32",
+    "icpc_id": "355727"
+  },
+  {
+    "team_id": "175",
+    "name": "邻家女孩",
+    "organization": "东南大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "C44"
+  },
+  {
+    "team_id": "176",
+    "name": "布丁牛奶",
+    "organization": "浙江农林大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "E22",
+    "icpc_id": "355739"
+  },
+  {
+    "team_id": "177",
+    "name": "P5天下第一",
+    "organization": "四川大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "E43"
+  },
+  {
+    "team_id": "178",
+    "name": "星农",
+    "organization": "河南理工大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "E55",
+    "icpc_id": "355423"
+  },
+  {
+    "team_id": "179",
+    "name": "代码强迫症",
+    "organization": "江南大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "E76",
+    "icpc_id": "355559"
+  },
+  {
+    "team_id": "180",
+    "name": "Paprika",
+    "organization": "浙江大学城市学院",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "C55",
+    "icpc_id": "355738"
+  },
+  {
+    "team_id": "181",
+    "name": "破釜沉舟",
+    "organization": "西南科技大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "E35",
+    "icpc_id": "356041"
+  },
+  {
+    "team_id": "182",
+    "name": "萌萌哒鹿鹿",
+    "organization": "香港科技大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "A83",
+    "icpc_id": "355611"
+  },
+  {
+    "team_id": "183",
+    "name": "银翼",
+    "organization": "西南石油大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "B83",
+    "icpc_id": "355988"
+  },
+  {
+    "team_id": "184",
+    "name": "Free Loop",
+    "organization": "南京理工大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "D43",
+    "icpc_id": "355451"
+  },
+  {
+    "team_id": "185",
+    "name": "不要慌，问题不大",
+    "organization": "青岛大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "F15",
+    "icpc_id": "355750"
+  },
+  {
+    "team_id": "186",
+    "name": "小鱼水中游",
+    "organization": "长沙理工大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "B13"
+  },
+  {
+    "team_id": "187",
+    "name": "翎羽世界第一软萌",
+    "organization": "浙江农林大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "F104",
+    "icpc_id": "355760"
+  },
+  {
+    "team_id": "188",
+    "name": "雷吉德夫",
+    "organization": "南京林业大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "A73",
+    "icpc_id": "355912"
+  },
+  {
+    "team_id": "189",
+    "name": "广告位招租",
+    "organization": "陕西师范大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "C105",
+    "icpc_id": "355805"
+  },
+  {
+    "team_id": "190",
+    "name": "这这这",
+    "organization": "浙江科技学院",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "E33"
+  },
+  {
+    "team_id": "191",
+    "name": "大吉大利",
+    "organization": "福州大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "C21"
+  },
+  {
+    "team_id": "192",
+    "name": "我最喜欢妖刀姬啦",
+    "organization": "山东大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "D76",
+    "icpc_id": "355804"
+  },
+  {
+    "team_id": "193",
+    "name": "新鲜毒奶",
+    "organization": "中国矿业大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "E94"
+  },
+  {
+    "team_id": "194",
+    "name": "先有玮哥后有天",
+    "organization": "华中师范大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "E45"
+  },
+  {
+    "team_id": "195",
+    "name": "格雷科技",
+    "organization": "北京邮电大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "B25",
+    "icpc_id": "355847"
+  },
+  {
+    "team_id": "196",
+    "name": "白",
+    "organization": "杭州师范大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "A105"
+  },
+  {
+    "team_id": "197",
+    "name": "绯色月下",
+    "organization": "东北师范大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "A11"
+  },
+  {
+    "team_id": "198",
+    "name": "无可奉告",
+    "organization": "浙江工业大学之江学院",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "C25"
+  },
+  {
+    "team_id": "199",
+    "name": "迷路的指针",
+    "organization": "福建工程学院",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "B23"
+  },
+  {
+    "team_id": "200",
+    "name": "盐鱼",
+    "organization": "常州大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "A32"
+  },
+  {
+    "team_id": "201",
+    "name": "欢迎访问loj.ac",
+    "organization": "里布尔欧杰大学",
+    "official": false,
+    "unofficial": 1,
+    "girl": false,
+    "location": "F95"
+  },
+  {
+    "team_id": "202",
+    "name": "不忘初心",
+    "organization": "同济大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "E81",
+    "icpc_id": "355900"
+  },
+  {
+    "team_id": "203",
+    "name": "牛吃草",
+    "organization": "浙江理工大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "A93",
+    "icpc_id": "355906"
+  },
+  {
+    "team_id": "204",
+    "name": "火箭鸡",
+    "organization": "北京交通大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "D63"
+  },
+  {
+    "team_id": "205",
+    "name": "在这炸丸子正宗",
+    "organization": "河海大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "C24",
+    "icpc_id": "355850"
+  },
+  {
+    "team_id": "206",
+    "name": "哦哈喵",
+    "organization": "吉林大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "F45",
+    "icpc_id": "355416"
+  },
+  {
+    "team_id": "207",
+    "name": "神奇海螺",
+    "organization": "苏州大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "D36",
+    "icpc_id": "355732"
+  },
+  {
+    "team_id": "208",
+    "name": "哈理工18队",
+    "organization": "哈尔滨理工大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "B34",
+    "icpc_id": "355978"
+  },
+  {
+    "team_id": "209",
+    "name": "黑化肥挥发会发灰",
+    "organization": "武汉科技大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "A62"
+  },
+  {
+    "team_id": "210",
+    "name": "灰烬使者",
+    "organization": "深圳大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "B53",
+    "icpc_id": "355782"
+  },
+  {
+    "team_id": "211",
+    "name": "熊本熊X起司猫",
+    "organization": "中国矿业大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "B56",
+    "icpc_id": "355793"
+  },
+  {
+    "team_id": "212",
+    "name": "去月球",
+    "organization": "华东理工大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "A41"
+  },
+  {
+    "team_id": "213",
+    "name": "容我三思",
+    "organization": "广东工业大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "B15",
+    "icpc_id": "355823"
+  },
+  {
+    "team_id": "214",
+    "name": "乌鸦坐飞机",
+    "organization": "长沙理工大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "D24"
+  },
+  {
+    "team_id": "215",
+    "name": "So hard so brilliant",
+    "organization": "山东理工大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "D52",
+    "icpc_id": "355415"
+  },
+  {
+    "team_id": "216",
+    "name": "以下队伍均未获奖",
+    "organization": "合肥工业大学宣城校区",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "C11"
+  },
+  {
+    "team_id": "217",
+    "name": "可读可写不可执行",
+    "organization": "西安电子科技大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "E14",
+    "icpc_id": "355796"
+  },
+  {
+    "team_id": "218",
+    "name": "鶸鰔",
+    "organization": "山东理工大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "B41",
+    "icpc_id": "355421"
+  },
+  {
+    "team_id": "219",
+    "name": "蒟蒻",
+    "organization": "东南大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "B52"
+  },
+  {
+    "team_id": "220",
+    "name": "防脱偏方交流",
+    "organization": "东北大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "C73"
+  },
+  {
+    "team_id": "221",
+    "name": "罚吹流下了悔恨的泪水",
+    "organization": "中国石油大学（北京）",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "E85",
+    "icpc_id": "355910"
+  },
+  {
+    "team_id": "222",
+    "name": "螺旋上天",
+    "organization": "重庆大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "A52",
+    "icpc_id": "355829"
+  },
+  {
+    "team_id": "223",
+    "name": "Too young to AC",
+    "organization": "香港大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "D103",
+    "icpc_id": "355993"
+  },
+  {
+    "team_id": "224",
+    "name": "油里多里米多里poi",
+    "organization": "浙江大学宁波理工学院",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "A85"
+  },
+  {
+    "team_id": "225",
+    "name": "我亲自送她上的飞机",
+    "organization": "集美大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "B103"
+  },
+  {
+    "team_id": "226",
+    "name": "代达罗斯之辣",
+    "organization": "华中农业大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "C102"
+  },
+  {
+    "team_id": "227",
+    "name": "Alice 和 Bob 玩游戏",
+    "organization": "浙江师范大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "A16",
+    "icpc_id": "355868"
+  },
+  {
+    "team_id": "228",
+    "name": "ALPC_达摩克利斯之剑",
+    "organization": "国防科技大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "D35",
+    "icpc_id": "355817"
+  },
+  {
+    "team_id": "229",
+    "name": "楼下你不要再A了",
+    "organization": "南阳理工学院",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "B63"
+  },
+  {
+    "team_id": "230",
+    "name": "cccavalier",
+    "organization": "浙江大学城市学院",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "C91",
+    "icpc_id": "355737"
+  },
+  {
+    "team_id": "231",
+    "name": "三文鱼(女队)",
+    "organization": "河海大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "A104"
+  },
+  {
+    "team_id": "232",
+    "name": "听说Flag巨巨要在上海请客",
+    "organization": "福建师范大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "A24"
+  },
+  {
+    "team_id": "233",
+    "name": "AC+K",
+    "organization": "西北大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "C22"
+  },
+  {
+    "team_id": "234",
+    "name": "非常迪斯科",
+    "organization": "北京科技大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "A56",
+    "icpc_id": "355991"
+  },
+  {
+    "team_id": "235",
+    "name": "煎薄饼",
+    "organization": "中国人民大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "C41"
+  },
+  {
+    "team_id": "236",
+    "name": "刷牙队",
+    "organization": "南京航空航天大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "A45"
+  },
+  {
+    "team_id": "237",
+    "name": "虚怀若愚",
+    "organization": "中国地质大学（北京）",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "E63",
+    "icpc_id": "355820"
+  },
+  {
+    "team_id": "238",
+    "name": "大河蟹",
+    "organization": "南开大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "E24",
+    "icpc_id": "355811"
+  },
+  {
+    "team_id": "239",
+    "name": "郑郑郑郑郑学长说取队名什么的都是迷信",
+    "organization": "西安理工大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "B96"
+  },
+  {
+    "team_id": "240",
+    "name": "时间风暴",
+    "organization": "西南民族大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "D11",
+    "icpc_id": "355896"
+  },
+  {
+    "team_id": "241",
+    "name": "我不会AVL",
+    "organization": "福州大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "A95"
+  },
+  {
+    "team_id": "242",
+    "name": "浙江工商大学",
+    "organization": "浙江工商大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "C13"
+  },
+  {
+    "team_id": "243",
+    "name": "信仰之跃",
+    "organization": "河南理工大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "B81",
+    "icpc_id": "355424"
+  },
+  {
+    "team_id": "244",
+    "name": "晨星",
+    "organization": "浙江大学宁波理工学院",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "B51",
+    "icpc_id": "355752"
+  },
+  {
+    "team_id": "245",
+    "name": "哈理工02队",
+    "organization": "哈尔滨理工大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "E54",
+    "icpc_id": "355908"
+  },
+  {
+    "team_id": "246",
+    "name": "四六级必过",
+    "organization": "黑龙江大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "E101"
+  },
+  {
+    "team_id": "247",
+    "name": "次个糖，冷静一下",
+    "organization": "武汉科技大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "D72"
+  },
+  {
+    "team_id": "248",
+    "name": "nku馄饨应援团",
+    "organization": "南开大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "D45",
+    "icpc_id": "355812"
+  },
+  {
+    "team_id": "249",
+    "name": "JXUFE_种花家的老酱菜",
+    "organization": "江西财经大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "F64",
+    "icpc_id": "355775"
+  },
+  {
+    "team_id": "250",
+    "name": "萝莉保护协会",
+    "organization": "长春理工大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "F65"
+  },
+  {
+    "team_id": "251",
+    "name": "时梭者",
+    "organization": "上海大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "C71"
+  },
+  {
+    "team_id": "252",
+    "name": "德鲁大叔",
+    "organization": "浙江理工大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "C35",
+    "icpc_id": "355907"
+  },
+  {
+    "team_id": "253",
+    "name": "思泰奇",
+    "organization": "西安邮电大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "E104"
+  },
+  {
+    "team_id": "254",
+    "name": "碧蓝幻想",
+    "organization": "东华大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "F32",
+    "icpc_id": "355448"
+  },
+  {
+    "team_id": "255",
+    "name": "思考熊",
+    "organization": "安徽大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "A42"
+  },
+  {
+    "team_id": "256",
+    "name": "三只小学生",
+    "organization": "江南大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "B71",
+    "icpc_id": "355560"
+  },
+  {
+    "team_id": "257",
+    "name": "晏队",
+    "organization": "西南科技大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "E62",
+    "icpc_id": "355595"
+  },
+  {
+    "team_id": "258",
+    "name": "喵帕斯",
+    "organization": "深圳大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "F102",
+    "icpc_id": "355781"
+  },
+  {
+    "team_id": "259",
+    "name": "知道错了没",
+    "organization": "山东大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "A54",
+    "icpc_id": "355802"
+  },
+  {
+    "team_id": "260",
+    "name": "TJU_master_driver",
+    "organization": "天津大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "A82",
+    "icpc_id": "355980"
+  },
+  {
+    "team_id": "261",
+    "name": "故地重游",
+    "organization": "福建师范大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "E83"
+  },
+  {
+    "team_id": "262",
+    "name": "没有什么意义",
+    "organization": "杭州电子科技大学信息工程学院",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "D96",
+    "icpc_id": "355457"
+  },
+  {
+    "team_id": "263",
+    "name": "燃烧军团",
+    "organization": "广东工业大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "D74"
+  },
+  {
+    "team_id": "264",
+    "name": "请以上女装大佬上台领奖",
+    "organization": "成都信息工程大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "D73",
+    "icpc_id": "355803"
+  },
+  {
+    "team_id": "265",
+    "name": "魔蛙",
+    "organization": "上海大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "B33"
+  },
+  {
+    "team_id": "266",
+    "name": "一柱擎天",
+    "organization": "上海大学",
+    "official": false,
+    "unofficial": 1,
+    "girl": false,
+    "location": "D65"
+  },
+  {
+    "team_id": "267",
+    "name": "泰拳警告",
+    "organization": "中国石油大学（华东）",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "C82",
+    "icpc_id": "355903"
+  },
+  {
+    "team_id": "268",
+    "name": "我们都是小怪兽，有一天会被正义的奥特曼杀死",
+    "organization": "浙江农林大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "C74",
+    "icpc_id": "355825"
+  },
+  {
+    "team_id": "269",
+    "name": "多喝热水",
+    "organization": "东北大学",
+    "official": false,
+    "unofficial": 1,
+    "girl": false,
+    "location": "E96",
+    "icpc_id": "355767"
+  },
+  {
+    "team_id": "270",
+    "name": "露娜拿蓝难不难",
+    "organization": "长春工业大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "E53",
+    "icpc_id": "355759"
+  },
+  {
+    "team_id": "271",
+    "name": "基本法",
+    "organization": "中国人民大学",
+    "official": false,
+    "unofficial": 1,
+    "girl": false,
+    "location": "B32",
+    "icpc_id": "355853"
+  },
+  {
+    "team_id": "272",
+    "name": "五点共圆",
+    "organization": "东华大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "E92",
+    "icpc_id": "355444"
+  },
+  {
+    "team_id": "273",
+    "name": "这些人有女朋友么(女队)",
+    "organization": "武汉科技大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "F74"
+  },
+  {
+    "team_id": "274",
+    "name": "哈理工04队",
+    "organization": "哈尔滨理工大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "D64",
+    "icpc_id": "355909"
+  },
+  {
+    "team_id": "275",
+    "name": "阿兰•图灵",
+    "organization": "中国地质大学（武汉）",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "B35",
+    "icpc_id": "355827"
+  },
+  {
+    "team_id": "276",
+    "name": "银狼",
+    "organization": "中国地质大学（北京）",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "F11",
+    "icpc_id": "355819"
+  },
+  {
+    "team_id": "277",
+    "name": "动人旋律",
+    "organization": "中山大学新华学院",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "F82"
+  },
+  {
+    "team_id": "278",
+    "name": "沉迷打铁不能自拔(女队)",
+    "organization": "南京邮电大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "B74",
+    "icpc_id": "356116"
+  },
+  {
+    "team_id": "279",
+    "name": "上邪",
+    "organization": "河南大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "D85",
+    "icpc_id": "355431"
+  },
+  {
+    "team_id": "280",
+    "name": "请开始你们的表演",
+    "organization": "北京师范大学珠海分校",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "F12",
+    "icpc_id": "355837"
+  },
+  {
+    "team_id": "281",
+    "name": "学姐你好厉害",
+    "organization": "东华大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "A101",
+    "icpc_id": "355445"
+  },
+  {
+    "team_id": "282",
+    "name": "狂交原谅色",
+    "organization": "上海大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "E23"
+  },
+  {
+    "team_id": "283",
+    "name": "SDAU&SH",
+    "organization": "山东农业大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "E13"
+  },
+  {
+    "team_id": "284",
+    "name": "尧山妖风",
+    "organization": "桂林电子科技大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "C64"
+  },
+  {
+    "team_id": "285",
+    "name": "HIFIRE",
+    "organization": "福建农林大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "B61"
+  },
+  {
+    "team_id": "286",
+    "name": "燃烧生命吧@_@!",
+    "organization": "上海大学",
+    "official": false,
+    "unofficial": 1,
+    "girl": false,
+    "location": "F84"
+  },
+  {
+    "team_id": "287",
+    "name": "数位旅程",
+    "organization": "中国石油大学（华东）",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "C94",
+    "icpc_id": "355905"
+  },
+  {
+    "team_id": "288",
+    "name": "代码请提交到这儿",
+    "organization": "河南农业大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "D15",
+    "icpc_id": "355769"
+  },
+  {
+    "team_id": "289",
+    "name": "给块铜牌过年",
+    "organization": "宁波大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "D75",
+    "icpc_id": "355790"
+  },
+  {
+    "team_id": "290",
+    "name": "加拉隆",
+    "organization": "河海大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "B105"
+  },
+  {
+    "team_id": "291",
+    "name": "卧槽是比尔海林顿",
+    "organization": "苏州大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "C72",
+    "icpc_id": "355733"
+  },
+  {
+    "team_id": "292",
+    "name": "隆中对",
+    "organization": "北京林业大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "C16"
+  },
+  {
+    "team_id": "293",
+    "name": "我的期末考试怎么办",
+    "organization": "常州大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "F101"
+  },
+  {
+    "team_id": "294",
+    "name": "威严号",
+    "organization": "山东科技大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "D62"
+  },
+  {
+    "team_id": "295",
+    "name": "缺俩carry",
+    "organization": "湖北工业大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "A14"
+  },
+  {
+    "team_id": "296",
+    "name": "菜鸡三人行",
+    "organization": "河南大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "A53"
+  },
+  {
+    "team_id": "297",
+    "name": "北冥有虎其名为胖",
+    "organization": "厦门理工学院",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "F36"
+  },
+  {
+    "team_id": "298",
+    "name": "半人马号",
+    "organization": "山东科技大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "E71"
+  },
+  {
+    "team_id": "299",
+    "name": "三狼点齐(女队)",
+    "organization": "西南民族大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "C33"
+  },
+  {
+    "team_id": "300",
+    "name": "膜蛤师",
+    "organization": "济南大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "A61"
+  },
+  {
+    "team_id": "301",
+    "name": "随便啦",
+    "organization": "郑州大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "C31",
+    "icpc_id": "355846"
+  },
+  {
+    "team_id": "302",
+    "name": "行走在茫茫月色下的黄浦江边",
+    "organization": "浙江中医药大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "F42"
+  },
+  {
+    "team_id": "303",
+    "name": "微笑着战斗",
+    "organization": "东华大学",
+    "official": false,
+    "unofficial": 1,
+    "girl": false,
+    "location": "A23",
+    "icpc_id": "355447"
+  },
+  {
+    "team_id": "304",
+    "name": "咸鱼",
+    "organization": "上海理工大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "F94"
+  },
+  {
+    "team_id": "305",
+    "name": "冯•诺依曼",
+    "organization": "中国地质大学（武汉）",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "A25",
+    "icpc_id": "355836"
+  },
+  {
+    "team_id": "306",
+    "name": "雷神之子号",
+    "organization": "山东科技大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "C101"
+  },
+  {
+    "team_id": "307",
+    "name": "牢记使命",
+    "organization": "同济大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "D93"
+  },
+  {
+    "team_id": "308",
+    "name": "圣光背叛了我",
+    "organization": "东华大学",
+    "official": false,
+    "unofficial": 1,
+    "girl": false,
+    "location": "D53",
+    "icpc_id": "355446"
+  },
+  {
+    "team_id": "309",
+    "name": "我爱吃火锅(女队)",
+    "organization": "华中科技大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "B102",
+    "icpc_id": "355788"
+  },
+  {
+    "team_id": "310",
+    "name": "起名困难症",
+    "organization": "南京航空航天大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "E34"
+  },
+  {
+    "team_id": "311",
+    "name": "打出GG",
+    "organization": "中南民族大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "B93"
+  },
+  {
+    "team_id": "312",
+    "name": "膜都旅行团",
+    "organization": "东北大学秦皇岛分校",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "D34",
+    "icpc_id": "355989"
+  },
+  {
+    "team_id": "313",
+    "name": "你能你上(女队)",
+    "organization": "东北师范大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "F44"
+  },
+  {
+    "team_id": "314",
+    "name": "璀璨",
+    "organization": "重庆邮电大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "A84",
+    "icpc_id": "355773"
+  },
+  {
+    "team_id": "315",
+    "name": "旅游队",
+    "organization": "西北工业大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "E82",
+    "icpc_id": "355456"
+  },
+  {
+    "team_id": "316",
+    "name": "龜速跑者",
+    "organization": "香港大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "B11",
+    "icpc_id": "355994"
+  },
+  {
+    "team_id": "317",
+    "name": "1900",
+    "organization": "北京林业大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "C104"
+  },
+  {
+    "team_id": "318",
+    "name": "让我们红橙作伴活得潇潇洒洒",
+    "organization": "南阳师范学院",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "B91"
+  },
+  {
+    "team_id": "319",
+    "name": "超超新星爆发",
+    "organization": "浙江万里学院",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "D92"
+  },
+  {
+    "team_id": "320",
+    "name": "待定",
+    "organization": "中国计量学院",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "B44"
+  },
+  {
+    "team_id": "321",
+    "name": "打铁和起队名哪个更easy？",
+    "organization": "蚌埠学院",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "F93"
+  },
+  {
+    "team_id": "322",
+    "name": "喵呜喵呜嘤嘤嘤",
+    "organization": "南京理工大学",
+    "official": false,
+    "unofficial": 1,
+    "girl": false,
+    "location": "F103",
+    "icpc_id": "355860"
+  },
+  {
+    "team_id": "323",
+    "name": "喵喵喵",
+    "organization": "南京邮电大学通达学院",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "F85"
+  },
+  {
+    "team_id": "324",
+    "name": "端点攻势",
+    "organization": "上海第二工业大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "F105"
+  },
+  {
+    "team_id": "325",
+    "name": "AEU_红色基因",
+    "organization": "陆军工程大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "B85"
+  },
+  {
+    "team_id": "326",
+    "name": "全村人的希望",
+    "organization": "河海大学常州校区",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "D31"
+  },
+  {
+    "team_id": "327",
+    "name": "别走，还能救",
+    "organization": "南京晓庄学院",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "A91",
+    "icpc_id": "355986"
+  },
+  {
+    "team_id": "328",
+    "name": "端点行动",
+    "organization": "上海第二工业大学",
+    "official": 1,
+    "unofficial": false,
+    "girl": false,
+    "location": "A33"
+  }
+]
