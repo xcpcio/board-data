@@ -1,0 +1,3040 @@
+[
+  {
+    "team_id": "1",
+    "name": "十项全能",
+    "organization": "南京理工大学",
+    "official": 1,
+    "members": [
+      "金力为",
+      "徐锐韬",
+      "马靖豪"
+    ],
+    "location": "A01"
+  },
+  {
+    "team_id": "2",
+    "name": "给楼上递PE",
+    "organization": "武汉大学",
+    "official": 1,
+    "members": [
+      "成昌力",
+      "王宇飞",
+      "刘沛良"
+    ],
+    "location": "A02"
+  },
+  {
+    "team_id": "3",
+    "name": "希尔伯特空间队",
+    "organization": "广东外语外贸大学",
+    "official": 1,
+    "members": [
+      "林泽聪",
+      "谷韶鑫",
+      "潘明俊"
+    ],
+    "location": "A03"
+  },
+  {
+    "team_id": "4",
+    "name": "Tju_WannaCry",
+    "organization": "天津大学",
+    "official": 1,
+    "members": [
+      "傅旭洲",
+      "张眸",
+      "樊鹏"
+    ],
+    "location": "A04"
+  },
+  {
+    "team_id": "5",
+    "name": "我的队名不可能让你看到",
+    "organization": "中国矿业大学",
+    "official": 1,
+    "members": [
+      "王泽泓",
+      "汪浩港",
+      "蒋庆男"
+    ],
+    "location": "A05"
+  },
+  {
+    "team_id": "6",
+    "name": "别走，还能救",
+    "organization": "南京晓庄学院",
+    "official": 1,
+    "members": [
+      "张锐捷",
+      "李豪杰",
+      "陈志鹏"
+    ],
+    "location": "A06"
+  },
+  {
+    "team_id": "7",
+    "name": "1900",
+    "organization": "北京林业大学",
+    "official": 1,
+    "members": [
+      "林旻",
+      "张宇奇",
+      "张子良"
+    ],
+    "location": "A07"
+  },
+  {
+    "team_id": "8",
+    "name": "唐红的恋歌",
+    "organization": "重庆邮电大学",
+    "official": 1,
+    "members": [
+      "陈果",
+      "张浩炜",
+      "王键"
+    ],
+    "location": "A08"
+  },
+  {
+    "team_id": "9",
+    "name": "里仁一队",
+    "organization": "燕山大学里仁学院",
+    "official": 1,
+    "members": [
+      "张子旭",
+      "李泽宇",
+      "李旺"
+    ],
+    "location": "A09"
+  },
+  {
+    "team_id": "10",
+    "name": "传承下去",
+    "organization": "哈尔滨商业大学",
+    "official": 1,
+    "members": [
+      "马凯欣",
+      "张斯达",
+      "孙瑞"
+    ],
+    "location": "A10"
+  },
+  {
+    "team_id": "11",
+    "name": "联邦调查局警告",
+    "organization": "南京晓庄学院",
+    "official": 1,
+    "members": [
+      "赵鹏宇",
+      "朱明航",
+      "孟君"
+    ],
+    "location": "A11"
+  },
+  {
+    "team_id": "12",
+    "name": "时梭者",
+    "organization": "上海大学",
+    "official": 1,
+    "members": [
+      "陈之豪",
+      "陈嘉文",
+      "姚乾浩"
+    ],
+    "location": "A12"
+  },
+  {
+    "team_id": "13",
+    "name": "对不起，我爱你",
+    "organization": "中山大学新华学院",
+    "official": 1,
+    "members": [
+      "张锦邦",
+      "曾惠靖",
+      "黄佳旭"
+    ],
+    "location": "B01"
+  },
+  {
+    "team_id": "14",
+    "name": "电子发烧友",
+    "organization": "西北民族大学",
+    "official": 1,
+    "members": [
+      "朱畅",
+      "吕琳涵",
+      "钟华"
+    ],
+    "location": "B02"
+  },
+  {
+    "team_id": "15",
+    "name": "中山大学_自动钢琴",
+    "organization": "中山大学",
+    "official": 1,
+    "members": [
+      "徐锦涛",
+      "谢泽晖",
+      "李洋"
+    ],
+    "location": "B03"
+  },
+  {
+    "team_id": "16",
+    "name": "打得不错",
+    "organization": "北京邮电大学",
+    "official": 1,
+    "members": [
+      "于天舒",
+      "杜世航",
+      "王亚宇"
+    ],
+    "location": "B04"
+  },
+  {
+    "team_id": "17",
+    "name": "哈理工15队",
+    "organization": "哈尔滨理工大学",
+    "official": 1,
+    "members": [
+      "张禹",
+      "于博",
+      "马明韬"
+    ],
+    "location": "B05"
+  },
+  {
+    "team_id": "18",
+    "name": "维纳战队",
+    "organization": "河北北方学院",
+    "official": 1,
+    "members": [
+      "张培",
+      "张国旭",
+      "李家豪"
+    ],
+    "location": "B06"
+  },
+  {
+    "team_id": "19",
+    "name": "一萌带二傻",
+    "organization": "浙江师范大学",
+    "official": 1,
+    "members": [
+      "叶一凡",
+      "卢金民",
+      "郑巧"
+    ],
+    "location": "B07"
+  },
+  {
+    "team_id": "20",
+    "name": "我觉得不行",
+    "organization": "湘潭大学",
+    "official": 1,
+    "members": [
+      "黄龙",
+      "王首勋",
+      "周博"
+    ],
+    "location": "B08"
+  },
+  {
+    "team_id": "21",
+    "name": "不看晕针",
+    "organization": "浙江工业大学之江学院",
+    "official": 1,
+    "members": [
+      "王超",
+      "黄圣跃",
+      "祝训醉"
+    ],
+    "location": "B09"
+  },
+  {
+    "team_id": "22",
+    "name": "交院唯一队",
+    "organization": "河北交通职业技术学院",
+    "official": 1,
+    "members": [
+      "张志宁",
+      "李曼",
+      "张家玮"
+    ],
+    "location": "B10"
+  },
+  {
+    "team_id": "23",
+    "name": "额....",
+    "organization": "华中师范大学",
+    "official": 1,
+    "members": [
+      "聂文尚",
+      "王凌凤",
+      "武玥彤"
+    ],
+    "location": "B11"
+  },
+  {
+    "team_id": "24",
+    "name": "内师大3队",
+    "organization": "内蒙古师范大学",
+    "official": 1,
+    "members": [
+      "吴昊",
+      "王鑫",
+      "许世宇"
+    ],
+    "location": "B12"
+  },
+  {
+    "team_id": "25",
+    "name": "ZJUT1",
+    "organization": "浙江工业大学",
+    "official": 1,
+    "members": [
+      "黄坤",
+      "张水强",
+      "陶宇星"
+    ],
+    "location": "C01"
+  },
+  {
+    "team_id": "26",
+    "name": "试剑",
+    "organization": "河北工业大学",
+    "official": 1,
+    "members": [
+      "解孟轩",
+      "刘鸣江",
+      "石梦雨"
+    ],
+    "location": "C02"
+  },
+  {
+    "team_id": "27",
+    "name": "新蜜蜂小分队",
+    "organization": "浙江理工大学",
+    "official": 1,
+    "members": [
+      "张子扬",
+      "严大力",
+      "郑钰"
+    ],
+    "location": "C03"
+  },
+  {
+    "team_id": "28",
+    "name": "淘汰之刃",
+    "organization": "东北大学",
+    "official": 1,
+    "members": [
+      "茅佳峰",
+      "岑榕",
+      "罗益超"
+    ],
+    "location": "C04"
+  },
+  {
+    "team_id": "29",
+    "name": "那个绿帽子很丑",
+    "organization": "国防科技大学",
+    "official": 1,
+    "members": [
+      "邱昊中",
+      "李博辉",
+      "宋澎玉"
+    ],
+    "location": "C05"
+  },
+  {
+    "team_id": "30",
+    "name": "随机",
+    "organization": "浙江师范大学",
+    "official": 1,
+    "members": [
+      "陈梁港旭",
+      "陈鑫磊",
+      "张骏"
+    ],
+    "location": "C06"
+  },
+  {
+    "team_id": "31",
+    "name": "神奇海螺",
+    "organization": "广东工业大学",
+    "official": 1,
+    "members": [
+      "邓宇",
+      "苏子健",
+      "姚壮泽"
+    ],
+    "location": "C07"
+  },
+  {
+    "team_id": "32",
+    "name": "舟停靠,月色渐渐明了",
+    "organization": "华东交通大学",
+    "official": 1,
+    "members": [
+      "晏显超",
+      "徐逸飞",
+      "何海星"
+    ],
+    "location": "C08"
+  },
+  {
+    "team_id": "33",
+    "name": "UESTC_星幻",
+    "organization": "电子科技大学",
+    "official": 1,
+    "members": [
+      "万笛文",
+      "韩世欣",
+      "陈鑫"
+    ],
+    "location": "C09"
+  },
+  {
+    "team_id": "34",
+    "name": "我觉得OK",
+    "organization": "郑州轻工业学院",
+    "official": 1,
+    "members": [
+      "申璞",
+      "张宇",
+      "赵文灿"
+    ],
+    "location": "C10"
+  },
+  {
+    "team_id": "35",
+    "name": "连连看",
+    "organization": "吉林大学",
+    "official": 1,
+    "members": [
+      "黄鹤翔",
+      "孟凡强",
+      "张斌"
+    ],
+    "location": "C11"
+  },
+  {
+    "team_id": "36",
+    "name": "轻轻的一个稳",
+    "organization": "哈尔滨工程大学",
+    "official": 1,
+    "members": [
+      "赵子翔",
+      "杨卓",
+      "姜文韬"
+    ],
+    "location": "C12"
+  },
+  {
+    "team_id": "37",
+    "name": "UnKnown",
+    "organization": "武汉科技大学",
+    "official": 1,
+    "members": [
+      "汪志",
+      "章哲铭",
+      "范磊超"
+    ],
+    "location": "D01"
+  },
+  {
+    "team_id": "38",
+    "name": "北上",
+    "organization": "浙江大学城市学院",
+    "official": 1,
+    "members": [
+      "孙嘉炜",
+      "周德阳",
+      "吕昱萌"
+    ],
+    "location": "D02"
+  },
+  {
+    "team_id": "39",
+    "name": "撕了字纸吃柿子",
+    "organization": "南京晓庄学院",
+    "official": 1,
+    "members": [
+      "薛明怡",
+      "郝云飞",
+      "姚彦梦"
+    ],
+    "location": "D03"
+  },
+  {
+    "team_id": "40",
+    "name": "河北大学云帆一队",
+    "organization": "河北大学",
+    "official": 1,
+    "members": [
+      "周梦禹",
+      "李朋彪",
+      "陈思明"
+    ],
+    "location": "D04"
+  },
+  {
+    "team_id": "41",
+    "name": "奉均衡之命",
+    "organization": "中南民族大学",
+    "official": 1,
+    "members": [
+      "陈浩元",
+      "杨雨昕",
+      "傅晓昕"
+    ],
+    "location": "D05"
+  },
+  {
+    "team_id": "42",
+    "name": "不会英语",
+    "organization": "清华大学",
+    "official": 1,
+    "members": [
+      "方燠",
+      "庄天翼",
+      "吕可凡"
+    ],
+    "location": "D06"
+  },
+  {
+    "team_id": "43",
+    "name": "SYSU_观星者",
+    "organization": "中山大学",
+    "official": 1,
+    "members": [
+      "何颂恒",
+      "罗卓枫",
+      "王程钥"
+    ],
+    "location": "D07"
+  },
+  {
+    "team_id": "44",
+    "name": "这将是一场屠杀",
+    "organization": "中北大学",
+    "official": 1,
+    "members": [
+      "陈权威",
+      "李昌浩",
+      "刘鹏飞"
+    ],
+    "location": "D08"
+  },
+  {
+    "team_id": "45",
+    "name": "如果奇迹有颜色",
+    "organization": "吉林大学",
+    "official": 1,
+    "members": [
+      "陶锴",
+      "黄昊天",
+      "滕云"
+    ],
+    "location": "D09"
+  },
+  {
+    "team_id": "46",
+    "name": "墙角猫",
+    "organization": "安徽大学",
+    "official": 1,
+    "members": [
+      "汪敏瑞",
+      "孔晨皓",
+      "周丙瑞"
+    ],
+    "location": "D10"
+  },
+  {
+    "team_id": "47",
+    "name": "工匠队",
+    "organization": "石家庄铁道大学",
+    "official": 1,
+    "members": [
+      "成志杨",
+      "王中玉",
+      "张兆夕"
+    ],
+    "location": "D11"
+  },
+  {
+    "team_id": "48",
+    "name": "凛冬将至",
+    "organization": "长春理工大学",
+    "official": 1,
+    "members": [
+      "杨晓罡",
+      "张晨晨",
+      "蒋涵欣"
+    ],
+    "location": "D12"
+  },
+  {
+    "team_id": "49",
+    "name": "奔跑的MT",
+    "organization": "长沙理工大学",
+    "official": 1,
+    "members": [
+      "杜荣",
+      "杨栩",
+      "隆超怡"
+    ],
+    "location": "E01"
+  },
+  {
+    "team_id": "50",
+    "name": "全给党",
+    "organization": "北京大学",
+    "official": 1,
+    "members": [
+      "吉如一",
+      "洪华敦",
+      "丁力煌"
+    ],
+    "location": "E02"
+  },
+  {
+    "team_id": "51",
+    "name": "两位大佬多带带小弟我",
+    "organization": "华南理工大学软件学院",
+    "official": 1,
+    "members": [
+      "余信志",
+      "林安然",
+      "许文龙"
+    ],
+    "location": "E03"
+  },
+  {
+    "team_id": "52",
+    "name": "周六咸鱼队",
+    "organization": "北京邮电大学",
+    "official": 1,
+    "members": [
+      "肖智轩",
+      "陈博洋",
+      "谭志杰"
+    ],
+    "location": "E04"
+  },
+  {
+    "team_id": "53",
+    "name": "终末之冬",
+    "organization": "北京交通大学",
+    "official": 1,
+    "members": [
+      "高洪杰",
+      "王之博",
+      "张彦潇"
+    ],
+    "location": "E05"
+  },
+  {
+    "team_id": "54",
+    "name": "对不队",
+    "organization": "大连理工大学软件学院",
+    "official": 1,
+    "members": [
+      "李煜峰",
+      "高凯",
+      "张天尧"
+    ],
+    "location": "E06"
+  },
+  {
+    "team_id": "55",
+    "name": "队友不知道叫什么队名",
+    "organization": "山东理工大学",
+    "official": 1,
+    "members": [
+      "李东庆",
+      "赵祥宇",
+      "孙振强"
+    ],
+    "location": "E07"
+  },
+  {
+    "team_id": "56",
+    "name": "这辈子不可能打工的",
+    "organization": "江西师范大学",
+    "official": 1,
+    "members": [
+      "胡涛",
+      "王莞原",
+      "李石平"
+    ],
+    "location": "E08"
+  },
+  {
+    "team_id": "57",
+    "name": "歪歪歪",
+    "organization": "中国传媒大学",
+    "official": 1,
+    "members": [
+      "王怡楠",
+      "卢玉洁",
+      "严炜琦"
+    ],
+    "location": "E09"
+  },
+  {
+    "team_id": "58",
+    "name": "深藏功与名",
+    "organization": "桂林电子科技大学",
+    "official": 1,
+    "members": [
+      "邹海樟",
+      "杜国良",
+      "陈夏松"
+    ],
+    "location": "E10"
+  },
+  {
+    "team_id": "59",
+    "name": "TJU_Are_you_hungry",
+    "organization": "天津大学",
+    "official": 1,
+    "members": [
+      "姜铁",
+      "郭谢帆",
+      "原雨豪"
+    ],
+    "location": "E11"
+  },
+  {
+    "team_id": "60",
+    "name": "给我个银好不好",
+    "organization": "河南大学",
+    "official": 1,
+    "members": [
+      "陈浩杰",
+      "程春阳",
+      "千万峰"
+    ],
+    "location": "E12"
+  },
+  {
+    "team_id": "61",
+    "name": "红队列",
+    "organization": "华南理工大学计算机学院",
+    "official": 1,
+    "members": [
+      "郭宇",
+      "邵逸臻",
+      "祝叶"
+    ],
+    "location": "F01"
+  },
+  {
+    "team_id": "62",
+    "name": "圣剑号",
+    "organization": "山东科技大学",
+    "official": 1,
+    "members": [
+      "王荣勋",
+      "王文晖",
+      "王硕"
+    ],
+    "location": "F02"
+  },
+  {
+    "team_id": "63",
+    "name": "ACarp",
+    "organization": "浙江工业大学",
+    "official": 1,
+    "members": [
+      "范一磊",
+      "朱欣定",
+      "江一鸣"
+    ],
+    "location": "F03"
+  },
+  {
+    "team_id": "64",
+    "name": "从零开始",
+    "organization": "南京邮电大学",
+    "official": 1,
+    "members": [
+      "李争彦",
+      "张威",
+      "李尧羿"
+    ],
+    "location": "F04"
+  },
+  {
+    "team_id": "65",
+    "name": "喵帕斯",
+    "organization": "深圳大学",
+    "official": 1,
+    "members": [
+      "傅奕飞",
+      "黄志伟",
+      "钟博"
+    ],
+    "location": "F05"
+  },
+  {
+    "team_id": "66",
+    "name": "不太OK",
+    "organization": "山东师范大学",
+    "official": 1,
+    "members": [
+      "宋俊阳",
+      "孙文韬",
+      "丁家正"
+    ],
+    "location": "F06"
+  },
+  {
+    "team_id": "67",
+    "name": "说学逗唱",
+    "organization": "西安交通大学",
+    "official": 1,
+    "members": [
+      "李子扬",
+      "吴航",
+      "张博航"
+    ],
+    "location": "F07"
+  },
+  {
+    "team_id": "68",
+    "name": "无尽挑战",
+    "organization": "广东工业大学",
+    "official": 1,
+    "members": [
+      "叶境炫",
+      "张立伟",
+      "郭文城"
+    ],
+    "location": "F08"
+  },
+  {
+    "team_id": "69",
+    "name": "保定职业技术学院国赛队",
+    "organization": "保定职业技术学院",
+    "official": 1,
+    "members": [
+      "刘浩泽",
+      "杨振通",
+      "张天旭"
+    ],
+    "location": "F09"
+  },
+  {
+    "team_id": "70",
+    "name": "QQ奶糖",
+    "organization": "北京师范大学",
+    "official": 1,
+    "members": [
+      "曾耀辉",
+      "孙科",
+      "孙文琦"
+    ],
+    "location": "F10"
+  },
+  {
+    "team_id": "71",
+    "name": "随便乱搞",
+    "organization": "北京林业大学",
+    "official": 1,
+    "members": [
+      "高佳萌",
+      "凌伟博",
+      "徐佳盛"
+    ],
+    "location": "F11"
+  },
+  {
+    "team_id": "72",
+    "name": "人生已经如此的艰难",
+    "organization": "北京航空航天大学",
+    "official": 1,
+    "members": [
+      "张少昂",
+      "姜圣虎",
+      "沈中海"
+    ],
+    "location": "F12"
+  },
+  {
+    "team_id": "73",
+    "name": "春风十里不如你",
+    "organization": "重庆邮电大学",
+    "official": 1,
+    "members": [
+      "秦锐锋",
+      "梁炬鸿",
+      "牟星任"
+    ],
+    "location": "G01"
+  },
+  {
+    "team_id": "74",
+    "name": "CE使我快乐",
+    "organization": "北京航空航天大学",
+    "official": 1,
+    "members": [
+      "林子义",
+      "黄浩东",
+      "李搏"
+    ],
+    "location": "G02"
+  },
+  {
+    "team_id": "75",
+    "name": "想队名需要灵感",
+    "organization": "南阳理工学院",
+    "official": 1,
+    "girl": 1,
+    "members": [
+      "简晓冉",
+      "耿曼",
+      "牛艳春"
+    ],
+    "location": "G03"
+  },
+  {
+    "team_id": "76",
+    "name": "牙髓发炎",
+    "organization": "西北大学",
+    "official": 1,
+    "members": [
+      "成可",
+      "张魁元",
+      "张子琛"
+    ],
+    "location": "G04"
+  },
+  {
+    "team_id": "77",
+    "name": "诺伦",
+    "organization": "复旦大学",
+    "official": 1,
+    "members": [
+      "张天翔",
+      "王飒",
+      "杜逸闲"
+    ],
+    "location": "G05"
+  },
+  {
+    "team_id": "78",
+    "name": "暴力出奇迹",
+    "organization": "吉林大学",
+    "official": 1,
+    "members": [
+      "姜超",
+      "杨珉",
+      "郭安"
+    ],
+    "location": "G06"
+  },
+  {
+    "team_id": "79",
+    "name": "大吉大利 晚上吃鸡",
+    "organization": "浙江中医药大学",
+    "official": 1,
+    "members": [
+      "陈健",
+      "蒋益波",
+      "徐浩"
+    ],
+    "location": "G07"
+  },
+  {
+    "team_id": "80",
+    "name": "战狼",
+    "organization": "北方工业大学",
+    "official": 1,
+    "members": [
+      "赵哲昊",
+      "周宇航",
+      "王焱伟"
+    ],
+    "location": "G08"
+  },
+  {
+    "team_id": "81",
+    "name": "你们的代码都不队",
+    "organization": "华中科技大学",
+    "official": 1,
+    "members": [
+      "尹榛菲",
+      "蔡淳昊",
+      "任宽泽"
+    ],
+    "location": "G09"
+  },
+  {
+    "team_id": "82",
+    "name": "前方高能所",
+    "organization": "中国科学院大学",
+    "official": 1,
+    "members": [
+      "韩雨",
+      "李建徽",
+      "任瀚昇"
+    ],
+    "location": "G10"
+  },
+  {
+    "team_id": "83",
+    "name": "为什么不问问海绵宝宝",
+    "organization": "苏州大学",
+    "official": 1,
+    "members": [
+      "赵刘豪",
+      "盛俭",
+      "刘文墉"
+    ],
+    "location": "G11"
+  },
+  {
+    "team_id": "84",
+    "name": "绯色月下",
+    "organization": "东北师范大学",
+    "official": 1,
+    "members": [
+      "陈敏锐",
+      "王长虎",
+      "王储"
+    ],
+    "location": "G12"
+  },
+  {
+    "team_id": "85",
+    "name": "奇点",
+    "organization": "大连理工大学",
+    "official": 1,
+    "members": [
+      "周君豪",
+      "聂小楠",
+      "张赋铖"
+    ],
+    "location": "H01"
+  },
+  {
+    "team_id": "86",
+    "name": "幸运星",
+    "organization": "华中农业大学",
+    "official": 1,
+    "members": [
+      "李杰",
+      "孙浩天",
+      "李志敏"
+    ],
+    "location": "H02"
+  },
+  {
+    "team_id": "87",
+    "name": "听取WA声一片",
+    "organization": "华东师范大学",
+    "official": 1,
+    "members": [
+      "张羽戈",
+      "黄承扬",
+      "谢涛"
+    ],
+    "location": "H03"
+  },
+  {
+    "team_id": "88",
+    "name": "魔典",
+    "organization": "上海交通大学",
+    "official": 1,
+    "members": [
+      "金之涵",
+      "张凯羿",
+      "张芷萁"
+    ],
+    "location": "H04"
+  },
+  {
+    "team_id": "89",
+    "name": "三脸懵逼",
+    "organization": "中国人民解放军信息工程大学",
+    "official": 1,
+    "members": [
+      "曾成",
+      "陈石",
+      "王凯华"
+    ],
+    "location": "H05"
+  },
+  {
+    "team_id": "90",
+    "name": "洛伦兹",
+    "organization": "北京师范大学",
+    "official": 1,
+    "members": [
+      "吕青松",
+      "兰晓翰",
+      "张雨"
+    ],
+    "location": "H07"
+  },
+  {
+    "team_id": "91",
+    "name": "迷路的指针",
+    "organization": "福建工程学院",
+    "official": 1,
+    "members": [
+      "兰家旺",
+      "迟进涛",
+      "黄贵龙"
+    ],
+    "location": "H08"
+  },
+  {
+    "team_id": "92",
+    "name": "23333333",
+    "organization": "东华大学",
+    "official": 1,
+    "members": [
+      "隋新元",
+      "胡继强",
+      "左志鹏"
+    ],
+    "location": "H09"
+  },
+  {
+    "team_id": "93",
+    "name": "为什么您这么强",
+    "organization": "哈尔滨工业大学",
+    "official": 1,
+    "members": [
+      "孙慧东",
+      "马玉坤",
+      "文灏洋"
+    ],
+    "location": "H10"
+  },
+  {
+    "team_id": "94",
+    "name": "我，青玉德，吃鸡！",
+    "organization": "南京大学",
+    "official": 1,
+    "members": [
+      "陈继劲",
+      "傅子奇",
+      "张扬播"
+    ],
+    "location": "H11"
+  },
+  {
+    "team_id": "95",
+    "name": "麻辣烫烫烫",
+    "organization": "哈尔滨工业大学(威海)",
+    "official": 1,
+    "members": [
+      "陈永强",
+      "王交彤",
+      "李克洲"
+    ],
+    "location": "H12"
+  },
+  {
+    "team_id": "96",
+    "name": "90后老男人",
+    "organization": "天津工业大学",
+    "official": 1,
+    "members": [
+      "陈成",
+      "王威博",
+      "张官宏"
+    ],
+    "location": "I01"
+  },
+  {
+    "team_id": "97",
+    "name": "摩卡队",
+    "organization": "山东大学（威海）",
+    "official": 1,
+    "members": [
+      "连理",
+      "张江瑜",
+      "庞界宇"
+    ],
+    "location": "I02"
+  },
+  {
+    "team_id": "98",
+    "name": "极限火花",
+    "organization": "华南农业大学",
+    "official": 1,
+    "members": [
+      "佃锐彬",
+      "肖文洋",
+      "黄柏贵"
+    ],
+    "location": "I03"
+  },
+  {
+    "team_id": "99",
+    "name": "一起A",
+    "organization": "黑龙江大学",
+    "official": 1,
+    "members": [
+      "徐绅宝",
+      "郑胜",
+      "曹江峡"
+    ],
+    "location": "I04"
+  },
+  {
+    "team_id": "100",
+    "name": "SYSU_打印机缺纸",
+    "organization": "中山大学",
+    "official": 1,
+    "members": [
+      "项正熙",
+      "傅畅",
+      "刘佳荣"
+    ],
+    "location": "I05"
+  },
+  {
+    "team_id": "101",
+    "name": "来包辣条压压惊",
+    "organization": "浙江理工大学",
+    "official": 1,
+    "members": [
+      "潘灵伟",
+      "胡震元",
+      "陈一霖"
+    ],
+    "location": "I06"
+  },
+  {
+    "team_id": "102",
+    "name": "巴洛克",
+    "organization": "复旦大学",
+    "official": 1,
+    "members": [
+      "陈楷予",
+      "郑卓睿",
+      "曹野"
+    ],
+    "location": "I08"
+  },
+  {
+    "team_id": "103",
+    "name": "0.99的450次方",
+    "organization": "吉首大学",
+    "official": 1,
+    "members": [
+      "何顺平",
+      "雷永辉",
+      "廖育鹏"
+    ],
+    "location": "I09"
+  },
+  {
+    "team_id": "104",
+    "name": "喵喵喵喵喵",
+    "organization": "西安电子科技大学",
+    "official": 1,
+    "members": [
+      "傅后榆",
+      "代玉泉",
+      "范佳豪"
+    ],
+    "location": "I10"
+  },
+  {
+    "team_id": "105",
+    "name": "胖达斯",
+    "organization": "河北金融学院",
+    "official": 1,
+    "members": [
+      "肖成",
+      "张松",
+      "徐嘉觊"
+    ],
+    "location": "I11"
+  },
+  {
+    "team_id": "106",
+    "name": "CFC全家桶",
+    "organization": "国防科技大学",
+    "official": 1,
+    "members": [
+      "陈艾",
+      "付明哲",
+      "刘程敬"
+    ],
+    "location": "I12"
+  },
+  {
+    "team_id": "107",
+    "name": "连理对",
+    "organization": "山东大学（威海）",
+    "official": 1,
+    "members": [
+      "王金晖",
+      "周弘邺",
+      "赵志浩"
+    ],
+    "location": "J01"
+  },
+  {
+    "team_id": "108",
+    "name": "耀变星",
+    "organization": "上海交通大学",
+    "official": 1,
+    "members": [
+      "陈伟哲",
+      "杨培铭",
+      "卢宇欣"
+    ],
+    "location": "J02"
+  },
+  {
+    "team_id": "109",
+    "name": "燕山一脉  渤海之怀",
+    "organization": "南阳理工学院",
+    "official": 1,
+    "members": [
+      "刘玉强",
+      "陈顺波",
+      "张盼"
+    ],
+    "location": "J03"
+  },
+  {
+    "team_id": "110",
+    "name": "队名被学长嫌弃了",
+    "organization": "郑州大学",
+    "official": 1,
+    "members": [
+      "金芝光",
+      "王鼎",
+      "卢兆杰"
+    ],
+    "location": "J04"
+  },
+  {
+    "team_id": "111",
+    "name": "苟·德川家康·薛定谔",
+    "organization": "华南理工大学软件学院",
+    "official": 1,
+    "members": [
+      "卢健杰",
+      "朱世靖",
+      "宗文智"
+    ],
+    "location": "J05"
+  },
+  {
+    "team_id": "112",
+    "name": "动次打次普利咕噜卜多毕陆翁",
+    "organization": "清华大学",
+    "official": 1,
+    "members": [
+      "谢兴宇",
+      "孙文厚",
+      "张晨"
+    ],
+    "location": "J06"
+  },
+  {
+    "team_id": "113",
+    "name": "这不太好吧",
+    "organization": "哈尔滨工业大学",
+    "official": 1,
+    "members": [
+      "郑晨光",
+      "杨金然",
+      "张冠华"
+    ],
+    "location": "J07"
+  },
+  {
+    "team_id": "114",
+    "name": "痛苦的鸭嘴笔",
+    "organization": "哈尔滨工业大学",
+    "official": 1,
+    "members": [
+      "王安杰",
+      "任瀚祥",
+      "吴逸飞"
+    ],
+    "location": "J09"
+  },
+  {
+    "team_id": "115",
+    "name": "钢琴湖划水",
+    "organization": "中国传媒大学",
+    "official": 1,
+    "members": [
+      "李炳帅",
+      "邱锐",
+      "邓楚盟"
+    ],
+    "location": "J10"
+  },
+  {
+    "team_id": "116",
+    "name": "It_is_true",
+    "organization": "武汉科技大学",
+    "official": 1,
+    "members": [
+      "彭文虎",
+      "李文轼",
+      "戴文丽"
+    ],
+    "location": "J11"
+  },
+  {
+    "team_id": "117",
+    "name": "就是不微笑",
+    "organization": "东北林业大学",
+    "official": 1,
+    "members": [
+      "刘哲",
+      "田宇航",
+      "殷昕"
+    ],
+    "location": "J12"
+  },
+  {
+    "team_id": "118",
+    "name": "防脱偏方交流",
+    "organization": "东北大学",
+    "official": 1,
+    "members": [
+      "张格皓",
+      "刘小泽",
+      "徐林琛"
+    ],
+    "location": "K01"
+  },
+  {
+    "team_id": "119",
+    "name": "无畏号",
+    "organization": "山东科技大学",
+    "official": 1,
+    "members": [
+      "郑源",
+      "尹贯宇",
+      "卢俊彦"
+    ],
+    "location": "K02"
+  },
+  {
+    "team_id": "120",
+    "name": "野牛蛙",
+    "organization": "广东工业大学",
+    "official": 1,
+    "members": [
+      "陈震东",
+      "黄忠粤",
+      "张斯力"
+    ],
+    "location": "K03"
+  },
+  {
+    "team_id": "121",
+    "name": "欲言又止",
+    "organization": "青岛大学",
+    "official": 1,
+    "members": [
+      "郑尚哲",
+      "谭昊",
+      "刘宇浩"
+    ],
+    "location": "K04"
+  },
+  {
+    "team_id": "122",
+    "name": "充满愉悦的为朕粉碎吧",
+    "organization": "河南理工大学",
+    "official": 1,
+    "members": [
+      "王迎港",
+      "张永雷",
+      "欧阳天"
+    ],
+    "location": "K05"
+  },
+  {
+    "team_id": "123",
+    "name": "赴京赶考",
+    "organization": "中国科学院大学",
+    "official": 1,
+    "members": [
+      "梁爽",
+      "卢云帆",
+      "张莹莹"
+    ],
+    "location": "K06"
+  },
+  {
+    "team_id": "124",
+    "name": "大吉大利晚上吃鸡",
+    "organization": "东南大学",
+    "official": 1,
+    "members": [
+      "谈正",
+      "陈永锐",
+      "顾芯怡"
+    ],
+    "location": "K07"
+  },
+  {
+    "team_id": "125",
+    "name": "FE1",
+    "organization": "山东财经大学",
+    "official": 1,
+    "members": [
+      "张晨昊",
+      "曹熙庭",
+      "张琦乾"
+    ],
+    "location": "K08"
+  },
+  {
+    "team_id": "126",
+    "name": "输入输出流",
+    "organization": "山东大学",
+    "official": 1,
+    "members": [
+      "俞旭铮",
+      "熊理达",
+      "丰叶"
+    ],
+    "location": "K10"
+  },
+  {
+    "team_id": "127",
+    "name": "天天活在梦里",
+    "organization": "华北电力大学科技学院",
+    "official": 1,
+    "members": [
+      "阚一为",
+      "张智泉",
+      "朱巍隆"
+    ],
+    "location": "K11"
+  },
+  {
+    "team_id": "128",
+    "name": "编码之心",
+    "organization": "湖南科技大学",
+    "official": 1,
+    "members": [
+      "徐赛博",
+      "刘题勇",
+      "戴治家"
+    ],
+    "location": "K12"
+  },
+  {
+    "team_id": "129",
+    "name": "UESTC_姚姚乐",
+    "organization": "电子科技大学",
+    "official": 1,
+    "members": [
+      "李晓彤",
+      "姚佩成",
+      "谢豪"
+    ],
+    "location": "L01"
+  },
+  {
+    "team_id": "130",
+    "name": "校长说拿牌就给装空调",
+    "organization": "西安邮电大学",
+    "official": 1,
+    "members": [
+      "刘敏",
+      "李思远",
+      "郝希烜"
+    ],
+    "location": "L02"
+  },
+  {
+    "team_id": "131",
+    "name": "无题",
+    "organization": "福州大学",
+    "official": 1,
+    "members": [
+      "李进",
+      "林诗尧",
+      "肖承志"
+    ],
+    "location": "L03"
+  },
+  {
+    "team_id": "132",
+    "name": "先等我们下楼拿个外卖",
+    "organization": "河南大学",
+    "official": 1,
+    "members": [
+      "赵一博",
+      "杨乐",
+      "李少枫"
+    ],
+    "location": "L04"
+  },
+  {
+    "team_id": "133",
+    "name": "无桨小船",
+    "organization": "南京大学",
+    "official": 1,
+    "members": [
+      "韩博",
+      "郭逢源",
+      "杜星亮"
+    ],
+    "location": "L05"
+  },
+  {
+    "team_id": "134",
+    "name": "两个小辫",
+    "organization": "山东大学",
+    "official": 1,
+    "members": [
+      "崔晨",
+      "霍瑜",
+      "房启航"
+    ],
+    "location": "L06"
+  },
+  {
+    "team_id": "135",
+    "name": "我心飞扬",
+    "organization": "中国人民武装警察部队学院",
+    "official": 1,
+    "members": [
+      "吴禹甫",
+      "刘璇",
+      "黄培盛"
+    ],
+    "location": "L07"
+  },
+  {
+    "team_id": "136",
+    "name": "以下各队",
+    "organization": "厦门大学",
+    "official": 1,
+    "members": [
+      "吴生森",
+      "吴穹",
+      "陈亦弘"
+    ],
+    "location": "L08"
+  },
+  {
+    "team_id": "137",
+    "name": "HDU-T011",
+    "organization": "杭州电子科技大学",
+    "official": 1,
+    "members": [
+      "侯越",
+      "李聪",
+      "李致远"
+    ],
+    "location": "L09"
+  },
+  {
+    "team_id": "138",
+    "name": "近王者",
+    "organization": "上海交通大学",
+    "official": 1,
+    "members": [
+      "黄文瀚",
+      "刘天怡",
+      "刘尔之"
+    ],
+    "location": "L11"
+  },
+  {
+    "team_id": "139",
+    "name": "原地爆炸",
+    "organization": "中南林业科技大学",
+    "official": 1,
+    "members": [
+      "陈宇龙",
+      "徐瑞准",
+      "张钰波"
+    ],
+    "location": "L12"
+  },
+  {
+    "team_id": "140",
+    "name": "绅士",
+    "organization": "华南农业大学",
+    "official": 1,
+    "members": [
+      "黎明奔",
+      "张宏海",
+      "麦声栩"
+    ],
+    "location": "M01"
+  },
+  {
+    "team_id": "141",
+    "name": "FTD",
+    "organization": "西安欧亚学院",
+    "official": 1,
+    "members": [
+      "马欢欢",
+      "杨璐鹏",
+      "刘洋"
+    ],
+    "location": "M02"
+  },
+  {
+    "team_id": "142",
+    "name": "斯拜德曼队",
+    "organization": "湖南大学",
+    "official": 1,
+    "members": [
+      "梁天翔",
+      "胡超慧",
+      "罗灿辉"
+    ],
+    "location": "M03"
+  },
+  {
+    "team_id": "143",
+    "name": "理想666",
+    "organization": "南京航空航天大学",
+    "official": 1,
+    "members": [
+      "李想",
+      "雷涛",
+      "杨玑帆"
+    ],
+    "location": "M04"
+  },
+  {
+    "team_id": "144",
+    "name": "有过之而不及",
+    "organization": "台州学院",
+    "official": 1,
+    "members": [
+      "徐志文",
+      "梁紫怡",
+      "姚亚男"
+    ],
+    "location": "M05"
+  },
+  {
+    "team_id": "145",
+    "name": "流星一条！",
+    "organization": "北京林业大学",
+    "official": 1,
+    "members": [
+      "贾梓健",
+      "孙涛",
+      "易彰彪"
+    ],
+    "location": "M06"
+  },
+  {
+    "team_id": "146",
+    "name": "哈理工19队",
+    "organization": "哈尔滨理工大学",
+    "official": 1,
+    "members": [
+      "李健",
+      "黄楚伟",
+      "刘毅夫"
+    ],
+    "location": "M07"
+  },
+  {
+    "team_id": "147",
+    "name": "蛋黄煎饼",
+    "organization": "东北农业大学",
+    "official": 1,
+    "members": [
+      "赵海林",
+      "曾庆宇",
+      "闫绍兴"
+    ],
+    "location": "M08"
+  },
+  {
+    "team_id": "148",
+    "name": "原初之火",
+    "organization": "广州大学",
+    "official": 1,
+    "members": [
+      "陈新",
+      "余涵",
+      "黄绍锋"
+    ],
+    "location": "M09"
+  },
+  {
+    "team_id": "149",
+    "name": "我们队有女孩子",
+    "organization": "山东理工大学",
+    "official": 1,
+    "members": [
+      "梁剑锋",
+      "刘莹",
+      "徐如意"
+    ],
+    "location": "M10"
+  },
+  {
+    "team_id": "150",
+    "name": "狂交原谅色",
+    "organization": "上海大学",
+    "official": 1,
+    "members": [
+      "顾伟峰",
+      "邵伟",
+      "施晟珉"
+    ],
+    "location": "M12"
+  },
+  {
+    "team_id": "151",
+    "name": "红A之队",
+    "organization": "苏州大学",
+    "official": 1,
+    "members": [
+      "孙昌来",
+      "沈天豪",
+      "王子恒"
+    ],
+    "location": "N01"
+  },
+  {
+    "team_id": "152",
+    "name": "HDU-Wcdw",
+    "organization": "杭州电子科技大学",
+    "official": 1,
+    "members": [
+      "戴心怡",
+      "钱越琪",
+      "刘之安"
+    ],
+    "location": "N02"
+  },
+  {
+    "team_id": "153",
+    "name": "内师大1队",
+    "organization": "内蒙古师范大学",
+    "official": 1,
+    "members": [
+      "滑峰",
+      "朱皓",
+      "许世宇"
+    ],
+    "location": "N03"
+  },
+  {
+    "team_id": "154",
+    "name": "疾风打铁队",
+    "organization": "湖南工业大学",
+    "official": 1,
+    "members": [
+      "夏涛",
+      "刘峰",
+      "陈思雨"
+    ],
+    "location": "N04"
+  },
+  {
+    "team_id": "155",
+    "name": "河北工程勇士",
+    "organization": "河北工程大学",
+    "official": 1,
+    "members": [
+      "河北打铁王",
+      "王旗波",
+      "郑子阳"
+    ],
+    "location": "N05"
+  },
+  {
+    "team_id": "156",
+    "name": "关键时刻",
+    "organization": "北京师范大学",
+    "official": 1,
+    "members": [
+      "曹书林",
+      "李敏婕",
+      "张明睿"
+    ],
+    "location": "N06"
+  },
+  {
+    "team_id": "157",
+    "name": "可爱多赛高",
+    "organization": "厦门理工学院",
+    "official": 1,
+    "members": [
+      "叶文佳",
+      "石佳豪",
+      "李延锋"
+    ],
+    "location": "N07"
+  },
+  {
+    "team_id": "158",
+    "name": "UESTC_刘大爷说的队",
+    "organization": "电子科技大学",
+    "official": 1,
+    "members": [
+      "袁海韵",
+      "张逸伟",
+      "孙宏源"
+    ],
+    "location": "N08"
+  },
+  {
+    "team_id": "159",
+    "name": "蕾远",
+    "organization": "中国科学技术大学",
+    "official": 1,
+    "members": [
+      "赵宏祝",
+      "游翎璟",
+      "杨俊涵"
+    ],
+    "location": "N09"
+  },
+  {
+    "team_id": "160",
+    "name": "咸鱼王",
+    "organization": "南京大学",
+    "official": 1,
+    "members": [
+      "吴一楠",
+      "凌弘毅",
+      "凌嘉伟"
+    ],
+    "location": "N10"
+  },
+  {
+    "team_id": "161",
+    "name": "Free Loop",
+    "organization": "南京理工大学",
+    "official": 1,
+    "members": [
+      "沈思远",
+      "马云天",
+      "任绍林"
+    ],
+    "location": "N11"
+  },
+  {
+    "team_id": "162",
+    "name": "幻影坦克",
+    "organization": "长春工业大学",
+    "official": 1,
+    "members": [
+      "任义",
+      "姜丁源",
+      "陈杰"
+    ],
+    "location": "O02"
+  },
+  {
+    "team_id": "163",
+    "name": "新新月光",
+    "organization": "浙江财经大学东方学院",
+    "official": 1,
+    "members": [
+      "张海栋",
+      "王豪",
+      "王子恒"
+    ],
+    "location": "O03"
+  },
+  {
+    "team_id": "164",
+    "name": "梦之翼",
+    "organization": "衡水学院",
+    "official": 1,
+    "members": [
+      "娄琨",
+      "刘大旺",
+      "赵雨轩"
+    ],
+    "location": "O04"
+  },
+  {
+    "team_id": "165",
+    "name": "JXUFE_求你马老公抱",
+    "organization": "江西财经大学（信息管理学院）",
+    "official": 1,
+    "members": [
+      "赖长权",
+      "钟裕",
+      "邹卫东"
+    ],
+    "location": "O05"
+  },
+  {
+    "team_id": "166",
+    "name": "11说的话都队",
+    "organization": "清华大学",
+    "official": 1,
+    "members": [
+      "李诗懿",
+      "罗崚骁",
+      "何昊天"
+    ],
+    "location": "O06"
+  },
+  {
+    "team_id": "167",
+    "name": "上课摸鱼",
+    "organization": "宁波大学",
+    "official": 1,
+    "members": [
+      "潘凌超",
+      "沈鸿",
+      "钟家平"
+    ],
+    "location": "O07"
+  },
+  {
+    "team_id": "168",
+    "name": "sdau_qhd",
+    "organization": "山东农业大学",
+    "official": 1,
+    "members": [
+      "郭加鹏",
+      "卢志远",
+      "张智超"
+    ],
+    "location": "O08"
+  },
+  {
+    "team_id": "169",
+    "name": "大吉大利",
+    "organization": "福州大学",
+    "official": 1,
+    "members": [
+      "管宇",
+      "付逸豪",
+      "洪金鑫"
+    ],
+    "location": "O09"
+  },
+  {
+    "team_id": "170",
+    "name": "维他奶",
+    "organization": "复旦大学",
+    "official": 1,
+    "members": [
+      "李京泽",
+      "杨永祎",
+      "耿明睿"
+    ],
+    "location": "O10"
+  },
+  {
+    "team_id": "171",
+    "name": "Novocaine",
+    "organization": "西南交通大学",
+    "official": 1,
+    "members": [
+      "吕元庶",
+      "俞心愉",
+      "许沂聪"
+    ],
+    "location": "O11"
+  },
+  {
+    "team_id": "172",
+    "name": "三条咸鱼",
+    "organization": "北华大学",
+    "official": 1,
+    "members": [
+      "关则迎",
+      "林倩",
+      "朱硕成"
+    ],
+    "location": "O12"
+  },
+  {
+    "team_id": "173",
+    "name": "三骑",
+    "organization": "浙江大学城市学院",
+    "official": 1,
+    "members": [
+      "陈董锴",
+      "陆凯晨",
+      "徐鹏"
+    ],
+    "location": "P01"
+  },
+  {
+    "team_id": "174",
+    "name": "我为暨大续一秒",
+    "organization": "暨南大学",
+    "official": 1,
+    "members": [
+      "林越",
+      "徐锶浩",
+      "陈圣尹"
+    ],
+    "location": "P03"
+  },
+  {
+    "team_id": "175",
+    "name": "被水淹没",
+    "organization": "同济大学",
+    "official": 1,
+    "members": [
+      "常竣勃",
+      "陈潘钺",
+      "尤尧寅"
+    ],
+    "location": "P04"
+  },
+  {
+    "team_id": "176",
+    "name": "Chobi17",
+    "organization": "成都信息工程大学",
+    "official": 1,
+    "members": [
+      "林湖龙",
+      "陈彦君",
+      "谢仁义"
+    ],
+    "location": "P05"
+  },
+  {
+    "team_id": "177",
+    "name": "评测机真的很严格",
+    "organization": "北京邮电大学",
+    "official": 1,
+    "members": [
+      "曹博希",
+      "顾溢杰",
+      "郑博文"
+    ],
+    "location": "P06"
+  },
+  {
+    "team_id": "178",
+    "name": "嘟噜",
+    "organization": "中国矿业大学",
+    "official": 1,
+    "members": [
+      "蒋理文",
+      "蒋宇",
+      "冷佳业"
+    ],
+    "location": "P07"
+  },
+  {
+    "team_id": "179",
+    "name": "看起来敲好次==",
+    "organization": "重庆大学",
+    "official": 1,
+    "members": [
+      "程小桂",
+      "刘洋",
+      "熊扬帆"
+    ],
+    "location": "P08"
+  },
+  {
+    "team_id": "180",
+    "name": "试水船员",
+    "organization": "青岛大学",
+    "official": 1,
+    "members": [
+      "马荣坤",
+      "曾檄",
+      "李德健"
+    ],
+    "location": "P09"
+  },
+  {
+    "team_id": "181",
+    "name": "光之冲风",
+    "organization": "西南民族大学",
+    "official": 1,
+    "members": [
+      "安健侨",
+      "王金宇",
+      "严嘉豪"
+    ],
+    "location": "P10"
+  },
+  {
+    "team_id": "182",
+    "name": "1977的回忆",
+    "organization": "合肥工业大学",
+    "official": 1,
+    "members": [
+      "宋翎宇",
+      "鲍嘉前",
+      "曾俊文"
+    ],
+    "location": "P11"
+  },
+  {
+    "team_id": "183",
+    "name": "融合",
+    "organization": "中国人民解放军陆军工程大学",
+    "official": 1,
+    "members": [
+      "杨森",
+      "白韦华",
+      "徐天涵"
+    ],
+    "location": "P12"
+  },
+  {
+    "team_id": "184",
+    "name": "三瓶养乐多",
+    "organization": "重庆大学",
+    "official": 1,
+    "members": [
+      "朱培鑫",
+      "王俊富",
+      "石威"
+    ],
+    "location": "Q01"
+  },
+  {
+    "team_id": "185",
+    "name": "对对对",
+    "organization": "北京化工大学",
+    "official": 1,
+    "girl": 1,
+    "members": [
+      "张熠坤",
+      "邓佩瑶",
+      "王金"
+    ],
+    "location": "Q02"
+  },
+  {
+    "team_id": "186",
+    "name": "三只松鼠",
+    "organization": "中国石油大学（华东）",
+    "official": 1,
+    "members": [
+      "周琪涵",
+      "张威",
+      "杨志彬"
+    ],
+    "location": "Q04"
+  },
+  {
+    "team_id": "187",
+    "name": "南工软件",
+    "organization": "南阳理工学院",
+    "official": 1,
+    "members": [
+      "李正举",
+      "曾鸣",
+      "史振天"
+    ],
+    "location": "Q05"
+  },
+  {
+    "team_id": "188",
+    "name": "最强王者",
+    "organization": "华南师范大学",
+    "official": 1,
+    "members": [
+      "李红婷",
+      "曾令韬",
+      "黄振毅"
+    ],
+    "location": "Q06"
+  },
+  {
+    "team_id": "189",
+    "name": "华侨大学大师队",
+    "organization": "华侨大学",
+    "official": 1,
+    "members": [
+      "张坤容",
+      "谢楠",
+      "唐德"
+    ],
+    "location": "Q07"
+  },
+  {
+    "team_id": "190",
+    "name": "黑水舰队",
+    "organization": "华东理工大学",
+    "official": 1,
+    "members": [
+      "李霄",
+      "赵李洋",
+      "姚迟亮"
+    ],
+    "location": "Q08"
+  },
+  {
+    "team_id": "191",
+    "name": "吃鸡大队",
+    "organization": "中国科学技术大学",
+    "official": 1,
+    "members": [
+      "李子旸",
+      "马凯",
+      "曾明亮"
+    ],
+    "location": "Q09"
+  },
+  {
+    "team_id": "192",
+    "name": "测试账号",
+    "organization": "东北大学",
+    "official": 1,
+    "members": [
+      "武嘉鑫",
+      "李柏雨",
+      "陈久健"
+    ],
+    "location": "Q10"
+  },
+  {
+    "team_id": "193",
+    "name": "暗黑佟大为",
+    "organization": "华中师范大学",
+    "official": 1,
+    "members": [
+      "孟永康",
+      "官展鹏",
+      "周若玮"
+    ],
+    "location": "Q11"
+  },
+  {
+    "team_id": "194",
+    "name": "禁绝边境线",
+    "organization": "东北师范大学",
+    "official": 1,
+    "members": [
+      "李邦宁",
+      "陈杰",
+      "田时雨"
+    ],
+    "location": "Q12"
+  },
+  {
+    "team_id": "195",
+    "name": "看门狗",
+    "organization": "安徽大学",
+    "official": 1,
+    "members": [
+      "罗鹏飞",
+      "陈昱翔",
+      "庞聪"
+    ],
+    "location": "R01"
+  },
+  {
+    "team_id": "196",
+    "name": "崂山白花蛇草",
+    "organization": "湖南师范大学",
+    "official": 1,
+    "members": [
+      "郭子源",
+      "蒋致远",
+      "杨悦"
+    ],
+    "location": "R02"
+  },
+  {
+    "team_id": "197",
+    "name": "红太阳果太阳",
+    "organization": "北京大学",
+    "official": 1,
+    "members": [
+      "段志健",
+      "何颂华",
+      "周尚彦"
+    ],
+    "location": "R03"
+  },
+  {
+    "team_id": "198",
+    "name": "院长说拿牌就给报销",
+    "organization": "常州大学",
+    "official": 1,
+    "members": [
+      "蒋炜成",
+      "蒋永杰",
+      "杨健"
+    ],
+    "location": "R05"
+  },
+  {
+    "team_id": "199",
+    "name": "helloworld",
+    "organization": "河北地质大学",
+    "official": 1,
+    "members": [
+      "任国珍",
+      "李序",
+      "王海涛"
+    ],
+    "location": "R06"
+  },
+  {
+    "team_id": "200",
+    "name": "求求你们别学了，我跟不上了",
+    "organization": "杭州师范大学",
+    "official": 1,
+    "members": [
+      "林亨泽",
+      "王泽宇",
+      "梁芝恩"
+    ],
+    "location": "R07"
+  },
+  {
+    "team_id": "201",
+    "name": "正在登录",
+    "organization": "北京理工大学",
+    "official": 1,
+    "members": [
+      "姜天洋",
+      "蔡晓帆",
+      "高凯辉"
+    ],
+    "location": "R08"
+  },
+  {
+    "team_id": "202",
+    "name": "傻帅基",
+    "organization": "西安电子科技大学",
+    "official": 1,
+    "members": [
+      "简林圳",
+      "汪浚逸",
+      "肖妍红"
+    ],
+    "location": "R09"
+  },
+  {
+    "team_id": "203",
+    "name": "航天361",
+    "organization": "南昌理工学院",
+    "official": 1,
+    "members": [
+      "李联帆",
+      "张洪超",
+      "丁振福"
+    ],
+    "location": "R10"
+  },
+  {
+    "team_id": "204",
+    "name": "JXUFE_小姐姐与我.avi",
+    "organization": "江西财经大学（信息管理学院）",
+    "official": 1,
+    "members": [
+      "应新苗",
+      "王睿",
+      "邓未"
+    ],
+    "location": "R11"
+  },
+  {
+    "team_id": "205",
+    "name": "偷煤人",
+    "organization": "南京航空航天大学",
+    "official": 1,
+    "members": [
+      "高景胜",
+      "高天佑",
+      "毛心怡"
+    ],
+    "location": "R12"
+  },
+  {
+    "team_id": "206",
+    "name": "三只小学生",
+    "organization": "江南大学",
+    "official": 1,
+    "members": [
+      "李春晖",
+      "孙瑞鑫",
+      "赵彬"
+    ],
+    "location": "S01"
+  },
+  {
+    "team_id": "207",
+    "name": "大花猫奔跑",
+    "organization": "河北师范大学",
+    "official": 1,
+    "members": [
+      "张笑萌",
+      "王莹莹",
+      "刘峻岐"
+    ],
+    "location": "S02"
+  },
+  {
+    "team_id": "208",
+    "name": "哈理工05队",
+    "organization": "哈尔滨理工大学",
+    "official": 1,
+    "members": [
+      "刘明辉",
+      "刘铭轩",
+      "邢金栋"
+    ],
+    "location": "S03"
+  },
+  {
+    "team_id": "209",
+    "name": "很惭愧",
+    "organization": "华北电力大学",
+    "official": 1,
+    "members": [
+      "周鹏威",
+      "黄翊峰",
+      "张宇琛"
+    ],
+    "location": "S04"
+  },
+  {
+    "team_id": "210",
+    "name": "在这炸丸子正宗",
+    "organization": "河海大学",
+    "official": 1,
+    "members": [
+      "郑涌",
+      "王文",
+      "张世伟"
+    ],
+    "location": "S06"
+  },
+  {
+    "team_id": "211",
+    "name": "菖蒲",
+    "organization": "天津大学仁爱学院",
+    "official": 1,
+    "members": [
+      "郭凯强",
+      "李天麟",
+      "崔子赫"
+    ],
+    "location": "S07"
+  },
+  {
+    "team_id": "212",
+    "name": "Foolfish@USC",
+    "organization": "南华大学",
+    "official": 1,
+    "members": [
+      "孙宸",
+      "林渊淋",
+      "王成"
+    ],
+    "location": "S08"
+  },
+  {
+    "team_id": "213",
+    "name": "头文件",
+    "organization": "北京航空航天大学",
+    "official": 1,
+    "members": [
+      "周环宇",
+      "何铭睿",
+      "向宏毅"
+    ],
+    "location": "S09"
+  },
+  {
+    "team_id": "214",
+    "name": "HDU-SisterCon",
+    "organization": "杭州电子科技大学",
+    "official": 1,
+    "members": [
+      "高建平",
+      "潘奕铭",
+      "姚金辉"
+    ],
+    "location": "S10"
+  },
+  {
+    "team_id": "215",
+    "name": "罚吹流下了悔恨的泪水",
+    "organization": "中国石油大学（北京）",
+    "official": 1,
+    "members": [
+      "李昊元",
+      "吕博枫",
+      "冯云豪"
+    ],
+    "location": "S11"
+  },
+  {
+    "team_id": "216",
+    "name": "牛吃草",
+    "organization": "浙江理工大学",
+    "official": 1,
+    "members": [
+      "刘宇峰",
+      "包海",
+      "林煜竣"
+    ],
+    "location": "S12"
+  },
+  {
+    "team_id": "217",
+    "name": "Tju_kakikukeko",
+    "organization": "天津大学",
+    "official": 1,
+    "members": [
+      "陈献钊",
+      "吴琛",
+      "董思聪"
+    ],
+    "location": "T01"
+  },
+  {
+    "team_id": "218",
+    "name": "争取废鱼变咸鱼",
+    "organization": "南京航空航天大学",
+    "official": 1,
+    "members": [
+      "尼博琳",
+      "吴腾",
+      "焦若鸿"
+    ],
+    "location": "T02"
+  },
+  {
+    "team_id": "219",
+    "name": "Ncu#1",
+    "organization": "南昌大学",
+    "official": 1,
+    "members": [
+      "张皓然",
+      "李超",
+      "黄家明"
+    ],
+    "location": "T03"
+  },
+  {
+    "team_id": "220",
+    "name": "人民兵工第一笑",
+    "organization": "中北大学",
+    "official": 1,
+    "members": [
+      "孙涛",
+      "王永胜",
+      "黄秋娟"
+    ],
+    "location": "T04"
+  },
+  {
+    "team_id": "221",
+    "name": "我是为了你的熊",
+    "organization": "哈尔滨工程大学",
+    "official": 1,
+    "members": [
+      "王心亮",
+      "冯德帆",
+      "徐荣琛"
+    ],
+    "location": "T05"
+  },
+  {
+    "team_id": "222",
+    "name": "萌新",
+    "organization": "重庆师范大学涉外商贸学院",
+    "official": 1,
+    "members": [
+      "江玲新",
+      "江新玲",
+      "新江玲"
+    ],
+    "location": "T06"
+  },
+  {
+    "team_id": "223",
+    "name": "不仅仅是打铁",
+    "organization": "广东财经大学",
+    "official": 1,
+    "members": [
+      "钟永发",
+      "佘耿东",
+      "谢燚书"
+    ],
+    "location": "T07"
+  },
+  {
+    "team_id": "224",
+    "name": "SSPU-冰封王座",
+    "organization": "上海第二工业大学",
+    "official": 1,
+    "members": [
+      "施健一",
+      "童晓婷",
+      "褚旭"
+    ],
+    "location": "T08"
+  },
+  {
+    "team_id": "225",
+    "name": "我有8倍镜有98k吗",
+    "organization": "长春理工大学",
+    "official": 1,
+    "members": [
+      "陈俊超",
+      "付志强",
+      "赵珏"
+    ],
+    "location": "T09"
+  },
+  {
+    "team_id": "226",
+    "name": "万一A了呢",
+    "organization": "西南科技大学",
+    "official": 1,
+    "members": [
+      "许承旭",
+      "朱志平",
+      "劳博基"
+    ],
+    "location": "T10"
+  },
+  {
+    "team_id": "227",
+    "name": "稷下湖的大水怪",
+    "organization": "山东理工大学",
+    "official": 1,
+    "members": [
+      "陶鑫灿",
+      "史顺晓",
+      "杨超群"
+    ],
+    "location": "T11"
+  },
+  {
+    "team_id": "228",
+    "name": "你说A我就A",
+    "organization": "吉林师范大学",
+    "official": 1,
+    "members": [
+      "王阳",
+      "秦跃",
+      "方浩宇"
+    ],
+    "location": "T12"
+  },
+  {
+    "team_id": "229",
+    "name": "主旋律",
+    "organization": "青岛大学",
+    "official": 1,
+    "members": [
+      "李国毅",
+      "陈柏成",
+      "吴新雨"
+    ],
+    "location": "U01"
+  },
+  {
+    "team_id": "230",
+    "name": "双击六六六",
+    "organization": "西南石油大学",
+    "official": 1,
+    "members": [
+      "何涛",
+      "胡英杰",
+      "谭金玲"
+    ],
+    "location": "U02"
+  },
+  {
+    "team_id": "231",
+    "name": "威严号",
+    "organization": "山东科技大学",
+    "official": 1,
+    "members": [
+      "翟启明",
+      "王树河",
+      "王彬宇"
+    ],
+    "location": "U03"
+  },
+  {
+    "team_id": "232",
+    "name": "烛阴",
+    "organization": "河南工业大学",
+    "official": 1,
+    "members": [
+      "徐向阳",
+      "徐光辉",
+      "冯婧涛"
+    ],
+    "location": "U04"
+  },
+  {
+    "team_id": "233",
+    "name": "魔极客",
+    "organization": "武汉大学",
+    "official": 1,
+    "members": [
+      "甄牧放",
+      "荣大中",
+      "陶怡平"
+    ],
+    "location": "U05"
+  },
+  {
+    "team_id": "234",
+    "name": "哇！金色普通！",
+    "organization": "中国地质大学（北京）",
+    "official": 1,
+    "members": [
+      "邹卓君",
+      "李博",
+      "丁子富"
+    ],
+    "location": "U06"
+  },
+  {
+    "team_id": "235",
+    "name": "积极向上",
+    "organization": "西安理工大学",
+    "official": 1,
+    "members": [
+      "朱文星",
+      "赵鹏",
+      "勾智宇"
+    ],
+    "location": "U07"
+  },
+  {
+    "team_id": "236",
+    "name": "SYSU_三个胖子",
+    "organization": "中山大学",
+    "official": 1,
+    "members": [
+      "蒋子潇",
+      "梁济凡",
+      "陈禹诚"
+    ],
+    "location": "U08"
+  },
+  {
+    "team_id": "237",
+    "name": "常山赵子龙",
+    "organization": "北京化工大学",
+    "official": 1,
+    "members": [
+      "资霄",
+      "左飞龙",
+      "李炳"
+    ],
+    "location": "U09"
+  },
+  {
+    "team_id": "238",
+    "name": "北理六队",
+    "organization": "北京理工大学",
+    "official": 1,
+    "members": [
+      "迟泽闻",
+      "张黎",
+      "张世强"
+    ],
+    "location": "U10"
+  },
+  {
+    "team_id": "239",
+    "name": "罗子豪队",
+    "organization": "石家庄学院",
+    "official": 1,
+    "members": [
+      "罗子豪",
+      "王文静",
+      "乔锦涛"
+    ],
+    "location": "U11"
+  },
+  {
+    "team_id": "240",
+    "name": "进击的菜魁强",
+    "organization": "青岛理工大学",
+    "official": 1,
+    "members": [
+      "蔡全庆",
+      "刘嘉强",
+      "张魁杰"
+    ],
+    "location": "U12"
+  },
+  {
+    "team_id": "241",
+    "name": "我永远喜欢阿尔托莉雅-潘德拉贡",
+    "organization": "哈尔滨工程大学",
+    "official": 1,
+    "members": [
+      "蒋润宇",
+      "吴雪含",
+      "魏牧远"
+    ],
+    "location": "V01"
+  },
+  {
+    "team_id": "242",
+    "name": "错错错",
+    "organization": "成都东软学院",
+    "official": 1,
+    "members": [
+      "蒋翼龙",
+      "李伟",
+      "辜思学"
+    ],
+    "location": "V02"
+  },
+  {
+    "team_id": "243",
+    "name": "旗开得胜",
+    "organization": "中国石油大学（华东）",
+    "official": 1,
+    "members": [
+      "刘乔风",
+      "赵奕辰",
+      "水清源"
+    ],
+    "location": "V03"
+  },
+  {
+    "team_id": "244",
+    "name": "踩一踩楼下",
+    "organization": "湘潭大学",
+    "official": 1,
+    "members": [
+      "陈军",
+      "杨舒文",
+      "严靖"
+    ],
+    "location": "V04"
+  },
+  {
+    "team_id": "245",
+    "name": "福州小学一年级",
+    "organization": "福建师范大学",
+    "official": 1,
+    "members": [
+      "柳阳",
+      "陈晓东",
+      "施世超"
+    ],
+    "location": "V05"
+  },
+  {
+    "team_id": "246",
+    "name": "随便啦",
+    "organization": "华东师范大学",
+    "official": 1,
+    "members": [
+      "曹智杰",
+      "陈伟文",
+      "竺旭亮"
+    ],
+    "location": "V06"
+  },
+  {
+    "team_id": "247",
+    "name": "光明刀",
+    "organization": "华中科技大学",
+    "official": 1,
+    "members": [
+      "刘聪雨",
+      "龙昊旻",
+      "方博文"
+    ],
+    "location": "V07"
+  },
+  {
+    "team_id": "248",
+    "name": "猜歌群",
+    "organization": "北京交通大学",
+    "official": 1,
+    "members": [
+      "何卫锋",
+      "郑黎明",
+      "王天舒"
+    ],
+    "location": "V08"
+  },
+  {
+    "team_id": "249",
+    "name": "野草",
+    "organization": "四川大学",
+    "official": 1,
+    "members": [
+      "孙典圣",
+      "夏雨杰",
+      "张东平"
+    ],
+    "location": "V09"
+  },
+  {
+    "team_id": "250",
+    "name": "胜利属于兄弟会",
+    "organization": "南京理工大学",
+    "official": 1,
+    "members": [
+      "刘烨鸣",
+      "韩小豪",
+      "刘力琛"
+    ],
+    "location": "V10"
+  },
+  {
+    "team_id": "251",
+    "name": "鹏",
+    "organization": "南开大学",
+    "official": 1,
+    "members": [
+      "陈国梁",
+      "董和鑫",
+      "王明鹏"
+    ],
+    "location": "V11"
+  },
+  {
+    "team_id": "252",
+    "name": "浙江工商大学",
+    "organization": "浙江工商大学",
+    "official": 1,
+    "members": [
+      "徐思晨",
+      "水元",
+      "鲍冲"
+    ],
+    "location": "V12"
+  },
+  {
+    "team_id": "253",
+    "name": "套路",
+    "organization": "长沙理工大学",
+    "official": 1,
+    "members": [
+      "廖彦翔",
+      "刘腾",
+      "李育国"
+    ],
+    "location": "N12"
+  }
+]
