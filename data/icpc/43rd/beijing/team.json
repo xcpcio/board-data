@@ -1,0 +1,2786 @@
+[
+  {
+    "team_id": "0",
+    "name": "Champion dls did not run",
+    "organization": "清华大学",
+    "official": 1,
+    "members": [
+      "Ce Jin",
+      "Xiaoyao Zou",
+      "Zhizhou Ren"
+    ],
+    "coaches": [
+      "Xiaojun Wu"
+    ],
+    "icpc_id": "398307"
+  },
+  {
+    "team_id": "1",
+    "name": "Platelet",
+    "organization": "上海交通大学",
+    "official": 1,
+    "members": [
+      "Tong Chen",
+      "Yi Gu",
+      "Haoyu Ling"
+    ],
+    "coaches": [
+      "Yong Yu",
+      "Zhihan Jin"
+    ],
+    "icpc_id": "396955"
+  },
+  {
+    "team_id": "2",
+    "name": "The Firmament",
+    "organization": "哈尔滨工业大学（威海）",
+    "official": 1,
+    "members": [
+      "Xu Li",
+      "Hao Yang",
+      "Ling Ning"
+    ],
+    "coaches": [
+      "Kaikun Dong"
+    ],
+    "icpc_id": "396978"
+  },
+  {
+    "team_id": "3",
+    "name": "Manual/Intelligence",
+    "organization": "上海交通大学",
+    "official": 1,
+    "members": [
+      "Enze Sun",
+      "Xiaohan Mao",
+      "Zhongtang Luo"
+    ],
+    "coaches": [
+      "Yong Yu",
+      "YUDA FAN"
+    ],
+    "icpc_id": "396979"
+  },
+  {
+    "team_id": "4",
+    "name": "Beat Yiquan",
+    "organization": "香港科技大学",
+    "official": 1,
+    "members": [
+      "Chi Hoi YIP",
+      "Tianci WANG",
+      "Sheng Zhou"
+    ],
+    "coaches": [
+      "Haoqian Zhang"
+    ],
+    "icpc_id": "396982"
+  },
+  {
+    "team_id": "5",
+    "name": "EulerInversion",
+    "organization": "北京大学",
+    "official": 0,
+    "unofficial": 1
+  },
+  {
+    "team_id": "6",
+    "name": "SYSU_AsWeCan",
+    "organization": "中山大学",
+    "official": 1,
+    "members": [
+      "Qipeng Kuang",
+      "Chengyao Wang",
+      "Feiyu Ren"
+    ],
+    "coaches": [
+      "Han Lin"
+    ],
+    "icpc_id": "400927"
+  },
+  {
+    "team_id": "7",
+    "name": "KUT_Team",
+    "organization": "Kim Chaek University of Technology",
+    "official": 1,
+    "members": [
+      "SoMin Mun",
+      "GukSong Ri",
+      "SongIl Kim"
+    ],
+    "coaches": [
+      "JongBom Kim",
+      "CholRyong Jong"
+    ],
+    "icpc_id": "397091"
+  },
+  {
+    "team_id": "8",
+    "name": "aveFunny",
+    "organization": "浙江大学宁波理工学院",
+    "official": 1,
+    "members": [
+      "Chen Yifan",
+      "Mengjie Yan",
+      "Ye Sen"
+    ],
+    "coaches": [
+      "Xinyou Guo"
+    ],
+    "icpc_id": "396936"
+  },
+  {
+    "team_id": "9",
+    "name": "Reconquista",
+    "organization": "浙江大学",
+    "official": 1,
+    "members": [
+      "Zhenwei Liu",
+      "Jiangzhe Yan",
+      "Shibiao Jiang"
+    ],
+    "coaches": [
+      "Can Wang"
+    ],
+    "icpc_id": "397152"
+  },
+  {
+    "team_id": "10",
+    "name": "Lancelot",
+    "organization": "复旦大学",
+    "official": 1,
+    "members": [
+      "Xinyue Wen",
+      "Lin Zhou",
+      "Jinyue Su"
+    ],
+    "coaches": [
+      "Weiwei Sun"
+    ],
+    "icpc_id": "396977"
+  },
+  {
+    "team_id": "11",
+    "name": "DuckLikeClavicle",
+    "organization": "浙江财经大学",
+    "official": 1,
+    "members": [
+      "bin lin",
+      "panpan zhu",
+      "miao li"
+    ],
+    "coaches": [
+      "YanHong Chen"
+    ],
+    "icpc_id": "397902"
+  },
+  {
+    "team_id": "12",
+    "name": "behavior simulation",
+    "organization": "中国科学院大学",
+    "official": 1,
+    "members": [
+      "Yu Han",
+      "Rongqing Wang",
+      "HanSheng Ren"
+    ],
+    "coaches": [
+      "Xiaoming Sun"
+    ],
+    "icpc_id": "397089"
+  },
+  {
+    "team_id": "13",
+    "name": "moralless men",
+    "organization": "复旦大学",
+    "official": 1,
+    "members": [
+      "Liu Sunrui",
+      "Guangyu Yang",
+      "qifan xiao"
+    ],
+    "coaches": [
+      "Weiwei Sun"
+    ],
+    "icpc_id": "396976"
+  },
+  {
+    "team_id": "14",
+    "name": "zzzwzzz",
+    "organization": "河海大学",
+    "official": 1,
+    "members": [
+      "Shiwei Zhang",
+      "Yong Zheng",
+      "Wen Wang"
+    ],
+    "coaches": [
+      "Yun Zhu"
+    ],
+    "icpc_id": "397903"
+  },
+  {
+    "team_id": "15",
+    "name": "Star Burst Stream",
+    "organization": "清华大学",
+    "official": 1,
+    "members": [
+      "Junyi Du",
+      "Jie Gao",
+      "Runlong Zhou"
+    ],
+    "coaches": [
+      "Xiaojun Wu"
+    ],
+    "icpc_id": "398308"
+  },
+  {
+    "team_id": "16",
+    "name": "what will we eat after going to beijing?",
+    "organization": "中南大学",
+    "official": 1,
+    "members": [
+      "Longguang Luo",
+      "Jiani Liu",
+      "Mingpei Cao"
+    ],
+    "coaches": [
+      "Hailan Shen"
+    ],
+    "icpc_id": "397462"
+  },
+  {
+    "team_id": "17",
+    "name": "Helianthus",
+    "organization": "浙江大学",
+    "official": 1,
+    "members": [
+      "Yankui Li",
+      "Guanglin Li",
+      "Yaowei Lyu"
+    ],
+    "coaches": [
+      "Can Wang"
+    ],
+    "icpc_id": "397153"
+  },
+  {
+    "team_id": "18",
+    "name": "I love zsc forever",
+    "organization": "南京大学",
+    "official": 1,
+    "members": [
+      "Yunzhi Jiang",
+      "Ziyang Li",
+      "Kepan Gao"
+    ],
+    "coaches": [
+      "Jun MA",
+      "Yanyan JIANG"
+    ],
+    "icpc_id": "397107"
+  },
+  {
+    "team_id": "19",
+    "name": "FaFaTa",
+    "organization": "北京大学",
+    "official": 0,
+    "unofficial": 1
+  },
+  {
+    "team_id": "20",
+    "name": "Jisuanke Team0",
+    "organization": "计蒜客",
+    "official": 0,
+    "unofficial": 1
+  },
+  {
+    "team_id": "21",
+    "name": "SUSTech_Liverpool",
+    "organization": "南方科技大学",
+    "official": 1,
+    "members": [
+      "QianDong Tang",
+      "Zexin Zheng",
+      "Bo Huang"
+    ],
+    "coaches": [
+      "Bo Tang"
+    ],
+    "icpc_id": "397549"
+  },
+  {
+    "team_id": "22",
+    "name": "conggoubeiwomentile",
+    "organization": "北京大学",
+    "official": 0,
+    "unofficial": 1
+  },
+  {
+    "team_id": "23",
+    "name": "WelcometoZJKT",
+    "organization": "浙江工业大学",
+    "official": 1,
+    "members": [
+      "Yuxing Tao",
+      "Li Hongyi",
+      "xinhu li"
+    ],
+    "coaches": [
+      "Guan Xinxin"
+    ],
+    "icpc_id": "401332"
+  },
+  {
+    "team_id": "24",
+    "name": "ThreeRhizomys",
+    "organization": "哈尔滨工业大学（深圳）",
+    "official": 1,
+    "members": [
+      "Bohao Peng",
+      "Xun Chen",
+      "QU Ziqi"
+    ],
+    "coaches": [
+      "Linlin Tang"
+    ],
+    "icpc_id": "397685"
+  },
+  {
+    "team_id": "25",
+    "name": "AC bigbang",
+    "organization": "山东理工大学",
+    "official": 1,
+    "members": [
+      "Changxin Ma",
+      "Tiantian Li",
+      "Peixu Chen"
+    ],
+    "coaches": [
+      "Xiaohong Liu"
+    ],
+    "icpc_id": "404668"
+  },
+  {
+    "team_id": "26",
+    "name": "Thesedays",
+    "organization": "大连理工大学",
+    "official": 1,
+    "members": [
+      "hangyu jin",
+      "shoukui Zhang",
+      "Yufan Huang"
+    ],
+    "coaches": [
+      "Kun Lu"
+    ],
+    "icpc_id": "396987"
+  },
+  {
+    "team_id": "27",
+    "name": "名字还没想好",
+    "organization": "哈尔滨理工大学",
+    "official": 1,
+    "members": [
+      "HaoDong Wang",
+      "Chengyou Zhang",
+      "Zenglin Song"
+    ],
+    "coaches": [
+      "Yu Bo"
+    ],
+    "icpc_id": "397506"
+  },
+  {
+    "team_id": "28",
+    "name": "0xCCCCCCCC",
+    "organization": "北京邮电大学",
+    "official": 1,
+    "members": [
+      "Mingzhi Sun",
+      "Haoqian Liang",
+      "Qi Lin"
+    ],
+    "coaches": [
+      "Ya Yang"
+    ],
+    "icpc_id": "397446"
+  },
+  {
+    "team_id": "29",
+    "name": "Help me cover it",
+    "organization": "南阳理工学院",
+    "official": 1,
+    "members": [
+      "Tianxiang Cheng",
+      "Yinrun Gao",
+      "Pengcheng He"
+    ],
+    "coaches": [
+      "Dongjiang Zhao"
+    ],
+    "icpc_id": "396985"
+  },
+  {
+    "team_id": "30",
+    "name": "I have a classmate named Lanling",
+    "organization": "华南理工大学",
+    "official": 1,
+    "members": [
+      "Guofu Zhu",
+      "Riyang Hu",
+      "Zhengying Xing"
+    ],
+    "coaches": [
+      "Junying Chen"
+    ],
+    "icpc_id": "396938"
+  },
+  {
+    "team_id": "31",
+    "name": "NEU_oyuononndekudasai",
+    "organization": "东北大学",
+    "official": 1,
+    "members": [
+      "Jin Zhan",
+      "Yunjie Wang",
+      "Hexiang Lin"
+    ],
+    "coaches": [
+      "Yubin Bao"
+    ],
+    "icpc_id": "397722"
+  },
+  {
+    "team_id": "32",
+    "name": "Miracle",
+    "organization": "北京大学",
+    "official": 0,
+    "unofficial": 1
+  },
+  {
+    "team_id": "33",
+    "name": "long may the sunshine",
+    "organization": "南京林业大学",
+    "official": 1,
+    "members": [
+      "Guo Hengkang",
+      "Zehao Tang",
+      "Shengye Zhou"
+    ],
+    "coaches": [
+      "Xiaofeng Liu"
+    ],
+    "icpc_id": "397621"
+  },
+  {
+    "team_id": "34",
+    "name": "Makise Kurisu",
+    "organization": "福州大学",
+    "official": 1,
+    "members": [
+      "Haidong Huang",
+      "Weijie Chen",
+      "Shijie Fang"
+    ],
+    "coaches": [
+      "Yanggeng Fu"
+    ],
+    "icpc_id": "397144"
+  },
+  {
+    "team_id": "35",
+    "name": "USTC_8",
+    "organization": "中国科学技术大学",
+    "official": 1,
+    "members": [
+      "Zhao Chen",
+      "Jiyan He",
+      "Long Deng"
+    ],
+    "coaches": [
+      "Junhan Yang"
+    ],
+    "icpc_id": "396956"
+  },
+  {
+    "team_id": "36",
+    "name": "Counter Strike",
+    "organization": "北京交通大学",
+    "official": 1,
+    "members": [
+      "Bingjun Chen",
+      "Zujun Hu",
+      "Sida Zhao"
+    ],
+    "coaches": [
+      "Huating Xu",
+      "Hua Huang"
+    ],
+    "icpc_id": "397409"
+  },
+  {
+    "team_id": "37",
+    "name": "HairLoveMe",
+    "organization": "太原理工大学",
+    "official": 1,
+    "members": [
+      "Yang xiKang",
+      "haozhong ma",
+      "zhongliang wang"
+    ],
+    "coaches": [
+      "Fuping Lin"
+    ],
+    "icpc_id": "397390"
+  },
+  {
+    "team_id": "38",
+    "name": "Magic Conch",
+    "organization": "广东工业大学",
+    "official": 1,
+    "members": [
+      "zhuangze yao",
+      "Zijian Su",
+      "Yu Deng"
+    ],
+    "coaches": [
+      "Xuandong Sun"
+    ],
+    "icpc_id": "396954"
+  },
+  {
+    "team_id": "39",
+    "name": "No CE in vegetable",
+    "organization": "北京航空航天大学",
+    "official": 1,
+    "members": [
+      "Siyang Xiao",
+      "Yaoyan Zheng",
+      "Yuanjie Ding"
+    ],
+    "coaches": [
+      "You Song"
+    ],
+    "icpc_id": "396999"
+  },
+  {
+    "team_id": "40",
+    "name": "dalao and his two pendants",
+    "organization": "北京大学",
+    "official": 0,
+    "unofficial": 1
+  },
+  {
+    "team_id": "41",
+    "name": "Tiger Team",
+    "organization": "北京大学",
+    "official": 0,
+    "unofficial": 1
+  },
+  {
+    "team_id": "42",
+    "name": "Konjac of Tongji",
+    "organization": "同济大学",
+    "official": 1,
+    "members": [
+      "Xiaowei Ouyang",
+      "YITAO LIU",
+      "Qiuyu Ren"
+    ],
+    "coaches": [
+      "Li Wang",
+      "Chen Ye"
+    ],
+    "icpc_id": "378602"
+  },
+  {
+    "team_id": "43",
+    "name": "RedSorghum",
+    "organization": "福州大学",
+    "official": 1,
+    "members": [
+      "Jin Li",
+      "Yu Guan",
+      "Jinxin Hong"
+    ],
+    "coaches": [
+      "Yanggeng Fu"
+    ],
+    "icpc_id": "397145"
+  },
+  {
+    "team_id": "44",
+    "name": "0x3f3f3f3f",
+    "organization": "东华大学",
+    "official": 1,
+    "members": [
+      "Jingwei Zhu",
+      "Yuan Cheng",
+      "Jie Shi"
+    ],
+    "coaches": [
+      "Yongfeng Huang"
+    ],
+    "icpc_id": "397961"
+  },
+  {
+    "team_id": "45",
+    "name": "apprivoiser",
+    "organization": "湖南大学",
+    "official": 1,
+    "members": [
+      "Shuai He",
+      "cen yan",
+      "Siyuan Li"
+    ],
+    "coaches": [
+      "Hao Wu"
+    ],
+    "icpc_id": "397889"
+  },
+  {
+    "team_id": "46",
+    "name": "AC offline RE online",
+    "organization": "清华大学",
+    "official": 1,
+    "members": [
+      "Hong Zhang",
+      "Haoyang Bi",
+      "Xiaoen Lin"
+    ],
+    "coaches": [
+      "Xiaojun Wu"
+    ],
+    "icpc_id": "398309"
+  },
+  {
+    "team_id": "47",
+    "name": "Sunset Glow",
+    "organization": "哈尔滨工业大学",
+    "official": 1,
+    "members": [
+      "Shun Yao",
+      "Jinlu Yu",
+      "Haifeng Chen"
+    ],
+    "coaches": [
+      "Dalie Sun"
+    ],
+    "icpc_id": "397515"
+  },
+  {
+    "team_id": "48",
+    "name": "AOBO",
+    "organization": "广东工业大学",
+    "official": 1,
+    "members": [
+      "Bingkun Zhang",
+      "YuanBin Zhu",
+      "Yuzhao Hong"
+    ],
+    "coaches": [
+      "Xuandong Sun"
+    ],
+    "icpc_id": "396953"
+  },
+  {
+    "team_id": "49",
+    "name": "Purely WA Hell",
+    "organization": "华中科技大学",
+    "official": 1,
+    "members": [
+      "Taoyu Huang",
+      "Jihao Wang",
+      "Rui Wang"
+    ],
+    "coaches": [
+      "Kun He"
+    ],
+    "icpc_id": "396945"
+  },
+  {
+    "team_id": "50",
+    "name": "Sample_Text",
+    "organization": "浙江大学",
+    "official": 1,
+    "members": [
+      "Tian Jin",
+      "Chenyu Wang",
+      "Jiachen Qi"
+    ],
+    "coaches": [
+      "Can Wang"
+    ],
+    "icpc_id": "397154"
+  },
+  {
+    "team_id": "51",
+    "name": "UESTC_SET",
+    "organization": "电子科技大学",
+    "official": 1,
+    "members": [
+      "Liang Zihui",
+      "Tianle Chen",
+      "Hao Xie"
+    ],
+    "coaches": [
+      "Lei Wu"
+    ],
+    "icpc_id": "397987"
+  },
+  {
+    "team_id": "52",
+    "name": "Slow Star",
+    "organization": "西安理工大学",
+    "official": 1,
+    "members": [
+      "Xueyu Wang",
+      "Peng Zhao",
+      "Wenxing Zhu"
+    ],
+    "coaches": [
+      "Jinwei Zhao"
+    ],
+    "icpc_id": "397612"
+  },
+  {
+    "team_id": "53",
+    "name": "UESTC_Mole",
+    "organization": "电子科技大学",
+    "official": 1,
+    "members": [
+      "JunQiang Peng",
+      "Fengrui Liu",
+      "Tao Ouyang"
+    ],
+    "coaches": [
+      "Lei Wu"
+    ],
+    "icpc_id": "397989"
+  },
+  {
+    "team_id": "54",
+    "name": "Wrong Answer",
+    "organization": "北京交通大学",
+    "official": 1,
+    "members": [
+      "Hanlei Zhang",
+      "Zehang Wu",
+      "Xujie Song"
+    ],
+    "coaches": [
+      "Huating Xu",
+      "Hua Huang"
+    ],
+    "icpc_id": "397410"
+  },
+  {
+    "team_id": "55",
+    "name": "JustWannaFly",
+    "organization": "山东大学",
+    "official": 1,
+    "members": [
+      "Shili Xu",
+      "Xueyang Zhao",
+      "Xuyang Ma"
+    ],
+    "coaches": [
+      "Meng He"
+    ],
+    "icpc_id": "397028"
+  },
+  {
+    "team_id": "56",
+    "name": "My_all",
+    "organization": "电子科技大学",
+    "official": 1,
+    "members": [
+      "Yuan haiyun",
+      "QiKai Jin",
+      "Hongyuan Sun"
+    ],
+    "coaches": [
+      "Lei Wu"
+    ],
+    "icpc_id": "397988"
+  },
+  {
+    "team_id": "57",
+    "name": "Naive",
+    "organization": "四川大学",
+    "official": 1,
+    "members": [
+      "yujie you",
+      "Lei Zhang",
+      "Yunfan Li"
+    ],
+    "coaches": [
+      "Jie Zuo"
+    ],
+    "icpc_id": "397002"
+  },
+  {
+    "team_id": "58",
+    "name": "Nanjing Beijing ac king skr skr",
+    "organization": "浙江师范大学",
+    "official": 1,
+    "members": [
+      "Yilian Zhang",
+      "kaicheng liu",
+      "Yeming Gu"
+    ],
+    "coaches": [
+      "Weifan Wang"
+    ],
+    "icpc_id": "397588"
+  },
+  {
+    "team_id": "59",
+    "name": "TJU_jth",
+    "organization": "天津大学",
+    "official": 1,
+    "members": [
+      "Yuan Tian",
+      "Tianhao Jia",
+      "Yingzhou Sun"
+    ],
+    "coaches": [
+      "Ruiguo Yu",
+      "Mei Yu"
+    ],
+    "icpc_id": "397942"
+  },
+  {
+    "team_id": "60",
+    "name": "SYSU_BeatLandLord",
+    "organization": "中山大学",
+    "official": 1,
+    "members": [
+      "Feifan Zheng",
+      "Yuxuan Liu",
+      "Tailin Chen"
+    ],
+    "coaches": [
+      "Han Lin"
+    ],
+    "icpc_id": "400926"
+  },
+  {
+    "team_id": "61",
+    "name": "HNUCM-Girls",
+    "organization": "湖南中医药大学",
+    "official": 1,
+    "members": [
+      "Rongli Zeng",
+      "Rongming Lu",
+      "Yang Li"
+    ],
+    "coaches": [
+      "Wei Liu"
+    ],
+    "icpc_id": "397108"
+  },
+  {
+    "team_id": "62",
+    "name": "Avocado and beef noodles",
+    "organization": "浙江理工大学",
+    "official": 1,
+    "members": [
+      "Haoze Yang",
+      "Chenyu Luo",
+      "Hangyu Lin"
+    ],
+    "coaches": [
+      "Hairong Ye"
+    ],
+    "icpc_id": "398220"
+  },
+  {
+    "team_id": "63",
+    "name": "AHAHAH～",
+    "organization": "厦门理工学院",
+    "official": 1,
+    "members": [
+      "Jiahao Shi",
+      "zhihong Zheng",
+      "Di Pei"
+    ],
+    "coaches": [
+      "Yanqi Xie"
+    ],
+    "icpc_id": "404670"
+  },
+  {
+    "team_id": "64",
+    "name": "vegetable zmr",
+    "organization": "北京师范大学",
+    "official": 1,
+    "members": [
+      "Kong Weijia",
+      "Dingmao Li",
+      "MingRui Zhang"
+    ],
+    "coaches": [
+      "Su Feng"
+    ],
+    "icpc_id": "397047"
+  },
+  {
+    "team_id": "65",
+    "name": "eat watermelon?",
+    "organization": "杭州师范大学",
+    "official": 1,
+    "members": [
+      "linda Cai",
+      "Xiaoyun Gao",
+      "Xingsong Liu"
+    ],
+    "coaches": [
+      "Zhenyu Shan"
+    ],
+    "icpc_id": "397102"
+  },
+  {
+    "team_id": "66",
+    "name": "Gun Driver Mirror Driver Gun",
+    "organization": "河海大学",
+    "official": 1,
+    "members": [
+      "Yushan Zhang",
+      "Jing Hong",
+      "Jiali Yuan"
+    ],
+    "coaches": [
+      "Xuejie Zhang"
+    ],
+    "icpc_id": "397939"
+  },
+  {
+    "team_id": "67",
+    "name": "Local OK is OK",
+    "organization": "青岛大学",
+    "official": 1,
+    "members": [
+      "Jiaye Xue",
+      "Linfeng Xu",
+      "Yunzhe Zhang"
+    ],
+    "coaches": [
+      "Xiangjun Du"
+    ],
+    "icpc_id": "396940"
+  },
+  {
+    "team_id": "68",
+    "name": "ZCMU-PK1",
+    "organization": "浙江中医药大学",
+    "official": 1,
+    "members": [
+      "hao xu",
+      "Chufu Lin",
+      "zhiqu chen"
+    ],
+    "coaches": [
+      "Jie Luo"
+    ],
+    "icpc_id": "397008"
+  },
+  {
+    "team_id": "69",
+    "name": "Who Are Now Strong",
+    "organization": "中国人民大学",
+    "official": 1,
+    "members": [
+      "Zeyu Wang",
+      "Zongyan He",
+      "Yueqian Yang"
+    ],
+    "coaches": [
+      "Qing Zhu"
+    ],
+    "icpc_id": "398015"
+  },
+  {
+    "team_id": "70",
+    "name": "HDU-Team8",
+    "organization": "杭州电子科技大学",
+    "official": 1,
+    "members": [
+      "Shijia Zhang",
+      "yu fu",
+      "Jiongkang Ni"
+    ],
+    "coaches": [
+      "Chunying LIU"
+    ],
+    "icpc_id": "396981"
+  },
+  {
+    "team_id": "71",
+    "name": "SO COLD(*>﹏<；*)",
+    "organization": "北京师范大学珠海分校",
+    "official": 1,
+    "members": [
+      "YangJiao Chen",
+      "Qiquan Ye",
+      "JingRen Zheng"
+    ],
+    "coaches": [
+      "Wen Yu"
+    ],
+    "icpc_id": "397529"
+  },
+  {
+    "team_id": "72",
+    "name": "Beijing duck Nanjing duck never be the same duck",
+    "organization": "郑州大学",
+    "official": 1,
+    "members": [
+      "Jinpeng Xu",
+      "Zhaojie Lu",
+      "Shuqi Yang"
+    ],
+    "coaches": [
+      "Weixing Zhang"
+    ],
+    "icpc_id": "397220"
+  },
+  {
+    "team_id": "73",
+    "name": "TJU_Tjudger",
+    "organization": "天津大学",
+    "official": 1,
+    "members": [
+      "Chaobin You",
+      "li yuanze",
+      "Yicheng Xu"
+    ],
+    "coaches": [
+      "Mei Yu",
+      "Ruiguo Yu"
+    ],
+    "icpc_id": "397943"
+  },
+  {
+    "team_id": "74",
+    "name": "csfnb",
+    "organization": "西安交通大学",
+    "official": 1,
+    "members": [
+      "Shaofei Cai",
+      "Zijie Zhang",
+      "Nanchen Li"
+    ],
+    "coaches": [
+      "Hongzhe Xu"
+    ],
+    "icpc_id": "398016"
+  },
+  {
+    "team_id": "75",
+    "name": "HDU-Orange",
+    "organization": "杭州电子科技大学",
+    "official": 1,
+    "members": [
+      "Jiahao ZHU",
+      "Jintao Su",
+      "Suting Cen"
+    ],
+    "coaches": [
+      "Chunying LIU"
+    ],
+    "icpc_id": "396980"
+  },
+  {
+    "team_id": "76",
+    "name": "ZJUT9",
+    "organization": "浙江工业大学",
+    "official": 1,
+    "members": [
+      "Zhuonan Zheng",
+      "xuguang pan",
+      "haitao lin"
+    ],
+    "coaches": [
+      "Shanshan Han"
+    ],
+    "icpc_id": "401333"
+  },
+  {
+    "team_id": "77",
+    "name": "rocket girls 707's wrong answer machine",
+    "organization": "东南大学",
+    "official": 1,
+    "members": [
+      "Jiongchen Xiao",
+      "Fan Xu",
+      "Yuhang Ran"
+    ],
+    "coaches": [
+      "Qingjian Ni"
+    ],
+    "icpc_id": "396930"
+  },
+  {
+    "team_id": "78",
+    "name": "Chaos",
+    "organization": "西安交通大学",
+    "official": 1,
+    "members": [
+      "Haotian Zhen",
+      "Zhi Qi",
+      "Jiong Yang"
+    ],
+    "coaches": [
+      "Hongzhe Xu"
+    ],
+    "icpc_id": "398017"
+  },
+  {
+    "team_id": "79",
+    "name": "social peppa",
+    "organization": "北京理工大学",
+    "official": 1,
+    "members": [
+      "zhou qisen",
+      "Zehang Ma",
+      "He Jinmin"
+    ],
+    "coaches": [
+      "Jiyun Shi"
+    ],
+    "icpc_id": "397077"
+  },
+  {
+    "team_id": "80",
+    "name": "(.*?)carryff",
+    "organization": "西北大学",
+    "official": 1,
+    "members": [
+      "Fan Fan",
+      "Qisheng Dong",
+      "Aijie Liu"
+    ],
+    "coaches": [
+      "Lehong Dong"
+    ],
+    "icpc_id": "397159"
+  },
+  {
+    "team_id": "81",
+    "name": "Come out to see gods",
+    "organization": "天津工业大学",
+    "official": 1,
+    "members": [
+      "Jianfeng Men",
+      "zi li",
+      "Yucheng Yin"
+    ],
+    "coaches": [
+      "Shuxia Ren"
+    ],
+    "icpc_id": "397011"
+  },
+  {
+    "team_id": "82",
+    "name": "i am killer",
+    "organization": "浙江师范大学",
+    "official": 1,
+    "members": [
+      "En Zhang",
+      "shuaiqi Huang",
+      "hao liu"
+    ],
+    "coaches": [
+      "Jianmin Han"
+    ],
+    "icpc_id": "397582"
+  },
+  {
+    "team_id": "83",
+    "name": "hey mark",
+    "organization": "济南大学",
+    "official": 1,
+    "members": [
+      "DongZhe Zheng",
+      "Kong Shuo",
+      "zhiyang wang"
+    ],
+    "coaches": [
+      "Yan Jiang"
+    ],
+    "icpc_id": "397929"
+  },
+  {
+    "team_id": "84",
+    "name": "let's climb the mogan mountains together",
+    "organization": "西南科技大学",
+    "official": 1,
+    "members": [
+      "Xijing Jiao",
+      "Hanyang Chen",
+      "Xiuzhi Yang"
+    ],
+    "coaches": [
+      "Miao Chen"
+    ],
+    "icpc_id": "397905"
+  },
+  {
+    "team_id": "85",
+    "name": "SYSU_navigator",
+    "organization": "中山大学",
+    "official": 1,
+    "members": [
+      "yang li",
+      "Mingyu Deng",
+      "Yinuo Lin"
+    ],
+    "coaches": [
+      "SongShan Guo"
+    ],
+    "icpc_id": "400931"
+  },
+  {
+    "team_id": "86",
+    "name": "yyy",
+    "organization": "中国科学院大学",
+    "official": 1,
+    "members": [
+      "Yuhao Yao",
+      "Runyu Lu",
+      "Xiaoyu He"
+    ],
+    "coaches": [
+      "Xiaoming Sun"
+    ],
+    "icpc_id": "397088"
+  },
+  {
+    "team_id": "87",
+    "name": "sublimation",
+    "organization": "西安电子科技大学",
+    "official": 1,
+    "members": [
+      "shijie ren",
+      "Linxiao Jing",
+      "Yao Wang"
+    ],
+    "coaches": [
+      "Wan Bo"
+    ],
+    "icpc_id": "397195"
+  },
+  {
+    "team_id": "88",
+    "name": "Lets see",
+    "organization": "青岛科技大学",
+    "official": 1,
+    "members": [
+      "Xukun Han",
+      "Shaoqing Zhang",
+      "Yi Qian"
+    ],
+    "coaches": [
+      "Ruiquan Zhang"
+    ],
+    "icpc_id": "397677"
+  },
+  {
+    "team_id": "89",
+    "name": "NJUPT_EatWhater",
+    "organization": "南京邮电大学",
+    "official": 1,
+    "members": [
+      "Yuchen Cao",
+      "Yufan Diao",
+      "Yucong Suo"
+    ],
+    "coaches": [
+      "Zhi Chen"
+    ],
+    "icpc_id": "401350"
+  },
+  {
+    "team_id": "90",
+    "name": "I will practise ACM tomorrow",
+    "organization": "南京航空航天大学",
+    "official": 1,
+    "members": [
+      "Chenyu Zhao",
+      "Tianfan Zhang",
+      "Mao Xinyi"
+    ],
+    "coaches": [
+      "Chunran Zou"
+    ],
+    "icpc_id": "378605"
+  },
+  {
+    "team_id": "91",
+    "name": "ZCMU-PK2",
+    "organization": "浙江中医药大学",
+    "official": 1,
+    "members": [
+      "xiao li",
+      "Hailin Zhang",
+      "Chengjie Chen"
+    ],
+    "coaches": [
+      "Jie Luo"
+    ],
+    "icpc_id": "397009"
+  },
+  {
+    "team_id": "92",
+    "name": "green vegetables",
+    "organization": "华东师范大学",
+    "official": 1,
+    "members": [
+      "Si LI",
+      "CHUANGUI TAO",
+      "Yiqiang LV"
+    ],
+    "coaches": [
+      "Chunyun Xiao"
+    ],
+    "icpc_id": "397380"
+  },
+  {
+    "team_id": "93",
+    "name": "memory leak",
+    "organization": "武汉大学",
+    "official": 1,
+    "members": [
+      "Peng Bocheng",
+      "Yilin Wang",
+      "Qifan Wang"
+    ],
+    "coaches": [
+      "Wenyong Dong"
+    ],
+    "icpc_id": "397044"
+  },
+  {
+    "team_id": "94",
+    "name": "AC boom",
+    "organization": "山东理工大学",
+    "official": 1,
+    "members": [
+      "Qi Wang",
+      "Ziyuan Wang",
+      "Fenglei Yang"
+    ],
+    "coaches": [
+      "Xinjuan Ma"
+    ],
+    "icpc_id": "404669"
+  },
+  {
+    "team_id": "95",
+    "name": "NO B-Trees in our Hearts",
+    "organization": "中国人民大学",
+    "official": 1,
+    "members": [
+      "Yisong Huang",
+      "Hantian Zha",
+      "Yushuo Chen"
+    ],
+    "coaches": [
+      "Qing Zhu"
+    ],
+    "icpc_id": "398013"
+  },
+  {
+    "team_id": "96",
+    "name": "wellplayed",
+    "organization": "北京理工大学",
+    "official": 1,
+    "members": [
+      "He Yue",
+      "Li Ximing",
+      "Qiu Zhonghao"
+    ],
+    "coaches": [
+      "Tong Wu"
+    ],
+    "icpc_id": "397076"
+  },
+  {
+    "team_id": "97",
+    "name": "Zheng love Qiang",
+    "organization": "浙江理工大学",
+    "official": 1,
+    "members": [
+      "Xianwang Xie",
+      "Huasheng Ge",
+      "xu fei"
+    ],
+    "coaches": [
+      "Hairong Ye"
+    ],
+    "icpc_id": "398219"
+  },
+  {
+    "team_id": "98",
+    "name": "Five colors team",
+    "organization": "东北师范大学",
+    "official": 1,
+    "members": [
+      "Xiaoqiong Wei",
+      "Yunqiu Li",
+      "Chaoyi Yan"
+    ],
+    "coaches": [
+      "Zhiguo Zhou"
+    ],
+    "icpc_id": "396957"
+  },
+  {
+    "team_id": "99",
+    "name": "Dream Team",
+    "organization": "上海大学",
+    "official": 1,
+    "members": [
+      "Lun Tang",
+      "Sizhao Deng",
+      "Yuming He"
+    ],
+    "coaches": [
+      "Jun Shen"
+    ],
+    "icpc_id": "400521"
+  },
+  {
+    "team_id": "100",
+    "name": "Lucky！",
+    "organization": "西南民族大学",
+    "official": 1,
+    "members": [
+      "jinzong Liu",
+      "Rui Tan",
+      "jiaqi Chen"
+    ],
+    "coaches": [
+      "Xuchuan Zhou"
+    ],
+    "icpc_id": "397920"
+  },
+  {
+    "team_id": "101",
+    "name": "ZYZ",
+    "organization": "厦门大学",
+    "official": 1,
+    "members": [
+      "Yuchao Yue",
+      "Tianyi Zhang",
+      "Jiachi Zhao"
+    ],
+    "coaches": [
+      "Wenshui Lin"
+    ],
+    "icpc_id": "397739"
+  },
+  {
+    "team_id": "102",
+    "name": "Rainbow",
+    "organization": "大连理工大学",
+    "official": 1,
+    "members": [
+      "xuting li",
+      "Yicheng Liu",
+      "Yiming Deng"
+    ],
+    "coaches": [
+      "Bing Liang"
+    ],
+    "icpc_id": "397613"
+  },
+  {
+    "team_id": "103",
+    "name": "First handsome in the universe",
+    "organization": "华东交通大学",
+    "official": 1,
+    "members": [
+      "Jiayuan Qiu",
+      "Haoran Sun",
+      "Min Su"
+    ],
+    "coaches": [
+      "Juan Zhou"
+    ],
+    "icpc_id": "397892"
+  },
+  {
+    "team_id": "104",
+    "name": "three friends",
+    "organization": "福建师范大学",
+    "official": 1,
+    "members": [
+      "Yihui Huang",
+      "Bihui Wu",
+      "Fan Chen"
+    ],
+    "coaches": [
+      "Wen Wu"
+    ],
+    "icpc_id": "397013"
+  },
+  {
+    "team_id": "105",
+    "name": "Bkn New Balance",
+    "organization": "西南交通大学",
+    "official": 1,
+    "members": [
+      "kainan bao",
+      "Yue Yang",
+      "Shunyu Zhang"
+    ],
+    "coaches": [
+      "Xiuying Yu"
+    ],
+    "icpc_id": "396948"
+  },
+  {
+    "team_id": "106",
+    "name": "Galaxy",
+    "organization": "湖南科技大学",
+    "official": 1,
+    "members": [
+      "Guanhao Huang",
+      "Saibo Xu",
+      "Zhengheng Li"
+    ],
+    "coaches": [
+      "Yanhui Chen"
+    ],
+    "icpc_id": "397443"
+  },
+  {
+    "team_id": "107",
+    "name": "AcceptedByFate",
+    "organization": "哈尔滨工业大学",
+    "official": 1,
+    "members": [
+      "Qihui Lin",
+      "Shuqi Cao",
+      "Honglin Mu"
+    ],
+    "coaches": [
+      "Dalie Sun"
+    ],
+    "icpc_id": "397517"
+  },
+  {
+    "team_id": "108",
+    "name": "ForTheDream",
+    "organization": "北京航空航天大学",
+    "official": 1,
+    "members": [
+      "Zhang Kaijie",
+      "Zhonghai Shen",
+      "Zhang Shaoang"
+    ],
+    "coaches": [
+      "You Song"
+    ],
+    "icpc_id": "396998"
+  },
+  {
+    "team_id": "109",
+    "name": "DOOWOO",
+    "organization": "国防科技大学",
+    "official": 1,
+    "members": [
+      "Zongqing Zhao",
+      "Zhengquan Zhou",
+      "Yadi Zhai"
+    ],
+    "coaches": [
+      "Liangze Yin"
+    ],
+    "icpc_id": "397253"
+  },
+  {
+    "team_id": "110",
+    "name": "Rambler",
+    "organization": "重庆大学",
+    "official": 1,
+    "members": [
+      "Jiazheng Fu",
+      "Wei Shi",
+      "Junsen Huang"
+    ],
+    "coaches": [
+      "Jia Li"
+    ],
+    "icpc_id": "397496"
+  },
+  {
+    "team_id": "111",
+    "name": "The inverse Laplace transform",
+    "organization": "西南科技大学",
+    "official": 1,
+    "members": [
+      "Yinqiang Li",
+      "Lingfeng Cheng",
+      "Xingda Zhao"
+    ],
+    "coaches": [
+      "Miao Chen"
+    ],
+    "icpc_id": "397906"
+  },
+  {
+    "team_id": "112",
+    "name": "just this name",
+    "organization": "北京化工大学",
+    "official": 1,
+    "members": [
+      "yixin hu",
+      "lifeng zhang",
+      "JunYu Liu"
+    ],
+    "coaches": [
+      "Zheng Li"
+    ],
+    "icpc_id": "397550"
+  },
+  {
+    "team_id": "113",
+    "name": "Knuth-Morris-Pratt",
+    "organization": "武汉大学",
+    "official": 1,
+    "members": [
+      "Chenchen Peng",
+      "Hao Hu",
+      "yuyang peng"
+    ],
+    "coaches": [
+      "Wenyong Dong"
+    ],
+    "icpc_id": "397043"
+  },
+  {
+    "team_id": "114",
+    "name": "I love candy",
+    "organization": "西安邮电大学",
+    "official": 1,
+    "members": [
+      "Chenlei Yang",
+      "Tiantai Zhang",
+      "Wenfeng Huang"
+    ],
+    "coaches": [
+      "Weijun Meng"
+    ],
+    "icpc_id": "397557"
+  },
+  {
+    "team_id": "115",
+    "name": "FineFineFine",
+    "organization": "浙江大学城市学院",
+    "official": 1,
+    "members": [
+      "Deyang Zhou",
+      "chengming Wu",
+      "Jiahui Zhou"
+    ],
+    "coaches": [
+      "Haifeng Ke"
+    ],
+    "icpc_id": "397728"
+  },
+  {
+    "team_id": "116",
+    "name": "Little brother feels bad",
+    "organization": "华北电力大学",
+    "official": 1,
+    "members": [
+      "Huang Yifeng",
+      "Sheng Liu",
+      "FuYou Deng"
+    ],
+    "coaches": [
+      "Wei Ma"
+    ],
+    "icpc_id": "397540"
+  },
+  {
+    "team_id": "117",
+    "name": "Naming is difficult",
+    "organization": "南京航空航天大学",
+    "official": 1,
+    "members": [
+      "Yu Zhao",
+      "Xie Yunxuan",
+      "Yanzhao Zhang"
+    ],
+    "coaches": [
+      "Chunran Zou"
+    ],
+    "icpc_id": "378604"
+  },
+  {
+    "team_id": "118",
+    "name": "Normally WA",
+    "organization": "南开大学",
+    "official": 1,
+    "members": [
+      "xintao zhao",
+      "chen luo",
+      "fan jiajun"
+    ],
+    "coaches": [
+      "Xiaoguang Liu"
+    ],
+    "icpc_id": "397919"
+  },
+  {
+    "team_id": "119",
+    "name": "Last battle",
+    "organization": "北京林业大学",
+    "official": 1,
+    "members": [
+      "xinyuan wang",
+      "ZiMu Li",
+      "Hao Mei"
+    ],
+    "coaches": [
+      "YanYan Xu"
+    ],
+    "icpc_id": "398170"
+  },
+  {
+    "team_id": "120",
+    "name": "coffee",
+    "organization": "福建农林大学",
+    "official": 1,
+    "members": [
+      "Zhiqiang Tan",
+      "wu you",
+      "Chen Zhennan"
+    ],
+    "coaches": [
+      "Bixiong Liu"
+    ],
+    "icpc_id": "398151"
+  },
+  {
+    "team_id": "121",
+    "name": "blackwater team",
+    "organization": "华东理工大学",
+    "official": 1,
+    "members": [
+      "Chiliang Yao",
+      "Liyang Zhao",
+      "Xiao Li"
+    ],
+    "coaches": [
+      "Yongjun Luo",
+      "weibin guo"
+    ],
+    "icpc_id": "397667"
+  },
+  {
+    "team_id": "122",
+    "name": "hutc_team",
+    "organization": "湖州师范学院",
+    "official": 1,
+    "members": [
+      "qian chen",
+      "yejin wang",
+      "Haojie Sun"
+    ],
+    "coaches": [
+      "Shaojun Zhu"
+    ],
+    "icpc_id": "397514"
+  },
+  {
+    "team_id": "123",
+    "name": "OTATO",
+    "organization": "贵州大学",
+    "official": 1,
+    "members": [
+      "kunjian wen",
+      "HuanXin Zhang",
+      "runhua ma"
+    ],
+    "coaches": [
+      "Xu Jing"
+    ],
+    "icpc_id": "397524"
+  },
+  {
+    "team_id": "124",
+    "name": "AKable but not necessary",
+    "organization": "北京工业大学",
+    "official": 1,
+    "members": [
+      "Jikai Ren",
+      "Jingrui Chen",
+      "Jiayi Sun"
+    ],
+    "coaches": [
+      "Yuejiang Cai"
+    ],
+    "icpc_id": "397407"
+  },
+  {
+    "team_id": "125",
+    "name": "Oil Rolling",
+    "organization": "中国石油大学（北京）",
+    "official": 1,
+    "members": [
+      "Fanglve Xia",
+      "Zhijian Wang",
+      "Yunxiao Zhao"
+    ],
+    "coaches": [
+      "Jiangbo Fan"
+    ],
+    "icpc_id": "397053"
+  },
+  {
+    "team_id": "126",
+    "name": "TripleLemon",
+    "organization": "北京师范大学",
+    "official": 1,
+    "members": [
+      "Anlin Chen",
+      "yiran zhu",
+      "BingJie Zhou"
+    ],
+    "coaches": [
+      "Su Feng"
+    ],
+    "icpc_id": "397048"
+  },
+  {
+    "team_id": "127",
+    "name": "07on the way~",
+    "organization": "计蒜客",
+    "official": 0,
+    "unofficial": 1
+  },
+  {
+    "team_id": "128",
+    "name": "Away_From_Obesity",
+    "organization": "北京航空航天大学",
+    "official": 1,
+    "members": [
+      "Ronghe Chang",
+      "Pei Liu",
+      "Wanru Zhao"
+    ],
+    "coaches": [
+      "You Song"
+    ],
+    "icpc_id": "397000"
+  },
+  {
+    "team_id": "129",
+    "name": "Light_Kiss",
+    "organization": "哈尔滨工程大学",
+    "official": 1,
+    "members": [
+      "Yuhe Huang",
+      "Zhuo Yang",
+      "Zixiang Zhao"
+    ],
+    "coaches": [
+      "Lin Guo"
+    ],
+    "icpc_id": "397610"
+  },
+  {
+    "team_id": "130",
+    "name": "Dream catcher",
+    "organization": "鲁东大学",
+    "official": 1,
+    "members": [
+      "Guoyu Li",
+      "Chenghao Lu",
+      "Zhenyang Zhu"
+    ],
+    "coaches": [
+      "Xiaofeng Zhang"
+    ],
+    "icpc_id": "397065"
+  },
+  {
+    "team_id": "131",
+    "name": "Lame_Bird",
+    "organization": "南京理工大学",
+    "official": 1,
+    "members": [
+      "Yifei Lu",
+      "Shuhua Yang",
+      "Zhengyu He"
+    ],
+    "coaches": [
+      "Ligong Yu"
+    ],
+    "icpc_id": "401261"
+  },
+  {
+    "team_id": "132",
+    "name": "Fun Journey Of Coding",
+    "organization": "中国石油大学（华东）",
+    "official": 1,
+    "members": [
+      "Zengkui Sun",
+      "Xin Hong",
+      "Zijing Ren"
+    ],
+    "coaches": [
+      "Xuehui ZHANG"
+    ],
+    "icpc_id": "397421"
+  },
+  {
+    "team_id": "133",
+    "name": "Brain pain",
+    "organization": "台州学院",
+    "official": 1,
+    "members": [
+      "Zhengyi Ye",
+      "Huangge Weng",
+      "Ziyi Liang"
+    ],
+    "coaches": [
+      "Xiaofeng Hua"
+    ],
+    "icpc_id": "397072"
+  },
+  {
+    "team_id": "134",
+    "name": "Team Trinity",
+    "organization": "北京邮电大学",
+    "official": 1,
+    "members": [
+      "Lihan Ni",
+      "Zheng Xin",
+      "Kefan Xu"
+    ],
+    "coaches": [
+      "Ya Yang"
+    ],
+    "icpc_id": "397445"
+  },
+  {
+    "team_id": "135",
+    "name": "One Two Three AK",
+    "organization": "华东师范大学",
+    "official": 1,
+    "members": [
+      "Mengyun Chen",
+      "Xuliang Zhu",
+      "Jiadong Xie"
+    ],
+    "coaches": [
+      "Chunyun Xiao"
+    ],
+    "icpc_id": "397377"
+  },
+  {
+    "team_id": "136",
+    "name": "calorie",
+    "organization": "北京大学",
+    "official": 0,
+    "unofficial": 1
+  },
+  {
+    "team_id": "137",
+    "name": "Zero-knowledge Proof",
+    "organization": "中国地质大学（武汉）",
+    "official": 1,
+    "members": [
+      "xian yang",
+      "JunLin Chen",
+      "Erkang Xue"
+    ],
+    "coaches": [
+      "Feng Zhang"
+    ],
+    "icpc_id": "397064"
+  },
+  {
+    "team_id": "138",
+    "name": "No Response",
+    "organization": "中北大学",
+    "official": 1,
+    "members": [
+      "Pengfei Liu",
+      "Changhao Li",
+      "Hongtao Sun"
+    ],
+    "coaches": [
+      "Guangzhen Pan"
+    ],
+    "icpc_id": "397519"
+  },
+  {
+    "team_id": "139",
+    "name": "Source dream",
+    "organization": "湖北工业大学",
+    "official": 1,
+    "members": [
+      "Bai Jiacai",
+      "qiushi Gu",
+      "shunguang zhan"
+    ],
+    "coaches": [
+      "Chengzhi Xu"
+    ],
+    "icpc_id": "397100"
+  },
+  {
+    "team_id": "140",
+    "name": "SCAU_0xCCCC",
+    "organization": "华南农业大学",
+    "official": 1,
+    "members": [
+      "Junsheng zhuang",
+      "Junjie Guo",
+      "Zhaoyang Cao"
+    ],
+    "coaches": [
+      "Liang Zeng"
+    ],
+    "icpc_id": "397632"
+  },
+  {
+    "team_id": "141",
+    "name": "NPU_QwQ",
+    "organization": "西北工业大学",
+    "official": 1,
+    "members": [
+      "Yuwei Wang",
+      "Enhao Gao",
+      "Guanwen Peng"
+    ],
+    "coaches": [
+      "Junrui Liu"
+    ],
+    "icpc_id": "398010"
+  },
+  {
+    "team_id": "142",
+    "name": "clw",
+    "organization": "东南大学",
+    "official": 1,
+    "members": [
+      "Qihang Chen",
+      "Chaolei Li",
+      "Taoran Wang"
+    ],
+    "coaches": [
+      "Qingjian Ni"
+    ],
+    "icpc_id": "396929"
+  },
+  {
+    "team_id": "143",
+    "name": "cauacm",
+    "organization": "中国农业大学",
+    "official": 1,
+    "members": [
+      "Tian Yang",
+      "Wanqi Chen",
+      "Feng Yuxiao"
+    ],
+    "coaches": [
+      "Qin Ma"
+    ],
+    "icpc_id": "397555"
+  },
+  {
+    "team_id": "144",
+    "name": "distortion",
+    "organization": "华南理工大学",
+    "official": 1,
+    "members": [
+      "Weixuan Su",
+      "Jiahong Chen",
+      "Hongbo Yin"
+    ],
+    "coaches": [
+      "Jie Liu"
+    ],
+    "icpc_id": "397083"
+  },
+  {
+    "team_id": "145",
+    "name": "AC on the way",
+    "organization": "南京航空航天大学",
+    "official": 1,
+    "members": [
+      "Qin Lijiao Qin Lijiao",
+      "Zhang Yaoying",
+      "Yuexin Li"
+    ],
+    "coaches": [
+      "Chunran Zou"
+    ],
+    "icpc_id": "378606"
+  },
+  {
+    "team_id": "146",
+    "name": "MJU",
+    "organization": "闽江学院",
+    "official": 1,
+    "members": [
+      "xiang li",
+      "lin zhizhu",
+      "Zhou Chen"
+    ],
+    "coaches": [
+      "Jinglan Wu"
+    ],
+    "icpc_id": "397042"
+  },
+  {
+    "team_id": "147",
+    "name": "XTU_fire my money",
+    "organization": "湘潭大学",
+    "official": 1,
+    "members": [
+      "Wenlong Liu",
+      "Wang Liu",
+      "you jianbo"
+    ],
+    "coaches": [
+      "Yong Xie"
+    ],
+    "icpc_id": "396947"
+  },
+  {
+    "team_id": "148",
+    "name": "Orz",
+    "organization": "华南理工大学",
+    "official": 1,
+    "members": [
+      "Shicheng Zha",
+      "Zhuoming Li",
+      "Liang Zequan"
+    ],
+    "coaches": [
+      "Chuhua Xian"
+    ],
+    "icpc_id": "397084"
+  },
+  {
+    "team_id": "149",
+    "name": "soul codenutter",
+    "organization": "安徽大学",
+    "official": 1,
+    "members": [
+      "Bingyi Feng",
+      "Xixian Guo",
+      "Shuze Shen"
+    ],
+    "coaches": [
+      "Jian Zhou"
+    ],
+    "icpc_id": "397644"
+  },
+  {
+    "team_id": "150",
+    "name": "Excalibur",
+    "organization": "浙江万里学院",
+    "official": 1,
+    "members": [
+      "Wenhan Yu",
+      "Binxin Lai",
+      "Hangchao Xu"
+    ],
+    "coaches": [
+      "Bencheng Chai"
+    ],
+    "icpc_id": "397224"
+  },
+  {
+    "team_id": "151",
+    "name": "magic is ac",
+    "organization": "浙江财经大学",
+    "official": 1,
+    "members": [
+      "Yi Chai",
+      "Xinru Xu",
+      "Minxuan Zhu"
+    ],
+    "coaches": [
+      "YanHong Chen"
+    ],
+    "icpc_id": "397901"
+  },
+  {
+    "team_id": "152",
+    "name": "fighting duck",
+    "organization": "合肥工业大学",
+    "official": 1,
+    "members": [
+      "Zijian Wang",
+      "Dasen Sun",
+      "Yuchen Ni"
+    ],
+    "coaches": [
+      "benzhu xu"
+    ],
+    "icpc_id": "397687"
+  },
+  {
+    "team_id": "153",
+    "name": "Biznaguita",
+    "organization": "南京工业大学",
+    "official": 1,
+    "members": [
+      "zhaokun li",
+      "Mancheng Meng",
+      "Haoyu Zhang"
+    ],
+    "coaches": [
+      "LIU BIN"
+    ],
+    "icpc_id": "398035"
+  },
+  {
+    "team_id": "154",
+    "name": "Two_Pigeon",
+    "organization": "上海科技大学",
+    "official": 1,
+    "members": [
+      "Sihang Xu",
+      "Yimin Tang",
+      "Jinye Chen"
+    ],
+    "coaches": [
+      "Kewei Tu"
+    ],
+    "icpc_id": "397776"
+  },
+  {
+    "team_id": "155",
+    "name": "goBJ",
+    "organization": "江西中医药大学",
+    "official": 1,
+    "members": [
+      "Xin Dong",
+      "zhen zeng",
+      "yang yuan"
+    ],
+    "coaches": [
+      "Zhu YanChen"
+    ],
+    "icpc_id": "397696"
+  },
+  {
+    "team_id": "156",
+    "name": "HeBanNiTeFuDiYiQiGongKeNanGuan",
+    "organization": "北华大学",
+    "official": 1,
+    "members": [
+      "qian lin",
+      "qi gao",
+      "yinlei chai"
+    ],
+    "coaches": [
+      "jingxuan lu"
+    ],
+    "icpc_id": "398044"
+  },
+  {
+    "team_id": "157",
+    "name": "Only a repeater can defeat a repeater.",
+    "organization": "江西财经大学",
+    "official": 1,
+    "members": [
+      "zixin Xu",
+      "boyu Xu",
+      "zhen Wu"
+    ],
+    "coaches": [
+      "Yin aihua"
+    ],
+    "icpc_id": "397461"
+  },
+  {
+    "team_id": "158",
+    "name": "good good study",
+    "organization": "中国石油大学（华东）",
+    "official": 1,
+    "members": [
+      "Xuanqi Li",
+      "Haiyang Peng",
+      "Hao Yu"
+    ],
+    "coaches": [
+      "Xuehui ZHANG"
+    ],
+    "icpc_id": "397420"
+  },
+  {
+    "team_id": "159",
+    "name": "BorderlineAC",
+    "organization": "香港大学",
+    "official": 1,
+    "members": [
+      "Brahmnoor Singh Chawla",
+      "Divyansh Singh",
+      "Valen Cheung"
+    ],
+    "coaches": [
+      "Bintao SUN"
+    ],
+    "icpc_id": "397127"
+  },
+  {
+    "team_id": "160",
+    "name": "autoAKman.js",
+    "organization": "山东财经大学",
+    "official": 1,
+    "members": [
+      "Liu Xiaokang",
+      "ZHANG QIQIAN",
+      "Niu mingxiao"
+    ],
+    "coaches": [
+      "hengwu li",
+      "Bo Zhou"
+    ],
+    "icpc_id": "397080"
+  },
+  {
+    "team_id": "162",
+    "name": "PSG.LGD",
+    "organization": "中国人民大学",
+    "official": 1,
+    "members": [
+      "pingshan Li",
+      "xingyu pan",
+      "Runbo Lin"
+    ],
+    "coaches": [
+      "Qing Zhu"
+    ],
+    "icpc_id": "398014"
+  },
+  {
+    "team_id": "163",
+    "name": "Cyborg_Lab",
+    "organization": "中国传媒大学",
+    "official": 1,
+    "members": [
+      "Qingying Jie",
+      "Weiqi Yan",
+      "Xuanyi Wang"
+    ],
+    "coaches": [
+      "Peng Yu",
+      "Lifang Yang"
+    ],
+    "icpc_id": "396975"
+  },
+  {
+    "team_id": "164",
+    "name": "Blacksmith",
+    "organization": "中国传媒大学",
+    "official": 1,
+    "members": [
+      "Tianhong Zhang",
+      "Liuyang Chen",
+      "Jiarong Li"
+    ],
+    "coaches": [
+      "Peng Yu",
+      "Lifang Yang"
+    ],
+    "icpc_id": "396974"
+  },
+  {
+    "team_id": "165",
+    "name": "shenmedoubuhui",
+    "organization": "兰州大学",
+    "official": 1,
+    "members": [
+      "Xiyun Li",
+      "Xiang Li",
+      "Junyi Mei"
+    ],
+    "coaches": [
+      "Jun Ma"
+    ],
+    "icpc_id": "397070"
+  },
+  {
+    "team_id": "166",
+    "name": "immovable",
+    "organization": "天津科技大学",
+    "official": 1,
+    "members": [
+      "Zhang Xueqing",
+      "Chai Ruilin",
+      "jia shuaowei"
+    ],
+    "coaches": [
+      "Wu Jianghong",
+      "Jianghong Wu"
+    ],
+    "icpc_id": "397596"
+  },
+  {
+    "team_id": "167",
+    "name": "SDU_Moreparsley",
+    "organization": "山东大学",
+    "official": 1,
+    "members": [
+      "Xiaoyu Liu",
+      "Xiaoyu Chen",
+      "Yunkai Li"
+    ],
+    "coaches": [
+      "Meng He"
+    ],
+    "icpc_id": "397029"
+  },
+  {
+    "team_id": "168",
+    "name": "sleep_and_dream",
+    "organization": "中国地质大学（北京）",
+    "official": 1,
+    "members": [
+      "Zilai Li",
+      "Na Zhang",
+      "yifan zhu"
+    ],
+    "coaches": [
+      "Yuqing Zhang"
+    ],
+    "icpc_id": "397245"
+  },
+  {
+    "team_id": "169",
+    "name": "NBUT Never Giveup",
+    "organization": "宁波工程学院",
+    "official": 1,
+    "members": [
+      "Hongyu Chen",
+      "Chao Wang",
+      "XianDa Fu"
+    ],
+    "coaches": [
+      "Jianghua Xuan"
+    ],
+    "icpc_id": "397142"
+  },
+  {
+    "team_id": "170",
+    "name": "Ice Cream",
+    "organization": "华中科技大学",
+    "official": 1,
+    "members": [
+      "Minggang Wei",
+      "Yan Liu",
+      "Yun Zhang"
+    ],
+    "coaches": [
+      "Kun He"
+    ],
+    "icpc_id": "396946"
+  },
+  {
+    "team_id": "171",
+    "name": "Look back and flash a smile",
+    "organization": "北京邮电大学",
+    "official": 1,
+    "members": [
+      "JinAn Bao",
+      "WenXing Ma",
+      "YuHui Li"
+    ],
+    "coaches": [
+      "Ya Yang"
+    ],
+    "icpc_id": "399772"
+  },
+  {
+    "team_id": "172",
+    "name": "HELLO WORLD GIRL！",
+    "organization": "浙江农林大学",
+    "official": 1,
+    "members": [
+      "Zeqian Zhou",
+      "Zeming Gu",
+      "Ruitao Ye"
+    ],
+    "coaches": [
+      "Mengjun Tong"
+    ],
+    "icpc_id": "378613"
+  },
+  {
+    "team_id": "173",
+    "name": "WALL.E",
+    "organization": "中国矿业大学",
+    "official": 1,
+    "members": [
+      "Wei Zheng",
+      "Mingfu Lei",
+      "liu ziang"
+    ],
+    "coaches": [
+      "Wenjia Yang"
+    ],
+    "icpc_id": "397571"
+  },
+  {
+    "team_id": "174",
+    "name": "STAR",
+    "organization": "河北师范大学",
+    "official": 1
+  },
+  {
+    "team_id": "175",
+    "name": "Graywolf01",
+    "organization": "兰州交通大学",
+    "official": 1,
+    "members": [
+      "hu pu",
+      "zhaoqi Lin",
+      "Xu Zhang"
+    ],
+    "coaches": [
+      "yang li"
+    ],
+    "icpc_id": "397977"
+  },
+  {
+    "team_id": "176",
+    "name": "NEU_Drink Java",
+    "organization": "东北大学",
+    "official": 1,
+    "members": [
+      "Tian Xie",
+      "Xingxiao Wang",
+      "Changbao Zhu"
+    ],
+    "coaches": [
+      "Yu Gu"
+    ],
+    "icpc_id": "397723"
+  },
+  {
+    "team_id": "177",
+    "name": "DLMU-15",
+    "organization": "大连海事大学",
+    "official": 1,
+    "members": [
+      "Yantao Yu",
+      "Muyun Mou",
+      "Ben Che"
+    ],
+    "coaches": [
+      "Yiwu Xie"
+    ],
+    "icpc_id": "397069"
+  },
+  {
+    "team_id": "178",
+    "name": "neither gold medal nor gold mine",
+    "organization": "中国矿业大学（北京）",
+    "official": 1,
+    "members": [
+      "Yang Gao",
+      "Hang Gao",
+      "Kun Jin"
+    ],
+    "coaches": [
+      "Faguo Zhou"
+    ],
+    "icpc_id": "397022"
+  },
+  {
+    "team_id": "179",
+    "name": "For the Reimbursement",
+    "organization": "长安大学",
+    "official": 1,
+    "members": [
+      "jiahao cheng",
+      "Jiahao Hu",
+      "Jinyun Luo"
+    ],
+    "coaches": [
+      "Shu-xu Jing"
+    ],
+    "icpc_id": "396932"
+  },
+  {
+    "team_id": "180",
+    "name": "SCP004",
+    "organization": "国防科技大学",
+    "official": 1,
+    "members": [
+      "Zhou Chen",
+      "Wei Li",
+      "Zhengxin Gao"
+    ],
+    "coaches": [
+      "Liangze Yin"
+    ],
+    "icpc_id": "397252"
+  },
+  {
+    "team_id": "181",
+    "name": "NULL",
+    "organization": "河南大学",
+    "official": 1,
+    "members": [
+      "Zefeng Zhang",
+      "hao li",
+      "heyang lian"
+    ],
+    "coaches": [
+      "Jianlin Wang"
+    ],
+    "icpc_id": "397527"
+  },
+  {
+    "team_id": "182",
+    "name": "NJUPT_DelicateStrongGirls",
+    "organization": "南京邮电大学",
+    "official": 1,
+    "members": [
+      "Shanni Wu",
+      "Ruyi Yao",
+      "Jindi Kong"
+    ],
+    "coaches": [
+      "Zhi Chen"
+    ],
+    "icpc_id": "401351"
+  },
+  {
+    "team_id": "183",
+    "name": "WRSNDM",
+    "organization": "上海大学",
+    "official": 1,
+    "members": [
+      "Longxu Li",
+      "Mengxiang Wang",
+      "Minhao Qin"
+    ],
+    "coaches": [
+      "Jun Shen"
+    ],
+    "icpc_id": "400522"
+  },
+  {
+    "team_id": "184",
+    "name": "OR1=1",
+    "organization": "中共中央办公厅电子科技学院",
+    "official": 1,
+    "members": [
+      "AnQi Wang",
+      "junshao liu",
+      "xinghan chen"
+    ],
+    "coaches": [
+      "Xiaodong Li"
+    ],
+    "icpc_id": "397033"
+  },
+  {
+    "team_id": "185",
+    "name": "GBK_UTF-8",
+    "organization": "武汉科技大学",
+    "official": 1,
+    "members": [
+      "Jilin Chen",
+      "Shengdi Zhou",
+      "Pengcheng Du"
+    ],
+    "coaches": [
+      "Shunxin Li"
+    ],
+    "icpc_id": "396928"
+  },
+  {
+    "team_id": "186",
+    "name": "Wolf Warriors 3",
+    "organization": "陕西师范大学",
+    "official": 1,
+    "members": [
+      "Yinying He",
+      "Yuqi Gan",
+      "Wenbo Zhang"
+    ],
+    "coaches": [
+      "Tao Wang"
+    ],
+    "icpc_id": "396984"
+  },
+  {
+    "team_id": "187",
+    "name": "BeiJing daycation",
+    "organization": "Beijing Information Science and Technology University",
+    "official": 1,
+    "icpc_id": "398043",
+    "members": [
+      "Oliver Yang",
+      "BOYA PAN",
+      "Xinkai Meng"
+    ],
+    "coaches": [
+      "Yongmin Mu"
+    ]
+  },
+  {
+    "team_id": "188",
+    "name": "Black Box",
+    "organization": "Information Engineering University of the People's Liberation Army",
+    "official": 1,
+    "icpc_id": "397726",
+    "members": [
+      "Xiaoyu Lu",
+      "Dongyang Zhang",
+      "Ze Xin Hu"
+    ],
+    "coaches": [
+      "Zhou Gang"
+    ]
+  },
+  {
+    "team_id": "189",
+    "name": "No ac only wawawa",
+    "organization": "Ocean University of China",
+    "official": 1,
+    "icpc_id": "397074",
+    "members": [
+      "Zixuan Feng",
+      "Gang Wang",
+      "Zhibin Xu"
+    ],
+    "coaches": [
+      "Peishun Liu"
+    ]
+  },
+  {
+    "team_id": "190",
+    "name": "squirrel",
+    "organization": "Shandong University of Finance and Economics",
+    "official": 1,
+    "icpc_id": "397081",
+    "members": [
+      "Nuochen Li",
+      "shuo yan",
+      "Qingdong Peng"
+    ],
+    "coaches": [
+      "hengwu li",
+      "Bo Zhou"
+    ]
+  }
+]
