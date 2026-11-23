@@ -1,0 +1,7484 @@
+[
+  {
+    "id": "A01",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "1+1+1",
+        "en": "1+1+1"
+      }
+    },
+    "organization": "南京航空航天大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "邹春然"
+    ],
+    "members": [
+      "匡显然",
+      "何树玺",
+      "何东泽"
+    ]
+  },
+  {
+    "id": "A02",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "哈理工202601CC",
+        "en": "HRBUST202601CC"
+      }
+    },
+    "organization": "哈尔滨理工大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "金恩海"
+    ],
+    "members": [
+      "王春龙",
+      "冉渝旭",
+      "陈子权"
+    ]
+  },
+  {
+    "id": "A03",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "帮我开下A103",
+        "en": "OpenAI03"
+      }
+    },
+    "organization": "吉林大学",
+    "group": [
+      "unofficial"
+    ],
+    "coaches": [
+      "吕帅"
+    ],
+    "members": [
+      "钟姝伶",
+      "庄锦浩",
+      "韩洋"
+    ]
+  },
+  {
+    "id": "A04",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "因为夏日将终",
+        "en": "As Summer Fades"
+      }
+    },
+    "organization": "同济大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "叶晨"
+    ],
+    "members": [
+      "邓双南",
+      "郑梓健",
+      "刘宗鑫"
+    ]
+  },
+  {
+    "id": "A05",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Amore",
+        "en": "Amore"
+      }
+    },
+    "organization": "成都大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "鄢涛",
+      "高朝邦"
+    ],
+    "members": [
+      "冉天祺",
+      "赵嘉源",
+      "万名森"
+    ]
+  },
+  {
+    "id": "A06",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "我来监督沙瑞金",
+        "en": "Keeping an eye on Sha Ruijin"
+      }
+    },
+    "organization": "郑州大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "吴云鹏"
+    ],
+    "members": [
+      "万皓月",
+      "陈年澎",
+      "陈厚陶"
+    ]
+  },
+  {
+    "id": "A07",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "凌波微步",
+        "en": "Can’t Out-Wavedash Me, Bet?"
+      }
+    },
+    "organization": "武汉大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "董文永"
+    ],
+    "members": [
+      "吴悠",
+      "文质彬",
+      "首言铮"
+    ]
+  },
+  {
+    "id": "A08",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "别小看大三难铜的羁绊啊！",
+        "en": "Bronze-Bond Bro"
+      }
+    },
+    "organization": "浙江师范大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "韩建民",
+      "邱晟"
+    ],
+    "members": [
+      "赵文博",
+      "鄢博威",
+      "樊彬"
+    ]
+  },
+  {
+    "id": "A09",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "DeepOverflow",
+        "en": "DeepOverflow"
+      }
+    },
+    "organization": "南开大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "刘晓光"
+    ],
+    "members": [
+      "李元正",
+      "陈逍宇",
+      "孔繁瑞"
+    ]
+  },
+  {
+    "id": "A10",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "时间紧任务重",
+        "en": "Catch the Moment"
+      }
+    },
+    "organization": "宁波大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "陈叶芳"
+    ],
+    "members": [
+      "赵翰韬",
+      "黄博翼",
+      "王泽豪"
+    ]
+  },
+  {
+    "id": "A11",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "旧日遗梦",
+        "en": "Dreams of Yesteryear"
+      }
+    },
+    "organization": "东南大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "倪庆剑"
+    ],
+    "members": [
+      "林祥威",
+      "杨梓尧",
+      "汪子鹤"
+    ]
+  },
+  {
+    "id": "A12",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "doro骑士团",
+        "en": "Doro Knights"
+      }
+    },
+    "organization": "长春工业大学",
+    "group": [
+      "unofficial"
+    ],
+    "coaches": [
+      "周丽娟"
+    ],
+    "members": [
+      "黄荣昌",
+      "王乐天",
+      "刘玉坤"
+    ]
+  },
+  {
+    "id": "A13",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "抹茶小蛋糕",
+        "en": "Matcha Cake"
+      }
+    },
+    "organization": "北京大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "张勤健",
+      "罗国杰"
+    ],
+    "members": [
+      "孙培轩",
+      "陈哲章",
+      "章弥炫"
+    ]
+  },
+  {
+    "id": "A14",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "奕",
+        "en": "GO"
+      }
+    },
+    "organization": "重庆理工大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "黄继平"
+    ],
+    "members": [
+      "许润峰",
+      "周子康",
+      "段瑞"
+    ]
+  },
+  {
+    "id": "A15",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "芙兰朵露脚香香喵6.0Astra",
+        "en": "Flandre Ashi Kaori Nyaa6.0Astra"
+      }
+    },
+    "organization": "成都东软学院",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "刘炎"
+    ],
+    "members": [
+      "钟李想",
+      "房刚毅",
+      "袁尚彦"
+    ]
+  },
+  {
+    "id": "A16",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "等我长小了也要打OI",
+        "en": "When we grow down,we will play OI"
+      }
+    },
+    "organization": "内蒙古大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "崔波"
+    ],
+    "members": [
+      "岳宗博",
+      "戴维",
+      "邓宇沛"
+    ]
+  },
+  {
+    "id": "A17",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "ACM笑传之冲冲榜",
+        "en": "ACM joke: Create Code Badly"
+      }
+    },
+    "organization": "山东大学（威海）",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "孔晓明"
+    ],
+    "members": [
+      "秦修元",
+      "张民科",
+      "王石"
+    ]
+  },
+  {
+    "id": "A18",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "各位对队名有什么想法吗",
+        "en": "idea plz"
+      }
+    },
+    "organization": "北京工业大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "高红雨"
+    ],
+    "members": [
+      "周若辰",
+      "王玺荣",
+      "刘亦乐"
+    ]
+  },
+  {
+    "id": "A19",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "derder龙的传奇故事",
+        "en": "The Legend of derder the Dragon"
+      }
+    },
+    "organization": "大连理工大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "陆坤"
+    ],
+    "members": [
+      "蓝海洋",
+      "陈德威",
+      "吴锡奎"
+    ]
+  },
+  {
+    "id": "A20",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "这次尽欣杰力能做到吗",
+        "en": "qwer"
+      }
+    },
+    "organization": "杭州师范大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "单振宇",
+      "虞剑波"
+    ],
+    "members": [
+      "黄欣怡",
+      "黄子力",
+      "龚俊杰"
+    ]
+  },
+  {
+    "id": "A21",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "爱上AC不是我的错",
+        "en": "AC is not my fault"
+      }
+    },
+    "organization": "重庆大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "李佳"
+    ],
+    "members": [
+      "童昊昱",
+      "侯楠",
+      "解泽豪"
+    ]
+  },
+  {
+    "id": "A22",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "不再逃避",
+        "en": "No More Running"
+      }
+    },
+    "organization": "北京航空航天大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "宋友"
+    ],
+    "members": [
+      "解忻泽",
+      "孙乾翔",
+      "李奕霄"
+    ]
+  },
+  {
+    "id": "A23",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "逆序队",
+        "en": "Xudui Ni"
+      }
+    },
+    "organization": "香港科技大学（广州）",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "熊辉"
+    ],
+    "members": [
+      "林哲宇",
+      "马振翔",
+      "陈君霖"
+    ]
+  },
+  {
+    "id": "A24",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "故障吉奇人",
+        "en": "The Defect"
+      }
+    },
+    "organization": "吉林大学",
+    "group": [
+      "unofficial"
+    ],
+    "coaches": [
+      "吕帅"
+    ],
+    "members": [
+      "于之航",
+      "陈鹏旭",
+      "徐梓博"
+    ]
+  },
+  {
+    "id": "A25",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "ROLL快乐企鹅之蓝眼王朝",
+        "en": "ROLLHappyPenguins:Blueeyes kingdom"
+      }
+    },
+    "organization": "辽宁科技大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "张秀梅"
+    ],
+    "members": [
+      "陈子轩",
+      "季芷欧",
+      "夏智儒"
+    ]
+  },
+  {
+    "id": "A26",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "奶界最忧郁之龙",
+        "en": "Gloomiest Dragon of the Milky Way"
+      }
+    },
+    "organization": "中国传媒大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "杨丽芳"
+    ],
+    "members": [
+      "陈璐豫",
+      "郭宸豪",
+      "何宇轩"
+    ]
+  },
+  {
+    "id": "A27",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "给米爹攒钱中",
+        "en": "Save Money"
+      }
+    },
+    "organization": "长春大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "朱德新"
+    ],
+    "members": [
+      "韩一鸣",
+      "沈宇泽",
+      "章晨波"
+    ]
+  },
+  {
+    "id": "A28",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "复活者联盟II",
+        "en": "Underdog"
+      }
+    },
+    "organization": "上海交通大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "俞勇"
+    ],
+    "members": [
+      "王籽阳",
+      "谭锴",
+      "胡舟承"
+    ]
+  },
+  {
+    "id": "B01",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "多次元宇宙融合论",
+        "en": "Extradimensional Cosmic Phenomenon"
+      }
+    },
+    "organization": "哈尔滨工业大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "赵文博"
+    ],
+    "members": [
+      "姜郑康",
+      "卢思吉",
+      "李嘉弘"
+    ]
+  },
+  {
+    "id": "B02",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "赛博护林猿",
+        "en": "BFBOYS"
+      }
+    },
+    "organization": "北京林业大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "徐艳艳"
+    ],
+    "members": [
+      "陈昊然",
+      "应旭东",
+      "季丰惟"
+    ]
+  },
+  {
+    "id": "B03",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Random",
+        "en": "Random"
+      }
+    },
+    "organization": "成都锦城学院",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "李丹",
+      "黎秀"
+    ],
+    "members": [
+      "赵燚",
+      "杨哲",
+      "何轩逸"
+    ]
+  },
+  {
+    "id": "B04",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "德强",
+        "en": "Harbin Deqiang High School"
+      }
+    },
+    "organization": "哈尔滨德强高级中学",
+    "group": [
+      "unofficial"
+    ],
+    "coaches": [
+      "陈树明"
+    ],
+    "members": [
+      "尚嘉森",
+      "佟润诚",
+      "刘臻"
+    ]
+  },
+  {
+    "id": "B05",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "百花啊，请为明天绽放",
+        "en": "Blossom for tomorrow"
+      }
+    },
+    "organization": "西安电子科技大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "张淑平"
+    ],
+    "members": [
+      "邹文定",
+      "王翼天",
+      "杨宸尧"
+    ]
+  },
+  {
+    "id": "B06",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "交流障碍星人",
+        "en": "Discommunication"
+      }
+    },
+    "organization": "吉林大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "吕帅"
+    ],
+    "members": [
+      "刘昱",
+      "王宗凡",
+      "欧阳承风"
+    ]
+  },
+  {
+    "id": "B07",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "天天做早操",
+        "en": "Daily Exercise"
+      }
+    },
+    "organization": "合肥工业大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "曹力"
+    ],
+    "members": [
+      "谢麒翰",
+      "舒雨飞",
+      "韩昆桦"
+    ]
+  },
+  {
+    "id": "B08",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "六兆年零一夜的ACM",
+        "en": "ACM of Six Trillion Years and a Night"
+      }
+    },
+    "organization": "西安交通大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "王龙翔"
+    ],
+    "members": [
+      "薛楠恺",
+      "黄万平",
+      "李子涵"
+    ]
+  },
+  {
+    "id": "B09",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "不是我喜欢的罚时，直接无视",
+        "en": "Penalty Freeee"
+      }
+    },
+    "organization": "北京交通大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "黄华",
+      "许华婷"
+    ],
+    "members": [
+      "刘泽晖",
+      "张恩崎",
+      "王俊宜"
+    ]
+  },
+  {
+    "id": "B10",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "再WA一次就去送外卖",
+        "en": "One more WA and I'm delivering food"
+      }
+    },
+    "organization": "湖南中医药大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "刘伟"
+    ],
+    "members": [
+      "龚权辉",
+      "任航玮竞",
+      "李超飞"
+    ]
+  },
+  {
+    "id": "B11",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "你说再见面的话 是落叶还是飘雪",
+        "en": "Leave or Flurry"
+      }
+    },
+    "organization": "中南大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "陈再良"
+    ],
+    "members": [
+      "廖洋",
+      "王宇涵",
+      "张卓然"
+    ]
+  },
+  {
+    "id": "B12",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "还在为她患得患失吗",
+        "en": "Are you still worrying about her"
+      }
+    },
+    "organization": "成都信息工程大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "李莉丽"
+    ],
+    "members": [
+      "权雨帆",
+      "张顺军",
+      "杨鹏"
+    ]
+  },
+  {
+    "id": "B13",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "有才的香蕉",
+        "en": "talented banana"
+      }
+    },
+    "organization": "安徽工业大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "王喜凤"
+    ],
+    "members": [
+      "李锐",
+      "周子健",
+      "张敬义"
+    ]
+  },
+  {
+    "id": "B14",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "未命名",
+        "en": "untitled"
+      }
+    },
+    "organization": "华中科技大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "何琨"
+    ],
+    "members": [
+      "何矿",
+      "刘振宇",
+      "刘钊宇"
+    ]
+  },
+  {
+    "id": "B15",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "反正样例全队",
+        "en": "At Least All Samples Passed"
+      }
+    },
+    "organization": "北京理工大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "林永钢"
+    ],
+    "members": [
+      "高一之",
+      "吴宸安",
+      "明远"
+    ]
+  },
+  {
+    "id": "B16",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "区↺凶",
+        "en": "dog flip god"
+      }
+    },
+    "organization": "辽宁科技大学",
+    "group": [
+      "unofficial"
+    ],
+    "coaches": [
+      "张秀梅"
+    ],
+    "members": [
+      "李宣尧",
+      "吴炳熠",
+      "徐佳宁"
+    ]
+  },
+  {
+    "id": "B17",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "SET.部乐俱技竞子电搏滔",
+        "en": "SET.STROPSE POT"
+      }
+    },
+    "organization": "东北师范大学附属中学",
+    "group": [
+      "unofficial"
+    ],
+    "coaches": [
+      "王晓光"
+    ],
+    "members": [
+      "刘瀚博",
+      "许朝博",
+      "王诏平"
+    ]
+  },
+  {
+    "id": "B18",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "AAA罚时批发",
+        "en": "AAA Penalty Wholesale"
+      }
+    },
+    "organization": "北京化工大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "周晓琳",
+      "刘勇"
+    ],
+    "members": [
+      "彭天祺",
+      "江浩",
+      "范力烨"
+    ]
+  },
+  {
+    "id": "B19",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "哈理工202602CC",
+        "en": "HRBUST202602CC"
+      }
+    },
+    "organization": "哈尔滨理工大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "叶飞"
+    ],
+    "members": [
+      "张昊",
+      "周浩宇",
+      "王慈恩"
+    ]
+  },
+  {
+    "id": "B20",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "该消息类型暂不支持查看",
+        "en": "404 not found"
+      }
+    },
+    "organization": "安徽师范大学",
+    "group": [
+      "unofficial"
+    ],
+    "coaches": [
+      "赵诚"
+    ],
+    "members": [
+      "吕金霖",
+      "苏畅",
+      "杨振涛"
+    ]
+  },
+  {
+    "id": "B21",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "蓝毛粉丝群",
+        "en": "Blue Hair Fans' Club"
+      }
+    },
+    "organization": "中国科学技术大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "卢建良"
+    ],
+    "members": [
+      "黄乐逸",
+      "许文昊",
+      "蒋沛阳"
+    ]
+  },
+  {
+    "id": "B22",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "吃不完三菜一汤",
+        "en": "have no blessings"
+      }
+    },
+    "organization": "长春工业大学",
+    "group": [
+      "unofficial"
+    ],
+    "coaches": [
+      "周丽娟"
+    ],
+    "members": [
+      "张英泽",
+      "阿不都卡得尔西热艾力",
+      "周裕淇"
+    ]
+  },
+  {
+    "id": "B23",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "#N/A",
+        "en": "#N/A"
+      }
+    },
+    "organization": "西北工业大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "刘君瑞"
+    ],
+    "members": [
+      "牛马思元",
+      "张天翔",
+      "张贝西彦"
+    ]
+  },
+  {
+    "id": "B24",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "点击领奖J",
+        "en": "Jijiji"
+      }
+    },
+    "organization": "郑州轻工业大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "李晔"
+    ],
+    "members": [
+      "李彤",
+      "吴钰欣",
+      "焦浩洋"
+    ]
+  },
+  {
+    "id": "B25",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "UESTC_博余丁",
+        "en": "UESTC_DJY"
+      }
+    },
+    "organization": "电子科技大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "杨鹏",
+      "吴磊"
+    ],
+    "members": [
+      "余鑫杰",
+      "晋睿博",
+      "丁柏宇"
+    ]
+  },
+  {
+    "id": "B26",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "1+1",
+        "en": "1+1"
+      }
+    },
+    "organization": "中国人民大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "孙辉"
+    ],
+    "members": [
+      "晏艺桓",
+      "房子珈",
+      "孙奕豪"
+    ]
+  },
+  {
+    "id": "B27",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "金色心电图",
+        "en": "ECG: The Chrysos"
+      }
+    },
+    "organization": "吉林大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "吕帅"
+    ],
+    "members": [
+      "张力文",
+      "刘子涵",
+      "才青卓"
+    ]
+  },
+  {
+    "id": "B28",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "SCAU_wolfccbb",
+        "en": "SCAU_wolfccbb"
+      }
+    },
+    "organization": "华南农业大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "祝胜林"
+    ],
+    "members": [
+      "袁熙",
+      "谢易居",
+      "杨景翔"
+    ]
+  },
+  {
+    "id": "C01",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "mex {fe, cu, ag}",
+        "en": "mex{fe,cu,ag}"
+      }
+    },
+    "organization": "华东师范大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "姚银波"
+    ],
+    "members": [
+      "刘俊毅",
+      "严之皓",
+      "申承垚"
+    ]
+  },
+  {
+    "id": "C02",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "卡卡",
+        "en": "AKAK"
+      }
+    },
+    "organization": "吉林大学",
+    "group": [
+      "unofficial"
+    ],
+    "coaches": [
+      "吕帅"
+    ],
+    "members": [
+      "拱垲",
+      "张健哲",
+      "袁英麒"
+    ]
+  },
+  {
+    "id": "C03",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "队长带头玩galgame",
+        "en": "Captain Leads the Route"
+      }
+    },
+    "organization": "东北大学秦皇岛分校",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "王和兴"
+    ],
+    "members": [
+      "高旭",
+      "李瑜",
+      "潘春承"
+    ]
+  },
+  {
+    "id": "C04",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "她会回来吗",
+        "en": "Will she come back"
+      }
+    },
+    "organization": "南阳理工学院",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "陈可",
+      "靳冰"
+    ],
+    "members": [
+      "张方明",
+      "陈龙",
+      "胡汉永"
+    ]
+  },
+  {
+    "id": "C05",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "雾之湖",
+        "en": "Misty Lake"
+      }
+    },
+    "organization": "湖南师范大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "罗迅"
+    ],
+    "members": [
+      "段天琦",
+      "钟啸",
+      "朱雯娜"
+    ]
+  },
+  {
+    "id": "C06",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "2026杭电17队",
+        "en": "2026HDU-T17"
+      }
+    },
+    "organization": "杭州电子科技大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "刘春英"
+    ],
+    "members": [
+      "何卓锟",
+      "黄光升",
+      "王秉杭"
+    ]
+  },
+  {
+    "id": "C07",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "水滴",
+        "en": "Drip"
+      }
+    },
+    "organization": "天津理工大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "张洪豪"
+    ],
+    "members": [
+      "李津涛",
+      "赵浩然",
+      "张荣卿"
+    ]
+  },
+  {
+    "id": "C08",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "你又wa了",
+        "en": "Not Yet Wa"
+      }
+    },
+    "organization": "重庆邮电大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "郑申海"
+    ],
+    "members": [
+      "王磊铭",
+      "叶梓鑫",
+      "聂桐琛"
+    ]
+  },
+  {
+    "id": "C09",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "最后亿舞",
+        "en": "Endless Eve"
+      }
+    },
+    "organization": "山东师范大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "李圣涛"
+    ],
+    "members": [
+      "杜甲玉",
+      "石政坤",
+      "杨静颖"
+    ]
+  },
+  {
+    "id": "C10",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "!?Xterfusion?!",
+        "en": "!?叉特福神?!"
+      }
+    },
+    "organization": "南京大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "马骏"
+    ],
+    "members": [
+      "袁子杰",
+      "王昕博",
+      "王释"
+    ]
+  },
+  {
+    "id": "C11",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "关注永雏塔菲、灰泽满谢谢喵",
+        "en": "FollowTaffyAndHazelThanks"
+      }
+    },
+    "organization": "北华大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "鲁静轩"
+    ],
+    "members": [
+      "朱道阳",
+      "龚浩喆",
+      "赵文浩"
+    ]
+  },
+  {
+    "id": "C12",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "东北大学_螃蟹享用者",
+        "en": "NEU_CrabTaster"
+      }
+    },
+    "organization": "东北大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "王兴伟"
+    ],
+    "members": [
+      "罗子涵",
+      "陈梓轩",
+      "董新畅"
+    ]
+  },
+  {
+    "id": "C13",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "全靠样例过",
+        "en": "Sample Dominance"
+      }
+    },
+    "organization": "中国民航大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "张智"
+    ],
+    "members": [
+      "李彦锐",
+      "王新凯",
+      "高嘉"
+    ]
+  },
+  {
+    "id": "C14",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "服务器繁忙，请稍后再试",
+        "en": "Re：End of a RE"
+      }
+    },
+    "organization": "北京理工大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "林永钢"
+    ],
+    "members": [
+      "陈思齐",
+      "蔡景行",
+      "钟雨霖"
+    ]
+  },
+  {
+    "id": "C15",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "万业有日涅槃无枝",
+        "en": "tomorrow, and tomorrow, and tomorrow"
+      }
+    },
+    "organization": "大连理工大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "梁冰"
+    ],
+    "members": [
+      "张轶哲",
+      "卜方昱",
+      "安逸"
+    ]
+  },
+  {
+    "id": "C16",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "鳄鱼伤人心",
+        "en": "Crocodiles break mouse heart"
+      }
+    },
+    "organization": "上海理工大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "周春樵"
+    ],
+    "members": [
+      "胡术淇",
+      "周正杰",
+      "李健"
+    ]
+  },
+  {
+    "id": "C17",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "支持明日方舟终末地谢谢喵",
+        "en": "Arknight Endfield niubi"
+      }
+    },
+    "organization": "北京航空航天大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "宋友"
+    ],
+    "members": [
+      "邬云恺",
+      "谢容昊",
+      "叶书辰"
+    ]
+  },
+  {
+    "id": "C18",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "观澜",
+        "en": "Tide insight"
+      }
+    },
+    "organization": "上海交通大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "俞勇"
+    ],
+    "members": [
+      "刘子严",
+      "丁墨涵",
+      "刘泽锋"
+    ]
+  },
+  {
+    "id": "C19",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "朝夕之间",
+        "en": "in the span of a day"
+      }
+    },
+    "organization": "东北林业大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "陈宇"
+    ],
+    "members": [
+      "贾雨坤",
+      "周毅",
+      "闫化飞"
+    ]
+  },
+  {
+    "id": "C20",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "睡在机房只为圆梦CCPC",
+        "en": "Stay training room fulfill my CCPC dream"
+      }
+    },
+    "organization": "长江大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "陈中举"
+    ],
+    "members": [
+      "周旭",
+      "余锶埼",
+      "李明轩"
+    ]
+  },
+  {
+    "id": "C21",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "模式识别",
+        "en": "Pattern Recognition"
+      }
+    },
+    "organization": "厦门大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "戴平阳",
+      "林文水"
+    ],
+    "members": [
+      "陈嘉硕",
+      "江彦韬",
+      "胡光明"
+    ]
+  },
+  {
+    "id": "C22",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "华丽收场",
+        "en": "Grand Finale"
+      }
+    },
+    "organization": "华北电力大学（保定）",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "刘军"
+    ],
+    "members": [
+      "朱浩宇",
+      "戴炜轩",
+      "劳若诚"
+    ]
+  },
+  {
+    "id": "C23",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "兰德1队",
+        "en": "Lande team 1"
+      }
+    },
+    "organization": "大庆市兰德学校",
+    "group": [
+      "unofficial"
+    ],
+    "coaches": [
+      "邢大力"
+    ],
+    "members": [
+      "李婉婷",
+      "何谣",
+      "单振恒"
+    ]
+  },
+  {
+    "id": "C24",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "蒟蒻派对",
+        "en": "Newbie Party"
+      }
+    },
+    "organization": "太原理工大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "林福平"
+    ],
+    "members": [
+      "林挺",
+      "樊云哲",
+      "肖溪峪"
+    ]
+  },
+  {
+    "id": "C25",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "因人RE",
+        "en": "Wings of Freedom"
+      }
+    },
+    "organization": "北京印刷学院",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "徐长波"
+    ],
+    "members": [
+      "李嘉乐",
+      "黄沼洋",
+      "陈玉溪"
+    ]
+  },
+  {
+    "id": "C26",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "铁牌也是牌",
+        "en": "iron plz"
+      }
+    },
+    "organization": "北京工业大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "高红雨"
+    ],
+    "members": [
+      "江云天",
+      "冯际鸣",
+      "李俊良"
+    ]
+  },
+  {
+    "id": "C27",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "请输入文本",
+        "en": "add what you like"
+      }
+    },
+    "organization": "天津仁爱学院",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "冉娟"
+    ],
+    "members": [
+      "赵嘉鑫",
+      "闫秋桐",
+      "杨仕凌"
+    ]
+  },
+  {
+    "id": "C28",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "样例过了就是过了",
+        "en": "Sample AC Means AC"
+      }
+    },
+    "organization": "通化师范学院",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "纪洪波",
+      "姜丽"
+    ],
+    "members": [
+      "冯佳瑞",
+      "徐诗琪",
+      "郑皓天"
+    ]
+  },
+  {
+    "id": "D01",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "石中剑",
+        "en": "The Sword on the Stone"
+      }
+    },
+    "organization": "郑州轻工业大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "李晔"
+    ],
+    "members": [
+      "任展麟",
+      "董孟欣",
+      "胡胜杰"
+    ]
+  },
+  {
+    "id": "D02",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "带麟妹妹征战xcpc",
+        "en": "Voyage with Linmei"
+      }
+    },
+    "organization": "北京信息科技大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "史家俊"
+    ],
+    "members": [
+      "曾令涵",
+      "张润禾",
+      "张铠麟"
+    ]
+  },
+  {
+    "id": "D03",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "和光同尘",
+        "en": "Hidden Radiance"
+      }
+    },
+    "organization": "长春工业大学",
+    "group": [
+      "unofficial"
+    ],
+    "coaches": [
+      "王涛"
+    ],
+    "members": [
+      "王子懿",
+      "邱建航",
+      "雷景文"
+    ]
+  },
+  {
+    "id": "D04",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "平头弟",
+        "en": "Mellivora capensis"
+      }
+    },
+    "organization": "哈尔滨德强高级中学",
+    "group": [
+      "unofficial"
+    ],
+    "coaches": [
+      "陈树明"
+    ],
+    "members": [
+      "杨逸伦",
+      "付熙哲",
+      "郑博涵"
+    ]
+  },
+  {
+    "id": "D05",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "炒鸡无敌究极奥义旋风霹雳犬",
+        "en": "Awesome Coding dog"
+      }
+    },
+    "organization": "长春理工大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "李华"
+    ],
+    "members": [
+      "李权澎",
+      "徐新雨",
+      "李佳阳"
+    ]
+  },
+  {
+    "id": "D06",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "良田满穗",
+        "en": "No Hunger"
+      }
+    },
+    "organization": "天津工业大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "任淑霞"
+    ],
+    "members": [
+      "侯仁正",
+      "章若晨",
+      "李翊萌"
+    ]
+  },
+  {
+    "id": "D07",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "马上AC，别叫了",
+        "en": "ACRightNow"
+      }
+    },
+    "organization": "东北电力大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "王敬东",
+      "孟凡奇"
+    ],
+    "members": [
+      "王祚成",
+      "蒋汉山",
+      "马俊博"
+    ]
+  },
+  {
+    "id": "D08",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "哈理工202603CC",
+        "en": "HRBUST202606CC"
+      }
+    },
+    "organization": "哈尔滨理工大学",
+    "group": [
+      "unofficial"
+    ],
+    "coaches": [
+      "唐远新"
+    ],
+    "members": [
+      "张文硕",
+      "刘誉聪",
+      "陈懿韬"
+    ]
+  },
+  {
+    "id": "D09",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "兔头博士不会梦到阿米娅学妹",
+        "en": "lbwnb"
+      }
+    },
+    "organization": "东南大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "倪庆剑"
+    ],
+    "members": [
+      "刘锦涵",
+      "郭欣宇",
+      "陈代祥"
+    ]
+  },
+  {
+    "id": "D10",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "等等，啥？",
+        "en": "Wait What?"
+      }
+    },
+    "organization": "浙江大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "王灿"
+    ],
+    "members": [
+      "柯怀俊",
+      "张厚华",
+      "李宸宇"
+    ]
+  },
+  {
+    "id": "D11",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "呼民院队",
+        "en": "HMZ"
+      }
+    },
+    "organization": "呼和浩特民族学院",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "澈力木格"
+    ],
+    "members": [
+      "焦宝文",
+      "白钰",
+      "李明钰"
+    ]
+  },
+  {
+    "id": "D12",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "队名已被占用",
+        "en": "TeamNameAlreadyTaken"
+      }
+    },
+    "organization": "四川大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "左劼",
+      "陈黎"
+    ],
+    "members": [
+      "梁家旗",
+      "李言熙",
+      "邱铭淇"
+    ]
+  },
+  {
+    "id": "D13",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "铁牌斯派克",
+        "en": "iron spike"
+      }
+    },
+    "organization": "沈阳理工大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "李鹤群"
+    ],
+    "members": [
+      "武金程",
+      "周康武",
+      "闻家尉"
+    ]
+  },
+  {
+    "id": "D14",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "吮指原味鸡",
+        "en": "Finger-Licking Original Chicken"
+      }
+    },
+    "organization": "山东财经大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "孟宪静"
+    ],
+    "members": [
+      "滕原平",
+      "樊宣",
+      "姬毅博"
+    ]
+  },
+  {
+    "id": "D15",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "UESTC_椒盐噪声",
+        "en": "UESTC_PepperNoise"
+      }
+    },
+    "organization": "电子科技大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "杨鹏",
+      "孙剑飞"
+    ],
+    "members": [
+      "曾梓鸣",
+      "周子焜",
+      "和渝彬"
+    ]
+  },
+  {
+    "id": "D16",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "第四章：让伊洛叩荷珀的门，谢谢",
+        "en": "Ch4: Ilot & Hoppe six 24/7, thx"
+      }
+    },
+    "organization": "华南师范大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "陈寅"
+    ],
+    "members": [
+      "陈理元",
+      "江炜健",
+      "肖逸"
+    ]
+  },
+  {
+    "id": "D17",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "sduteam022",
+        "en": "sduteam022"
+      }
+    },
+    "organization": "山东大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "崔学峰"
+    ],
+    "members": [
+      "郭雨欣",
+      "王源鑫",
+      "李忆雯"
+    ]
+  },
+  {
+    "id": "D18",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "哈吉利哟难买绿豆",
+        "en": "Ha geely Yo Nan My Ludo"
+      }
+    },
+    "organization": "吉利学院",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "张静"
+    ],
+    "members": [
+      "周杨",
+      "王超",
+      "甘晓喻"
+    ]
+  },
+  {
+    "id": "D19",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "再想五分钟就队",
+        "en": "Five More Minutes"
+      }
+    },
+    "organization": "北京大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "张勤健",
+      "罗国杰"
+    ],
+    "members": [
+      "邓庭宇",
+      "黄治程",
+      "张语恬"
+    ]
+  },
+  {
+    "id": "D20",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "辽实东师附中联队",
+        "en": "Two_Schools_One_AC"
+      }
+    },
+    "organization": "辽宁省实验中学",
+    "group": [
+      "unofficial"
+    ],
+    "coaches": [
+      "周鹏"
+    ],
+    "members": [
+      "王思霖",
+      "刘双宁",
+      "邵文聪"
+    ]
+  },
+  {
+    "id": "D21",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "导员说加学分就来了",
+        "en": "Came just because the counselor"
+      }
+    },
+    "organization": "琼台师范学院",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "邢琦玮"
+    ],
+    "members": [
+      "詹宇栋",
+      "潘玮强",
+      "黄梓源"
+    ]
+  },
+  {
+    "id": "D22",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "睡眠一队",
+        "en": "sleep01"
+      }
+    },
+    "organization": "中国人民大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "孙辉"
+    ],
+    "members": [
+      "吴致楷",
+      "段宇哲",
+      "邓子越"
+    ]
+  },
+  {
+    "id": "D23",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "逆熵",
+        "en": "Reverse Entropy"
+      }
+    },
+    "organization": "成都信息工程大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "王莉君",
+      "铁菊红"
+    ],
+    "members": [
+      "杨家奎",
+      "冉浩辰",
+      "王梓涵"
+    ]
+  },
+  {
+    "id": "D24",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "不会喵喵的喵不是好喵",
+        "en": "meow"
+      }
+    },
+    "organization": "山东管理学院",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "高雷亭"
+    ],
+    "members": [
+      "刘佳鑫",
+      "康嘉浩",
+      "宋俊航"
+    ]
+  },
+  {
+    "id": "D25",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "想个队名",
+        "en": "thinking a name"
+      }
+    },
+    "organization": "武汉大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "董文永"
+    ],
+    "members": [
+      "黄文婷",
+      "王舒睿",
+      "钟禹恒"
+    ]
+  },
+  {
+    "id": "D26",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "答案正确",
+        "en": "Accept&&CORRECT"
+      }
+    },
+    "organization": "大连民族大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "于艳莉",
+      "赵迪"
+    ],
+    "members": [
+      "杨潇林",
+      "吴鹏",
+      "何元杰"
+    ]
+  },
+  {
+    "id": "D27",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "医学生勇闯XCPC",
+        "en": "Medical Student can AC？"
+      }
+    },
+    "organization": "温州医科大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "舒筱浒",
+      "苏尔敬"
+    ],
+    "members": [
+      "徐昊",
+      "周思阳",
+      "魏于程"
+    ]
+  },
+  {
+    "id": "D28",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "这是一个ACM队",
+        "en": "This is an ACM Team"
+      }
+    },
+    "organization": "西安交通大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "王龙翔"
+    ],
+    "members": [
+      "王奕尧",
+      "张未艾",
+      "陈骏翔"
+    ]
+  },
+  {
+    "id": "E01",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "憧憬成为ACM少女",
+        "en": "I admire ACM girls, and..."
+      }
+    },
+    "organization": "西安电子科技大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "张淑平"
+    ],
+    "members": [
+      "周川旸",
+      "郑冬阳",
+      "卢宇欣"
+    ]
+  },
+  {
+    "id": "E02",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "死锁",
+        "en": "DeadLock"
+      }
+    },
+    "organization": "北京化工大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "周晓琳",
+      "刘勇"
+    ],
+    "members": [
+      "刘卓凡",
+      "张弘弛",
+      "曾福根"
+    ]
+  },
+  {
+    "id": "E03",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "兰德2队",
+        "en": "Lande team 2"
+      }
+    },
+    "organization": "大庆市兰德学校",
+    "group": [
+      "unofficial"
+    ],
+    "coaches": [
+      "邢大力"
+    ],
+    "members": [
+      "何易航",
+      "梁宝岚",
+      "潘禹霖"
+    ]
+  },
+  {
+    "id": "E04",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "默默不语",
+        "en": "Arknights"
+      }
+    },
+    "organization": "琼台师范学院",
+    "group": [
+      "unofficial"
+    ],
+    "coaches": [
+      "邢琦玮"
+    ],
+    "members": [
+      "李宇浩",
+      "邓翔",
+      "范福天"
+    ]
+  },
+  {
+    "id": "E05",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "渔村代表队",
+        "en": "渔村代表队"
+      }
+    },
+    "organization": "北京交通大学威海校区",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "朱伟鑫"
+    ],
+    "members": [
+      "邹承轩",
+      "孟孙繁钰",
+      "林唯宇"
+    ]
+  },
+  {
+    "id": "E06",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "练球湖一队",
+        "en": "lianqiuhu1"
+      }
+    },
+    "organization": "西北工业大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "刘君瑞"
+    ],
+    "members": [
+      "黄知远",
+      "罗隆华",
+      "刘锦奇"
+    ]
+  },
+  {
+    "id": "E07",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "没想好叫什么",
+        "en": "I don’t know"
+      }
+    },
+    "organization": "吉林大学",
+    "group": [
+      "unofficial"
+    ],
+    "coaches": [
+      "吕帅"
+    ],
+    "members": [
+      "郭轩豪",
+      "张哲宇",
+      "王文博"
+    ]
+  },
+  {
+    "id": "E08",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "再wa一发...",
+        "en": "wawawa..."
+      }
+    },
+    "organization": "南阳理工学院",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "陈可",
+      "靳冰"
+    ],
+    "members": [
+      "任吉康",
+      "宋忱宪",
+      "姚涵旭"
+    ]
+  },
+  {
+    "id": "E09",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "空越之鸽",
+        "en": "GDUT_NullPigeon"
+      }
+    },
+    "organization": "广东工业大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "孙宣东"
+    ],
+    "members": [
+      "林子健",
+      "李佳霖",
+      "刘尚贤"
+    ]
+  },
+  {
+    "id": "E10",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "山水树人",
+        "en": "SSSR"
+      }
+    },
+    "organization": "北京林业大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "徐艳艳"
+    ],
+    "members": [
+      "陈嘉轩",
+      "聂纪坤",
+      "黄泽升"
+    ]
+  },
+  {
+    "id": "E11",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "UESTC_抹茶芭菲",
+        "en": "UESTC_MatchaParfait"
+      }
+    },
+    "organization": "电子科技大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "杨鹏",
+      "汪小平"
+    ],
+    "members": [
+      "李鸣宇",
+      "孙博林",
+      "滕鎧泽"
+    ]
+  },
+  {
+    "id": "E12",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "奶龙脚趾剪枝失败",
+        "en": "NailongPruningFailureException"
+      }
+    },
+    "organization": "华东理工大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "罗勇军",
+      "李建华"
+    ],
+    "members": [
+      "马逸凡",
+      "许鸣豪",
+      "张国成"
+    ]
+  },
+  {
+    "id": "E13",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "不想学数学",
+        "en": "I hate math"
+      }
+    },
+    "organization": "南京邮电大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "陈志",
+      "岳文静"
+    ],
+    "members": [
+      "罗正中",
+      "段柯帆",
+      "陈昊泽"
+    ]
+  },
+  {
+    "id": "E14",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "水蓝色黎明",
+        "en": "Aqua Blue Dawn"
+      }
+    },
+    "organization": "哈尔滨工业大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "赵文博"
+    ],
+    "members": [
+      "林家铭",
+      "尹瀚铭",
+      "张城玮"
+    ]
+  },
+  {
+    "id": "E15",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "图南",
+        "en": "Project  South"
+      }
+    },
+    "organization": "中国传媒大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "杨丽芳"
+    ],
+    "members": [
+      "李润淇",
+      "范金旭",
+      "马博浩"
+    ]
+  },
+  {
+    "id": "E16",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "厦大银魔王",
+        "en": "Amoy’s Argent King"
+      }
+    },
+    "organization": "厦门大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "戴平阳",
+      "林文水"
+    ],
+    "members": [
+      "杨晟明",
+      "陈浩泽",
+      "季裕杰"
+    ]
+  },
+  {
+    "id": "E17",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "安卓狗",
+        "en": "AndroiDog"
+      }
+    },
+    "organization": "北京师范大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "徐鹏飞"
+    ],
+    "members": [
+      "罗一粟",
+      "王梓霁",
+      "徐雁洲"
+    ]
+  },
+  {
+    "id": "E18",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "假如像他一样语文 130",
+        "en": "If Chinese 130"
+      }
+    },
+    "organization": "浙江大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "王灿"
+    ],
+    "members": [
+      "毛艺婷",
+      "姜圻圣",
+      "张涵硕"
+    ]
+  },
+  {
+    "id": "E19",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "力拔山兮",
+        "en": "Mountains fall to my unyielding might."
+      }
+    },
+    "organization": "长春工业大学",
+    "group": [
+      "official",
+      "girl"
+    ],
+    "coaches": [
+      "周丽娟"
+    ],
+    "members": [
+      "朱文静",
+      "关利",
+      "张静宜"
+    ]
+  },
+  {
+    "id": "E20",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "中山大学-ucup-team7102",
+        "en": "SYSU_ucup-team7102"
+      }
+    },
+    "organization": "中山大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "张子臻",
+      "林瀚"
+    ],
+    "members": [
+      "廖海涛",
+      "何亮",
+      "陈浩贤"
+    ]
+  },
+  {
+    "id": "E21",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "能过样例直接交",
+        "en": "Submit If Sample Passes"
+      }
+    },
+    "organization": "衡水学院",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "马倩",
+      "张建光"
+    ],
+    "members": [
+      "杨嘉琳",
+      "王南凯",
+      "陈昶潇"
+    ]
+  },
+  {
+    "id": "E22",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "竹叶青",
+        "en": "Trimeresurus"
+      }
+    },
+    "organization": "北京航空航天大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "宋友"
+    ],
+    "members": [
+      "王诚俊",
+      "王迦毅",
+      "周子尧"
+    ]
+  },
+  {
+    "id": "E23",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "铁匠",
+        "en": "Blacksmith"
+      }
+    },
+    "organization": "内蒙古大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "崔波"
+    ],
+    "members": [
+      "许书豪",
+      "姚祥麟",
+      "孔佑鑫"
+    ]
+  },
+  {
+    "id": "E24",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "平头哥",
+        "en": "Honey Badger‌"
+      }
+    },
+    "organization": "哈尔滨德强高级中学",
+    "group": [
+      "unofficial"
+    ],
+    "coaches": [
+      "陈树明"
+    ],
+    "members": [
+      "王汉为",
+      "刘帅潼",
+      "仇鹤然"
+    ]
+  },
+  {
+    "id": "E25",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "营养快线",
+        "en": "Yingyangkuaixian"
+      }
+    },
+    "organization": "长江大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "崔艳荣"
+    ],
+    "members": [
+      "李承讯",
+      "杨宇轩",
+      "徐智强"
+    ]
+  },
+  {
+    "id": "E26",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "细准焦螺旋",
+        "en": "Fine focus knob"
+      }
+    },
+    "organization": "大连交通大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "高放"
+    ],
+    "members": [
+      "丁留安",
+      "郝锦中",
+      "孙子众"
+    ]
+  },
+  {
+    "id": "E27",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "小蛋糕吃芙宁娜",
+        "en": "Team CEF"
+      }
+    },
+    "organization": "厦门大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "戴平阳",
+      "林文水"
+    ],
+    "members": [
+      "曾榆翔",
+      "蔡书灏",
+      "卢梓浩"
+    ]
+  },
+  {
+    "id": "E28",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "忒修斯之船",
+        "en": "Ship of Theseus"
+      }
+    },
+    "organization": "山东工程职业技术大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "许艳春"
+    ],
+    "members": [
+      "朱业康",
+      "王东瑞",
+      "臧泰运"
+    ]
+  },
+  {
+    "id": "F01",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "奶龙耄耋doro合体",
+        "en": "Combination of NaiLong, MaoDie and Doro"
+      }
+    },
+    "organization": "哈尔滨工业大学（深圳）",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "唐琳琳"
+    ],
+    "members": [
+      "樊卓意",
+      "牛志洋",
+      "李杰"
+    ]
+  },
+  {
+    "id": "F02",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "面包",
+        "en": "Bread"
+      }
+    },
+    "organization": "北京交通大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "黄华",
+      "许华婷"
+    ],
+    "members": [
+      "张佳翔",
+      "张鸣起",
+      "武悦"
+    ]
+  },
+  {
+    "id": "F03",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "直到大地变成一颗酸橙",
+        "en": "Till the Lands Become an Orange"
+      }
+    },
+    "organization": "西安交通大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "王龙翔"
+    ],
+    "members": [
+      "王皓文",
+      "潘庭越",
+      "陈实"
+    ]
+  },
+  {
+    "id": "F04",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "哒哒哒哒哒～好想玩原神～云原神！",
+        "en": "I really want to play Cloud Genshin!"
+      }
+    },
+    "organization": "黑龙江大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "徐辉"
+    ],
+    "members": [
+      "刘基淯",
+      "朱赛容",
+      "何恩培"
+    ]
+  },
+  {
+    "id": "F05",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "把天赋带到东海岸",
+        "en": "back to EastCoast"
+      }
+    },
+    "organization": "复旦大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "孙未未"
+    ],
+    "members": [
+      "潘梓睿",
+      "李天呈",
+      "郑杞珩"
+    ]
+  },
+  {
+    "id": "F06",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "樱桃kk",
+        "en": "Cherrykk"
+      }
+    },
+    "organization": "哈尔滨工业大学（深圳）",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "唐琳琳"
+    ],
+    "members": [
+      "黄日升",
+      "陈诚",
+      "朱哲予"
+    ]
+  },
+  {
+    "id": "F07",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "不对不对哦对的对的",
+        "en": "NoNoYesYes"
+      }
+    },
+    "organization": "南京大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "马骏"
+    ],
+    "members": [
+      "胡世远",
+      "宣天宇",
+      "黄嘉扬"
+    ]
+  },
+  {
+    "id": "F08",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Aurora",
+        "en": "Aurora"
+      }
+    },
+    "organization": "河北农业大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "黄建昌"
+    ],
+    "members": [
+      "郑天烁",
+      "刘家睦",
+      "边佳振"
+    ]
+  },
+  {
+    "id": "F09",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "巭孬嫑勥码题",
+        "en": "Captain wants a pretty xnn"
+      }
+    },
+    "organization": "哈尔滨工业大学（威海）",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "董开坤"
+    ],
+    "members": [
+      "杨一桐",
+      "楼国政",
+      "夏奥帅"
+    ]
+  },
+  {
+    "id": "F10",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "故障达不溜故障达不故障达故障故",
+        "en": "defectWdefectdefecdefedefded"
+      }
+    },
+    "organization": "华中师范大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "赵尔敦"
+    ],
+    "members": [
+      "贺向阳",
+      "徐金涛",
+      "王乾骁"
+    ]
+  },
+  {
+    "id": "F11",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "全都不会写 [颂乐人偶_眯眼笑]",
+        "en": "Why playing chunriying [MyGO Meme: Why!]"
+      }
+    },
+    "organization": "南昌大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "张覃思",
+      "刘捷"
+    ],
+    "members": [
+      "贾鑫海",
+      "唐昊梓",
+      "洪轩"
+    ]
+  },
+  {
+    "id": "F12",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "迷途之子",
+        "en": "Lost Soul"
+      }
+    },
+    "organization": "吉林大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "吕帅"
+    ],
+    "members": [
+      "唐德睿",
+      "毛胜超",
+      "石津豪"
+    ]
+  },
+  {
+    "id": "F13",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "包头师范学院ACM一队",
+        "en": "BTTC_ACM_No1"
+      }
+    },
+    "organization": "内蒙古科技大学包头师范学院",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "阿喜达",
+      "陈超"
+    ],
+    "members": [
+      "刘浩德",
+      "于松",
+      "宋嘉韦"
+    ]
+  },
+  {
+    "id": "F14",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "AAAAA嘻嘻嘻嘻嘻劈曦拿不到牌子不嘻嘻CCCCC",
+        "en": "CCPC medal give me xixi"
+      }
+    },
+    "organization": "东北农业大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "李晓明"
+    ],
+    "members": [
+      "张慧祥",
+      "郝孝彬",
+      "张可馨"
+    ]
+  },
+  {
+    "id": "F15",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "直到罚时变成一块铁牌",
+        "en": "Till the penalty become an iron plate"
+      }
+    },
+    "organization": "湖北经济学院",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "周刚"
+    ],
+    "members": [
+      "黄子睿",
+      "杨晨",
+      "陈宵阳"
+    ]
+  },
+  {
+    "id": "F16",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "星光",
+        "en": "GDUT_Starlight"
+      }
+    },
+    "organization": "广东工业大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "孙宣东"
+    ],
+    "members": [
+      "张祖豪",
+      "陈羽轩",
+      "杨博铭"
+    ]
+  },
+  {
+    "id": "F17",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "皮卡丘站起来是皮卡兵",
+        "en": "Pokeman"
+      }
+    },
+    "organization": "吉林大学",
+    "group": [
+      "unofficial"
+    ],
+    "coaches": [
+      "吕帅"
+    ],
+    "members": [
+      "陈思潮",
+      "范俊廷",
+      "谢雨轩"
+    ]
+  },
+  {
+    "id": "F18",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "一点都对",
+        "en": "True at all"
+      }
+    },
+    "organization": "香港科技大学（广州）",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "熊辉"
+    ],
+    "members": [
+      "宋锦儒",
+      "赖宣宇",
+      "郭沣"
+    ]
+  },
+  {
+    "id": "F19",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "境界的彼方",
+        "en": "Beyond the Boundary"
+      }
+    },
+    "organization": "北京理工大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "林永钢"
+    ],
+    "members": [
+      "周塬森",
+      "蒋陈阳松",
+      "王嘉浩"
+    ]
+  },
+  {
+    "id": "F20",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "寻",
+        "en": "Seeking"
+      }
+    },
+    "organization": "宁波大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "陈叶芳"
+    ],
+    "members": [
+      "张星诚",
+      "王浙豪",
+      "胡伟臣"
+    ]
+  },
+  {
+    "id": "F21",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "次元沸腾2.0",
+        "en": "dimension boiling 2.0"
+      }
+    },
+    "organization": "重庆大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "李佳"
+    ],
+    "members": [
+      "陈孙一硕",
+      "包函睿",
+      "韩金东"
+    ]
+  },
+  {
+    "id": "F22",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "东北大学_赛后十分钟能 AK",
+        "en": "NEU_Every Problem So Close"
+      }
+    },
+    "organization": "东北大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "刘小锋"
+    ],
+    "members": [
+      "金佳璐",
+      "吴成远",
+      "齐毓霖"
+    ]
+  },
+  {
+    "id": "F23",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "这是一个队名",
+        "en": "Undefined"
+      }
+    },
+    "organization": "北京工业大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "高红雨"
+    ],
+    "members": [
+      "孙浩祁",
+      "郭耀阳",
+      "黄励文"
+    ]
+  },
+  {
+    "id": "F24",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "中山大学-格式化杀手",
+        "en": "SYSU_formkiller"
+      }
+    },
+    "organization": "中山大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "张子臻",
+      "林瀚"
+    ],
+    "members": [
+      "何杨炀",
+      "毛子弘",
+      "范翔烺"
+    ]
+  },
+  {
+    "id": "F25",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "异律同景",
+        "en": "Polyphonyscape"
+      }
+    },
+    "organization": "东北大学秦皇岛分校",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "王和兴"
+    ],
+    "members": [
+      "岳沛轩",
+      "翟尚硕",
+      "杨宇昊"
+    ]
+  },
+  {
+    "id": "F26",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "奶WA on test 2",
+        "en": "milkfrog wa on test 2"
+      }
+    },
+    "organization": "山东大学（威海）",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "孔晓明"
+    ],
+    "members": [
+      "曾嘉乐",
+      "华靖文",
+      "张佑"
+    ]
+  },
+  {
+    "id": "F27",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "不是清北一队",
+        "en": "BUPkuThu"
+      }
+    },
+    "organization": "北京邮电大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "徐鹏"
+    ],
+    "members": [
+      "许智彬",
+      "杨浩琨",
+      "潘毅恒"
+    ]
+  },
+  {
+    "id": "F28",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "不再曼波-重放一",
+        "en": "Mambo No More - Replay 1"
+      }
+    },
+    "organization": "武汉理工大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "赵冬冬"
+    ],
+    "members": [
+      "周泽鹏",
+      "余子立",
+      "郭一凡"
+    ]
+  },
+  {
+    "id": "G01",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "贪得吴彦组",
+        "en": "Wannabe Daniel Wu"
+      }
+    },
+    "organization": "琼台师范学院",
+    "group": [
+      "unofficial"
+    ],
+    "coaches": [
+      "邢琦玮"
+    ],
+    "members": [
+      "唐娜",
+      "宋诗涵",
+      "蒋皖湘"
+    ]
+  },
+  {
+    "id": "G02",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "非遗传承人",
+        "en": "Non-genetic heir"
+      }
+    },
+    "organization": "东北林业大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "陈宇"
+    ],
+    "members": [
+      "李明军",
+      "范硕凯",
+      "赵威翰"
+    ]
+  },
+  {
+    "id": "G03",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "掉进兔子洞",
+        "en": "Downs with AlgoRhythm"
+      }
+    },
+    "organization": "南京大学",
+    "group": [
+      "unofficial"
+    ],
+    "coaches": [
+      "马骏"
+    ],
+    "members": [
+      "王鹏超",
+      "黄哲轩",
+      "李林"
+    ]
+  },
+  {
+    "id": "G04",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "灰原哀说的都队",
+        "en": "Haibara Ai is Correct"
+      }
+    },
+    "organization": "安徽师范大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "赵诚"
+    ],
+    "members": [
+      "许居尚",
+      "高翔",
+      "火天宝"
+    ]
+  },
+  {
+    "id": "G05",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "羽歌",
+        "en": "Sing, on our wings."
+      }
+    },
+    "organization": "东北大学秦皇岛分校",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "王和兴"
+    ],
+    "members": [
+      "李昌岳",
+      "杨开元",
+      "陈奕晨"
+    ]
+  },
+  {
+    "id": "G06",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "我需要力量，更强的力量",
+        "en": "power，more and more power"
+      }
+    },
+    "organization": "中国民航大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "范龙飞"
+    ],
+    "members": [
+      "吴栩睿",
+      "闵安迪",
+      "王璟鸿"
+    ]
+  },
+  {
+    "id": "G07",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "UESTC_启发式思考",
+        "en": "UESTC_Heuristic_Thinking"
+      }
+    },
+    "organization": "电子科技大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "杨鹏",
+      "孙剑飞"
+    ],
+    "members": [
+      "田路恩",
+      "张仁浩",
+      "栾佳硕"
+    ]
+  },
+  {
+    "id": "G08",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "终焉の暴君",
+        "en": "Tyrant of the End"
+      }
+    },
+    "organization": "郑州大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "吴云鹏"
+    ],
+    "members": [
+      "卓锦威",
+      "宁孜涵",
+      "杜霖"
+    ]
+  },
+  {
+    "id": "G09",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "前有绝景",
+        "en": "The Rolling Vistas"
+      }
+    },
+    "organization": "吉林大学",
+    "group": [
+      "unofficial"
+    ],
+    "coaches": [
+      "吕帅"
+    ],
+    "members": [
+      "申名扬",
+      "张海鹏",
+      "谭皓仁"
+    ]
+  },
+  {
+    "id": "G10",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "好牌多抓",
+        "en": "Good cards? Grab more."
+      }
+    },
+    "organization": "北京师范大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "徐鹏飞"
+    ],
+    "members": [
+      "黄梓杰",
+      "陈尧森",
+      "季涛"
+    ]
+  },
+  {
+    "id": "G11",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "原原的神人",
+        "en": "Genshin Impact Overdose"
+      }
+    },
+    "organization": "厦门大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "戴平阳"
+    ],
+    "members": [
+      "谢舜天",
+      "戴思杰",
+      "甘君阳"
+    ]
+  },
+  {
+    "id": "G12",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "兰德3队",
+        "en": "Lande team 3"
+      }
+    },
+    "organization": "大庆市兰德学校",
+    "group": [
+      "unofficial"
+    ],
+    "coaches": [
+      "邢大力"
+    ],
+    "members": [
+      "吴栎洋",
+      "姜知礼",
+      "刘禹麟"
+    ]
+  },
+  {
+    "id": "G13",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "老当益壮",
+        "en": "aging but strong"
+      }
+    },
+    "organization": "西湖大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "应一阳"
+    ],
+    "members": [
+      "楼鑫浩",
+      "叶欣仪",
+      "江易娴"
+    ]
+  },
+  {
+    "id": "G14",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "96choke",
+        "en": "96choke"
+      }
+    },
+    "organization": "北京建筑大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "钱丽萍"
+    ],
+    "members": [
+      "朱智睿",
+      "张禾",
+      "谷子恒"
+    ]
+  },
+  {
+    "id": "G15",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "征集雷霆队名",
+        "en": "welcome24ever"
+      }
+    },
+    "organization": "哈尔滨师范大学附属中学",
+    "group": [
+      "unofficial"
+    ],
+    "coaches": [
+      "于纪明"
+    ],
+    "members": [
+      "刘勇佚",
+      "尹鑫霖",
+      "宋宣泽"
+    ]
+  },
+  {
+    "id": "G16",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "2026杭电1队",
+        "en": "2026HDU-T01"
+      }
+    },
+    "organization": "杭州电子科技大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "刘春英"
+    ],
+    "members": [
+      "杨钧昊",
+      "蔡睿诚",
+      "徐中天"
+    ]
+  },
+  {
+    "id": "G17",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "霓裳？哼！定叫他有来无回",
+        "en": "go go go cust !"
+      }
+    },
+    "organization": "长春理工大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "王睿"
+    ],
+    "members": [
+      "满统勋",
+      "何宇航",
+      "刘晋源"
+    ]
+  },
+  {
+    "id": "G18",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "爱吃麦旋风",
+        "en": "love eating McFlurry"
+      }
+    },
+    "organization": "华南理工大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "冼楚华"
+    ],
+    "members": [
+      "陈浩宇",
+      "姚嘉晟",
+      "陈弘毅"
+    ]
+  },
+  {
+    "id": "G19",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "栈中星河",
+        "en": "Galaxy in the stack"
+      }
+    },
+    "organization": "武汉大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "董文永"
+    ],
+    "members": [
+      "张宇华",
+      "骆贝尔",
+      "崔啸"
+    ]
+  },
+  {
+    "id": "G20",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "一发AC喵！一发AC谢谢喵！",
+        "en": "one shot"
+      }
+    },
+    "organization": "华东理工大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "罗勇军",
+      "王占全"
+    ],
+    "members": [
+      "骆爽",
+      "顾嘉伟",
+      "汪博澍"
+    ]
+  },
+  {
+    "id": "G21",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "罚时畅吃",
+        "en": "Enjoy WA"
+      }
+    },
+    "organization": "曲阜师范大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "黄万丽",
+      "闫超"
+    ],
+    "members": [
+      "嵇永彬",
+      "丁海峰",
+      "汪天赐"
+    ]
+  },
+  {
+    "id": "G22",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "这个可以，别这么说",
+        "en": "Ok，not say that"
+      }
+    },
+    "organization": "华中科技大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "何琨"
+    ],
+    "members": [
+      "刘嘉恒",
+      "刘铖",
+      "黄暄骜"
+    ]
+  },
+  {
+    "id": "G23",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "中午吃什么",
+        "en": "What’s for Lunch?"
+      }
+    },
+    "organization": "中南大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "陈再良"
+    ],
+    "members": [
+      "文启智",
+      "徐彦炜",
+      "李昱辰"
+    ]
+  },
+  {
+    "id": "G24",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "菜鸡勿虐",
+        "en": "The weak"
+      }
+    },
+    "organization": "山东大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "鹿旭东"
+    ],
+    "members": [
+      "李贤君",
+      "杨师玉",
+      "崔钰霖"
+    ]
+  },
+  {
+    "id": "G25",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "山里10086队",
+        "en": "O1dreamers"
+      }
+    },
+    "organization": "山东理工大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "张艳华"
+    ],
+    "members": [
+      "孙文桓",
+      "王一博",
+      "何洪哲"
+    ]
+  },
+  {
+    "id": "G26",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "杉淼",
+        "en": "Silvawave"
+      }
+    },
+    "organization": "华东师范大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "姚银波"
+    ],
+    "members": [
+      "宗乃一",
+      "潘延霖",
+      "俞啸海"
+    ]
+  },
+  {
+    "id": "G27",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "时代码戏团",
+        "en": "CFBOYS"
+      }
+    },
+    "organization": "吉林大学",
+    "group": [
+      "unofficial"
+    ],
+    "coaches": [
+      "吕帅"
+    ],
+    "members": [
+      "鞠学深",
+      "李雨隆",
+      "刘勋"
+    ]
+  },
+  {
+    "id": "G28",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "愿戴荣光坠入天渊"
+      }
+    },
+    "organization": "厦门理工学院",
+    "group": [
+      "official",
+      "girl"
+    ],
+    "coaches": [
+      "谢彦麒"
+    ],
+    "members": [
+      "康宇",
+      "郑炜钦",
+      "徐宁远"
+    ]
+  },
+  {
+    "id": "H01",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "我也要AC吗",
+        "en": "Me?AC?"
+      }
+    },
+    "organization": "吉林大学",
+    "group": [
+      "unofficial"
+    ],
+    "coaches": [
+      "吕帅"
+    ],
+    "members": [
+      "蒋昊晨",
+      "许语涵",
+      "王铎霖"
+    ]
+  },
+  {
+    "id": "H02",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "星灵追光者",
+        "en": "Starlight Seekers"
+      }
+    },
+    "organization": "西安电子科技大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "张淑平"
+    ],
+    "members": [
+      "陈俊睿",
+      "冯子诚",
+      "李鑫皓"
+    ]
+  },
+  {
+    "id": "H03",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "竹叶雨",
+        "en": "Bamboo Rain"
+      }
+    },
+    "organization": "成都信息工程大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "李蕊",
+      "金瑾"
+    ],
+    "members": [
+      "黄中鼎",
+      "叶忠杰",
+      "胡浩宇"
+    ]
+  },
+  {
+    "id": "H04",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "惡·即·斬",
+        "en": "Evil Must Fail"
+      }
+    },
+    "organization": "福州大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "傅仰耿"
+    ],
+    "members": [
+      "陈建涛",
+      "程棋晖",
+      "陈宇"
+    ]
+  },
+  {
+    "id": "H05",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "异等小队",
+        "en": "The Bad Batch"
+      }
+    },
+    "organization": "北京邮电大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "徐鹏"
+    ],
+    "members": [
+      "张嘉麒",
+      "王天宇",
+      "林锐思"
+    ]
+  },
+  {
+    "id": "H06",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "捧腹大笑奶龙",
+        "en": "Three Milk Dragons"
+      }
+    },
+    "organization": "东北农业大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "李晓明"
+    ],
+    "members": [
+      "金迪",
+      "宋秉轩",
+      "祝宏睿"
+    ]
+  },
+  {
+    "id": "H07",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "新建文件夹",
+        "en": "default"
+      }
+    },
+    "organization": "辽宁工程技术大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "孟祥福"
+    ],
+    "members": [
+      "宁德瑞",
+      "徐瑞东",
+      "唐奕涵"
+    ]
+  },
+  {
+    "id": "H08",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "请输入文本",
+        "en": "pleaseentertext"
+      }
+    },
+    "organization": "大连海事大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "曹志英"
+    ],
+    "members": [
+      "刘震",
+      "戈晟年",
+      "何文韬"
+    ]
+  },
+  {
+    "id": "H09",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "我不是魔丸",
+        "en": "I'm not the Magic Pill"
+      }
+    },
+    "organization": "北华大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "曹洪宇"
+    ],
+    "members": [
+      "杨锦辉",
+      "单诏军",
+      "李金圣"
+    ]
+  },
+  {
+    "id": "H10",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "我永远喜欢Chtholly",
+        "en": "I will always love Chtholly"
+      }
+    },
+    "organization": "安徽理工大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "蒋社想"
+    ],
+    "members": [
+      "厉东霖",
+      "徐歌",
+      "林逸晖"
+    ]
+  },
+  {
+    "id": "H11",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "未掘宝石",
+        "en": "Hidden Gem"
+      }
+    },
+    "organization": "长春工业大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "肖巍"
+    ],
+    "members": [
+      "吴贻炫",
+      "叶俊捷",
+      "王昱显"
+    ]
+  },
+  {
+    "id": "H12",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "被孤立的退役老哥和前途无量的学弟学妹",
+        "en": "AFOer and two Auers"
+      }
+    },
+    "organization": "东北师范大学附属中学",
+    "group": [
+      "unofficial"
+    ],
+    "coaches": [
+      "王晓光"
+    ],
+    "members": [
+      "高乃严",
+      "唐诗晴",
+      "宋梓剑"
+    ]
+  },
+  {
+    "id": "H13",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "无敌暴龙战士",
+        "en": "Invictus Rex"
+      }
+    },
+    "organization": "内蒙古财经大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "吴布和",
+      "张新伟"
+    ],
+    "members": [
+      "何振林",
+      "赵佳璐",
+      "韩家兴"
+    ]
+  },
+  {
+    "id": "H14",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Name==NULL",
+        "en": "Name==NULL"
+      }
+    },
+    "organization": "南开大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "刘晓光"
+    ],
+    "members": [
+      "孔文昊",
+      "刘洋",
+      "于沛铎"
+    ]
+  },
+  {
+    "id": "H15",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "奇异之显现",
+        "en": "DEINOS PHAINEIN"
+      }
+    },
+    "organization": "华北电力大学（保定）",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "刘军",
+      "崔克彬"
+    ],
+    "members": [
+      "李梦圆",
+      "孙耘坤",
+      "田学静"
+    ]
+  },
+  {
+    "id": "H16",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "为什么要演奏#include",
+        "en": "Why play #include"
+      }
+    },
+    "organization": "东南大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "倪庆剑"
+    ],
+    "members": [
+      "闵思齐",
+      "曹敦行",
+      "侯烨"
+    ]
+  },
+  {
+    "id": "H17",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "水镜",
+        "en": "AquaMirror"
+      }
+    },
+    "organization": "上海交通大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "俞勇"
+    ],
+    "members": [
+      "王泽语",
+      "刘彧辰",
+      "王舟扬"
+    ]
+  },
+  {
+    "id": "H18",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "正在启动",
+        "en": "Now Starting"
+      }
+    },
+    "organization": "长春工业大学",
+    "group": [
+      "unofficial"
+    ],
+    "coaches": [
+      "潘超"
+    ],
+    "members": [
+      "何永恒",
+      "苏星雨",
+      "蒋卓君"
+    ]
+  },
+  {
+    "id": "H19",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "两岸AC啼不住，代码已过WA重山",
+        "en": "Past WA Hills To AC"
+      }
+    },
+    "organization": "中国科学技术大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "卢建良"
+    ],
+    "members": [
+      "郑鹤铭",
+      "谭竣铭",
+      "聂亦轩"
+    ]
+  },
+  {
+    "id": "H20",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "全交给运气了",
+        "en": "All or nothing"
+      }
+    },
+    "organization": "哈尔滨工业大学（威海）",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "董开坤"
+    ],
+    "members": [
+      "陈超",
+      "王瀚正",
+      "姚明昊"
+    ]
+  },
+  {
+    "id": "H21",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "WRD",
+        "en": "WRD"
+      }
+    },
+    "organization": "中原工学院",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "刘安战"
+    ],
+    "members": [
+      "李梦阳",
+      "杨仕尧",
+      "丁凯"
+    ]
+  },
+  {
+    "id": "H22",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "我们就是奇迹",
+        "en": "MRCWINNER"
+      }
+    },
+    "organization": "南昌大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "王卓",
+      "饶泓"
+    ],
+    "members": [
+      "谢佳宏",
+      "陈宏嘉",
+      "王江柠"
+    ]
+  },
+  {
+    "id": "H23",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "没想法",
+        "en": "no idea"
+      }
+    },
+    "organization": "南京航空航天大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "邹春然"
+    ],
+    "members": [
+      "汪润泽",
+      "张润州",
+      "李芃辉"
+    ]
+  },
+  {
+    "id": "H24",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "肆零捌",
+        "en": "408"
+      }
+    },
+    "organization": "南京大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "马骏"
+    ],
+    "members": [
+      "黄亮",
+      "叶昱圻",
+      "刘玉琢"
+    ]
+  },
+  {
+    "id": "H25",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "浅秋",
+        "en": "Faint Autumn"
+      }
+    },
+    "organization": "集美大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "贺冰琰"
+    ],
+    "members": [
+      "陈华弘",
+      "林卓毅",
+      "高诗铸"
+    ]
+  },
+  {
+    "id": "H26",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "哈理工202605CC",
+        "en": "HRBUST202605CC"
+      }
+    },
+    "organization": "哈尔滨理工大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "唐远新"
+    ],
+    "members": [
+      "梁震宇",
+      "乔星翰",
+      "王文奇"
+    ]
+  },
+  {
+    "id": "H27",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "零罚时",
+        "en": "rush to the apex"
+      }
+    },
+    "organization": "湖南农业大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "刁洪祥",
+      "张姣"
+    ],
+    "members": [
+      "李恩泽",
+      "邓从权",
+      "黄恩豪"
+    ]
+  },
+  {
+    "id": "H28",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "灰色轨迹",
+        "en": "Grey Path to Victory"
+      }
+    },
+    "organization": "河南大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "王震"
+    ],
+    "members": [
+      "胡靖铭",
+      "张帆",
+      "田沈聪"
+    ]
+  },
+  {
+    "id": "I01",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "老年人观光旅游团",
+        "en": "Cache Miss Grandpas"
+      }
+    },
+    "organization": "广州大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "丘凯伦",
+      "赵睿"
+    ],
+    "members": [
+      "郑灵杰",
+      "潘胜云",
+      "吴梓涵"
+    ]
+  },
+  {
+    "id": "I02",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "n%3==1",
+        "en": "n%3==1"
+      }
+    },
+    "organization": "北京科技大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "寇明阳"
+    ],
+    "members": [
+      "郑乔日",
+      "许家宁",
+      "蔡石铸"
+    ]
+  },
+  {
+    "id": "I03",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "你一句别送我就敢往前冲",
+        "en": "Lets Gooo"
+      }
+    },
+    "organization": "南开大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "刘晓光"
+    ],
+    "members": [
+      "郭鑫源",
+      "金继烨",
+      "陈彦兴"
+    ]
+  },
+  {
+    "id": "I04",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "宗门无筑基，练气扛大旗",
+        "en": "Qi Refining Carries the Banner"
+      }
+    },
+    "organization": "天津商业大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "杨娜"
+    ],
+    "members": [
+      "魏泽鸣",
+      "肖卫东",
+      "李洳帆"
+    ]
+  },
+  {
+    "id": "I05",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "镇北皇",
+        "en": "Zhenbei Emperor"
+      }
+    },
+    "organization": "河北师范大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "张培欣",
+      "王烨"
+    ],
+    "members": [
+      "王浚铭",
+      "李武",
+      "贺雪杭"
+    ]
+  },
+  {
+    "id": "I06",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "且望川行",
+        "en": "Watching the River Go By"
+      }
+    },
+    "organization": "四川大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "左劼",
+      "陈黎"
+    ],
+    "members": [
+      "刘致远",
+      "李嘉航",
+      "曾彦博"
+    ]
+  },
+  {
+    "id": "I07",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "超影凤凰蛋",
+        "en": "The king of the Naruto and Eggy Party"
+      }
+    },
+    "organization": "临沂大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "丁林花",
+      "薛琳"
+    ],
+    "members": [
+      "张保阔",
+      "宫子涵",
+      "宋承洋"
+    ]
+  },
+  {
+    "id": "I08",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "2026杭电3队",
+        "en": "2026HDU-T03"
+      }
+    },
+    "organization": "杭州电子科技大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "刘春英"
+    ],
+    "members": [
+      "张景杰",
+      "王彬",
+      "方凯新"
+    ]
+  },
+  {
+    "id": "I09",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "王不留行",
+        "en": "The king does not stay"
+      }
+    },
+    "organization": "福州工商学院",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "谢其钦",
+      "高美春"
+    ],
+    "members": [
+      "余延鳐",
+      "廖武东",
+      "詹钤正"
+    ]
+  },
+  {
+    "id": "I10",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "SUAT曙光231",
+        "en": "SUAT Dawning 231"
+      }
+    },
+    "organization": "深圳理工大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "李朝",
+      "韩瑞泽"
+    ],
+    "members": [
+      "杜文骞",
+      "李昊伦",
+      "杨宇宸"
+    ]
+  },
+  {
+    "id": "I1000",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "SUAT曙光231",
+        "en": "SUAT Dawning 231"
+      }
+    },
+    "organization": "深圳理工大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "李朝",
+      "韩瑞泽"
+    ],
+    "members": [
+      "杜文骞",
+      "李昊伦",
+      "杨宇宸"
+    ]
+  },
+  {
+    "id": "I11",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "种瓜得瓜 种豆得豆",
+        "en": "Reap Little Whale"
+      }
+    },
+    "organization": "武汉大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "董文永"
+    ],
+    "members": [
+      "张芷陌",
+      "许琬儿",
+      "康宇晴"
+    ]
+  },
+  {
+    "id": "I12",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "兰树号",
+        "en": "SKD 1837"
+      }
+    },
+    "organization": "山东科技大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "吴振寰"
+    ],
+    "members": [
+      "王世奇",
+      "陈家祺",
+      "周景然"
+    ]
+  },
+  {
+    "id": "I13",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "码上飞升",
+        "en": "CodeAscend"
+      }
+    },
+    "organization": "北京语言大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "杨麟儿",
+      "项若曦"
+    ],
+    "members": [
+      "王震逍",
+      "孙浩语",
+      "刘鹏辉"
+    ]
+  },
+  {
+    "id": "I14",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "棋仙钟珍",
+        "en": "Chess Legend - Zhong Zhen"
+      }
+    },
+    "organization": "中国矿业大学（北京）",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "周法国"
+    ],
+    "members": [
+      "崔文水",
+      "吴瑞阳",
+      "周发顺"
+    ]
+  },
+  {
+    "id": "I15",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "东北大学_碳基余晖",
+        "en": "NEU_CarbonAfterglow"
+      }
+    },
+    "organization": "东北大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "刘小锋"
+    ],
+    "members": [
+      "苏焜",
+      "谢天石",
+      "张佳栋"
+    ]
+  },
+  {
+    "id": "I16",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "主席树好难",
+        "en": "Yuan_tweet"
+      }
+    },
+    "organization": "东华理工大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "余小军"
+    ],
+    "members": [
+      "罗竣潇",
+      "邓佳豪",
+      "付星宽"
+    ]
+  },
+  {
+    "id": "I17",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "猪联璧合",
+        "en": "PiGather"
+      }
+    },
+    "organization": "佛山大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "闫凯"
+    ],
+    "members": [
+      "洪凯泰",
+      "冯嘉华",
+      "张家盛"
+    ]
+  },
+  {
+    "id": "I18",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "拒做铁仔",
+        "en": "No More Iron"
+      }
+    },
+    "organization": "吉林外国语大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "陈竟博",
+      "姚成"
+    ],
+    "members": [
+      "李浩正",
+      "周新盛",
+      "姚姗姗"
+    ]
+  },
+  {
+    "id": "I19",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "又到了白色相簿的季节",
+        "en": "Once Again the White Album"
+      }
+    },
+    "organization": "哈尔滨工业大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "赵文博"
+    ],
+    "members": [
+      "秦浩森",
+      "郭佳明",
+      "张蕴豪"
+    ]
+  },
+  {
+    "id": "I20",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "喵喵大王",
+        "en": "His Meowjesty"
+      }
+    },
+    "organization": "河北工程大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "杜瑞庆",
+      "徐亮"
+    ],
+    "members": [
+      "郭圳涛",
+      "王宇乐",
+      "张心洋"
+    ]
+  },
+  {
+    "id": "I21",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "下次热身赛一定准时",
+        "en": "skip warm-up this time"
+      }
+    },
+    "organization": "中国科学院大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "刘慧"
+    ],
+    "members": [
+      "马宇骏",
+      "蔡钟渔",
+      "邱宇峰"
+    ]
+  },
+  {
+    "id": "I22",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "北京西站南广场东",
+        "en": "BJ West Station SE"
+      }
+    },
+    "organization": "内蒙古师范大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "孟繁军",
+      "徐行健"
+    ],
+    "members": [
+      "乔家博",
+      "张松涛",
+      "杨博岩"
+    ]
+  },
+  {
+    "id": "I23",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "风行",
+        "en": "wind go"
+      }
+    },
+    "organization": "沈阳化工大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "王雅娜"
+    ],
+    "members": [
+      "孟闯",
+      "杨鹏瑞",
+      "田佳帅"
+    ]
+  },
+  {
+    "id": "I24",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "天青色等烟雨",
+        "en": "I am waiting for you"
+      }
+    },
+    "organization": "河北科技师范学院",
+    "group": [
+      "unofficial"
+    ],
+    "coaches": [
+      "刘佳"
+    ],
+    "members": [
+      "张晓泉",
+      "庄博淳",
+      "纪金汐"
+    ]
+  },
+  {
+    "id": "I25",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "键码三洲六府",
+        "en": "This moment"
+      }
+    },
+    "organization": "天津科技大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "张传雷"
+    ],
+    "members": [
+      "韩高臻",
+      "贺江阳",
+      "朱世乐"
+    ]
+  },
+  {
+    "id": "I26",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "当心队友",
+        "en": "Beware of Teammates"
+      }
+    },
+    "organization": "浙江师范大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "韩建民",
+      "邱晟"
+    ],
+    "members": [
+      "杨琳",
+      "沈睿",
+      "詹远哲"
+    ]
+  },
+  {
+    "id": "I27",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "哗啦啦打罢了三通鼓",
+        "en": "Three Rolls of Drums"
+      }
+    },
+    "organization": "湘潭大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "谢勇"
+    ],
+    "members": [
+      "谢东骏",
+      "吴凡雨",
+      "刘璟轩"
+    ]
+  },
+  {
+    "id": "I28",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "人闲桂花落",
+        "en": "The laurel blooms fall"
+      }
+    },
+    "organization": "山东农业大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "范昊"
+    ],
+    "members": [
+      "陈文达",
+      "于明哲",
+      "韩子阳"
+    ]
+  },
+  {
+    "id": "J01",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "*但是，它拒绝了",
+        "en": "Battle Against A True Hero"
+      }
+    },
+    "organization": "广东海洋大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "张莹"
+    ],
+    "members": [
+      "周嘉琪",
+      "冯崇凯",
+      "李亚航"
+    ]
+  },
+  {
+    "id": "J02",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "骑马来coding",
+        "en": "ride coding"
+      }
+    },
+    "organization": "内蒙古农业大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "左东石"
+    ],
+    "members": [
+      "郑煊",
+      "何新",
+      "李超"
+    ]
+  },
+  {
+    "id": "J03",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "至亮之焰+",
+        "en": "Brightest Flame+"
+      }
+    },
+    "organization": "浙江大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "王灿"
+    ],
+    "members": [
+      "徐锐扬",
+      "朱天煜",
+      "陈铭凯"
+    ]
+  },
+  {
+    "id": "J04",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "这次一定要提现",
+        "en": "Last Dance"
+      }
+    },
+    "organization": "广东工业大学揭阳校区",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "李泓澍"
+    ],
+    "members": [
+      "陈智谦",
+      "黄以齐",
+      "贺恩桐"
+    ]
+  },
+  {
+    "id": "J05",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "我的天呐必有一罚大人",
+        "en": "OMG,Mr.Penalty"
+      }
+    },
+    "organization": "中央财经大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "陈志新"
+    ],
+    "members": [
+      "李思桐",
+      "罗嘉洋",
+      "杨舒岩"
+    ]
+  },
+  {
+    "id": "J06",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "广东正宗东北面馆嘎嘎香",
+        "en": "GD Authentic DB Noodles Gagaxiang"
+      }
+    },
+    "organization": "嘉应学院",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "陈广明",
+      "陈生庆"
+    ],
+    "members": [
+      "吴烨昊",
+      "郑景升",
+      "廖世毅"
+    ]
+  },
+  {
+    "id": "J07",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "网瘾战队",
+        "en": "Internet addiction"
+      }
+    },
+    "organization": "南昌职业大学",
+    "group": [
+      "unofficial"
+    ],
+    "coaches": [
+      "迟呈英",
+      "战学刚"
+    ],
+    "members": [
+      "江志辉",
+      "赵泽熙",
+      "肖展斌"
+    ]
+  },
+  {
+    "id": "J08",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "这么六",
+        "en": "0x6"
+      }
+    },
+    "organization": "大连理工大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "梁冰"
+    ],
+    "members": [
+      "毛祥宇",
+      "钟剑辉",
+      "刘炜"
+    ]
+  },
+  {
+    "id": "J09",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "我讨厌你",
+        "en": "i hate U"
+      }
+    },
+    "organization": "江苏大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "潘雨青"
+    ],
+    "members": [
+      "张道正",
+      "薛志康",
+      "庞政"
+    ]
+  },
+  {
+    "id": "J10",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "注意到不难发现",
+        "en": "It is observed that"
+      }
+    },
+    "organization": "北京大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "张勤健",
+      "罗国杰"
+    ],
+    "members": [
+      "刘洋",
+      "聂于涵",
+      "罗锐"
+    ]
+  },
+  {
+    "id": "J11",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "主播我第一次打ccpc能不能赏我块牌啊",
+        "en": "plz plz plz  !!!"
+      }
+    },
+    "organization": "海南大学",
+    "group": [
+      "unofficial"
+    ],
+    "coaches": [
+      "黎才茂"
+    ],
+    "members": [
+      "陈皓月",
+      "赵博"
+    ]
+  },
+  {
+    "id": "J12",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "新纪元",
+        "en": "NEW ERA"
+      }
+    },
+    "organization": "江西理工大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "管希东"
+    ],
+    "members": [
+      "喻文建",
+      "黄伟宸",
+      "吴吕明"
+    ]
+  },
+  {
+    "id": "J13",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "我根本不会算法,我只会乱按键盘",
+        "en": "I know no algorithms,I just mash keys"
+      }
+    },
+    "organization": "延边大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "王金祥"
+    ],
+    "members": [
+      "陈子谦",
+      "成子鸣",
+      "邹田惠雨"
+    ]
+  },
+  {
+    "id": "J14",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "格温的收集者",
+        "en": "Gwen's Collector"
+      }
+    },
+    "organization": "复旦大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "孙未未"
+    ],
+    "members": [
+      "姚奕",
+      "雷宇轩",
+      "沈福麟"
+    ]
+  },
+  {
+    "id": "J15",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "randomseed42",
+        "en": "randomseed42"
+      }
+    },
+    "organization": "湖南大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "吴昊"
+    ],
+    "members": [
+      "高玉柱",
+      "陈砚行",
+      "宋浩然"
+    ]
+  },
+  {
+    "id": "J16",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "瓦库很会打A",
+        "en": "wakuku"
+      }
+    },
+    "organization": "长春理工大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "张宇昕"
+    ],
+    "members": [
+      "李佳豪",
+      "莫宇翔",
+      "胡洋"
+    ]
+  },
+  {
+    "id": "J17",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "零度相位",
+        "en": "zero phase"
+      }
+    },
+    "organization": "河南农业大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "尚俊平"
+    ],
+    "members": [
+      "沈子焱",
+      "朱逸菲",
+      "杨光"
+    ]
+  },
+  {
+    "id": "J18",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "有点幸运",
+        "en": "A little lucky"
+      }
+    },
+    "organization": "嘉兴大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "张素兰",
+      "陈滨"
+    ],
+    "members": [
+      "林渊涵",
+      "徐诚翰",
+      "骆方彦"
+    ]
+  },
+  {
+    "id": "J19",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "永远别放弃",
+        "en": "nevergonnagiveyouup"
+      }
+    },
+    "organization": "北京邮电大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "徐鹏"
+    ],
+    "members": [
+      "王义轩",
+      "刘芯羽",
+      "杨鑫"
+    ]
+  },
+  {
+    "id": "J20",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "绝望的区",
+        "en": "a writhing maggot of despair"
+      }
+    },
+    "organization": "江南大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "蒋敏"
+    ],
+    "members": [
+      "刘珺哲",
+      "钱逸晗",
+      "徐兢"
+    ]
+  },
+  {
+    "id": "J21",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "你在冷落我，又在捂热谁",
+        "en": "Divideetimpera！"
+      }
+    },
+    "organization": "福州大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "傅仰耿"
+    ],
+    "members": [
+      "曾铭坤",
+      "颜荣琛",
+      "吴一凡"
+    ]
+  },
+  {
+    "id": "J22",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "凸包排序",
+        "en": "ToBaoziiSort"
+      }
+    },
+    "organization": "福建农林大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "刘必雄"
+    ],
+    "members": [
+      "陈峰玮",
+      "陈江凯",
+      "张永凯"
+    ]
+  },
+  {
+    "id": "J23",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "超级奶牛力量",
+        "en": "Super Cow Power"
+      }
+    },
+    "organization": "浙江理工大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "叶海荣"
+    ],
+    "members": [
+      "贺哲雷",
+      "查徐恒",
+      "傅鸿圣"
+    ]
+  },
+  {
+    "id": "J24",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "donqless",
+        "en": "donqless"
+      }
+    },
+    "organization": "西南交通大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "喻琇瑛"
+    ],
+    "members": [
+      "顾兴哲",
+      "林一",
+      "张景暄"
+    ]
+  },
+  {
+    "id": "J25",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "不渡洛水",
+        "en": "Budu Luoshui"
+      }
+    },
+    "organization": "兰州大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "马俊"
+    ],
+    "members": [
+      "朱靖祥",
+      "王浩翔",
+      "张鑫晖"
+    ]
+  },
+  {
+    "id": "J26",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "绮罗星距离",
+        "en": "KIRABOSHI DISTANCE"
+      }
+    },
+    "organization": "北京交通大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "黄华",
+      "许华婷"
+    ],
+    "members": [
+      "陈可致",
+      "李沛桐",
+      "廖致涵"
+    ]
+  },
+  {
+    "id": "J27",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "崇山栈影队",
+        "en": "chongshan stack shadow team"
+      }
+    },
+    "organization": "辽宁大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "曲大鹏"
+    ],
+    "members": [
+      "王珮宇",
+      "李京峰",
+      "彭程"
+    ]
+  },
+  {
+    "id": "J28",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "裂骨生花",
+        "en": "Splintered Rose"
+      }
+    },
+    "organization": "燕山大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "穆运峰"
+    ],
+    "members": [
+      "计凯喆",
+      "张宇航",
+      "黎睿涵"
+    ]
+  },
+  {
+    "id": "K01",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "人生南北多歧路",
+        "en": "Paths Diverge"
+      }
+    },
+    "organization": "河南牧业经济学院",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "郭永锋",
+      "杨娜"
+    ],
+    "members": [
+      "马润峰",
+      "何浩浩",
+      "张文博"
+    ]
+  },
+  {
+    "id": "K02",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "信仰是为了虚幻之人",
+        "en": "Faith is for the Transient People"
+      }
+    },
+    "organization": "安徽农业大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "涂立静"
+    ],
+    "members": [
+      "陈溪",
+      "杨皓宇",
+      "吴亦染"
+    ]
+  },
+  {
+    "id": "K03",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "我们常常追忆追忆",
+        "en": "We often reminisce, reminisce"
+      }
+    },
+    "organization": "辽宁省实验中学",
+    "group": [
+      "unofficial"
+    ],
+    "coaches": [
+      "周鹏"
+    ],
+    "members": [
+      "唐翎淞",
+      "王浩然",
+      "刘子铭"
+    ]
+  },
+  {
+    "id": "K04",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "网寄守门员",
+        "en": "NetSendGoalkeeper"
+      }
+    },
+    "organization": "河北大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "罗文劼"
+    ],
+    "members": [
+      "张雨涵",
+      "刘武岳",
+      "王浩然"
+    ]
+  },
+  {
+    "id": "K05",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "野狗能吃巧克力",
+        "en": "野狗能吃巧克力"
+      }
+    },
+    "organization": "四川大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "左劼",
+      "陈黎"
+    ],
+    "members": [
+      "白贤予",
+      "邓珈鑫",
+      "周钰皓"
+    ]
+  },
+  {
+    "id": "K06",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "铁铜将是",
+        "en": "CuTomorrow"
+      }
+    },
+    "organization": "湖南工业大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "邓晓军"
+    ],
+    "members": [
+      "许超俊",
+      "李佳琪",
+      "李宜旭"
+    ]
+  },
+  {
+    "id": "K07",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "你们说拟股喵喵是好女孩吗",
+        "en": "CAU_CiAllo University"
+      }
+    },
+    "organization": "中国农业大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "马钦"
+    ],
+    "members": [
+      "杨维昊",
+      "黎彧",
+      "刘俊辉"
+    ]
+  },
+  {
+    "id": "K08",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "没有眼泪的明天",
+        "en": "Tomorrow Without Tears"
+      }
+    },
+    "organization": "国防科技大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "张元良"
+    ],
+    "members": [
+      "杨天鹏",
+      "张航耀",
+      "习逸晗"
+    ]
+  },
+  {
+    "id": "K09",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Auntitled",
+        "en": "Auntitled"
+      }
+    },
+    "organization": "中国海洋大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "刘培顺"
+    ],
+    "members": [
+      "李好",
+      "马子杰",
+      "马英硕"
+    ]
+  },
+  {
+    "id": "K10",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "运行时叛逆者",
+        "en": "Runtime Rebles"
+      }
+    },
+    "organization": "东北师范大学附属中学",
+    "group": [
+      "unofficial"
+    ],
+    "coaches": [
+      "王晓光"
+    ],
+    "members": [
+      "朱禹臣",
+      "汤子硕",
+      "裴冠勋"
+    ]
+  },
+  {
+    "id": "K11",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "希浮之翼",
+        "en": "WAngelion: Wings of theve"
+      }
+    },
+    "organization": "重庆移通学院",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "唐文春"
+    ],
+    "members": [
+      "李德立",
+      "李懋平一",
+      "王忠炫"
+    ]
+  },
+  {
+    "id": "K12",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "鎏彩猫猫头",
+        "en": "bwl under table submit dont know ac/wa"
+      }
+    },
+    "organization": "南京理工大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "余立功"
+    ],
+    "members": [
+      "吴可泓",
+      "高威",
+      "薄闻乐"
+    ]
+  },
+  {
+    "id": "K13",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "南方科技大学-Akureyri",
+        "en": "SUSTech-Akureyri"
+      }
+    },
+    "organization": "南方科技大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "唐博"
+    ],
+    "members": [
+      "黄思齐",
+      "郑凯锐",
+      "周千然"
+    ]
+  },
+  {
+    "id": "K14",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "花生可",
+        "en": "Hesker"
+      }
+    },
+    "organization": "信息工程大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "王婧",
+      "房礼国"
+    ],
+    "members": [
+      "黄颂凯",
+      "郑皓文",
+      "陈艺升"
+    ]
+  },
+  {
+    "id": "K15",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "疑悟队",
+        "en": "question_answer team"
+      }
+    },
+    "organization": "中国人民大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "孙辉"
+    ],
+    "members": [
+      "王品一",
+      "张立锐",
+      "冯思齐"
+    ]
+  },
+  {
+    "id": "K16",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "中二病也要打ACM",
+        "en": "Chuunibyo Wants ACM"
+      }
+    },
+    "organization": "齐齐哈尔大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "王硕"
+    ],
+    "members": [
+      "陈博",
+      "郭继远",
+      "马新城"
+    ]
+  },
+  {
+    "id": "K17",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "因未打到名额，南蛮败犬转生闪击长春",
+        "en": "if（WA） AC；else AC；"
+      }
+    },
+    "organization": "福州外语外贸学院",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "王磊"
+    ],
+    "members": [
+      "林远浩",
+      "蔡文曦",
+      "吴思远"
+    ]
+  },
+  {
+    "id": "K18",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "江盼流星雨",
+        "en": "ZENITH"
+      }
+    },
+    "organization": "齐鲁工业大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "鹿文鹏"
+    ],
+    "members": [
+      "廉昌业",
+      "郑天烁",
+      "陈安昕"
+    ]
+  },
+  {
+    "id": "K19",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "懒得起名字",
+        "en": "Name not found"
+      }
+    },
+    "organization": "青岛大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "张志梅"
+    ],
+    "members": [
+      "杨子航",
+      "冯子健",
+      "王毅翔"
+    ]
+  },
+  {
+    "id": "K20",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "队友说我起的队名太中二，所以我改了，嘻嘻",
+        "en": "bulingbuling"
+      }
+    },
+    "organization": "山东交通学院",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "梁浩",
+      "王春娟"
+    ],
+    "members": [
+      "贺世凌",
+      "贺杰",
+      "周晓童"
+    ]
+  },
+  {
+    "id": "K21",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "倚兰",
+        "en": "The Orchid Cultivators"
+      }
+    },
+    "organization": "吉林大学",
+    "group": [
+      "unofficial"
+    ],
+    "coaches": [
+      "吕帅"
+    ],
+    "members": [
+      "杨文轩",
+      "戴唐宸",
+      "冯奕涵"
+    ]
+  },
+  {
+    "id": "K22",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "讨厌字符串数论构造",
+        "en": "I hate string&math&construct"
+      }
+    },
+    "organization": "绍兴理工学院",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "唐晓平"
+    ],
+    "members": [
+      "陈佳俊",
+      "谢琳涵",
+      "胡凯淇"
+    ]
+  },
+  {
+    "id": "K23",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "队长说准备睡一下午觉，结果睡了一下午",
+        "en": "Our Captain Drink Big"
+      }
+    },
+    "organization": "南京师范大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "王琼"
+    ],
+    "members": [
+      "陈雅奇",
+      "汪恒",
+      "沈熙晨"
+    ]
+  },
+  {
+    "id": "K24",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "仅予你的晴天",
+        "en": "For You No WA"
+      }
+    },
+    "organization": "中国矿业大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "毕方明"
+    ],
+    "members": [
+      "晁荣卫",
+      "林昱达",
+      "何铭昊"
+    ]
+  },
+  {
+    "id": "K25",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "偏差认知了",
+        "en": "Focus  Lost"
+      }
+    },
+    "organization": "浙大城市学院",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "柯海丰"
+    ],
+    "members": [
+      "张永乐",
+      "章敏涛",
+      "胡译涵"
+    ]
+  },
+  {
+    "id": "K26",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "重生归来之我带着动物朋友们躺赢",
+        "en": "Rebirth"
+      }
+    },
+    "organization": "华中科技大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "何琨"
+    ],
+    "members": [
+      "臧业乾",
+      "蔡宜宸",
+      "刘书扬"
+    ]
+  },
+  {
+    "id": "K27",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "好想被CCPC打一辈子",
+        "en": "Beaten by CCPC Forever"
+      }
+    },
+    "organization": "郑州商学院",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "陈自源",
+      "陈阳"
+    ],
+    "members": [
+      "孟家轩",
+      "张昊宇",
+      "林睿军"
+    ]
+  },
+  {
+    "id": "K28",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "愿此行终抵繁星",
+        "en": "Infinity_progress"
+      }
+    },
+    "organization": "中央民族大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "孙娜"
+    ],
+    "members": [
+      "郭镒闻",
+      "马雨衡",
+      "陈柯文"
+    ]
+  },
+  {
+    "id": "L01",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "帽子戏法",
+        "en": "Hat Trick"
+      }
+    },
+    "organization": "复旦大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "孙未未"
+    ],
+    "members": [
+      "阚子淳",
+      "王瑞藻",
+      "朱翔宇"
+    ]
+  },
+  {
+    "id": "L02",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "超越时间之影",
+        "en": "The Shadow Out of Time"
+      }
+    },
+    "organization": "江西农业大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "李洪涛",
+      "钟表"
+    ],
+    "members": [
+      "肖海新",
+      "曾昭淦",
+      "姜雪峰"
+    ]
+  },
+  {
+    "id": "L03",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "微软大战代码2026",
+        "en": "Microsoft VS Code"
+      }
+    },
+    "organization": "南京大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "马骏"
+    ],
+    "members": [
+      "董朔",
+      "高杰铭",
+      "陈叶铭"
+    ]
+  },
+  {
+    "id": "L04",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "InfoCo天下第一",
+        "en": "#No.1 InfoCo"
+      }
+    },
+    "organization": "西交利物浦大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "靳小波"
+    ],
+    "members": [
+      "张曈",
+      "钱学豪",
+      "肖晴月"
+    ]
+  },
+  {
+    "id": "L05",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "九紫星",
+        "en": "Ninefold Violet Aura"
+      }
+    },
+    "organization": "华南理工大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "冼楚华"
+    ],
+    "members": [
+      "王烁云",
+      "徐烨辉",
+      "陆韦陶"
+    ]
+  },
+  {
+    "id": "L06",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "ZJUT5",
+        "en": "ZJUT5"
+      }
+    },
+    "organization": "浙江工业大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "侯向辉"
+    ],
+    "members": [
+      "陈弘毅",
+      "李明锋",
+      "劳正烨"
+    ]
+  },
+  {
+    "id": "L07",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "壹勺料汁",
+        "en": "Sauce"
+      }
+    },
+    "organization": "宁夏大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "宋丽娟"
+    ],
+    "members": [
+      "廖浩然",
+      "周敬业",
+      "黎中楠"
+    ]
+  },
+  {
+    "id": "L08",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "羽生萌萌香鱼子酱",
+        "en": "Momoka Caviar"
+      }
+    },
+    "organization": "上海科技大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "屠可伟"
+    ],
+    "members": [
+      "李承熙",
+      "黄扬铭",
+      "陶孜铖"
+    ]
+  },
+  {
+    "id": "L09",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "Sky",
+        "en": "Sky"
+      }
+    },
+    "organization": "哈尔滨工程大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "国林",
+      "王宇华"
+    ],
+    "members": [
+      "赵新凯",
+      "闫力仁",
+      "蒋子力"
+    ]
+  },
+  {
+    "id": "L10",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "吼啦干巴爹",
+        "en": "hora ganbatee"
+      }
+    },
+    "organization": "沈阳航空航天大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "郑志勇"
+    ],
+    "members": [
+      "王梓畅",
+      "王卫兵",
+      "高群尚"
+    ]
+  },
+  {
+    "id": "L11",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "中山大学-是啊，吃什么",
+        "en": "SYSU_Yes eat what"
+      }
+    },
+    "organization": "中山大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "张子臻",
+      "林瀚"
+    ],
+    "members": [
+      "万柏麟",
+      "陈达谦",
+      "曹奇嵘"
+    ]
+  },
+  {
+    "id": "L12",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "奶龙杀手",
+        "en": "NailongSlayer"
+      }
+    },
+    "organization": "上海大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "沈俊",
+      "陈圣波"
+    ],
+    "members": [
+      "张世逸",
+      "吴天宇",
+      "彭柏晔"
+    ]
+  },
+  {
+    "id": "L13",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "队长霸占机子,封榜后连A3题",
+        "en": "captain666"
+      }
+    },
+    "organization": "沈阳师范大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "毕婧"
+    ],
+    "members": [
+      "刘钧然",
+      "杜福君",
+      "左秉昕"
+    ]
+  },
+  {
+    "id": "L14",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "于离别之朝束起约定之花",
+        "en": "Morning Flower and Evening Oath"
+      }
+    },
+    "organization": "同济大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "叶晨"
+    ],
+    "members": [
+      "高胜寒",
+      "靳嘉成",
+      "刘诗奇"
+    ]
+  },
+  {
+    "id": "L15",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "我的青春acm物语果然没问题",
+        "en": "My ACM Youth Story Is No Problem"
+      }
+    },
+    "organization": "吉林师范大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "白文秀"
+    ],
+    "members": [
+      "王康宇",
+      "陈志欢",
+      "丛榕"
+    ]
+  },
+  {
+    "id": "L16",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "花开之夜",
+        "en": "As the night's, reincarnation"
+      }
+    },
+    "organization": "济南大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "蒋彦",
+      "范雪"
+    ],
+    "members": [
+      "肖远志",
+      "丁浩宇",
+      "程明达"
+    ]
+  },
+  {
+    "id": "L17",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "打表数学线段树三仙人",
+        "en": "O.o o.O O.o"
+      }
+    },
+    "organization": "暨南大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "周德华",
+      "蔡秋雯"
+    ],
+    "members": [
+      "康善硕",
+      "古家骏",
+      "何禹东"
+    ]
+  },
+  {
+    "id": "L18",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "组一辈子乐队",
+        "en": "gugaguga"
+      }
+    },
+    "organization": "中国科学院大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "刘慧"
+    ],
+    "members": [
+      "郑启昂",
+      "李睿欣",
+      "杨洋"
+    ]
+  },
+  {
+    "id": "L19",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "不要WAWA叫",
+        "en": "WAWA NONONO"
+      }
+    },
+    "organization": "佳木斯大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "常亮"
+    ],
+    "members": [
+      "杜志航",
+      "陈子昂",
+      "杨明瀚"
+    ]
+  },
+  {
+    "id": "L20",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "找一车牛来弄你",
+        "en": "Farmer John is coming"
+      }
+    },
+    "organization": "天津大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "喻梅"
+    ],
+    "members": [
+      "靳佳琦",
+      "曾瑞",
+      "段懿修"
+    ]
+  },
+  {
+    "id": "L21",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "三只蒟蒻牛",
+        "en": "go for it"
+      }
+    },
+    "organization": "西华大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "陈红红"
+    ],
+    "members": [
+      "吴岚轩",
+      "先江涛",
+      "郑颖"
+    ]
+  },
+  {
+    "id": "L22",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "玩玩原神就会了",
+        "en": "Powered by Genshin"
+      }
+    },
+    "organization": "山东大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "鹿旭东"
+    ],
+    "members": [
+      "孙崇越",
+      "罗仁浩",
+      "陶治铭"
+    ]
+  },
+  {
+    "id": "L23",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "无敌奶龙",
+        "en": "Invincible Nai Long"
+      }
+    },
+    "organization": "西南科技大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "杨春明",
+      "张嘉"
+    ],
+    "members": [
+      "李增睿",
+      "唐定远",
+      "杨兴伟"
+    ]
+  },
+  {
+    "id": "L24",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "逢魔时分",
+        "en": "Tasogare"
+      }
+    },
+    "organization": "新疆大学",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "刘浩然"
+    ],
+    "members": [
+      "张立",
+      "于文硕",
+      "刘宇轩"
+    ]
+  },
+  {
+    "id": "L25",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "最后留下的路标",
+        "en": "The Last Signpost"
+      }
+    },
+    "organization": "合肥工业大学宣城校区",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "吕俊伟"
+    ],
+    "members": [
+      "余杭润",
+      "敬佳宝",
+      "杨麒"
+    ]
+  },
+  {
+    "id": "L26",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "追忆",
+        "en": "Recall"
+      }
+    },
+    "organization": "吉林大学",
+    "group": [
+      "unofficial"
+    ],
+    "coaches": [
+      "吕帅"
+    ],
+    "members": [
+      "曾康睿",
+      "窄广昊",
+      "戴嘉浩"
+    ]
+  },
+  {
+    "id": "L27",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "云斗学院-星火燎原",
+        "en": "Yundou-Dawn"
+      }
+    },
+    "organization": "云斗教育科技有限公司",
+    "group": [
+      "unofficial"
+    ],
+    "coaches": [
+      "翟鹏昊"
+    ],
+    "members": [
+      "张润泽",
+      "杨潇",
+      "欧阳逸"
+    ]
+  },
+  {
+    "id": "L28",
+    "name": {
+      "fallback_lang": "zh-CN",
+      "texts": {
+        "zh-CN": "忆水合氨",
+        "en": "Ammonia"
+      }
+    },
+    "organization": "大连工程学院",
+    "group": [
+      "official"
+    ],
+    "coaches": [
+      "朱志刚"
+    ],
+    "members": [
+      "郑世凯",
+      "刘骐锋",
+      "闫屹伟"
+    ]
+  }
+]
